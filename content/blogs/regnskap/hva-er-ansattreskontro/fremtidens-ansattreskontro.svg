@@ -1,214 +1,67 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="futureGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blockchainGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="realtimeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#dc3545;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1"/><stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient><linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1"/><stop offset="100%" style="stop-color:#dc3545;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fremtidens Ansattreskontro - Nye Teknologier
-  </text>
-  
-
-  <circle cx="400" cy="300" r="100" fill="url(#futureGradient)" stroke="#6f42c1" stroke-width="3"/>
-  <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="300" r="100" fill="url(#b)" stroke="#6f42c1" stroke-width="3"/><text x="400" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FREMTIDENS
-  </text>
-  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><text x="400" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ANSATTRESKONTRO
-  </text>
-  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Intelligent og autonomt
-  </text>
-  
-
-  <g>
-    <rect x="80" y="80" width="200" height="100" fill="url(#aiGradient)" rx="15"/>
-    <text x="180" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="200" height="100" x="80" y="80" fill="url(#c)" rx="15"/><text x="180" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       🤖 Kunstig Intelligens
-    </text>
-    <text x="180" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="180" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Automatisk deteksjon av avvik og feil
-    </text>
-    <text x="180" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="180" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Prediktiv analyse av lønnskostnader
-    </text>
-    <text x="180" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="180" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Intelligent kategorisering av transaksjoner
-    </text>
-    <line x1="280" y1="130" x2="320" y2="230" stroke="#007bff" stroke-width="3" marker-end="url(#arrowBlue)"/>
-  </g>
-  
-
-  <g>
-    <rect x="520" y="80" width="200" height="100" fill="url(#blockchainGradient)" rx="15"/>
-    <text x="620" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><path stroke="#007bff" stroke-width="3" marker-end="url(#d)" d="m280 130 40 100"/><rect width="200" height="100" x="520" y="80" fill="url(#e)" rx="15"/><text x="620" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       ⛓️ Blockchain
-    </text>
-    <text x="620" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="620" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Sikker og transparent registrering
-    </text>
-    <text x="620" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="620" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Uforanderlige lønnsdata
-    </text>
-    <text x="620" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="620" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Smart contracts for automatisering
-    </text>
-    <line x1="520" y1="130" x2="480" y2="230" stroke="#28a745" stroke-width="3" marker-end="url(#arrowGreen)"/>
-  </g>
-  
-
-  <g>
-    <rect x="80" y="420" width="200" height="100" fill="url(#realtimeGradient)" rx="15"/>
-    <text x="180" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><path stroke="#28a745" stroke-width="3" marker-end="url(#f)" d="m520 130-40 100"/><rect width="200" height="100" x="80" y="420" fill="url(#g)" rx="15"/><text x="180" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       ⚡ Sanntidsrapportering
-    </text>
-    <text x="180" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="180" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Kontinuerlig oppdatering til myndigheter
-    </text>
-    <text x="180" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="180" y="490" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Øyeblikkelig compliance-sjekk
-    </text>
-    <text x="180" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="180" y="505" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Live dashboards for ledelsen
-    </text>
-    <line x1="280" y1="470" x2="320" y2="370" stroke="#fd7e14" stroke-width="3" marker-end="url(#arrowOrange)"/>
-  </g>
-  
-
-  <g>
-    <rect x="520" y="420" width="200" height="100" fill="#17a2b8" rx="15"/>
-    <text x="620" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><path stroke="#fd7e14" stroke-width="3" marker-end="url(#h)" d="m280 470 40-100"/><rect width="200" height="100" x="520" y="420" fill="#17a2b8" rx="15"/><text x="620" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       👤 Selvbetjening
-    </text>
-    <text x="620" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="620" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Ansatte kontrollerer egen lønnsdata
-    </text>
-    <text x="620" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="620" y="490" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Direkte oppdatering av personalia
-    </text>
-    <text x="620" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="620" y="505" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Automatisk feriepengeutbetaling
-    </text>
-    <line x1="520" y1="470" x2="480" y2="370" stroke="#17a2b8" stroke-width="3" marker-end="url(#arrowCyan)"/>
-  </g>
-  
-
-  <g>
-
-    <circle cx="200" cy="250" r="40" fill="#6c757d"/>
-    <text x="200" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    </text><path stroke="#17a2b8" stroke-width="3" marker-end="url(#i)" d="m520 470-40-100"/><circle cx="200" cy="250" r="40" fill="#6c757d"/><text x="200" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       IoT
-    </text>
-    <text x="200" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    </text><text x="200" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       Sensorer for
-    </text>
-    <text x="200" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    </text><text x="200" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       arbeidstid
-    </text>
-    <line x1="240" y1="250" x2="300" y2="280" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
-    
-
-    <circle cx="600" cy="250" r="40" fill="#ffc107"/>
-    <text x="600" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    </text><path stroke="#6c757d" stroke-dasharray="5,5" stroke-width="2" d="m240 250 60 30"/><circle cx="600" cy="250" r="40" fill="#ffc107"/><text x="600" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       🎤 Voice
-    </text>
-    <text x="600" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    </text><text x="600" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       Stemme-
-    </text>
-    <text x="600" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    </text><text x="600" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       kontroll
-    </text>
-    <line x1="560" y1="250" x2="500" y2="280" stroke="#ffc107" stroke-width="2" stroke-dasharray="5,5"/>
-    
-
-    <circle cx="200" cy="350" r="40" fill="#dc3545"/>
-    <text x="200" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    </text><path stroke="#ffc107" stroke-dasharray="5,5" stroke-width="2" d="m560 250-60 30"/><circle cx="200" cy="350" r="40" fill="#dc3545"/><text x="200" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       👆 Bio
-    </text>
-    <text x="200" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    </text><text x="200" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       Biometrisk
-    </text>
-    <text x="200" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    </text><text x="200" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       autentisering
-    </text>
-    <line x1="240" y1="350" x2="300" y2="320" stroke="#dc3545" stroke-width="2" stroke-dasharray="5,5"/>
-    
-
-    <circle cx="600" cy="350" r="40" fill="#6f42c1"/>
-    <text x="600" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    </text><path stroke="#dc3545" stroke-dasharray="5,5" stroke-width="2" d="m240 350 60-30"/><circle cx="600" cy="350" r="40" fill="#6f42c1"/><text x="600" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       🥽 AR/VR
-    </text>
-    <text x="600" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    </text><text x="600" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       Immersive
-    </text>
-    <text x="600" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    </text><text x="600" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       rapporter
-    </text>
-    <line x1="560" y1="350" x2="500" y2="320" stroke="#6f42c1" stroke-width="2" stroke-dasharray="5,5"/>
-  </g>
-  
-
-  <g>
-    <rect x="50" y="550" width="700" height="40" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
-    <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    </text><path stroke="#6f42c1" stroke-dasharray="5,5" stroke-width="2" d="m560 350-60-30"/><rect width="700" height="40" x="50" y="550" fill="#fff" stroke="#dee2e6" rx="5"/><text x="400" y="570" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Teknologi Tidslinje
-    </text>
-    
-
-    <circle cx="150" cy="575" r="3" fill="#28a745"/>
-    <text x="150" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6c757d">2024</text>
-    <text x="150" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6c757d">AI/ML</text>
-    
-    <circle cx="300" cy="575" r="3" fill="#007bff"/>
-    <text x="300" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6c757d">2026</text>
-    <text x="300" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6c757d">Blockchain</text>
-    
-    <circle cx="450" cy="575" r="3" fill="#fd7e14"/>
-    <text x="450" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6c757d">2028</text>
-    <text x="450" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6c757d">Sanntid</text>
-    
-    <circle cx="600" cy="575" r="3" fill="#6f42c1"/>
-    <text x="600" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6c757d">2030+</text>
-    <text x="600" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6c757d">Full autonomi</text>
-    
-    <line x1="150" y1="575" x2="600" y2="575" stroke="#dee2e6" stroke-width="2"/>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0,0 0,6 9,3" fill="#007bff"/>
-    </marker>
-    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0,0 0,6 9,3" fill="#28a745"/>
-    </marker>
-    <marker id="arrowOrange" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0,0 0,6 9,3" fill="#fd7e14"/>
-    </marker>
-    <marker id="arrowCyan" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0,0 0,6 9,3" fill="#17a2b8"/>
-    </marker>
-  </defs>
-</svg>
+    </text><circle cx="150" cy="575" r="3" fill="#28a745"/><text x="150" y="590" fill="#6c757d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">2024</text><text x="150" y="545" fill="#6c757d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">AI/ML</text><circle cx="300" cy="575" r="3" fill="#007bff"/><text x="300" y="590" fill="#6c757d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">2026</text><text x="300" y="545" fill="#6c757d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Blockchain</text><circle cx="450" cy="575" r="3" fill="#fd7e14"/><text x="450" y="590" fill="#6c757d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">2028</text><text x="450" y="545" fill="#6c757d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Sanntid</text><circle cx="600" cy="575" r="3" fill="#6f42c1"/><text x="600" y="590" fill="#6c757d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">2030+</text><text x="600" y="545" fill="#6c757d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Full autonomi</text><path stroke="#dee2e6" stroke-width="2" d="M150 575h450"/><defs><marker id="d" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#007bff" d="M0 0v6l9-3z"/></marker><marker id="f" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#28a745" d="M0 0v6l9-3z"/></marker><marker id="h" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#fd7e14" d="M0 0v6l9-3z"/></marker><marker id="i" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#17a2b8" d="M0 0v6l9-3z"/></marker></defs></svg>

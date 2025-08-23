@@ -1,110 +1,37 @@
-<svg width="700" height="450" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="450" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="450"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h700v450H0z"/><text x="350" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Beregning av Fritaksmetoden
-  </text>
-  
-
-  <rect x="50" y="60" width="600" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-  <text x="350" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
+  </text><rect width="600" height="80" x="50" y="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/><text x="350" y="85" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Eksempel: AS Investor mottar 1 000 000 kr i utbytte
-  </text>
-  <text x="350" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1976d2">
+  </text><text x="350" y="105" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Eierandel: 15% | Eiertid: 4 år | Forretningsmessig begrunnelse: ✓
-  </text>
-  <text x="350" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976d2">
+  </text><text x="350" y="125" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Alle vilkår for fritaksmetoden er oppfylt
-  </text>
-  
-
-  <rect x="250" y="170" width="200" height="50" fill="#6c757d" stroke="#495057" stroke-width="2" rx="5"/>
-  <text x="350" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="200" height="50" x="250" y="170" fill="#6c757d" stroke="#495057" stroke-width="2" rx="5"/><text x="350" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Totalt Utbytte
-  </text>
-  <text x="350" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="350" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     1 000 000 kr
-  </text>
-  
-
-  <path d="M 300 220 L 150 280" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 400 220 L 550 280" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="50" y="280" width="200" height="80" fill="url(#greenGradient)" rx="10"/>
-  <text x="150" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#b)" d="m300 220-150 60"/><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#b)" d="m400 220 150 60"/><rect width="200" height="80" x="50" y="280" fill="url(#c)" rx="10"/><text x="150" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Skattefri del
-  </text>
-  <text x="150" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="150" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     97% av utbytte
-  </text>
-  <text x="150" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="150" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     970 000 kr
-  </text>
-  
-
-  <rect x="450" y="280" width="200" height="80" fill="url(#redGradient)" rx="10"/>
-  <text x="550" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="200" height="80" x="450" y="280" fill="url(#d)" rx="10"/><text x="550" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Skattepliktig del
-  </text>
-  <text x="550" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="550" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     3% av utbytte
-  </text>
-  <text x="550" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="550" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     30 000 kr
-  </text>
-  
-
-  <rect x="450" y="380" width="200" height="50" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
-  <text x="550" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+  </text><rect width="200" height="50" x="450" y="380" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/><text x="550" y="400" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Skatt å betale
-  </text>
-  <text x="550" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+  </text><text x="550" y="415" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     30 000 kr × 22% =
-  </text>
-  <text x="550" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#856404">
+  </text><text x="550" y="425" fill="#856404" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     6 600 kr
-  </text>
-  
-
-  <path d="M 550 360 L 550 380" stroke="#dc3545" stroke-width="2" fill="none" marker-end="url(#arrowhead2)"/>
-  
-
-  <rect x="50" y="380" width="350" height="50" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
-  <text x="225" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
+  </text><path fill="none" stroke="#dc3545" stroke-width="2" marker-end="url(#e)" d="M550 360v20"/><rect width="350" height="50" x="50" y="380" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/><text x="225" y="400" fill="#155724" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Effektiv skattesats: 0,66%
-  </text>
-  <text x="225" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+  </text><text x="225" y="415" fill="#155724" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (6 600 kr av 1 000 000 kr = 0,66%)
-  </text>
-  <text x="225" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="225" y="425" fill="#155724" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Sammenlign med 22% uten fritaksmetoden!
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#dc3545" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

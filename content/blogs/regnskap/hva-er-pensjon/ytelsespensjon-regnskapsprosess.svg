@@ -1,160 +1,65 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Ytelsespensjon - Regnskapsprosess og Komponenter
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="60" fill="#e74c3c" opacity="0.9" rx="8"/>
-  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="60" x="50" y="60" fill="#e74c3c" opacity=".9" rx="8"/><text x="400" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     AKTUARBEREGNING
-  </text>
-  <text x="150" y="105" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="150" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Demografiske forutsetninger (dødelighet, utgangsalder)
-  </text>
-  <text x="450" y="105" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="450" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Økonomiske forutsetninger (lønnsvekst, inflasjon, diskontering)
-  </text>
-  
-
-
-  <rect x="50" y="150" width="200" height="120" fill="#3498db" opacity="0.9" rx="8"/>
-  <text x="150" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="200" height="120" x="50" y="150" fill="#3498db" opacity=".9" rx="8"/><text x="150" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     PENSJONSFORPLIKTELSE
-  </text>
-  <text x="150" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="150" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (Brutto PBO)
-  </text>
-  
-  <text x="70" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="70" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Nåverdi av fremtidige utbetalinger
-  </text>
-  <text x="70" y="235" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="70" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Basert på opptjente rettigheter
-  </text>
-  <text x="70" y="250" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="70" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Diskontert med obligasjonsrente
-  </text>
-  
-
-  <circle cx="300" cy="210" r="15" fill="#34495e"/>
-  <rect x="295" y="207" width="10" height="3" fill="white"/>
-  
-
-  <rect x="350" y="150" width="200" height="120" fill="#27ae60" opacity="0.9" rx="8"/>
-  <text x="450" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="300" cy="210" r="15" fill="#34495e"/><path fill="#fff" d="M295 207h10v3h-10z"/><rect width="200" height="120" x="350" y="150" fill="#27ae60" opacity=".9" rx="8"/><text x="450" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     PENSJONSMIDLER
-  </text>
-  <text x="450" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="450" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (Plan Assets)
-  </text>
-  
-  <text x="370" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="370" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Markedsverdi av fond/investeringer
-  </text>
-  <text x="370" y="235" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="370" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Tidligere innbetalte premier
-  </text>
-  <text x="370" y="250" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="370" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Akkumulert avkastning
-  </text>
-  
-
-  <rect x="595" y="205" width="8" height="3" fill="#34495e"/>
-  <rect x="595" y="212" width="8" height="3" fill="#34495e"/>
-  
-
-  <rect x="630" y="150" width="140" height="120" fill="#f39c12" opacity="0.9" rx="8"/>
-  <text x="700" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><path fill="#34495e" d="M595 205h8v3h-8zM595 212h8v3h-8z"/><rect width="140" height="120" x="630" y="150" fill="#f39c12" opacity=".9" rx="8"/><text x="700" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     NETTO
-  </text>
-  <text x="700" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="700" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FORPLIKTELSE
-  </text>
-  
-  <text x="650" y="220" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="650" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Vises i balansen
-  </text>
-  <text x="650" y="235" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="650" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Under langsiktig gjeld
-  </text>
-  <text x="650" y="250" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="650" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Eller egenkapital hvis negativ
-  </text>
-  
-
-  <path d="M 700 280 L 700 320" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="100" y="330" width="600" height="140" fill="#9b59b6" opacity="0.9" rx="8"/>
-  <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><path stroke="#34495e" stroke-width="3" marker-end="url(#a)" d="M700 280v40"/><rect width="600" height="140" x="100" y="330" fill="#9b59b6" opacity=".9" rx="8"/><text x="400" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ÅRLIG PENSJONSKOSTNAD - KOMPONENTER
-  </text>
-  
-
-  <rect x="120" y="370" width="130" height="40" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="185" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><rect width="130" height="40" x="120" y="370" fill="rgba(255,255,255,0.2)" rx="3"/><text x="185" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Nåverdi tjenestekostnad
-  </text>
-  <text x="185" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="185" y="398" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Opptjening inneværende år
-  </text>
-  
-  <rect x="260" y="370" width="130" height="40" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="325" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><rect width="130" height="40" x="260" y="370" fill="rgba(255,255,255,0.2)" rx="3"/><text x="325" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Rentekostnad
-  </text>
-  <text x="325" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="325" y="398" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Tidseffekt på forpliktelse
-  </text>
-  
-  <rect x="400" y="370" width="130" height="40" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="465" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><rect width="130" height="40" x="400" y="370" fill="rgba(255,255,255,0.2)" rx="3"/><text x="465" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Forventet avkastning
-  </text>
-  <text x="465" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="465" y="398" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     På pensjonsmidler (-)
-  </text>
-  
-  <rect x="540" y="370" width="130" height="40" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="605" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><rect width="130" height="40" x="540" y="370" fill="rgba(255,255,255,0.2)" rx="3"/><text x="605" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Amortisering
-  </text>
-  <text x="605" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="605" y="398" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Av tidligere ikke resultatført
-  </text>
-  
-
-  <rect x="200" y="420" width="400" height="40" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="400" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+  </text><rect width="400" height="40" x="200" y="420" fill="rgba(255,255,255,0.2)" rx="3"/><text x="400" y="435" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     AKTUARMESSIGE GEVINSTER/TAP
-  </text>
-  <text x="400" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="400" y="448" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Avvik mellom forutsetninger og faktisk utvikling - behandles etter corridormetoden
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
-    </marker>
-  </defs>
-  
-
-  <path d="M 150 130 L 150 140" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <path d="M 450 130 L 450 140" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="30" y="280" width="100" height="20" fill="#34495e" opacity="0.7" rx="3"/>
-  <text x="80" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="10" refY="3.5"><path fill="#34495e" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke="#e74c3c" stroke-width="2" marker-end="url(#a)" d="M150 130v10"/><path stroke="#e74c3c" stroke-width="2" marker-end="url(#a)" d="M450 130v10"/><rect width="100" height="20" x="30" y="280" fill="#34495e" opacity=".7" rx="3"/><text x="80" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     BALANSE
-  </text>
-  
-  <rect x="670" y="280" width="100" height="20" fill="#34495e" opacity="0.7" rx="3"/>
-  <text x="720" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><rect width="100" height="20" x="670" y="280" fill="#34495e" opacity=".7" rx="3"/><text x="720" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     RESULTAT
-  </text>
-</svg>
+  </text></svg>

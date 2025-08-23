@@ -1,40 +1,7 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="50" y="100" width="700" height="200" fill="url(#mainGradient)" rx="20"/>
-  
-
-  <text x="400" y="180" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><rect width="700" height="200" x="50" y="100" fill="url(#b)" rx="20"/><text x="400" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle">
     Hva er Driftsinntekter?
-  </text>
-  
-
-  <text x="400" y="220" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="white" opacity="0.9">
+  </text><text x="400" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="20" opacity=".9" text-anchor="middle">
     Inntekter fra ordinær forretningsvirksomhet
-  </text>
-  
-
-  <circle cx="150" cy="150" r="30" fill="white" opacity="0.2"/>
-  <circle cx="650" cy="250" r="25" fill="white" opacity="0.2"/>
-  <circle cx="100" cy="250" r="20" fill="white" opacity="0.15"/>
-  <circle cx="700" cy="150" r="35" fill="white" opacity="0.15"/>
-  
-
-  <rect x="0" y="350" width="800" height="50" fill="#007bff" opacity="0.1"/>
-  <text x="400" y="375" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#495057">
+  </text><circle cx="150" cy="150" r="30" fill="#fff" opacity=".2"/><circle cx="650" cy="250" r="25" fill="#fff" opacity=".2"/><circle cx="100" cy="250" r="20" fill="#fff" opacity=".15"/><circle cx="700" cy="150" r="35" fill="#fff" opacity=".15"/><path fill="#007bff" d="M0 350h800v50H0z" opacity=".1"/><text x="400" y="375" fill="#495057" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Komplett guide til driftsinntekter i norsk regnskap
-  </text>
-</svg>
+  </text></svg>

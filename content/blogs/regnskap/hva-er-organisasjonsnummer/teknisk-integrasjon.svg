@@ -1,208 +1,71 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="systemGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="apiGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="validationGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#ffffff"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#047857;stop-opacity:1"/></linearGradient><linearGradient id="a" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/><stop offset="100%" style="stop-color:#d97706;stop-opacity:1"/></linearGradient></defs><path fill="#fff" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Teknisk Integrasjon av Organisasjonsnummer
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <rect x="0" y="0" width="200" height="80" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2" rx="10"/>
-    <text x="100" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><g transform="translate(50 70)"><rect width="200" height="80" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2" rx="10"/><text x="100" y="30" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Brukerinndata
-    </text>
-    <rect x="20" y="40" width="160" height="25" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" rx="3"/>
-    <text x="100" y="57" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    </text><rect width="160" height="25" x="20" y="40" fill="#fff" stroke="#cbd5e1" rx="3"/><text x="100" y="57" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       123456789
-    </text>
-  </g>
-  
-
-  <g transform="translate(300, 70)">
-    <rect x="0" y="0" width="200" height="150" fill="#fef3c7" stroke="#fbbf24" stroke-width="2" rx="10"/>
-    <rect x="10" y="10" width="180" height="30" fill="url(#validationGradient)" rx="5"/>
-    <text x="100" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text></g><g transform="translate(300 70)"><rect width="200" height="150" fill="#fef3c7" stroke="#fbbf24" stroke-width="2" rx="10"/><rect width="180" height="30" x="10" y="10" fill="url(#a)" rx="5"/><text x="100" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Validering
-    </text>
-    
-
-    <g transform="translate(20, 50)">
-      <circle cx="8" cy="8" r="4" fill="#f59e0b"/>
-      <text x="20" y="13" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><g transform="translate(20 50)"><circle cx="8" cy="8" r="4" fill="#f59e0b"/><text x="20" y="13" fill="#374151" font-family="Arial, sans-serif" font-size="11">
         1. Lengdesjekk (9 siffer)
-      </text>
-      
-      <circle cx="8" cy="28" r="4" fill="#f59e0b"/>
-      <text x="20" y="33" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+      </text><circle cx="8" cy="28" r="4" fill="#f59e0b"/><text x="20" y="33" fill="#374151" font-family="Arial, sans-serif" font-size="11">
         2. Kontrollsiffer (Mod 11)
-      </text>
-      
-      <circle cx="8" cy="48" r="4" fill="#f59e0b"/>
-      <text x="20" y="53" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+      </text><circle cx="8" cy="48" r="4" fill="#f59e0b"/><text x="20" y="53" fill="#374151" font-family="Arial, sans-serif" font-size="11">
         3. Format-validering
-      </text>
-      
-      <circle cx="8" cy="68" r="4" fill="#f59e0b"/>
-      <text x="20" y="73" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+      </text><circle cx="8" cy="68" r="4" fill="#f59e0b"/><text x="20" y="73" fill="#374151" font-family="Arial, sans-serif" font-size="11">
         4. Registeroppslag
-      </text>
-      
-
-      <rect x="0" y="85" width="160" height="25" fill="#ffffff" stroke="#f59e0b" stroke-width="1" rx="3"/>
-      <text x="80" y="102" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+      </text><rect width="160" height="25" y="85" fill="#fff" stroke="#f59e0b" rx="3"/><text x="80" y="102" fill="#059669" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         ✓ Gyldig organisasjonsnummer
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(550, 70)">
-    <rect x="0" y="0" width="200" height="150" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="2" rx="10"/>
-    <rect x="10" y="10" width="180" height="30" fill="url(#apiGradient)" rx="5"/>
-    <text x="100" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text></g></g><g transform="translate(550 70)"><rect width="200" height="150" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="2" rx="10"/><rect width="180" height="30" x="10" y="10" fill="url(#b)" rx="5"/><text x="100" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       API-oppslag
-    </text>
-    
-
-    <g transform="translate(20, 50)">
-      <text x="0" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><g font-family="Arial, sans-serif"><text y="15" fill="#1f2937" font-size="12" font-weight="bold" transform="translate(20 50)">
         Enhetsregisteret API:
-      </text>
-      <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text y="30" fill="#374151" font-size="10" transform="translate(20 50)">
         GET /enhetsregisteret/api/
-      </text>
-      <text x="0" y="42" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text y="42" fill="#374151" font-size="10" transform="translate(20 50)">
         enheter/123456789
-      </text>
-      
-      <text x="0" y="65" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      </text><text y="65" fill="#1f2937" font-size="12" font-weight="bold" transform="translate(20 50)">
         Returnerer:
-      </text>
-      <text x="0" y="80" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text y="80" fill="#374151" font-size="10" transform="translate(20 50)">
         • Navn og adresse
-      </text>
-      <text x="0" y="92" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text y="92" fill="#374151" font-size="10" transform="translate(20 50)">
         • Organisasjonsform
-      </text>
-      <text x="0" y="104" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text y="104" fill="#374151" font-size="10" transform="translate(20 50)">
         • Status og næringskoder
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(150, 250)">
-    <rect x="0" y="0" width="500" height="200" fill="#eff6ff" stroke="#bfdbfe" stroke-width="2" rx="10"/>
-    <rect x="10" y="10" width="480" height="30" fill="url(#systemGradient)" rx="5"/>
-    <text x="250" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      </text></g></g><g transform="translate(150 250)"><rect width="500" height="200" fill="#eff6ff" stroke="#bfdbfe" stroke-width="2" rx="10"/><rect width="480" height="30" x="10" y="10" fill="url(#c)" rx="5"/><text x="250" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Systemintegrasjon
-    </text>
-    
-
-    <g transform="translate(30, 60)">
-
-      <rect x="0" y="0" width="140" height="60" fill="#ffffff" stroke="#3b82f6" stroke-width="1" rx="5"/>
-      <text x="70" y="20" text-anchor="middle" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><g transform="translate(30 60)"><rect width="140" height="60" fill="#fff" stroke="#3b82f6" rx="5"/><text x="70" y="20" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         ERP-system
-      </text>
-      <text x="70" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="70" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         • Kunderegistrering
-      </text>
-      <text x="70" y="47" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="70" y="47" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         • Leverandørhåndtering
-      </text>
-      <text x="70" y="59" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="70" y="59" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         • Automatisk validering
-      </text>
-      
-
-      <rect x="160" y="0" width="140" height="60" fill="#ffffff" stroke="#3b82f6" stroke-width="1" rx="5"/>
-      <text x="230" y="20" text-anchor="middle" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      </text><rect width="140" height="60" x="160" fill="#fff" stroke="#3b82f6" rx="5"/><text x="230" y="20" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Regnskapssystem
-      </text>
-      <text x="230" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="230" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         • Bilagsføring
-      </text>
-      <text x="230" y="47" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="230" y="47" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         • Reskontro
-      </text>
-      <text x="230" y="59" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="230" y="59" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         • Rapportering
-      </text>
-      
-
-      <rect x="320" y="0" width="140" height="60" fill="#ffffff" stroke="#3b82f6" stroke-width="1" rx="5"/>
-      <text x="390" y="20" text-anchor="middle" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      </text><rect width="140" height="60" x="320" fill="#fff" stroke="#3b82f6" rx="5"/><text x="390" y="20" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         CRM-system
-      </text>
-      <text x="390" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="390" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         • Kundeidentifikasjon
-      </text>
-      <text x="390" y="47" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="390" y="47" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         • Kontaktinformasjon
-      </text>
-      <text x="390" y="59" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="390" y="59" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         • Salgsprosesser
-      </text>
-    </g>
-    
-
-    <g transform="translate(30, 140)">
-      <text x="0" y="0" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text></g><g font-family="Arial, sans-serif"><text fill="#1f2937" font-size="14" font-weight="bold" transform="translate(30 140)">
         Integrasjonsfordeler:
-      </text>
-      
-      <text x="0" y="20" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+      </text><text y="20" fill="#374151" font-size="11" transform="translate(30 140)">
         • Automatisk datakvalitetskontroll og validering av organisasjonsnummer
-      </text>
-      <text x="0" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+      </text><text y="35" fill="#374151" font-size="11" transform="translate(30 140)">
         • Sanntidsoppdatering av firmaopplysninger fra Enhetsregisteret
-      </text>
-      <text x="0" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+      </text><text y="50" fill="#374151" font-size="11" transform="translate(30 140)">
         • Redusert manuell datainnlegging og færre feil i systemene
-      </text>
-    </g>
-  </g>
-  
-
-  <g stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
-
-    <path d="M 250 110 L 300 110"/>
-
-    <path d="M 500 110 L 550 110"/>
-
-    <path d="M 650 220 L 650 250"/>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
-    </marker>
-  </defs>
-  
-
-  <g transform="translate(50, 470)">
-    <rect x="0" y="0" width="700" height="25" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" rx="5"/>
-    <text x="20" y="17" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      </text></g></g><g fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#d)"><path d="M250 110h50"/><path d="M500 110h50"/><path d="M650 220v30"/></g><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6b7280" d="m0 0 10 3.5L0 7z"/></marker></defs><g transform="translate(50 470)"><rect width="700" height="25" fill="#f8fafc" stroke="#e2e8f0" rx="5"/><text x="20" y="17" fill="#1f2937" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       💡 Best Practice: Implementer caching av API-oppslag og regelmessig synkronisering for optimal ytelse
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

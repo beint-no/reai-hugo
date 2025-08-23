@@ -1,171 +1,57 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1E40AF;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#F8FAFC"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1E293B">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e40af;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/><stop offset="100%" style="stop-color:#047857;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskapsrutiner for Stiftelser
-  </text>
-  
-
-  <circle cx="400" cy="150" r="60" fill="url(#blueGradient)"/>
-  <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
+  </text><circle cx="400" cy="150" r="60" fill="url(#a)"/><text x="400" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     STIFTELSE
-  </text>
-  <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">
+  </text><text x="400" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Regnskap
-  </text>
-  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">
+  </text><text x="400" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     System
-  </text>
-  
-
-  <rect x="150" y="50" width="160" height="60" fill="url(#greenGradient)" rx="8"/>
-  <text x="230" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
+  </text><rect width="160" height="60" x="150" y="50" fill="url(#b)" rx="8"/><text x="230" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Daglige Rutiner
-  </text>
-  <text x="230" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="230" y="88" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Løpende registrering
-  </text>
-  <text x="230" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="230" y="103" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     av transaksjoner
-  </text>
-  
-  <rect x="490" y="50" width="160" height="60" fill="url(#greenGradient)" rx="8"/>
-  <text x="570" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
+  </text><rect width="160" height="60" x="490" y="50" fill="url(#b)" rx="8"/><text x="570" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ukentlige Rutiner
-  </text>
-  <text x="570" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="570" y="88" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Oppfølging og
-  </text>
-  <text x="570" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="570" y="103" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     avstemminger
-  </text>
-  
-
-  <rect x="50" y="220" width="120" height="80" fill="#F59E0B" rx="8"/>
-  <text x="110" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF">
+  </text><rect width="120" height="80" x="50" y="220" fill="#f59e0b" rx="8"/><text x="110" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
     Månedlige
-  </text>
-  <text x="110" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF">
+  </text><text x="110" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
     Rutiner
-  </text>
-  <text x="110" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#FFFFFF">
+  </text><text x="110" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Rapporter
-  </text>
-  <text x="110" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#FFFFFF">
+  </text><text x="110" y="292" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     og analyser
-  </text>
-  
-  <rect x="630" y="220" width="120" height="80" fill="#8B5CF6" rx="8"/>
-  <text x="690" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF">
+  </text><rect width="120" height="80" x="630" y="220" fill="#8b5cf6" rx="8"/><text x="690" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
     Kvartalsvise
-  </text>
-  <text x="690" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF">
+  </text><text x="690" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
     Rutiner
-  </text>
-  <text x="690" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#FFFFFF">
+  </text><text x="690" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Mellomrapporter
-  </text>
-  <text x="690" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#FFFFFF">
+  </text><text x="690" y="292" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     til styre
-  </text>
-  
-
-  <rect x="320" y="250" width="160" height="60" fill="#EF4444" rx="8"/>
-  <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
+  </text><rect width="160" height="60" x="320" y="250" fill="#ef4444" rx="8"/><text x="400" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Årlige Rutiner
-  </text>
-  <text x="400" y="288" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="400" y="288" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Årsavslutning og
-  </text>
-  <text x="400" y="303" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="400" y="303" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     årsrapport
-  </text>
-  
-
-  <line x1="280" y1="110" x2="360" y2="130" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <line x1="520" y1="110" x2="440" y2="130" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <line x1="170" y1="240" x2="340" y2="180" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <line x1="630" y1="240" x2="460" y2="180" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <line x1="400" y1="210" x2="400" y2="250" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  
-
-  <rect x="50" y="330" width="180" height="100" fill="#FFFFFF" stroke="#10B981" stroke-width="2" rx="6"/>
-  <text x="140" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
+  </text><path stroke="#64748b" stroke-width="2" marker-end="url(#c)" d="m280 110 80 20"/><path stroke="#64748b" stroke-width="2" marker-end="url(#c)" d="m520 110-80 20"/><path stroke="#64748b" stroke-width="2" marker-end="url(#c)" d="m170 240 170-60"/><path stroke="#64748b" stroke-width="2" marker-end="url(#c)" d="m630 240-170-60"/><path stroke="#64748b" stroke-width="2" marker-end="url(#c)" d="M400 210v40"/><rect width="180" height="100" x="50" y="330" fill="#fff" stroke="#10b981" stroke-width="2" rx="6"/><text x="140" y="350" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Daglige Aktiviteter
-  </text>
-  <text x="60" y="370" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Registrering av donasjoner</text>
-  <text x="60" y="385" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Utbetalinger til formål</text>
-  <text x="60" y="400" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Løpende kostnader</text>
-  <text x="60" y="415" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Banktransaksjoner</text>
-  
-
-  <rect x="250" y="330" width="180" height="100" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2" rx="6"/>
-  <text x="340" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#D97706">
+  </text><text x="60" y="370" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Registrering av donasjoner</text><text x="60" y="385" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Utbetalinger til formål</text><text x="60" y="400" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Løpende kostnader</text><text x="60" y="415" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Banktransaksjoner</text><rect width="180" height="100" x="250" y="330" fill="#fff" stroke="#f59e0b" stroke-width="2" rx="6"/><text x="340" y="350" fill="#d97706" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Månedlige Aktiviteter
-  </text>
-  <text x="260" y="370" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Bankavstemming</text>
-  <text x="260" y="385" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Månedsrapport til styre</text>
-  <text x="260" y="400" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Budsjettoppfølging</text>
-  <text x="260" y="415" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Investeringsrapport</text>
-  
-
-  <rect x="450" y="330" width="180" height="100" fill="#FFFFFF" stroke="#8B5CF6" stroke-width="2" rx="6"/>
-  <text x="540" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#5B21B6">
+  </text><text x="260" y="370" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Bankavstemming</text><text x="260" y="385" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Månedsrapport til styre</text><text x="260" y="400" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Budsjettoppfølging</text><text x="260" y="415" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Investeringsrapport</text><rect width="180" height="100" x="450" y="330" fill="#fff" stroke="#8b5cf6" stroke-width="2" rx="6"/><text x="540" y="350" fill="#5b21b6" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kvartalsvise Aktiviteter
-  </text>
-  <text x="460" y="370" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Kvartalsrapport</text>
-  <text x="460" y="385" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Formålsrapportering</text>
-  <text x="460" y="400" font-family="Arial, sans-serif" font-size="10" fill="#374151">• KPI-analyse</text>
-  <text x="460" y="415" font-family="Arial, sans-serif" font-size="10" fill="#374151">• Prognoseoppdatering</text>
-  
-
-  <rect x="150" y="450" width="500" height="120" fill="#FFFFFF" stroke="#EF4444" stroke-width="2" rx="6"/>
-  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#DC2626">
+  </text><text x="460" y="370" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Kvartalsrapport</text><text x="460" y="385" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Formålsrapportering</text><text x="460" y="400" fill="#374151" font-family="Arial, sans-serif" font-size="10">• KPI-analyse</text><text x="460" y="415" fill="#374151" font-family="Arial, sans-serif" font-size="10">• Prognoseoppdatering</text><rect width="500" height="120" x="150" y="450" fill="#fff" stroke="#ef4444" stroke-width="2" rx="6"/><text x="400" y="470" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Årlige Regnskapsaktiviteter
-  </text>
-  
-
-  <rect x="170" y="485" width="220" height="75" fill="#FEE2E2" stroke="#EF4444" stroke-width="1" rx="4"/>
-  <text x="280" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991B1B">
+  </text><rect width="220" height="75" x="170" y="485" fill="#fee2e2" stroke="#ef4444" rx="4"/><text x="280" y="505" fill="#991b1b" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Årsavslutning
-  </text>
-  <text x="180" y="520" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">• Avskrivninger og justeringer</text>
-  <text x="180" y="533" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">• Verdivurdering av investeringer</text>
-  <text x="180" y="546" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">• Avsetninger og periodisering</text>
-  
-  <rect x="410" y="485" width="220" height="75" fill="#FEE2E2" stroke="#EF4444" stroke-width="1" rx="4"/>
-  <text x="520" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991B1B">
+  </text><text x="180" y="520" fill="#991b1b" font-family="Arial, sans-serif" font-size="10">• Avskrivninger og justeringer</text><text x="180" y="533" fill="#991b1b" font-family="Arial, sans-serif" font-size="10">• Verdivurdering av investeringer</text><text x="180" y="546" fill="#991b1b" font-family="Arial, sans-serif" font-size="10">• Avsetninger og periodisering</text><rect width="220" height="75" x="410" y="485" fill="#fee2e2" stroke="#ef4444" rx="4"/><text x="520" y="505" fill="#991b1b" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Rapportering
-  </text>
-  <text x="420" y="520" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">• Årsregnskap og noter</text>
-  <text x="420" y="533" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">• Styrets årsberetning</text>
-  <text x="420" y="546" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">• Skattemelding og oppgaver</text>
-  
-
-  <rect x="100" y="580" width="600" height="15" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" rx="3"/>
-  <text x="400" y="592" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1E40AF">
+  </text><text x="420" y="520" fill="#991b1b" font-family="Arial, sans-serif" font-size="10">• Årsregnskap og noter</text><text x="420" y="533" fill="#991b1b" font-family="Arial, sans-serif" font-size="10">• Styrets årsberetning</text><text x="420" y="546" fill="#991b1b" font-family="Arial, sans-serif" font-size="10">• Skattemelding og oppgaver</text><rect width="600" height="15" x="100" y="580" fill="#eff6ff" stroke="#3b82f6" rx="3"/><text x="400" y="592" fill="#1e40af" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Nøkkelkontroller: Dokumentasjon • Formålsbruk • Interessekonflikter • Compliance
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="10" refY="3.5"><path fill="#64748b" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

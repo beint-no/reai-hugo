@@ -1,197 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
-  <defs>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#E3F2FD;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2196F3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#E8F5E8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4CAF50;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FFEBEE;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#F44336;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1"/><stop offset="100%" style="stop-color:#2196f3;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#4caf50;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffebee;stop-opacity:1"/><stop offset="100%" style="stop-color:#f44336;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Profittdrivere - Faktorer som Påvirker Lønnsomhet
-  </text>
-  
-
-  <circle cx="400" cy="200" r="70" fill="url(#blueGradient)" stroke="#1565C0" stroke-width="3"/>
-  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="200" r="70" fill="url(#a)" stroke="#1565c0" stroke-width="3"/><text x="400" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     PROFITT
-  </text>
-  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Inntekter - Kostnader
-  </text>
-  
-
-  <rect x="50" y="50" width="250" height="300" rx="15" fill="url(#greenGradient)" stroke="#4CAF50" stroke-width="2"/>
-  <text x="175" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="250" height="300" x="50" y="50" fill="url(#b)" stroke="#4caf50" stroke-width="2" rx="15"/><text x="175" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     INNTEKTSSIDE
-  </text>
-  <text x="175" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="175" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Verdiskaping
-  </text>
-  
-
-  <rect x="70" y="120" width="210" height="40" rx="8" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
-  <text x="80" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><rect width="210" height="40" x="70" y="120" fill="#c8e6c9" stroke="#4caf50" rx="8"/><text x="80" y="135" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Volum og Prissetting
-  </text>
-  <text x="80" y="150" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="80" y="150" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Salgsvolum basert på markedsetterspørsel
-  </text>
-  
-  <rect x="70" y="170" width="210" height="40" rx="8" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
-  <text x="80" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><rect width="210" height="40" x="70" y="170" fill="#c8e6c9" stroke="#4caf50" rx="8"/><text x="80" y="185" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Produktmiks
-  </text>
-  <text x="80" y="200" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="80" y="200" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Fokus på høymarginprodukter
-  </text>
-  
-  <rect x="70" y="220" width="210" height="40" rx="8" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
-  <text x="80" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><rect width="210" height="40" x="70" y="220" fill="#c8e6c9" stroke="#4caf50" rx="8"/><text x="80" y="235" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Markedsposisjon
-  </text>
-  <text x="80" y="250" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="80" y="250" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Konkurransefordeler og differensiering
-  </text>
-  
-  <rect x="70" y="270" width="210" height="40" rx="8" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
-  <text x="80" y="285" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><rect width="210" height="40" x="70" y="270" fill="#c8e6c9" stroke="#4caf50" rx="8"/><text x="80" y="285" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Krysssalg og Oppselging
-  </text>
-  <text x="80" y="300" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="80" y="300" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Øke verdi per kunde
-  </text>
-  
-
-  <rect x="500" y="50" width="250" height="300" rx="15" fill="url(#redGradient)" stroke="#F44336" stroke-width="2"/>
-  <text x="625" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="250" height="300" x="500" y="50" fill="url(#c)" stroke="#f44336" stroke-width="2" rx="15"/><text x="625" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     KOSTNADSSIDE
-  </text>
-  <text x="625" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="625" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Effektivitet
-  </text>
-  
-
-  <text x="520" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#C62828">
+  </text><text x="520" y="130" fill="#c62828" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Faste Kostnader:
-  </text>
-  
-  <rect x="520" y="140" width="210" height="30" rx="5" fill="#FFCDD2" stroke="#F44336" stroke-width="1"/>
-  <text x="530" y="155" font-family="Arial, sans-serif" font-size="11" fill="#C62828">
+  </text><rect width="210" height="30" x="520" y="140" fill="#ffcdd2" stroke="#f44336" rx="5"/><text x="530" y="155" fill="#c62828" font-family="Arial, sans-serif" font-size="11">
     Lønnskostnader (største post)
-  </text>
-  <text x="720" y="155" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#C62828">
+  </text><text x="720" y="155" fill="#c62828" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="end">
     2.5M
-  </text>
-  
-  <rect x="520" y="175" width="210" height="30" rx="5" fill="#FFCDD2" stroke="#F44336" stroke-width="1"/>
-  <text x="530" y="190" font-family="Arial, sans-serif" font-size="11" fill="#C62828">
+  </text><rect width="210" height="30" x="520" y="175" fill="#ffcdd2" stroke="#f44336" rx="5"/><text x="530" y="190" fill="#c62828" font-family="Arial, sans-serif" font-size="11">
     Husleie og fasiliteter
-  </text>
-  <text x="720" y="190" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#C62828">
+  </text><text x="720" y="190" fill="#c62828" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="end">
     600K
-  </text>
-  
-  <rect x="520" y="210" width="210" height="30" rx="5" fill="#FFCDD2" stroke="#F44336" stroke-width="1"/>
-  <text x="530" y="225" font-family="Arial, sans-serif" font-size="11" fill="#C62828">
+  </text><rect width="210" height="30" x="520" y="210" fill="#ffcdd2" stroke="#f44336" rx="5"/><text x="530" y="225" fill="#c62828" font-family="Arial, sans-serif" font-size="11">
     Avskrivninger
-  </text>
-  <text x="720" y="225" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#C62828">
+  </text><text x="720" y="225" fill="#c62828" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="end">
     400K
-  </text>
-  
-
-  <text x="520" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#C62828">
+  </text><text x="520" y="260" fill="#c62828" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Variable Kostnader:
-  </text>
-  
-  <rect x="520" y="270" width="210" height="30" rx="5" fill="#FFCDD2" stroke="#F44336" stroke-width="1"/>
-  <text x="530" y="285" font-family="Arial, sans-serif" font-size="11" fill="#C62828">
+  </text><rect width="210" height="30" x="520" y="270" fill="#ffcdd2" stroke="#f44336" rx="5"/><text x="530" y="285" fill="#c62828" font-family="Arial, sans-serif" font-size="11">
     Varekostnad (følger salg)
-  </text>
-  <text x="720" y="285" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#C62828">
+  </text><text x="720" y="285" fill="#c62828" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="end">
     3M
-  </text>
-  
-  <rect x="520" y="305" width="210" height="30" rx="5" fill="#FFCDD2" stroke="#F44336" stroke-width="1"/>
-  <text x="530" y="320" font-family="Arial, sans-serif" font-size="11" fill="#C62828">
+  </text><rect width="210" height="30" x="520" y="305" fill="#ffcdd2" stroke="#f44336" rx="5"/><text x="530" y="320" fill="#c62828" font-family="Arial, sans-serif" font-size="11">
     Salgs- og markedsføring
-  </text>
-  <text x="720" y="320" text-anchor="end" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#C62828">
+  </text><text x="720" y="320" fill="#c62828" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="end">
     800K
-  </text>
-  
-
-  <path d="M320 200 L360 200" stroke="#4CAF50" stroke-width="3" marker-end="url(#greenArrow)"/>
-  <path d="M480 200 L440 200" stroke="#F44336" stroke-width="3" marker-end="url(#redArrow)"/>
-  
-
-  <defs>
-    <marker id="greenArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#4CAF50"/>
-    </marker>
-    <marker id="redArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#F44336"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="100" y="380" width="600" height="180" rx="15" fill="#f0f8ff" stroke="#4169E1" stroke-width="2"/>
-  <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4169E1">
+  </text><path stroke="#4caf50" stroke-width="3" marker-end="url(#d)" d="M320 200h40"/><path stroke="#f44336" stroke-width="3" marker-end="url(#e)" d="M480 200h-40"/><defs><marker id="d" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="8" refY="3"><path fill="#4caf50" d="M0 0v6l9-3z"/></marker><marker id="e" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="8" refY="3"><path fill="#f44336" d="M0 0v6l9-3z"/></marker></defs><rect width="600" height="180" x="100" y="380" fill="#f0f8ff" stroke="#4169e1" stroke-width="2" rx="15"/><text x="400" y="405" fill="#4169e1" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Operasjonell Leverage - Påvirkning på Profitt
-  </text>
-  
-
-  <text x="120" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><text x="120" y="430" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Høy operasjonell leverage (mange faste kostnader):
-  </text>
-  <text x="140" y="450" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="140" y="450" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • 10% økning i salg → 25% økning i profitt
-  </text>
-  <text x="140" y="465" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="140" y="465" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • 10% reduksjon i salg → 25% reduksjon i profitt
-  </text>
-  <text x="140" y="480" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">
+  </text><text x="140" y="480" fill="#e74c3c" font-family="Arial, sans-serif" font-size="11">
     • Høy risiko, men også høy oppsidepotensial
-  </text>
-  
-
-  <rect x="450" y="425" width="230" height="80" rx="8" fill="#fff5f5" stroke="#F44336" stroke-width="1"/>
-  <text x="565" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#C62828">
+  </text><rect width="230" height="80" x="450" y="425" fill="#fff5f5" stroke="#f44336" rx="8"/><text x="565" y="445" fill="#c62828" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Eksempel: 10% salgsøkning
-  </text>
-  <text x="460" y="460" font-family="Arial, sans-serif" font-size="10" fill="#C62828">
+  </text><text x="460" y="460" fill="#c62828" font-family="Arial, sans-serif" font-size="10">
     Salg: 10.000.000 → 11.000.000 (+1M)
-  </text>
-  <text x="460" y="475" font-family="Arial, sans-serif" font-size="10" fill="#C62828">
+  </text><text x="460" y="475" fill="#c62828" font-family="Arial, sans-serif" font-size="10">
     Variable kostnader øker: +300K
-  </text>
-  <text x="460" y="490" font-family="Arial, sans-serif" font-size="10" fill="#C62828">
+  </text><text x="460" y="490" fill="#c62828" font-family="Arial, sans-serif" font-size="10">
     Faste kostnader uendret: 0
-  </text>
-  <text x="460" y="505" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#C62828">
+  </text><text x="460" y="505" fill="#c62828" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Ekstra profitt: 700K (+35% profittøkning!)
-  </text>
-  
-
-  <text x="120" y="530" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><text x="120" y="530" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Strategiske anbefalinger for profittoptimalisering:
-  </text>
-  <text x="140" y="545" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="140" y="545" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     ✓ Fokuser på høymarginprodukter og -tjenester
-  </text>
-  <text x="440" y="545" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="440" y="545" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     ✓ Automatiser for å redusere variable kostnader
-  </text>
-</svg>
+  </text></svg>

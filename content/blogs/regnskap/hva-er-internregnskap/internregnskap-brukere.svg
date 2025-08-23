@@ -1,145 +1,53 @@
-<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="350" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h700v500H0z"/><text x="350" y="40" fill="#06c" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Internregnskapets Brukere
-  </text>
-  
-
-  <circle cx="350" cy="250" r="80" fill="#0066cc" stroke="#004499" stroke-width="3"/>
-  <text x="350" y="240" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="350" cy="250" r="80" fill="#06c" stroke="#049" stroke-width="3"/><text x="350" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Internregnskap
-  </text>
-  <text x="350" y="260" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+  </text><text x="350" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     System
-  </text>
-  
-
-  <g transform="translate(350, 100)">
-    <circle cx="0" cy="0" r="50" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-    <text x="0" y="-10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(350 100)"><circle r="50" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Toppledelse
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Strategiske
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       beslutninger
-    </text>
-
-    <path d="M 0 50 L 0 90" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(150, 200)">
-    <circle cx="0" cy="0" r="45" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
-    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#b)" d="M0 50v40"/></g><g transform="translate(150 200)"><circle r="45" fill="#dc3545" stroke="#c82333" stroke-width="2"/><text y="-5" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
       Avdelings-
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
       ledere
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Operasjonell
-    </text>
-
-    <path d="M 45 0 L 125 0" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(550, 200)">
-    <circle cx="0" cy="0" r="45" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
-    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#b)" d="M45 0h80"/></g><g transform="translate(550 200)"><circle r="45" fill="#dc3545" stroke="#c82333" stroke-width="2"/><text y="-5" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
       Prosjekt-
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
       ledere
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Prosjektstyring
-    </text>
-
-    <path d="M -45 0 L -125 0" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(200, 350)">
-    <circle cx="0" cy="0" r="45" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
-    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="black">
+    </text><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#b)" d="M-45 0h-80"/></g><g transform="translate(200 350)"><circle r="45" fill="#ffc107" stroke="#e0a800" stroke-width="2"/><text y="-5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
       Økonomi-
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="black">
+    </text><text y="10" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
       ansvarlig
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="black">
+    </text><text y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Analyse &amp; kontroll
-    </text>
-
-    <path d="M 32 -32 L 118 -68" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(500, 350)">
-    <circle cx="0" cy="0" r="45" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
-    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#b)" d="m32-32 86-36"/></g><g transform="translate(500 350)"><circle r="45" fill="#17a2b8" stroke="#138496" stroke-width="2"/><text y="-5" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
       Budsjett-
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
       ansvarlig
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Planlegging
-    </text>
-
-    <path d="M -32 -32 L -118 -68" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(350, 400)">
-    <circle cx="0" cy="0" r="40" fill="#6f42c1" stroke="#5a32a3" stroke-width="2"/>
-    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#b)" d="m-32-32-86-36"/></g><g transform="translate(350 400)"><circle r="40" fill="#6f42c1" stroke="#5a32a3" stroke-width="2"/><text y="-5" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Mellom-
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       ledelse
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Koordinering
-    </text>
-
-    <path d="M 0 -40 L 0 -70" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <text x="100" y="80" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#6c757d">
+    </text><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#b)" d="M0-40v-30"/></g><text x="100" y="80" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-style="italic">
     Strategisk informasjon
-  </text>
-  <text x="50" y="180" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#6c757d">
+  </text><text x="50" y="180" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-style="italic">
     Operasjonell data
-  </text>
-  <text x="520" y="180" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#6c757d">
+  </text><text x="520" y="180" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-style="italic">
     Prosjektdata
-  </text>
-  <text x="80" y="380" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#6c757d">
+  </text><text x="80" y="380" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-style="italic">
     Finansiell analyse
-  </text>
-  <text x="520" y="380" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#6c757d">
+  </text><text x="520" y="380" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-style="italic">
     Budsjettdata
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

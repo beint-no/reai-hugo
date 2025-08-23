@@ -1,244 +1,65 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="aiMainGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="mlGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="predictGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <rect x="0" y="0" width="800" height="50" fill="#1f2937"/>
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1"/><stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e40af;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/><stop offset="100%" style="stop-color:#059669;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><path fill="#1f2937" d="M0 0h800v50H0z"/><text x="400" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     AI og Prediktiv Analyse i Timeføringssystemer
-  </text>
-  
-
-  <circle cx="400" cy="200" r="80" fill="url(#aiMainGrad)" stroke="#374151" stroke-width="3"/>
-  <circle cx="400" cy="200" r="60" fill="rgba(255,255,255,0.1)"/>
-  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="200" r="80" fill="url(#a)" stroke="#374151" stroke-width="3"/><circle cx="400" cy="200" r="60" fill="rgba(255,255,255,0.1)"/><text x="400" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     AI Core
-  </text>
-  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="400" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Engine
-  </text>
-  
-
-  <circle cx="380" cy="170" r="3" fill="white"/>
-  <circle cx="420" cy="170" r="3" fill="white"/>
-  <circle cx="360" cy="200" r="3" fill="white"/>
-  <circle cx="440" cy="200" r="3" fill="white"/>
-  <circle cx="380" cy="230" r="3" fill="white"/>
-  <circle cx="420" cy="230" r="3" fill="white"/>
-  
-
-  <line x1="380" y1="170" x2="420" y2="170" stroke="white" stroke-width="1" opacity="0.5"/>
-  <line x1="360" y1="200" x2="440" y2="200" stroke="white" stroke-width="1" opacity="0.5"/>
-  <line x1="380" y1="230" x2="420" y2="230" stroke="white" stroke-width="1" opacity="0.5"/>
-  
-
-  <rect x="100" y="80" width="160" height="120" rx="10" fill="url(#mlGrad)" stroke="#374151" stroke-width="2"/>
-  <text x="180" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="380" cy="170" r="3" fill="#fff"/><circle cx="420" cy="170" r="3" fill="#fff"/><circle cx="360" cy="200" r="3" fill="#fff"/><circle cx="440" cy="200" r="3" fill="#fff"/><circle cx="380" cy="230" r="3" fill="#fff"/><circle cx="420" cy="230" r="3" fill="#fff"/><path stroke="#fff" d="M380 170h40M360 200h80M380 230h40" opacity=".5"/><rect width="160" height="120" x="100" y="80" fill="url(#b)" stroke="#374151" stroke-width="2" rx="10"/><text x="180" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Machine Learning
-  </text>
-  <text x="180" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><text x="180" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Modeller
-  </text>
-  
-  <rect x="120" y="145" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="130" y="156" font-family="Arial, sans-serif" font-size="10" fill="white">🧠 Klassifisering</text>
-  
-  <rect x="120" y="165" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="130" y="176" font-family="Arial, sans-serif" font-size="10" fill="white">📈 Regresjonsanalyse</text>
-  
-  <rect x="120" y="185" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="130" y="196" font-family="Arial, sans-serif" font-size="10" fill="white">🔍 Anomalideteksjon</text>
-  
-
-  <rect x="540" y="80" width="160" height="120" rx="10" fill="url(#mlGrad)" stroke="#374151" stroke-width="2"/>
-  <text x="620" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="120" height="18" x="120" y="145" fill="rgba(255,255,255,0.2)" rx="2"/><text x="130" y="156" fill="#fff" font-family="Arial, sans-serif" font-size="10">🧠 Klassifisering</text><rect width="120" height="18" x="120" y="165" fill="rgba(255,255,255,0.2)" rx="2"/><text x="130" y="176" fill="#fff" font-family="Arial, sans-serif" font-size="10">📈 Regresjonsanalyse</text><rect width="120" height="18" x="120" y="185" fill="rgba(255,255,255,0.2)" rx="2"/><text x="130" y="196" fill="#fff" font-family="Arial, sans-serif" font-size="10">🔍 Anomalideteksjon</text><rect width="160" height="120" x="540" y="80" fill="url(#b)" stroke="#374151" stroke-width="2" rx="10"/><text x="620" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Natural Language
-  </text>
-  <text x="620" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><text x="620" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Processing
-  </text>
-  
-  <rect x="560" y="145" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="570" y="156" font-family="Arial, sans-serif" font-size="10" fill="white">🗣️ Stemmekommandoer</text>
-  
-  <rect x="560" y="165" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="570" y="176" font-family="Arial, sans-serif" font-size="10" fill="white">📝 Tekstanalyse</text>
-  
-  <rect x="560" y="185" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="570" y="196" font-family="Arial, sans-serif" font-size="10" fill="white">🏷️ Auto-kategorisering</text>
-  
-
-  <rect x="100" y="320" width="160" height="120" rx="10" fill="url(#predictGrad)" stroke="#374151" stroke-width="2"/>
-  <text x="180" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="120" height="18" x="560" y="145" fill="rgba(255,255,255,0.2)" rx="2"/><text x="570" y="156" fill="#fff" font-family="Arial, sans-serif" font-size="10">🗣️ Stemmekommandoer</text><rect width="120" height="18" x="560" y="165" fill="rgba(255,255,255,0.2)" rx="2"/><text x="570" y="176" fill="#fff" font-family="Arial, sans-serif" font-size="10">📝 Tekstanalyse</text><rect width="120" height="18" x="560" y="185" fill="rgba(255,255,255,0.2)" rx="2"/><text x="570" y="196" fill="#fff" font-family="Arial, sans-serif" font-size="10">🏷️ Auto-kategorisering</text><rect width="160" height="120" x="100" y="320" fill="url(#c)" stroke="#374151" stroke-width="2" rx="10"/><text x="180" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Prediktiv Analyse
-  </text>
-  
-  <rect x="120" y="365" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="130" y="376" font-family="Arial, sans-serif" font-size="10" fill="white">📊 Kapasitetsprognose</text>
-  
-  <rect x="120" y="385" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="130" y="396" font-family="Arial, sans-serif" font-size="10" fill="white">💰 Kostnadsprognoser</text>
-  
-  <rect x="120" y="405" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="130" y="416" font-family="Arial, sans-serif" font-size="10" fill="white">🎯 Prosjektferdigstillelse</text>
-  
-
-  <rect x="540" y="320" width="160" height="120" rx="10" fill="url(#predictGrad)" stroke="#374151" stroke-width="2"/>
-  <text x="620" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="120" height="18" x="120" y="365" fill="rgba(255,255,255,0.2)" rx="2"/><text x="130" y="376" fill="#fff" font-family="Arial, sans-serif" font-size="10">📊 Kapasitetsprognose</text><rect width="120" height="18" x="120" y="385" fill="rgba(255,255,255,0.2)" rx="2"/><text x="130" y="396" fill="#fff" font-family="Arial, sans-serif" font-size="10">💰 Kostnadsprognoser</text><rect width="120" height="18" x="120" y="405" fill="rgba(255,255,255,0.2)" rx="2"/><text x="130" y="416" fill="#fff" font-family="Arial, sans-serif" font-size="10">🎯 Prosjektferdigstillelse</text><rect width="160" height="120" x="540" y="320" fill="url(#c)" stroke="#374151" stroke-width="2" rx="10"/><text x="620" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Intelligent
-  </text>
-  <text x="620" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><text x="620" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Automatisering
-  </text>
-  
-  <rect x="560" y="385" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="570" y="396" font-family="Arial, sans-serif" font-size="10" fill="white">⚡ Smart påminnelser</text>
-  
-  <rect x="560" y="405" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="570" y="416" font-family="Arial, sans-serif" font-size="10" fill="white">🔄 Auto-kategorisering</text>
-  
-  <rect x="560" y="425" width="120" height="18" rx="2" fill="rgba(255,255,255,0.2)"/>
-  <text x="570" y="436" font-family="Arial, sans-serif" font-size="10" fill="white">📋 Forslag til forbedring</text>
-  
-
-  <rect x="280" y="320" width="240" height="120" rx="8" fill="white" stroke="#d1d5db" stroke-width="2"/>
-  <rect x="280" y="320" width="240" height="30" rx="8" fill="#6366f1"/>
-  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="120" height="18" x="560" y="385" fill="rgba(255,255,255,0.2)" rx="2"/><text x="570" y="396" fill="#fff" font-family="Arial, sans-serif" font-size="10">⚡ Smart påminnelser</text><rect width="120" height="18" x="560" y="405" fill="rgba(255,255,255,0.2)" rx="2"/><text x="570" y="416" fill="#fff" font-family="Arial, sans-serif" font-size="10">🔄 Auto-kategorisering</text><rect width="120" height="18" x="560" y="425" fill="rgba(255,255,255,0.2)" rx="2"/><text x="570" y="436" fill="#fff" font-family="Arial, sans-serif" font-size="10">📋 Forslag til forbedring</text><rect width="240" height="120" x="280" y="320" fill="#fff" stroke="#d1d5db" stroke-width="2" rx="8"/><rect width="240" height="30" x="280" y="320" fill="#6366f1" rx="8"/><text x="400" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     AI-drevet Analysedashboard
-  </text>
-  
-
-  <rect x="300" y="360" width="90" height="35" rx="3" fill="#f0fdf4" stroke="#22c55e"/>
-  <text x="345" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#15803d">
+  </text><rect width="90" height="35" x="300" y="360" fill="#f0fdf4" stroke="#22c55e" rx="3"/><text x="345" y="375" fill="#15803d" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Effektivitet
-  </text>
-  <text x="345" y="388" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669">
+  </text><text x="345" y="388" fill="#059669" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     +12%
-  </text>
-  
-  <rect x="410" y="360" width="90" height="35" rx="3" fill="#fef3c7" stroke="#f59e0b"/>
-  <text x="455" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">
+  </text><rect width="90" height="35" x="410" y="360" fill="#fef3c7" stroke="#f59e0b" rx="3"/><text x="455" y="375" fill="#92400e" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Nøyaktighet
-  </text>
-  <text x="455" y="388" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f59e0b">
+  </text><text x="455" y="388" fill="#f59e0b" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     97.8%
-  </text>
-  
-  <rect x="300" y="405" width="200" height="25" rx="3" fill="#e0e7ff" stroke="#6366f1"/>
-  <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><rect width="200" height="25" x="300" y="405" fill="#e0e7ff" stroke="#6366f1" rx="3"/><text x="400" y="420" fill="#4338ca" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     🔮 Neste ukes estimat: 847 timer
-  </text>
-  
-
-  <rect x="50" y="480" width="700" height="100" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
-  <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
+  </text><rect width="700" height="100" x="50" y="480" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" rx="8"/><text x="400" y="505" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     AI Læringsprosess og Kontinuerlig Forbedring
-  </text>
-  
-
-  <rect x="80" y="520" width="120" height="50" rx="5" fill="white" stroke="#8b5cf6"/>
-  <text x="140" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7c3aed">
+  </text><rect width="120" height="50" x="80" y="520" fill="#fff" stroke="#8b5cf6" rx="5"/><text x="140" y="535" fill="#7c3aed" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Datainnsamling
-  </text>
-  <text x="140" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+  </text><text x="140" y="550" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Historiske timedata
-  </text>
-  <text x="140" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+  </text><text x="140" y="562" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Brukermønstre
-  </text>
-  
-  <rect x="220" y="520" width="120" height="50" rx="5" fill="white" stroke="#3b82f6"/>
-  <text x="280" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e40af">
+  </text><rect width="120" height="50" x="220" y="520" fill="#fff" stroke="#3b82f6" rx="5"/><text x="280" y="535" fill="#1e40af" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Modellopplæring
-  </text>
-  <text x="280" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+  </text><text x="280" y="550" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Algoritme-training
-  </text>
-  <text x="280" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+  </text><text x="280" y="562" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Feature engineering
-  </text>
-  
-  <rect x="360" y="520" width="120" height="50" rx="5" fill="white" stroke="#10b981"/>
-  <text x="420" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#059669">
+  </text><rect width="120" height="50" x="360" y="520" fill="#fff" stroke="#10b981" rx="5"/><text x="420" y="535" fill="#059669" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Validering
-  </text>
-  <text x="420" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+  </text><text x="420" y="550" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Testing av modeller
-  </text>
-  <text x="420" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+  </text><text x="420" y="562" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Nøyaktighetsmåling
-  </text>
-  
-  <rect x="500" y="520" width="120" height="50" rx="5" fill="white" stroke="#f59e0b"/>
-  <text x="560" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#d97706">
+  </text><rect width="120" height="50" x="500" y="520" fill="#fff" stroke="#f59e0b" rx="5"/><text x="560" y="535" fill="#d97706" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Implementering
-  </text>
-  <text x="560" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+  </text><text x="560" y="550" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Produksjonsdrift
-  </text>
-  <text x="560" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+  </text><text x="560" y="562" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Sanntidsanalyse
-  </text>
-  
-  <rect x="640" y="520" width="120" height="50" rx="5" fill="white" stroke="#ec4899"/>
-  <text x="700" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#be185d">
+  </text><rect width="120" height="50" x="640" y="520" fill="#fff" stroke="#ec4899" rx="5"/><text x="700" y="535" fill="#be185d" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Tilbakemelding
-  </text>
-  <text x="700" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+  </text><text x="700" y="550" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Brukerfeedback
-  </text>
-  <text x="700" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+  </text><text x="700" y="562" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Modelloptimalisering
-  </text>
-  
-
-  <path d="M 320 180 L 260 140" stroke="#8b5cf6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 480 180 L 540 140" stroke="#8b5cf6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 320 220 L 260 380" stroke="#8b5cf6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 480 220 L 540 380" stroke="#8b5cf6" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 400 320 L 400 280" stroke="#6366f1" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 200 545 L 220 545" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 340 545 L 360 545" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 480 545 L 500 545" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 620 545 L 640 545" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 700 520 Q 750 450 750 350 Q 750 250 700 200 Q 650 150 600 120" stroke="#ec4899" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <text x="80" y="70" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">📊 Historiske data</text>
-  <text x="200" y="70" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">👥 Brukermønstre</text>
-  <text x="560" y="70" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">🔮 Prediksjoner</text>
-  <text x="680" y="70" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">⚡ Automatisering</text>
-  
-
-  <text x="180" y="470" font-family="Arial, sans-serif" font-size="9" fill="#10b981">📈 Kontinuerlig læring</text>
-  <text x="400" y="470" font-family="Arial, sans-serif" font-size="9" fill="#3b82f6">🎯 Nøyaktig predikering</text>
-  <text x="620" y="470" font-family="Arial, sans-serif" font-size="9" fill="#8b5cf6">🚀 Intelligent automatisering</text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="currentColor"/>
-    </marker>
-  </defs>
-</svg>
+  </text><path fill="none" stroke="#8b5cf6" stroke-width="2" marker-end="url(#d)" d="m320 180-60-40"/><path fill="none" stroke="#8b5cf6" stroke-width="2" marker-end="url(#d)" d="m480 180 60-40"/><path fill="none" stroke="#8b5cf6" stroke-width="2" marker-end="url(#d)" d="m320 220-60 160"/><path fill="none" stroke="#8b5cf6" stroke-width="2" marker-end="url(#d)" d="m480 220 60 160"/><path fill="none" stroke="#6366f1" stroke-width="2" marker-end="url(#d)" d="M400 320v-40"/><path fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#d)" d="M200 545h20"/><path fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#d)" d="M340 545h20"/><path fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#d)" d="M480 545h20"/><path fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#d)" d="M620 545h20"/><path fill="none" stroke="#ec4899" stroke-dasharray="5,5" stroke-width="2" marker-end="url(#d)" d="M700 520q50-70 50-170t-50-150-100-80"/><text x="80" y="70" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">📊 Historiske data</text><text x="200" y="70" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">👥 Brukermønstre</text><text x="560" y="70" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">🔮 Prediksjoner</text><text x="680" y="70" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">⚡ Automatisering</text><text x="180" y="470" fill="#10b981" font-family="Arial, sans-serif" font-size="9">📈 Kontinuerlig læring</text><text x="400" y="470" fill="#3b82f6" font-family="Arial, sans-serif" font-size="9">🎯 Nøyaktig predikering</text><text x="620" y="470" fill="#8b5cf6" font-family="Arial, sans-serif" font-size="9">🚀 Intelligent automatisering</text><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="currentColor" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

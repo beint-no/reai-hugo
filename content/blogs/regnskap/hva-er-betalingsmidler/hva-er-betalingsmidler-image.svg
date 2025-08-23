@@ -1,67 +1,11 @@
-<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="400" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400"><path fill="#f8f9fa" d="M0 0h800v400H0z"/><text x="400" y="50" fill="#2c3e50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Hva er Betalingsmidler?
-  </text>
-  
-
-  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
+  </text><text x="400" y="80" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Tvungne, Elektroniske og Tradisjonelle Metoder
-  </text>
-  
-
-  <g transform="translate(150, 120)">
-    <rect x="0" y="20" width="100" height="60" rx="5" fill="#27ae60" stroke="#229954" stroke-width="2"/>
-    <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1000</text>
-    <text x="50" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">KRONER</text>
-    <text x="50" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Kontanter</text>
-    <text x="50" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Tvungne</text>
-  </g>
-  
-
-  <g transform="translate(350, 120)">
-    <rect x="0" y="20" width="100" height="60" rx="8" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
-    <rect x="10" y="35" width="80" height="8" fill="#ecf0f1"/>
-    <circle cx="75" cy="60" r="8" fill="#e74c3c"/>
-    <circle cx="75" cy="60" r="5" fill="#c0392b"/>
-    <text x="50" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Betalingskort</text>
-    <text x="50" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Elektroniske</text>
-  </g>
-  
-
-  <g transform="translate(550, 120)">
-    <rect x="20" y="10" width="60" height="100" rx="10" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
-    <rect x="25" y="20" width="50" height="70" fill="#ecf0f1"/>
-    <circle cx="50" cy="100" r="5" fill="#95a5a6"/>
-    <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">V</text>
-    <text x="50" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Vipps</text>
-    <text x="50" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Mobil</text>
-    <text x="50" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Elektroniske</text>
-  </g>
-  
-
-  <path d="M 250 150 Q 300 130 350 150" stroke="#bdc3c7" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 450 150 Q 500 130 550 150" stroke="#bdc3c7" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#bdc3c7"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="100" y="250" width="600" height="100" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><g transform="translate(150 120)"><rect width="100" height="60" y="20" fill="#27ae60" stroke="#229954" stroke-width="2" rx="5"/><text x="50" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">1000</text><text x="50" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">KRONER</text><text x="50" y="110" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Kontanter</text><text x="50" y="130" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Tvungne</text></g><g transform="translate(350 120)"><rect width="100" height="60" y="20" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/><path fill="#ecf0f1" d="M10 35h80v8H10z"/><circle cx="75" cy="60" r="8" fill="#e74c3c"/><circle cx="75" cy="60" r="5" fill="#c0392b"/><text x="50" y="110" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Betalingskort</text><text x="50" y="130" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Elektroniske</text></g><g transform="translate(550 120)"><rect width="60" height="100" x="20" y="10" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="10"/><path fill="#ecf0f1" d="M25 20h50v70H25z"/><circle cx="50" cy="100" r="5" fill="#95a5a6"/><text x="50" y="45" fill="#e74c3c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">V</text><text x="50" y="65" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Vipps</text><text x="50" y="140" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Mobil</text><text x="50" y="160" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Elektroniske</text></g><path fill="none" stroke="#bdc3c7" stroke-width="2" marker-end="url(#a)" d="M250 150q50-20 100 0"/><path fill="none" stroke="#bdc3c7" stroke-width="2" marker-end="url(#a)" d="M450 150q50-20 100 0"/><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#bdc3c7" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="600" height="100" x="100" y="250" fill="#ecf0f1" stroke="#bdc3c7" rx="10"/><text x="400" y="280" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Moderne Betalingslandskap
-  </text>
-  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
+  </text><text x="400" y="305" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Fra tradisjonelle kontanter til digitale løsninger
-  </text>
-  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+  </text><text x="400" y="325" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     AvtaleGiro • Bankgiro • eFaktura • Vipps • BankAxept
-  </text>
-</svg>
+  </text></svg>

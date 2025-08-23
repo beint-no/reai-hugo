@@ -1,12 +1,1 @@
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
-    </marker>
-  </defs>
-  <text x="10" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Midlertidig forskjell</text>
-  <line x1="150" y1="20" x2="250" y2="20" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <text x="255" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold">× Skattesats</text>
-  <line x1="365" y1="20" x2="465" y2="20" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <text x="470" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Utsatt skatt</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120"><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#333" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="10" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Midlertidig forskjell</text><path stroke="#333" stroke-width="2" marker-end="url(#a)" d="M150 20h100"/><text x="255" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold">× Skattesats</text><path stroke="#333" stroke-width="2" marker-end="url(#a)" d="M365 20h100"/><text x="470" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Utsatt skatt</text></svg>

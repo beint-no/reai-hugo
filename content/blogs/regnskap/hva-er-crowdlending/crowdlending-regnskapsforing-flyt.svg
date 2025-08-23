@@ -1,214 +1,95 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Crowdlending Regnskapsføring - Flytskjema
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e67e22">
+  </text><g transform="translate(50 80)"><text x="150" y="20" fill="#e67e22" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       LÅNTAKER (Bedrift)
-    </text>
-    
-
-    <rect x="20" y="40" width="260" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
-    <text x="150" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+    </text><rect width="260" height="80" x="20" y="40" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/><text x="150" y="60" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       1. Mottak av Lån
-    </text>
-    <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+    </text><text x="30" y="80" fill="#856404" font-family="Arial, sans-serif" font-size="11">
       Debet: Bank/Bankinnskudd    1.000.000
-    </text>
-    <text x="30" y="95" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+    </text><text x="30" y="95" fill="#856404" font-family="Arial, sans-serif" font-size="11">
       Kredit: Langsiktig gjeld    1.000.000
-    </text>
-    <text x="30" y="110" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="30" y="110" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       Regnskapseffekt: Økning i eiendeler og gjeld
-    </text>
-    
-
-    <rect x="20" y="140" width="260" height="80" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/>
-    <text x="150" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
+    </text><rect width="260" height="80" x="20" y="140" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/><text x="150" y="160" fill="#0c5460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2. Månedlig Rentebetaling
-    </text>
-    <text x="30" y="180" font-family="Arial, sans-serif" font-size="11" fill="#0c5460">
+    </text><text x="30" y="180" fill="#0c5460" font-family="Arial, sans-serif" font-size="11">
       Debet: Rentekostnad         6.667
-    </text>
-    <text x="30" y="195" font-family="Arial, sans-serif" font-size="11" fill="#0c5460">
+    </text><text x="30" y="195" fill="#0c5460" font-family="Arial, sans-serif" font-size="11">
       Kredit: Bank                6.667
-    </text>
-    <text x="30" y="210" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="30" y="210" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       (8% årlig rente = 80.000/12 måneder)
-    </text>
-    
-
-    <rect x="20" y="240" width="260" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/>
-    <text x="150" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
+    </text><rect width="260" height="80" x="20" y="240" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/><text x="150" y="260" fill="#155724" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       3. Avdragsbetaling
-    </text>
-    <text x="30" y="280" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+    </text><text x="30" y="280" fill="#155724" font-family="Arial, sans-serif" font-size="11">
       Debet: Langsiktig gjeld     200.000
-    </text>
-    <text x="30" y="295" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+    </text><text x="30" y="295" fill="#155724" font-family="Arial, sans-serif" font-size="11">
       Kredit: Bank                200.000
-    </text>
-    <text x="30" y="310" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="30" y="310" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       Årlig avdrag (1.000.000/5 år)
-    </text>
-    
-
-    <rect x="20" y="340" width="260" height="80" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
-    <text x="150" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
+    </text><rect width="260" height="80" x="20" y="340" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/><text x="150" y="360" fill="#721c24" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       4. Periodisering (Årsslutt)
-    </text>
-    <text x="30" y="380" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+    </text><text x="30" y="380" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
       Debet: Rentekostnad         X
-    </text>
-    <text x="30" y="395" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+    </text><text x="30" y="395" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
       Kredit: Påløpte kostnader   X
-    </text>
-    <text x="30" y="410" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="30" y="410" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       Periodisering av påløpte renter
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 80)">
-    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#007bff">
+    </text></g><g transform="translate(450 80)"><text x="150" y="20" fill="#007bff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       UTLÅNER (Investor)
-    </text>
-    
-
-    <rect x="20" y="40" width="260" height="80" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="10"/>
-    <text x="150" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+    </text><rect width="260" height="80" x="20" y="40" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="10"/><text x="150" y="60" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       1. Utlån av Kapital
-    </text>
-    <text x="30" y="80" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="30" y="80" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       Debet: Fordringer           1.000.000
-    </text>
-    <text x="30" y="95" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="30" y="95" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       Kredit: Bank                1.000.000
-    </text>
-    <text x="30" y="110" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="30" y="110" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       Klassifisering: Finansielle anleggsmidler
-    </text>
-    
-
-    <rect x="20" y="140" width="260" height="80" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/>
-    <text x="150" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
+    </text><rect width="260" height="80" x="20" y="140" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/><text x="150" y="160" fill="#0c5460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2. Renteinntekt
-    </text>
-    <text x="30" y="180" font-family="Arial, sans-serif" font-size="11" fill="#0c5460">
+    </text><text x="30" y="180" fill="#0c5460" font-family="Arial, sans-serif" font-size="11">
       Debet: Bank                 6.667
-    </text>
-    <text x="30" y="195" font-family="Arial, sans-serif" font-size="11" fill="#0c5460">
+    </text><text x="30" y="195" fill="#0c5460" font-family="Arial, sans-serif" font-size="11">
       Kredit: Renteinntekt        6.667
-    </text>
-    <text x="30" y="210" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="30" y="210" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       Månedlig renteinntekt
-    </text>
-    
-
-    <rect x="20" y="240" width="260" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/>
-    <text x="150" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
+    </text><rect width="260" height="80" x="20" y="240" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/><text x="150" y="260" fill="#155724" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       3. Avdragsmottak
-    </text>
-    <text x="30" y="280" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+    </text><text x="30" y="280" fill="#155724" font-family="Arial, sans-serif" font-size="11">
       Debet: Bank                 200.000
-    </text>
-    <text x="30" y="295" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+    </text><text x="30" y="295" fill="#155724" font-family="Arial, sans-serif" font-size="11">
       Kredit: Fordringer          200.000
-    </text>
-    <text x="30" y="310" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="30" y="310" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       Reduksjon av utestående fordring
-    </text>
-    
-
-    <rect x="20" y="340" width="260" height="80" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
-    <text x="150" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
+    </text><rect width="260" height="80" x="20" y="340" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/><text x="150" y="360" fill="#721c24" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       4. Tapsavsetning
-    </text>
-    <text x="30" y="380" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+    </text><text x="30" y="380" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
       Debet: Tap på fordringer    X
-    </text>
-    <text x="30" y="395" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+    </text><text x="30" y="395" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
       Kredit: Avsetning for tap   X
-    </text>
-    <text x="30" y="410" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="30" y="410" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       Basert på risikovurdering
-    </text>
-  </g>
-  
-
-  <g>
-
-    <path d="M 320 80 Q 400 60 480 80" stroke="#ffc107" stroke-width="4" fill="none" marker-end="url(#arrowlarge)"/>
-    <text x="400" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffc107">
+    </text></g><path fill="none" stroke="#ffc107" stroke-width="4" marker-end="url(#a)" d="M320 80q80-20 160 0"/><text x="400" y="55" fill="#ffc107" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Lån: 1.000.000 kr
-    </text>
-    
-
-    <path d="M 480 180 Q 400 160 320 180" stroke="#17a2b8" stroke-width="3" fill="none" marker-end="url(#arrowmedium)"/>
-    <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#17a2b8">
+    </text><path fill="none" stroke="#17a2b8" stroke-width="3" marker-end="url(#b)" d="M480 180q-80-20-160 0"/><text x="400" y="155" fill="#17a2b8" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Renter: 6.667 kr/mnd
-    </text>
-    
-
-    <path d="M 480 280 Q 400 260 320 280" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowmedium)"/>
-    <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#28a745">
+    </text><path fill="none" stroke="#28a745" stroke-width="3" marker-end="url(#b)" d="M480 280q-80-20-160 0"/><text x="400" y="255" fill="#28a745" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Avdrag: 200.000 kr/år
-    </text>
-  </g>
-  
-
-  <g transform="translate(100, 450)">
-    <rect x="0" y="0" width="600" height="120" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="10"/>
-    <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+    </text><g transform="translate(100 450)"><rect width="600" height="120" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="300" y="25" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Balansepåvirkning
-    </text>
-    
-
-    <g transform="translate(50, 40)">
-      <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e67e22">
+    </text><g font-family="Arial, sans-serif"><text x="100" y="15" fill="#e67e22" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 40)">
         Låntaker
-      </text>
-      <text x="20" y="35" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="20" y="35" fill="#495057" font-size="11" transform="translate(50 40)">
         Eiendeler: +1.000.000 (Bank)
-      </text>
-      <text x="20" y="50" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="20" y="50" fill="#495057" font-size="11" transform="translate(50 40)">
         Gjeld: +1.000.000 (Langsiktig gjeld)
-      </text>
-      <text x="20" y="65" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="20" y="65" fill="#495057" font-size="11" transform="translate(50 40)">
         Resultat: -Rentekostnader (løpende)
-      </text>
-    </g>
-    
-
-    <g transform="translate(350, 40)">
-      <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">
+      </text></g><g font-family="Arial, sans-serif"><text x="100" y="15" fill="#007bff" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(350 40)">
         Utlåner
-      </text>
-      <text x="20" y="35" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="20" y="35" fill="#495057" font-size="11" transform="translate(350 40)">
         Eiendeler: +1.000.000 (Fordringer)
-      </text>
-      <text x="20" y="50" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="20" y="50" fill="#495057" font-size="11" transform="translate(350 40)">
         Eiendeler: -1.000.000 (Bank)
-      </text>
-      <text x="20" y="65" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="20" y="65" fill="#495057" font-size="11" transform="translate(350 40)">
         Resultat: +Renteinntekter (løpende)
-      </text>
-    </g>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowlarge" markerWidth="12" markerHeight="12" refX="10" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L10,3 z" fill="#ffc107"/>
-    </marker>
-    <marker id="arrowmedium" markerWidth="10" markerHeight="10" refX="8" refY="2.5" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,5 L8,2.5 z" fill="#495057"/>
-    </marker>
-  </defs>
-</svg>
+      </text></g></g><defs><marker id="a" markerHeight="12" markerUnits="strokeWidth" markerWidth="12" orient="auto" refX="10" refY="3"><path fill="#ffc107" d="M0 0v6l10-3z"/></marker><marker id="b" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="8" refY="2.5"><path fill="#495057" d="M0 0v5l8-2.5z"/></marker></defs></svg>

@@ -1,206 +1,95 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fce4ec;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f8bbd9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#c2185b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e91e63;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="enkGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="asGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2196f3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="ansGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffb74d;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" />
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)" />
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fce4ec;stop-opacity:1"/><stop offset="100%" style="stop-color:#f8bbd9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#c2185b;stop-opacity:1"/><stop offset="100%" style="stop-color:#e91e63;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffb74d;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><path fill="url(#b)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Jordbruksfradrag i Ulike Selskapsformer
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-
-    <rect x="0" y="0" width="220" height="350" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <rect x="0" y="0" width="220" height="50" fill="url(#enkGradient)" rx="10"/>
-    <rect x="0" y="40" width="220" height="10" fill="url(#enkGradient)"/>
-    <text x="110" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(50 80)"><rect width="220" height="350" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><rect width="220" height="50" fill="url(#c)" rx="10"/><path fill="url(#c)" d="M0 40h220v10H0z"/><text x="110" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Enkeltpersonforetak
-    </text>
-    
-    <text x="20" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="20" y="80" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Fradragsbehandling:
-    </text>
-    <text x="20" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="100" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Fullt fradrag etter ordinære satser
-    </text>
-    <text x="20" y="115" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="115" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Direkte fradrag i personinntekt
-    </text>
-    <text x="20" y="130" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="130" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Kan kombineres med personfradrag
-    </text>
-    
-    <text x="20" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="20" y="160" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Fordeler:
-    </text>
-    <text x="20" y="180" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="180" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Enkel administrasjon
-    </text>
-    <text x="20" y="195" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="195" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Direkte skattefordel
-    </text>
-    <text x="20" y="210" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="210" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Ingen dobbeltbeskatning
-    </text>
-    
-    <text x="20" y="240" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="20" y="240" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Ulemper:
-    </text>
-    <text x="20" y="260" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="260" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Personlig ansvar
-    </text>
-    <text x="20" y="275" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="275" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Begrenset kapitaltilgang
-    </text>
-    
-    <text x="20" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="20" y="305" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Eksempel:
-    </text>
-    <text x="20" y="325" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="20" y="325" fill="#666" font-family="Arial, sans-serif" font-size="10">
       Jordbruksinntekt: 600 000 kr
-    </text>
-    <text x="20" y="340" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="20" y="340" fill="#666" font-family="Arial, sans-serif" font-size="10">
       Fradrag: 265 000 kr
-    </text>
-    
-
-    <rect x="240" y="0" width="220" height="350" fill="white" stroke="#2196f3" stroke-width="2" rx="10"/>
-    <rect x="240" y="0" width="220" height="50" fill="url(#asGradient)" rx="10"/>
-    <rect x="240" y="40" width="220" height="10" fill="url(#asGradient)"/>
-    <text x="350" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="220" height="350" x="240" fill="#fff" stroke="#2196f3" stroke-width="2" rx="10"/><rect width="220" height="50" x="240" fill="url(#d)" rx="10"/><path fill="url(#d)" d="M240 40h220v10H240z"/><text x="350" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Aksjeselskap (AS)
-    </text>
-    
-    <text x="260" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+    </text><text x="260" y="80" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Fradragsbehandling:
-    </text>
-    <text x="260" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="100" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Selskapets fradrag
-    </text>
-    <text x="260" y="115" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="115" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Påvirker ikke utbyttegrunnlag
-    </text>
-    <text x="260" y="130" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="130" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Kan påvirke underskudd
-    </text>
-    
-    <text x="260" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+    </text><text x="260" y="160" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Fordeler:
-    </text>
-    <text x="260" y="180" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="180" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Begrenset ansvar
-    </text>
-    <text x="260" y="195" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="195" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Kapitaltilgang
-    </text>
-    <text x="260" y="210" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="210" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Kontinuitet
-    </text>
-    
-    <text x="260" y="240" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+    </text><text x="260" y="240" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Ulemper:
-    </text>
-    <text x="260" y="260" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="260" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Mer kompleks administrasjon
-    </text>
-    <text x="260" y="275" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="275" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Dobbeltbeskatning på utbytte
-    </text>
-    
-    <text x="260" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+    </text><text x="260" y="305" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Eksempel:
-    </text>
-    <text x="260" y="325" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="260" y="325" fill="#666" font-family="Arial, sans-serif" font-size="10">
       Selskapsinntekt: 600 000 kr
-    </text>
-    <text x="260" y="340" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="260" y="340" fill="#666" font-family="Arial, sans-serif" font-size="10">
       Selskapets fradrag: 265 000 kr
-    </text>
-    
-
-    <rect x="480" y="0" width="220" height="350" fill="white" stroke="#ff9800" stroke-width="2" rx="10"/>
-    <rect x="480" y="0" width="220" height="50" fill="url(#ansGradient)" rx="10"/>
-    <rect x="480" y="40" width="220" height="10" fill="url(#ansGradient)"/>
-    <text x="590" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="220" height="350" x="480" fill="#fff" stroke="#ff9800" stroke-width="2" rx="10"/><rect width="220" height="50" x="480" fill="url(#e)" rx="10"/><path fill="url(#e)" d="M480 40h220v10H480z"/><text x="590" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Ansvarlig Selskap
-    </text>
-    
-    <text x="500" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
+    </text><text x="500" y="80" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Fradragsbehandling:
-    </text>
-    <text x="500" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="100" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Fordeles etter eierandel
-    </text>
-    <text x="500" y="115" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="115" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Personlig fradrag for deltakere
-    </text>
-    <text x="500" y="130" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="130" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Samlet beregning på selskapsnivå
-    </text>
-    
-    <text x="500" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
+    </text><text x="500" y="160" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Fordeler:
-    </text>
-    <text x="500" y="180" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="180" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Fleksibel struktur
-    </text>
-    <text x="500" y="195" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="195" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Direkte skattefordel
-    </text>
-    <text x="500" y="210" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="210" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Deling av ansvar
-    </text>
-    
-    <text x="500" y="240" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
+    </text><text x="500" y="240" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Ulemper:
-    </text>
-    <text x="500" y="260" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="260" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Solidaransvar
-    </text>
-    <text x="500" y="275" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="275" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Kompleks administrasjon
-    </text>
-    
-    <text x="500" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
+    </text><text x="500" y="305" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Eksempel:
-    </text>
-    <text x="500" y="325" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="500" y="325" fill="#666" font-family="Arial, sans-serif" font-size="10">
       Totalt fradrag: 265 000 kr
-    </text>
-    <text x="500" y="340" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="500" y="340" fill="#666" font-family="Arial, sans-serif" font-size="10">
       Per deltaker (50%): 132 500 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 450)">
-    <rect x="0" y="0" width="700" height="40" fill="#e91e63" rx="5"/>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><g transform="translate(50 450)"><rect width="700" height="40" fill="#e91e63" rx="5"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Sammenligning: Valg av selskapsform påvirker hvordan jordbruksfradeget håndteres
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

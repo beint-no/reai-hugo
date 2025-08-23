@@ -1,94 +1,35 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><text x="400" y="50" fill="#212529" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     API Integrasjon og Automatisering av Regnskap
-  </text>
-  
-
-  <circle cx="200" cy="150" r="40" fill="url(#blueGradient)" stroke="#0056b3" stroke-width="2"/>
-  <text x="200" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="200" cy="150" r="40" fill="url(#b)" stroke="#0056b3" stroke-width="2"/><text x="200" y="158" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     API
-  </text>
-  
-
-  <rect x="360" y="110" width="80" height="80" rx="10" fill="url(#blueGradient)" stroke="#0056b3" stroke-width="2"/>
-  <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="80" height="80" x="360" y="110" fill="url(#b)" stroke="#0056b3" stroke-width="2" rx="10"/><text x="400" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     AUTO
-  </text>
-  <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="400" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     MATI
-  </text>
-  <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="400" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     SERING
-  </text>
-  
-
-  <rect x="560" y="110" width="80" height="80" rx="10" fill="url(#blueGradient)" stroke="#0056b3" stroke-width="2"/>
-  <text x="600" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="80" height="80" x="560" y="110" fill="url(#b)" stroke="#0056b3" stroke-width="2" rx="10"/><text x="600" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     REGN
-  </text>
-  <text x="600" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="600" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     SKAP
-  </text>
-  
-
-  <line x1="240" y1="150" x2="360" y2="150" stroke="#007bff" stroke-width="3" marker-end="url(#arrowhead)"/>
-  <line x1="440" y1="150" x2="560" y2="150" stroke="#007bff" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#007bff"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
+  </text><path stroke="#007bff" stroke-width="3" marker-end="url(#c)" d="M240 150h120"/><path stroke="#007bff" stroke-width="3" marker-end="url(#c)" d="M440 150h120"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#007bff" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="250" fill="#495057" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Fordeler med API-integrasjon:
-  </text>
-  
-  <text x="150" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+  </text><text x="150" y="280" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     • Automatisering
-  </text>
-  <text x="300" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+  </text><text x="300" y="280" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     • Tidsbesparelse
-  </text>
-  <text x="450" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+  </text><text x="450" y="280" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     • Reduserte feil
-  </text>
-  <text x="600" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+  </text><text x="600" y="280" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     • Sanntidsdata
-  </text>
-  
-  <text x="150" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+  </text><text x="150" y="300" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     • Skalerbarhet
-  </text>
-  <text x="300" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+  </text><text x="300" y="300" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     • Kostnadsreduksjon
-  </text>
-  <text x="450" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+  </text><text x="450" y="300" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     • Bedre kontroll
-  </text>
-  <text x="600" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+  </text><text x="600" y="300" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     • Compliance
-  </text>
-  
-
-  <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#495057">
+  </text><text x="400" y="350" fill="#495057" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Fremtidens regnskapsføring er digital og automatisert
-  </text>
-</svg>
+  </text></svg>

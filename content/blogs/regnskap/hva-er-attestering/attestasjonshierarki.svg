@@ -1,191 +1,49 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="level1Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="level2Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e55a00;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="level3Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="level4Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1"/><stop offset="100%" style="stop-color:#e55a00;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:1"/></linearGradient><linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><filter id="c" width="140%" height="140%" x="-20%" y="-20%"><feDropShadow dx="2" dy="2" flood-color="#000" flood-opacity=".3" stdDeviation="3"/></filter></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#06c" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Attestasjonshierarki og Fullmakter
-  </text>
-  
-
-  <g transform="translate(300, 80)">
-    <rect x="0" y="0" width="200" height="80" fill="url(#level1Gradient)" rx="15" filter="url(#shadow)"/>
-    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(300 80)"><rect width="200" height="80" fill="url(#b)" filter="url(#c)" rx="15"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       STYRET
-    </text>
-    <text x="100" y="45" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    </text><text x="100" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Over 500 000 kr
-    </text>
-    <text x="100" y="65" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    </text><text x="100" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Større investeringer og lån
-    </text>
-    
-
-    <polygon points="85,15 90,5 95,15 100,5 105,15 110,5 115,15 115,20 85,20" fill="#ffd700"/>
-  </g>
-  
-
-  <path d="M400 170 L400 200" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(250, 210)">
-    <rect x="0" y="0" width="300" height="80" fill="url(#level2Gradient)" rx="15" filter="url(#shadow)"/>
-    <text x="150" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="gold" d="m85 15 5-10 5 10 5-10 5 10 5-10 5 10v5H85z"/></g><path fill="none" stroke="#06c" stroke-width="3" marker-end="url(#d)" d="M400 170v30"/><g transform="translate(250 210)"><rect width="300" height="80" fill="url(#e)" filter="url(#c)" rx="15"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       DAGLIG LEDER
-    </text>
-    <text x="150" y="45" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    </text><text x="150" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Opp til 500 000 kr
-    </text>
-    <text x="150" y="65" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    </text><text x="150" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Strategiske investeringer
-    </text>
-    
-
-    <circle cx="130" cy="15" r="8" fill="white"/>
-    <rect x="122" y="23" width="16" height="20" fill="white" rx="8"/>
-    <rect x="128" y="25" width="4" height="15" fill="#fd7e14"/>
-  </g>
-  
-
-  <path d="M400 300 L400 330" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(200, 340)">
-    <rect x="0" y="0" width="400" height="80" fill="url(#level3Gradient)" rx="15" filter="url(#shadow)"/>
-    <text x="200" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><circle cx="130" cy="15" r="8" fill="#fff"/><rect width="16" height="20" x="122" y="23" fill="#fff" rx="8"/><path fill="#fd7e14" d="M128 25h4v15h-4z"/></g><path fill="none" stroke="#06c" stroke-width="3" marker-end="url(#d)" d="M400 300v30"/><g transform="translate(200 340)"><rect width="400" height="80" fill="url(#f)" filter="url(#c)" rx="15"/><text x="200" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       ØKONOMILEDER
-    </text>
-    <text x="200" y="45" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    </text><text x="200" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Opp til 200 000 kr
-    </text>
-    <text x="200" y="65" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    </text><text x="200" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Alle økonomiske transaksjoner
-    </text>
-    
-
-    <rect x="170" y="10" width="20" height="15" fill="white" rx="2"/>
-    <rect x="172" y="12" width="4" height="2" fill="#ffc107"/>
-    <rect x="178" y="12" width="4" height="2" fill="#ffc107"/>
-    <rect x="184" y="12" width="4" height="2" fill="#ffc107"/>
-    <rect x="172" y="16" width="4" height="2" fill="#ffc107"/>
-    <rect x="178" y="16" width="4" height="2" fill="#ffc107"/>
-    <rect x="184" y="16" width="4" height="2" fill="#ffc107"/>
-    <rect x="172" y="20" width="4" height="2" fill="#ffc107"/>
-    <rect x="178" y="20" width="10" height="2" fill="#28a745"/>
-  </g>
-  
-
-  <path d="M400 430 L400 460" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(150, 470)">
-    <rect x="0" y="0" width="500" height="80" fill="url(#level4Gradient)" rx="15" filter="url(#shadow)"/>
-    <text x="250" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="20" height="15" x="170" y="10" fill="#fff" rx="2"/><path fill="#ffc107" d="M172 12h4v2h-4zM178 12h4v2h-4zM184 12h4v2h-4zM172 16h4v2h-4zM178 16h4v2h-4zM184 16h4v2h-4zM172 20h4v2h-4z"/><path fill="#28a745" d="M178 20h10v2h-10z"/></g><path fill="none" stroke="#06c" stroke-width="3" marker-end="url(#d)" d="M400 430v30"/><g transform="translate(150 470)"><rect width="500" height="80" fill="url(#g)" filter="url(#c)" rx="15"/><text x="250" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       AVDELINGSLEDER
-    </text>
-    <text x="250" y="45" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+    </text><text x="250" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Opp til 50 000 kr
-    </text>
-    <text x="250" y="65" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    </text><text x="250" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Driftsutgifter innen budsjett
-    </text>
-    
-
-    <circle cx="220" cy="15" r="6" fill="white"/>
-    <circle cx="235" cy="15" r="6" fill="white"/>
-    <circle cx="250" cy="15" r="6" fill="white"/>
-    <rect x="214" y="21" width="12" height="10" fill="white" rx="6"/>
-    <rect x="229" y="21" width="12" height="10" fill="white" rx="6"/>
-    <rect x="244" y="21" width="12" height="10" fill="white" rx="6"/>
-  </g>
-  
-
-  
-
-  <g transform="translate(50, 200)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+    </text><circle cx="220" cy="15" r="6" fill="#fff"/><circle cx="235" cy="15" r="6" fill="#fff"/><circle cx="250" cy="15" r="6" fill="#fff"/><rect width="12" height="10" x="214" y="21" fill="#fff" rx="6"/><rect width="12" height="10" x="229" y="21" fill="#fff" rx="6"/><rect width="12" height="10" x="244" y="21" fill="#fff" rx="6"/></g><text fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" transform="translate(50 200)">
       ANSVAR
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text y="25" fill="#333" font-family="Arial, sans-serif" font-size="12" transform="translate(50 200)">
       • Strategiske beslutninger
-    </text>
-    <text x="0" y="45" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text y="45" fill="#333" font-family="Arial, sans-serif" font-size="12" transform="translate(50 200)">
       • Operasjonelle beslutninger
-    </text>
-    <text x="0" y="65" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text y="65" fill="#333" font-family="Arial, sans-serif" font-size="12" transform="translate(50 200)">
       • Økonomisk styring
-    </text>
-    <text x="0" y="85" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text y="85" fill="#333" font-family="Arial, sans-serif" font-size="12" transform="translate(50 200)">
       • Daglig drift
-    </text>
-    
-
-    <path d="M120 10 L240 90" stroke="#dc3545" stroke-width="1" stroke-dasharray="3,3"/>
-    <path d="M120 30 L240 220" stroke="#fd7e14" stroke-width="1" stroke-dasharray="3,3"/>
-    <path d="M120 50 L190 350" stroke="#ffc107" stroke-width="1" stroke-dasharray="3,3"/>
-    <path d="M120 70 L140 480" stroke="#28a745" stroke-width="1" stroke-dasharray="3,3"/>
-  </g>
-  
-
-  <g transform="translate(650, 200)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+    </text><path stroke="#dc3545" stroke-dasharray="3,3" d="m170 210 120 80"/><path stroke="#fd7e14" stroke-dasharray="3,3" d="m170 230 120 190"/><path stroke="#ffc107" stroke-dasharray="3,3" d="m170 250 70 300"/><path stroke="#28a745" stroke-dasharray="3,3" d="m170 270 20 410"/><text fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" transform="translate(650 200)">
       KONTROLL
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text y="25" fill="#333" font-family="Arial, sans-serif" font-size="12" transform="translate(650 200)">
       • Styrevedtak
-    </text>
-    <text x="0" y="45" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text y="45" fill="#333" font-family="Arial, sans-serif" font-size="12" transform="translate(650 200)">
       • Fullmaktsbrev
-    </text>
-    <text x="0" y="65" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text y="65" fill="#333" font-family="Arial, sans-serif" font-size="12" transform="translate(650 200)">
       • Budsjettramme
-    </text>
-    <text x="0" y="85" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text y="85" fill="#333" font-family="Arial, sans-serif" font-size="12" transform="translate(650 200)">
       • Månedlig rapportering
-    </text>
-    
-
-    <path d="M-50 10 L-190 90" stroke="#dc3545" stroke-width="1" stroke-dasharray="3,3"/>
-    <path d="M-50 30 L-190 220" stroke="#fd7e14" stroke-width="1" stroke-dasharray="3,3"/>
-    <path d="M-50 50 L-190 350" stroke="#ffc107" stroke-width="1" stroke-dasharray="3,3"/>
-    <path d="M-50 70 L-190 480" stroke="#28a745" stroke-width="1" stroke-dasharray="3,3"/>
-  </g>
-  
-
-  <text x="400" y="580" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666" font-style="italic">
+    </text><path stroke="#dc3545" stroke-dasharray="3,3" d="m600 210-140 80"/><path stroke="#fd7e14" stroke-dasharray="3,3" d="M600 230 460 420"/><path stroke="#ffc107" stroke-dasharray="3,3" d="M600 250 460 550"/><path stroke="#28a745" stroke-dasharray="3,3" d="M600 270 460 680"/><text x="400" y="580" fill="#666" font-family="Arial, sans-serif" font-size="14" font-style="italic" text-anchor="middle">
     Beløpsgrenser kan tilpasses bedriftens størrelse og risikoprofil
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#06c" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

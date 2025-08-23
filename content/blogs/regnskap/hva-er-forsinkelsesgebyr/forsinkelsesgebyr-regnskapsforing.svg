@@ -1,227 +1,89 @@
-<svg width="800" height="650" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="creditorGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="debitorGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="650" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#495057">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="650"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v650H0z"/><text x="400" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskapsføring av Forsinkelsesgebyr
-  </text>
-  
-
-  <rect x="50" y="80" width="320" height="250" rx="15" fill="white" stroke="#28a745" stroke-width="3"/>
-  <rect x="50" y="80" width="320" height="50" rx="15" fill="url(#creditorGradient)"/>
-  <text x="210" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="250" x="50" y="80" fill="#fff" stroke="#28a745" stroke-width="3" rx="15"/><rect width="320" height="50" x="50" y="80" fill="url(#b)" rx="15"/><text x="210" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     For Kreditor (Mottar gebyr)
-  </text>
-  
-
-  <circle cx="100" cy="150" r="20" fill="#28a745"/>
-  <line x1="90" y1="150" x2="110" y2="150" stroke="white" stroke-width="3"/>
-  <line x1="100" y1="140" x2="100" y2="160" stroke="white" stroke-width="3"/>
-  
-  <text x="130" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><circle cx="100" cy="150" r="20" fill="#28a745"/><path stroke="#fff" stroke-width="3" d="M90 150h20M100 140v20"/><text x="130" y="145" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Ved påløp av forsinkelsesrenter:
-  </text>
-  
-
-  <rect x="70" y="170" width="280" height="60" rx="8" fill="#e8f5e8" stroke="#28a745" stroke-width="1"/>
-  <text x="80" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="280" height="60" x="70" y="170" fill="#e8f5e8" stroke="#28a745" rx="8"/><text x="80" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Debet: Kundefordringer (1500)
-  </text>
-  <text x="250" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="250" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     385 kr
-  </text>
-  <text x="80" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="80" y="210" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Kredit: Finansinntekter (8050)
-  </text>
-  <text x="250" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="250" y="210" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     385 kr
-  </text>
-  
-  <text x="130" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><text x="130" y="250" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Ved innbetaling:
-  </text>
-  
-
-  <rect x="70" y="260" width="280" height="60" rx="8" fill="#e8f5e8" stroke="#28a745" stroke-width="1"/>
-  <text x="80" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="280" height="60" x="70" y="260" fill="#e8f5e8" stroke="#28a745" rx="8"/><text x="80" y="280" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Debet: Bank (1920)
-  </text>
-  <text x="230" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="230" y="280" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     31 935 kr
-  </text>
-  <text x="80" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="80" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Kredit: Kundefordringer (1500)
-  </text>
-  <text x="230" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="230" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     31 935 kr
-  </text>
-  
-
-  <rect x="430" y="80" width="320" height="250" rx="15" fill="white" stroke="#dc3545" stroke-width="3"/>
-  <rect x="430" y="80" width="320" height="50" rx="15" fill="url(#debitorGradient)"/>
-  <text x="590" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="250" x="430" y="80" fill="#fff" stroke="#dc3545" stroke-width="3" rx="15"/><rect width="320" height="50" x="430" y="80" fill="url(#c)" rx="15"/><text x="590" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     For Debitor (Betaler gebyr)
-  </text>
-  
-
-  <circle cx="480" cy="150" r="20" fill="#dc3545"/>
-  <line x1="470" y1="150" x2="490" y2="150" stroke="white" stroke-width="3"/>
-  
-  <text x="510" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><circle cx="480" cy="150" r="20" fill="#dc3545"/><path stroke="#fff" stroke-width="3" d="M470 150h20"/><text x="510" y="145" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Ved påløp av forsinkelsesrenter:
-  </text>
-  
-
-  <rect x="450" y="170" width="280" height="60" rx="8" fill="#f8d7da" stroke="#dc3545" stroke-width="1"/>
-  <text x="460" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="280" height="60" x="450" y="170" fill="#f8d7da" stroke="#dc3545" rx="8"/><text x="460" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Debet: Finanskostnader (8150)
-  </text>
-  <text x="630" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="630" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     385 kr
-  </text>
-  <text x="460" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="460" y="210" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Kredit: Leverandørgjeld (2400)
-  </text>
-  <text x="630" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="630" y="210" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     385 kr
-  </text>
-  
-  <text x="510" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><text x="510" y="250" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Ved betaling:
-  </text>
-  
-
-  <rect x="450" y="260" width="280" height="60" rx="8" fill="#f8d7da" stroke="#dc3545" stroke-width="1"/>
-  <text x="460" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="280" height="60" x="450" y="260" fill="#f8d7da" stroke="#dc3545" rx="8"/><text x="460" y="280" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Debet: Leverandørgjeld (2400)
-  </text>
-  <text x="610" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="610" y="280" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     31 935 kr
-  </text>
-  <text x="460" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="460" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Kredit: Bank (1920)
-  </text>
-  <text x="610" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="610" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     31 935 kr
-  </text>
-  
-
-  <rect x="50" y="350" width="700" height="120" rx="15" fill="white" stroke="#ffc107" stroke-width="3"/>
-  <rect x="50" y="350" width="700" height="50" rx="15" fill="#ffc107"/>
-  <text x="400" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="700" height="120" x="50" y="350" fill="#fff" stroke="#ffc107" stroke-width="3" rx="15"/><rect width="700" height="50" x="50" y="350" fill="#ffc107" rx="15"/><text x="400" y="380" fill="#495057" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Mva-behandling
-  </text>
-  
-
-  <text x="80" y="410" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><text x="80" y="410" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Viktige punkter for mva-behandling:
-  </text>
-  
-  <circle cx="90" cy="430" r="4" fill="#ffc107"/>
-  <text x="105" y="435" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><circle cx="90" cy="430" r="4" fill="#ffc107"/><text x="105" y="435" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     <tspan font-weight="bold">Forsinkelsesrenter:</tspan> Ikke mva-pliktige (verken inngående eller utgående)
-  </text>
-  
-  <circle cx="90" cy="450" r="4" fill="#ffc107"/>
-  <text x="105" y="455" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><circle cx="90" cy="450" r="4" fill="#ffc107"/><text x="105" y="455" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     <tspan font-weight="bold">Purregebyrer:</tspan> Ikke mva-pliktige
-  </text>
-  
-  <circle cx="400" cy="430" r="4" fill="#ffc107"/>
-  <text x="415" y="435" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><circle cx="400" cy="430" r="4" fill="#ffc107"/><text x="415" y="435" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     <tspan font-weight="bold">Inkassokostnader:</tspan> Ikke mva-pliktige
-  </text>
-  
-  <circle cx="400" cy="450" r="4" fill="#ffc107"/>
-  <text x="415" y="455" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><circle cx="400" cy="450" r="4" fill="#ffc107"/><text x="415" y="455" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     <tspan font-weight="bold">Fakturagebyr:</tspan> Kan være mva-pliktige avhengig av type
-  </text>
-  
-
-  <rect x="50" y="490" width="320" height="140" rx="15" fill="white" stroke="#17a2b8" stroke-width="3"/>
-  <rect x="50" y="490" width="320" height="50" rx="15" fill="#17a2b8"/>
-  <text x="210" y="520" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="140" x="50" y="490" fill="#fff" stroke="#17a2b8" stroke-width="3" rx="15"/><rect width="320" height="50" x="50" y="490" fill="#17a2b8" rx="15"/><text x="210" y="520" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Periodisering
-  </text>
-  
-
-  <rect x="80" y="550" width="40" height="35" rx="3" fill="#17a2b8" stroke="#138496" stroke-width="1"/>
-  <rect x="85" y="545" width="30" height="8" rx="2" fill="#138496"/>
-  <circle cx="90" cy="549" r="2" fill="white"/>
-  <circle cx="110" cy="549" r="2" fill="white"/>
-  <rect x="85" y="560" width="6" height="4" rx="1" fill="white"/>
-  <rect x="95" y="560" width="6" height="4" rx="1" fill="white"/>
-  <rect x="105" y="560" width="6" height="4" rx="1" fill="white"/>
-  <rect x="85" y="570" width="6" height="4" rx="1" fill="white"/>
-  <rect x="95" y="570" width="6" height="4" rx="1" fill="white"/>
-  <rect x="105" y="570" width="6" height="4" rx="1" fill="#ffc107"/>
-  
-  <text x="130" y="555" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="40" height="35" x="80" y="550" fill="#17a2b8" stroke="#138496" rx="3"/><rect width="30" height="8" x="85" y="545" fill="#138496" rx="2"/><circle cx="90" cy="549" r="2" fill="#fff"/><circle cx="110" cy="549" r="2" fill="#fff"/><rect width="6" height="4" x="85" y="560" fill="#fff" rx="1"/><rect width="6" height="4" x="95" y="560" fill="#fff" rx="1"/><rect width="6" height="4" x="105" y="560" fill="#fff" rx="1"/><rect width="6" height="4" x="85" y="570" fill="#fff" rx="1"/><rect width="6" height="4" x="95" y="570" fill="#fff" rx="1"/><rect width="6" height="4" x="105" y="570" fill="#ffc107" rx="1"/><text x="130" y="555" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Månedlig periodisering:
-  </text>
-  
-
-  <rect x="70" y="575" width="280" height="45" rx="8" fill="#d1ecf1" stroke="#17a2b8" stroke-width="1"/>
-  <text x="80" y="595" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">
+  </text><rect width="280" height="45" x="70" y="575" fill="#d1ecf1" stroke="#17a2b8" rx="8"/><text x="80" y="595" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Debet: Påløpte renter (1590)
-  </text>
-  <text x="250" y="595" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">
+  </text><text x="250" y="595" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     85 kr
-  </text>
-  <text x="80" y="610" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">
+  </text><text x="80" y="610" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Kredit: Finansinntekter (8050)
-  </text>
-  <text x="250" y="610" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">
+  </text><text x="250" y="610" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     85 kr
-  </text>
-  
-
-  <rect x="430" y="490" width="320" height="140" rx="15" fill="white" stroke="#6f42c1" stroke-width="3"/>
-  <rect x="430" y="490" width="320" height="50" rx="15" fill="#6f42c1"/>
-  <text x="590" y="520" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="140" x="430" y="490" fill="#fff" stroke="#6f42c1" stroke-width="3" rx="15"/><rect width="320" height="50" x="430" y="490" fill="#6f42c1" rx="15"/><text x="590" y="520" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Relevante Kontoer
-  </text>
-  
-
-  <text x="450" y="550" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="450" y="550" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Balanse:
-  </text>
-  <text x="450" y="570" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="450" y="570" fill="#6c757d" font-family="Arial, sans-serif" font-size="11">
     • 1500 - Kundefordringer
-  </text>
-  <text x="450" y="585" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="450" y="585" fill="#6c757d" font-family="Arial, sans-serif" font-size="11">
     • 1590 - Påløpte renter
-  </text>
-  <text x="450" y="600" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="450" y="600" fill="#6c757d" font-family="Arial, sans-serif" font-size="11">
     • 1920 - Bank
-  </text>
-  <text x="450" y="615" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="450" y="615" fill="#6c757d" font-family="Arial, sans-serif" font-size="11">
     • 2400 - Leverandørgjeld
-  </text>
-  
-  <text x="580" y="550" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="580" y="550" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Resultat:
-  </text>
-  <text x="580" y="570" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="580" y="570" fill="#6c757d" font-family="Arial, sans-serif" font-size="11">
     • 8050 - Finansinntekter
-  </text>
-  <text x="580" y="585" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="580" y="585" fill="#6c757d" font-family="Arial, sans-serif" font-size="11">
     • 8150 - Finanskostnader
-  </text>
-</svg>
+  </text></svg>

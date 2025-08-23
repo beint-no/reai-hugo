@@ -1,169 +1,61 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3498DB;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2980B9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2ECC71;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#27AE60;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#F39C12;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E67E22;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#F8F9FA"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#2980b9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2ecc71;stop-opacity:1"/><stop offset="100%" style="stop-color:#27ae60;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskapsføring av Konsernbidrag
-  </text>
-  
-
-  <rect x="50" y="80" width="320" height="180" rx="10" fill="url(#blueGrad)" stroke="#2C3E50" stroke-width="2"/>
-  <text x="210" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="320" height="180" x="50" y="80" fill="url(#a)" stroke="#2c3e50" stroke-width="2" rx="10"/><text x="210" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Ydende Selskap (Giver)
-  </text>
-  
-
-  <rect x="80" y="120" width="260" height="120" rx="5" fill="white" stroke="#2C3E50" stroke-width="1"/>
-  
-
-  <line x1="80" y1="140" x2="340" y2="140" stroke="#2C3E50" stroke-width="1"/>
-  <line x1="210" y1="120" x2="210" y2="240" stroke="#2C3E50" stroke-width="2"/>
-  
-  <text x="145" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">
+  </text><rect width="260" height="120" x="80" y="120" fill="#fff" stroke="#2c3e50" rx="5"/><path stroke="#2c3e50" d="M80 140h260"/><path stroke="#2c3e50" stroke-width="2" d="M210 120v120"/><text x="145" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     DEBET
-  </text>
-  <text x="275" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">
+  </text><text x="275" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KREDIT
-  </text>
-  
-
-  <text x="90" y="160" font-family="Arial, sans-serif" font-size="11" fill="#2C3E50">
+  </text><text x="90" y="160" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     Konsernbidrag (kostnad)
-  </text>
-  <text x="90" y="175" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#E74C3C">
+  </text><text x="90" y="175" fill="#e74c3c" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     600.000 kr
-  </text>
-  
-
-  <text x="220" y="160" font-family="Arial, sans-serif" font-size="11" fill="#2C3E50">
+  </text><text x="220" y="160" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     Konsernfordring
-  </text>
-  <text x="220" y="175" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#27AE60">
+  </text><text x="220" y="175" fill="#27ae60" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     600.000 kr
-  </text>
-  
-
-  <text x="220" y="200" font-family="Arial, sans-serif" font-size="10" fill="#7F8C8D" font-style="italic">
+  </text><text x="220" y="200" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10" font-style="italic">
     eller Bank (ved kontantbetaling)
-  </text>
-  
-
-  <rect x="80" y="250" width="260" height="30" rx="3" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="1"/>
-  <text x="210" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#E74C3C">
+  </text><rect width="260" height="30" x="80" y="250" fill="#ecf0f1" stroke="#bdc3c7" rx="3"/><text x="210" y="270" fill="#e74c3c" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Effekt: Reduserer skattepliktig inntekt
-  </text>
-  
-
-  <rect x="430" y="80" width="320" height="180" rx="10" fill="url(#greenGrad)" stroke="#2C3E50" stroke-width="2"/>
-  <text x="590" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="320" height="180" x="430" y="80" fill="url(#b)" stroke="#2c3e50" stroke-width="2" rx="10"/><text x="590" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Mottakende Selskap (Mottaker)
-  </text>
-  
-
-  <rect x="460" y="120" width="260" height="120" rx="5" fill="white" stroke="#2C3E50" stroke-width="1"/>
-  
-
-  <line x1="460" y1="140" x2="720" y2="140" stroke="#2C3E50" stroke-width="1"/>
-  <line x1="590" y1="120" x2="590" y2="240" stroke="#2C3E50" stroke-width="2"/>
-  
-  <text x="525" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">
+  </text><rect width="260" height="120" x="460" y="120" fill="#fff" stroke="#2c3e50" rx="5"/><path stroke="#2c3e50" d="M460 140h260"/><path stroke="#2c3e50" stroke-width="2" d="M590 120v120"/><text x="525" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     DEBET
-  </text>
-  <text x="655" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">
+  </text><text x="655" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KREDIT
-  </text>
-  
-
-  <text x="470" y="160" font-family="Arial, sans-serif" font-size="11" fill="#2C3E50">
+  </text><text x="470" y="160" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     Konserngjeld
-  </text>
-  <text x="470" y="175" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#E74C3C">
+  </text><text x="470" y="175" fill="#e74c3c" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     600.000 kr
-  </text>
-  
-
-  <text x="470" y="200" font-family="Arial, sans-serif" font-size="10" fill="#7F8C8D" font-style="italic">
+  </text><text x="470" y="200" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10" font-style="italic">
     eller Bank (ved kontantmottak)
-  </text>
-  
-
-  <text x="600" y="160" font-family="Arial, sans-serif" font-size="11" fill="#2C3E50">
+  </text><text x="600" y="160" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     Konsernbidrag (inntekt)
-  </text>
-  <text x="600" y="175" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#27AE60">
+  </text><text x="600" y="175" fill="#27ae60" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     600.000 kr
-  </text>
-  
-
-  <rect x="460" y="250" width="260" height="30" rx="3" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="1"/>
-  <text x="590" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#27AE60">
+  </text><rect width="260" height="30" x="460" y="250" fill="#ecf0f1" stroke="#bdc3c7" rx="3"/><text x="590" y="270" fill="#27ae60" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Effekt: Øker skattepliktig inntekt
-  </text>
-  
-
-  <defs>
-    <marker id="transferArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#F39C12" />
-    </marker>
-  </defs>
-  
-  <line x1="370" y1="170" x2="430" y2="170" stroke="#F39C12" stroke-width="4" marker-end="url(#transferArrow)"/>
-  <text x="400" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F39C12">
+  </text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#f39c12" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke="#f39c12" stroke-width="4" marker-end="url(#c)" d="M370 170h60"/><text x="400" y="165" fill="#f39c12" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     600.000 kr
-  </text>
-  
-
-  <rect x="50" y="310" width="700" height="160" rx="10" fill="#FFF3CD" stroke="#F39C12" stroke-width="2"/>
-  <text x="400" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#F39C12">
+  </text><rect width="700" height="160" x="50" y="310" fill="#fff3cd" stroke="#f39c12" stroke-width="2" rx="10"/><text x="400" y="335" fill="#f39c12" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Praktiske Hensyn ved Regnskapsføring
-  </text>
-  
-
-  <text x="80" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">
+  </text><text x="80" y="360" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     1. Tidspunkt for Regnskapsføring
-  </text>
-  <text x="100" y="380" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
+  </text><text x="100" y="380" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Regnskapsføres når styrevedtak er fattet i begge selskaper
-  </text>
-  <text x="100" y="395" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
+  </text><text x="100" y="395" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Må skje innen fristen for levering av selvangivelse
-  </text>
-  
-
-  <text x="420" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">
+  </text><text x="420" y="360" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     2. Oppgjør og Betaling
-  </text>
-  <text x="440" y="380" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
+  </text><text x="440" y="380" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Kan gjøres opp kontant eller som konsernfordring/-gjeld
-  </text>
-  <text x="440" y="395" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
+  </text><text x="440" y="395" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Oppgjør må skje innen 3 måneder etter vedtak
-  </text>
-  
-
-  <text x="80" y="420" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">
+  </text><text x="80" y="420" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     3. Dokumentasjon
-  </text>
-  <text x="100" y="440" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
+  </text><text x="100" y="440" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Styrevedtak fra begge selskaper må dokumenteres
-  </text>
-  <text x="100" y="455" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
+  </text><text x="100" y="455" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Konsernbidragsavtale anbefales for å regulere vilkår
-  </text>
-</svg>
+  </text></svg>

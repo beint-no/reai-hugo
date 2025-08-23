@@ -1,249 +1,125 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="retailGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#8BC34A;stop-opacity:0.8"/>
-    </linearGradient>
-    <linearGradient id="serviceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#03A9F4;stop-opacity:0.8"/>
-    </linearGradient>
-    <linearGradient id="hospitalityGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#FF5722;stop-opacity:0.8"/>
-    </linearGradient>
-  </defs>
-
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:.8"/><stop offset="100%" style="stop-color:#8bc34a;stop-opacity:.8"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:.8"/><stop offset="100%" style="stop-color:#03a9f4;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:.8"/><stop offset="100%" style="stop-color:#ff5722;stop-opacity:.8"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Bransjespecifikke X-rapport Behov
-  </text>
-  
-
-  <rect x="50" y="70" width="230" height="480" fill="white" stroke="#4CAF50" stroke-width="3" rx="10"/>
-  <rect x="50" y="70" width="230" height="60" fill="url(#retailGrad)" rx="10 10 0 0"/>
-  <text x="165" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="230" height="480" x="50" y="70" fill="#fff" stroke="#4caf50" stroke-width="3" rx="10"/><rect width="230" height="60" x="50" y="70" fill="url(#a)" rx="10 10 0 0"/><text x="165" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DETALJHANDEL
-  </text>
-  <text x="165" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="165" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Varefokusert handel
-  </text>
-  
-
-  <rect x="70" y="150" width="190" height="90" fill="#E8F5E8" stroke="#4CAF50" stroke-width="1" rx="5"/>
-  <text x="165" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#388E3C">
+  </text><rect width="190" height="90" x="70" y="150" fill="#e8f5e8" stroke="#4caf50" rx="5"/><text x="165" y="170" fill="#388e3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     VARELAGER TRACKING
-  </text>
-  <text x="80" y="185" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="185" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Sanntids oversikt over lagerstatus
-  </text>
-  <text x="80" y="200" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="200" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Automatisk lagerreduksjon ved salg
-  </text>
-  <text x="80" y="215" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="215" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Lavbeholdning varsler
-  </text>
-  <text x="80" y="230" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="230" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Inventory turnover analyse
-  </text>
-  
-  <rect x="70" y="260" width="190" height="90" fill="#F1F8E9" stroke="#689F38" stroke-width="1" rx="5"/>
-  <text x="165" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#558B2F">
+  </text><rect width="190" height="90" x="70" y="260" fill="#f1f8e9" stroke="#689f38" rx="5"/><text x="165" y="280" fill="#558b2f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     RABATTER &amp; KAMPANJER
-  </text>
-  <text x="80" y="295" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="295" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Detaljert oppfølging av markedsaktiviteter
-  </text>
-  <text x="80" y="310" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="310" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Rabatteffektivitet måling
-  </text>
-  <text x="80" y="325" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="325" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kampanjeresultat analyse
-  </text>
-  <text x="80" y="340" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="340" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • ROI beregninger
-  </text>
-  
-  <rect x="70" y="370" width="190" height="90" fill="#E0F2F1" stroke="#00695C" stroke-width="1" rx="5"/>
-  <text x="165" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#00695C">
+  </text><rect width="190" height="90" x="70" y="370" fill="#e0f2f1" stroke="#00695c" rx="5"/><text x="165" y="390" fill="#00695c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KUNDEGRUPPER
-  </text>
-  <text x="80" y="405" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="405" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Segmentert salgsanalyse
-  </text>
-  <text x="80" y="420" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="420" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kundelojalitet sporing
-  </text>
-  <text x="80" y="435" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="435" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Personaliserte tilbud
-  </text>
-  <text x="80" y="450" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="450" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Customer lifetime value
-  </text>
-  
-  <rect x="70" y="480" width="190" height="60" fill="#F9FBE7" stroke="#827717" stroke-width="1" rx="5"/>
-  <text x="165" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#827717">
+  </text><rect width="190" height="60" x="70" y="480" fill="#f9fbe7" stroke="#827717" rx="5"/><text x="165" y="500" fill="#827717" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     SESONGVARIASJONER
-  </text>
-  <text x="80" y="515" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="515" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Sammenligning med historiske mønstre
-  </text>
-  <text x="80" y="530" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="530" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Trend og prognosering
-  </text>
-  
-
-  <rect x="300" y="70" width="230" height="480" fill="white" stroke="#2196F3" stroke-width="3" rx="10"/>
-  <rect x="300" y="70" width="230" height="60" fill="url(#serviceGrad)" rx="10 10 0 0"/>
-  <text x="415" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="230" height="480" x="300" y="70" fill="#fff" stroke="#2196f3" stroke-width="3" rx="10"/><rect width="230" height="60" x="300" y="70" fill="url(#b)" rx="10 10 0 0"/><text x="415" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     SERVICEVIRKSOMHETER
-  </text>
-  <text x="415" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="415" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Tjenestebransjen
-  </text>
-  
-
-  <rect x="320" y="150" width="190" height="90" fill="#E3F2FD" stroke="#2196F3" stroke-width="1" rx="5"/>
-  <text x="415" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">
+  </text><rect width="190" height="90" x="320" y="150" fill="#e3f2fd" stroke="#2196f3" rx="5"/><text x="415" y="170" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     TIMEFAKTURERING
-  </text>
-  <text x="330" y="185" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="185" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Integrering med timeføringssystemer
-  </text>
-  <text x="330" y="200" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="200" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Sanntids produktivitetsmåling
-  </text>
-  <text x="330" y="215" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="215" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Automatisk fakturagrunnlag
-  </text>
-  <text x="330" y="230" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="230" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Ressursutnyttelse analyse
-  </text>
-  
-  <rect x="320" y="260" width="190" height="90" fill="#E8EAF6" stroke="#3F51B5" stroke-width="1" rx="5"/>
-  <text x="415" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#303F9F">
+  </text><rect width="190" height="90" x="320" y="260" fill="#e8eaf6" stroke="#3f51b5" rx="5"/><text x="415" y="280" fill="#303f9f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     ABONNEMENTSTJENESTER
-  </text>
-  <text x="330" y="295" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="295" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Håndtering av løpende servicekontrakter
-  </text>
-  <text x="330" y="310" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="310" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Periodisk fakturering
-  </text>
-  <text x="330" y="325" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="325" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kundelojalitet tracking
-  </text>
-  <text x="330" y="340" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="340" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Fornyelse automatisering
-  </text>
-  
-  <rect x="320" y="370" width="190" height="90" fill="#E1F5FE" stroke="#0277BD" stroke-width="1" rx="5"/>
-  <text x="415" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0277BD">
+  </text><rect width="190" height="90" x="320" y="370" fill="#e1f5fe" stroke="#0277bd" rx="5"/><text x="415" y="390" fill="#0277bd" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KOMPETANSERAPPORTERING
-  </text>
-  <text x="330" y="405" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="405" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kobling til medarbeiderkompetanse
-  </text>
-  <text x="330" y="420" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="420" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Spesialisert tjeneste tracking
-  </text>
-  <text x="330" y="435" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="435" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kompetanseutnyttelse
-  </text>
-  <text x="330" y="450" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="450" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Utdanningsbehov analyse
-  </text>
-  
-  <rect x="320" y="480" width="190" height="60" fill="#E0F7FA" stroke="#00838F" stroke-width="1" rx="5"/>
-  <text x="415" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#00838F">
+  </text><rect width="190" height="60" x="320" y="480" fill="#e0f7fa" stroke="#00838f" rx="5"/><text x="415" y="500" fill="#00838f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     PROSJEKTOPPFØLGING
-  </text>
-  <text x="330" y="515" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="515" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Integrering med prosjektadministrasjon
-  </text>
-  <text x="330" y="530" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="530" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Prosjektrentabilitet måling
-  </text>
-  
-
-  <rect x="550" y="70" width="230" height="480" fill="white" stroke="#FF9800" stroke-width="3" rx="10"/>
-  <rect x="550" y="70" width="230" height="60" fill="url(#hospitalityGrad)" rx="10 10 0 0"/>
-  <text x="665" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="230" height="480" x="550" y="70" fill="#fff" stroke="#ff9800" stroke-width="3" rx="10"/><rect width="230" height="60" x="550" y="70" fill="url(#c)" rx="10 10 0 0"/><text x="665" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     HOSPITALITY &amp; RESTAURANT
-  </text>
-  <text x="665" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="665" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Serveringsbransjen
-  </text>
-  
-
-  <rect x="570" y="150" width="190" height="90" fill="#FFF3E0" stroke="#FF9800" stroke-width="1" rx="5"/>
-  <text x="665" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">
+  </text><rect width="190" height="90" x="570" y="150" fill="#fff3e0" stroke="#ff9800" rx="5"/><text x="665" y="170" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     BORDADMINISTRASJON
-  </text>
-  <text x="580" y="185" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="185" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Oversikt over bordstatus og servering
-  </text>
-  <text x="580" y="200" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="200" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Ventetid optimalisering
-  </text>
-  <text x="580" y="215" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="215" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Bordrotasjon måling
-  </text>
-  <text x="580" y="230" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="230" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kapasitetsutnyttelse
-  </text>
-  
-  <rect x="570" y="260" width="190" height="90" fill="#FFEBEE" stroke="#F44336" stroke-width="1" rx="5"/>
-  <text x="665" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#D32F2F">
+  </text><rect width="190" height="90" x="570" y="260" fill="#ffebee" stroke="#f44336" rx="5"/><text x="665" y="280" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     MENYANALYSE
-  </text>
-  <text x="580" y="295" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="295" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Detaljert oppfølging av populære retter
-  </text>
-  <text x="580" y="310" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="310" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Ingredient-forbruk tracking
-  </text>
-  <text x="580" y="325" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="325" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Menyoptimalisering
-  </text>
-  <text x="580" y="340" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="340" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Food cost kontroll
-  </text>
-  
-  <rect x="570" y="370" width="190" height="90" fill="#FCE4EC" stroke="#E91E63" stroke-width="1" rx="5"/>
-  <text x="665" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#C2185B">
+  </text><rect width="190" height="90" x="570" y="370" fill="#fce4ec" stroke="#e91e63" rx="5"/><text x="665" y="390" fill="#c2185b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     PERSONALKOSTNADER
-  </text>
-  <text x="580" y="405" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="405" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Integrering med lønnskostnader per time
-  </text>
-  <text x="580" y="420" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="420" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Bemanning vs omsetning
-  </text>
-  <text x="580" y="435" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="435" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Produktivitetsmåling
-  </text>
-  <text x="580" y="450" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="450" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Optimalt bemanningsnivå
-  </text>
-  
-  <rect x="570" y="480" width="190" height="60" fill="#FFF8E1" stroke="#FFA000" stroke-width="1" rx="5"/>
-  <text x="665" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FF8F00">
+  </text><rect width="190" height="60" x="570" y="480" fill="#fff8e1" stroke="#ffa000" rx="5"/><text x="665" y="500" fill="#ff8f00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     SESONGMØNSTRE
-  </text>
-  <text x="580" y="515" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="515" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Analyse av trafikkmønstre
-  </text>
-  <text x="580" y="530" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="580" y="530" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Prognosering av kapasitetsbehov
-  </text>
-  
-
-  <rect x="50" y="570" width="730" height="25" fill="#ECEFF1" stroke="#607D8B" stroke-width="1" rx="5"/>
-  <text x="415" y="588" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#37474F">
+  </text><rect width="730" height="25" x="50" y="570" fill="#eceff1" stroke="#607d8b" rx="5"/><text x="415" y="588" fill="#37474f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Hver bransje krever tilpassede X-rapport funksjoner for optimal drift og kontroll
-  </text>
-</svg>
+  </text></svg>

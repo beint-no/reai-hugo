@@ -1,200 +1,91 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="qualityGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#009688;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#4CAF50;stop-opacity:0.8"/>
-    </linearGradient>
-  </defs>
-
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#009688;stop-opacity:.8"/><stop offset="100%" style="stop-color:#4caf50;stop-opacity:.8"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     X-rapport Kvalitetskontroll
-  </text>
-  
-
-  <circle cx="400" cy="300" r="120" fill="none" stroke="#009688" stroke-width="4" stroke-dasharray="10,5"/>
-  
-
-  <circle cx="400" cy="300" r="40" fill="url(#qualityGrad)"/>
-  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="300" r="120" fill="none" stroke="#009688" stroke-dasharray="10,5" stroke-width="4"/><circle cx="400" cy="300" r="40" fill="url(#a)"/><text x="400" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KVALITETS-
-  </text>
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="400" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KONTROLL
-  </text>
-  
-
-  <rect x="320" y="100" width="160" height="120" fill="#E0F2F1" stroke="#009688" stroke-width="2" rx="8"/>
-  <text x="400" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#00695C">
+  </text><rect width="160" height="120" x="320" y="100" fill="#e0f2f1" stroke="#009688" stroke-width="2" rx="8"/><text x="400" y="125" fill="#00695c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     DAGLIG VALIDERING
-  </text>
-  
-  <text x="330" y="145" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#004D40">
+  </text><text x="330" y="145" fill="#004d40" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Kontantelling:
-  </text>
-  <text x="330" y="160" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="160" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Sammenligning med rapportert beholdning
-  </text>
-  
-  <text x="330" y="180" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#004D40">
+  </text><text x="330" y="180" fill="#004d40" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Transaksjonskontroll:
-  </text>
-  <text x="330" y="195" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="195" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Verifikasjon av kundekvitteringer
-  </text>
-  <text x="330" y="210" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="210" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Systemkonsistens kontroll
-  </text>
-  
-
-  <line x1="400" y1="220" x2="400" y2="260" stroke="#009688" stroke-width="2"/>
-  
-
-  <rect x="560" y="180" width="200" height="140" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2" rx="8"/>
-  <text x="660" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#388E3C">
+  </text><path stroke="#009688" stroke-width="2" d="M400 220v40"/><rect width="200" height="140" x="560" y="180" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/><text x="660" y="205" fill="#388e3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     SIKKERHETSTILTAK
-  </text>
-  
-  <text x="570" y="225" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2E7D32">
+  </text><text x="570" y="225" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Beskyttelse av rapportdata:
-  </text>
-  <text x="570" y="240" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="570" y="240" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Tilgangskontroll basert på roller
-  </text>
-  <text x="570" y="255" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="570" y="255" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Komplett audit trail
-  </text>
-  <text x="570" y="270" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="570" y="270" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Backup og gjenoppretting
-  </text>
-  <text x="570" y="285" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="570" y="285" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kryptering av sensitive data
-  </text>
-  <text x="570" y="300" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="570" y="300" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • To-faktor autentisering
-  </text>
-  
-
-  <line x1="520" y1="320" x2="480" y2="260" stroke="#4CAF50" stroke-width="2"/>
-  
-
-  <rect x="560" y="380" width="200" height="140" fill="#E3F2FD" stroke="#2196F3" stroke-width="2" rx="8"/>
-  <text x="660" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+  </text><path stroke="#4caf50" stroke-width="2" d="m520 320-40-60"/><rect width="200" height="140" x="560" y="380" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="8"/><text x="660" y="405" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     COMPLIANCE &amp; REVISION
-  </text>
-  
-  <text x="570" y="425" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1565C0">
+  </text><text x="570" y="425" fill="#1565c0" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     X-rapporter må dokumentere:
-  </text>
-  <text x="570" y="440" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="570" y="440" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Transaksjonsnøyaktighet
-  </text>
-  <text x="570" y="455" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="570" y="455" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Systemintegritet
-  </text>
-  <text x="570" y="470" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="570" y="470" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Prosessetterlevelse
-  </text>
-  <text x="570" y="485" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="570" y="485" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Dokumentasjonskomplethet
-  </text>
-  <text x="570" y="500" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="570" y="500" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Fullstendig sporbarhet
-  </text>
-  
-
-  <line x1="520" y1="380" x2="480" y2="340" stroke="#2196F3" stroke-width="2"/>
-  
-
-  <rect x="320" y="420" width="160" height="120" fill="#FFF3E0" stroke="#FF9800" stroke-width="2" rx="8"/>
-  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
+  </text><path stroke="#2196f3" stroke-width="2" d="m520 380-40-40"/><rect width="160" height="120" x="320" y="420" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="8"/><text x="400" y="445" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     HISTORISK ANALYSE
-  </text>
-  
-  <text x="330" y="465" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#EF6C00">
+  </text><text x="330" y="465" fill="#ef6c00" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Sammenligning:
-  </text>
-  <text x="330" y="480" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="480" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Analyse mot normale mønstre
-  </text>
-  <text x="330" y="495" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="495" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Trendidentifikasjon
-  </text>
-  <text x="330" y="510" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="510" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Avviksdeteksjon
-  </text>
-  <text x="330" y="525" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="330" y="525" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Sesongkorrigeringer
-  </text>
-  
-
-  <line x1="400" y1="420" x2="400" y2="340" stroke="#FF9800" stroke-width="2"/>
-  
-
-  <rect x="40" y="380" width="200" height="140" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2" rx="8"/>
-  <text x="140" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
+  </text><path stroke="#ff9800" stroke-width="2" d="M400 420v-80"/><rect width="200" height="140" x="40" y="380" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="8"/><text x="140" y="405" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     AVVIKS- OG FEILDETEKSJON
-  </text>
-  
-  <text x="50" y="425" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#6A1B9A">
+  </text><text x="50" y="425" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Automatisk identifikasjon:
-  </text>
-  <text x="50" y="440" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="50" y="440" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Ulike kontantbeholdning
-  </text>
-  <text x="50" y="455" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="50" y="455" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Unormale transaksjonsmønstre
-  </text>
-  <text x="50" y="470" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="50" y="470" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Systemfeil og inkonsistens
-  </text>
-  <text x="50" y="485" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="50" y="485" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Uautoriserte endringer
-  </text>
-  <text x="50" y="500" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="50" y="500" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Tidsstempel anomalier
-  </text>
-  
-
-  <line x1="280" y1="380" x2="320" y2="340" stroke="#9C27B0" stroke-width="2"/>
-  
-
-  <rect x="40" y="180" width="200" height="140" fill="#FFEBEE" stroke="#F44336" stroke-width="2" rx="8"/>
-  <text x="140" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#D32F2F">
+  </text><path stroke="#9c27b0" stroke-width="2" d="m280 380 40-40"/><rect width="200" height="140" x="40" y="180" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="8"/><text x="140" y="205" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     SYSTEMINTEGRITET
-  </text>
-  
-  <text x="50" y="225" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#C62828">
+  </text><text x="50" y="225" fill="#c62828" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Kontinuerlig overvåking:
-  </text>
-  <text x="50" y="240" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="50" y="240" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Systemhelse monitoring
-  </text>
-  <text x="50" y="255" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="50" y="255" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Database integritet
-  </text>
-  <text x="50" y="270" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="50" y="270" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Nettverksstabilitet
-  </text>
-  <text x="50" y="285" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="50" y="285" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Transaksjonssekvenssering
-  </text>
-  <text x="50" y="300" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="50" y="300" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Data-synkronisering
-  </text>
-  
-
-  <line x1="280" y1="320" x2="320" y2="260" stroke="#F44336" stroke-width="2"/>
-  
-
-  <rect x="100" y="560" width="600" height="35" fill="#ECEFF1" stroke="#607D8B" stroke-width="1" rx="5"/>
-  <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#37474F">
+  </text><path stroke="#f44336" stroke-width="2" d="m280 320 40-60"/><rect width="600" height="35" x="100" y="560" fill="#eceff1" stroke="#607d8b" rx="5"/><text x="400" y="575" fill="#37474f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KVALITETSMÅL FOR X-RAPPORTER
-  </text>
-  <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="400" y="590" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     99.9% nøyaktighet • 100% sporbarhet • &lt;1% avvik • Daglig validering • Komplett audit trail
-  </text>
-</svg>
+  </text></svg>

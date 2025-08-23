@@ -1,101 +1,13 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="xGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#2196F3;stop-opacity:0.8"/>
-    </linearGradient>
-    <linearGradient id="zGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#F44336;stop-opacity:0.8"/>
-    </linearGradient>
-  </defs>
-
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:.8"/><stop offset="100%" style="stop-color:#2196f3;stop-opacity:.8"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:.8"/><stop offset="100%" style="stop-color:#f44336;stop-opacity:.8"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     X-rapport vs Z-rapport Sammenligning
-  </text>
-  
-
-  <rect x="50" y="70" width="320" height="480" fill="white" stroke="#4CAF50" stroke-width="3" rx="10"/>
-  <rect x="50" y="70" width="320" height="60" fill="url(#xGrad)" rx="10 10 0 0"/>
-  <text x="210" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="320" height="480" x="50" y="70" fill="#fff" stroke="#4caf50" stroke-width="3" rx="10"/><rect width="320" height="60" x="50" y="70" fill="url(#a)" rx="10 10 0 0"/><text x="210" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     X-RAPPORT
-  </text>
-  <text x="210" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="210" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Mellomrapport
-  </text>
-  
-
-  <text x="70" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Funksjon:</text>
-  <text x="70" y="180" font-family="Arial, sans-serif" font-size="12" fill="#666">• Mellomrapportering</text>
-  <text x="70" y="195" font-family="Arial, sans-serif" font-size="12" fill="#666">• Statusoversikt</text>
-  <text x="70" y="210" font-family="Arial, sans-serif" font-size="12" fill="#666">• Kontinuerlig overvåking</text>
-  
-  <text x="70" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Tidspunkt:</text>
-  <text x="70" y="260" font-family="Arial, sans-serif" font-size="12" fill="#666">• Når som helst i løpet av dagen</text>
-  <text x="70" y="275" font-family="Arial, sans-serif" font-size="12" fill="#666">• Flere ganger daglig</text>
-  <text x="70" y="290" font-family="Arial, sans-serif" font-size="12" fill="#666">• Planlagt eller ad-hoc</text>
-  
-  <text x="70" y="320" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Systemeffekt:</text>
-  <text x="70" y="340" font-family="Arial, sans-serif" font-size="12" fill="#666">• Tellere påvirkes IKKE</text>
-  <text x="70" y="355" font-family="Arial, sans-serif" font-size="12" fill="#666">• Ikke-destruktiv operasjon</text>
-  <text x="70" y="370" font-family="Arial, sans-serif" font-size="12" fill="#666">• Kassen fortsetter å fungere</text>
-  
-  <text x="70" y="400" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Regnskapseffekt:</text>
-  <text x="70" y="420" font-family="Arial, sans-serif" font-size="12" fill="#666">• Ingen direkte effekt</text>
-  <text x="70" y="435" font-family="Arial, sans-serif" font-size="12" fill="#666">• Kun intern kontroll</text>
-  <text x="70" y="450" font-family="Arial, sans-serif" font-size="12" fill="#666">• Mellomlagret data</text>
-  
-  <text x="70" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Formål:</text>
-  <text x="70" y="500" font-family="Arial, sans-serif" font-size="12" fill="#666">• Driftskontroll</text>
-  <text x="70" y="515" font-family="Arial, sans-serif" font-size="12" fill="#666">• Sikkerhet</text>
-  <text x="70" y="530" font-family="Arial, sans-serif" font-size="12" fill="#666">• Overvåking</text>
-  
-
-  <rect x="430" y="70" width="320" height="480" fill="white" stroke="#F44336" stroke-width="3" rx="10"/>
-  <rect x="430" y="70" width="320" height="60" fill="url(#zGrad)" rx="10 10 0 0"/>
-  <text x="590" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><text x="70" y="160" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Funksjon:</text><text x="70" y="180" fill="#666" font-family="Arial, sans-serif" font-size="12">• Mellomrapportering</text><text x="70" y="195" fill="#666" font-family="Arial, sans-serif" font-size="12">• Statusoversikt</text><text x="70" y="210" fill="#666" font-family="Arial, sans-serif" font-size="12">• Kontinuerlig overvåking</text><text x="70" y="240" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Tidspunkt:</text><text x="70" y="260" fill="#666" font-family="Arial, sans-serif" font-size="12">• Når som helst i løpet av dagen</text><text x="70" y="275" fill="#666" font-family="Arial, sans-serif" font-size="12">• Flere ganger daglig</text><text x="70" y="290" fill="#666" font-family="Arial, sans-serif" font-size="12">• Planlagt eller ad-hoc</text><text x="70" y="320" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Systemeffekt:</text><text x="70" y="340" fill="#666" font-family="Arial, sans-serif" font-size="12">• Tellere påvirkes IKKE</text><text x="70" y="355" fill="#666" font-family="Arial, sans-serif" font-size="12">• Ikke-destruktiv operasjon</text><text x="70" y="370" fill="#666" font-family="Arial, sans-serif" font-size="12">• Kassen fortsetter å fungere</text><text x="70" y="400" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Regnskapseffekt:</text><text x="70" y="420" fill="#666" font-family="Arial, sans-serif" font-size="12">• Ingen direkte effekt</text><text x="70" y="435" fill="#666" font-family="Arial, sans-serif" font-size="12">• Kun intern kontroll</text><text x="70" y="450" fill="#666" font-family="Arial, sans-serif" font-size="12">• Mellomlagret data</text><text x="70" y="480" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Formål:</text><text x="70" y="500" fill="#666" font-family="Arial, sans-serif" font-size="12">• Driftskontroll</text><text x="70" y="515" fill="#666" font-family="Arial, sans-serif" font-size="12">• Sikkerhet</text><text x="70" y="530" fill="#666" font-family="Arial, sans-serif" font-size="12">• Overvåking</text><rect width="320" height="480" x="430" y="70" fill="#fff" stroke="#f44336" stroke-width="3" rx="10"/><rect width="320" height="60" x="430" y="70" fill="url(#b)" rx="10 10 0 0"/><text x="590" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Z-RAPPORT
-  </text>
-  <text x="590" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="590" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Avslutningsrapport
-  </text>
-  
-
-  <text x="450" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Funksjon:</text>
-  <text x="450" y="180" font-family="Arial, sans-serif" font-size="12" fill="#666">• Kasseavslutning</text>
-  <text x="450" y="195" font-family="Arial, sans-serif" font-size="12" fill="#666">• Endelig rapportering</text>
-  <text x="450" y="210" font-family="Arial, sans-serif" font-size="12" fill="#666">• Dagoppgjør</text>
-  
-  <text x="450" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Tidspunkt:</text>
-  <text x="450" y="260" font-family="Arial, sans-serif" font-size="12" fill="#666">• Kun ved dagsslutt</text>
-  <text x="450" y="275" font-family="Arial, sans-serif" font-size="12" fill="#666">• Én gang per dag</text>
-  <text x="450" y="290" font-family="Arial, sans-serif" font-size="12" fill="#666">• Planlagt tidspunkt</text>
-  
-  <text x="450" y="320" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Systemeffekt:</text>
-  <text x="450" y="340" font-family="Arial, sans-serif" font-size="12" fill="#666">• Tellere NULLSTILLES</text>
-  <text x="450" y="355" font-family="Arial, sans-serif" font-size="12" fill="#666">• Destruktiv operasjon</text>
-  <text x="450" y="370" font-family="Arial, sans-serif" font-size="12" fill="#666">• Avslutter kassedagen</text>
-  
-  <text x="450" y="400" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Regnskapseffekt:</text>
-  <text x="450" y="420" font-family="Arial, sans-serif" font-size="12" fill="#666">• Direkte bokføring</text>
-  <text x="450" y="435" font-family="Arial, sans-serif" font-size="12" fill="#666">• Regnskapsbilag</text>
-  <text x="450" y="450" font-family="Arial, sans-serif" font-size="12" fill="#666">• MVA-rapportering</text>
-  
-  <text x="450" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Formål:</text>
-  <text x="450" y="500" font-family="Arial, sans-serif" font-size="12" fill="#666">• Regnskap</text>
-  <text x="450" y="515" font-family="Arial, sans-serif" font-size="12" fill="#666">• Compliance</text>
-  <text x="450" y="530" font-family="Arial, sans-serif" font-size="12" fill="#666">• Endelig oppgjør</text>
-  
-
-  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#666">VS</text>
-  
-
-  <rect x="100" y="570" width="600" height="25" fill="#ECEFF1" stroke="#607D8B" stroke-width="1" rx="5"/>
-  <text x="400" y="588" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#37474F">
+  </text><text x="450" y="160" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Funksjon:</text><text x="450" y="180" fill="#666" font-family="Arial, sans-serif" font-size="12">• Kasseavslutning</text><text x="450" y="195" fill="#666" font-family="Arial, sans-serif" font-size="12">• Endelig rapportering</text><text x="450" y="210" fill="#666" font-family="Arial, sans-serif" font-size="12">• Dagoppgjør</text><text x="450" y="240" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Tidspunkt:</text><text x="450" y="260" fill="#666" font-family="Arial, sans-serif" font-size="12">• Kun ved dagsslutt</text><text x="450" y="275" fill="#666" font-family="Arial, sans-serif" font-size="12">• Én gang per dag</text><text x="450" y="290" fill="#666" font-family="Arial, sans-serif" font-size="12">• Planlagt tidspunkt</text><text x="450" y="320" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Systemeffekt:</text><text x="450" y="340" fill="#666" font-family="Arial, sans-serif" font-size="12">• Tellere NULLSTILLES</text><text x="450" y="355" fill="#666" font-family="Arial, sans-serif" font-size="12">• Destruktiv operasjon</text><text x="450" y="370" fill="#666" font-family="Arial, sans-serif" font-size="12">• Avslutter kassedagen</text><text x="450" y="400" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Regnskapseffekt:</text><text x="450" y="420" fill="#666" font-family="Arial, sans-serif" font-size="12">• Direkte bokføring</text><text x="450" y="435" fill="#666" font-family="Arial, sans-serif" font-size="12">• Regnskapsbilag</text><text x="450" y="450" fill="#666" font-family="Arial, sans-serif" font-size="12">• MVA-rapportering</text><text x="450" y="480" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Formål:</text><text x="450" y="500" fill="#666" font-family="Arial, sans-serif" font-size="12">• Regnskap</text><text x="450" y="515" fill="#666" font-family="Arial, sans-serif" font-size="12">• Compliance</text><text x="450" y="530" fill="#666" font-family="Arial, sans-serif" font-size="12">• Endelig oppgjør</text><text x="400" y="320" fill="#666" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">VS</text><rect width="600" height="25" x="100" y="570" fill="#eceff1" stroke="#607d8b" rx="5"/><text x="400" y="588" fill="#37474f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     X-rapport = Kontroll uten konsekvens | Z-rapport = Endelig avslutning med regnskapseffekt
-  </text>
-</svg>
+  </text></svg>

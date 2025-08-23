@@ -1,245 +1,81 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="cloudGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#17a2b8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#138496;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#17a2b8;stop-opacity:1"/><stop offset="100%" style="stop-color:#138496;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Digitale Verktøy for Forretningsførere
-  </text>
-  
-
-  <g transform="translate(350, 280)">
-
-    <ellipse cx="50" cy="40" rx="40" ry="25" fill="url(#cloudGradient)"/>
-    <ellipse cx="30" cy="35" rx="25" ry="20" fill="url(#cloudGradient)"/>
-    <ellipse cx="70" cy="35" rx="25" ry="20" fill="url(#cloudGradient)"/>
-    <text x="50" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(350 280)"><ellipse cx="50" cy="40" fill="url(#c)" rx="40" ry="25"/><ellipse cx="30" cy="35" fill="url(#c)" rx="25" ry="20"/><ellipse cx="70" cy="35" fill="url(#c)" rx="25" ry="20"/><text x="50" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       CLOUD
-    </text>
-  </g>
-  
-
-  <g transform="translate(80, 100)">
-    <rect x="0" y="0" width="180" height="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-
-    <ellipse cx="35" cy="25" rx="15" ry="8" fill="#1976d2"/>
-    <rect x="20" y="25" width="30" height="16" fill="#1976d2"/>
-    <ellipse cx="35" cy="41" rx="15" ry="8" fill="#1976d2"/>
-    
-    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    </text></g><g transform="translate(80 100)"><rect width="180" height="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/><ellipse cx="35" cy="25" fill="#1976d2" rx="15" ry="8"/><path fill="#1976d2" d="M20 25h30v16H20z"/><ellipse cx="35" cy="41" fill="#1976d2" rx="15" ry="8"/><text x="90" y="25" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       ERP-system
-    </text>
-    <text x="90" y="45" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+    </text><text x="90" y="45" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Integrerte forretningssystemer
-    </text>
-    <text x="90" y="60" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+    </text><text x="90" y="60" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Regnskap
-    </text>
-    <text x="90" y="75" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+    </text><text x="90" y="75" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Lønn
-    </text>
-    <text x="90" y="90" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+    </text><text x="90" y="90" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Prosjektstyring
-    </text>
-    <text x="90" y="105" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+    </text><text x="90" y="105" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Rapportering
-    </text>
-  </g>
-  
-
-  <g transform="translate(540, 100)">
-    <rect x="0" y="0" width="180" height="120" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/>
-
-    <rect x="20" y="20" width="30" height="35" fill="#7b1fa2" rx="2"/>
-    <line x1="25" y1="30" x2="45" y2="30" stroke="white" stroke-width="1"/>
-    <line x1="25" y1="35" x2="45" y2="35" stroke="white" stroke-width="1"/>
-    <line x1="25" y1="40" x2="45" y2="40" stroke="white" stroke-width="1"/>
-    <line x1="25" y1="45" x2="45" y2="45" stroke="white" stroke-width="1"/>
-    
-    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+    </text></g><g transform="translate(540 100)"><rect width="180" height="120" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/><rect width="30" height="35" x="20" y="20" fill="#7b1fa2" rx="2"/><path stroke="#fff" d="M25 30h20M25 35h20M25 40h20M25 45h20"/><text x="90" y="25" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       E-faktura
-    </text>
-    <text x="90" y="45" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+    </text><text x="90" y="45" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Elektronisk fakturering
-    </text>
-    <text x="90" y="60" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+    </text><text x="90" y="60" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Automatisert sending
-    </text>
-    <text x="90" y="75" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+    </text><text x="90" y="75" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Digital arkivering
-    </text>
-    <text x="90" y="90" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+    </text><text x="90" y="90" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Raskere betaling
-    </text>
-    <text x="90" y="105" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+    </text><text x="90" y="105" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Miljøvennlig
-    </text>
-  </g>
-  
-
-  <g transform="translate(80, 420)">
-    <rect x="0" y="0" width="180" height="120" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
-
-    <rect x="20" y="20" width="35" height="25" fill="#f57c00" rx="3"/>
-    <rect x="22" y="22" width="31" height="15" fill="white"/>
-    <circle cx="30" cy="50" r="3" fill="#f57c00"/>
-    <circle cx="40" cy="50" r="3" fill="#f57c00"/>
-    <circle cx="50" cy="50" r="3" fill="#f57c00"/>
-    
-    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f57c00">
+    </text></g><g transform="translate(80 420)"><rect width="180" height="120" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/><rect width="35" height="25" x="20" y="20" fill="#f57c00" rx="3"/><path fill="#fff" d="M22 22h31v15H22z"/><circle cx="30" cy="50" r="3" fill="#f57c00"/><circle cx="40" cy="50" r="3" fill="#f57c00"/><circle cx="50" cy="50" r="3" fill="#f57c00"/><text x="90" y="25" fill="#f57c00" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Datakasse
-    </text>
-    <text x="90" y="45" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">
+    </text><text x="90" y="45" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Kassasystem
-    </text>
-    <text x="90" y="60" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">
+    </text><text x="90" y="60" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Salgsregistrering
-    </text>
-    <text x="90" y="75" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">
+    </text><text x="90" y="75" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Lagerintegrasjon
-    </text>
-    <text x="90" y="90" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">
+    </text><text x="90" y="90" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Rapportering
-    </text>
-    <text x="90" y="105" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">
+    </text><text x="90" y="105" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Regnskapsintegrasjon
-    </text>
-  </g>
-  
-
-  <g transform="translate(540, 420)">
-    <rect x="0" y="0" width="180" height="120" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/>
-
-    <ellipse cx="35" cy="30" rx="15" ry="10" fill="#388e3c"/>
-    <ellipse cx="25" cy="27" rx="10" ry="8" fill="#388e3c"/>
-    <ellipse cx="45" cy="27" rx="10" ry="8" fill="#388e3c"/>
-
-    <rect x="28" y="35" width="2" height="8" fill="white"/>
-    <rect x="32" y="32" width="2" height="11" fill="white"/>
-    <rect x="36" y="29" width="2" height="14" fill="white"/>
-    <rect x="40" y="26" width="2" height="17" fill="white"/>
-    
-    <text x="90" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#388e3c">
+    </text></g><g transform="translate(540 420)"><rect width="180" height="120" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/><ellipse cx="35" cy="30" fill="#388e3c" rx="15" ry="10"/><ellipse cx="25" cy="27" fill="#388e3c" rx="10" ry="8"/><ellipse cx="45" cy="27" fill="#388e3c" rx="10" ry="8"/><path fill="#fff" d="M28 35h2v8h-2zM32 32h2v11h-2zM36 29h2v14h-2zM40 26h2v17h-2z"/><text x="90" y="25" fill="#388e3c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Skybasert Regnskap
-    </text>
-    <text x="90" y="45" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#388e3c">
+    </text><text x="90" y="45" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Cloud-baserte løsninger
-    </text>
-    <text x="90" y="60" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#388e3c">
+    </text><text x="90" y="60" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Sanntidsdata
-    </text>
-    <text x="90" y="75" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#388e3c">
+    </text><text x="90" y="75" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Tilgang overalt
-    </text>
-    <text x="90" y="90" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#388e3c">
+    </text><text x="90" y="90" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Automatisk backup
-    </text>
-    <text x="90" y="105" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#388e3c">
+    </text><text x="90" y="105" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Samarbeid i sanntid
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 260)">
-    <rect x="0" y="0" width="160" height="120" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="10"/>
-
-    <rect x="25" y="20" width="20" height="25" fill="#c2185b" rx="3"/>
-    <circle cx="30" cy="30" r="2" fill="white"/>
-    <circle cx="40" cy="30" r="2" fill="white"/>
-    <rect x="32" y="35" width="6" height="2" fill="white"/>
-
-    <line x1="35" y1="20" x2="35" y2="15" stroke="#c2185b" stroke-width="2"/>
-    <circle cx="35" cy="15" r="2" fill="#c2185b"/>
-    
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c2185b">
+    </text></g><g transform="translate(50 260)"><rect width="160" height="120" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="10"/><rect width="20" height="25" x="25" y="20" fill="#c2185b" rx="3"/><circle cx="30" cy="30" r="2" fill="#fff"/><circle cx="40" cy="30" r="2" fill="#fff"/><path fill="#fff" d="M32 35h6v2h-6z"/><path stroke="#c2185b" stroke-width="2" d="M35 20v-5"/><circle cx="35" cy="15" r="2" fill="#c2185b"/><text x="80" y="30" fill="#c2185b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       AI &amp; Automatisering
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#c2185b">
+    </text><text x="80" y="50" fill="#c2185b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Kunstig intelligens
-    </text>
-    <text x="80" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#c2185b">
+    </text><text x="80" y="65" fill="#c2185b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Automatisk bokføring
-    </text>
-    <text x="80" y="80" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#c2185b">
+    </text><text x="80" y="80" fill="#c2185b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Prediktiv analyse
-    </text>
-    <text x="80" y="95" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#c2185b">
+    </text><text x="80" y="95" fill="#c2185b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Rutineautomatisering
-    </text>
-  </g>
-  
-
-  <g transform="translate(590, 260)">
-    <rect x="0" y="0" width="160" height="120" fill="#f1f8e9" stroke="#689f38" stroke-width="2" rx="10"/>
-
-    <rect x="25" y="20" width="20" height="30" fill="#689f38" rx="3"/>
-    <rect x="27" y="23" width="16" height="20" fill="white"/>
-    <circle cx="35" cy="47" r="2" fill="white"/>
-    
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#689f38">
+    </text></g><g transform="translate(590 260)"><rect width="160" height="120" fill="#f1f8e9" stroke="#689f38" stroke-width="2" rx="10"/><rect width="20" height="30" x="25" y="20" fill="#689f38" rx="3"/><path fill="#fff" d="M27 23h16v20H27z"/><circle cx="35" cy="47" r="2" fill="#fff"/><text x="80" y="30" fill="#689f38" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Mobile Apps
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#689f38">
+    </text><text x="80" y="50" fill="#689f38" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Mobilregnskap
-    </text>
-    <text x="80" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#689f38">
+    </text><text x="80" y="65" fill="#689f38" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Kvitteringsskanning
-    </text>
-    <text x="80" y="80" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#689f38">
+    </text><text x="80" y="80" fill="#689f38" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Reiseregning
-    </text>
-    <text x="80" y="95" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#689f38">
+    </text><text x="80" y="95" fill="#689f38" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Timeregistrering
-    </text>
-  </g>
-  
-
-  <g stroke="#6c757d" stroke-width="2" fill="none">
-
-    <line x1="260" y1="160" x2="350" y2="280"/>
-
-    <line x1="540" y1="160" x2="450" y2="280"/>
-
-    <line x1="260" y1="480" x2="350" y2="360"/>
-
-    <line x1="540" y1="480" x2="450" y2="360"/>
-
-    <line x1="210" y1="320" x2="350" y2="320"/>
-
-    <line x1="590" y1="320" x2="450" y2="320"/>
-  </g>
-  
-
-  <g transform="translate(250, 570)">
-    <text x="150" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
+    </text></g><g fill="none" stroke="#6c757d" stroke-width="2"><path d="m260 160 90 120M540 160l-90 120M260 480l90-120M540 480l-90-120M210 320h140M590 320H450"/></g><g font-family="Arial, sans-serif"><text x="150" fill="#212529" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(250 570)">
       Fordeler med Digitale Verktøy
-    </text>
-    <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+    </text><text y="15" fill="#6c757d" font-size="11" transform="translate(250 570)">
       • Økt effektivitet og produktivitet
-    </text>
-    <text x="150" y="15" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+    </text><text x="150" y="15" fill="#6c757d" font-size="11" transform="translate(250 570)">
       • Redusert risiko for feil
-    </text>
-    <text x="300" y="15" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+    </text><text x="300" y="15" fill="#6c757d" font-size="11" transform="translate(250 570)">
       • Bedre beslutningsgrunnlag
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

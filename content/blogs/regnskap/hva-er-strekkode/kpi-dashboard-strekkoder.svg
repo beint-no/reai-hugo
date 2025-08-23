@@ -1,210 +1,37 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="dashboardBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="progressGreen" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#34d399;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="progressBlue" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="progressOrange" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fbbf24;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#dashboardBg)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/><stop offset="100%" style="stop-color:#34d399;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/><stop offset="100%" style="stop-color:#fbbf24;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#1e293b" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     KPI Dashboard - Strekkodeteknologi
-  </text>
-  
-
-  <g transform="translate(50, 60)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+  </text><text y="20" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold" transform="translate(50 60)">
       Ytelsesmålinger
-    </text>
-    
-
-    <g transform="translate(0, 40)">
-      <rect x="0" y="0" width="300" height="80" rx="8" fill="#f0fdf4" stroke="#10b981" stroke-width="2"/>
-      <text x="15" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#14532d">
+    </text><g transform="translate(50 100)"><rect width="300" height="80" fill="#f0fdf4" stroke="#10b981" stroke-width="2" rx="8"/><text x="15" y="25" fill="#14532d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Skanningsnøyaktighet
-      </text>
-      
-
-      <rect x="15" y="35" width="200" height="15" fill="#e5e7eb" rx="8"/>
-      <rect x="15" y="35" width="198" height="15" fill="url(#progressGreen)" rx="8"/>
-      <text x="225" y="47" font-family="Arial, sans-serif" font-size="12" fill="#14532d">99.9%</text>
-      
-      <text x="15" y="68" font-family="Arial, sans-serif" font-size="11" fill="#059669">
-        Målsetting: >99.5% | Status: ✓ Oppnådd
-      </text>
-    </g>
-    
-
-    <g transform="translate(0, 130)">
-      <rect x="0" y="0" width="300" height="80" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
-      <text x="15" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+      </text><rect width="200" height="15" x="15" y="35" fill="#e5e7eb" rx="8"/><rect width="198" height="15" x="15" y="35" fill="url(#b)" rx="8"/><text x="225" y="47" fill="#14532d" font-family="Arial, sans-serif" font-size="12">99.9%</text><text x="15" y="68" fill="#059669" font-family="Arial, sans-serif" font-size="11">
+        Målsetting: &gt;99.5% | Status: ✓ Oppnådd
+      </text></g><g transform="translate(50 190)"><rect width="300" height="80" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" rx="8"/><text x="15" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Responstid per skanning
-      </text>
-      
-
-      <rect x="15" y="35" width="200" height="15" fill="#e5e7eb" rx="8"/>
-      <rect x="15" y="35" width="120" height="15" fill="url(#progressBlue)" rx="8"/>
-      <text x="225" y="47" font-family="Arial, sans-serif" font-size="12" fill="#1e40af">3.2 sek</text>
-      
-      <text x="15" y="68" font-family="Arial, sans-serif" font-size="11" fill="#2563eb">
+      </text><rect width="200" height="15" x="15" y="35" fill="#e5e7eb" rx="8"/><rect width="120" height="15" x="15" y="35" fill="url(#c)" rx="8"/><text x="225" y="47" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">3.2 sek</text><text x="15" y="68" fill="#2563eb" font-family="Arial, sans-serif" font-size="11">
         Målsetting: &lt;5 sek | Status: ✓ Oppnådd
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(400, 60)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      </text></g><text y="20" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold" transform="translate(400 60)">
       Økonomiske Indikatorer
-    </text>
-    
-
-    <g transform="translate(0, 40)">
-      <rect x="0" y="0" width="300" height="80" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="2"/>
-      <text x="15" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#a16207">
+    </text><g transform="translate(400 100)"><rect width="300" height="80" fill="#fefce8" stroke="#eab308" stroke-width="2" rx="8"/><text x="15" y="25" fill="#a16207" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Månedlige besparelser
-      </text>
-      
-
-      <text x="15" y="45" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#92400e">
+      </text><text x="15" y="45" fill="#92400e" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
         NOK 45,000
-      </text>
-      
-      <text x="15" y="68" font-family="Arial, sans-serif" font-size="11" fill="#a16207">
+      </text><text x="15" y="68" fill="#a16207" font-family="Arial, sans-serif" font-size="11">
         Målsetting: NOK 40,000 | Status: ✓ Overprestert
-      </text>
-    </g>
-    
-
-    <g transform="translate(0, 130)">
-      <rect x="0" y="0" width="300" height="80" rx="8" fill="#fdf4ff" stroke="#a855f7" stroke-width="2"/>
-      <text x="15" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7c2d12">
+      </text></g><g transform="translate(400 190)"><rect width="300" height="80" fill="#fdf4ff" stroke="#a855f7" stroke-width="2" rx="8"/><text x="15" y="25" fill="#7c2d12" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         ROI Utvikling
-      </text>
-      
-
-      <rect x="15" y="35" width="200" height="15" fill="#e5e7eb" rx="8"/>
-      <rect x="15" y="35" width="160" height="15" fill="url(#progressOrange)" rx="8"/>
-      <text x="225" y="47" font-family="Arial, sans-serif" font-size="12" fill="#7c2d12">180%</text>
-      
-      <text x="15" y="68" font-family="Arial, sans-serif" font-size="11" fill="#a855f7">
+      </text><rect width="200" height="15" x="15" y="35" fill="#e5e7eb" rx="8"/><rect width="160" height="15" x="15" y="35" fill="url(#d)" rx="8"/><text x="225" y="47" fill="#7c2d12" font-family="Arial, sans-serif" font-size="12">180%</text><text x="15" y="68" fill="#a855f7" font-family="Arial, sans-serif" font-size="11">
         12 måneders ROI | Payback oppnådd mnd 8
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 250)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      </text></g><g transform="translate(50 250)"><text y="20" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Operasjonelle Målinger
-    </text>
-    
-
-    <rect x="0" y="30" width="320" height="180" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
-    <text x="160" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
+    </text><rect width="320" height="180" y="30" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" rx="8"/><text x="160" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Daglige Skanninger (siste 7 dager)
-    </text>
-    
-
-    <line x1="30" y1="70" x2="30" y2="180" stroke="#9ca3af" stroke-width="1"/>
-    <line x1="30" y1="180" x2="300" y2="180" stroke="#9ca3af" stroke-width="1"/>
-    
-
-    <text x="25" y="75" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">1000</text>
-    <text x="25" y="105" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">750</text>
-    <text x="25" y="135" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">500</text>
-    <text x="25" y="165" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">250</text>
-    <text x="25" y="185" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">0</text>
-    
-
-    <text x="50" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Man</text>
-    <text x="85" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Tir</text>
-    <text x="120" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Ons</text>
-    <text x="155" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Tor</text>
-    <text x="190" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Fre</text>
-    <text x="225" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Lør</text>
-    <text x="260" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Søn</text>
-    
-
-    <rect x="45" y="100" width="10" height="80" fill="#3b82f6" opacity="0.8"/>
-    <rect x="80" y="95" width="10" height="85" fill="#3b82f6" opacity="0.8"/>
-    <rect x="115" y="85" width="10" height="95" fill="#3b82f6" opacity="0.8"/>
-    <rect x="150" y="90" width="10" height="90" fill="#3b82f6" opacity="0.8"/>
-    <rect x="185" y="80" width="10" height="100" fill="#3b82f6" opacity="0.8"/>
-    <rect x="220" y="130" width="10" height="50" fill="#3b82f6" opacity="0.8"/>
-    <rect x="255" y="140" width="10" height="40" fill="#3b82f6" opacity="0.8"/>
-    
-
-    <line x1="45" y1="110" x2="265" y2="110" stroke="#ef4444" stroke-width="2" stroke-dasharray="5,5"/>
-    <text x="270" y="114" font-family="Arial, sans-serif" font-size="8" fill="#ef4444">Snitt</text>
-  </g>
-  
-
-  <g transform="translate(400, 250)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+    </text><path stroke="#9ca3af" d="M30 70v110M30 180h270"/><text x="25" y="75" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="end">1000</text><text x="25" y="105" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="end">750</text><text x="25" y="135" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="end">500</text><text x="25" y="165" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="end">250</text><text x="25" y="185" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="end">0</text><text x="50" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Man</text><text x="85" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Tir</text><text x="120" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Ons</text><text x="155" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Tor</text><text x="190" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Fre</text><text x="225" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Lør</text><text x="260" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Søn</text><path fill="#3b82f6" d="M45 100h10v80H45zM80 95h10v85H80zM115 85h10v95h-10zM150 90h10v90h-10zM185 80h10v100h-10zM220 130h10v50h-10zM255 140h10v40h-10z" opacity=".8"/><path stroke="#ef4444" stroke-dasharray="5,5" stroke-width="2" d="M45 110h220"/><text x="270" y="114" fill="#ef4444" font-family="Arial, sans-serif" font-size="8">Snitt</text></g><g transform="translate(400 250)"><text y="20" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Feil- og Kvalitetssporing
-    </text>
-    
-
-    <rect x="0" y="30" width="320" height="180" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
-    <text x="160" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
+    </text><rect width="320" height="180" y="30" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" rx="8"/><text x="160" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Feilrate Trending (ukentlig)
-    </text>
-    
-
-    <line x1="30" y1="70" x2="30" y2="180" stroke="#9ca3af" stroke-width="1"/>
-    <line x1="30" y1="180" x2="300" y2="180" stroke="#9ca3af" stroke-width="1"/>
-    
-
-    <text x="25" y="75" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">1.0%</text>
-    <text x="25" y="105" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">0.75%</text>
-    <text x="25" y="135" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">0.5%</text>
-    <text x="25" y="165" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">0.25%</text>
-    <text x="25" y="185" text-anchor="end" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">0%</text>
-    
-
-    <text x="60" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Uke 1</text>
-    <text x="120" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Uke 2</text>
-    <text x="180" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Uke 3</text>
-    <text x="240" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Uke 4</text>
-    
-
-    <path d="M 60 150 L 120 145 L 180 175 L 240 178" stroke="#10b981" stroke-width="3" fill="none"/>
-    
-
-    <circle cx="60" cy="150" r="4" fill="#10b981"/>
-    <circle cx="120" cy="145" r="4" fill="#10b981"/>
-    <circle cx="180" cy="175" r="4" fill="#10b981"/>
-    <circle cx="240" cy="178" r="4" fill="#10b981"/>
-    
-
-    <line x1="30" y1="165" x2="300" y2="165" stroke="#ef4444" stroke-width="1" stroke-dasharray="3,3"/>
-    <text x="305" y="169" font-family="Arial, sans-serif" font-size="8" fill="#ef4444">Mål: 0.25%</text>
-  </g>
-  
-
-  <g transform="translate(50, 450)">
-    <rect x="0" y="0" width="700" height="40" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
-    <text x="20" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">
+    </text><path stroke="#9ca3af" d="M30 70v110M30 180h270"/><text x="25" y="75" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="end">1.0%</text><text x="25" y="105" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="end">0.75%</text><text x="25" y="135" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="end">0.5%</text><text x="25" y="165" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="end">0.25%</text><text x="25" y="185" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="end">0%</text><text x="60" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Uke 1</text><text x="120" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Uke 2</text><text x="180" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Uke 3</text><text x="240" y="195" fill="#6b7280" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Uke 4</text><path fill="none" stroke="#10b981" stroke-width="3" d="m60 150 60-5 60 30 60 3"/><circle cx="60" cy="150" r="4" fill="#10b981"/><circle cx="120" cy="145" r="4" fill="#10b981"/><circle cx="180" cy="175" r="4" fill="#10b981"/><circle cx="240" cy="178" r="4" fill="#10b981"/><path stroke="#ef4444" stroke-dasharray="3,3" d="M30 165h270"/><text x="305" y="169" fill="#ef4444" font-family="Arial, sans-serif" font-size="8">Mål: 0.25%</text></g><g transform="translate(50 450)"><rect width="700" height="40" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" rx="8"/><text x="20" y="18" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Sammendrag (siste 30 dager):
-    </text>
-    <text x="20" y="32" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+    </text><text x="20" y="32" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">
       Total skanninger: 25,847 | Gjennomsnittlig daglig: 862 | Feilrate: 0.12% | Besparelser: NOK 135,000 | Brukertilfredshet: 94%
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

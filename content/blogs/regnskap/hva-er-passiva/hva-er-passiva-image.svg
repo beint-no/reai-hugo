@@ -1,88 +1,23 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="passivaBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:0.1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <rect x="50" y="50" width="700" height="300" fill="url(#passivaBg)" stroke="#3b82f6" stroke-width="2" rx="10"/>
-  
-
-  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#1e40af">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:.1"/><stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:.1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><rect width="700" height="300" x="50" y="50" fill="url(#b)" stroke="#3b82f6" stroke-width="2" rx="10"/><text x="400" y="90" fill="#1e40af" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     HVA ER PASSIVA?
-  </text>
-  
-
-  <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#475569">
+  </text><text x="400" y="120" fill="#475569" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">
     Gjeld og Egenkapital i Regnskap
-  </text>
-  
-
-  <g transform="translate(100, 160)">
-
-    <line x1="250" y1="120" x2="350" y2="120" stroke="#374151" stroke-width="3"/>
-    <circle cx="300" cy="120" r="8" fill="#374151"/>
-    <line x1="300" y1="112" x2="300" y2="80" stroke="#374151" stroke-width="2"/>
-    
-
-    <rect x="180" y="90" width="120" height="30" fill="#10b981" stroke="#059669" stroke-width="2" rx="5"/>
-    <text x="240" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><g transform="translate(100 160)"><path stroke="#374151" stroke-width="3" d="M250 120h100"/><circle cx="300" cy="120" r="8" fill="#374151"/><path stroke="#374151" stroke-width="2" d="M300 112V80"/><rect width="120" height="30" x="180" y="90" fill="#10b981" stroke="#059669" stroke-width="2" rx="5"/><text x="240" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       AKTIVA
-    </text>
-    <line x1="240" y1="90" x2="280" y2="80" stroke="#374151" stroke-width="2"/>
-    
-
-    <rect x="300" y="90" width="120" height="30" fill="#3b82f6" stroke="#2563eb" stroke-width="2" rx="5"/>
-    <text x="360" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><path stroke="#374151" stroke-width="2" d="m240 90 40-10"/><rect width="120" height="30" x="300" y="90" fill="#3b82f6" stroke="#2563eb" stroke-width="2" rx="5"/><text x="360" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       PASSIVA
-    </text>
-    <line x1="360" y1="90" x2="320" y2="80" stroke="#374151" stroke-width="2"/>
-    
-
-    <text x="300" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
+    </text><path stroke="#374151" stroke-width="2" d="m360 90-40-10"/><text x="300" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       AKTIVA = PASSIVA
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 160)">
-
-    <rect x="0" y="0" width="120" height="40" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2" rx="5"/>
-    <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><g transform="translate(450 160)"><rect width="120" height="40" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2" rx="5"/><text x="60" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       EGENKAPITAL
-    </text>
-    
-
-    <text x="60" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#374151">
+    </text><text x="60" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       +
-    </text>
-    
-
-    <rect x="0" y="70" width="120" height="40" fill="#ef4444" stroke="#dc2626" stroke-width="2" rx="5"/>
-    <text x="60" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="120" height="40" y="70" fill="#ef4444" stroke="#dc2626" stroke-width="2" rx="5"/><text x="60" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       GJELD
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 280)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" fill="#475569">
+    </text></g><g fill="#475569" font-family="Arial, sans-serif" font-size="14"><text transform="translate(50 280)">
       • Finansieringskilder for bedriftens eiendeler
-    </text>
-    <text x="250" y="0" font-family="Arial, sans-serif" font-size="14" fill="#475569">
+    </text><text x="250" transform="translate(50 280)">
       • Kortsiktig og langsiktig gjeld
-    </text>
-    <text x="500" y="0" font-family="Arial, sans-serif" font-size="14" fill="#475569">
+    </text><text x="500" transform="translate(50 280)">
       • Grunnlag for finansiell analyse
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

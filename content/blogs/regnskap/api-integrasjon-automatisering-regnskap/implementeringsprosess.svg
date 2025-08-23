@@ -1,211 +1,97 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="phaseGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="progressGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Implementeringsprosess for API-integrasjon
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="20" rx="10" fill="#e9ecef" stroke="#dee2e6" stroke-width="1"/>
-  <rect x="50" y="60" width="175" height="20" rx="10" fill="url(#progressGradient)"/>
-  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><rect width="700" height="20" x="50" y="60" fill="#e9ecef" stroke="#dee2e6" rx="10"/><rect width="175" height="20" x="50" y="60" fill="url(#b)" rx="10"/><text x="400" y="105" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Implementeringsfremdrift: 25% - 50% - 75% - 100%
-  </text>
-  
-
-  <rect x="50" y="130" width="150" height="120" rx="10" fill="url(#phaseGradient)" stroke="#0056b3" stroke-width="2"/>
-  <text x="125" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="150" height="120" x="50" y="130" fill="url(#c)" stroke="#0056b3" stroke-width="2" rx="10"/><text x="125" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FASE 1
-  </text>
-  <text x="125" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="125" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     KARTLEGGING
-  </text>
-  <text x="125" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="125" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     &amp; ANALYSE
-  </text>
-  
-  <text x="60" y="215" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="60" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Systemkartlegging
-  </text>
-  <text x="60" y="230" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="60" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Behovsanalyse
-  </text>
-  <text x="60" y="245" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="60" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • ROI-beregning
-  </text>
-  
-
-  <rect x="225" y="130" width="150" height="120" rx="10" fill="url(#phaseGradient)" stroke="#0056b3" stroke-width="2"/>
-  <text x="300" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="150" height="120" x="225" y="130" fill="url(#c)" stroke="#0056b3" stroke-width="2" rx="10"/><text x="300" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FASE 2
-  </text>
-  <text x="300" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="300" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     SYSTEMVALG
-  </text>
-  <text x="300" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="300" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     &amp; PLANLEGGING
-  </text>
-  
-  <text x="235" y="215" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="235" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Leverandørvalg
-  </text>
-  <text x="235" y="230" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="235" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Arkitekturdesign
-  </text>
-  <text x="235" y="245" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="235" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Prosjektplan
-  </text>
-  
-
-  <rect x="400" y="130" width="150" height="120" rx="10" fill="url(#phaseGradient)" stroke="#0056b3" stroke-width="2"/>
-  <text x="475" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="150" height="120" x="400" y="130" fill="url(#c)" stroke="#0056b3" stroke-width="2" rx="10"/><text x="475" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FASE 3
-  </text>
-  <text x="475" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="475" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     UTVIKLING
-  </text>
-  <text x="475" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="475" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     &amp; TESTING
-  </text>
-  
-  <text x="410" y="215" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="410" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • API-utvikling
-  </text>
-  <text x="410" y="230" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="410" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Integrasjonstesting
-  </text>
-  <text x="410" y="245" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="410" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Sikkerhetstesting
-  </text>
-  
-
-  <rect x="575" y="130" width="150" height="120" rx="10" fill="url(#phaseGradient)" stroke="#0056b3" stroke-width="2"/>
-  <text x="650" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="150" height="120" x="575" y="130" fill="url(#c)" stroke="#0056b3" stroke-width="2" rx="10"/><text x="650" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FASE 4
-  </text>
-  <text x="650" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="650" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     UTRULLING
-  </text>
-  <text x="650" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="650" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     &amp; OPTIMALISERING
-  </text>
-  
-  <text x="585" y="215" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="585" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Produksjonssetting
-  </text>
-  <text x="585" y="230" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="585" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Brukeropplæring
-  </text>
-  <text x="585" y="245" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="585" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Overvåking
-  </text>
-  
-
-  <text x="125" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6c757d">
+  </text><text x="125" y="275" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Uke 1-2
-  </text>
-  <text x="300" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6c757d">
+  </text><text x="300" y="275" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Uke 3-4
-  </text>
-  <text x="475" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6c757d">
+  </text><text x="475" y="275" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Uke 5-8
-  </text>
-  <text x="650" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6c757d">
+  </text><text x="650" y="275" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Uke 9-12
-  </text>
-  
-
-  <defs>
-    <marker id="phaseArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-  </defs>
-  
-  <line x1="200" y1="190" x2="225" y2="190" stroke="#28a745" stroke-width="3" marker-end="url(#phaseArrow)"/>
-  <line x1="375" y1="190" x2="400" y2="190" stroke="#28a745" stroke-width="3" marker-end="url(#phaseArrow)"/>
-  <line x1="550" y1="190" x2="575" y2="190" stroke="#28a745" stroke-width="3" marker-end="url(#phaseArrow)"/>
-  
-
-  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
+  </text><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke="#28a745" stroke-width="3" marker-end="url(#d)" d="M200 190h25"/><path stroke="#28a745" stroke-width="3" marker-end="url(#d)" d="M375 190h25"/><path stroke="#28a745" stroke-width="3" marker-end="url(#d)" d="M550 190h25"/><text x="400" y="320" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Kritiske Suksessfaktorer
-  </text>
-  
-
-  <rect x="50" y="340" width="160" height="80" rx="8" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="130" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="80" x="50" y="340" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/><text x="130" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     GRUNDIG
-  </text>
-  <text x="130" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="130" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     PLANLEGGING
-  </text>
-  <text x="130" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="130" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Detaljert kartlegging av
-  </text>
-  <text x="130" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="130" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     behov og prosesser
-  </text>
-  
-  <rect x="230" y="340" width="160" height="80" rx="8" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
-  <text x="310" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+  </text><rect width="160" height="80" x="230" y="340" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="8"/><text x="310" y="365" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     RIKTIG
-  </text>
-  <text x="310" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+  </text><text x="310" y="385" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     TEKNOLOGI
-  </text>
-  <text x="310" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#212529">
+  </text><text x="310" y="405" fill="#212529" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Skalerbare og sikre
-  </text>
-  <text x="310" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#212529">
+  </text><text x="310" y="415" fill="#212529" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     API-løsninger
-  </text>
-  
-  <rect x="410" y="340" width="160" height="80" rx="8" fill="#007bff" stroke="#0056b3" stroke-width="2"/>
-  <text x="490" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="80" x="410" y="340" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="8"/><text x="490" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     SYSTEMATISK
-  </text>
-  <text x="490" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="490" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     TESTING
-  </text>
-  <text x="490" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="490" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Omfattende testing av
-  </text>
-  <text x="490" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="490" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     alle integrasjoner
-  </text>
-  
-  <rect x="590" y="340" width="160" height="80" rx="8" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
-  <text x="670" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="80" x="590" y="340" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="8"/><text x="670" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     KONTINUERLIG
-  </text>
-  <text x="670" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="670" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FORBEDRING
-  </text>
-  <text x="670" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="670" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Løpende optimalisering
-  </text>
-  <text x="670" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="670" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     basert på erfaringer
-  </text>
-  
-
-  <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+  </text><text x="400" y="460" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Gjennomsnittlig implementeringstid: 8-12 uker for SMB, 12-24 uker for store bedrifter
-  </text>
-</svg>
+  </text></svg>

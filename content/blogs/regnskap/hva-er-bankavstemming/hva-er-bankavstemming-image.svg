@@ -1,108 +1,23 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4dabf7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1c7ed6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#51cf66;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#37b24d;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4dabf7;stop-opacity:1"/><stop offset="100%" style="stop-color:#1c7ed6;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#51cf66;stop-opacity:1"/><stop offset="100%" style="stop-color:#37b24d;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="50" fill="#212529" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Bankavstemming i Regnskap
-  </text>
-  
-
-  <rect x="50" y="100" width="200" height="250" rx="10" fill="url(#blueGradient)" stroke="#1864ab" stroke-width="2"/>
-  <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="200" height="250" x="50" y="100" fill="url(#b)" stroke="#1864ab" stroke-width="2" rx="10"/><text x="150" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Kassabok
-  </text>
-  <text x="150" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="150" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (Internt system)
-  </text>
-  
-
-  <rect x="70" y="170" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="80" y="185" font-family="Arial, sans-serif" font-size="12" fill="white">Innskudd: +50,000 kr</text>
-  
-  <rect x="70" y="195" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="80" y="210" font-family="Arial, sans-serif" font-size="12" fill="white">Utbetaling: -25,000 kr</text>
-  
-  <rect x="70" y="220" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="80" y="235" font-family="Arial, sans-serif" font-size="12" fill="white">Lønn: -30,000 kr</text>
-  
-  <rect x="70" y="245" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="80" y="260" font-family="Arial, sans-serif" font-size="12" fill="white">Gebyr: -500 kr</text>
-  
-
-  <rect x="70" y="280" width="160" height="25" fill="rgba(255,255,255,0.3)" rx="3"/>
-  <text x="150" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="20" x="70" y="170" fill="rgba(255,255,255,0.2)" rx="3"/><text x="80" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="12">Innskudd: +50,000 kr</text><rect width="160" height="20" x="70" y="195" fill="rgba(255,255,255,0.2)" rx="3"/><text x="80" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="12">Utbetaling: -25,000 kr</text><rect width="160" height="20" x="70" y="220" fill="rgba(255,255,255,0.2)" rx="3"/><text x="80" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="12">Lønn: -30,000 kr</text><rect width="160" height="20" x="70" y="245" fill="rgba(255,255,255,0.2)" rx="3"/><text x="80" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="12">Gebyr: -500 kr</text><rect width="160" height="25" x="70" y="280" fill="rgba(255,255,255,0.3)" rx="3"/><text x="150" y="298" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Saldo: 125,000 kr
-  </text>
-  
-
-  <rect x="550" y="100" width="200" height="250" rx="10" fill="url(#greenGradient)" stroke="#2f9e44" stroke-width="2"/>
-  <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="200" height="250" x="550" y="100" fill="url(#c)" stroke="#2f9e44" stroke-width="2" rx="10"/><text x="650" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Bankutskrift
-  </text>
-  <text x="650" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="650" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (Bank system)
-  </text>
-  
-
-  <rect x="570" y="170" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="580" y="185" font-family="Arial, sans-serif" font-size="12" fill="white">Innskudd: +48,000 kr</text>
-  
-  <rect x="570" y="195" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="580" y="210" font-family="Arial, sans-serif" font-size="12" fill="white">Utbetaling: -25,000 kr</text>
-  
-  <rect x="570" y="220" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="580" y="235" font-family="Arial, sans-serif" font-size="12" fill="white">Lønn: -30,000 kr</text>
-  
-  <rect x="570" y="245" width="160" height="20" fill="rgba(255,255,255,0.2)" rx="3"/>
-  <text x="580" y="260" font-family="Arial, sans-serif" font-size="12" fill="white">Bankgebyr: -800 kr</text>
-  
-
-  <rect x="570" y="280" width="160" height="25" fill="rgba(255,255,255,0.3)" rx="3"/>
-  <text x="650" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="20" x="570" y="170" fill="rgba(255,255,255,0.2)" rx="3"/><text x="580" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="12">Innskudd: +48,000 kr</text><rect width="160" height="20" x="570" y="195" fill="rgba(255,255,255,0.2)" rx="3"/><text x="580" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="12">Utbetaling: -25,000 kr</text><rect width="160" height="20" x="570" y="220" fill="rgba(255,255,255,0.2)" rx="3"/><text x="580" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="12">Lønn: -30,000 kr</text><rect width="160" height="20" x="570" y="245" fill="rgba(255,255,255,0.2)" rx="3"/><text x="580" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="12">Bankgebyr: -800 kr</text><rect width="160" height="25" x="570" y="280" fill="rgba(255,255,255,0.3)" rx="3"/><text x="650" y="298" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Saldo: 118,500 kr
-  </text>
-  
-
-  <path d="M 270 200 Q 400 150 530 200" stroke="#fd7e14" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 530 250 Q 400 300 270 250" stroke="#fd7e14" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#fd7e14"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fd7e14">
+  </text><path fill="none" stroke="#fd7e14" stroke-width="3" marker-end="url(#d)" d="M270 200q130-50 260 0"/><path fill="none" stroke="#fd7e14" stroke-width="3" marker-end="url(#d)" d="M530 250q-130 50-260 0"/><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#fd7e14" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="180" fill="#fd7e14" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     SAMMENLIGN
-  </text>
-  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fd7e14">
+  </text><text x="400" y="280" fill="#fd7e14" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     AVSTEM
-  </text>
-  
-
-  <rect x="320" y="320" width="160" height="40" rx="20" fill="#ffd43b" stroke="#fab005" stroke-width="2"/>
-  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="160" height="40" x="320" y="320" fill="#ffd43b" stroke="#fab005" stroke-width="2" rx="20"/><text x="400" y="340" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Differanse: 6,500 kr
-  </text>
-  <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="400" y="355" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Krever undersøkelse
-  </text>
-</svg>
+  </text></svg>

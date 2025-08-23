@@ -1,116 +1,37 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="taxGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="benefitGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <rect x="50" y="30" width="700" height="80" rx="15" fill="url(#headerGrad)"/>
-  <text x="400" y="85" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="36" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc2626;stop-opacity:1"/><stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#10b981;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><rect width="700" height="80" x="50" y="30" fill="url(#a)" rx="15"/><text x="400" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">
     Skatt på Uføretrygd
-  </text>
-  
-
-  <g transform="translate(100, 150)">
-
-    <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#benefitGrad)" stroke="#047857" stroke-width="2"/>
-    <text x="100" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><g transform="translate(100 150)"><rect width="200" height="120" fill="url(#b)" stroke="#047857" stroke-width="2" rx="10"/><text x="100" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Uføretrygd
-    </text>
-    <text x="100" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    </text><text x="100" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       300.000 kr
-    </text>
-    <text x="100" y="80" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="100" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Skattepliktig inntekt
-    </text>
-    <text x="100" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="100" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Fra NAV
-    </text>
-    
-
-    <path d="M220 60 L280 60" stroke="#374151" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-    
-
-    <rect x="300" y="0" width="300" height="120" rx="10" fill="url(#taxGrad)" stroke="#dc2626" stroke-width="2"/>
-    <text x="450" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><path fill="none" stroke="#374151" stroke-width="3" marker-end="url(#c)" d="M220 60h60"/><rect width="300" height="120" x="300" fill="url(#d)" stroke="#dc2626" stroke-width="2" rx="10"/><text x="450" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Skatteberegning
-    </text>
-    <text x="450" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="450" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Trygdeavgift: 5,1% = 15.300 kr
-    </text>
-    <text x="450" y="70" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="450" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Ordinær skatt: 22% = 66.000 kr
-    </text>
-    <text x="450" y="95" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><text x="450" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Total skatt: 81.300 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    </text></g><g transform="translate(50 320)"><text y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
       Viktige kjennetegn ved skatt på uføretrygd:
-    </text>
-    
-
-    <circle cx="20" cy="60" r="8" fill="#3b82f6"/>
-    <text x="40" y="67" fill="#374151" font-family="Arial, sans-serif" font-size="16">
+    </text><circle cx="20" cy="60" r="8" fill="#3b82f6"/><text x="40" y="67" fill="#374151" font-family="Arial, sans-serif" font-size="16">
       Lavere trygdeavgift enn ordinær lønn (5,1% vs 8,2%)
-    </text>
-    
-
-    <circle cx="20" cy="90" r="8" fill="#3b82f6"/>
-    <text x="40" y="97" fill="#374151" font-family="Arial, sans-serif" font-size="16">
+    </text><circle cx="20" cy="90" r="8" fill="#3b82f6"/><text x="40" y="97" fill="#374151" font-family="Arial, sans-serif" font-size="16">
       Rett til uførefradrag på inntil 19.000 kr
-    </text>
-    
-
-    <circle cx="20" cy="120" r="8" fill="#3b82f6"/>
-    <text x="40" y="127" fill="#374151" font-family="Arial, sans-serif" font-size="16">
+    </text><circle cx="20" cy="120" r="8" fill="#3b82f6"/><text x="40" y="127" fill="#374151" font-family="Arial, sans-serif" font-size="16">
       NAV trekker forskuddsskatt automatisk
-    </text>
-    
-
-    <circle cx="20" cy="150" r="8" fill="#3b82f6"/>
-    <text x="40" y="157" fill="#374151" font-family="Arial, sans-serif" font-size="16">
+    </text><circle cx="20" cy="150" r="8" fill="#3b82f6"/><text x="40" y="157" fill="#374151" font-family="Arial, sans-serif" font-size="16">
       Kombineres med arbeidsinntekt ved gradert uføretrygd
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 500)">
-    <rect x="0" y="0" width="700" height="80" rx="10" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
-    <text x="350" y="25" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(50 500)"><rect width="700" height="80" fill="#e5e7eb" stroke="#9ca3af" rx="10"/><text x="350" y="25" fill="#374151" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Fradrag for uføretrygdmottakere
-    </text>
-    <text x="175" y="50" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="175" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Personfradrag: 67.000 kr
-    </text>
-    <text x="350" y="50" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="350" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Uførefradrag: inntil 19.000 kr
-    </text>
-    <text x="525" y="50" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="525" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Minstefradrag: minimum 4.000 kr
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
-    </marker>
-  </defs>
-</svg>
+    </text></g><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#374151" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

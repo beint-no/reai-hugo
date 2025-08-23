@@ -1,139 +1,65 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="metricGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:.1"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Analyse av Driftsresultat - Nøkkeltall
-  </text>
-  
-
-  <rect x="50" y="80" width="700" height="180" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-
-  <rect x="70" y="100" width="200" height="120" fill="url(#metricGradient)" stroke="#28a745" stroke-width="2" rx="5"/>
-  <text x="170" y="125" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="700" height="180" x="50" y="80" fill="#fff" stroke="#dee2e6" rx="10"/><rect width="200" height="120" x="70" y="100" fill="url(#b)" stroke="#28a745" stroke-width="2" rx="5"/><text x="170" y="125" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DRIFTSMARGIN
-  </text>
-  <text x="170" y="145" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">
+  </text><text x="170" y="145" fill="#333" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (Driftsresultat ÷
-  </text>
-  <text x="170" y="160" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">
+  </text><text x="170" y="160" fill="#333" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Driftsinntekter) × 100
-  </text>
-  <text x="170" y="185" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="170" y="185" fill="#28a745" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     9,5%
-  </text>
-  <text x="170" y="205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="170" y="205" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Operasjonell effektivitet
-  </text>
-  
-
-  <rect x="300" y="100" width="200" height="120" fill="url(#metricGradient)" stroke="#0066cc" stroke-width="2" rx="5"/>
-  <text x="400" y="125" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="200" height="120" x="300" y="100" fill="url(#b)" stroke="#06c" stroke-width="2" rx="5"/><text x="400" y="125" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ROCE
-  </text>
-  <text x="400" y="145" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">
+  </text><text x="400" y="145" fill="#333" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (Driftsresultat ÷
-  </text>
-  <text x="400" y="160" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">
+  </text><text x="400" y="160" fill="#333" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Sysselsatt kapital) × 100
-  </text>
-  <text x="400" y="185" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><text x="400" y="185" fill="#06c" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     12,5%
-  </text>
-  <text x="400" y="205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="400" y="205" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kapitaleffektivitet
-  </text>
-  
-
-  <rect x="530" y="100" width="200" height="120" fill="url(#metricGradient)" stroke="#fd7e14" stroke-width="2" rx="5"/>
-  <text x="630" y="125" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#fd7e14">
+  </text><rect width="200" height="120" x="530" y="100" fill="url(#b)" stroke="#fd7e14" stroke-width="2" rx="5"/><text x="630" y="125" fill="#fd7e14" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     RESULTAT/AKSJE
-  </text>
-  <text x="630" y="145" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">
+  </text><text x="630" y="145" fill="#333" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Driftsresultat ÷
-  </text>
-  <text x="630" y="160" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">
+  </text><text x="630" y="160" fill="#333" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Antall aksjer
-  </text>
-  <text x="630" y="185" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#fd7e14">
+  </text><text x="630" y="185" fill="#fd7e14" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     10 kr
-  </text>
-  <text x="630" y="205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="630" y="205" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Per aksje lønnsomhet
-  </text>
-  
-
-  <rect x="50" y="280" width="700" height="180" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  <text x="400" y="305" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><rect width="700" height="180" x="50" y="280" fill="#fff" stroke="#dee2e6" rx="10"/><text x="400" y="305" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Benchmarking og Sammenligning
-  </text>
-  
-
-  <rect x="70" y="320" width="200" height="80" fill="#e8f4fd" stroke="#0066cc" stroke-width="1" rx="5"/>
-  <text x="170" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="200" height="80" x="70" y="320" fill="#e8f4fd" stroke="#06c" rx="5"/><text x="170" y="340" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Bransjesammenligning
-  </text>
-  <text x="170" y="360" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="170" y="360" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sammenlign driftsmargin
-  </text>
-  <text x="170" y="375" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="170" y="375" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     med konkurrenter
-  </text>
-  <text x="170" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="170" y="390" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     ✓ Over bransjesnitt
-  </text>
-  
-  <rect x="300" y="320" width="200" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="5"/>
-  <text x="400" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="200" height="80" x="300" y="320" fill="#e8f5e8" stroke="#28a745" rx="5"/><text x="400" y="340" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Historisk utvikling
-  </text>
-  <text x="400" y="360" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="400" y="360" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Følg utviklingen
-  </text>
-  <text x="400" y="375" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="400" y="375" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     over tid
-  </text>
-  <text x="400" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="400" y="390" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     ↗ Positiv trend
-  </text>
-  
-  <rect x="530" y="320" width="200" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
-  <text x="630" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="200" height="80" x="530" y="320" fill="#fff3cd" stroke="#ffc107" rx="5"/><text x="630" y="340" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Sesongvariasjoner
-  </text>
-  <text x="630" y="360" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="630" y="360" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Vurder sesongmessige
-  </text>
-  <text x="630" y="375" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="630" y="375" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     svingninger
-  </text>
-  <text x="630" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><text x="630" y="390" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     ⚠ Høy variasjon
-  </text>
-  
-
-  <rect x="50" y="420" width="700" height="60" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="70" y="440" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><rect width="700" height="60" x="50" y="420" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="70" y="440" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Nøkkelinnsikter:
-  </text>
-  <text x="70" y="460" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="460" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Driftsmargin på 9,5% indikerer god operasjonell kontroll
-  </text>
-  <text x="70" y="475" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="475" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • ROCE på 12,5% viser effektiv kapitalutnyttelse • Positiv trend over tid styrker investeringstillit
-  </text>
-</svg>
+  </text></svg>

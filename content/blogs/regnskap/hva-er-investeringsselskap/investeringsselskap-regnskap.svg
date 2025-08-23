@@ -1,228 +1,91 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-    </marker>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskapsflyt for Investeringsselskaper
-  </text>
-  
-
-  <rect x="300" y="80" width="200" height="120" fill="#e8f5e8" stroke="#2e7d32" stroke-width="3" rx="10"/>
-  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1b5e20">
+  </text><rect width="200" height="120" x="300" y="80" fill="#e8f5e8" stroke="#2e7d32" stroke-width="3" rx="10"/><text x="400" y="105" fill="#1b5e20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Investeringsselskap
-  </text>
-  <text x="400" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2e7d32">
+  </text><text x="400" y="125" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Regnskapsføring
-  </text>
-  
-
-  <rect x="320" y="140" width="160" height="50" fill="white" stroke="#81c784" stroke-width="1" rx="5"/>
-  <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2e7d32">
+  </text><rect width="160" height="50" x="320" y="140" fill="#fff" stroke="#81c784" rx="5"/><text x="400" y="155" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Virkelig verdi-prinsippet
-  </text>
-  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+  </text><text x="400" y="170" fill="#495057" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Daglig verdivurdering
-  </text>
-  <text x="400" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+  </text><text x="400" y="182" fill="#495057" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Markedsbaserte priser
-  </text>
-  
-
-  <rect x="50" y="250" width="180" height="280" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
-  <text x="140" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0d47a1">
+  </text><rect width="180" height="280" x="50" y="250" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/><text x="140" y="275" fill="#0d47a1" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Eiendeler (Aktiva)
-  </text>
-  
-
-  <rect x="70" y="290" width="140" height="30" fill="white" stroke="#90caf9" stroke-width="1" rx="3"/>
-  <text x="140" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1976d2">
+  </text><rect width="140" height="30" x="70" y="290" fill="#fff" stroke="#90caf9" rx="3"/><text x="140" y="310" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Finansielle Investeringer
-  </text>
-  
-  <rect x="70" y="330" width="140" height="25" fill="#fff" stroke="#90caf9" stroke-width="1" rx="3"/>
-  <text x="80" y="345" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="70" y="330" fill="#fff" stroke="#90caf9" rx="3"/><text x="80" y="345" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Aksjer til virkelig verdi
-  </text>
-  
-  <rect x="70" y="360" width="140" height="25" fill="#fff" stroke="#90caf9" stroke-width="1" rx="3"/>
-  <text x="80" y="375" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="70" y="360" fill="#fff" stroke="#90caf9" rx="3"/><text x="80" y="375" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Obligasjoner til virkelig verdi
-  </text>
-  
-  <rect x="70" y="390" width="140" height="25" fill="#fff" stroke="#90caf9" stroke-width="1" rx="3"/>
-  <text x="80" y="405" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="70" y="390" fill="#fff" stroke="#90caf9" rx="3"/><text x="80" y="405" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Derivater til virkelig verdi
-  </text>
-  
-  <rect x="70" y="420" width="140" height="25" fill="#fff" stroke="#90caf9" stroke-width="1" rx="3"/>
-  <text x="80" y="435" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="70" y="420" fill="#fff" stroke="#90caf9" rx="3"/><text x="80" y="435" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Bankinnskudd
-  </text>
-  
-  <rect x="70" y="450" width="140" height="25" fill="#fff" stroke="#90caf9" stroke-width="1" rx="3"/>
-  <text x="80" y="465" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="70" y="450" fill="#fff" stroke="#90caf9" rx="3"/><text x="80" y="465" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Opptjente renter
-  </text>
-  
-  <rect x="70" y="480" width="140" height="25" fill="#fff" stroke="#90caf9" stroke-width="1" rx="3"/>
-  <text x="80" y="495" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="70" y="480" fill="#fff" stroke="#90caf9" rx="3"/><text x="80" y="495" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Andre fordringer
-  </text>
-  
-
-  <rect x="570" y="250" width="180" height="280" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/>
-  <text x="660" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e65100">
+  </text><rect width="180" height="280" x="570" y="250" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/><text x="660" y="275" fill="#e65100" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Gjeld &amp; Egenkapital
-  </text>
-  
-
-  <rect x="590" y="290" width="140" height="30" fill="white" stroke="#ffcc02" stroke-width="1" rx="3"/>
-  <text x="660" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f57c00">
+  </text><rect width="140" height="30" x="590" y="290" fill="#fff" stroke="#ffcc02" rx="3"/><text x="660" y="310" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Kortsiktig Gjeld
-  </text>
-  
-  <rect x="590" y="330" width="140" height="25" fill="#fff" stroke="#ffcc02" stroke-width="1" rx="3"/>
-  <text x="600" y="345" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="590" y="330" fill="#fff" stroke="#ffcc02" rx="3"/><text x="600" y="345" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Leverandørgjeld
-  </text>
-  
-  <rect x="590" y="360" width="140" height="25" fill="#fff" stroke="#ffcc02" stroke-width="1" rx="3"/>
-  <text x="600" y="375" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="590" y="360" fill="#fff" stroke="#ffcc02" rx="3"/><text x="600" y="375" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Påløpte kostnader
-  </text>
-  
-  <rect x="590" y="390" width="140" height="30" fill="white" stroke="#ffcc02" stroke-width="1" rx="3"/>
-  <text x="660" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f57c00">
+  </text><rect width="140" height="30" x="590" y="390" fill="#fff" stroke="#ffcc02" rx="3"/><text x="660" y="410" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Egenkapital
-  </text>
-  
-  <rect x="590" y="430" width="140" height="25" fill="#fff" stroke="#ffcc02" stroke-width="1" rx="3"/>
-  <text x="600" y="445" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="590" y="430" fill="#fff" stroke="#ffcc02" rx="3"/><text x="600" y="445" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Andelskapital
-  </text>
-  
-  <rect x="590" y="460" width="140" height="25" fill="#fff" stroke="#ffcc02" stroke-width="1" rx="3"/>
-  <text x="600" y="475" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="590" y="460" fill="#fff" stroke="#ffcc02" rx="3"/><text x="600" y="475" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Opptjent egenkapital
-  </text>
-  
-  <rect x="590" y="490" width="140" height="25" fill="#fff" stroke="#ffcc02" stroke-width="1" rx="3"/>
-  <text x="600" y="505" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><rect width="140" height="25" x="590" y="490" fill="#fff" stroke="#ffcc02" rx="3"/><text x="600" y="505" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Årets resultat
-  </text>
-  
-
-  <rect x="280" y="250" width="240" height="280" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="8"/>
-  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#4a148c">
+  </text><rect width="240" height="280" x="280" y="250" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="8"/><text x="400" y="275" fill="#4a148c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Resultatregnskap
-  </text>
-  
-
-  <rect x="300" y="290" width="200" height="30" fill="white" stroke="#ba68c8" stroke-width="1" rx="3"/>
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7b1fa2">
+  </text><rect width="200" height="30" x="300" y="290" fill="#fff" stroke="#ba68c8" rx="3"/><text x="400" y="310" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Inntekter
-  </text>
-  
-  <rect x="300" y="330" width="200" height="20" fill="#fff" stroke="#ba68c8" stroke-width="1" rx="3"/>
-  <text x="310" y="343" font-family="Arial, sans-serif" font-size="9" fill="#424242">
+  </text><rect width="200" height="20" x="300" y="330" fill="#fff" stroke="#ba68c8" rx="3"/><text x="310" y="343" fill="#424242" font-family="Arial, sans-serif" font-size="9">
     • Renteinntekter fra obligasjoner
-  </text>
-  
-  <rect x="300" y="355" width="200" height="20" fill="#fff" stroke="#ba68c8" stroke-width="1" rx="3"/>
-  <text x="310" y="368" font-family="Arial, sans-serif" font-size="9" fill="#424242">
+  </text><rect width="200" height="20" x="300" y="355" fill="#fff" stroke="#ba68c8" rx="3"/><text x="310" y="368" fill="#424242" font-family="Arial, sans-serif" font-size="9">
     • Utbytteinntekter fra aksjer
-  </text>
-  
-  <rect x="300" y="380" width="200" height="20" fill="#fff" stroke="#ba68c8" stroke-width="1" rx="3"/>
-  <text x="310" y="393" font-family="Arial, sans-serif" font-size="9" fill="#424242">
+  </text><rect width="200" height="20" x="300" y="380" fill="#fff" stroke="#ba68c8" rx="3"/><text x="310" y="393" fill="#424242" font-family="Arial, sans-serif" font-size="9">
     • Realiserte gevinster/tap
-  </text>
-  
-  <rect x="300" y="405" width="200" height="20" fill="#fff" stroke="#ba68c8" stroke-width="1" rx="3"/>
-  <text x="310" y="418" font-family="Arial, sans-serif" font-size="9" fill="#424242">
+  </text><rect width="200" height="20" x="300" y="405" fill="#fff" stroke="#ba68c8" rx="3"/><text x="310" y="418" fill="#424242" font-family="Arial, sans-serif" font-size="9">
     • Urealiserte verdiendringer
-  </text>
-  
-  <rect x="300" y="435" width="200" height="25" fill="white" stroke="#ba68c8" stroke-width="1" rx="3"/>
-  <text x="400" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#7b1fa2">
+  </text><rect width="200" height="25" x="300" y="435" fill="#fff" stroke="#ba68c8" rx="3"/><text x="400" y="452" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Kostnader
-  </text>
-  
-  <rect x="300" y="465" width="200" height="20" fill="#fff" stroke="#ba68c8" stroke-width="1" rx="3"/>
-  <text x="310" y="478" font-family="Arial, sans-serif" font-size="9" fill="#424242">
+  </text><rect width="200" height="20" x="300" y="465" fill="#fff" stroke="#ba68c8" rx="3"/><text x="310" y="478" fill="#424242" font-family="Arial, sans-serif" font-size="9">
     • Forvaltningsgebyrer
-  </text>
-  
-  <rect x="300" y="490" width="200" height="20" fill="#fff" stroke="#ba68c8" stroke-width="1" rx="3"/>
-  <text x="310" y="503" font-family="Arial, sans-serif" font-size="9" fill="#424242">
+  </text><rect width="200" height="20" x="300" y="490" fill="#fff" stroke="#ba68c8" rx="3"/><text x="310" y="503" fill="#424242" font-family="Arial, sans-serif" font-size="9">
     • Administrative kostnader
-  </text>
-  
-
-  <path d="M 230 390 L 280 390" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <path d="M 520 390 L 570 390" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="250" y="550" width="300" height="30" fill="#fff" stroke="#28a745" stroke-width="2" rx="5"/>
-  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
+  </text><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M230 390h50"/><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M520 390h50"/><rect width="300" height="30" x="250" y="550" fill="#fff" stroke="#28a745" stroke-width="2" rx="5"/><text x="400" y="570" fill="#155724" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Eiendeler = Gjeld + Egenkapital
-  </text>
-  
-
-  <rect x="50" y="80" width="200" height="120" fill="#fff" stroke="#17a2b8" stroke-width="2" rx="5"/>
-  <text x="150" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0c5460">
+  </text><rect width="200" height="120" x="50" y="80" fill="#fff" stroke="#17a2b8" stroke-width="2" rx="5"/><text x="150" y="105" fill="#0c5460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Regnskapsprinsipper
-  </text>
-  <text x="60" y="125" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="60" y="125" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     ✓ Virkelig verdi for investeringer
-  </text>
-  <text x="60" y="140" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="60" y="140" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     ✓ Daglig verdivurdering (NAV)
-  </text>
-  <text x="60" y="155" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="60" y="155" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     ✓ Markedsbaserte priser
-  </text>
-  <text x="60" y="170" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="60" y="170" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     ✓ Transparente rapporter
-  </text>
-  <text x="60" y="185" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="60" y="185" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     ✓ Regelmessig revisjon
-  </text>
-  
-
-  <rect x="550" y="80" width="200" height="120" fill="#fff" stroke="#dc3545" stroke-width="2" rx="5"/>
-  <text x="650" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
+  </text><rect width="200" height="120" x="550" y="80" fill="#fff" stroke="#dc3545" stroke-width="2" rx="5"/><text x="650" y="105" fill="#721c24" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Rapporteringskrav
-  </text>
-  <text x="560" y="125" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="560" y="125" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Månedlige rapporter til investorer
-  </text>
-  <text x="560" y="140" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="560" y="140" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Kvartalsrapporter til Finanstilsynet
-  </text>
-  <text x="560" y="155" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="560" y="155" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Årsregnskap med revisorberetning
-  </text>
-  <text x="560" y="170" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="560" y="170" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Prospekt og nøkkelinformasjon
-  </text>
-  <text x="560" y="185" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="560" y="185" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Risiko- og likviditetsrapporter
-  </text>
-  
-
-  <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="400" y="590" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Investeringsselskaper følger strenge regnskapsstandarder for å sikre transparens og investorbeskyttelse
-  </text>
-</svg>
+  </text></svg>

@@ -1,98 +1,41 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="incomeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="expenseGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="resultGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Driftsresultat Oversikt
-  </text>
-  
-
-  <rect x="50" y="80" width="300" height="150" fill="url(#incomeGradient)" rx="10"/>
-  <text x="200" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="150" x="50" y="80" fill="url(#a)" rx="10"/><text x="200" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     DRIFTSINNTEKTER
-  </text>
-  <text x="70" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="70" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Salgsinntekter
-  </text>
-  <text x="70" y="160" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="70" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Andre driftsinntekter
-  </text>
-  <text x="70" y="180" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="70" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Leieinntekter
-  </text>
-  <text x="70" y="200" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="70" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Provisjoner
-  </text>
-  
-
-  <text x="400" y="170" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><text x="400" y="170" fill="#333" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">
     -
-  </text>
-  
-
-  <rect x="450" y="80" width="300" height="150" fill="url(#expenseGradient)" rx="10"/>
-  <text x="600" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="150" x="450" y="80" fill="url(#b)" rx="10"/><text x="600" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     DRIFTSKOSTNADER
-  </text>
-  <text x="470" y="140" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="470" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Varekostnad
-  </text>
-  <text x="470" y="160" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="470" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Lønnskostnader
-  </text>
-  <text x="470" y="180" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="470" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Avskrivninger
-  </text>
-  <text x="470" y="200" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="470" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Andre driftskostnader
-  </text>
-  
-
-  <path d="M 400 250 L 380 280 L 420 280 Z" fill="#333"/>
-  <line x1="400" y1="240" x2="400" y2="280" stroke="#333" stroke-width="3"/>
-  
-
-  <rect x="250" y="320" width="300" height="100" fill="url(#resultGradient)" rx="10"/>
-  <text x="400" y="350" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path fill="#333" d="m400 250-20 30h40Z"/><path stroke="#333" stroke-width="3" d="M400 240v40"/><rect width="300" height="100" x="250" y="320" fill="url(#c)" rx="10"/><text x="400" y="350" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     DRIFTSRESULTAT
-  </text>
-  <text x="400" y="375" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+  </text><text x="400" y="375" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Operasjonell lønnsomhet
-  </text>
-  <text x="400" y="395" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+  </text><text x="400" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Før finansposter og skatt
-  </text>
-  
-
-  <text x="50" y="460" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+  </text><text x="50" y="460" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Nøkkelfordeler:
-  </text>
-  <text x="200" y="460" font-family="Arial, sans-serif" font-size="14" fill="#666">
+  </text><text x="200" y="460" fill="#666" font-family="Arial, sans-serif" font-size="14">
     • Sammenlignbart mellom selskaper
-  </text>
-  <text x="450" y="460" font-family="Arial, sans-serif" font-size="14" fill="#666">
+  </text><text x="450" y="460" fill="#666" font-family="Arial, sans-serif" font-size="14">
     • Måler operasjonell effektivitet
-  </text>
-  <text x="200" y="480" font-family="Arial, sans-serif" font-size="14" fill="#666">
+  </text><text x="200" y="480" fill="#666" font-family="Arial, sans-serif" font-size="14">
     • Grunnlag for verdsettelse
-  </text>
-  <text x="450" y="480" font-family="Arial, sans-serif" font-size="14" fill="#666">
+  </text><text x="450" y="480" fill="#666" font-family="Arial, sans-serif" font-size="14">
     • Uavhengig av finansiering
-  </text>
-</svg>
+  </text></svg>

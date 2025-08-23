@@ -1,152 +1,61 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="driftGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="finansGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#17a2b8;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="andreGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="ekstraGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:.8"/><stop offset="100%" style="stop-color:#17a2b8;stop-opacity:.8"/></linearGradient><linearGradient id="d" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:.8"/><stop offset="100%" style="stop-color:#fd7e14;stop-opacity:.8"/></linearGradient><linearGradient id="e" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:.8"/><stop offset="100%" style="stop-color:#e83e8c;stop-opacity:.8"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Hovedkategorier av Inntekter
-  </text>
-  
-
-  <circle cx="400" cy="300" r="60" fill="white" stroke="#333" stroke-width="3"/>
-  <text x="400" y="295" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><circle cx="400" cy="300" r="60" fill="#fff" stroke="#333" stroke-width="3"/><text x="400" y="295" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     INNTEKTER
-  </text>
-  <text x="400" y="315" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="400" y="315" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kategorier
-  </text>
-  
-
-  <rect x="50" y="100" width="200" height="120" fill="url(#driftGradient)" stroke="#28a745" stroke-width="2" rx="10"/>
-  <text x="150" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="120" x="50" y="100" fill="url(#b)" stroke="#28a745" stroke-width="2" rx="10"/><text x="150" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DRIFTSINNTEKTER
-  </text>
-  <text x="150" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="150" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Fra hovedvirksomhet
-  </text>
-  <text x="70" y="180" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="70" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Salg av varer
-  </text>
-  <text x="70" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="70" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Tjenesteinntekter
-  </text>
-  <text x="70" y="210" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="70" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Leieinntekter
-  </text>
-  
-
-  <rect x="550" y="100" width="200" height="120" fill="url(#finansGradient)" stroke="#0066cc" stroke-width="2" rx="10"/>
-  <text x="650" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="120" x="550" y="100" fill="url(#c)" stroke="#06c" stroke-width="2" rx="10"/><text x="650" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FINANSINNTEKTER
-  </text>
-  <text x="650" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="650" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Fra finansielle aktiviteter
-  </text>
-  <text x="570" y="180" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="570" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Renteinntekter
-  </text>
-  <text x="570" y="195" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="570" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Utbytte
-  </text>
-  <text x="570" y="210" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="570" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Gevinster
-  </text>
-  
-
-  <rect x="50" y="480" width="200" height="120" fill="url(#andreGradient)" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="150" y="510" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="120" x="50" y="480" fill="url(#d)" stroke="#ffc107" stroke-width="2" rx="10"/><text x="150" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ANDRE INNTEKTER
-  </text>
-  <text x="150" y="535" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="150" y="535" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Utenfor normal drift
-  </text>
-  <text x="70" y="560" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="70" y="560" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Offentlige tilskudd
-  </text>
-  <text x="70" y="575" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="70" y="575" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Forsikringsoppgjør
-  </text>
-  <text x="70" y="590" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="70" y="590" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Gevinst ved salg
-  </text>
-  
-
-  <rect x="550" y="480" width="200" height="120" fill="url(#ekstraGradient)" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="650" y="510" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="120" x="550" y="480" fill="url(#e)" stroke="#dc3545" stroke-width="2" rx="10"/><text x="650" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     EKSTRAORDINÆRE
-  </text>
-  <text x="650" y="530" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="650" y="530" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     INNTEKTER
-  </text>
-  <text x="650" y="555" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="650" y="555" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sjeldne hendelser
-  </text>
-  <text x="570" y="580" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="570" y="580" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Engangstilfeller
-  </text>
-  <text x="570" y="595" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="570" y="595" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Uvanlige hendelser
-  </text>
-  
-
-  <line x1="250" y1="160" x2="350" y2="260" stroke="#28a745" stroke-width="3"/>
-  <line x1="550" y1="160" x2="450" y2="260" stroke="#0066cc" stroke-width="3"/>
-  <line x1="250" y1="540" x2="350" y2="340" stroke="#ffc107" stroke-width="3"/>
-  <line x1="550" y1="540" x2="450" y2="340" stroke="#dc3545" stroke-width="3"/>
-  
-
-  <circle cx="150" cy="80" r="25" fill="#28a745" opacity="0.9"/>
-  <text x="150" y="88" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path stroke="#28a745" stroke-width="3" d="m250 160 100 100"/><path stroke="#06c" stroke-width="3" d="M550 160 450 260"/><path stroke="#ffc107" stroke-width="3" d="m250 540 100-200"/><path stroke="#dc3545" stroke-width="3" d="M550 540 450 340"/><circle cx="150" cy="80" r="25" fill="#28a745" opacity=".9"/><text x="150" y="88" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     85%
-  </text>
-  
-  <circle cx="650" cy="80" r="25" fill="#0066cc" opacity="0.9"/>
-  <text x="650" y="88" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="650" cy="80" r="25" fill="#06c" opacity=".9"/><text x="650" y="88" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     10%
-  </text>
-  
-  <circle cx="150" cy="460" r="25" fill="#ffc107" opacity="0.9"/>
-  <text x="150" y="468" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="150" cy="460" r="25" fill="#ffc107" opacity=".9"/><text x="150" y="468" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     4%
-  </text>
-  
-  <circle cx="650" cy="460" r="25" fill="#dc3545" opacity="0.9"/>
-  <text x="650" y="468" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="650" cy="460" r="25" fill="#dc3545" opacity=".9"/><text x="650" y="468" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     1%
-  </text>
-  
-
-  <rect x="300" y="380" width="200" height="60" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="400" y="400" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><rect width="200" height="60" x="300" y="380" fill="#fff" stroke="#dee2e6" rx="5"/><text x="400" y="400" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Typisk fordeling
-  </text>
-  <text x="400" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="400" y="420" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Prosentsatser viser gjennomsnittlig
-  </text>
-  <text x="400" y="435" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="400" y="435" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     fordeling i norske virksomheter
-  </text>
-</svg>
+  </text></svg>

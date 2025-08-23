@@ -1,209 +1,63 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="centerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Forretningsførerens Rapporteringsansvar
-  </text>
-  
-
-  <circle cx="400" cy="300" r="60" fill="url(#centerGradient)" stroke="#1e7e34" stroke-width="3"/>
-  <text x="400" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="400" cy="300" r="60" fill="url(#c)" stroke="#1e7e34" stroke-width="3"/><text x="400" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FORRETNINGS-
-  </text>
-  <text x="400" y="320" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="400" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FØRER
-  </text>
-  
-
-  <g transform="translate(100, 100)">
-    <rect x="0" y="0" width="180" height="100" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-
-    <rect x="20" y="20" width="30" height="25" fill="#1976d2" rx="2"/>
-    <rect x="22" y="25" width="26" height="18" fill="white"/>
-    <line x1="25" y1="30" x2="45" y2="30" stroke="#1976d2" stroke-width="1"/>
-    <line x1="25" y1="35" x2="45" y2="35" stroke="#1976d2" stroke-width="1"/>
-    
-    <text x="90" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><g transform="translate(100 100)"><rect width="180" height="100" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/><rect width="30" height="25" x="20" y="20" fill="#1976d2" rx="2"/><path fill="#fff" d="M22 25h26v18H22z"/><path stroke="#1976d2" d="M25 30h20M25 35h20"/><text x="90" y="30" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       A-melding
-    </text>
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+    </text><text x="90" y="50" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Månedlig rapportering
-    </text>
-    <text x="90" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+    </text><text x="90" y="65" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Lønn og arbeidsgiveravgift
-    </text>
-    <text x="90" y="80" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+    </text><text x="90" y="80" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Frist: 5. i måneden
-    </text>
-  </g>
-  
-
-  <g transform="translate(520, 100)">
-    <rect x="0" y="0" width="180" height="100" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/>
-
-    <circle cx="35" cy="35" r="15" fill="#7b1fa2"/>
-    <text x="35" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><g transform="translate(520 100)"><rect width="180" height="100" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/><circle cx="35" cy="35" r="15" fill="#7b1fa2"/><text x="35" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       %
-    </text>
-    
-    <text x="90" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+    </text><text x="90" y="30" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       MVA-melding
-    </text>
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+    </text><text x="90" y="50" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Merverdiavgift
-    </text>
-    <text x="90" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+    </text><text x="90" y="65" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Månedlig/2-månedlig
-    </text>
-    <text x="90" y="80" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+    </text><text x="90" y="80" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Frist: 10. i måneden
-    </text>
-  </g>
-  
-
-  <g transform="translate(100, 450)">
-    <rect x="0" y="0" width="180" height="100" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
-
-    <rect x="20" y="20" width="25" height="30" fill="#f57c00" rx="2"/>
-    <line x1="23" y1="28" x2="42" y2="28" stroke="white" stroke-width="1"/>
-    <line x1="23" y1="33" x2="42" y2="33" stroke="white" stroke-width="1"/>
-    <line x1="23" y1="38" x2="42" y2="38" stroke="white" stroke-width="1"/>
-    <line x1="23" y1="43" x2="42" y2="43" stroke="white" stroke-width="1"/>
-    
-    <text x="90" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f57c00">
+    </text></g><g transform="translate(100 450)"><rect width="180" height="100" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/><rect width="25" height="30" x="20" y="20" fill="#f57c00" rx="2"/><path stroke="#fff" d="M23 28h19M23 33h19M23 38h19M23 43h19"/><text x="90" y="30" fill="#f57c00" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Årsoppgave
-    </text>
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">
+    </text><text x="90" y="50" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Årlig skatteoppgave
-    </text>
-    <text x="90" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">
+    </text><text x="90" y="65" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Selskapsregnskap
-    </text>
-    <text x="90" y="80" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">
+    </text><text x="90" y="80" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Frist: 31. mai
-    </text>
-  </g>
-  
-
-  <g transform="translate(520, 450)">
-    <rect x="0" y="0" width="180" height="100" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/>
-
-    <rect x="20" y="25" width="30" height="20" fill="#388e3c" rx="2"/>
-    <rect x="22" y="27" width="26" height="14" fill="white"/>
-    <rect x="32" y="45" width="6" height="3" fill="#388e3c"/>
-    
-    <text x="90" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#388e3c">
+    </text></g><g transform="translate(520 450)"><rect width="180" height="100" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/><rect width="30" height="20" x="20" y="25" fill="#388e3c" rx="2"/><path fill="#fff" d="M22 27h26v14H22z"/><path fill="#388e3c" d="M32 45h6v3h-6z"/><text x="90" y="30" fill="#388e3c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Altinn
-    </text>
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#388e3c">
+    </text><text x="90" y="50" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Digital rapportering
-    </text>
-    <text x="90" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#388e3c">
+    </text><text x="90" y="65" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Offentlige myndigheter
-    </text>
-    <text x="90" y="80" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#388e3c">
+    </text><text x="90" y="80" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Kontinuerlig
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 250)">
-    <rect x="0" y="0" width="160" height="100" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="10"/>
-
-    <rect x="20" y="35" width="4" height="15" fill="#c2185b"/>
-    <rect x="28" y="30" width="4" height="20" fill="#c2185b"/>
-    <rect x="36" y="25" width="4" height="25" fill="#c2185b"/>
-    <rect x="44" y="20" width="4" height="30" fill="#c2185b"/>
-    
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c2185b">
+    </text></g><g transform="translate(50 250)"><rect width="160" height="100" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="10"/><path fill="#c2185b" d="M20 35h4v15h-4zM28 30h4v20h-4zM36 25h4v25h-4zM44 20h4v30h-4z"/><text x="80" y="30" fill="#c2185b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Årsregnskap
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#c2185b">
+    </text><text x="80" y="50" fill="#c2185b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Resultatregnskap
-    </text>
-    <text x="80" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#c2185b">
+    </text><text x="80" y="65" fill="#c2185b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Balanse
-    </text>
-    <text x="80" y="80" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#c2185b">
+    </text><text x="80" y="80" fill="#c2185b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Frist: 31. juli
-    </text>
-  </g>
-  
-
-  <g transform="translate(590, 250)">
-    <rect x="0" y="0" width="160" height="100" fill="#f1f8e9" stroke="#689f38" stroke-width="2" rx="10"/>
-
-    <circle cx="35" cy="35" r="15" fill="#689f38"/>
-    <path d="M28 35 L33 40 L42 30" stroke="white" stroke-width="2" fill="none"/>
-    
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#689f38">
+    </text></g><g transform="translate(590 250)"><rect width="160" height="100" fill="#f1f8e9" stroke="#689f38" stroke-width="2" rx="10"/><circle cx="35" cy="35" r="15" fill="#689f38"/><path fill="none" stroke="#fff" stroke-width="2" d="m28 35 5 5 9-10"/><text x="80" y="30" fill="#689f38" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Revisjon
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#689f38">
+    </text><text x="80" y="50" fill="#689f38" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Revisjonsberetning
-    </text>
-    <text x="80" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#689f38">
+    </text><text x="80" y="65" fill="#689f38" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Samarbeid med revisor
-    </text>
-    <text x="80" y="80" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#689f38">
+    </text><text x="80" y="80" fill="#689f38" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Årlig
-    </text>
-  </g>
-  
-
-  <g stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
-    <defs>
-      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-        <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-      </marker>
-    </defs>
-
-    <line x1="350" y1="260" x2="250" y2="180"/>
-
-    <line x1="450" y1="260" x2="550" y2="180"/>
-
-    <line x1="350" y1="340" x2="250" y2="470"/>
-
-    <line x1="450" y1="340" x2="550" y2="470"/>
-
-    <line x1="340" y1="300" x2="210" y2="300"/>
-
-    <line x1="460" y1="300" x2="590" y2="300"/>
-  </g>
-  
-
-  <g transform="translate(50, 570)">
-    <text x="350" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
+    </text></g><g fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#d)"><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs><path d="m350 260-100-80"/><path d="m450 260 100-80"/><path d="M350 340 250 470"/><path d="m450 340 100 130"/><path d="M340 300H210"/><path d="M460 300h130"/></g><text x="350" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 570)">
       Rapporteringskalender
-    </text>
-    <line x1="0" y1="10" x2="700" y2="10" stroke="#6c757d" stroke-width="2"/>
-    
-
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="10" text-anchor="start" fill="#6c757d">
+    </text><path stroke="#6c757d" stroke-width="2" d="M50 580h700"/><text y="25" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" transform="translate(50 570)">
       Månedlig: A-melding (5.), MVA-melding (10.)
-    </text>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="10" text-anchor="start" fill="#6c757d">
+    </text><text x="350" y="25" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" transform="translate(50 570)">
       Årlig: Årsoppgave (31. mai), Årsregnskap (31. juli)
-    </text>
-  </g>
-</svg>
+    </text></svg>

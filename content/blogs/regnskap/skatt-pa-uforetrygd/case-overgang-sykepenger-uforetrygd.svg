@@ -1,148 +1,67 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-size="24" font-weight="bold" text-anchor="middle">
     Case: Overgang fra Sykepenger til Uføretrygd
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="40" fill="#e8f4fd" stroke="#3498db" stroke-width="1" rx="8"/>
-  <text x="400" y="80" text-anchor="middle" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><rect width="700" height="40" x="50" y="60" fill="#e8f4fd" stroke="#3498db" rx="8"/><text x="400" y="80" fill="#2c3e50" font-size="14" font-weight="bold" text-anchor="middle">
     Situasjon: Arbeidstaker går fra 100% sykepenger til 70% uføretrygd
-  </text>
-  
-
-  <rect x="50" y="120" width="320" height="200" fill="#fff2cc" stroke="#f39c12" stroke-width="2" rx="8"/>
-  <text x="210" y="145" text-anchor="middle" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><rect width="320" height="200" x="50" y="120" fill="#fff2cc" stroke="#f39c12" stroke-width="2" rx="8"/><text x="210" y="145" fill="#2c3e50" font-size="16" font-weight="bold" text-anchor="middle">
     Før Overgang (Sykepenger)
-  </text>
-  
-
-  <rect x="70" y="160" width="280" height="140" fill="#ffffff" stroke="#d4ac0d" stroke-width="1" rx="4"/>
-  <text x="80" y="180" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><rect width="280" height="140" x="70" y="160" fill="#fff" stroke="#d4ac0d" rx="4"/><text x="80" y="180" fill="#2c3e50" font-size="12" font-weight="bold">
     Månedlig situasjon:
-  </text>
-  <text x="80" y="200" font-size="11" fill="#34495e">
+  </text><text x="80" y="200" fill="#34495e" font-size="11">
     • Månedslønn: 45.000 kr
-  </text>
-  <text x="80" y="220" font-size="11" fill="#34495e">
+  </text><text x="80" y="220" fill="#34495e" font-size="11">
     • Sykepengerefusjon fra NAV: 45.000 kr
-  </text>
-  <text x="80" y="240" font-size="11" fill="#34495e">
+  </text><text x="80" y="240" fill="#34495e" font-size="11">
     • Arbeidsgiveravgift: 45.000 × 14,1% = 6.345 kr
-  </text>
-  <text x="80" y="260" font-size="11" fill="#e74c3c" font-weight="bold">
+  </text><text x="80" y="260" fill="#e74c3c" font-size="11" font-weight="bold">
     Total kostnad for arbeidsgiver: 51.345 kr
-  </text>
-  <text x="80" y="280" font-size="11" fill="#27ae60" font-weight="bold">
+  </text><text x="80" y="280" fill="#27ae60" font-size="11" font-weight="bold">
     Arbeidstaker får: 45.000 kr (100%)
-  </text>
-  
-
-  <rect x="430" y="120" width="320" height="200" fill="#d5f4e6" stroke="#27ae60" stroke-width="2" rx="8"/>
-  <text x="590" y="145" text-anchor="middle" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><rect width="320" height="200" x="430" y="120" fill="#d5f4e6" stroke="#27ae60" stroke-width="2" rx="8"/><text x="590" y="145" fill="#2c3e50" font-size="16" font-weight="bold" text-anchor="middle">
     Etter Overgang (Uføretrygd)
-  </text>
-  
-
-  <rect x="450" y="160" width="280" height="140" fill="#ffffff" stroke="#229954" stroke-width="1" rx="4"/>
-  <text x="460" y="180" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><rect width="280" height="140" x="450" y="160" fill="#fff" stroke="#229954" rx="4"/><text x="460" y="180" fill="#2c3e50" font-size="12" font-weight="bold">
     Månedlig situasjon:
-  </text>
-  <text x="460" y="200" font-size="11" fill="#34495e">
+  </text><text x="460" y="200" fill="#34495e" font-size="11">
     • Uføretrygd fra NAV: 31.500 kr (70%)
-  </text>
-  <text x="460" y="220" font-size="11" fill="#34495e">
+  </text><text x="460" y="220" fill="#34495e" font-size="11">
     • Restarbeidsevne: 30%
-  </text>
-  <text x="460" y="240" font-size="11" fill="#34495e">
+  </text><text x="460" y="240" fill="#34495e" font-size="11">
     • Potensiell lønn: 13.500 kr/mnd
-  </text>
-  <text x="460" y="260" font-size="11" fill="#e74c3c" font-weight="bold">
+  </text><text x="460" y="260" fill="#e74c3c" font-size="11" font-weight="bold">
     Arbeidsgiver: 0 kr kostnad
-  </text>
-  <text x="460" y="280" font-size="11" fill="#27ae60" font-weight="bold">
+  </text><text x="460" y="280" fill="#27ae60" font-size="11" font-weight="bold">
     Arbeidstaker får: 31.500 kr fra NAV
-  </text>
-  
-
-  <path d="M 370 220 L 430 220" stroke="#3498db" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
-  <text x="400" y="210" text-anchor="middle" font-size="11" fill="#3498db" font-weight="bold">
+  </text><path fill="none" stroke="#3498db" stroke-width="4" marker-end="url(#a)" d="M370 220h60"/><text x="400" y="210" fill="#3498db" font-size="11" font-weight="bold" text-anchor="middle">
     Overgang
-  </text>
-  
-
-  <rect x="100" y="340" width="600" height="120" fill="#f4f6f7" stroke="#7f8c8d" stroke-width="2" rx="8"/>
-  <text x="400" y="365" text-anchor="middle" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><rect width="600" height="120" x="100" y="340" fill="#f4f6f7" stroke="#7f8c8d" stroke-width="2" rx="8"/><text x="400" y="365" fill="#2c3e50" font-size="16" font-weight="bold" text-anchor="middle">
     Alternativ for Restarbeidsevne (30%)
-  </text>
-  
-
-  <rect x="120" y="380" width="180" height="70" fill="#fdeaea" stroke="#e74c3c" stroke-width="1" rx="4"/>
-  <text x="210" y="400" text-anchor="middle" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><rect width="180" height="70" x="120" y="380" fill="#fdeaea" stroke="#e74c3c" rx="4"/><text x="210" y="400" fill="#2c3e50" font-size="12" font-weight="bold" text-anchor="middle">
     Ikke i Arbeid
-  </text>
-  <text x="210" y="420" text-anchor="middle" font-size="11" fill="#34495e">
+  </text><text x="210" y="420" fill="#34495e" font-size="11" text-anchor="middle">
     • Ingen lønnskostnad
-  </text>
-  <text x="210" y="435" text-anchor="middle" font-size="11" fill="#34495e">
+  </text><text x="210" y="435" fill="#34495e" font-size="11" text-anchor="middle">
     • Ansettelse opprettholdes
-  </text>
-  
-
-  <rect x="320" y="380" width="180" height="70" fill="#e8f8f5" stroke="#27ae60" stroke-width="1" rx="4"/>
-  <text x="410" y="400" text-anchor="middle" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><rect width="180" height="70" x="320" y="380" fill="#e8f8f5" stroke="#27ae60" rx="4"/><text x="410" y="400" fill="#2c3e50" font-size="12" font-weight="bold" text-anchor="middle">
     30% Stilling
-  </text>
-  <text x="410" y="420" text-anchor="middle" font-size="11" fill="#34495e">
+  </text><text x="410" y="420" fill="#34495e" font-size="11" text-anchor="middle">
     • Lønn: 13.500 kr/mnd
-  </text>
-  <text x="410" y="435" text-anchor="middle" font-size="11" fill="#34495e">
+  </text><text x="410" y="435" fill="#34495e" font-size="11" text-anchor="middle">
     • Arbeidsgiveravgift: 1.904 kr
-  </text>
-  
-
-  <rect x="520" y="380" width="180" height="70" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="4"/>
-  <text x="610" y="400" text-anchor="middle" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><rect width="180" height="70" x="520" y="380" fill="#e3f2fd" stroke="#2196f3" rx="4"/><text x="610" y="400" fill="#2c3e50" font-size="12" font-weight="bold" text-anchor="middle">
     Kombinert Inntekt
-  </text>
-  <text x="610" y="420" text-anchor="middle" font-size="11" fill="#34495e">
+  </text><text x="610" y="420" fill="#34495e" font-size="11" text-anchor="middle">
     • Total: 45.000 kr/mnd
-  </text>
-  <text x="610" y="435" text-anchor="middle" font-size="11" fill="#34495e">
+  </text><text x="610" y="435" fill="#34495e" font-size="11" text-anchor="middle">
     • Redusert arbeidsgiveravgift
-  </text>
-  
-
-  <rect x="50" y="480" width="700" height="80" fill="#ecf0f1" stroke="#34495e" stroke-width="1" rx="8"/>
-  <text x="400" y="505" text-anchor="middle" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><rect width="700" height="80" x="50" y="480" fill="#ecf0f1" stroke="#34495e" rx="8"/><text x="400" y="505" fill="#2c3e50" font-size="16" font-weight="bold" text-anchor="middle">
     Nøkkelinnsikter for Arbeidsgiver
-  </text>
-  
-  <text x="80" y="525" font-size="12" fill="#34495e">
+  </text><text x="80" y="525" fill="#34495e" font-size="12">
     • Betydelig reduksjon i lønnskostnader ved overgang til uføretrygd
-  </text>
-  <text x="80" y="545" font-size="12" fill="#34495e">
+  </text><text x="80" y="545" fill="#34495e" font-size="12">
     • Mulighet for å opprettholde ansettelse uten lønnskostnad
-  </text>
-  <text x="450" y="525" font-size="12" fill="#34495e">
+  </text><text x="450" y="525" fill="#34495e" font-size="12">
     • Fleksibilitet i bruk av restarbeidsevne
-  </text>
-  <text x="450" y="545" font-size="12" fill="#34495e">
+  </text><text x="450" y="545" fill="#34495e" font-size="12">
     • Ingen arbeidsgiveravgift på uføretrygddelen
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#3498db"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="585" text-anchor="middle" font-size="11" fill="#7f8c8d">
+  </text><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#3498db" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="585" fill="#7f8c8d" font-size="11" text-anchor="middle">
     Overgangen til uføretrygd reduserer arbeidsgivers kostnader betydelig og gir fleksibilitet i arbeidsorganisering
-  </text>
-</svg>
+  </text></svg>

@@ -1,240 +1,67 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E0F6FF;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4A90E2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2E5BBA;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blockchainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FF4757;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="iotGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#26de81;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20bf6b;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#skyGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#87ceeb;stop-opacity:1"/><stop offset="100%" style="stop-color:#e0f6ff;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e5bba;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1"/><stop offset="100%" style="stop-color:#ff4757;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#26de81;stop-opacity:1"/><stop offset="100%" style="stop-color:#20bf6b;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fremtidens Timelønn
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="url(#techGradient)" stroke="#2C3E50" stroke-width="2"/>
-  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="300" r="80" fill="url(#b)" stroke="#2c3e50" stroke-width="2"/><text x="400" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Moderne
-  </text>
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="400" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Timelønn
-  </text>
-  
-
-  <g transform="translate(120, 150)">
-    <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#blockchainGradient)" stroke="#2C3E50" stroke-width="1"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><g transform="translate(120 150)"><rect width="120" height="80" fill="url(#c)" stroke="#2c3e50" rx="10"/><text x="60" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Blockchain
-    </text>
-    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Smarte kontrakter
-    </text>
-    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Automatisk utbetaling
-    </text>
-    <text x="60" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Transparent dokumentasjon
-    </text>
-    
-
-    <rect x="10" y="85" width="15" height="8" fill="white" stroke="#FF4757" stroke-width="1"/>
-    <rect x="30" y="85" width="15" height="8" fill="white" stroke="#FF4757" stroke-width="1"/>
-    <rect x="50" y="85" width="15" height="8" fill="white" stroke="#FF4757" stroke-width="1"/>
-    <rect x="70" y="85" width="15" height="8" fill="white" stroke="#FF4757" stroke-width="1"/>
-    <rect x="90" y="85" width="15" height="8" fill="white" stroke="#FF4757" stroke-width="1"/>
-  </g>
-  
-
-  <g transform="translate(560, 150)">
-    <rect x="0" y="0" width="120" height="80" rx="10" fill="url(#iotGradient)" stroke="#2C3E50" stroke-width="1"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><path fill="#fff" stroke="#ff4757" d="M10 85h15v8H10zM30 85h15v8H30zM50 85h15v8H50zM70 85h15v8H70zM90 85h15v8H90z"/></g><g transform="translate(560 150)"><rect width="120" height="80" fill="url(#d)" stroke="#2c3e50" rx="10"/><text x="60" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Internet of Things
-    </text>
-    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Automatisk registrering
-    </text>
-    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Sensorer og verktøy
-    </text>
-    <text x="60" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Miljømonitorering
-    </text>
-    
-
-    <circle cx="20" cy="95" r="6" fill="white" stroke="#20bf6b" stroke-width="2"/>
-    <circle cx="40" cy="95" r="6" fill="white" stroke="#20bf6b" stroke-width="2"/>
-    <circle cx="60" cy="95" r="6" fill="white" stroke="#20bf6b" stroke-width="2"/>
-    <circle cx="80" cy="95" r="6" fill="white" stroke="#20bf6b" stroke-width="2"/>
-    <circle cx="100" cy="95" r="6" fill="white" stroke="#20bf6b" stroke-width="2"/>
-    
-
-    <path d="M 20 89 Q 25 85 30 89" stroke="#20bf6b" stroke-width="1" fill="none"/>
-    <path d="M 40 89 Q 45 85 50 89" stroke="#20bf6b" stroke-width="1" fill="none"/>
-    <path d="M 60 89 Q 65 85 70 89" stroke="#20bf6b" stroke-width="1" fill="none"/>
-    <path d="M 80 89 Q 85 85 90 89" stroke="#20bf6b" stroke-width="1" fill="none"/>
-  </g>
-  
-
-  <g transform="translate(120, 420)">
-    <rect x="0" y="0" width="120" height="80" rx="10" fill="#FFA726" stroke="#2C3E50" stroke-width="1"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><circle cx="20" cy="95" r="6" fill="#fff" stroke="#20bf6b" stroke-width="2"/><circle cx="40" cy="95" r="6" fill="#fff" stroke="#20bf6b" stroke-width="2"/><circle cx="60" cy="95" r="6" fill="#fff" stroke="#20bf6b" stroke-width="2"/><circle cx="80" cy="95" r="6" fill="#fff" stroke="#20bf6b" stroke-width="2"/><circle cx="100" cy="95" r="6" fill="#fff" stroke="#20bf6b" stroke-width="2"/><path fill="none" stroke="#20bf6b" d="M20 89q5-4 10 0M40 89q5-4 10 0M60 89q5-4 10 0M80 89q5-4 10 0"/></g><g transform="translate(120 420)"><rect width="120" height="80" fill="#ffa726" stroke="#2c3e50" rx="10"/><text x="60" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Gig Economy
-    </text>
-    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Platform economy
-    </text>
-    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Freelancing
-    </text>
-    <text x="60" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Projektbasert arbeid
-    </text>
-    
-
-    <rect x="10" y="85" width="20" height="15" rx="3" fill="white" stroke="#FF9800" stroke-width="1"/>
-    <rect x="35" y="85" width="20" height="15" rx="3" fill="white" stroke="#FF9800" stroke-width="1"/>
-    <rect x="60" y="85" width="20" height="15" rx="3" fill="white" stroke="#FF9800" stroke-width="1"/>
-    <rect x="85" y="85" width="20" height="15" rx="3" fill="white" stroke="#FF9800" stroke-width="1"/>
-  </g>
-  
-
-  <g transform="translate(560, 420)">
-    <rect x="0" y="0" width="120" height="80" rx="10" fill="#AB47BC" stroke="#2C3E50" stroke-width="1"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="20" height="15" x="10" y="85" fill="#fff" stroke="#ff9800" rx="3"/><rect width="20" height="15" x="35" y="85" fill="#fff" stroke="#ff9800" rx="3"/><rect width="20" height="15" x="60" y="85" fill="#fff" stroke="#ff9800" rx="3"/><rect width="20" height="15" x="85" y="85" fill="#fff" stroke="#ff9800" rx="3"/></g><g transform="translate(560 420)"><rect width="120" height="80" fill="#ab47bc" stroke="#2c3e50" rx="10"/><text x="60" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Remote Work
-    </text>
-    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Geografisk uavhengig
-    </text>
-    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Fleksible ordninger
-    </text>
-    <text x="60" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Hybrid modeller
-    </text>
-    
-
-    <ellipse cx="60" cy="95" rx="50" ry="25" fill="white" stroke="#9C27B0" stroke-width="2"/>
-    <circle cx="30" cy="90" r="3" fill="#9C27B0"/>
-    <circle cx="60" cy="85" r="3" fill="#9C27B0"/>
-    <circle cx="90" cy="90" r="3" fill="#9C27B0"/>
-    <circle cx="45" cy="105" r="3" fill="#9C27B0"/>
-    <circle cx="75" cy="105" r="3" fill="#9C27B0"/>
-  </g>
-  
-
-  <g transform="translate(320, 90)">
-    <rect x="0" y="0" width="160" height="60" rx="10" fill="#607D8B" stroke="#2C3E50" stroke-width="1"/>
-    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><ellipse cx="60" cy="95" fill="#fff" stroke="#9c27b0" stroke-width="2" rx="50" ry="25"/><circle cx="30" cy="90" r="3" fill="#9c27b0"/><circle cx="60" cy="85" r="3" fill="#9c27b0"/><circle cx="90" cy="90" r="3" fill="#9c27b0"/><circle cx="45" cy="105" r="3" fill="#9c27b0"/><circle cx="75" cy="105" r="3" fill="#9c27b0"/></g><g transform="translate(320 90)"><rect width="160" height="60" fill="#607d8b" stroke="#2c3e50" rx="10"/><text x="80" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Kunstig Intelligens
-    </text>
-    <text x="40" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="40" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Prediktiv analyse
-    </text>
-    <text x="120" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="120" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Automatisering
-    </text>
-    <text x="40" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="40" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Behovsplanlegging
-    </text>
-    <text x="120" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="120" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Kostnadsoptimalisering
-    </text>
-    
-
-    <circle cx="80" cy="70" r="15" fill="white" stroke="#546E7A" stroke-width="2"/>
-    <path d="M 70 65 Q 75 60 80 65 Q 85 60 90 65" stroke="#546E7A" stroke-width="1" fill="none"/>
-    <path d="M 70 75 Q 75 70 80 75 Q 85 70 90 75" stroke="#546E7A" stroke-width="1" fill="none"/>
-    <circle cx="75" cy="68" r="1" fill="#546E7A"/>
-    <circle cx="85" cy="68" r="1" fill="#546E7A"/>
-  </g>
-  
-
-  <g transform="translate(320, 450)">
-    <rect x="0" y="0" width="160" height="60" rx="10" fill="#5D4037" stroke="#2C3E50" stroke-width="1"/>
-    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><circle cx="80" cy="70" r="15" fill="#fff" stroke="#546e7a" stroke-width="2"/><path fill="none" stroke="#546e7a" d="M70 65q5-5 10 0 5-5 10 0M70 75q5-5 10 0 5-5 10 0"/><circle cx="75" cy="68" r="1" fill="#546e7a"/><circle cx="85" cy="68" r="1" fill="#546e7a"/></g><g transform="translate(320 450)"><rect width="160" height="60" fill="#5d4037" stroke="#2c3e50" rx="10"/><text x="80" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Regulatoriske Utviklinger
-    </text>
-    <text x="40" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="40" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       EU-direktiver
-    </text>
-    <text x="120" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="120" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Platform Workers
-    </text>
-    <text x="40" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="40" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Transparens
-    </text>
-    <text x="120" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="120" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Digitalisering
-    </text>
-    
-
-    <rect x="30" y="65" width="12" height="16" fill="white" stroke="#4A2C17" stroke-width="1"/>
-    <rect x="50" y="65" width="12" height="16" fill="white" stroke="#4A2C17" stroke-width="1"/>
-    <rect x="70" y="65" width="12" height="16" fill="white" stroke="#4A2C17" stroke-width="1"/>
-    <rect x="90" y="65" width="12" height="16" fill="white" stroke="#4A2C17" stroke-width="1"/>
-    <rect x="110" y="65" width="12" height="16" fill="white" stroke="#4A2C17" stroke-width="1"/>
-    
-
-    <line x1="32" y1="70" x2="40" y2="70" stroke="#4A2C17" stroke-width="0.5"/>
-    <line x1="32" y1="73" x2="40" y2="73" stroke="#4A2C17" stroke-width="0.5"/>
-    <line x1="32" y1="76" x2="40" y2="76" stroke="#4A2C17" stroke-width="0.5"/>
-  </g>
-  
-
-  <line x1="240" y1="190" x2="350" y2="250" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="560" y1="190" x2="450" y2="250" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="240" y1="460" x2="350" y2="350" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="560" y1="460" x2="450" y2="350" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="400" y1="150" x2="400" y2="220" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="400" y1="380" x2="400" y2="450" stroke="#2C3E50" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <g transform="translate(50, 550)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">
+    </text><path fill="#fff" stroke="#4a2c17" d="M30 65h12v16H30zM50 65h12v16H50zM70 65h12v16H70zM90 65h12v16H90zM110 65h12v16h-12z"/><path stroke="#4a2c17" stroke-width=".5" d="M32 70h8M32 73h8M32 76h8"/></g><path stroke="#2c3e50" stroke-dasharray="5,5" stroke-width="2" d="m240 190 110 60M560 190l-110 60M240 460l110-110M560 460 450 350M400 150v70M400 380v70"/><g transform="translate(50 550)"><text fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Tidslinje:
-    </text>
-    <circle cx="100" cy="-5" r="3" fill="#FF6B6B"/>
-    <text x="110" y="0" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">
+    </text><circle cx="100" cy="-5" r="3" fill="#ff6b6b"/><text x="110" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       2024-2025: Blockchain pilotprosjekter
-    </text>
-    <circle cx="300" cy="-5" r="3" fill="#26de81"/>
-    <text x="310" y="0" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">
+    </text><circle cx="300" cy="-5" r="3" fill="#26de81"/><text x="310" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       2025-2027: IoT-integrering
-    </text>
-    <circle cx="500" cy="-5" r="3" fill="#FFA726"/>
-    <text x="510" y="0" font-family="Arial, sans-serif" font-size="10" fill="#2C3E50">
+    </text><circle cx="500" cy="-5" r="3" fill="#ffa726"/><text x="510" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       2027-2030: Full digitalisering
-    </text>
-    <line x1="80" y1="-5" x2="530" y2="-5" stroke="#2C3E50" stroke-width="1"/>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2C3E50"/>
-    </marker>
-  </defs>
-  
-
-  <path d="M 200 300 Q 250 280 300 300" stroke="#2C3E50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 500 300 Q 550 280 600 300" stroke="#2C3E50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 400 250 Q 450 270 400 290 Q 350 310 400 330 Q 450 350 400 370" stroke="#4A90E2" stroke-width="3" fill="none" opacity="0.7"/>
-</svg>
+    </text><path stroke="#2c3e50" d="M80-5h450"/></g><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2c3e50" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#e)" d="M200 300q50-20 100 0"/><path fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#e)" d="M500 300q50-20 100 0"/><path fill="none" stroke="#4a90e2" stroke-width="3" d="M400 250q50 20 0 40t0 40 0 40" opacity=".7"/></svg>

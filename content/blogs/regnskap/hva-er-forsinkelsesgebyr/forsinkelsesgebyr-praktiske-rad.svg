@@ -1,215 +1,75 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="creditorGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="debitorGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#495057">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Praktiske Råd for Forsinkelsesgebyr
-  </text>
-  
-
-  <rect x="50" y="80" width="320" height="240" rx="15" fill="white" stroke="#28a745" stroke-width="3"/>
-  <rect x="50" y="80" width="320" height="50" rx="15" fill="url(#creditorGradient)"/>
-  <text x="210" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="240" x="50" y="80" fill="#fff" stroke="#28a745" stroke-width="3" rx="15"/><rect width="320" height="50" x="50" y="80" fill="url(#b)" rx="15"/><text x="210" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     For Kreditorer
-  </text>
-  
-
-  <path d="M 100 140 L 90 150 L 90 180 Q 90 190 100 195 Q 110 190 110 180 L 110 150 Z" fill="#28a745"/>
-  <path d="M 95 155 L 98 160 L 105 150" stroke="white" stroke-width="2" fill="none"/>
-  
-  <text x="120" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><path fill="#28a745" d="m100 140-10 10v30q0 10 10 15 10-5 10-15v-30Z"/><path fill="none" stroke="#fff" stroke-width="2" d="m95 155 3 5 7-10"/><text x="120" y="150" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Forebyggende tiltak:
-  </text>
-  
-  <circle cx="70" cy="170" r="3" fill="#28a745"/>
-  <text x="80" y="175" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><circle cx="70" cy="170" r="3" fill="#28a745"/><text x="80" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Tydelige betalingsbetingelser
-  </text>
-  
-  <circle cx="70" cy="185" r="3" fill="#28a745"/>
-  <text x="80" y="190" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><circle cx="70" cy="185" r="3" fill="#28a745"/><text x="80" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Kredittvurdering på forhånd
-  </text>
-  
-  <circle cx="70" cy="200" r="3" fill="#28a745"/>
-  <text x="80" y="205" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><circle cx="70" cy="200" r="3" fill="#28a745"/><text x="80" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Automatiserte påminnelser
-  </text>
-  
-  <circle cx="70" cy="215" r="3" fill="#28a745"/>
-  <text x="80" y="220" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><circle cx="70" cy="215" r="3" fill="#28a745"/><text x="80" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Elektronisk fakturering
-  </text>
-  
-
-  <rect x="70" y="240" width="280" height="70" rx="8" fill="#e8f5e8" stroke="#28a745" stroke-width="1"/>
-  <text x="210" y="255" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="280" height="70" x="70" y="240" fill="#e8f5e8" stroke="#28a745" rx="8"/><text x="210" y="255" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Oppfølgingsrutine
-  </text>
-  
-  <text x="80" y="270" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="80" y="270" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Dag 1: Automatisk påminnelse
-  </text>
-  <text x="80" y="285" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="80" y="285" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Dag 14: Første purring (100 kr)
-  </text>
-  <text x="80" y="300" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="80" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Dag 30: Andre purring (200 kr) → Dag 60: Inkasso
-  </text>
-  
-
-  <rect x="430" y="80" width="320" height="240" rx="15" fill="white" stroke="#007bff" stroke-width="3"/>
-  <rect x="430" y="80" width="320" height="50" rx="15" fill="url(#debitorGradient)"/>
-  <text x="590" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="240" x="430" y="80" fill="#fff" stroke="#007bff" stroke-width="3" rx="15"/><rect width="320" height="50" x="430" y="80" fill="url(#c)" rx="15"/><text x="590" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     For Debitorer
-  </text>
-  
-
-  <rect x="470" y="140" width="30" height="25" rx="3" fill="#007bff"/>
-  <rect x="475" y="135" width="20" height="6" rx="2" fill="#0056b3"/>
-  <circle cx="480" cy="138" r="1" fill="white"/>
-  <circle cx="490" cy="138" r="1" fill="white"/>
-  <rect x="475" y="148" width="4" height="3" rx="1" fill="white"/>
-  <rect x="481" y="148" width="4" height="3" rx="1" fill="white"/>
-  <rect x="487" y="148" width="4" height="3" rx="1" fill="white"/>
-  <rect x="475" y="155" width="4" height="3" rx="1" fill="white"/>
-  <rect x="481" y="155" width="4" height="3" rx="1" fill="#ffc107"/>
-  
-  <text x="510" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="30" height="25" x="470" y="140" fill="#007bff" rx="3"/><rect width="20" height="6" x="475" y="135" fill="#0056b3" rx="2"/><circle cx="480" cy="138" r="1" fill="#fff"/><circle cx="490" cy="138" r="1" fill="#fff"/><rect width="4" height="3" x="475" y="148" fill="#fff" rx="1"/><rect width="4" height="3" x="481" y="148" fill="#fff" rx="1"/><rect width="4" height="3" x="487" y="148" fill="#fff" rx="1"/><rect width="4" height="3" x="475" y="155" fill="#fff" rx="1"/><rect width="4" height="3" x="481" y="155" fill="#ffc107" rx="1"/><text x="510" y="150" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Strategier for å unngå gebyrer:
-  </text>
-  
-  <circle cx="450" cy="170" r="3" fill="#007bff"/>
-  <text x="460" y="175" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><circle cx="450" cy="170" r="3" fill="#007bff"/><text x="460" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Betalingsplanlegging med budsjett
-  </text>
-  
-  <circle cx="450" cy="185" r="3" fill="#007bff"/>
-  <text x="460" y="190" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><circle cx="450" cy="185" r="3" fill="#007bff"/><text x="460" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Automatiske betalinger (AvtaleGiro)
-  </text>
-  
-  <circle cx="450" cy="200" r="3" fill="#007bff"/>
-  <text x="460" y="205" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><circle cx="450" cy="200" r="3" fill="#007bff"/><text x="460" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Tidlig kommunikasjon ved problemer
-  </text>
-  
-  <circle cx="450" cy="215" r="3" fill="#007bff"/>
-  <text x="460" y="220" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><circle cx="450" cy="215" r="3" fill="#007bff"/><text x="460" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Prioriter fakturaer med høyest rente
-  </text>
-  
-
-  <rect x="450" y="240" width="280" height="70" rx="8" fill="#d1ecf1" stroke="#007bff" stroke-width="1"/>
-  <text x="590" y="255" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="280" height="70" x="450" y="240" fill="#d1ecf1" stroke="#007bff" rx="8"/><text x="590" y="255" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Prioriteringsmatrise
-  </text>
-  
-  <rect x="460" y="265" width="60" height="15" fill="#dc3545"/>
-  <text x="490" y="275" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path fill="#dc3545" d="M460 265h60v15h-60z"/><text x="490" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
     Høy rente
-  </text>
-  <text x="530" y="275" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+  </text><text x="530" y="275" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     Betal først
-  </text>
-  
-  <rect x="460" y="285" width="60" height="15" fill="#ffc107"/>
-  <text x="490" y="295" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path fill="#ffc107" d="M460 285h60v15h-60z"/><text x="490" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
     Middels
-  </text>
-  <text x="530" y="295" font-family="Arial, sans-serif" font-size="9" fill="#495057">
+  </text><text x="530" y="295" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     Betal deretter
-  </text>
-  
-
-  <rect x="50" y="340" width="700" height="120" rx="15" fill="white" stroke="#ffc107" stroke-width="3"/>
-  <rect x="50" y="340" width="700" height="50" rx="15" fill="#ffc107"/>
-  <text x="400" y="370" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="700" height="120" x="50" y="340" fill="#fff" stroke="#ffc107" stroke-width="3" rx="15"/><rect width="700" height="50" x="50" y="340" fill="#ffc107" rx="15"/><text x="400" y="370" fill="#495057" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Forhandling og Kompromiss
-  </text>
-  
-
-  <rect x="80" y="400" width="15" height="20" rx="3" fill="#6c757d"/>
-  <rect x="105" y="400" width="15" height="20" rx="3" fill="#6c757d"/>
-  <rect x="90" y="395" width="20" height="10" rx="5" fill="#ffc107"/>
-  
-  <text x="130" y="405" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="15" height="20" x="80" y="400" fill="#6c757d" rx="3"/><rect width="15" height="20" x="105" y="400" fill="#6c757d" rx="3"/><rect width="20" height="10" x="90" y="395" fill="#ffc107" rx="5"/><text x="130" y="405" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Når forsinkelsesgebyr har påløpt:
-  </text>
-  
-  <text x="80" y="430" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="80" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     • <tspan font-weight="bold">Dokumenter problemer:</tspan> Samle bevis for midlertidige vanskeligheter
-  </text>
-  <text x="80" y="445" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="80" y="445" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     • <tspan font-weight="bold">Foreslå betalingsplan:</tspan> Kom med realistisk nedbetalingsplan
-  </text>
-  
-  <text x="420" y="430" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="420" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     • <tspan font-weight="bold">Forhandl reduksjon:</tspan> Be om reduksjon mot rask betaling
-  </text>
-  <text x="420" y="445" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="420" y="445" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     • <tspan font-weight="bold">Få avtaler skriftlig:</tspan> Dokumenter alle avtaler
-  </text>
-  
-
-  <rect x="50" y="480" width="320" height="100" rx="15" fill="white" stroke="#17a2b8" stroke-width="3"/>
-  <rect x="50" y="480" width="320" height="40" rx="15" fill="#17a2b8"/>
-  <text x="210" y="505" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="100" x="50" y="480" fill="#fff" stroke="#17a2b8" stroke-width="3" rx="15"/><rect width="320" height="40" x="50" y="480" fill="#17a2b8" rx="15"/><text x="210" y="505" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Teknologiske Løsninger
-  </text>
-  
-
-  <rect x="80" y="525" width="40" height="25" rx="3" fill="#17a2b8"/>
-  <rect x="85" y="530" width="30" height="15" rx="2" fill="white"/>
-  <rect x="95" y="550" width="10" height="3" rx="1" fill="#6c757d"/>
-  <rect x="92" y="553" width="16" height="2" rx="1" fill="#6c757d"/>
-  
-  <text x="130" y="535" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="40" height="25" x="80" y="525" fill="#17a2b8" rx="3"/><rect width="30" height="15" x="85" y="530" fill="#fff" rx="2"/><rect width="10" height="3" x="95" y="550" fill="#6c757d" rx="1"/><rect width="16" height="2" x="92" y="553" fill="#6c757d" rx="1"/><text x="130" y="535" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     • ERP-systemer med automatisk beregning
-  </text>
-  <text x="130" y="550" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="130" y="550" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     • Integrerte purresystemer
-  </text>
-  <text x="130" y="565" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="130" y="565" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     • Rapportering og prognoser
-  </text>
-  
-
-  <rect x="430" y="480" width="320" height="100" rx="15" fill="white" stroke="#dc3545" stroke-width="3"/>
-  <rect x="430" y="480" width="320" height="40" rx="15" fill="#dc3545"/>
-  <text x="590" y="505" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="100" x="430" y="480" fill="#fff" stroke="#dc3545" stroke-width="3" rx="15"/><rect width="320" height="40" x="430" y="480" fill="#dc3545" rx="15"/><text x="590" y="505" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Viktige Advarsler
-  </text>
-  
-
-  <polygon points="470,525 490,555 450,555" fill="#dc3545"/>
-  <text x="470" y="545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path fill="#dc3545" d="m470 525 20 30h-40z"/><text x="470" y="545" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     !
-  </text>
-  
-  <text x="500" y="535" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="500" y="535" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     • Forsinkelsesrenter øker raskt over tid
-  </text>
-  <text x="500" y="550" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="500" y="550" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     • Inkassokostnader kommer i tillegg
-  </text>
-  <text x="500" y="565" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="500" y="565" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     • Kan påvirke kredittrating negativt
-  </text>
-</svg>
+  </text></svg>

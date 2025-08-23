@@ -1,79 +1,11 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="shopGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#357abd;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1"/><stop offset="100%" style="stop-color:#357abd;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="50" fill="#2c3e50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Detaljhandel og Regnskap
-  </text>
-  
-
-  <rect x="100" y="150" width="200" height="180" fill="url(#shopGradient)" stroke="#2c3e50" stroke-width="2"/>
-  <polygon points="90,150 210,100 330,150" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
-  
-
-  <rect x="120" y="180" width="60" height="80" fill="#ecf0f1" stroke="#34495e" stroke-width="2"/>
-  <rect x="200" y="180" width="60" height="80" fill="#ecf0f1" stroke="#34495e" stroke-width="2"/>
-  
-
-  <rect x="160" y="220" width="40" height="110" fill="#8b4513" stroke="#654321" stroke-width="2"/>
-  <circle cx="190" cy="275" r="3" fill="#f1c40f"/>
-  
-
-  <rect x="450" y="200" width="120" height="80" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
-  <rect x="460" y="190" width="100" height="20" fill="#2ecc71" stroke="#27ae60" stroke-width="1"/>
-  <text x="510" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">KASSE</text>
-  
-
-  <text x="480" y="250" font-family="Arial, sans-serif" font-size="24" fill="#f39c12">kr</text>
-  <text x="520" y="250" font-family="Arial, sans-serif" font-size="24" fill="#f39c12">€</text>
-  
-
-  <rect x="600" y="180" width="100" height="120" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
-  <line x1="620" y1="200" x2="680" y2="200" stroke="#fff" stroke-width="2"/>
-  <line x1="620" y1="220" x2="680" y2="220" stroke="#fff" stroke-width="1"/>
-  <line x1="620" y1="240" x2="680" y2="240" stroke="#fff" stroke-width="1"/>
-  <line x1="620" y1="260" x2="680" y2="260" stroke="#fff" stroke-width="1"/>
-  <text x="650" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff" font-weight="bold">REGNSKAP</text>
-  
-
-  <path d="M 320 240 Q 380 220 440 240" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 580 240 Q 590 240 590 240" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
-    </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
-    </marker>
-  </defs>
-  
-
-  <text x="200" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50" font-weight="bold">
+  </text><path fill="url(#b)" stroke="#2c3e50" stroke-width="2" d="M100 150h200v180H100z"/><path fill="#e74c3c" stroke="#c0392b" stroke-width="2" d="m90 150 120-50 120 50z"/><path fill="#ecf0f1" stroke="#34495e" stroke-width="2" d="M120 180h60v80h-60zM200 180h60v80h-60z"/><path fill="#8b4513" stroke="#654321" stroke-width="2" d="M160 220h40v110h-40z"/><circle cx="190" cy="275" r="3" fill="#f1c40f"/><path fill="#34495e" stroke="#2c3e50" stroke-width="2" d="M450 200h120v80H450z"/><path fill="#2ecc71" stroke="#27ae60" d="M460 190h100v20H460z"/><text x="510" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">KASSE</text><text x="480" y="250" fill="#f39c12" font-family="Arial, sans-serif" font-size="24">kr</text><text x="520" y="250" fill="#f39c12" font-family="Arial, sans-serif" font-size="24">€</text><path fill="#3498db" stroke="#2980b9" stroke-width="2" d="M600 180h100v120H600z"/><path stroke="#fff" stroke-width="2" d="M620 200h60"/><path stroke="#fff" d="M620 220h60M620 240h60M620 260h60"/><text x="650" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">REGNSKAP</text><path fill="none" stroke="#e74c3c" stroke-width="3" marker-end="url(#c)" d="M320 240q60-20 120 0"/><path fill="none" stroke="#e74c3c" stroke-width="3" marker-end="url(#d)" d="M580 240h10"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#e74c3c" d="m0 0 10 3.5L0 7z"/></marker><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#e74c3c" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="200" y="350" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Butikk
-  </text>
-  <text x="510" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50" font-weight="bold">
+  </text><text x="510" y="320" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Salgsregistrering
-  </text>
-  <text x="650" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50" font-weight="bold">
+  </text><text x="650" y="320" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Regnskapsføring
-  </text>
-  
-
-  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
+  </text><text x="400" y="380" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Fra salg til regnskap - kompleks prosess med mange komponenter
-  </text>
-</svg>
+  </text></svg>

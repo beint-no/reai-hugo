@@ -1,221 +1,49 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="authGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="procedureGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="riskGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#b71c1c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Sikkerhetstiltak for Direkte Remittering
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#authGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="340" height="200" fill="url(#b)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       🔐 Autorisasjonsnivåer
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <rect x="0" y="0" width="300" height="45" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="45" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Ulike godkjennelsesnivåer basert på beløp
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• Under 10k kr: Enkelt godkjennelse</text>
-      <text x="10" y="42" font-family="Arial, sans-serif" font-size="11" fill="white">• 10-100k kr: Avdelingsleder godkjennelse</text>
-      
-      <rect x="0" y="55" width="300" height="45" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="73" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">• Under 10k kr: Enkelt godkjennelse</text><text x="10" y="42" font-family="Arial, sans-serif" font-size="11">• 10-100k kr: Avdelingsleder godkjennelse</text><rect width="300" height="45" y="55" opacity=".2" rx="5"/><text x="10" y="73" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Dobbel signatur for store beløp
-      </text>
-      <text x="10" y="87" font-family="Arial, sans-serif" font-size="11" fill="white">• Over 100k kr: To autorisasjoner påkrevd</text>
-      <text x="10" y="97" font-family="Arial, sans-serif" font-size="11" fill="white">• Kritiske leverandører: Ekstra kontroll</text>
-      
-      <rect x="0" y="110" width="300" height="45" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="128" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="87" font-family="Arial, sans-serif" font-size="11">• Over 100k kr: To autorisasjoner påkrevd</text><text x="10" y="97" font-family="Arial, sans-serif" font-size="11">• Kritiske leverandører: Ekstra kontroll</text><rect width="300" height="45" y="110" opacity=".2" rx="5"/><text x="10" y="128" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Tidsbegrensede autorisasjoner
-      </text>
-      <text x="10" y="142" font-family="Arial, sans-serif" font-size="11" fill="white">• Autorisasjoner utløper etter 24 timer</text>
-      <text x="10" y="152" font-family="Arial, sans-serif" font-size="11" fill="white">• Må fornyes for forsinkede betalinger</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#techGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="10" y="142" font-family="Arial, sans-serif" font-size="11">• Autorisasjoner utløper etter 24 timer</text><text x="10" y="152" font-family="Arial, sans-serif" font-size="11">• Må fornyes for forsinkede betalinger</text></g></g><g transform="translate(410 80)"><rect width="340" height="200" fill="url(#c)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       🛡️ Teknisk Sikkerhet
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <rect x="0" y="0" width="300" height="45" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="45" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         To-faktor autentisering
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• SMS-koder eller autentiseringsapp</text>
-      <text x="10" y="42" font-family="Arial, sans-serif" font-size="11" fill="white">• Biometrisk identifikasjon der tilgjengelig</text>
-      
-      <rect x="0" y="55" width="300" height="45" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="73" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">• SMS-koder eller autentiseringsapp</text><text x="10" y="42" font-family="Arial, sans-serif" font-size="11">• Biometrisk identifikasjon der tilgjengelig</text><rect width="300" height="45" y="55" opacity=".2" rx="5"/><text x="10" y="73" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Krypterte kommunikasjonskanaler
-      </text>
-      <text x="10" y="87" font-family="Arial, sans-serif" font-size="11" fill="white">• SSL/TLS-kryptering for alle overføringer</text>
-      <text x="10" y="97" font-family="Arial, sans-serif" font-size="11" fill="white">• End-to-end kryptering av sensitive data</text>
-      
-      <rect x="0" y="110" width="300" height="45" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="128" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="87" font-family="Arial, sans-serif" font-size="11">• SSL/TLS-kryptering for alle overføringer</text><text x="10" y="97" font-family="Arial, sans-serif" font-size="11">• End-to-end kryptering av sensitive data</text><rect width="300" height="45" y="110" opacity=".2" rx="5"/><text x="10" y="128" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Regelmessige sikkerhetsoppdateringer
-      </text>
-      <text x="10" y="142" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatiske systemoppdateringer</text>
-      <text x="10" y="152" font-family="Arial, sans-serif" font-size="11" fill="white">• Månedlige sikkerhetsvurderinger</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 300)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#procedureGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="10" y="142" font-family="Arial, sans-serif" font-size="11">• Automatiske systemoppdateringer</text><text x="10" y="152" font-family="Arial, sans-serif" font-size="11">• Månedlige sikkerhetsvurderinger</text></g></g><g transform="translate(50 300)"><rect width="340" height="200" fill="url(#d)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       📋 Prosedyrer
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <rect x="0" y="0" width="300" height="45" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="45" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Daglig avstemming av banktransaksjoner
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatisk sammenligning med oppdrag</text>
-      <text x="10" y="42" font-family="Arial, sans-serif" font-size="11" fill="white">• Umiddelbar varsling ved avvik</text>
-      
-      <rect x="0" y="55" width="300" height="45" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="73" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">• Automatisk sammenligning med oppdrag</text><text x="10" y="42" font-family="Arial, sans-serif" font-size="11">• Umiddelbar varsling ved avvik</text><rect width="300" height="45" y="55" opacity=".2" rx="5"/><text x="10" y="73" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Månedlig gjennomgang av alle overføringer
-      </text>
-      <text x="10" y="87" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontroll av alle transaksjoner over 50k kr</text>
-      <text x="10" y="97" font-family="Arial, sans-serif" font-size="11" fill="white">• Verifikasjon av nye mottakerkontoer</text>
-      
-      <rect x="0" y="110" width="300" height="45" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="128" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="87" font-family="Arial, sans-serif" font-size="11">• Kontroll av alle transaksjoner over 50k kr</text><text x="10" y="97" font-family="Arial, sans-serif" font-size="11">• Verifikasjon av nye mottakerkontoer</text><rect width="300" height="45" y="110" opacity=".2" rx="5"/><text x="10" y="128" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Årlig revisjon av betalingsprosedyrer
-      </text>
-      <text x="10" y="142" font-family="Arial, sans-serif" font-size="11" fill="white">• Evaluering av sikkerhetsnivå</text>
-      <text x="10" y="152" font-family="Arial, sans-serif" font-size="11" fill="white">• Oppdatering av retningslinjer</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 300)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#riskGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="10" y="142" font-family="Arial, sans-serif" font-size="11">• Evaluering av sikkerhetsnivå</text><text x="10" y="152" font-family="Arial, sans-serif" font-size="11">• Oppdatering av retningslinjer</text></g></g><g transform="translate(410 300)"><rect width="340" height="200" fill="url(#e)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       ⚠️ Risikostyring
-    </text>
-    
-
-    <g transform="translate(10, 45)">
-
-      <rect x="0" y="0" width="80" height="25" rx="3" fill="white" opacity="0.3"/>
-      <text x="40" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(10 45)"><rect width="80" height="25" opacity=".3" rx="3"/><text x="40" y="17" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Risiko
-      </text>
-      
-      <rect x="85" y="0" width="60" height="25" rx="3" fill="white" opacity="0.3"/>
-      <text x="115" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      </text><rect width="60" height="25" x="85" opacity=".3" rx="3"/><text x="115" y="17" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Nivå
-      </text>
-      
-      <rect x="150" y="0" width="170" height="25" rx="3" fill="white" opacity="0.3"/>
-      <text x="235" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+      </text><rect width="170" height="25" x="150" opacity=".3" rx="3"/><text x="235" y="17" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Forebygging
-      </text>
-      
-
-      <rect x="0" y="30" width="80" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="5" y="42" font-family="Arial, sans-serif" font-size="9" fill="white">Feil mottaker</text>
-      <text x="5" y="52" font-family="Arial, sans-serif" font-size="8" fill="white">Middels</text>
-      
-      <rect x="85" y="30" width="60" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="115" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+      </text><rect width="80" height="30" y="30" opacity=".2" rx="3"/><text x="5" y="42" font-family="Arial, sans-serif" font-size="9">Feil mottaker</text><text x="5" y="52" font-family="Arial, sans-serif" font-size="8">Middels</text><rect width="60" height="30" x="85" y="30" opacity=".2" rx="3"/><text x="115" y="47" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
         HØY
-      </text>
-      
-      <rect x="150" y="30" width="170" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="155" y="42" font-family="Arial, sans-serif" font-size="9" fill="white">Dobbeltsjekk av kontonummer</text>
-      <text x="155" y="52" font-family="Arial, sans-serif" font-size="9" fill="white">Automatisk validering</text>
-      
-
-      <rect x="0" y="65" width="80" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="5" y="77" font-family="Arial, sans-serif" font-size="9" fill="white">Feil beløp</text>
-      <text x="5" y="87" font-family="Arial, sans-serif" font-size="8" fill="white">Lav</text>
-      
-      <rect x="85" y="65" width="60" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="115" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+      </text><rect width="170" height="30" x="150" y="30" opacity=".2" rx="3"/><text x="155" y="42" font-family="Arial, sans-serif" font-size="9">Dobbeltsjekk av kontonummer</text><text x="155" y="52" font-family="Arial, sans-serif" font-size="9">Automatisk validering</text><rect width="80" height="30" y="65" opacity=".2" rx="3"/><text x="5" y="77" font-family="Arial, sans-serif" font-size="9">Feil beløp</text><text x="5" y="87" font-family="Arial, sans-serif" font-size="8">Lav</text><rect width="60" height="30" x="85" y="65" opacity=".2" rx="3"/><text x="115" y="82" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
         MIDDELS
-      </text>
-      
-      <rect x="150" y="65" width="170" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="155" y="77" font-family="Arial, sans-serif" font-size="9" fill="white">Automatisk validering</text>
-      <text x="155" y="87" font-family="Arial, sans-serif" font-size="9" fill="white">Beløpsgrenser</text>
-      
-
-      <rect x="0" y="100" width="80" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="5" y="112" font-family="Arial, sans-serif" font-size="9" fill="white">Svindel</text>
-      <text x="5" y="122" font-family="Arial, sans-serif" font-size="8" fill="white">Lav</text>
-      
-      <rect x="85" y="100" width="60" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="115" y="117" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+      </text><rect width="170" height="30" x="150" y="65" opacity=".2" rx="3"/><text x="155" y="77" font-family="Arial, sans-serif" font-size="9">Automatisk validering</text><text x="155" y="87" font-family="Arial, sans-serif" font-size="9">Beløpsgrenser</text><rect width="80" height="30" y="100" opacity=".2" rx="3"/><text x="5" y="112" font-family="Arial, sans-serif" font-size="9">Svindel</text><text x="5" y="122" font-family="Arial, sans-serif" font-size="8">Lav</text><rect width="60" height="30" x="85" y="100" opacity=".2" rx="3"/><text x="115" y="117" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
         HØY
-      </text>
-      
-      <rect x="150" y="100" width="170" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="155" y="112" font-family="Arial, sans-serif" font-size="9" fill="white">Sterke autorisasjonsprosedyrer</text>
-      <text x="155" y="122" font-family="Arial, sans-serif" font-size="9" fill="white">Overvåking av mønstre</text>
-      
-
-      <rect x="0" y="135" width="80" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="5" y="147" font-family="Arial, sans-serif" font-size="9" fill="white">Systemfeil</text>
-      <text x="5" y="157" font-family="Arial, sans-serif" font-size="8" fill="white">Lav</text>
-      
-      <rect x="85" y="135" width="60" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="115" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+      </text><rect width="170" height="30" x="150" y="100" opacity=".2" rx="3"/><text x="155" y="112" font-family="Arial, sans-serif" font-size="9">Sterke autorisasjonsprosedyrer</text><text x="155" y="122" font-family="Arial, sans-serif" font-size="9">Overvåking av mønstre</text><rect width="80" height="30" y="135" opacity=".2" rx="3"/><text x="5" y="147" font-family="Arial, sans-serif" font-size="9">Systemfeil</text><text x="5" y="157" font-family="Arial, sans-serif" font-size="8">Lav</text><rect width="60" height="30" x="85" y="135" opacity=".2" rx="3"/><text x="115" y="152" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
         MIDDELS
-      </text>
-      
-      <rect x="150" y="135" width="170" height="30" rx="3" fill="white" opacity="0.2"/>
-      <text x="155" y="147" font-family="Arial, sans-serif" font-size="9" fill="white">Backup-systemer</text>
-      <text x="155" y="157" font-family="Arial, sans-serif" font-size="9" fill="white">Redundante løsninger</text>
-    </g>
-  </g>
-  
-
-  <rect x="50" y="520" width="700" height="60" rx="5" fill="#333" opacity="0.8"/>
-  <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text><rect width="170" height="30" x="150" y="135" opacity=".2" rx="3"/><text x="155" y="147" font-family="Arial, sans-serif" font-size="9">Backup-systemer</text><text x="155" y="157" font-family="Arial, sans-serif" font-size="9">Redundante løsninger</text></g></g><rect width="700" height="60" x="50" y="520" fill="#333" opacity=".8" rx="5"/><text x="400" y="540" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Sikkerhetstiltak for Direkte Remittering
-  </text>
-  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="560" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kombinasjon av tekniske, prosessuelle og organisatoriske tiltak sikrer trygg betaling
-  </text>
-  <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="400" y="575" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Regelmessig evaluering og oppdatering av sikkerhetsprosedyrer er avgjørende
-  </text>
-</svg>
+  </text></svg>

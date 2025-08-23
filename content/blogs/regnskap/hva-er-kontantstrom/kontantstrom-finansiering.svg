@@ -1,195 +1,47 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="shortTermGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FFB74D;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="longTermGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="capacityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#66BB6A;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="riskGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ef5350;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffb74d;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Kontantstrøm og Finansiering
-  </text>
-  
-
-  <rect x="50" y="70" width="340" height="160" fill="url(#shortTermGradient)" rx="15" opacity="0.1"/>
-  <rect x="60" y="80" width="320" height="30" fill="url(#shortTermGradient)" rx="5"/>
-  <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="160" x="50" y="70" fill="url(#a)" opacity=".1" rx="15"/><rect width="320" height="30" x="60" y="80" fill="url(#a)" rx="5"/><text x="220" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     KORTSIKTIG FINANSIERING
-  </text>
-  
-
-  <circle cx="80" cy="130" r="8" fill="#FF9800"/>
-  <text x="100" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#E65100">
+  </text><circle cx="80" cy="130" r="8" fill="#ff9800"/><text x="100" y="135" fill="#e65100" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Kassekreditt
-  </text>
-  <text x="100" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="100" y="150" fill="#333" font-family="Arial, sans-serif" font-size="11">
     For å dekke midlertidige underskudd
-  </text>
-  
-  <circle cx="80" cy="170" r="8" fill="#FF9800"/>
-  <text x="100" y="175" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#E65100">
+  </text><circle cx="80" cy="170" r="8" fill="#ff9800"/><text x="100" y="175" fill="#e65100" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Factoring
-  </text>
-  <text x="100" y="190" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="100" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Selge kundefordringer for umiddelbar kontant
-  </text>
-  
-  <circle cx="80" cy="210" r="8" fill="#FF9800"/>
-  <text x="100" y="215" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#E65100">
+  </text><circle cx="80" cy="210" r="8" fill="#ff9800"/><text x="100" y="215" fill="#e65100" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Leverandørkreditt
-  </text>
-  <text x="100" y="230" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="100" y="230" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Forhandle betalingsutsettelse
-  </text>
-  
-
-  <rect x="410" y="70" width="340" height="160" fill="url(#longTermGradient)" rx="15" opacity="0.1"/>
-  <rect x="420" y="80" width="320" height="30" fill="url(#longTermGradient)" rx="5"/>
-  <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="160" x="410" y="70" fill="url(#b)" opacity=".1" rx="15"/><rect width="320" height="30" x="420" y="80" fill="url(#b)" rx="5"/><text x="580" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     LANGSIKTIG FINANSIERING
-  </text>
-  
-
-  <circle cx="440" cy="130" r="8" fill="#2196F3"/>
-  <text x="460" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1565C0">
+  </text><circle cx="440" cy="130" r="8" fill="#2196f3"/><text x="460" y="135" fill="#1565c0" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Banklån
-  </text>
-  <text x="460" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="460" y="150" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Basert på fremtidig kontantstrømkapasitet
-  </text>
-  
-  <circle cx="440" cy="170" r="8" fill="#2196F3"/>
-  <text x="460" y="175" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1565C0">
+  </text><circle cx="440" cy="170" r="8" fill="#2196f3"/><text x="460" y="175" fill="#1565c0" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Obligasjoner
-  </text>
-  <text x="460" y="190" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="460" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
     For store finansieringsbehov
-  </text>
-  
-  <circle cx="440" cy="210" r="8" fill="#2196F3"/>
-  <text x="460" y="215" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1565C0">
+  </text><circle cx="440" cy="210" r="8" fill="#2196f3"/><text x="460" y="215" fill="#1565c0" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Egenkapitalfinansiering
-  </text>
-  <text x="460" y="230" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="460" y="230" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Når kontantstrøm ikke dekker vekstbehov
-  </text>
-  
-
-  <rect x="50" y="250" width="700" height="140" fill="url(#capacityGradient)" rx="15"/>
-  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="700" height="140" x="50" y="250" fill="url(#c)" rx="15"/><text x="400" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     LÅNEKAPASITET BASERT PÅ KONTANTSTRØM
-  </text>
-  
-
-  <rect x="80" y="300" width="280" height="70" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="220" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="280" height="70" x="80" y="300" fill="rgba(255,255,255,0.2)" rx="8"/><text x="220" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Gjeldsdekning (DSCR)
-  </text>
-  <text x="220" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="220" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kontantstrøm fra drift ÷ (Renter + Avdrag)
-  </text>
-  <text x="90" y="360" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Måler evne til å betjene gjeld
-  </text>
-  
-
-  <rect x="400" y="300" width="320" height="70" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="560" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="320" height="70" x="400" y="300" fill="rgba(255,255,255,0.2)" rx="8"/><text x="560" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Vurderingsskala
-  </text>
-  
-
-  <rect x="410" y="330" width="90" height="15" fill="#4CAF50" rx="3"/>
-  <text x="455" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Over 1,25</text>
-  <text x="410" y="355" font-family="Arial, sans-serif" font-size="10" fill="white">God kapasitet</text>
-  
-
-  <rect x="510" y="330" width="90" height="15" fill="#FF9800" rx="3"/>
-  <text x="555" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">1,00-1,25</text>
-  <text x="510" y="355" font-family="Arial, sans-serif" font-size="10" fill="white">Akseptabel</text>
-  
-
-  <rect x="610" y="330" width="90" height="15" fill="#f44336" rx="3"/>
-  <text x="655" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Under 1,00</text>
-  <text x="610" y="355" font-family="Arial, sans-serif" font-size="10" fill="white">Begrenset</text>
-  
-
-  <rect x="50" y="410" width="700" height="120" fill="#f5f5f5" stroke="#ddd" stroke-width="1" rx="10"/>
-  <text x="400" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+  </text><rect width="90" height="15" x="410" y="330" fill="#4caf50" rx="3"/><text x="455" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Over 1,25</text><text x="410" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="10">God kapasitet</text><rect width="90" height="15" x="510" y="330" fill="#ff9800" rx="3"/><text x="555" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">1,00-1,25</text><text x="510" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="10">Akseptabel</text><rect width="90" height="15" x="610" y="330" fill="#f44336" rx="3"/><text x="655" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Under 1,00</text><text x="610" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="10">Begrenset</text><rect width="700" height="120" x="50" y="410" fill="#f5f5f5" stroke="#ddd" rx="10"/><text x="400" y="435" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Finansieringsvalg basert på Kontantstrømsituasjon
-  </text>
-  
-
-  <rect x="70" y="450" width="150" height="20" fill="#e0e0e0"/>
-  <text x="145" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">Kontantstrømsituasjon</text>
-  
-  <rect x="220" y="450" width="150" height="20" fill="#e0e0e0"/>
-  <text x="295" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">Anbefalt finansiering</text>
-  
-  <rect x="370" y="450" width="150" height="20" fill="#e0e0e0"/>
-  <text x="445" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">Risikofaktorer</text>
-  
-  <rect x="520" y="450" width="150" height="20" fill="#e0e0e0"/>
-  <text x="595" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">Tiltak</text>
-  
-
-
-  <rect x="70" y="470" width="150" height="20" fill="#e8f5e8"/>
-  <text x="80" y="483" font-family="Arial, sans-serif" font-size="10" fill="#333">Sterk kontantstrøm</text>
-  <text x="230" y="483" font-family="Arial, sans-serif" font-size="10" fill="#333">Banklån, obligasjoner</text>
-  <text x="380" y="483" font-family="Arial, sans-serif" font-size="10" fill="#333">Lav risiko</text>
-  <text x="530" y="483" font-family="Arial, sans-serif" font-size="10" fill="#333">Ekspansjon, investeringer</text>
-  
-
-  <rect x="70" y="490" width="150" height="20" fill="#fff3e0"/>
-  <text x="80" y="503" font-family="Arial, sans-serif" font-size="10" fill="#333">Moderat kontantstrøm</text>
-  <text x="230" y="503" font-family="Arial, sans-serif" font-size="10" fill="#333">Kassekreditt, factoring</text>
-  <text x="380" y="503" font-family="Arial, sans-serif" font-size="10" fill="#333">Moderat risiko</text>
-  <text x="530" y="503" font-family="Arial, sans-serif" font-size="10" fill="#333">Forbedre kontantstrøm</text>
-  
-
-  <rect x="70" y="510" width="150" height="20" fill="#ffebee"/>
-  <text x="80" y="523" font-family="Arial, sans-serif" font-size="10" fill="#333">Svak kontantstrøm</text>
-  <text x="230" y="523" font-family="Arial, sans-serif" font-size="10" fill="#333">Egenkapital, restrukturering</text>
-  <text x="380" y="523" font-family="Arial, sans-serif" font-size="10" fill="#333">Høy risiko</text>
-  <text x="530" y="523" font-family="Arial, sans-serif" font-size="10" fill="#333">Kostnadsreduksjon</text>
-  
-
-  <rect x="50" y="550" width="700" height="40" fill="#e3f2fd" stroke="#2196F3" stroke-width="2" rx="10"/>
-  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565C0">
+  </text><path fill="#e0e0e0" d="M70 450h150v20H70z"/><text x="145" y="463" fill="#333" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Kontantstrømsituasjon</text><path fill="#e0e0e0" d="M220 450h150v20H220z"/><text x="295" y="463" fill="#333" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Anbefalt finansiering</text><path fill="#e0e0e0" d="M370 450h150v20H370z"/><text x="445" y="463" fill="#333" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Risikofaktorer</text><path fill="#e0e0e0" d="M520 450h150v20H520z"/><text x="595" y="463" fill="#333" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Tiltak</text><path fill="#e8f5e8" d="M70 470h150v20H70z"/><text x="80" y="483" fill="#333" font-family="Arial, sans-serif" font-size="10">Sterk kontantstrøm</text><text x="230" y="483" fill="#333" font-family="Arial, sans-serif" font-size="10">Banklån, obligasjoner</text><text x="380" y="483" fill="#333" font-family="Arial, sans-serif" font-size="10">Lav risiko</text><text x="530" y="483" fill="#333" font-family="Arial, sans-serif" font-size="10">Ekspansjon, investeringer</text><path fill="#fff3e0" d="M70 490h150v20H70z"/><text x="80" y="503" fill="#333" font-family="Arial, sans-serif" font-size="10">Moderat kontantstrøm</text><text x="230" y="503" fill="#333" font-family="Arial, sans-serif" font-size="10">Kassekreditt, factoring</text><text x="380" y="503" fill="#333" font-family="Arial, sans-serif" font-size="10">Moderat risiko</text><text x="530" y="503" fill="#333" font-family="Arial, sans-serif" font-size="10">Forbedre kontantstrøm</text><path fill="#ffebee" d="M70 510h150v20H70z"/><text x="80" y="523" fill="#333" font-family="Arial, sans-serif" font-size="10">Svak kontantstrøm</text><text x="230" y="523" fill="#333" font-family="Arial, sans-serif" font-size="10">Egenkapital, restrukturering</text><text x="380" y="523" fill="#333" font-family="Arial, sans-serif" font-size="10">Høy risiko</text><text x="530" y="523" fill="#333" font-family="Arial, sans-serif" font-size="10">Kostnadsreduksjon</text><rect width="700" height="40" x="50" y="550" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="10"/><text x="400" y="570" fill="#1565c0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Nøkkelfaktorer ved Finansieringsvalg
-  </text>
-  <text x="70" y="585" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="70" y="585" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Kontantstrømstabilitet og forutsigbarhet • Fremtidig vekstpotensial • Eksisterende gjeldsgrad • Markedsforhold og renter
-  </text>
-  
-
-  <path d="M 220 240 L 400 250" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrowOrange)"/>
-  <path d="M 580 240 L 400 250" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
-  
-
-  <defs>
-    <marker id="arrowOrange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#FF9800"/>
-    </marker>
-    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2196F3"/>
-    </marker>
-  </defs>
-</svg>
+  </text><path fill="none" stroke="#ff9800" stroke-width="2" marker-end="url(#d)" d="m220 240 180 10"/><path fill="none" stroke="#2196f3" stroke-width="2" marker-end="url(#e)" d="m580 240-180 10"/><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#ff9800" d="m0 0 10 3.5L0 7z"/></marker><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2196f3" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

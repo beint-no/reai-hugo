@@ -1,139 +1,55 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="accountingGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <filter id="boxShadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.2"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#accountingGrad)"/>
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><filter id="b" width="120%" height="120%" x="-10%" y="-10%"><feDropShadow dx="2" dy="2" flood-color="#000" flood-opacity=".2" stdDeviation="2"/></filter></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskapsføring av Forskudd - Selgers Perspektiv
-  </text>
-  
-
-  <rect x="50" y="90" width="320" height="160" fill="white" stroke="#28a745" stroke-width="2" rx="10" filter="url(#boxShadow)"/>
-  <rect x="50" y="90" width="320" height="40" fill="#28a745" rx="10"/>
-  <rect x="50" y="120" width="320" height="10" fill="#28a745"/>
-  <text x="210" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="160" x="50" y="90" fill="#fff" stroke="#28a745" stroke-width="2" filter="url(#b)" rx="10"/><rect width="320" height="40" x="50" y="90" fill="#28a745" rx="10"/><path fill="#28a745" d="M50 120h320v10H50z"/><text x="210" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     1. Ved Mottak av Forskudd
-  </text>
-  
-
-  <text x="70" y="155" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="70" y="155" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Bilagsføring:
-  </text>
-  <rect x="70" y="165" width="280" height="70" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  
-  <text x="80" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+  </text><rect width="280" height="70" x="70" y="165" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="80" y="185" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Debet: Bank/Kasse
-  </text>
-  <text x="280" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+  </text><text x="280" y="185" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     100 000 kr
-  </text>
-  
-  <text x="80" y="205" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><text x="80" y="205" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Kredit: Mottatte forskudd
-  </text>
-  <text x="280" y="205" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><text x="280" y="205" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     100 000 kr
-  </text>
-  
-  <text x="80" y="225" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="80" y="225" fill="#666" font-family="Arial, sans-serif" font-size="11">
     (Kortsiktig gjeld)
-  </text>
-  
-
-  <polygon points="380,170 420,170 410,160 420,170 410,180" fill="#666" stroke="#666" stroke-width="1"/>
-  
-
-  <rect x="430" y="90" width="320" height="160" fill="white" stroke="#0066cc" stroke-width="2" rx="10" filter="url(#boxShadow)"/>
-  <rect x="430" y="90" width="320" height="40" fill="#0066cc" rx="10"/>
-  <rect x="430" y="120" width="320" height="10" fill="#0066cc"/>
-  <text x="590" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path fill="#666" stroke="#666" d="M380 170h40l-10-10 10 10-10 10z"/><rect width="320" height="160" x="430" y="90" fill="#fff" stroke="#06c" stroke-width="2" filter="url(#b)" rx="10"/><rect width="320" height="40" x="430" y="90" fill="#06c" rx="10"/><path fill="#06c" d="M430 120h320v10H430z"/><text x="590" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     2. Ved Levering av Vare/Tjeneste
-  </text>
-  
-
-  <text x="450" y="155" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="450" y="155" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Bilagsføring:
-  </text>
-  <rect x="450" y="165" width="280" height="70" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  
-  <text x="460" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+  </text><rect width="280" height="70" x="450" y="165" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="460" y="185" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Debet: Mottatte forskudd
-  </text>
-  <text x="660" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+  </text><text x="660" y="185" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     100 000 kr
-  </text>
-  
-  <text x="460" y="205" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><text x="460" y="205" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Kredit: Salgsinntekt
-  </text>
-  <text x="660" y="205" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><text x="660" y="205" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     100 000 kr
-  </text>
-  
-  <text x="460" y="225" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="460" y="225" fill="#666" font-family="Arial, sans-serif" font-size="11">
     (Inntektsføring)
-  </text>
-  
-
-  <rect x="50" y="280" width="700" height="180" fill="#e8f4fd" stroke="#0066cc" stroke-width="2" rx="10"/>
-  <text x="400" y="310" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="700" height="180" x="50" y="280" fill="#e8f4fd" stroke="#06c" stroke-width="2" rx="10"/><text x="400" y="310" fill="#06c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Påvirkning på Balansen
-  </text>
-  
-
-  <text x="200" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><text x="200" y="340" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Ved Mottak av Forskudd
-  </text>
-  <text x="600" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><text x="600" y="340" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Ved Levering
-  </text>
-  
-
-  <rect x="80" y="350" width="240" height="90" fill="white" stroke="#28a745" stroke-width="1" rx="5"/>
-  <text x="200" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="240" height="90" x="80" y="350" fill="#fff" stroke="#28a745" rx="5"/><text x="200" y="370" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Eiendeler øker
-  </text>
-  <text x="90" y="390" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="90" y="390" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Bank/Kasse: +100 000 kr
-  </text>
-  
-  <text x="200" y="410" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><text x="200" y="410" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Gjeld øker
-  </text>
-  <text x="90" y="430" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="90" y="430" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Mottatte forskudd: +100 000 kr
-  </text>
-  
-
-  <rect x="480" y="350" width="240" height="90" fill="white" stroke="#0066cc" stroke-width="1" rx="5"/>
-  <text x="600" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="240" height="90" x="480" y="350" fill="#fff" stroke="#06c" rx="5"/><text x="600" y="370" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Gjeld reduseres
-  </text>
-  <text x="490" y="390" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="490" y="390" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Mottatte forskudd: -100 000 kr
-  </text>
-  
-  <text x="600" y="410" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="600" y="410" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Inntekt øker
-  </text>
-  <text x="490" y="430" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="490" y="430" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Salgsinntekt: +100 000 kr
-  </text>
-  
-
-  <polygon points="330,395 470,395 460,385 470,395 460,405" fill="#666" stroke="#666" stroke-width="2"/>
-  <text x="400" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#666">
+  </text><path fill="#666" stroke="#666" stroke-width="2" d="M330 395h140l-10-10 10 10-10 10z"/><text x="400" y="390" fill="#666" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Levering
-  </text>
-</svg>
+  </text></svg>

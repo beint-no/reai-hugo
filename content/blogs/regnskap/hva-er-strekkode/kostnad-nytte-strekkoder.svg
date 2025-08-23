@@ -1,150 +1,15 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="costBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#costBg)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#1e293b" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Kostnad-Nytte Analyse - Strekkodeteknologi
-  </text>
-  
-
-  <g transform="translate(50, 60)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+  </text><text y="20" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold" transform="translate(50 60)">
       Implementeringskostnader (NOK)
-    </text>
-    
-
-    <g transform="translate(0, 40)">
-      <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
+    </text><g transform="translate(50 100)"><text y="15" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Liten Bedrift (1-10 ansatte)
-      </text>
-      
-      <rect x="0" y="25" width="300" height="120" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
-      
-
-      <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="#374151">Hardware (skannere):</text>
-      <text x="200" y="45" font-family="Arial, sans-serif" font-size="11" fill="#374151">5,000 - 15,000</text>
-      
-      <text x="10" y="60" font-family="Arial, sans-serif" font-size="11" fill="#374151">Software/Lisenser:</text>
-      <text x="200" y="60" font-family="Arial, sans-serif" font-size="11" fill="#374151">10,000 - 30,000</text>
-      
-      <text x="10" y="75" font-family="Arial, sans-serif" font-size="11" fill="#374151">Integrasjon/Setup:</text>
-      <text x="200" y="75" font-family="Arial, sans-serif" font-size="11" fill="#374151">15,000 - 40,000</text>
-      
-      <text x="10" y="90" font-family="Arial, sans-serif" font-size="11" fill="#374151">Opplæring:</text>
-      <text x="200" y="90" font-family="Arial, sans-serif" font-size="11" fill="#374151">5,000 - 15,000</text>
-      
-      <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="#374151">Etiketter (årlig):</text>
-      <text x="200" y="105" font-family="Arial, sans-serif" font-size="11" fill="#374151">2,000 - 8,000</text>
-      
-      <line x1="10" y1="115" x2="290" y2="115" stroke="#cbd5e1" stroke-width="1"/>
-      <text x="10" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Total investering:</text>
-      <text x="200" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">37,000 - 108,000</text>
-    </g>
-    
-
-    <g transform="translate(350, 40)">
-      <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
+      </text><rect width="300" height="120" y="25" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" rx="8"/><text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">Hardware (skannere):</text><text x="200" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">5,000 - 15,000</text><text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">Software/Lisenser:</text><text x="200" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">10,000 - 30,000</text><text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">Integrasjon/Setup:</text><text x="200" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">15,000 - 40,000</text><text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">Opplæring:</text><text x="200" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">5,000 - 15,000</text><text x="10" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="11">Etiketter (årlig):</text><text x="200" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="11">2,000 - 8,000</text><path stroke="#cbd5e1" d="M10 115h280"/><text x="10" y="130" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Total investering:</text><text x="200" y="130" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">37,000 - 108,000</text></g><g transform="translate(400 100)"><text y="15" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Mellomstor Bedrift (11-50 ansatte)
-      </text>
-      
-      <rect x="0" y="25" width="300" height="120" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
-      
-
-      <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="#374151">Hardware (skannere):</text>
-      <text x="200" y="45" font-family="Arial, sans-serif" font-size="11" fill="#374151">15,000 - 50,000</text>
-      
-      <text x="10" y="60" font-family="Arial, sans-serif" font-size="11" fill="#374151">Software/Lisenser:</text>
-      <text x="200" y="60" font-family="Arial, sans-serif" font-size="11" fill="#374151">30,000 - 100,000</text>
-      
-      <text x="10" y="75" font-family="Arial, sans-serif" font-size="11" fill="#374151">Integrasjon/Setup:</text>
-      <text x="200" y="75" font-family="Arial, sans-serif" font-size="11" fill="#374151">50,000 - 150,000</text>
-      
-      <text x="10" y="90" font-family="Arial, sans-serif" font-size="11" fill="#374151">Opplæring:</text>
-      <text x="200" y="90" font-family="Arial, sans-serif" font-size="11" fill="#374151">15,000 - 40,000</text>
-      
-      <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="#374151">Etiketter (årlig):</text>
-      <text x="200" y="105" font-family="Arial, sans-serif" font-size="11" fill="#374151">8,000 - 25,000</text>
-      
-      <line x1="10" y1="115" x2="290" y2="115" stroke="#cbd5e1" stroke-width="1"/>
-      <text x="10" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Total investering:</text>
-      <text x="200" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">118,000 - 365,000</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 250)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      </text><rect width="300" height="120" y="25" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" rx="8"/><text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">Hardware (skannere):</text><text x="200" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">15,000 - 50,000</text><text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">Software/Lisenser:</text><text x="200" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">30,000 - 100,000</text><text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">Integrasjon/Setup:</text><text x="200" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">50,000 - 150,000</text><text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">Opplæring:</text><text x="200" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">15,000 - 40,000</text><text x="10" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="11">Etiketter (årlig):</text><text x="200" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="11">8,000 - 25,000</text><path stroke="#cbd5e1" d="M10 115h280"/><text x="10" y="130" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Total investering:</text><text x="200" y="130" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">118,000 - 365,000</text></g><g transform="translate(50 250)"><text y="20" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Årlige Besparelser og Gevinster
-    </text>
-    
-
-    <rect x="0" y="30" width="700" height="180" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
-    
-
-    <rect x="10" y="40" width="680" height="25" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1"/>
-    <text x="20" y="57" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Gevinstområde</text>
-    <text x="200" y="57" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Beskrivelse</text>
-    <text x="400" y="57" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Liten Bedrift</text>
-    <text x="550" y="57" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">Mellomstor</text>
-    
-
-    <rect x="10" y="65" width="680" height="20" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
-    <text x="20" y="79" font-family="Arial, sans-serif" font-size="11" fill="#374151">Tidsbesparelse</text>
-    <text x="200" y="79" font-family="Arial, sans-serif" font-size="11" fill="#374151">80% reduksjon i registreringstid</text>
-    <text x="400" y="79" font-family="Arial, sans-serif" font-size="11" fill="#10b981">50,000 - 120,000</text>
-    <text x="550" y="79" font-family="Arial, sans-serif" font-size="11" fill="#10b981">200,000 - 500,000</text>
-    
-
-    <rect x="10" y="85" width="680" height="20" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-    <text x="20" y="99" font-family="Arial, sans-serif" font-size="11" fill="#374151">Feilreduksjon</text>
-    <text x="200" y="99" font-family="Arial, sans-serif" font-size="11" fill="#374151">99% færre registreringsfeil</text>
-    <text x="400" y="99" font-family="Arial, sans-serif" font-size="11" fill="#10b981">15,000 - 40,000</text>
-    <text x="550" y="99" font-family="Arial, sans-serif" font-size="11" fill="#10b981">60,000 - 200,000</text>
-    
-
-    <rect x="10" y="105" width="680" height="20" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
-    <text x="20" y="119" font-family="Arial, sans-serif" font-size="11" fill="#374151">Lageroptimalisering</text>
-    <text x="200" y="119" font-family="Arial, sans-serif" font-size="11" fill="#374151">20-30% reduksjon i lagerverdier</text>
-    <text x="400" y="119" font-family="Arial, sans-serif" font-size="11" fill="#10b981">30,000 - 80,000</text>
-    <text x="550" y="119" font-family="Arial, sans-serif" font-size="11" fill="#10b981">150,000 - 400,000</text>
-    
-
-    <rect x="10" y="125" width="680" height="20" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-    <text x="20" y="139" font-family="Arial, sans-serif" font-size="11" fill="#374151">Kundetilfredshet</text>
-    <text x="200" y="139" font-family="Arial, sans-serif" font-size="11" fill="#374151">Raskere service, færre feil</text>
-    <text x="400" y="139" font-family="Arial, sans-serif" font-size="11" fill="#10b981">20,000 - 50,000</text>
-    <text x="550" y="139" font-family="Arial, sans-serif" font-size="11" fill="#10b981">80,000 - 200,000</text>
-    
-
-    <rect x="10" y="145" width="680" height="20" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
-    <text x="20" y="159" font-family="Arial, sans-serif" font-size="11" fill="#374151">Compliance</text>
-    <text x="200" y="159" font-family="Arial, sans-serif" font-size="11" fill="#374151">Reduserte revisjons-/kontrollkost.</text>
-    <text x="400" y="159" font-family="Arial, sans-serif" font-size="11" fill="#10b981">10,000 - 25,000</text>
-    <text x="550" y="159" font-family="Arial, sans-serif" font-size="11" fill="#10b981">40,000 - 100,000</text>
-    
-
-    <rect x="10" y="165" width="680" height="25" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
-    <text x="20" y="182" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532d">Totale årlige besparelser:</text>
-    <text x="400" y="182" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532d">125,000 - 315,000</text>
-    <text x="550" y="182" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#14532d">530,000 - 1,400,000</text>
-  </g>
-  
-
-  <g transform="translate(50, 450)">
-    <rect x="0" y="0" width="700" height="40" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
-    <text x="20" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+    </text><rect width="700" height="180" y="30" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2" rx="8"/><path fill="#e2e8f0" stroke="#cbd5e1" d="M10 40h680v25H10z"/><text x="20" y="57" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Gevinstområde</text><text x="200" y="57" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Beskrivelse</text><text x="400" y="57" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Liten Bedrift</text><text x="550" y="57" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Mellomstor</text><path fill="#fff" stroke="#e2e8f0" d="M10 65h680v20H10z"/><text x="20" y="79" fill="#374151" font-family="Arial, sans-serif" font-size="11">Tidsbesparelse</text><text x="200" y="79" fill="#374151" font-family="Arial, sans-serif" font-size="11">80% reduksjon i registreringstid</text><text x="400" y="79" fill="#10b981" font-family="Arial, sans-serif" font-size="11">50,000 - 120,000</text><text x="550" y="79" fill="#10b981" font-family="Arial, sans-serif" font-size="11">200,000 - 500,000</text><path fill="#f8fafc" stroke="#e2e8f0" d="M10 85h680v20H10z"/><text x="20" y="99" fill="#374151" font-family="Arial, sans-serif" font-size="11">Feilreduksjon</text><text x="200" y="99" fill="#374151" font-family="Arial, sans-serif" font-size="11">99% færre registreringsfeil</text><text x="400" y="99" fill="#10b981" font-family="Arial, sans-serif" font-size="11">15,000 - 40,000</text><text x="550" y="99" fill="#10b981" font-family="Arial, sans-serif" font-size="11">60,000 - 200,000</text><path fill="#fff" stroke="#e2e8f0" d="M10 105h680v20H10z"/><text x="20" y="119" fill="#374151" font-family="Arial, sans-serif" font-size="11">Lageroptimalisering</text><text x="200" y="119" fill="#374151" font-family="Arial, sans-serif" font-size="11">20-30% reduksjon i lagerverdier</text><text x="400" y="119" fill="#10b981" font-family="Arial, sans-serif" font-size="11">30,000 - 80,000</text><text x="550" y="119" fill="#10b981" font-family="Arial, sans-serif" font-size="11">150,000 - 400,000</text><path fill="#f8fafc" stroke="#e2e8f0" d="M10 125h680v20H10z"/><text x="20" y="139" fill="#374151" font-family="Arial, sans-serif" font-size="11">Kundetilfredshet</text><text x="200" y="139" fill="#374151" font-family="Arial, sans-serif" font-size="11">Raskere service, færre feil</text><text x="400" y="139" fill="#10b981" font-family="Arial, sans-serif" font-size="11">20,000 - 50,000</text><text x="550" y="139" fill="#10b981" font-family="Arial, sans-serif" font-size="11">80,000 - 200,000</text><path fill="#fff" stroke="#e2e8f0" d="M10 145h680v20H10z"/><text x="20" y="159" fill="#374151" font-family="Arial, sans-serif" font-size="11">Compliance</text><text x="200" y="159" fill="#374151" font-family="Arial, sans-serif" font-size="11">Reduserte revisjons-/kontrollkost.</text><text x="400" y="159" fill="#10b981" font-family="Arial, sans-serif" font-size="11">10,000 - 25,000</text><text x="550" y="159" fill="#10b981" font-family="Arial, sans-serif" font-size="11">40,000 - 100,000</text><path fill="#dcfce7" stroke="#16a34a" stroke-width="2" d="M10 165h680v25H10z"/><text x="20" y="182" fill="#14532d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Totale årlige besparelser:</text><text x="400" y="182" fill="#14532d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">125,000 - 315,000</text><text x="550" y="182" fill="#14532d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">530,000 - 1,400,000</text></g><g transform="translate(50 450)"><rect width="700" height="40" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" rx="8"/><text x="20" y="18" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       ROI Sammendrag:
-    </text>
-    <text x="20" y="32" font-family="Arial, sans-serif" font-size="12" fill="#1e40af">
+    </text><text x="20" y="32" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">
       Liten bedrift: Payback 4-10 mnd, 3-års ROI 200-300% | Mellomstor: Payback 3-8 mnd, 3-års ROI 300-500%
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

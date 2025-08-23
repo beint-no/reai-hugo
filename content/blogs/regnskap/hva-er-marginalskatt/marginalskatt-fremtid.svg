@@ -1,189 +1,91 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="futureGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1"/><stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Fremtidige Trender innen Marginalskatt
-  </text>
-  
-
-  <path d="M 100 100 L 700 100" stroke="#495057" stroke-width="4" fill="none" marker-end="url(#timelineArrow)"/>
-  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+  </text><path fill="none" stroke="#495057" stroke-width="4" marker-end="url(#b)" d="M100 100h600"/><text x="400" y="90" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Tidslinje
-  </text>
-  
-
-  <circle cx="150" cy="100" r="15" fill="#28a745"/>
-  <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+  </text><circle cx="150" cy="100" r="15" fill="#28a745"/><text x="150" y="130" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     I DAG
-  </text>
-  <rect x="50" y="140" width="200" height="100" fill="#fff" stroke="#28a745" stroke-width="2" rx="5"/>
-  <text x="150" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+  </text><rect width="200" height="100" x="50" y="140" fill="#fff" stroke="#28a745" stroke-width="2" rx="5"/><text x="150" y="160" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Nåværende System
-  </text>
-  <text x="70" y="180" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="70" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Progressiv beskatning
-  </text>
-  <text x="70" y="195" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="70" y="195" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • 5 trinnskattesatser
-  </text>
-  <text x="70" y="210" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="70" y="210" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Manuell skatteberegning
-  </text>
-  <text x="70" y="225" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="70" y="225" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Tradisjonell rapportering
-  </text>
-  
-
-  <circle cx="350" cy="100" r="15" fill="#ffc107"/>
-  <text x="350" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">
+  </text><circle cx="350" cy="100" r="15" fill="#ffc107"/><text x="350" y="130" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     2025-2030
-  </text>
-  <rect x="250" y="140" width="200" height="120" fill="#fff" stroke="#ffc107" stroke-width="2" rx="5"/>
-  <text x="350" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">
+  </text><rect width="200" height="120" x="250" y="140" fill="#fff" stroke="#ffc107" stroke-width="2" rx="5"/><text x="350" y="160" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Digitalisering
-  </text>
-  <text x="270" y="180" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="270" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Automatisk skatteberegning
-  </text>
-  <text x="270" y="195" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="270" y="195" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • AI-basert skatteoptimalisering
-  </text>
-  <text x="270" y="210" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="270" y="210" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Sanntids skatteinnkreving
-  </text>
-  <text x="270" y="225" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="270" y="225" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Blockchain-basert rapportering
-  </text>
-  <text x="270" y="240" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="270" y="240" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Grenseoverskridende koordinering
-  </text>
-  
-
-  <circle cx="650" cy="100" r="15" fill="url(#futureGradient)"/>
-  <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6f42c1">
+  </text><circle cx="650" cy="100" r="15" fill="url(#c)"/><text x="650" y="130" fill="#6f42c1" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     2030+
-  </text>
-  <rect x="550" y="140" width="200" height="120" fill="#fff" stroke="#6f42c1" stroke-width="2" rx="5"/>
-  <text x="650" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6f42c1">
+  </text><rect width="200" height="120" x="550" y="140" fill="#fff" stroke="#6f42c1" stroke-width="2" rx="5"/><text x="650" y="160" fill="#6f42c1" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fremtidens Skatt
-  </text>
-  <text x="570" y="180" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="570" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Dynamiske skattesatser
-  </text>
-  <text x="570" y="195" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="570" y="195" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Personalisert beskatning
-  </text>
-  <text x="570" y="210" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="570" y="210" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Miljøbaserte justeringer
-  </text>
-  <text x="570" y="225" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="570" y="225" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Global skatteharmonisering
-  </text>
-  <text x="570" y="240" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="570" y="240" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     • Kryptovaluta-integrering
-  </text>
-  
-
-  <rect x="50" y="280" width="340" height="140" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="220" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#856404">
+  </text><rect width="340" height="140" x="50" y="280" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/><text x="220" y="305" fill="#856404" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     POLITISKE DISKUSJONER
-  </text>
-  
-  <text x="70" y="330" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+  </text><text x="70" y="330" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Omfordeling vs. Effektivitet
-  </text>
-  <text x="70" y="345" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+  </text><text x="70" y="345" fill="#856404" font-family="Arial, sans-serif" font-size="12">
     • Balanse mellom likhet og økonomisk vekst
-  </text>
-  <text x="70" y="360" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+  </text><text x="70" y="360" fill="#856404" font-family="Arial, sans-serif" font-size="12">
     • Konkurranseevne i globalt marked
-  </text>
-  
-  <text x="70" y="380" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+  </text><text x="70" y="380" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Finansiering av Velferdsstaten
-  </text>
-  <text x="70" y="395" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+  </text><text x="70" y="395" fill="#856404" font-family="Arial, sans-serif" font-size="12">
     • Demografiske endringer og pensjonsutgifter
-  </text>
-  <text x="70" y="410" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+  </text><text x="70" y="410" fill="#856404" font-family="Arial, sans-serif" font-size="12">
     • Klimaomstilling og grønne investeringer
-  </text>
-  
-
-  <rect x="410" y="280" width="340" height="140" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="10"/>
-  <text x="580" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1976d2">
+  </text><rect width="340" height="140" x="410" y="280" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="10"/><text x="580" y="305" fill="#1976d2" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     TEKNOLOGISKE ENDRINGER
-  </text>
-  
-  <text x="430" y="330" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+  </text><text x="430" y="330" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Automatisering av Skatteinnkreving
-  </text>
-  <text x="430" y="345" font-family="Arial, sans-serif" font-size="12" fill="#1976d2">
+  </text><text x="430" y="345" fill="#1976d2" font-family="Arial, sans-serif" font-size="12">
     • Sanntidsrapportering fra alle transaksjoner
-  </text>
-  <text x="430" y="360" font-family="Arial, sans-serif" font-size="12" fill="#1976d2">
+  </text><text x="430" y="360" fill="#1976d2" font-family="Arial, sans-serif" font-size="12">
     • Maskinlæring for skatteoptimalisering
-  </text>
-  
-  <text x="430" y="380" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+  </text><text x="430" y="380" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Nye Inntektskilder
-  </text>
-  <text x="430" y="395" font-family="Arial, sans-serif" font-size="12" fill="#1976d2">
+  </text><text x="430" y="395" fill="#1976d2" font-family="Arial, sans-serif" font-size="12">
     • Beskatning av digitale tjenester
-  </text>
-  <text x="430" y="410" font-family="Arial, sans-serif" font-size="12" fill="#1976d2">
+  </text><text x="430" y="410" fill="#1976d2" font-family="Arial, sans-serif" font-size="12">
     • Robotskatt og automatiseringsavgifter
-  </text>
-  
-
-  <rect x="100" y="440" width="600" height="120" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#721c24">
+  </text><rect width="600" height="120" x="100" y="440" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/><text x="400" y="465" fill="#721c24" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     UTFORDRINGER FOR FREMTIDEN
-  </text>
-  
-  <text x="120" y="490" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
+  </text><text x="120" y="490" fill="#721c24" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Grenseoverskridende Handel
-  </text>
-  <text x="120" y="505" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+  </text><text x="120" y="505" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
     • Skatteunndragelse via digitale plattformer
-  </text>
-  <text x="120" y="520" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+  </text><text x="120" y="520" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
     • Behov for internasjonal koordinering
-  </text>
-  <text x="120" y="535" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+  </text><text x="120" y="535" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
     • Kompleksitet i multinasjonale selskaper
-  </text>
-  
-  <text x="420" y="490" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
+  </text><text x="420" y="490" fill="#721c24" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Personvern og Overvåking
-  </text>
-  <text x="420" y="505" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+  </text><text x="420" y="505" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
     • Balanse mellom kontroll og privatliv
-  </text>
-  <text x="420" y="520" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+  </text><text x="420" y="520" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
     • Datasikkerhet i skatteadministrasjon
-  </text>
-  <text x="420" y="535" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+  </text><text x="420" y="535" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
     • Etiske aspekter ved AI-basert beskatning
-  </text>
-  
-
-  <defs>
-    <marker id="timelineArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

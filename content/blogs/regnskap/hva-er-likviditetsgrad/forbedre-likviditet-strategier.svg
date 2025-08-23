@@ -1,166 +1,63 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="shortTermGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#E74C3C;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#C0392B;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="longTermGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3498DB;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2980B9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="centerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#27AE60;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#F8F9FA"/>
-  
-
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#c0392b;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#2980b9;stop-opacity:1"/></linearGradient><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#27ae60;stop-opacity:1"/><stop offset="100%" style="stop-color:#229954;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="35" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Strategier for å Forbedre Likviditetsgrader
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="url(#centerGrad)"/>
-  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="300" r="80" fill="url(#a)"/><text x="400" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FORBEDRET
-  </text>
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><text x="400" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     LIKVIDITET
-  </text>
-  
-
-  <rect x="50" y="80" width="280" height="440" fill="url(#shortTermGrad)" rx="15"/>
-  <text x="190" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="280" height="440" x="50" y="80" fill="url(#b)" rx="15"/><text x="190" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     KORTSIKTIGE TILTAK
-  </text>
-  <text x="190" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="190" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (0-6 måneder)
-  </text>
-  
-
-  <rect x="70" y="160" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="85" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="240" height="50" x="70" y="160" fill="rgba(255,255,255,0.2)" rx="8"/><text x="85" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     1. Akselerere innkassering
-  </text>
-  <text x="85" y="200" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="85" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Kortere kredittid til kunder
-  </text>
-  
-  <rect x="70" y="220" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="85" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="240" height="50" x="70" y="220" fill="rgba(255,255,255,0.2)" rx="8"/><text x="85" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     2. Optimalisere lagerrotasjon
-  </text>
-  <text x="85" y="260" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="85" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Redusere ukurans og overflødig lager
-  </text>
-  
-  <rect x="70" y="280" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="85" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="240" height="50" x="70" y="280" fill="rgba(255,255,255,0.2)" rx="8"/><text x="85" y="300" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     3. Forhandle betalingsvilkår
-  </text>
-  <text x="85" y="320" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="85" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Lengre kredittid fra leverandører
-  </text>
-  
-  <rect x="70" y="340" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="85" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="240" height="50" x="70" y="340" fill="rgba(255,255,255,0.2)" rx="8"/><text x="85" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     4. Realisere investeringer
-  </text>
-  <text x="85" y="380" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="85" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Selge kortsiktige investeringer
-  </text>
-  
-  <rect x="70" y="400" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="85" y="420" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="240" height="50" x="70" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="85" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     5. Etablere kredittlinjer
-  </text>
-  <text x="85" y="440" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="85" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Sikre tilgang til kortsiktig finansiering
-  </text>
-  
-  <rect x="70" y="460" width="240" height="40" fill="rgba(255,255,255,0.1)" rx="5"/>
-  <text x="190" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="240" height="40" x="70" y="460" fill="rgba(255,255,255,0.1)" rx="5"/><text x="190" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Effekt: Umiddelbar forbedring
-  </text>
-  
-
-  <rect x="470" y="80" width="280" height="440" fill="url(#longTermGrad)" rx="15"/>
-  <text x="610" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="280" height="440" x="470" y="80" fill="url(#c)" rx="15"/><text x="610" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     LANGSIKTIGE STRATEGIER
-  </text>
-  <text x="610" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="610" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (6+ måneder)
-  </text>
-  
-
-  <rect x="490" y="160" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="505" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="240" height="50" x="490" y="160" fill="rgba(255,255,255,0.2)" rx="8"/><text x="505" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     1. Forbedre kontantstrøm
-  </text>
-  <text x="505" y="200" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="505" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Øke lønnsomhet og effektivitet
-  </text>
-  
-  <rect x="490" y="220" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="505" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="240" height="50" x="490" y="220" fill="rgba(255,255,255,0.2)" rx="8"/><text x="505" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     2. Optimalisere arbeidskapital
-  </text>
-  <text x="505" y="260" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="505" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Balansere alle komponenter
-  </text>
-  
-  <rect x="490" y="280" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="505" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="240" height="50" x="490" y="280" fill="rgba(255,255,255,0.2)" rx="8"/><text x="505" y="300" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     3. Diversifisere inntektskilder
-  </text>
-  <text x="505" y="320" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="505" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Redusere avhengighet og risiko
-  </text>
-  
-  <rect x="490" y="340" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="505" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="240" height="50" x="490" y="340" fill="rgba(255,255,255,0.2)" rx="8"/><text x="505" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     4. Implementere kredittrutiner
-  </text>
-  <text x="505" y="380" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="505" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Bedre kundevurdering og oppfølging
-  </text>
-  
-  <rect x="490" y="400" width="240" height="50" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="505" y="420" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="240" height="50" x="490" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="505" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     5. Styrke egenkapital
-  </text>
-  <text x="505" y="440" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="505" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Tilbakeholde overskudd, ny kapital
-  </text>
-  
-  <rect x="490" y="460" width="240" height="40" fill="rgba(255,255,255,0.1)" rx="5"/>
-  <text x="610" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="240" height="40" x="490" y="460" fill="rgba(255,255,255,0.1)" rx="5"/><text x="610" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Effekt: Varig forbedring
-  </text>
-  
-
-  <path d="M 330 300 L 320 300" stroke="#2C3E50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 470 300 L 480 300" stroke="#2C3E50" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2C3E50"/>
-    </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="1" refY="3.5" orient="auto">
-      <polygon points="10 0, 0 3.5, 10 7" fill="#2C3E50"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="100" y="540" width="600" height="50" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="2" rx="10"/>
-  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2C3E50">
+  </text><path fill="none" stroke="#2c3e50" stroke-width="3" marker-end="url(#d)" d="M330 300h-10"/><path fill="none" stroke="#2c3e50" stroke-width="3" marker-end="url(#e)" d="M470 300h10"/><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2c3e50" d="m0 0 10 3.5L0 7z"/></marker><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="1" refY="3.5"><path fill="#2c3e50" d="M10 0 0 3.5 10 7z"/></marker></defs><rect width="600" height="50" x="100" y="540" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="400" y="560" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     NØKKELPRINSIPPER
-  </text>
-  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2C3E50">
+  </text><text x="400" y="580" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kombinér kortsiktige og langsiktige tiltak • Overvåk regelmessig • Tilpass til bransje og situasjon
-  </text>
-</svg>
+  </text></svg>

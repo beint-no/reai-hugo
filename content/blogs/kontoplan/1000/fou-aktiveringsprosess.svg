@@ -1,195 +1,75 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Prosess for aktivering av FoU-kostnader
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="150" height="80" fill="#3498db" stroke="#2c3e50" stroke-width="2" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="150" height="80" fill="#3498db" stroke="#2c3e50" stroke-width="2" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       PROSJEKTSTART
-    </text>
-    <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       FoU-aktivitet
-    </text>
-    <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="75" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       identifiseres
-    </text>
-  </g>
-  
-
-  <path d="M 220 120 L 270 120" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(290, 80)">
-    <rect x="0" y="0" width="150" height="80" fill="#e67e22" stroke="#2c3e50" stroke-width="2" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><path stroke="#2c3e50" stroke-width="2" marker-end="url(#a)" d="M220 120h50"/><g transform="translate(290 80)"><rect width="150" height="80" fill="#e67e22" stroke="#2c3e50" stroke-width="2" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       FASEVURDERING
-    </text>
-    <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Forskning eller
-    </text>
-    <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="75" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       utvikling?
-    </text>
-  </g>
-  
-
-  <g transform="translate(490, 100)">
-    <path d="M 0 20 L 20 0 L 40 20 L 20 40 Z" fill="#f39c12" stroke="#2c3e50" stroke-width="2"/>
-    <text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">
+    </text></g><path fill="#f39c12" stroke="#2c3e50" stroke-width="2" d="m490 120 20-20 20 20-20 20Z"/><text x="20" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" transform="translate(490 100)">
       FASE?
-    </text>
-  </g>
-  
-
-  <path d="M 510 80 L 510 50" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(430, 20)">
-    <rect x="0" y="0" width="160" height="60" fill="#e74c3c" stroke="#2c3e50" stroke-width="2" rx="5"/>
-    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    </text><path stroke="#2c3e50" stroke-width="2" marker-end="url(#a)" d="M510 80V50"/><g transform="translate(430 20)"><rect width="160" height="60" fill="#e74c3c" stroke="#2c3e50" stroke-width="2" rx="5"/><text x="80" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       FORSKNINGSFASE
-    </text>
-    <text x="80" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="80" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Kostnadsføres løpende
-    </text>
-    <text x="80" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="80" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Kan IKKE aktiveres
-    </text>
-  </g>
-  
-
-  <path d="M 510 160 L 510 200" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(350, 220)">
-    <rect x="0" y="0" width="320" height="150" fill="#27ae60" stroke="#2c3e50" stroke-width="2" rx="10"/>
-    <text x="160" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><path stroke="#2c3e50" stroke-width="2" marker-end="url(#a)" d="M510 160v40"/><g transform="translate(350 220)"><rect width="320" height="150" fill="#27ae60" stroke="#2c3e50" stroke-width="2" rx="10"/><text x="160" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       UTVIKLINGSFASE - AKTIVERINGSKRITERIER
-    </text>
-    
-
-    <text x="20" y="40" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="20" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="10">
       1. Teknisk gjennomførbarhet av ferdigstillelse
-    </text>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="20" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10">
       2. Intensjon om ferdigstillelse og bruk/salg
-    </text>
-    <text x="20" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="20" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="10">
       3. Evne til å demonstrere fremtidige økonomiske fordeler
-    </text>
-    <text x="20" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="20" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="10">
       4. Tilstrekkelige tekniske, finansielle og andre ressurser
-    </text>
-    <text x="20" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="20" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="10">
       5. Pålitelig måling av utgifter knyttet til prosjektet
-    </text>
-    
-    <text x="160" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    </text><text x="160" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       ALLE 5 KRITERIER MÅ VÆRE OPPFYLT
-    </text>
-    <text x="160" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="160" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Hvis ikke: Kostnadsføres løpende
-    </text>
-  </g>
-  
-
-  <g transform="translate(490, 390)">
-    <path d="M 0 20 L 20 0 L 40 20 L 20 40 Z" fill="#f39c12" stroke="#2c3e50" stroke-width="2"/>
-    <text x="20" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" font-weight="bold" fill="white">
+    </text></g><path fill="#f39c12" stroke="#2c3e50" stroke-width="2" d="m490 410 20-20 20 20-20 20Z"/><text x="20" y="18" fill="#fff" font-family="Arial, sans-serif" font-size="7" font-weight="bold" text-anchor="middle" transform="translate(490 390)">
       ALLE
-    </text>
-    <text x="20" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" font-weight="bold" fill="white">
+    </text><text x="20" y="28" fill="#fff" font-family="Arial, sans-serif" font-size="7" font-weight="bold" text-anchor="middle" transform="translate(490 390)">
       OK?
-    </text>
-  </g>
-  
-
-  <path d="M 470 410 L 350 410" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><path stroke="#2c3e50" stroke-width="2" marker-end="url(#a)" d="M470 410H350"/><text x="400" y="405" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     NEI
-  </text>
-  
-
-  <g transform="translate(150, 380)">
-    <rect x="0" y="0" width="180" height="60" fill="#e74c3c" stroke="#2c3e50" stroke-width="2" rx="5"/>
-    <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+  </text><g transform="translate(150 380)"><rect width="180" height="60" fill="#e74c3c" stroke="#2c3e50" stroke-width="2" rx="5"/><text x="90" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       KOSTNADSFØRES LØPENDE
-    </text>
-    <text x="90" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="90" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Registreres som driftskostnader
-    </text>
-    <text x="90" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       i resultatregnskapet
-    </text>
-  </g>
-  
-
-  <path d="M 530 410 L 650 410" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="580" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text></g><path stroke="#2c3e50" stroke-width="2" marker-end="url(#a)" d="M530 410h120"/><text x="580" y="405" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     JA
-  </text>
-  
-
-  <g transform="translate(570, 380)">
-    <rect x="0" y="0" width="180" height="60" fill="#27ae60" stroke="#2c3e50" stroke-width="2" rx="5"/>
-    <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+  </text><g transform="translate(570 380)"><rect width="180" height="60" fill="#27ae60" stroke="#2c3e50" stroke-width="2" rx="5"/><text x="90" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       AKTIVERES PÅ KONTO 1000
-    </text>
-    <text x="90" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="90" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Registreres som immaterielle
-    </text>
-    <text x="90" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       eiendeler i balansen
-    </text>
-  </g>
-  
-
-  <path d="M 660 460 L 660 510" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(570, 530)">
-    <rect x="0" y="0" width="180" height="60" fill="#9b59b6" stroke="#2c3e50" stroke-width="2" rx="5"/>
-    <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    </text></g><path stroke="#2c3e50" stroke-width="2" marker-end="url(#a)" d="M660 460v50"/><g transform="translate(570 530)"><rect width="180" height="60" fill="#9b59b6" stroke="#2c3e50" stroke-width="2" rx="5"/><text x="90" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       AMORTISERING
-    </text>
-    <text x="90" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="90" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Over økonomisk levetid
-    </text>
-    <text x="90" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Typisk 3-15 år
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
-    </marker>
-  </defs>
-  
-
-  <g transform="translate(50, 480)">
-    <rect x="0" y="0" width="300" height="100" fill="#ecf0f1" stroke="#2c3e50" stroke-width="1" rx="5"/>
-    <text x="150" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    </text></g><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2c3e50" d="m0 0 10 3.5L0 7z"/></marker></defs><g transform="translate(50 480)"><rect width="300" height="100" fill="#ecf0f1" stroke="#2c3e50" rx="5"/><text x="150" y="15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       NØKKELPOENG
-    </text>
-    <text x="10" y="35" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="10" y="35" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Forskningskostnader kan ALDRI aktiveres
-    </text>
-    <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="10" y="50" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Utviklingskostnader kan kun aktiveres hvis ALLE kriterier er oppfylt
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="10" y="65" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Aktiverte kostnader amortiseres over økonomisk levetid
-    </text>
-    <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="10" y="80" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Kontinuerlig vurdering av verdifall er nødvendig
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

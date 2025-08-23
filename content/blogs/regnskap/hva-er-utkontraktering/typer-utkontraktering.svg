@@ -1,135 +1,49 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f1f5f9;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff;stop-opacity:1"/><stop offset="100%" style="stop-color:#f1f5f9;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Typer Utkontraktering
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="#3b82f6" stroke="#1e40af" stroke-width="3"/>
-  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="300" r="80" fill="#3b82f6" stroke="#1e40af" stroke-width="3"/><text x="400" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     BEDRIFT
-  </text>
-  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kjernevirksomhet
-  </text>
-  
-
-  <g transform="translate(150, 150)">
-    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#cardGradient)" stroke="#10b981" stroke-width="2"/>
-    <circle cx="20" cy="25" r="12" fill="#10b981"/>
-    <text x="32" y="20" font-family="Arial, sans-serif" font-size="10" fill="white">€</text>
-    <text x="40" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46">
+  </text><g transform="translate(150 150)"><rect width="140" height="100" fill="url(#b)" stroke="#10b981" stroke-width="2" rx="10"/><circle cx="20" cy="25" r="12" fill="#10b981"/><text x="32" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="10">€</text><text x="40" y="25" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Regnskap
-    </text>
-    <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Bokføring
-    </text>
-    <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • MVA-rapportering
-    </text>
-    <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Årsoppgjør
-    </text>
-    <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Skatteoppgjør
-    </text>
-  </g>
-  
-
-  <g transform="translate(510, 150)">
-    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#cardGradient)" stroke="#8b5cf6" stroke-width="2"/>
-    <circle cx="20" cy="25" r="12" fill="#8b5cf6"/>
-    <text x="15" y="30" font-family="Arial, sans-serif" font-size="12" fill="white">IT</text>
-    <text x="40" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#581c87">
+    </text></g><g transform="translate(510 150)"><rect width="140" height="100" fill="url(#b)" stroke="#8b5cf6" stroke-width="2" rx="10"/><circle cx="20" cy="25" r="12" fill="#8b5cf6"/><text x="15" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12">IT</text><text x="40" y="25" fill="#581c87" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       IT-tjenester
-    </text>
-    <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Systemdrift
-    </text>
-    <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Utvikling
-    </text>
-    <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Brukerstøtte
-    </text>
-    <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Sikkerhet
-    </text>
-  </g>
-  
-
-  <g transform="translate(150, 450)">
-    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#cardGradient)" stroke="#f59e0b" stroke-width="2"/>
-    <circle cx="20" cy="25" r="12" fill="#f59e0b"/>
-    <text x="13" y="30" font-family="Arial, sans-serif" font-size="12" fill="white">⚙</text>
-    <text x="40" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
+    </text></g><g transform="translate(150 450)"><rect width="140" height="100" fill="url(#b)" stroke="#f59e0b" stroke-width="2" rx="10"/><circle cx="20" cy="25" r="12" fill="#f59e0b"/><text x="13" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12">⚙</text><text x="40" y="25" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Produksjon
-    </text>
-    <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Komponenter
-    </text>
-    <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Logistikk
-    </text>
-    <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Kvalitetskontroll
-    </text>
-    <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Emballasje
-    </text>
-  </g>
-  
-
-  <g transform="translate(510, 450)">
-    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#cardGradient)" stroke="#ef4444" stroke-width="2"/>
-    <circle cx="20" cy="25" r="12" fill="#ef4444"/>
-    <text x="13" y="30" font-family="Arial, sans-serif" font-size="12" fill="white">☎</text>
-    <text x="40" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#991b1b">
+    </text></g><g transform="translate(510 450)"><rect width="140" height="100" fill="url(#b)" stroke="#ef4444" stroke-width="2" rx="10"/><circle cx="20" cy="25" r="12" fill="#ef4444"/><text x="13" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12">☎</text><text x="40" y="25" fill="#991b1b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Kundeservice
-    </text>
-    <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Telefonsupport
-    </text>
-    <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Chat og e-post
-    </text>
-    <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Teknisk support
-    </text>
-    <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="10" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Salgsaktiviteter
-    </text>
-  </g>
-  
-
-  <line x1="290" y1="200" x2="340" y2="240" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <line x1="510" y1="200" x2="460" y2="240" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <line x1="290" y1="500" x2="340" y2="360" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <line x1="510" y1="500" x2="460" y2="360" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+    </text></g><path stroke="#64748b" stroke-width="2" marker-end="url(#c)" d="m290 200 50 40"/><path stroke="#64748b" stroke-width="2" marker-end="url(#c)" d="m510 200-50 40"/><path stroke="#64748b" stroke-width="2" marker-end="url(#c)" d="m290 500 50-140"/><path stroke="#64748b" stroke-width="2" marker-end="url(#c)" d="m510 500-50-140"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#64748b" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="580" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Ulike områder som kan utkontrakteres for å fokusere på kjernevirksomhet
-  </text>
-</svg>
+  </text></svg>

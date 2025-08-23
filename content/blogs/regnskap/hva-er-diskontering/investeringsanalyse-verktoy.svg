@@ -1,204 +1,47 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="toolGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="toolGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="toolGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="toolGradient4" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#b71c1c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Investeringsanalyse Verktøy
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#toolGradient1)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="340" height="130" fill="url(#b)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       NPV - Netto Nåverdi
-    </text>
-    
-
-    <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💰</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="65" r="20" fill="#fff" opacity=".3"/><text x="50" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">💰</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       Absolutt lønnsomhetsmål
-    </text>
-    
-
-    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
-    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="230" height="25" x="90" y="60" fill="#fff" opacity=".2" rx="5"/><text x="205" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       NPV = Σ [CFt / (1+r)^t] - I0
-    </text>
-    
-
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       Beslutningsregel:
-    </text>
-    <text x="90" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
-      NPV > 0: Aksepter | NPV &lt; 0: Avvis
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#toolGradient2)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11">
+      NPV &gt; 0: Aksepter | NPV &lt; 0: Avvis
+    </text></g><g transform="translate(410 80)"><rect width="340" height="130" fill="url(#c)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       IRR - Internrente
-    </text>
-    
-
-    <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📊</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="65" r="20" fill="#fff" opacity=".3"/><text x="50" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">📊</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       Relativ lønnsomhetsmål (%)
-    </text>
-    
-
-    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
-    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="230" height="25" x="90" y="60" fill="#fff" opacity=".2" rx="5"/><text x="205" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       NPV = 0 når r = IRR
-    </text>
-    
-
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       Beslutningsregel:
-    </text>
-    <text x="90" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
-      IRR > Krav: Aksepter | IRR &lt; Krav: Avvis
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 230)">
-    <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#toolGradient3)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11">
+      IRR &gt; Krav: Aksepter | IRR &lt; Krav: Avvis
+    </text></g><g transform="translate(50 230)"><rect width="340" height="130" fill="url(#d)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       PI - Profitability Index
-    </text>
-    
-
-    <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📈</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="65" r="20" fill="#fff" opacity=".3"/><text x="50" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">📈</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       Lønnsomhetsindeks (ratio)
-    </text>
-    
-
-    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
-    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="230" height="25" x="90" y="60" fill="#fff" opacity=".2" rx="5"/><text x="205" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       PI = PV av kontantstrømmer / I0
-    </text>
-    
-
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       Beslutningsregel:
-    </text>
-    <text x="90" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
-      PI > 1: Aksepter | PI &lt; 1: Avvis
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 230)">
-    <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#toolGradient4)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11">
+      PI &gt; 1: Aksepter | PI &lt; 1: Avvis
+    </text></g><g transform="translate(410 230)"><rect width="340" height="130" fill="url(#e)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       DPP - Diskontert Payback
-    </text>
-    
-
-    <circle cx="50" cy="65" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">⏱️</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="65" r="20" fill="#fff" opacity=".3"/><text x="50" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">⏱️</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       Diskontert tilbakebetalingstid
-    </text>
-    
-
-    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
-    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="230" height="25" x="90" y="60" fill="#fff" opacity=".2" rx="5"/><text x="205" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Tid til Σ diskonterte CF = I0
-    </text>
-    
-
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       Beslutningsregel:
-    </text>
-    <text x="90" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       DPP &lt; Maks tid: Aksepter
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 380)">
-    <rect x="0" y="0" width="700" height="160" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    </text></g><g transform="translate(50 380)"><rect width="700" height="160" fill="#fff" stroke="#ddd" stroke-width="2" rx="10"/><text x="350" y="25" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Sammenligning av Investeringsanalyseverktøy
-    </text>
-    
-
-    <rect x="20" y="40" width="660" height="25" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
-    <text x="40" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Verktøy</text>
-    <text x="150" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Type</text>
-    <text x="250" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Fordeler</text>
-    <text x="450" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Ulemper</text>
-    
-
-    <text x="40" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4CAF50">NPV</text>
-    <text x="150" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Absolutt</text>
-    <text x="250" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Direkte verdiøkning</text>
-    <text x="450" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Ikke sammenlignbar</text>
-    
-
-    <text x="40" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FF9800">IRR</text>
-    <text x="150" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Relativ</text>
-    <text x="250" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Lett å forstå (%)</text>
-    <text x="450" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Multiple løsninger</text>
-    
-
-    <text x="40" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#9C27B0">PI</text>
-    <text x="150" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Ratio</text>
-    <text x="250" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Sammenlignbar</text>
-    <text x="450" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Ikke absolutt verdi</text>
-    
-
-    <text x="40" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F44336">DPP</text>
-    <text x="150" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Tid</text>
-    <text x="250" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Risikofokus</text>
-    <text x="450" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Ignorerer senere CF</text>
-  </g>
-  
-
-  <g transform="translate(50, 560)">
-    <rect x="0" y="0" width="700" height="30" rx="10" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2"/>
-    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+    </text><path fill="#f5f5f5" stroke="#ddd" d="M20 40h660v25H20z"/><text x="40" y="55" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Verktøy</text><text x="150" y="55" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Type</text><text x="250" y="55" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Fordeler</text><text x="450" y="55" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Ulemper</text><text x="40" y="80" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">NPV</text><text x="150" y="80" fill="#333" font-family="Arial, sans-serif" font-size="12">Absolutt</text><text x="250" y="80" fill="#333" font-family="Arial, sans-serif" font-size="12">Direkte verdiøkning</text><text x="450" y="80" fill="#333" font-family="Arial, sans-serif" font-size="12">Ikke sammenlignbar</text><text x="40" y="100" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold">IRR</text><text x="150" y="100" fill="#333" font-family="Arial, sans-serif" font-size="12">Relativ</text><text x="250" y="100" fill="#333" font-family="Arial, sans-serif" font-size="12">Lett å forstå (%)</text><text x="450" y="100" fill="#333" font-family="Arial, sans-serif" font-size="12">Multiple løsninger</text><text x="40" y="120" fill="#9c27b0" font-family="Arial, sans-serif" font-size="12" font-weight="bold">PI</text><text x="150" y="120" fill="#333" font-family="Arial, sans-serif" font-size="12">Ratio</text><text x="250" y="120" fill="#333" font-family="Arial, sans-serif" font-size="12">Sammenlignbar</text><text x="450" y="120" fill="#333" font-family="Arial, sans-serif" font-size="12">Ikke absolutt verdi</text><text x="40" y="140" fill="#f44336" font-family="Arial, sans-serif" font-size="12" font-weight="bold">DPP</text><text x="150" y="140" fill="#333" font-family="Arial, sans-serif" font-size="12">Tid</text><text x="250" y="140" fill="#333" font-family="Arial, sans-serif" font-size="12">Risikofokus</text><text x="450" y="140" fill="#333" font-family="Arial, sans-serif" font-size="12">Ignorerer senere CF</text></g><g transform="translate(50 560)"><rect width="700" height="30" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="350" y="20" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Beste Praksis: Bruk NPV som hovedkriterium, supplert med IRR og PI for ytterligere innsikt
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

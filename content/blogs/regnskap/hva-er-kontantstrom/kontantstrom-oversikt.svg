@@ -1,115 +1,41 @@
-<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="600" height="300" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="1"/>
-  
-
-  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#cbd5e1" d="M0 0h600v300H0z"/><text x="300" y="30" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Kontantstrøm Oversikt
-  </text>
-  
-
-  <line x1="50" y1="250" x2="550" y2="250" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="300" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+  </text><path stroke="#64748b" stroke-width="2" marker-end="url(#b)" d="M50 250h500"/><text x="300" y="270" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Tid
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
-    </marker>
-  </defs>
-  
-
-
-  <rect x="100" y="150" width="40" height="80" fill="#10b981" opacity="0.8"/>
-  <text x="120" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+  </text><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#64748b" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="#10b981" d="M100 150h40v80h-40z" opacity=".8"/><text x="120" y="140" fill="#059669" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     +500k
-  </text>
-  <text x="120" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+  </text><text x="120" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Jan
-  </text>
-  
-
-  <rect x="180" y="200" width="40" height="30" fill="#ef4444" opacity="0.8"/>
-  <text x="200" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">
+  </text><path fill="#ef4444" d="M180 200h40v30h-40z" opacity=".8"/><text x="200" y="195" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     -200k
-  </text>
-  <text x="200" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+  </text><text x="200" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Feb
-  </text>
-  
-
-  <rect x="260" y="120" width="40" height="110" fill="#10b981" opacity="0.8"/>
-  <text x="280" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+  </text><path fill="#10b981" d="M260 120h40v110h-40z" opacity=".8"/><text x="280" y="110" fill="#059669" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     +800k
-  </text>
-  <text x="280" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+  </text><text x="280" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Mar
-  </text>
-  
-
-  <rect x="340" y="180" width="40" height="50" fill="#10b981" opacity="0.8"/>
-  <text x="360" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+  </text><path fill="#10b981" d="M340 180h40v50h-40z" opacity=".8"/><text x="360" y="175" fill="#059669" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     +300k
-  </text>
-  <text x="360" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+  </text><text x="360" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Apr
-  </text>
-  
-
-  <rect x="420" y="190" width="40" height="40" fill="#ef4444" opacity="0.8"/>
-  <text x="440" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc2626">
+  </text><path fill="#ef4444" d="M420 190h40v40h-40z" opacity=".8"/><text x="440" y="185" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     -250k
-  </text>
-  <text x="440" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+  </text><text x="440" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Mai
-  </text>
-  
-
-  <rect x="500" y="100" width="40" height="130" fill="#10b981" opacity="0.8"/>
-  <text x="520" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+  </text><path fill="#10b981" d="M500 100h40v130h-40z" opacity=".8"/><text x="520" y="90" fill="#059669" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     +1000k
-  </text>
-  <text x="520" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+  </text><text x="520" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Jun
-  </text>
-  
-
-  <line x1="50" y1="230" x2="550" y2="230" stroke="#64748b" stroke-width="1" stroke-dasharray="5,5"/>
-  <text x="40" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+  </text><path stroke="#64748b" stroke-dasharray="5,5" d="M50 230h500"/><text x="40" y="235" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     0
-  </text>
-  
-
-  <g>
-    <rect x="50" y="60" width="15" height="15" fill="#10b981" opacity="0.8"/>
-    <text x="75" y="72" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><path fill="#10b981" d="M50 60h15v15H50z" opacity=".8"/><text x="75" y="72" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       Positiv kontantstrøm (innstrøm &gt; utstrøm)
-    </text>
-    
-    <rect x="300" y="60" width="15" height="15" fill="#ef4444" opacity="0.8"/>
-    <text x="325" y="72" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><path fill="#ef4444" d="M300 60h15v15h-15z" opacity=".8"/><text x="325" y="72" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       Negativ kontantstrøm (utstrøm &gt; innstrøm)
-    </text>
-  </g>
-  
-
-  <rect x="450" y="50" width="140" height="50" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
-  <text x="520" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400e">
+    </text><rect width="140" height="50" x="450" y="50" fill="#fef3c7" stroke="#f59e0b" rx="5"/><text x="520" y="68" fill="#92400e" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Viktig!
-  </text>
-  <text x="520" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#92400e">
+  </text><text x="520" y="82" fill="#92400e" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Kontantstrøm varierer
-  </text>
-  <text x="520" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#92400e">
+  </text><text x="520" y="94" fill="#92400e" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     over tid - planlegging er kritisk
-  </text>
-</svg>
+  </text></svg>

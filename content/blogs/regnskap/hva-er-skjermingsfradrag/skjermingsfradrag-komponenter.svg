@@ -1,116 +1,43 @@
-<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f7fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="3" dy="3" stdDeviation="3" flood-color="#00000015"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGrad)"/>
-  
-
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1a202c">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f7fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><filter id="b" width="140%" height="140%" x="-20%" y="-20%"><feDropShadow dx="3" dy="3" flood-color="#00000015" stdDeviation="3"/></filter></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="35" fill="#1a202c" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Komponenter i Skjermingsfradrag
-  </text>
-  
-
-  <g transform="translate(400,100)">
-    <rect x="-180" y="-30" width="360" height="60" rx="10" fill="#3182ce" filter="url(#dropShadow)"/>
-    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(400 100)"><rect width="360" height="60" x="-180" y="-30" fill="#3182ce" filter="url(#b)" rx="10"/><text y="-5" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Skjermingsfradrag = Grunnlag × Rente × Tid
-    </text>
-    <text x="0" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#bee3f8">
+    </text><text y="15" fill="#bee3f8" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Årlig beregning for hver aksjepost
-    </text>
-  </g>
-  
-
-  <g transform="translate(150,250)">
-    <rect x="-120" y="-60" width="240" height="120" rx="8" fill="#48bb78" filter="url(#dropShadow)"/>
-    <text x="0" y="-35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(150 250)"><rect width="240" height="120" x="-120" y="-60" fill="#48bb78" filter="url(#b)" rx="8"/><text y="-35" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Skjermingsgrunnlag
-    </text>
-    <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text y="-15" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Anskaffelseskost aksjer
-    </text>
-    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • + Tilskudd til selskap
-    </text>
-    <text x="0" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text y="15" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • - Mottatte utbytter
-    </text>
-    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#c6f6d5">
+    </text><text y="35" fill="#c6f6d5" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Justert historisk kost
-    </text>
-  </g>
-  
-
-  <g transform="translate(400,250)">
-    <rect x="-120" y="-60" width="240" height="120" rx="8" fill="#ed8936" filter="url(#dropShadow)"/>
-    <text x="0" y="-35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(400 250)"><rect width="240" height="120" x="-120" y="-60" fill="#ed8936" filter="url(#b)" rx="8"/><text y="-35" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Skjermingsrente
-    </text>
-    <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text y="-15" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Norske statsobligasjoner
-    </text>
-    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • 3 års gjenværende løpetid
-    </text>
-    <text x="0" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text y="15" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Gjennomsnitt november
-    </text>
-    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#fbb6ce">
+    </text><text y="35" fill="#fbb6ce" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Risikofri referanserente
-    </text>
-  </g>
-  
-
-  <g transform="translate(650,250)">
-    <rect x="-120" y="-60" width="240" height="120" rx="8" fill="#805ad5" filter="url(#dropShadow)"/>
-    <text x="0" y="-35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(650 250)"><rect width="240" height="120" x="-120" y="-60" fill="#805ad5" filter="url(#b)" rx="8"/><text y="-35" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Eierperiode
-    </text>
-    <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text y="-15" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Fra ervervsdato
-    </text>
-    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Til realisasjon/utdeling
-    </text>
-    <text x="0" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text y="15" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Dager/365 for andel år
-    </text>
-    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#d6bcfa">
+    </text><text y="35" fill="#d6bcfa" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Tidsvektet beregning
-    </text>
-  </g>
-  
-
-  <path d="M 150 190 L 350 140" stroke="#4a5568" stroke-width="2" marker-end="url(#arrow)" fill="none"/>
-  <path d="M 400 190 L 400 140" stroke="#4a5568" stroke-width="2" marker-end="url(#arrow)" fill="none"/>
-  <path d="M 650 190 L 450 140" stroke="#4a5568" stroke-width="2" marker-end="url(#arrow)" fill="none"/>
-  
-
-  <g transform="translate(400,420)">
-    <rect x="-250" y="-40" width="500" height="80" rx="8" fill="#edf2f7" stroke="#cbd5e0" stroke-width="1"/>
-    <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2d3748">
+    </text></g><path fill="none" stroke="#4a5568" stroke-width="2" marker-end="url(#c)" d="m150 190 200-50"/><path fill="none" stroke="#4a5568" stroke-width="2" marker-end="url(#c)" d="M400 190v-50"/><path fill="none" stroke="#4a5568" stroke-width="2" marker-end="url(#c)" d="m650 190-200-50"/><g transform="translate(400 420)"><rect width="500" height="80" x="-250" y="-40" fill="#edf2f7" stroke="#cbd5e0" rx="8"/><text y="-20" fill="#2d3748" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Eksempel: 2.000.000 kr × 4,0% × (365/365) = 80.000 kr årlig skjermingsfradrag
-    </text>
-    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#4a5568">
+    </text><text fill="#4a5568" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Ved utbytte på 100.000 kr: Skattepliktig del = 100.000 - 80.000 = 20.000 kr
-    </text>
-    <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#4a5568">
+    </text><text y="20" fill="#4a5568" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Effektiv skattelette: 80.000 kr × marginalskattesats = betydelig besparelse
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#4a5568"/>
-    </marker>
-  </defs>
-</svg>
+    </text></g><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#4a5568" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

@@ -1,225 +1,109 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="commercialGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="publicGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="financialGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e40af;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#047857;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc2626;stop-opacity:1"/><stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1e293b" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Typer Betalingsanmerkninger etter Fordringskategori
-  </text>
-  
-
-  <rect x="50" y="80" width="220" height="450" rx="10" fill="url(#commercialGradient)" stroke="#1e40af" stroke-width="2"/>
-  <text x="160" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="220" height="450" x="50" y="80" fill="url(#a)" stroke="#1e40af" stroke-width="2" rx="10"/><text x="160" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     KOMMERSIELLE
-  </text>
-  <text x="160" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="160" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     FORDRINGER
-  </text>
-  
-
-  <rect x="70" y="160" width="180" height="50" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-  <text x="160" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="50" x="70" y="160" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" rx="5"/><text x="160" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Leverandørgjeld
-  </text>
-  <text x="160" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="160" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     B2B fakturasalg
-  </text>
-  <text x="160" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="160" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Varelevering &amp; tjenester
-  </text>
-  
-  <rect x="70" y="230" width="180" height="50" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-  <text x="160" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="50" x="70" y="230" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" rx="5"/><text x="160" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Profesjonelle Tjenester
-  </text>
-  <text x="160" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="160" y="265" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Advokat, regnskapsfører
-  </text>
-  <text x="160" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="160" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Konsulentoppdrag
-  </text>
-  
-  <rect x="70" y="300" width="180" height="50" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-  <text x="160" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="50" x="70" y="300" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" rx="5"/><text x="160" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Håndverkstjenester
-  </text>
-  <text x="160" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="160" y="335" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Bygg &amp; anlegg
-  </text>
-  <text x="160" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="160" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Reparasjoner
-  </text>
-  
-
-  <rect x="70" y="380" width="180" height="120" rx="5" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
-  <text x="160" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+  </text><rect width="180" height="120" x="70" y="380" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" rx="5"/><text x="160" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     STATISTIKK
-  </text>
-  <text x="80" y="420" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="80" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • 65% av alle anmerkninger
-  </text>
-  <text x="80" y="435" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="80" y="435" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Gj.snitt beløp: 15.000 kr
-  </text>
-  <text x="80" y="450" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="80" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Registreringstid: 3 år
-  </text>
-  <text x="80" y="465" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="80" y="465" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Høy oppgjørsrate: 78%
-  </text>
-  <text x="80" y="480" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="80" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Forhandlingsrom: Stor
-  </text>
-  
-
-  <rect x="290" y="80" width="220" height="450" rx="10" fill="url(#publicGradient)" stroke="#047857" stroke-width="2"/>
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="220" height="450" x="290" y="80" fill="url(#b)" stroke="#047857" stroke-width="2" rx="10"/><text x="400" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     OFFENTLIGE
-  </text>
-  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="400" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     FORDRINGER
-  </text>
-  
-
-  <rect x="310" y="160" width="180" height="50" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-  <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="50" x="310" y="160" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" rx="5"/><text x="400" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Skattegjeld
-  </text>
-  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="400" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Skatteetaten
-  </text>
-  <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="400" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Formues- &amp; inntektsskatt
-  </text>
-  
-  <rect x="310" y="230" width="180" height="50" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-  <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="50" x="310" y="230" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" rx="5"/><text x="400" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     MVA-gjeld
-  </text>
-  <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="400" y="265" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Merverdiavgift
-  </text>
-  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="400" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Næringsdrivende
-  </text>
-  
-  <rect x="310" y="300" width="180" height="50" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="50" x="310" y="300" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" rx="5"/><text x="400" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kommunale Avgifter
-  </text>
-  <text x="400" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="400" y="335" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Eiendomsskatt, avfall
-  </text>
-  <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="400" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kommunale gebyrer
-  </text>
-  
-
-  <rect x="310" y="380" width="180" height="120" rx="5" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
-  <text x="400" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+  </text><rect width="180" height="120" x="310" y="380" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" rx="5"/><text x="400" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     STATISTIKK
-  </text>
-  <text x="320" y="420" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="320" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • 25% av alle anmerkninger
-  </text>
-  <text x="320" y="435" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="320" y="435" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Gj.snitt beløp: 45.000 kr
-  </text>
-  <text x="320" y="450" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="320" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Registreringstid: 5 år
-  </text>
-  <text x="320" y="465" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="320" y="465" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Lav oppgjørsrate: 45%
-  </text>
-  <text x="320" y="480" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="320" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Forhandlingsrom: Begrenset
-  </text>
-  
-
-  <rect x="530" y="80" width="220" height="450" rx="10" fill="url(#financialGradient)" stroke="#b91c1c" stroke-width="2"/>
-  <text x="640" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="220" height="450" x="530" y="80" fill="url(#c)" stroke="#b91c1c" stroke-width="2" rx="10"/><text x="640" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     FINANSIELLE
-  </text>
-  <text x="640" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="640" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     FORDRINGER
-  </text>
-  
-
-  <rect x="550" y="160" width="180" height="50" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-  <text x="640" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="50" x="550" y="160" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" rx="5"/><text x="640" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Banklån
-  </text>
-  <text x="640" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="640" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Boliglån, billån
-  </text>
-  <text x="640" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="640" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Næringskreditt
-  </text>
-  
-  <rect x="550" y="230" width="180" height="50" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-  <text x="640" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="50" x="550" y="230" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" rx="5"/><text x="640" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kredittkort
-  </text>
-  <text x="640" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="640" y="265" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Forbrukskreditt
-  </text>
-  <text x="640" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="640" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kassekreditt
-  </text>
-  
-  <rect x="550" y="300" width="180" height="50" rx="5" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-  <text x="640" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="50" x="550" y="300" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.3)" rx="5"/><text x="640" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Forbrukslån
-  </text>
-  <text x="640" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="640" y="335" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Personlige lån
-  </text>
-  <text x="640" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="640" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Refinansiering
-  </text>
-  
-
-  <rect x="550" y="380" width="180" height="120" rx="5" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
-  <text x="640" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+  </text><rect width="180" height="120" x="550" y="380" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" rx="5"/><text x="640" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     STATISTIKK
-  </text>
-  <text x="560" y="420" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="560" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • 10% av alle anmerkninger
-  </text>
-  <text x="560" y="435" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="560" y="435" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Gj.snitt beløp: 75.000 kr
-  </text>
-  <text x="560" y="450" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="560" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Registreringstid: 3-5 år
-  </text>
-  <text x="560" y="465" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="560" y="465" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Høy oppgjørsrate: 85%
-  </text>
-  <text x="560" y="480" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="560" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="10">
     • Forhandlingsrom: Middels
-  </text>
-  
-
-  <rect x="50" y="550" width="700" height="40" rx="5" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1"/>
-  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+  </text><rect width="700" height="40" x="50" y="550" fill="#e2e8f0" stroke="#cbd5e1" rx="5"/><text x="400" y="570" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fordelingen viser at kommersielle fordringer dominerer, mens offentlige fordringer har lengst varighet
-  </text>
-  <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+  </text><text x="400" y="585" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Finansielle fordringer har høyest beløp men best oppgjørsrate på grunn av sikkerhet i eiendom
-  </text>
-</svg>
+  </text></svg>

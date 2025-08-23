@@ -1,93 +1,31 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="#ffffff"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="45" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2563eb;stop-opacity:1"/><stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient></defs><path fill="#fff" d="M0 0h800v400H0z"/><path fill="url(#a)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Hva er inkassoloven?
-  </text>
-  
-
-  <rect x="50" y="120" width="200" height="120" rx="8" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="1"/>
-  <rect x="300" y="120" width="200" height="120" rx="8" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="1"/>
-  <rect x="550" y="120" width="200" height="120" rx="8" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="1"/>
-  
-
-  <circle cx="150" cy="150" r="15" fill="#2563eb"/>
-  <text x="150" y="155" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">§</text>
-  
-  <circle cx="400" cy="150" r="15" fill="#059669"/>
-  <text x="400" y="155" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">⚖</text>
-  
-  <circle cx="650" cy="150" r="15" fill="#dc2626"/>
-  <text x="650" y="155" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">€</text>
-  
-
-  <text x="150" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
+  </text><rect width="200" height="120" x="50" y="120" fill="url(#b)" stroke="#cbd5e1" rx="8"/><rect width="200" height="120" x="300" y="120" fill="url(#b)" stroke="#cbd5e1" rx="8"/><rect width="200" height="120" x="550" y="120" fill="url(#b)" stroke="#cbd5e1" rx="8"/><circle cx="150" cy="150" r="15" fill="#2563eb"/><text x="150" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">§</text><circle cx="400" cy="150" r="15" fill="#059669"/><text x="400" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">⚖</text><circle cx="650" cy="150" r="15" fill="#dc2626"/><text x="650" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">€</text><text x="150" y="185" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Lovgivning
-  </text>
-  <text x="400" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
+  </text><text x="400" y="185" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Rettigheter
-  </text>
-  <text x="650" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
+  </text><text x="650" y="185" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Gebyrer
-  </text>
-  
-
-  <text x="150" y="205" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#64748b">
+  </text><text x="150" y="205" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Regulerer inkasso-
-  </text>
-  <text x="150" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#64748b">
+  </text><text x="150" y="220" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     virksomhet i Norge
-  </text>
-  
-  <text x="400" y="205" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#64748b">
+  </text><text x="400" y="205" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Beskytter skyldnere
-  </text>
-  <text x="400" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#64748b">
+  </text><text x="400" y="220" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     mot urettmessighet
-  </text>
-  
-  <text x="650" y="205" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#64748b">
+  </text><text x="650" y="205" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Regulerer tillatte
-  </text>
-  <text x="650" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#64748b">
+  </text><text x="650" y="220" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     inkassokostnader
-  </text>
-  
-
-  <rect x="100" y="280" width="600" height="80" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
-  
-
-  <text x="400" y="305" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e293b">
+  </text><rect width="600" height="80" x="100" y="280" fill="#f1f5f9" stroke="#cbd5e1" rx="8"/><text x="400" y="305" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Nøkkelpunkter i Inkassoloven
-  </text>
-  
-  <text x="120" y="330" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+  </text><text x="120" y="330" fill="#475569" font-family="Arial, sans-serif" font-size="12">
     • Skyldnerbeskyttelse og informasjonsrett
-  </text>
-  <text x="120" y="345" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+  </text><text x="120" y="345" fill="#475569" font-family="Arial, sans-serif" font-size="12">
     • Regulerte gebyrer og prosedyrer
-  </text>
-  
-  <text x="420" y="330" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+  </text><text x="420" y="330" fill="#475569" font-family="Arial, sans-serif" font-size="12">
     • Krav til inkassoselskaper og egeninkasso
-  </text>
-  <text x="420" y="345" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+  </text><text x="420" y="345" fill="#475569" font-family="Arial, sans-serif" font-size="12">
     • Sanksjoner ved brudd på loven
-  </text>
-</svg>
+  </text></svg>

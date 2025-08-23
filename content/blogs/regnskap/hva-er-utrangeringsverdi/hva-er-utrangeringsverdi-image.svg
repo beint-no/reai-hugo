@@ -1,86 +1,21 @@
-<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="barGradient1" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="barGradient2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#17a2b8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6f42c1;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#17a2b8;stop-opacity:1"/><stop offset="100%" style="stop-color:#6f42c1;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Utrangeringsverdi i Regnskap
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-
-    <line x1="50" y1="200" x2="650" y2="200" stroke="#6c757d" stroke-width="3"/>
-    
-
-    <circle cx="50" cy="200" r="6" fill="#dc3545"/>
-    <circle cx="650" cy="200" r="6" fill="#28a745"/>
-    
-
-
-    <rect x="30" y="60" width="40" height="140" fill="url(#barGradient1)" rx="5"/>
-    <text x="50" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+  </text><g transform="translate(50 80)"><path stroke="#6c757d" stroke-width="3" d="M50 200h600"/><circle cx="50" cy="200" r="6" fill="#dc3545"/><circle cx="650" cy="200" r="6" fill="#28a745"/><rect width="40" height="140" x="30" y="60" fill="url(#b)" rx="5"/><text x="50" y="50" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Anskaffelse
-    </text>
-    <text x="50" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="50" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       År 0
-    </text>
-    <text x="50" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+    </text><text x="50" y="235" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       500.000 kr
-    </text>
-    
-
-    <rect x="630" y="160" width="40" height="40" fill="url(#barGradient2)" rx="5"/>
-    <text x="650" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+    </text><rect width="40" height="40" x="630" y="160" fill="url(#c)" rx="5"/><text x="650" y="150" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Utrangering
-    </text>
-    <text x="650" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="650" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       År 10
-    </text>
-    <text x="650" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#17a2b8">
+    </text><text x="650" y="235" fill="#17a2b8" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       50.000 kr
-    </text>
-    
-
-    <path d="M 50 60 Q 200 80 350 120 Q 500 150 650 160" stroke="#fd7e14" stroke-width="3" fill="none" stroke-dasharray="5,5"/>
-    
-
-    <path d="M 50 60 Q 200 80 350 120 Q 500 150 650 160 L 650 200 L 50 200 Z" fill="#fd7e14" fill-opacity="0.2"/>
-    
-
-    <path d="M 350 90 L 370 110" stroke="#fd7e14" stroke-width="2" marker-end="url(#arrowhead)"/>
-    <text x="375" y="105" font-family="Arial, sans-serif" font-size="12" fill="#fd7e14" font-weight="bold">
+    </text><path fill="none" stroke="#fd7e14" stroke-dasharray="5,5" stroke-width="3" d="M50 60q150 20 300 60 150 30 300 40"/><path fill="#fd7e14" fill-opacity=".2" d="M50 60q150 20 300 60 150 30 300 40v40H50Z"/><path stroke="#fd7e14" stroke-width="2" marker-end="url(#d)" d="m350 90 20 20"/><text x="375" y="105" fill="#fd7e14" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Verdifall
-    </text>
-    
-
-    <text x="350" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
+    </text><text x="350" y="280" fill="#212529" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Avskrivningsgrunnlag = Anskaffelseskost - Utrangeringsverdi
-    </text>
-    <text x="350" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+    </text><text x="350" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       450.000 kr = 500.000 kr - 50.000 kr
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#fd7e14"/>
-    </marker>
-  </defs>
-</svg>
+    </text></g><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#fd7e14" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

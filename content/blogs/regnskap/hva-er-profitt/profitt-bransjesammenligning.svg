@@ -1,206 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
-  <defs>
-    <linearGradient id="software" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#E8F5E8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4CAF50;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="pharma" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#E3F2FD;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2196F3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="manufacturing" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FFF3E0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FF9800;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="retail" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FFEBEE;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#F44336;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="restaurant" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#F3E5F5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#9C27B0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="finance" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#E0F2F1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#009688;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#4caf50;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1"/><stop offset="100%" style="stop-color:#2196f3;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#fff3e0;stop-opacity:1"/><stop offset="100%" style="stop-color:#ff9800;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ffebee;stop-opacity:1"/><stop offset="100%" style="stop-color:#f44336;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1"/><stop offset="100%" style="stop-color:#9c27b0;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e0f2f1;stop-opacity:1"/><stop offset="100%" style="stop-color:#009688;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Profittmarginer på Tvers av Bransjer
-  </text>
-  
-
-  <rect x="150" y="60" width="600" height="400" fill="white" stroke="#ddd" stroke-width="1"/>
-  
-
-  <g stroke="#eee" stroke-width="1">
-
-    <line x1="200" y1="60" x2="200" y2="460"/>
-    <line x1="300" y1="60" x2="300" y2="460"/>
-    <line x1="400" y1="60" x2="400" y2="460"/>
-    <line x1="500" y1="60" x2="500" y2="460"/>
-    <line x1="600" y1="60" x2="600" y2="460"/>
-    <line x1="700" y1="60" x2="700" y2="460"/>
-  </g>
-  
-
-  <text x="140" y="95" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Software/IT</text>
-  <text x="140" y="145" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Farmasi</text>
-  <text x="140" y="195" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Bank/Finans</text>
-  <text x="140" y="245" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Produksjon</text>
-  <text x="140" y="295" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Restaurant</text>
-  <text x="140" y="345" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Detaljhandel</text>
-  
-
-  <text x="150" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">0%</text>
-  <text x="200" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">5%</text>
-  <text x="300" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">15%</text>
-  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">25%</text>
-  <text x="500" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">35%</text>
-  <text x="600" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">45%</text>
-  <text x="700" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">55%</text>
-  <text x="750" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">65%</text>
-  
-
-  <line x1="150" y1="60" x2="150" y2="460" stroke="#333" stroke-width="2"/>
-  <line x1="150" y1="460" x2="750" y2="460" stroke="#333" stroke-width="2"/>
-  
-
-  <rect x="150" y="80" width="450" height="15" fill="url(#software)" stroke="#4CAF50" stroke-width="1"/>
-  <text x="610" y="92" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2E7D32">75%</text>
-  <text x="380" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Bruttoprofi tt: 75%</text>
-  
-  <rect x="150" y="100" width="200" height="15" fill="url(#software)" stroke="#4CAF50" stroke-width="1"/>
-  <text x="360" y="112" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2E7D32">20%</text>
-  <text x="250" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Nettoprofi tt: 20%</text>
-  
-
-  <rect x="150" y="130" width="420" height="15" fill="url(#pharma)" stroke="#2196F3" stroke-width="1"/>
-  <text x="580" y="142" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565C0">70%</text>
-  <text x="360" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Bruttoprofi tt: 70%</text>
-  
-  <rect x="150" y="150" width="150" height="15" fill="url(#pharma)" stroke="#2196F3" stroke-width="1"/>
-  <text x="310" y="162" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565C0">15%</text>
-  <text x="225" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Nettoprofi tt: 15%</text>
-  
-
-  <rect x="150" y="180" width="120" height="15" fill="url(#finance)" stroke="#009688" stroke-width="1"/>
-  <text x="280" y="192" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#00695C">12%</text>
-  <text x="210" y="192" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Nettoprofi tt: 12%</text>
-  <text x="290" y="192" font-family="Arial, sans-serif" font-size="9" fill="#00695C">(Bruttoprofi tt ikke relevant)</text>
-  
-
-  <rect x="150" y="230" width="200" height="15" fill="url(#manufacturing)" stroke="#FF9800" stroke-width="1"/>
-  <text x="360" y="242" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#E65100">40%</text>
-  <text x="250" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Bruttoprofi tt: 40%</text>
-  
-  <rect x="150" y="250" width="50" height="15" fill="url(#manufacturing)" stroke="#FF9800" stroke-width="1"/>
-  <text x="210" y="262" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#E65100">5%</text>
-  <text x="175" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Netto: 5%</text>
-  
-
-  <rect x="150" y="280" width="330" height="15" fill="url(#restaurant)" stroke="#9C27B0" stroke-width="1"/>
-  <text x="490" y="292" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7B1FA2">65%</text>
-  <text x="315" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Bruttoprofi tt: 65%</text>
-  
-  <rect x="150" y="300" width="30" height="15" fill="url(#restaurant)" stroke="#9C27B0" stroke-width="1"/>
-  <text x="190" y="312" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7B1FA2">3%</text>
-  <text x="165" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">3%</text>
-  
-
-  <rect x="150" y="330" width="150" height="15" fill="url(#retail)" stroke="#F44336" stroke-width="1"/>
-  <text x="310" y="342" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#C62828">30%</text>
-  <text x="225" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">Bruttoprofi tt: 30%</text>
-  
-  <rect x="150" y="350" width="20" height="15" fill="url(#retail)" stroke="#F44336" stroke-width="1"/>
-  <text x="180" y="362" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#C62828">2%</text>
-  <text x="160" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">2%</text>
-  
-
-  <rect x="150" y="390" width="200" height="50" rx="5" fill="#f0f8ff" stroke="#4169E1" stroke-width="1"/>
-  <text x="250" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4169E1">
+  </text><path fill="#fff" stroke="#ddd" d="M150 60h600v400H150z"/><g stroke="#eee"><path d="M200 60v400M300 60v400M400 60v400M500 60v400M600 60v400M700 60v400"/></g><text x="140" y="95" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">Software/IT</text><text x="140" y="145" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">Farmasi</text><text x="140" y="195" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">Bank/Finans</text><text x="140" y="245" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">Produksjon</text><text x="140" y="295" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">Restaurant</text><text x="140" y="345" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">Detaljhandel</text><text x="150" y="480" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">0%</text><text x="200" y="480" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">5%</text><text x="300" y="480" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">15%</text><text x="400" y="480" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">25%</text><text x="500" y="480" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">35%</text><text x="600" y="480" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">45%</text><text x="700" y="480" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">55%</text><text x="750" y="480" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">65%</text><path stroke="#333" stroke-width="2" d="M150 60v400M150 460h600"/><path fill="url(#a)" stroke="#4caf50" d="M150 80h450v15H150z"/><text x="610" y="92" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" font-weight="bold">75%</text><text x="380" y="92" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Bruttoprofi tt: 75%</text><path fill="url(#a)" stroke="#4caf50" d="M150 100h200v15H150z"/><text x="360" y="112" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" font-weight="bold">20%</text><text x="250" y="112" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Nettoprofi tt: 20%</text><path fill="url(#b)" stroke="#2196f3" d="M150 130h420v15H150z"/><text x="580" y="142" fill="#1565c0" font-family="Arial, sans-serif" font-size="10" font-weight="bold">70%</text><text x="360" y="142" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Bruttoprofi tt: 70%</text><path fill="url(#b)" stroke="#2196f3" d="M150 150h150v15H150z"/><text x="310" y="162" fill="#1565c0" font-family="Arial, sans-serif" font-size="10" font-weight="bold">15%</text><text x="225" y="162" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Nettoprofi tt: 15%</text><path fill="url(#c)" stroke="#009688" d="M150 180h120v15H150z"/><text x="280" y="192" fill="#00695c" font-family="Arial, sans-serif" font-size="10" font-weight="bold">12%</text><text x="210" y="192" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Nettoprofi tt: 12%</text><text x="290" y="192" fill="#00695c" font-family="Arial, sans-serif" font-size="9">(Bruttoprofi tt ikke relevant)</text><path fill="url(#d)" stroke="#ff9800" d="M150 230h200v15H150z"/><text x="360" y="242" fill="#e65100" font-family="Arial, sans-serif" font-size="10" font-weight="bold">40%</text><text x="250" y="242" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Bruttoprofi tt: 40%</text><path fill="url(#d)" stroke="#ff9800" d="M150 250h50v15h-50z"/><text x="210" y="262" fill="#e65100" font-family="Arial, sans-serif" font-size="10" font-weight="bold">5%</text><text x="175" y="262" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Netto: 5%</text><path fill="url(#e)" stroke="#9c27b0" d="M150 280h330v15H150z"/><text x="490" y="292" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10" font-weight="bold">65%</text><text x="315" y="292" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Bruttoprofi tt: 65%</text><path fill="url(#e)" stroke="#9c27b0" d="M150 300h30v15h-30z"/><text x="190" y="312" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10" font-weight="bold">3%</text><text x="165" y="312" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">3%</text><path fill="url(#f)" stroke="#f44336" d="M150 330h150v15H150z"/><text x="310" y="342" fill="#c62828" font-family="Arial, sans-serif" font-size="10" font-weight="bold">30%</text><text x="225" y="342" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Bruttoprofi tt: 30%</text><path fill="url(#f)" stroke="#f44336" d="M150 350h20v15h-20z"/><text x="180" y="362" fill="#c62828" font-family="Arial, sans-serif" font-size="10" font-weight="bold">2%</text><text x="160" y="362" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">2%</text><rect width="200" height="50" x="150" y="390" fill="#f0f8ff" stroke="#4169e1" rx="5"/><text x="250" y="405" fill="#4169e1" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Forklaring
-  </text>
-  <rect x="160" y="410" width="15" height="10" fill="#4CAF50"/>
-  <text x="180" y="418" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Bruttoprofi ttmargin</text>
-  <rect x="160" y="425" width="15" height="10" fill="#666"/>
-  <text x="180" y="433" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">Nettoprofi ttmargin</text>
-  
-
-  <rect x="400" y="390" width="350" height="170" rx="10" fill="#f8f9fa" stroke="#ddd" stroke-width="2"/>
-  <text x="575" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><path fill="#4caf50" d="M160 410h15v10h-15z"/><text x="180" y="418" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9">Bruttoprofi ttmargin</text><path fill="#666" d="M160 425h15v10h-15z"/><text x="180" y="433" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9">Nettoprofi ttmargin</text><rect width="350" height="170" x="400" y="390" fill="#f8f9fa" stroke="#ddd" stroke-width="2" rx="10"/><text x="575" y="410" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Bransjeinnsikter
-  </text>
-  
-
-  <text x="420" y="430" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#4CAF50">
+  </text><text x="420" y="430" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Høymarginbransjer:
-  </text>
-  <text x="430" y="445" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="430" y="445" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9">
     • Software: Lav marginal kostnad, skalerbarhet
-  </text>
-  <text x="430" y="460" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="430" y="460" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9">
     • Farmasi: Patentbeskyttelse, F&amp;U-investeringer
-  </text>
-  
-
-  <text x="420" y="480" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#F44336">
+  </text><text x="420" y="480" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Lavmarginbransjer:
-  </text>
-  <text x="430" y="495" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="430" y="495" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9">
     • Detaljhandel: Intens konkurranse, priskriger
-  </text>
-  <text x="430" y="510" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="430" y="510" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9">
     • Restaurant: Høye lønnskostnader, matavfall
-  </text>
-  
-
-  <text x="420" y="530" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2196F3">
+  </text><text x="420" y="530" fill="#2196f3" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Strategiske implikasjoner:
-  </text>
-  <text x="430" y="545" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="430" y="545" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9">
     • Fokus på verdiskapning vs. volumbasert konkurranse
-  </text>
-  
-
-  <rect x="50" y="490" width="700" height="100" rx="15" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2"/>
-  <text x="400" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+  </text><rect width="700" height="100" x="50" y="490" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="15"/><text x="400" y="515" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Påvirkning på Forretningsmodell og Strategi
-  </text>
-  
-
-  <text x="70" y="540" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2E7D32">
+  </text><text x="70" y="540" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Høymarginstrategier:
-  </text>
-  <text x="80" y="555" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><text x="80" y="555" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     • Innovasjon og differensiering
-  </text>
-  <text x="80" y="570" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><text x="80" y="570" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     • Bygge konkurransefordeler
-  </text>
-  
-  <text x="290" y="540" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2E7D32">
+  </text><text x="290" y="540" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Lavmarginstrategier:
-  </text>
-  <text x="300" y="555" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><text x="300" y="555" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     • Operasjonell effektivitet
-  </text>
-  <text x="300" y="570" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><text x="300" y="570" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     • Volum og kostnadsoptimalisering
-  </text>
-  
-  <text x="510" y="540" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2E7D32">
+  </text><text x="510" y="540" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Generell tilnærming:
-  </text>
-  <text x="520" y="555" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><text x="520" y="555" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     • Forstå bransjens økonomiske drivere
-  </text>
-  <text x="520" y="570" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><text x="520" y="570" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     • Tilpass strategi til bransjekarakteristika
-  </text>
-</svg>
+  </text></svg>

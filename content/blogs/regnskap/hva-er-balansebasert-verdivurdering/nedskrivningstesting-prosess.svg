@@ -1,186 +1,61 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e03131;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4dabf7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1c7ed6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#51cf66;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#37b24d;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ff922b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1"/><stop offset="100%" style="stop-color:#e03131;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#51cf66;stop-opacity:1"/><stop offset="100%" style="stop-color:#37b24d;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff922b;stop-opacity:1"/><stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Nedskrivningstesting Prosess
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="200" height="80" fill="url(#redGradient)" stroke="#e03131" stroke-width="2" rx="10"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+  </text><g transform="translate(50 80)"><rect width="200" height="80" fill="url(#b)" stroke="#e03131" stroke-width="2" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       1. Indikatorer på
-    </text>
-    <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+    </text><text x="100" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Verdifall
-    </text>
-    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#fff">
+    </text><text x="100" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Eksterne/Interne signaler
-    </text>
-  </g>
-  
-
-  <g transform="translate(300, 80)">
-    <rect x="0" y="0" width="200" height="80" fill="url(#orangeGradient)" stroke="#fd7e14" stroke-width="2" rx="10"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+    </text></g><g transform="translate(300 80)"><rect width="200" height="80" fill="url(#c)" stroke="#fd7e14" stroke-width="2" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2. Sammenligning
-    </text>
-    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+    </text><text x="100" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Bokført verdi vs
-    </text>
-    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+    </text><text x="100" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Gjenvinnbart beløp
-    </text>
-  </g>
-  
-
-  <g transform="translate(550, 80)">
-    <rect x="0" y="0" width="200" height="80" fill="url(#greenGradient)" stroke="#37b24d" stroke-width="2" rx="10"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+    </text></g><g transform="translate(550 80)"><rect width="200" height="80" fill="url(#d)" stroke="#37b24d" stroke-width="2" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       3. Beslutning
-    </text>
-    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+    </text><text x="100" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Nedskrivning eller
-    </text>
-    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+    </text><text x="100" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Ingen handling
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-    </marker>
-  </defs>
-  
-  <line x1="250" y1="120" x2="300" y2="120" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
-  <line x1="500" y1="120" x2="550" y2="120" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(50, 200)">
-
-    <rect x="0" y="0" width="700" height="50" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
-    <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1565c0">
+    </text></g><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke="#495057" stroke-width="3" marker-end="url(#e)" d="M250 120h50"/><path stroke="#495057" stroke-width="3" marker-end="url(#e)" d="M500 120h50"/><g transform="translate(50 200)"><rect width="700" height="50" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/><text x="350" y="30" fill="#1565c0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Beregning av Gjenvinnbart Beløp
-    </text>
-    
-
-    <rect x="0" y="60" width="700" height="40" fill="#fff" stroke="#1976d2" stroke-width="1" rx="5"/>
-    <text x="350" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
+    </text><rect width="700" height="40" y="60" fill="#fff" stroke="#1976d2" rx="5"/><text x="350" y="85" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Gjenvinnbart beløp = Høyeste av (Virkelig verdi - salgskostnader) og (Bruksverdi)
-    </text>
-    
-
-    <g transform="translate(0, 120)">
-
-      <rect x="0" y="0" width="340" height="120" fill="#e8f5e8" stroke="#37b24d" stroke-width="2" rx="8"/>
-      <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32">
+    </text><g transform="translate(0 120)"><rect width="340" height="120" fill="#e8f5e8" stroke="#37b24d" stroke-width="2" rx="8"/><text x="170" y="25" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
         Virkelig verdi - salgskostnader
-      </text>
-      
-      <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#388e3c">
+      </text><text x="20" y="50" fill="#388e3c" font-family="Arial, sans-serif" font-size="12">
         • Markedspris for tilsvarende eiendeler
-      </text>
-      <text x="20" y="65" font-family="Arial, sans-serif" font-size="12" fill="#388e3c">
+      </text><text x="20" y="65" fill="#388e3c" font-family="Arial, sans-serif" font-size="12">
         • Takstverdi fra uavhengig takstmann
-      </text>
-      <text x="20" y="80" font-family="Arial, sans-serif" font-size="12" fill="#388e3c">
+      </text><text x="20" y="80" fill="#388e3c" font-family="Arial, sans-serif" font-size="12">
         • Fratrukket direkte salgskostnader
-      </text>
-      <text x="20" y="95" font-family="Arial, sans-serif" font-size="12" fill="#388e3c">
+      </text><text x="20" y="95" fill="#388e3c" font-family="Arial, sans-serif" font-size="12">
         • Lettere å beregne når marked finnes
-      </text>
-      
-
-      <rect x="360" y="0" width="340" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
-      <text x="530" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#856404">
+      </text><rect width="340" height="120" x="360" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/><text x="530" y="25" fill="#856404" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
         Bruksverdi
-      </text>
-      
-      <text x="380" y="50" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+      </text><text x="380" y="50" fill="#856404" font-family="Arial, sans-serif" font-size="12">
         • Nåverdi av fremtidige kontantstrømmer
-      </text>
-      <text x="380" y="65" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+      </text><text x="380" y="65" fill="#856404" font-family="Arial, sans-serif" font-size="12">
         • Diskontering med passende rente
-      </text>
-      <text x="380" y="80" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+      </text><text x="380" y="80" fill="#856404" font-family="Arial, sans-serif" font-size="12">
         • Inkluderer terminalverdi
-      </text>
-      <text x="380" y="95" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+      </text><text x="380" y="95" fill="#856404" font-family="Arial, sans-serif" font-size="12">
         • Krever detaljerte prognoser
-      </text>
-    </g>
-    
-
-    <rect x="0" y="250" width="700" height="60" fill="#fff" stroke="#ffc107" stroke-width="2" rx="5"/>
-    <text x="350" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+      </text></g><rect width="700" height="60" y="250" fill="#fff" stroke="#ffc107" stroke-width="2" rx="5"/><text x="350" y="275" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Bruksverdi Formel:
-    </text>
-    <text x="350" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="350" y="295" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Bruksverdi = Σ (Kontantstrøm år t / (1 + diskonteringsrente)^t) + Terminalverdi
-    </text>
-  </g>
-  
-
-  <g transform="translate(100, 470)">
-    <rect x="0" y="0" width="600" height="100" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="8"/>
-    <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+    </text></g><g transform="translate(100 470)"><rect width="600" height="100" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="8"/><text x="300" y="25" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Beslutningslogikk
-    </text>
-    
-
-    <rect x="20" y="35" width="250" height="25" fill="#ffebee" stroke="#f44336" stroke-width="1" rx="3"/>
-    <text x="145" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c62828">
-      Hvis: Bokført verdi > Gjenvinnbart beløp
-    </text>
-    
-
-    <rect x="20" y="65" width="250" height="25" fill="#ffebee" stroke="#f44336" stroke-width="1" rx="3"/>
-    <text x="145" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#c62828">
+    </text><rect width="250" height="25" x="20" y="35" fill="#ffebee" stroke="#f44336" rx="3"/><text x="145" y="52" fill="#c62828" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
+      Hvis: Bokført verdi &gt; Gjenvinnbart beløp
+    </text><rect width="250" height="25" x="20" y="65" fill="#ffebee" stroke="#f44336" rx="3"/><text x="145" y="82" fill="#c62828" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Da: Nedskriv til gjenvinnbart beløp
-    </text>
-    
-
-    <rect x="330" y="35" width="250" height="25" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="3"/>
-    <text x="455" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><rect width="250" height="25" x="330" y="35" fill="#e8f5e8" stroke="#4caf50" rx="3"/><text x="455" y="52" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Ellers: Bokført verdi ≤ Gjenvinnbart beløp
-    </text>
-    
-
-    <rect x="330" y="65" width="250" height="25" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="3"/>
-    <text x="455" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2e7d32">
+    </text><rect width="250" height="25" x="330" y="65" fill="#e8f5e8" stroke="#4caf50" rx="3"/><text x="455" y="82" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Da: Ingen nedskrivning nødvendig
-    </text>
-  </g>
-  
-
-  <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    </text></g><text x="400" y="590" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Nedskrivningstesting skal utføres årlig for goodwill og eiendeler med ubestemt levetid
-  </text>
-</svg>
+  </text></svg>

@@ -1,178 +1,59 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="step1Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="step2Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="step3Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="step4Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#5a2d91;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="step5Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e55a00;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1"/><stop offset="100%" style="stop-color:#5a2d91;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1"/><stop offset="100%" style="stop-color:#e55a00;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Beste Praksis for Amortisering
-  </text>
-  
-
-  <rect x="50" y="80" width="320" height="100" fill="url(#step1Gradient)" rx="15"/>
-  <text x="210" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="100" x="50" y="80" fill="url(#b)" rx="15"/><text x="210" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     1. DOKUMENTER LEVETIDSESTIMATER
-  </text>
-  
-  <rect x="70" y="120" width="280" height="40" fill="white" rx="8"/>
-  <text x="210" y="135" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><rect width="280" height="40" x="70" y="120" fill="#fff" rx="8"/><text x="210" y="135" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Hold detaljerte registre over hvordan levetid er bestemt
-  </text>
-  <text x="210" y="150" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="210" y="150" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Dokumenter grunnlaget for estimatene
-  </text>
-  
-
-  <rect x="430" y="80" width="320" height="100" fill="url(#step2Gradient)" rx="15"/>
-  <text x="590" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="100" x="430" y="80" fill="url(#c)" rx="15"/><text x="590" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     2. GJENNOMGÅ REGELMESSIG
-  </text>
-  
-  <rect x="450" y="120" width="280" height="40" fill="white" rx="8"/>
-  <text x="590" y="135" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><rect width="280" height="40" x="450" y="120" fill="#fff" rx="8"/><text x="590" y="135" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Vurder om levetidsestimater fortsatt er relevante
-  </text>
-  <text x="590" y="150" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="590" y="150" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Oppdater ved endrede forhold
-  </text>
-  
-
-  <rect x="50" y="200" width="320" height="100" fill="url(#step3Gradient)" rx="15"/>
-  <text x="210" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="100" x="50" y="200" fill="url(#d)" rx="15"/><text x="210" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     3. KONSISTENT METODE
-  </text>
-  
-  <rect x="70" y="240" width="280" height="40" fill="white" rx="8"/>
-  <text x="210" y="255" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><rect width="280" height="40" x="70" y="240" fill="#fff" rx="8"/><text x="210" y="255" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Bruk samme amortiseringsmetode for lignende eiendeler
-  </text>
-  <text x="210" y="270" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="210" y="270" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Sikre sammenlignbarhet over tid
-  </text>
-  
-
-  <rect x="430" y="200" width="320" height="100" fill="url(#step4Gradient)" rx="15"/>
-  <text x="590" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="100" x="430" y="200" fill="url(#e)" rx="15"/><text x="590" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     4. OVERVÅK VERDIFALL
-  </text>
-  
-  <rect x="450" y="240" width="280" height="40" fill="white" rx="8"/>
-  <text x="590" y="255" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><rect width="280" height="40" x="450" y="240" fill="#fff" rx="8"/><text x="590" y="255" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Vær oppmerksom på indikatorer som kan kreve nedskrivning
-  </text>
-  <text x="590" y="270" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="590" y="270" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Test for verdifall ved mistanke
-  </text>
-  
-
-  <rect x="240" y="320" width="320" height="100" fill="url(#step5Gradient)" rx="15"/>
-  <text x="400" y="345" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="100" x="240" y="320" fill="url(#f)" rx="15"/><text x="400" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     5. PROFESJONELL VURDERING
-  </text>
-  
-  <rect x="260" y="360" width="280" height="40" fill="white" rx="8"/>
-  <text x="400" y="375" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><rect width="280" height="40" x="260" y="360" fill="#fff" rx="8"/><text x="400" y="375" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Konsulter regnskapseksperter ved komplekse situasjoner
-  </text>
-  <text x="400" y="390" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="400" y="390" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Følg oppdaterte regnskapsstandarder
-  </text>
-  
-
-  <rect x="50" y="440" width="700" height="140" fill="white" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="400" y="465" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><rect width="700" height="140" x="50" y="440" fill="#fff" stroke="#dc3545" stroke-width="2" rx="10"/><text x="400" y="465" fill="#dc3545" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     ⚠️ Varselsignaler for Verdifall
-  </text>
-  
-
-  <rect x="70" y="480" width="200" height="80" fill="#f8d7da" stroke="#f5c6cb" stroke-width="1" rx="5"/>
-  <text x="170" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
+  </text><rect width="200" height="80" x="70" y="480" fill="#f8d7da" stroke="#f5c6cb" rx="5"/><text x="170" y="500" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Teknologiske Endringer
-  </text>
-  <text x="80" y="515" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="80" y="515" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Ny teknologi gjør eiendelen foreldet
-  </text>
-  <text x="80" y="530" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="80" y="530" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Konkurrerende løsninger
-  </text>
-  <text x="80" y="545" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="80" y="545" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Endrede markedsforhold
-  </text>
-  
-  <rect x="300" y="480" width="200" height="80" fill="#f8d7da" stroke="#f5c6cb" stroke-width="1" rx="5"/>
-  <text x="400" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
+  </text><rect width="200" height="80" x="300" y="480" fill="#f8d7da" stroke="#f5c6cb" rx="5"/><text x="400" y="500" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Juridiske Endringer
-  </text>
-  <text x="310" y="515" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="310" y="515" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Endringer i lovgivning
-  </text>
-  <text x="310" y="530" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="310" y="530" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Tap av rettigheter
-  </text>
-  <text x="310" y="545" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="310" y="545" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Regulatoriske endringer
-  </text>
-  
-  <rect x="530" y="480" width="200" height="80" fill="#f8d7da" stroke="#f5c6cb" stroke-width="1" rx="5"/>
-  <text x="630" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
+  </text><rect width="200" height="80" x="530" y="480" fill="#f8d7da" stroke="#f5c6cb" rx="5"/><text x="630" y="500" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Økonomiske Faktorer
-  </text>
-  <text x="540" y="515" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="540" y="515" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Redusert lønnsomhet
-  </text>
-  <text x="540" y="530" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="540" y="530" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Tap av markedsandeler
-  </text>
-  <text x="540" y="545" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="540" y="545" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Negative kontantstrømmer
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-  </defs>
-  
-
-  <path d="M 370 130 Q 400 110 430 130" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 430 250 Q 400 230 370 250" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 370 250 Q 400 270 430 250" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 590 300 Q 500 310 400 320" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 210 180 Q 300 250 240 320" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-</svg>
+  </text><defs><marker id="g" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#g)" d="M370 130q30-20 60 0"/><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#g)" d="M430 250q-30-20-60 0"/><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#g)" d="M370 250q30 20 60 0"/><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#g)" d="M590 300q-90 10-190 20"/><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#g)" d="M210 180q90 70 30 140"/></svg>

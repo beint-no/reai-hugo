@@ -1,110 +1,19 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="crowdGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Crowdsourcing i Regnskap
-  </text>
-  
-
-  <rect x="350" y="80" width="100" height="80" rx="10" fill="url(#crowdGradient)" stroke="#0056b3" stroke-width="2"/>
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="100" height="80" x="350" y="80" fill="url(#b)" stroke="#0056b3" stroke-width="2" rx="10"/><text x="400" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     BEDRIFT
-  </text>
-  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Regnskap
-  </text>
-  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Finansiering
-  </text>
-  
-
-
-  <circle cx="150" cy="200" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="150" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">👤</text>
-  
-  <circle cx="220" cy="180" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="220" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">👤</text>
-  
-  <circle cx="290" cy="200" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="290" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">👤</text>
-  
-
-  <circle cx="510" cy="200" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="510" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">👤</text>
-  
-  <circle cx="580" cy="180" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="580" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">👤</text>
-  
-  <circle cx="650" cy="200" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="650" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">👤</text>
-  
-
-  <circle cx="180" cy="280" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="180" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">👤</text>
-  
-  <circle cx="260" cy="300" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="260" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">👤</text>
-  
-  <circle cx="540" cy="280" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="540" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">👤</text>
-  
-  <circle cx="620" cy="300" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="620" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">👤</text>
-  
-
-
-  <path d="M 175 200 L 340 130" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 245 180 L 340 140" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 315 200 L 340 150" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 485 200 L 460 130" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 555 180 L 460 140" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 625 200 L 460 150" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 205 280 L 360 170" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 285 300 L 380 170" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 515 280 L 440 170" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 595 300 L 420 170" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#ffc107"/>
-    </marker>
-  </defs>
-  
-
-  <text x="100" y="350" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><circle cx="150" cy="200" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="150" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">👤</text><circle cx="220" cy="180" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="220" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">👤</text><circle cx="290" cy="200" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="290" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">👤</text><circle cx="510" cy="200" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="510" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">👤</text><circle cx="580" cy="180" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="580" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">👤</text><circle cx="650" cy="200" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="650" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">👤</text><circle cx="180" cy="280" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="180" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">👤</text><circle cx="260" cy="300" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="260" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">👤</text><circle cx="540" cy="280" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="540" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">👤</text><circle cx="620" cy="300" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="620" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">👤</text><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#c)" d="m175 200 165-70"/><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#c)" d="m245 180 95-40"/><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#c)" d="m315 200 25-50"/><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#c)" d="m485 200-25-70"/><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#c)" d="m555 180-95-40"/><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#c)" d="m625 200-165-50"/><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#c)" d="m205 280 155-110"/><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#c)" d="m285 300 95-130"/><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#c)" d="m515 280-75-110"/><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#c)" d="M595 300 420 170"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#ffc107" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="100" y="350" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Folkemengde
-  </text>
-  <text x="100" y="365" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="100" y="365" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">
     (Investorer/Bidragsytere)
-  </text>
-  
-  <text x="600" y="350" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><text x="600" y="350" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Ressurser
-  </text>
-  <text x="600" y="365" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="600" y="365" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">
     (Kapital/Tjenester)
-  </text>
-  
-
-  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="400" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Crowdsourcing
-  </text>
-</svg>
+  </text></svg>

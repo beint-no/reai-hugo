@@ -1,235 +1,39 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blockchainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="iotGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="rpaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#43e97b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#38f9d7;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#667eea;stop-opacity:1"/><stop offset="100%" style="stop-color:#764ba2;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f093fb;stop-opacity:1"/><stop offset="100%" style="stop-color:#f5576c;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4facfe;stop-opacity:1"/><stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#43e97b;stop-opacity:1"/><stop offset="100%" style="stop-color:#38f9d7;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fremtidens Tilbudsteknologi
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="300" height="200" rx="10" fill="url(#aiGradient)" opacity="0.1"/>
-    <rect x="0" y="0" width="300" height="40" rx="10" fill="url(#aiGradient)"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="300" height="200" fill="url(#a)" opacity=".1" rx="10"/><rect width="300" height="40" fill="url(#a)" rx="10"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       AI/ML - Kunstig Intelligens
-    </text>
-    
-
-    <circle cx="50" cy="80" r="20" fill="url(#aiGradient)" opacity="0.3"/>
-    <path d="M35 80 Q50 65 65 80 Q50 95 35 80" fill="url(#aiGradient)"/>
-    <circle cx="45" cy="75" r="3" fill="white"/>
-    <circle cx="55" cy="85" r="3" fill="white"/>
-    
-
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Automatisk tilbudsgenerering</text>
-    <text x="80" y="85" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Prediktiv analyse</text>
-    <text x="80" y="100" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Optimal prissetting</text>
-    <text x="80" y="115" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Språkprosessering</text>
-    
-
-    <rect x="10" y="150" width="80" height="20" rx="10" fill="#fbbf24"/>
-    <text x="50" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><circle cx="50" cy="80" r="20" fill="url(#a)" opacity=".3"/><path fill="url(#a)" d="M35 80q15-15 30 0-15 15-30 0"/><circle cx="45" cy="75" r="3" fill="#fff"/><circle cx="55" cy="85" r="3" fill="#fff"/><text x="80" y="70" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Automatisk tilbudsgenerering</text><text x="80" y="85" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Prediktiv analyse</text><text x="80" y="100" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Optimal prissetting</text><text x="80" y="115" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Språkprosessering</text><rect width="80" height="20" x="10" y="150" fill="#fbbf24" rx="10"/><text x="50" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Tidlig fase
-    </text>
-    
-
-    <rect x="100" y="150" width="60" height="20" rx="10" fill="#10b981"/>
-    <text x="130" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><rect width="60" height="20" x="100" y="150" fill="#10b981" rx="10"/><text x="130" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Høyt potensial
-    </text>
-    
-
-    <rect x="170" y="150" width="80" height="20" rx="10" fill="#ef4444"/>
-    <text x="210" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><rect width="80" height="20" x="170" y="150" fill="#ef4444" rx="10"/><text x="210" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Datakvalitet
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 80)">
-    <rect x="0" y="0" width="300" height="200" rx="10" fill="url(#blockchainGradient)" opacity="0.1"/>
-    <rect x="0" y="0" width="300" height="40" rx="10" fill="url(#blockchainGradient)"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(450 80)"><rect width="300" height="200" fill="url(#b)" opacity=".1" rx="10"/><rect width="300" height="40" fill="url(#b)" rx="10"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Blockchain &amp; Smart Contracts
-    </text>
-    
-
-    <g transform="translate(30, 60)">
-      <rect x="0" y="0" width="15" height="15" rx="2" fill="url(#blockchainGradient)" opacity="0.8"/>
-      <rect x="20" y="0" width="15" height="15" rx="2" fill="url(#blockchainGradient)" opacity="0.8"/>
-      <rect x="40" y="0" width="15" height="15" rx="2" fill="url(#blockchainGradient)" opacity="0.8"/>
-      <line x1="15" y1="7" x2="20" y2="7" stroke="url(#blockchainGradient)" stroke-width="2"/>
-      <line x1="35" y1="7" x2="40" y2="7" stroke="url(#blockchainGradient)" stroke-width="2"/>
-    </g>
-    
-
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Uforanderlig dokumentasjon</text>
-    <text x="80" y="85" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Automatisk oppfyllelse</text>
-    <text x="80" y="100" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Reduserte tillitskostnader</text>
-    <text x="80" y="115" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Transparent transaksjoner</text>
-    
-
-    <rect x="10" y="150" width="80" height="20" rx="10" fill="#f59e0b"/>
-    <text x="50" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><g transform="translate(30 60)"><rect width="15" height="15" fill="url(#b)" opacity=".8" rx="2"/><rect width="15" height="15" x="20" fill="url(#b)" opacity=".8" rx="2"/><rect width="15" height="15" x="40" fill="url(#b)" opacity=".8" rx="2"/><path stroke="url(#b)" stroke-width="2" d="M15 7h5"/><path stroke="url(#b)" stroke-width="2" d="M35 7h5"/></g><text x="80" y="70" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Uforanderlig dokumentasjon</text><text x="80" y="85" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Automatisk oppfyllelse</text><text x="80" y="100" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Reduserte tillitskostnader</text><text x="80" y="115" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Transparent transaksjoner</text><rect width="80" height="20" x="10" y="150" fill="#f59e0b" rx="10"/><text x="50" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Pilotprosjekter
-    </text>
-    
-
-    <rect x="100" y="150" width="60" height="20" rx="10" fill="#10b981"/>
-    <text x="130" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><rect width="60" height="20" x="100" y="150" fill="#10b981" rx="10"/><text x="130" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Høyt potensial
-    </text>
-    
-
-    <rect x="170" y="150" width="80" height="20" rx="10" fill="#ef4444"/>
-    <text x="210" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><rect width="80" height="20" x="170" y="150" fill="#ef4444" rx="10"/><text x="210" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Skalering/energi
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="300" height="200" rx="10" fill="url(#iotGradient)" opacity="0.1"/>
-    <rect x="0" y="0" width="300" height="40" rx="10" fill="url(#iotGradient)"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 320)"><rect width="300" height="200" fill="url(#c)" opacity=".1" rx="10"/><rect width="300" height="40" fill="url(#c)" rx="10"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       IoT &amp; Sanntidsdata
-    </text>
-    
-
-    <g transform="translate(30, 60)">
-      <circle cx="15" cy="15" r="8" fill="url(#iotGradient)" opacity="0.3"/>
-      <circle cx="40" cy="15" r="6" fill="url(#iotGradient)" opacity="0.5"/>
-      <circle cx="25" cy="35" r="5" fill="url(#iotGradient)" opacity="0.7"/>
-      <line x1="15" y1="15" x2="40" y2="15" stroke="url(#iotGradient)" stroke-width="2"/>
-      <line x1="15" y1="15" x2="25" y2="35" stroke="url(#iotGradient)" stroke-width="2"/>
-      <line x1="40" y1="15" x2="25" y2="35" stroke="url(#iotGradient)" stroke-width="2"/>
-    </g>
-    
-
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Sanntids ytelsesdata</text>
-    <text x="80" y="85" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Prediktivt vedlikehold</text>
-    <text x="80" y="100" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Bruksbasert prissetting</text>
-    <text x="80" y="115" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Kontinuerlig optimalisering</text>
-    
-
-    <rect x="10" y="150" width="80" height="20" rx="10" fill="#10b981"/>
-    <text x="50" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><g transform="translate(30 60)"><circle cx="15" cy="15" r="8" fill="url(#c)" opacity=".3"/><circle cx="40" cy="15" r="6" fill="url(#c)" opacity=".5"/><circle cx="25" cy="35" r="5" fill="url(#c)" opacity=".7"/><path stroke="url(#c)" stroke-width="2" d="M15 15h25"/><path stroke="url(#c)" stroke-width="2" d="m15 15 10 20"/><path stroke="url(#c)" stroke-width="2" d="M40 15 25 35"/></g><text x="80" y="70" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Sanntids ytelsesdata</text><text x="80" y="85" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Prediktivt vedlikehold</text><text x="80" y="100" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Bruksbasert prissetting</text><text x="80" y="115" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Kontinuerlig optimalisering</text><rect width="80" height="20" x="10" y="150" fill="#10b981" rx="10"/><text x="50" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Voksende bruk
-    </text>
-    
-
-    <rect x="100" y="150" width="60" height="20" rx="10" fill="#f59e0b"/>
-    <text x="130" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><rect width="60" height="20" x="100" y="150" fill="#f59e0b" rx="10"/><text x="130" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Medium potensial
-    </text>
-    
-
-    <rect x="170" y="150" width="100" height="20" rx="10" fill="#ef4444"/>
-    <text x="220" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><rect width="100" height="20" x="170" y="150" fill="#ef4444" rx="10"/><text x="220" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Sikkerhet/integrering
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 320)">
-    <rect x="0" y="0" width="300" height="200" rx="10" fill="url(#rpaGradient)" opacity="0.1"/>
-    <rect x="0" y="0" width="300" height="40" rx="10" fill="url(#rpaGradient)"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(450 320)"><rect width="300" height="200" fill="url(#d)" opacity=".1" rx="10"/><rect width="300" height="40" fill="url(#d)" rx="10"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       RPA - Robotprosessautomasjon
-    </text>
-    
-
-    <g transform="translate(30, 60)">
-      <rect x="10" y="5" width="20" height="25" rx="3" fill="url(#rpaGradient)" opacity="0.7"/>
-      <rect x="15" y="10" width="10" height="3" rx="1" fill="white"/>
-      <rect x="15" y="15" width="10" height="3" rx="1" fill="white"/>
-      <rect x="15" y="20" width="10" height="3" rx="1" fill="white"/>
-      <circle cx="20" cy="35" r="3" fill="url(#rpaGradient)"/>
-      <circle cx="15" cy="40" r="2" fill="url(#rpaGradient)"/>
-      <circle cx="25" cy="40" r="2" fill="url(#rpaGradient)"/>
-    </g>
-    
-
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Automatiserte workflows</text>
-    <text x="80" y="85" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Datahåndtering</text>
-    <text x="80" y="100" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Kvalitetssikring</text>
-    <text x="80" y="115" font-family="Arial, sans-serif" font-size="12" fill="#1e293b">• Standardiserte prosesser</text>
-    
-
-    <rect x="10" y="150" width="80" height="20" rx="10" fill="#10b981"/>
-    <text x="50" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><g transform="translate(30 60)"><rect width="20" height="25" x="10" y="5" fill="url(#d)" opacity=".7" rx="3"/><rect width="10" height="3" x="15" y="10" fill="#fff" rx="1"/><rect width="10" height="3" x="15" y="15" fill="#fff" rx="1"/><rect width="10" height="3" x="15" y="20" fill="#fff" rx="1"/><circle cx="20" cy="35" r="3" fill="url(#d)"/><circle cx="15" cy="40" r="2" fill="url(#d)"/><circle cx="25" cy="40" r="2" fill="url(#d)"/></g><text x="80" y="70" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Automatiserte workflows</text><text x="80" y="85" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Datahåndtering</text><text x="80" y="100" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Kvalitetssikring</text><text x="80" y="115" fill="#1e293b" font-family="Arial, sans-serif" font-size="12">• Standardiserte prosesser</text><rect width="80" height="20" x="10" y="150" fill="#10b981" rx="10"/><text x="50" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Utbredt
-    </text>
-    
-
-    <rect x="100" y="150" width="60" height="20" rx="10" fill="#f59e0b"/>
-    <text x="130" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><rect width="60" height="20" x="100" y="150" fill="#f59e0b" rx="10"/><text x="130" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Medium potensial
-    </text>
-    
-
-    <rect x="170" y="150" width="100" height="20" rx="10" fill="#ef4444"/>
-    <text x="220" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><rect width="100" height="20" x="170" y="150" fill="#ef4444" rx="10"/><text x="220" y="163" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Prosessmodning
-    </text>
-  </g>
-  
-
-  <g stroke="#64748b" stroke-width="2" fill="none" opacity="0.3">
-    <path d="M 350 180 Q 400 150 450 180" marker-end="url(#arrowhead)"/>
-    <path d="M 350 420 Q 400 450 450 420" marker-end="url(#arrowhead)"/>
-    <path d="M 200 280 Q 250 300 200 320" marker-end="url(#arrowhead)"/>
-    <path d="M 600 280 Q 550 300 600 320" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
-    </marker>
-  </defs>
-  
-
-  <g transform="translate(50, 550)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    </text></g><g fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#e)" opacity=".3"><path d="M350 180q50-30 100 0"/><path d="M350 420q50 30 100 0"/><path d="M200 280q50 20 0 40"/><path d="M600 280q-50 20 0 40"/></g><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#64748b" d="m0 0 10 3.5L0 7z"/></marker></defs><g transform="translate(50 550)"><text fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Implementeringsgrad:
-    </text>
-    <rect x="120" y="-10" width="60" height="15" rx="7" fill="#fbbf24"/>
-    <text x="150" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Tidlig</text>
-    
-    <rect x="190" y="-10" width="60" height="15" rx="7" fill="#f59e0b"/>
-    <text x="220" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Pilot</text>
-    
-    <rect x="260" y="-10" width="60" height="15" rx="7" fill="#10b981"/>
-    <text x="290" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Etablert</text>
-    
-    <text x="400" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    </text><rect width="60" height="15" x="120" y="-10" fill="#fbbf24" rx="7"/><text x="150" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Tidlig</text><rect width="60" height="15" x="190" y="-10" fill="#f59e0b" rx="7"/><text x="220" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Pilot</text><rect width="60" height="15" x="260" y="-10" fill="#10b981" rx="7"/><text x="290" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Etablert</text><text x="400" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Potensial:
-    </text>
-    <rect x="460" y="-10" width="40" height="15" rx="7" fill="#10b981"/>
-    <text x="480" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Høy</text>
-    
-    <rect x="510" y="-10" width="50" height="15" rx="7" fill="#f59e0b"/>
-    <text x="535" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Medium</text>
-  </g>
-</svg>
+    </text><rect width="40" height="15" x="460" y="-10" fill="#10b981" rx="7"/><text x="480" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Høy</text><rect width="50" height="15" x="510" y="-10" fill="#f59e0b" rx="7"/><text x="535" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Medium</text></g></svg>

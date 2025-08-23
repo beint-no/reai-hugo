@@ -1,300 +1,117 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="trustGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="verifyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#218838;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="systemGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#218838;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Zero Trust Architecture i Regnskap
-  </text>
-  
-
-  <text x="50" y="70" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">
+  </text><text x="50" y="70" fill="#e74c3c" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Tradisjonell Modell
-  </text>
-  
-
-  <rect x="50" y="80" width="300" height="180" fill="none" stroke="#e74c3c" stroke-width="2" stroke-dasharray="5,5"/>
-  <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">
+  </text><path fill="none" stroke="#e74c3c" stroke-dasharray="5,5" stroke-width="2" d="M50 80h300v180H50z"/><text x="200" y="100" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Nettverksperimeter
-  </text>
-  
-
-  <circle cx="100" cy="140" r="25" fill="#ffc107"/>
-  <text x="100" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#000">
+  </text><circle cx="100" cy="140" r="25" fill="#ffc107"/><text x="100" y="145" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Bruker
-  </text>
-  
-
-  <path d="M 130 140 L 170 140" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="180" y="120" width="60" height="40" fill="#ffcccc" stroke="#e74c3c"/>
-  <text x="210" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#000">
+  </text><path stroke="#e74c3c" stroke-width="2" marker-end="url(#b)" d="M130 140h40"/><path fill="#fcc" stroke="#e74c3c" d="M180 120h60v40h-60z"/><text x="210" y="140" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Alle
-  </text>
-  <text x="210" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#000">
+  </text><text x="210" y="152" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Systemer
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
-    </marker>
-    <marker id="greenArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-  </defs>
-  
-
-  <text x="450" y="70" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
+  </text><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#e74c3c" d="m0 0 10 3.5L0 7z"/></marker><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="450" y="70" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Zero Trust Modell
-  </text>
-  
-
-  <rect x="450" y="80" width="300" height="180" fill="none" stroke="#28a745" stroke-width="2"/>
-  
-
-  <circle cx="500" cy="140" r="25" fill="#28a745"/>
-  <text x="500" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
+  </text><path fill="none" stroke="#28a745" stroke-width="2" d="M450 80h300v180H450z"/><circle cx="500" cy="140" r="25" fill="#28a745"/><text x="500" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Bruker
-  </text>
-  
-
-  <rect x="540" y="120" width="80" height="40" fill="url(#verifyGradient)" stroke="#28a745"/>
-  <text x="580" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><path fill="url(#c)" stroke="#28a745" d="M540 120h80v40h-80z"/><text x="580" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Verifikasjon
-  </text>
-  <text x="580" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="580" y="147" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Per System
-  </text>
-  
-
-  <path d="M 525 140 L 535 140" stroke="#28a745" stroke-width="2" marker-end="url(#greenArrow)"/>
-  
-
-  <rect x="640" y="110" width="80" height="20" fill="#ccffcc" stroke="#28a745"/>
-  <text x="680" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#000">
+  </text><path stroke="#28a745" stroke-width="2" marker-end="url(#d)" d="M525 140h10"/><path fill="#cfc" stroke="#28a745" d="M640 110h80v20h-80z"/><text x="680" y="122" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Hovedbok
-  </text>
-  
-  <rect x="640" y="135" width="80" height="20" fill="#ccffcc" stroke="#28a745"/>
-  <text x="680" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#000">
+  </text><path fill="#cfc" stroke="#28a745" d="M640 135h80v20h-80z"/><text x="680" y="147" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Lønn
-  </text>
-  
-  <rect x="640" y="160" width="80" height="20" fill="#ccffcc" stroke="#28a745"/>
-  <text x="680" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#000">
+  </text><path fill="#cfc" stroke="#28a745" d="M640 160h80v20h-80z"/><text x="680" y="172" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Bank
-  </text>
-  
-
-  <path d="M 620 130 L 635 120" stroke="#28a745" stroke-width="1" marker-end="url(#greenArrow)"/>
-  <path d="M 620 140 L 635 145" stroke="#28a745" stroke-width="1" marker-end="url(#greenArrow)"/>
-  <path d="M 620 150 L 635 170" stroke="#28a745" stroke-width="1" marker-end="url(#greenArrow)"/>
-  
-
-  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+  </text><path stroke="#28a745" marker-end="url(#d)" d="m620 130 15-10"/><path stroke="#28a745" marker-end="url(#d)" d="m620 140 15 5"/><path stroke="#28a745" marker-end="url(#d)" d="m620 150 15 20"/><text x="400" y="300" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Zero Trust Prinsipper for Regnskap
-  </text>
-  
-
-  <rect x="50" y="320" width="160" height="100" fill="url(#trustGradient)" stroke="#dc3545" rx="10"/>
-  <text x="130" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="160" height="100" x="50" y="320" fill="url(#e)" stroke="#dc3545" rx="10"/><text x="130" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Never Trust,
-  </text>
-  <text x="130" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><text x="130" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Always Verify
-  </text>
-  
-  <text x="130" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="130" y="375" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Autentiser hver
-  </text>
-  <text x="130" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="130" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     transaksjon
-  </text>
-  <text x="130" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="130" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Ingen implicit tillit
-  </text>
-  <text x="130" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="130" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Kontinuerlig validering
-  </text>
-  
-
-  <rect x="230" y="320" width="160" height="100" fill="url(#verifyGradient)" stroke="#28a745" rx="10"/>
-  <text x="310" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="160" height="100" x="230" y="320" fill="url(#c)" stroke="#28a745" rx="10"/><text x="310" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Least Privilege
-  </text>
-  <text x="310" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><text x="310" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Access
-  </text>
-  
-  <text x="310" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="310" y="375" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Minimum nødvendige
-  </text>
-  <text x="310" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="310" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     tilganger
-  </text>
-  <text x="310" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="310" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Rollebasert tilgang
-  </text>
-  <text x="310" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="310" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Tidsbaserte tilganger
-  </text>
-  
-
-  <rect x="410" y="320" width="160" height="100" fill="url(#systemGradient)" stroke="#007bff" rx="10"/>
-  <text x="490" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="160" height="100" x="410" y="320" fill="url(#f)" stroke="#007bff" rx="10"/><text x="490" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Microsegmentation
-  </text>
-  
-  <text x="490" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="490" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Isoler kritiske
-  </text>
-  <text x="490" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="490" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     regnskapssystemer
-  </text>
-  <text x="490" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="490" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Nettverkssegmentering
-  </text>
-  <text x="490" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="490" y="390" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Controlled access
-  </text>
-  <text x="490" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="490" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     points
-  </text>
-  
-
-  <rect x="590" y="320" width="160" height="100" fill="#6c757d" stroke="#495057" rx="10"/>
-  <text x="670" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="160" height="100" x="590" y="320" fill="#6c757d" stroke="#495057" rx="10"/><text x="670" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Continuous
-  </text>
-  <text x="670" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><text x="670" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Monitoring
-  </text>
-  
-  <text x="670" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="670" y="375" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Sanntidsovervåking
-  </text>
-  <text x="670" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="670" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Atferdsanalyse
-  </text>
-  <text x="670" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="670" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Automatisk respons
-  </text>
-  <text x="670" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#fff">
+  </text><text x="670" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Audit logging
-  </text>
-  
-
-  <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><text x="400" y="460" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Zero Trust Implementering i Regnskapssystem
-  </text>
-  
-
-  <circle cx="100" cy="500" r="20" fill="#007bff"/>
-  <text x="100" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><circle cx="100" cy="500" r="20" fill="#007bff"/><text x="100" y="505" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     1
-  </text>
-  <text x="100" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="100" y="535" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Bruker
-  </text>
-  <text x="100" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="100" y="547" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Autentisert
-  </text>
-  
-  <path d="M 120 500 L 160 500" stroke="#007bff" stroke-width="2" marker-end="url(#blueArrow)"/>
-  
-  <circle cx="200" cy="500" r="20" fill="#ffc107"/>
-  <text x="200" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#000">
+  </text><path stroke="#007bff" stroke-width="2" marker-end="url(#g)" d="M120 500h40"/><circle cx="200" cy="500" r="20" fill="#ffc107"/><text x="200" y="505" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     2
-  </text>
-  <text x="200" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="200" y="535" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Tilgang
-  </text>
-  <text x="200" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="200" y="547" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Vurdert
-  </text>
-  
-  <path d="M 220 500 L 260 500" stroke="#ffc107" stroke-width="2" marker-end="url(#yellowArrow)"/>
-  
-  <circle cx="300" cy="500" r="20" fill="#28a745"/>
-  <text x="300" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><path stroke="#ffc107" stroke-width="2" marker-end="url(#h)" d="M220 500h40"/><circle cx="300" cy="500" r="20" fill="#28a745"/><text x="300" y="505" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     3
-  </text>
-  <text x="300" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="300" y="535" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kontinuerlig
-  </text>
-  <text x="300" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="300" y="547" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Verifisering
-  </text>
-  
-  <path d="M 320 500 L 360 500" stroke="#28a745" stroke-width="2" marker-end="url(#greenArrow)"/>
-  
-  <circle cx="400" cy="500" r="20" fill="#dc3545"/>
-  <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><path stroke="#28a745" stroke-width="2" marker-end="url(#d)" d="M320 500h40"/><circle cx="400" cy="500" r="20" fill="#dc3545"/><text x="400" y="505" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     4
-  </text>
-  <text x="400" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="400" y="535" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Automatisk
-  </text>
-  <text x="400" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="400" y="547" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Utlogging
-  </text>
-  
-
-  <defs>
-    <marker id="blueArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#007bff"/>
-    </marker>
-    <marker id="yellowArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#ffc107"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="500" y="470" width="250" height="100" fill="#f8f9fa" stroke="#dee2e6" rx="5"/>
-  <text x="625" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><defs><marker id="g" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#007bff" d="m0 0 10 3.5L0 7z"/></marker><marker id="h" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#ffc107" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="250" height="100" x="500" y="470" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="625" y="485" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Fordeler for Regnskapsvirksomheter
-  </text>
-  
-  <text x="510" y="505" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="510" y="505" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     • 99% reduksjon i phishing-suksess
-  </text>
-  <text x="510" y="518" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="510" y="518" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     • Bedre GDPR-compliance
-  </text>
-  <text x="510" y="531" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="510" y="531" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     • Redusert insider-trussel risiko
-  </text>
-  <text x="510" y="544" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="510" y="544" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     • Automatisk incident response
-  </text>
-  <text x="510" y="557" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="510" y="557" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     • Forbedret audit-sporbarhet
-  </text>
-  
-
-  <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
-    Zero Trust: "Aldri stol, alltid verifiser" - kritisk for moderne regnskapssikkerhet
-  </text>
-</svg>
+  </text><text x="400" y="585" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
+    Zero Trust: &quot;Aldri stol, alltid verifiser&quot; - kritisk for moderne regnskapssikkerhet
+  </text></svg>

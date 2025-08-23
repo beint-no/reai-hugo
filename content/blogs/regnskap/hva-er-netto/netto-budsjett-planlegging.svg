@@ -1,235 +1,85 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="planGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Bruk av Nettotall i Budsjettplanlegging
-  </text>
-  
-
-  <rect x="30" y="80" width="740" height="480" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-
-  <text x="400" y="110" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><rect width="740" height="480" x="30" y="80" fill="#fff" stroke="#dee2e6" rx="10"/><text x="400" y="110" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Budsjettplanlegging med Nettotall
-  </text>
-  
-
-  <rect x="60" y="130" width="160" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
-  <text x="140" y="150" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="160" height="80" x="60" y="130" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="140" y="150" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     1. Netto Inntekter
-  </text>
-  <text x="140" y="170" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="140" y="170" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Budsjettert salg
-  </text>
-  <text x="140" y="185" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="140" y="185" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     ekskl. MVA
-  </text>
-  <text x="140" y="200" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="140" y="200" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     1.800.000 kr
-  </text>
-  
-
-  <polygon points="230,170 245,160 245,180" fill="#666"/>
-  <line x1="230" y1="170" x2="245" y2="170" stroke="#666" stroke-width="2"/>
-  
-
-  <rect x="260" y="130" width="160" height="80" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="10"/>
-  <text x="340" y="150" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path fill="#666" d="m230 170 15-10v20z"/><path stroke="#666" stroke-width="2" d="M230 170h15"/><rect width="160" height="80" x="260" y="130" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="10"/><text x="340" y="150" fill="#f44336" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     2. Netto Kostnader
-  </text>
-  <text x="340" y="170" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="340" y="170" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Alle driftskostnader
-  </text>
-  <text x="340" y="185" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="340" y="185" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     etter fradrag
-  </text>
-  <text x="340" y="200" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="340" y="200" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     1.200.000 kr
-  </text>
-  
-
-  <polygon points="430,170 445,160 445,180" fill="#666"/>
-  <line x1="430" y1="170" x2="445" y2="170" stroke="#666" stroke-width="2"/>
-  
-
-  <rect x="460" y="130" width="160" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-  <text x="540" y="150" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path fill="#666" d="m430 170 15-10v20z"/><path stroke="#666" stroke-width="2" d="M430 170h15"/><rect width="160" height="80" x="460" y="130" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/><text x="540" y="150" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     3. Netto Resultat
-  </text>
-  <text x="540" y="170" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="540" y="170" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Budsjettert
-  </text>
-  <text x="540" y="185" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="540" y="185" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     overskudd
-  </text>
-  <text x="540" y="200" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="540" y="200" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     600.000 kr
-  </text>
-  
-
-  <polygon points="540,220 530,235 550,235" fill="#666"/>
-  <line x1="540" y1="220" x2="540" y2="235" stroke="#666" stroke-width="2"/>
-  
-
-  <rect x="60" y="250" width="680" height="200" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  <text x="400" y="275" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><path fill="#666" d="m540 220-10 15h20z"/><path stroke="#666" stroke-width="2" d="M540 220v15"/><rect width="680" height="200" x="60" y="250" fill="#f8f9fa" stroke="#dee2e6" rx="10"/><text x="400" y="275" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Detaljert Budsjett med Nettotall
-  </text>
-  
-
-
-  <rect x="80" y="290" width="120" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <text x="140" y="310" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M80 290h120v30H80z"/><text x="140" y="310" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Post
-  </text>
-  
-  <rect x="200" y="290" width="100" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <text x="250" y="310" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M200 290h100v30H200z"/><text x="250" y="310" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Brutto
-  </text>
-  
-  <rect x="300" y="290" width="100" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <text x="350" y="310" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M300 290h100v30H300z"/><text x="350" y="310" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Fradrag
-  </text>
-  
-  <rect x="400" y="290" width="100" height="30" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-  <text x="450" y="310" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e8f5e8" stroke="#4caf50" d="M400 290h100v30H400z"/><text x="450" y="310" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Netto
-  </text>
-  
-  <rect x="500" y="290" width="120" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <text x="560" y="310" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M500 290h120v30H500z"/><text x="560" y="310" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Planlegging
-  </text>
-  
-
-  <rect x="80" y="320" width="120" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="140" y="337" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><path fill="#fff" stroke="#999" d="M80 320h120v25H80z"/><text x="140" y="337" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Omsetning
-  </text>
-  
-  <rect x="200" y="320" width="100" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="250" y="337" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><path fill="#fff" stroke="#999" d="M200 320h100v25H200z"/><text x="250" y="337" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     2.250.000
-  </text>
-  
-  <rect x="300" y="320" width="100" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="350" y="337" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><path fill="#fff" stroke="#999" d="M300 320h100v25H300z"/><text x="350" y="337" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     450.000
-  </text>
-  
-  <rect x="400" y="320" width="100" height="25" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-  <text x="450" y="337" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+  </text><path fill="#e8f5e8" stroke="#4caf50" d="M400 320h100v25H400z"/><text x="450" y="337" fill="#4caf50" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     1.800.000
-  </text>
-  
-  <rect x="500" y="320" width="120" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="560" y="337" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><path fill="#fff" stroke="#999" d="M500 320h120v25H500z"/><text x="560" y="337" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Realistisk mål
-  </text>
-  
-
-  <rect x="80" y="345" width="120" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="140" y="362" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><path fill="#fff" stroke="#999" d="M80 345h120v25H80z"/><text x="140" y="362" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Lønnskostnader
-  </text>
-  
-  <rect x="200" y="345" width="100" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="250" y="362" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><path fill="#fff" stroke="#999" d="M200 345h100v25H200z"/><text x="250" y="362" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     1.000.000
-  </text>
-  
-  <rect x="300" y="345" width="100" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="350" y="362" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><path fill="#fff" stroke="#999" d="M300 345h100v25H300z"/><text x="350" y="362" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     200.000
-  </text>
-  
-  <rect x="400" y="345" width="100" height="25" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-  <text x="450" y="362" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+  </text><path fill="#e8f5e8" stroke="#4caf50" d="M400 345h100v25H400z"/><text x="450" y="362" fill="#4caf50" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     800.000
-  </text>
-  
-  <rect x="500" y="345" width="120" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="560" y="362" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><path fill="#fff" stroke="#999" d="M500 345h120v25H500z"/><text x="560" y="362" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Utbetalt lønn
-  </text>
-  
-
-  <rect x="80" y="370" width="120" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="140" y="387" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><path fill="#fff" stroke="#999" d="M80 370h120v25H80z"/><text x="140" y="387" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Andre kostnader
-  </text>
-  
-  <rect x="200" y="370" width="100" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="250" y="387" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><path fill="#fff" stroke="#999" d="M200 370h100v25H200z"/><text x="250" y="387" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     500.000
-  </text>
-  
-  <rect x="300" y="370" width="100" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="350" y="387" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><path fill="#fff" stroke="#999" d="M300 370h100v25H300z"/><text x="350" y="387" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     100.000
-  </text>
-  
-  <rect x="400" y="370" width="100" height="25" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-  <text x="450" y="387" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+  </text><path fill="#e8f5e8" stroke="#4caf50" d="M400 370h100v25H400z"/><text x="450" y="387" fill="#4caf50" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     400.000
-  </text>
-  
-  <rect x="500" y="370" width="120" height="25" fill="white" stroke="#999" stroke-width="1"/>
-  <text x="560" y="387" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><path fill="#fff" stroke="#999" d="M500 370h120v25H500z"/><text x="560" y="387" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Faktisk kostnad
-  </text>
-  
-
-  <rect x="80" y="395" width="120" height="30" fill="url(#planGradient)"/>
-  <text x="140" y="415" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="url(#c)" d="M80 395h120v30H80z"/><text x="140" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     NETTO RESULTAT
-  </text>
-  
-  <rect x="400" y="395" width="100" height="30" fill="url(#planGradient)"/>
-  <text x="450" y="415" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path fill="url(#c)" d="M400 395h100v30H400z"/><text x="450" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     600.000
-  </text>
-  
-  <rect x="500" y="395" width="120" height="30" fill="url(#planGradient)"/>
-  <text x="560" y="415" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+  </text><path fill="url(#c)" d="M500 395h120v30H500z"/><text x="560" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Målsetting
-  </text>
-  
-
-  <rect x="60" y="470" width="680" height="70" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="10"/>
-  <text x="400" y="490" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="680" height="70" x="60" y="470" fill="#e3f2fd" stroke="#1976d2" rx="10"/><text x="400" y="490" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fordeler med Nettotall i Budsjettplanlegging
-  </text>
-  
-  <text x="80" y="510" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="80" y="510" fill="#666" font-family="Arial, sans-serif" font-size="11">
     • Realistisk grunnlag: Nettotall gir et mer presist bilde av faktiske kontantbehov
-  </text>
-  <text x="80" y="525" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="80" y="525" fill="#666" font-family="Arial, sans-serif" font-size="11">
     • Bedre likviditetsstyring: Fokus på faktiske inn- og utbetalinger
-  </text>
-  
-
-  <text x="400" y="580" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="400" y="580" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Nettotall gir et realistisk grunnlag for budsjettplanlegging og økonomisk styring
-  </text>
-</svg>
+  </text></svg>

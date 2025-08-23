@@ -1,159 +1,65 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
-    </marker>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#06c" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Debitorprosessen - Fra Salg til Betaling
-  </text>
-  
-
-  <rect x="50" y="80" width="120" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-  <text x="110" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><rect width="120" height="60" x="50" y="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/><text x="110" y="105" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     1. Salg på
-  </text>
-  <text x="110" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><text x="110" y="120" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     kreditt
-  </text>
-  
-
-  <path d="M 180 110 L 220 110" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="240" y="80" width="120" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
-  <text x="300" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57c00">
+  </text><path stroke="#06c" stroke-width="3" marker-end="url(#b)" d="M180 110h40"/><rect width="120" height="60" x="240" y="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/><text x="300" y="105" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     2. Fakturering
-  </text>
-  <text x="300" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57c00">
+  </text><text x="300" y="120" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     til kunde
-  </text>
-  
-
-  <path d="M 370 110 L 410 110" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="430" y="80" width="120" height="60" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/>
-  <text x="490" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+  </text><path stroke="#06c" stroke-width="3" marker-end="url(#b)" d="M370 110h40"/><rect width="120" height="60" x="430" y="80" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="10"/><text x="490" y="105" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     3. Bokføring av
-  </text>
-  <text x="490" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+  </text><text x="490" y="120" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     kundefordring
-  </text>
-  
-
-  <path d="M 560 110 L 600 110" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="620" y="80" width="120" height="60" fill="#fff8e1" stroke="#fbc02d" stroke-width="2" rx="10"/>
-  <text x="680" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57f17">
+  </text><path stroke="#06c" stroke-width="3" marker-end="url(#b)" d="M560 110h40"/><rect width="120" height="60" x="620" y="80" fill="#fff8e1" stroke="#fbc02d" stroke-width="2" rx="10"/><text x="680" y="105" fill="#f57f17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     4. Oppfølging av
-  </text>
-  <text x="680" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57f17">
+  </text><text x="680" y="120" fill="#f57f17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     betalingsfrister
-  </text>
-  
-
-  <path d="M 680 150 L 680 190" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="620" y="210" width="120" height="60" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/>
-  <text x="680" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#388e3c">
+  </text><path stroke="#06c" stroke-width="3" marker-end="url(#b)" d="M680 150v40"/><rect width="120" height="60" x="620" y="210" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="10"/><text x="680" y="235" fill="#388e3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     5. Mottak av
-  </text>
-  <text x="680" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#388e3c">
+  </text><text x="680" y="250" fill="#388e3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     betaling
-  </text>
-  
-
-  <path d="M 610 240 L 570 240" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="430" y="210" width="120" height="60" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="10"/>
-  <text x="490" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#c2185b">
+  </text><path stroke="#06c" stroke-width="3" marker-end="url(#b)" d="M610 240h-40"/><rect width="120" height="60" x="430" y="210" fill="#fce4ec" stroke="#c2185b" stroke-width="2" rx="10"/><text x="490" y="235" fill="#c2185b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     6. Avstemming
-  </text>
-  <text x="490" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#c2185b">
+  </text><text x="490" y="250" fill="#c2185b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     og lukking
-  </text>
-  
-
-  <rect x="50" y="320" width="700" height="150" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-  <text x="400" y="345" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><rect width="700" height="150" x="50" y="320" fill="#fff" stroke="#dee2e6" rx="10"/><text x="400" y="345" fill="#212529" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Detaljer for hvert trinn
-  </text>
-  
-
-  <text x="70" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+  </text><text x="70" y="370" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Salg på kreditt:
-  </text>
-  <text x="70" y="385" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="70" y="385" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Levering av varer/tjenester
-  </text>
-  <text x="70" y="400" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="70" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Avtale om betalingsbetingelser
-  </text>
-  <text x="70" y="415" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="70" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Kredittvurdering av kunde
-  </text>
-  
-
-  <text x="270" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">
+  </text><text x="270" y="370" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Fakturering:
-  </text>
-  <text x="270" y="385" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="270" y="385" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Utsendelse av faktura
-  </text>
-  <text x="270" y="400" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="270" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Angivelse av forfallsdato
-  </text>
-  <text x="270" y="415" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="270" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Betalingsinformasjon
-  </text>
-  
-
-  <text x="470" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7b1fa2">
+  </text><text x="470" y="370" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Bokføring:
-  </text>
-  <text x="470" y="385" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="470" y="385" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Debet kundefordringer
-  </text>
-  <text x="470" y="400" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="470" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Kredit salgsinntekt
-  </text>
-  <text x="470" y="415" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="470" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Registrering i reskontro
-  </text>
-  
-
-  <text x="70" y="440" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57f17">
+  </text><text x="70" y="440" fill="#f57f17" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Oppfølging:
-  </text>
-  <text x="70" y="455" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="70" y="455" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Overvåking av forfallsdatoer
-  </text>
-  
-  <text x="270" y="440" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#388e3c">
+  </text><text x="270" y="440" fill="#388e3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Innbetaling:
-  </text>
-  <text x="270" y="455" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="270" y="455" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Mottak på bankkonto
-  </text>
-  
-  <text x="470" y="440" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c2185b">
+  </text><text x="470" y="440" fill="#c2185b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Avstemming:
-  </text>
-  <text x="470" y="455" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="470" y="455" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Matching betaling mot faktura
-  </text>
-</svg>
+  </text></svg>

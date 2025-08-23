@@ -1,192 +1,69 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="regnskapsGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="skatteGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="finansGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6d28d9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="revisorGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
-  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1e40af;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#047857;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc2626;stop-opacity:1"/><stop offset="100%" style="stop-color:#b91c1c;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1"/><stop offset="100%" style="stop-color:#6d28d9;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/><stop offset="100%" style="stop-color:#d97706;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Tilsyn og Ansvarsfordeling
-  </text>
-  
-
-  <g transform="translate(350, 250)">
-    <circle cx="50" cy="50" r="40" fill="#e2e8f0" stroke="#475569" stroke-width="3"/>
-    <text x="50" y="45" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><g transform="translate(350 250)"><circle cx="50" cy="50" r="40" fill="#e2e8f0" stroke="#475569" stroke-width="3"/><text x="50" y="45" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       NORSKE
-    </text>
-    <text x="50" y="60" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><text x="50" y="60" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       BEDRIFTER
-    </text>
-  </g>
-  
-
-  <g transform="translate(100, 100)">
-    <rect x="0" y="0" width="180" height="50" rx="10" fill="url(#regnskapsGrad)"/>
-    <text x="90" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text></g><g transform="translate(100 100)"><rect width="180" height="50" fill="url(#b)" rx="10"/><text x="90" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       REGNSKAPSREGISTERET
-    </text>
-    
-    <rect x="10" y="60" width="160" height="120" rx="5" fill="#ecfdf5" stroke="#059669" stroke-width="2"/>
-    <text x="90" y="80" text-anchor="middle" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="160" height="120" x="10" y="60" fill="#ecfdf5" stroke="#059669" stroke-width="2" rx="5"/><text x="90" y="80" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Ansvar:
-    </text>
-    <text x="20" y="100" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="100" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
       • Registrering av årsregnskap
-    </text>
-    <text x="20" y="115" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="115" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
       • Kontroll av innsendte regnskaper
-    </text>
-    <text x="20" y="130" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="130" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
       • Oppfølging av manglende
-    </text>
-    <text x="20" y="145" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="145" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
         innleveringer
-    </text>
-    <text x="20" y="160" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="160" fill="#065f46" font-family="Arial, sans-serif" font-size="12">
       • Sanksjoner ved regelbrudd
-    </text>
-    
-
-    <path d="M280 160 L350 250" stroke="#059669" stroke-width="3" stroke-dasharray="5,5"/>
-  </g>
-  
-
-  <g transform="translate(520, 100)">
-    <rect x="0" y="0" width="180" height="50" rx="10" fill="url(#skatteGrad)"/>
-    <text x="90" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><path stroke="#059669" stroke-dasharray="5,5" stroke-width="3" d="m280 160 70 90"/></g><g transform="translate(520 100)"><rect width="180" height="50" fill="url(#c)" rx="10"/><text x="90" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       SKATTEETATEN
-    </text>
-    
-    <rect x="10" y="60" width="160" height="120" rx="5" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
-    <text x="90" y="80" text-anchor="middle" fill="#991b1b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="160" height="120" x="10" y="60" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="5"/><text x="90" y="80" fill="#991b1b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Ansvar:
-    </text>
-    <text x="20" y="100" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="100" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
       • Regnskapskontroll ved
-    </text>
-    <text x="20" y="115" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="115" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
         skatterevisjoner
-    </text>
-    <text x="20" y="130" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="130" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
       • Vurdering av bokføringens
-    </text>
-    <text x="20" y="145" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="145" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
         kvalitet
-    </text>
-    <text x="20" y="160" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="160" fill="#991b1b" font-family="Arial, sans-serif" font-size="12">
       • Skjønnsmessige ansettelser
-    </text>
-    
-
-    <path d="M520 160 L450 250" stroke="#dc2626" stroke-width="3" stroke-dasharray="5,5"/>
-  </g>
-  
-
-  <g transform="translate(100, 400)">
-    <rect x="0" y="0" width="180" height="50" rx="10" fill="url(#finansGrad)"/>
-    <text x="90" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><path stroke="#dc2626" stroke-dasharray="5,5" stroke-width="3" d="m520 160-70 90"/></g><g transform="translate(100 400)"><rect width="180" height="50" fill="url(#d)" rx="10"/><text x="90" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       FINANSTILSYNET
-    </text>
-    
-    <rect x="10" y="60" width="160" height="100" rx="5" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
-    <text x="90" y="80" text-anchor="middle" fill="#581c87" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="160" height="100" x="10" y="60" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2" rx="5"/><text x="90" y="80" fill="#581c87" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Ansvar:
-    </text>
-    <text x="20" y="100" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="100" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
       • Tilsyn med finansinstitusjoner
-    </text>
-    <text x="20" y="115" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="115" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
       • Kontroll av børsnoterte selskaper
-    </text>
-    <text x="20" y="130" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="130" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
       • Håndhevelse av
-    </text>
-    <text x="20" y="145" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="145" fill="#581c87" font-family="Arial, sans-serif" font-size="12">
         regnskapsstandarder
-    </text>
-    
-
-    <path d="M280 450 L350 350" stroke="#7c3aed" stroke-width="3" stroke-dasharray="5,5"/>
-  </g>
-  
-
-  <g transform="translate(520, 400)">
-    <rect x="0" y="0" width="180" height="50" rx="10" fill="url(#revisorGrad)"/>
-    <text x="90" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><path stroke="#7c3aed" stroke-dasharray="5,5" stroke-width="3" d="m280 450 70-100"/></g><g transform="translate(520 400)"><rect width="180" height="50" fill="url(#e)" rx="10"/><text x="90" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       REVISORER
-    </text>
-    
-    <rect x="10" y="60" width="160" height="100" rx="5" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/>
-    <text x="90" y="80" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="160" height="100" x="10" y="60" fill="#fffbeb" stroke="#f59e0b" stroke-width="2" rx="5"/><text x="90" y="80" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Ansvar:
-    </text>
-    <text x="20" y="100" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="100" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
       • Kontroll av bokføringens
-    </text>
-    <text x="20" y="115" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="115" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
         kvalitet
-    </text>
-    <text x="20" y="130" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="130" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
       • Rapportering av vesentlige feil
-    </text>
-    <text x="20" y="145" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="145" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
       • Bekreftelse av lovmessighet
-    </text>
-    
-
-    <path d="M520 450 L450 350" stroke="#f59e0b" stroke-width="3" stroke-dasharray="5,5"/>
-  </g>
-  
-
-  <g transform="translate(300, 80)">
-    <rect x="0" y="0" width="200" height="60" rx="10" fill="#1f2937" stroke="#374151" stroke-width="2"/>
-    <text x="100" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path stroke="#f59e0b" stroke-dasharray="5,5" stroke-width="3" d="m520 450-70-100"/></g><g transform="translate(300 80)"><rect width="200" height="60" fill="#1f2937" stroke="#374151" stroke-width="2" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       KOORDINERT TILSYN
-    </text>
-    <text x="100" y="45" text-anchor="middle" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="100" y="45" fill="#d1d5db" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Samarbeid mellom myndigheter
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 550)">
-    <rect x="0" y="0" width="700" height="40" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
-    <text x="350" y="15" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text></g><g transform="translate(50 550)"><rect width="700" height="40" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="5"/><text x="350" y="15" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       SANKSJONER OG HÅNDHEVELSE
-    </text>
-    <text x="350" y="30" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="350" y="30" fill="#92400e" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Tvangsmulkt • Skattetillegg • Straff • Erstatningsansvar • Tap av tillit
-    </text>
-  </g>
-  
-
-  <g transform="translate(320, 520)">
-    <rect x="0" y="0" width="160" height="25" rx="3" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
-    <text x="80" y="17" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text></g><g transform="translate(320 520)"><rect width="160" height="25" fill="#dbeafe" stroke="#2563eb" rx="3"/><text x="80" y="17" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Bokføringsloven § 15-16
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

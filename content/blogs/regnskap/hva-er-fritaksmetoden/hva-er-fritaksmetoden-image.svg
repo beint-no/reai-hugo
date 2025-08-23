@@ -1,113 +1,41 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Fritaksmetoden
-  </text>
-  <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6c757d">
+  </text><text x="400" y="65" fill="#6c757d" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Skattefritak for Utbytte og Gevinst
-  </text>
-  
-
-  <rect x="50" y="120" width="120" height="80" fill="url(#blueGradient)" rx="10"/>
-  <text x="110" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="120" height="80" x="50" y="120" fill="url(#b)" rx="10"/><text x="110" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Selskap A
-  </text>
-  <text x="110" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="110" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (Investor)
-  </text>
-  <text x="110" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="110" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Eier ≥10%
-  </text>
-  
-
-  <rect x="630" y="120" width="120" height="80" fill="url(#greenGradient)" rx="10"/>
-  <text x="690" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="120" height="80" x="630" y="120" fill="url(#c)" rx="10"/><text x="690" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Selskap B
-  </text>
-  <text x="690" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="690" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (Investert)
-  </text>
-  <text x="690" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="690" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Utbytter
-  </text>
-  
-
-  <path d="M 170 160 Q 400 100 630 160" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <text x="400" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0066cc" font-weight="bold">
+  </text><path fill="none" stroke="#06c" stroke-width="3" marker-end="url(#d)" d="M170 160q230-60 460 0"/><text x="400" y="125" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Investering
-  </text>
-  
-
-  <path d="M 630 160 Q 400 220 170 160" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
-  <text x="400" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745" font-weight="bold">
+  </text><path fill="none" stroke="#28a745" stroke-width="3" marker-end="url(#e)" d="M630 160q-230 60-460 0"/><text x="400" y="235" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Utbytte/Gevinst
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
-    </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="300" y="280" width="200" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#856404">
+  </text><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#06c" d="m0 0 10 3.5L0 7z"/></marker><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="200" height="80" x="300" y="280" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/><text x="400" y="305" fill="#856404" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Fritaksmetoden
-  </text>
-  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+  </text><text x="400" y="325" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     97% skattefritt
-  </text>
-  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+  </text><text x="400" y="340" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     3% skattepliktig
-  </text>
-  <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="400" y="355" fill="#856404" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (Effektiv sats: 0,66%)
-  </text>
-  
-
-  <circle cx="150" cy="320" r="25" fill="#dc3545" stroke="#721c24" stroke-width="2"/>
-  <text x="150" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><circle cx="150" cy="320" r="25" fill="#dc3545" stroke="#721c24" stroke-width="2"/><text x="150" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     ≥10%
-  </text>
-  <text x="150" y="327" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+  </text><text x="150" y="327" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Eier
-  </text>
-  
-  <circle cx="400" cy="380" r="25" fill="#dc3545" stroke="#721c24" stroke-width="2"/>
-  <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="380" r="25" fill="#dc3545" stroke="#721c24" stroke-width="2"/><text x="400" y="375" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     ≥2 år
-  </text>
-  <text x="400" y="387" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+  </text><text x="400" y="387" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Tid
-  </text>
-  
-  <circle cx="650" cy="320" r="25" fill="#dc3545" stroke="#721c24" stroke-width="2"/>
-  <text x="650" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="white">
+  </text><circle cx="650" cy="320" r="25" fill="#dc3545" stroke="#721c24" stroke-width="2"/><text x="650" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">
     Forr.
-  </text>
-  <text x="650" y="327" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+  </text><text x="650" y="327" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     mess.
-  </text>
-</svg>
+  </text></svg>

@@ -1,199 +1,43 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="methodGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="methodGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="methodGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="methodGradient4" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#b71c1c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Diskonteringsmetoder
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#methodGradient1)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="340" height="120" fill="url(#b)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       1. Enkelt Diskontering
-    </text>
-    
-
-    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💰</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="60" r="20" fill="#fff" opacity=".3"/><text x="50" y="67" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">💰</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       For enkeltstående fremtidige betalinger
-    </text>
-    
-
-    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
-    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><rect width="230" height="25" x="90" y="60" fill="#fff" opacity=".2" rx="5"/><text x="205" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       PV = FV / (1 + r)^n
-    </text>
-    
-
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       Eksempel: 100 000 kr om 3 år, r=8% → PV = 79 383 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#methodGradient2)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(410 80)"><rect width="340" height="120" fill="url(#c)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       2. Annuitet Diskontering
-    </text>
-    
-
-    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📊</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="60" r="20" fill="#fff" opacity=".3"/><text x="50" y="67" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">📊</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       For like årlige betalinger over flere år
-    </text>
-    
-
-    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
-    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="230" height="25" x="90" y="60" fill="#fff" opacity=".2" rx="5"/><text x="205" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       PV = PMT × [(1-(1+r)^-n)/r]
-    </text>
-    
-
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       Eksempel: 50 000 kr/år i 5 år, r=6% → PV = 210 618 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 220)">
-    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#methodGradient3)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 220)"><rect width="340" height="120" fill="url(#d)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       3. Perpetuitet Diskontering
-    </text>
-    
-
-    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">♾️</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="60" r="20" fill="#fff" opacity=".3"/><text x="50" y="67" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">♾️</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       For evige like betalinger
-    </text>
-    
-
-    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
-    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><rect width="230" height="25" x="90" y="60" fill="#fff" opacity=".2" rx="5"/><text x="205" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       PV = PMT / r
-    </text>
-    
-
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       Eksempel: 30 000 kr/år for alltid, r=5% → PV = 600 000 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 220)">
-    <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#methodGradient4)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(410 220)"><rect width="340" height="120" fill="url(#e)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       4. Voksende Perpetuitet
-    </text>
-    
-
-    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📈</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="60" r="20" fill="#fff" opacity=".3"/><text x="50" y="67" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">📈</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       For evige betalinger som vokser med konstant rate
-    </text>
-    
-
-    <rect x="90" y="60" width="230" height="25" rx="5" fill="white" opacity="0.2"/>
-    <text x="205" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><rect width="230" height="25" x="90" y="60" fill="#fff" opacity=".2" rx="5"/><text x="205" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       PV = PMT / (r - g)
-    </text>
-    
-
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       Eksempel: 25 000 kr/år, vekst 3%, r=8% → PV = 500 000 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 360)">
-    <rect x="0" y="0" width="700" height="160" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    </text></g><g transform="translate(50 360)"><rect width="700" height="160" fill="#fff" stroke="#ddd" stroke-width="2" rx="10"/><text x="350" y="25" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Sammenligning av Diskonteringsmetoder
-    </text>
-    
-
-    <rect x="20" y="40" width="660" height="25" fill="#f5f5f5" stroke="#ddd" stroke-width="1"/>
-    <text x="40" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Metode</text>
-    <text x="180" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Anvendelse</text>
-    <text x="380" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Kontantstrøm</text>
-    <text x="550" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">Kompleksitet</text>
-    
-
-    <text x="40" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Enkelt</text>
-    <text x="180" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Engangsbeløp</text>
-    <text x="380" y="80" font-family="Arial, sans-serif" font-size="12" fill="#333">Ett fremtidig beløp</text>
-    <text x="550" y="80" font-family="Arial, sans-serif" font-size="12" fill="#4CAF50">Lav</text>
-    
-
-    <text x="40" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Annuitet</text>
-    <text x="180" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Lån, leasing</text>
-    <text x="380" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">Like årlige beløp</text>
-    <text x="550" y="100" font-family="Arial, sans-serif" font-size="12" fill="#FF9800">Middels</text>
-    
-
-    <text x="40" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Perpetuitet</text>
-    <text x="180" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Obligasjoner, aksjer</text>
-    <text x="380" y="120" font-family="Arial, sans-serif" font-size="12" fill="#333">Evige like beløp</text>
-    <text x="550" y="120" font-family="Arial, sans-serif" font-size="12" fill="#4CAF50">Lav</text>
-    
-
-    <text x="40" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Voksende Perpetuitet</text>
-    <text x="180" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Aksjevurdering</text>
-    <text x="380" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">Voksende beløp</text>
-    <text x="550" y="140" font-family="Arial, sans-serif" font-size="12" fill="#FF9800">Middels</text>
-  </g>
-  
-
-  <g transform="translate(50, 540)">
-    <rect x="0" y="0" width="700" height="50" rx="10" fill="#e3f2fd" stroke="#2196F3" stroke-width="2"/>
-    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976D2">
+    </text><path fill="#f5f5f5" stroke="#ddd" d="M20 40h660v25H20z"/><text x="40" y="55" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Metode</text><text x="180" y="55" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Anvendelse</text><text x="380" y="55" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Kontantstrøm</text><text x="550" y="55" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">Kompleksitet</text><text x="40" y="80" fill="#333" font-family="Arial, sans-serif" font-size="12">Enkelt</text><text x="180" y="80" fill="#333" font-family="Arial, sans-serif" font-size="12">Engangsbeløp</text><text x="380" y="80" fill="#333" font-family="Arial, sans-serif" font-size="12">Ett fremtidig beløp</text><text x="550" y="80" fill="#4caf50" font-family="Arial, sans-serif" font-size="12">Lav</text><text x="40" y="100" fill="#333" font-family="Arial, sans-serif" font-size="12">Annuitet</text><text x="180" y="100" fill="#333" font-family="Arial, sans-serif" font-size="12">Lån, leasing</text><text x="380" y="100" fill="#333" font-family="Arial, sans-serif" font-size="12">Like årlige beløp</text><text x="550" y="100" fill="#ff9800" font-family="Arial, sans-serif" font-size="12">Middels</text><text x="40" y="120" fill="#333" font-family="Arial, sans-serif" font-size="12">Perpetuitet</text><text x="180" y="120" fill="#333" font-family="Arial, sans-serif" font-size="12">Obligasjoner, aksjer</text><text x="380" y="120" fill="#333" font-family="Arial, sans-serif" font-size="12">Evige like beløp</text><text x="550" y="120" fill="#4caf50" font-family="Arial, sans-serif" font-size="12">Lav</text><text x="40" y="140" fill="#333" font-family="Arial, sans-serif" font-size="12">Voksende Perpetuitet</text><text x="180" y="140" fill="#333" font-family="Arial, sans-serif" font-size="12">Aksjevurdering</text><text x="380" y="140" fill="#333" font-family="Arial, sans-serif" font-size="12">Voksende beløp</text><text x="550" y="140" fill="#ff9800" font-family="Arial, sans-serif" font-size="12">Middels</text></g><g transform="translate(50 540)"><rect width="700" height="50" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="10"/><text x="350" y="20" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Viktige Hensyn ved Valg av Metode
-    </text>
-    
-    <text x="50" y="35" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    </text><text x="50" y="35" fill="#333" font-family="Arial, sans-serif" font-size="13">
       • Velg metode basert på kontantstrømmenes natur og timing
-    </text>
-    <text x="400" y="35" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    </text><text x="400" y="35" fill="#333" font-family="Arial, sans-serif" font-size="13">
       • Vurder om vekst er realistisk over tid
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

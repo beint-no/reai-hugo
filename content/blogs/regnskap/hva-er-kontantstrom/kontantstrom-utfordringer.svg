@@ -1,238 +1,97 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="seasonalGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FFB74D;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="paymentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ef5350;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="growthGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="unexpectedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#BA68C8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="solutionsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#66BB6A;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffb74d;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#ef5350;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#ba68c8;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Kontantstrøm Utfordringer
-  </text>
-  
-
-  <rect x="50" y="70" width="340" height="120" fill="url(#seasonalGradient)" rx="15" opacity="0.1"/>
-  <rect x="60" y="80" width="320" height="30" fill="url(#seasonalGradient)" rx="5"/>
-  <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="120" x="50" y="70" fill="url(#a)" opacity=".1" rx="15"/><rect width="320" height="30" x="60" y="80" fill="url(#a)" rx="5"/><text x="220" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     1. SESONGVARIASJONER
-  </text>
-  
-
-  <text x="70" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E65100">
+  </text><text x="70" y="125" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Problem:
-  </text>
-  <text x="70" y="140" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="70" y="140" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Store svingninger i kontantstrøm gjennom året
-  </text>
-  <text x="70" y="155" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="70" y="155" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Uforutsigbare inntekter og kostnader
-  </text>
-  
-  <text x="70" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><text x="70" y="175" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Løsning:
-  </text>
-  <text x="70" y="190" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="70" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Sesongbasert budsjetting og planlegging
-  </text>
-  
-
-  <rect x="410" y="70" width="340" height="120" fill="url(#paymentGradient)" rx="15" opacity="0.1"/>
-  <rect x="420" y="80" width="320" height="30" fill="url(#paymentGradient)" rx="5"/>
-  <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="120" x="410" y="70" fill="url(#b)" opacity=".1" rx="15"/><rect width="320" height="30" x="420" y="80" fill="url(#b)" rx="5"/><text x="580" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     2. LANGE BETALINGSBETINGELSER
-  </text>
-  
-
-  <text x="430" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c62828">
+  </text><text x="430" y="125" fill="#c62828" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Problem:
-  </text>
-  <text x="430" y="140" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="430" y="140" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Kunder betaler sent, leverandører krever rask betaling
-  </text>
-  <text x="430" y="155" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="430" y="155" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Mismatch mellom inn- og utbetalinger
-  </text>
-  
-  <text x="430" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><text x="430" y="175" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Løsning:
-  </text>
-  <text x="430" y="190" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="430" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Strengere kredittvurdering og factoring
-  </text>
-  
-
-  <rect x="50" y="210" width="340" height="120" fill="url(#growthGradient)" rx="15" opacity="0.1"/>
-  <rect x="60" y="220" width="320" height="30" fill="url(#growthGradient)" rx="5"/>
-  <text x="220" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="120" x="50" y="210" fill="url(#c)" opacity=".1" rx="15"/><rect width="320" height="30" x="60" y="220" fill="url(#c)" rx="5"/><text x="220" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     3. VEKSTFINANSIERING
-  </text>
-  
-
-  <text x="70" y="265" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565C0">
+  </text><text x="70" y="265" fill="#1565c0" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Problem:
-  </text>
-  <text x="70" y="280" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="70" y="280" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Vekst krever investeringer før inntektene kommer
-  </text>
-  <text x="70" y="295" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="70" y="295" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Kapitalbehov overstiger kontantstrøm
-  </text>
-  
-  <text x="70" y="315" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><text x="70" y="315" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Løsning:
-  </text>
-  <text x="70" y="330" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="70" y="330" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Detaljert vekstplanlegging og ekstern finansiering
-  </text>
-  
-
-  <rect x="410" y="210" width="340" height="120" fill="url(#unexpectedGradient)" rx="15" opacity="0.1"/>
-  <rect x="420" y="220" width="320" height="30" fill="url(#unexpectedGradient)" rx="5"/>
-  <text x="580" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="120" x="410" y="210" fill="url(#d)" opacity=".1" rx="15"/><rect width="320" height="30" x="420" y="220" fill="url(#d)" rx="5"/><text x="580" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     4. UFORUTSETTE UTGIFTER
-  </text>
-  
-
-  <text x="430" y="265" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6A1B9A">
+  </text><text x="430" y="265" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Problem:
-  </text>
-  <text x="430" y="280" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="430" y="280" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Akutte reparasjoner, erstatninger eller bøter
-  </text>
-  <text x="430" y="295" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="430" y="295" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Plutselige store utbetalinger
-  </text>
-  
-  <text x="430" y="315" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><text x="430" y="315" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Løsning:
-  </text>
-  <text x="430" y="330" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="430" y="330" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Kontantreserver og forsikringsdekning
-  </text>
-  
-
-  <rect x="50" y="350" width="700" height="180" fill="url(#solutionsGradient)" rx="15"/>
-  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="700" height="180" x="50" y="350" fill="url(#e)" rx="15"/><text x="400" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     OMFATTENDE LØSNINGSSTRATEGIER
-  </text>
-  
-
-  <rect x="80" y="400" width="150" height="110" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="155" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="110" x="80" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="155" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Proaktiv Planlegging
-  </text>
-  <text x="90" y="440" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Detaljerte prognoser
-  </text>
-  <text x="90" y="455" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Scenarioanalyse
-  </text>
-  <text x="90" y="470" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Kontinuerlig overvåking
-  </text>
-  <text x="90" y="485" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Tidlig varslingssystemer
-  </text>
-  
-  <rect x="250" y="400" width="150" height="110" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="325" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="110" x="250" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="325" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Finansiell Fleksibilitet
-  </text>
-  <text x="260" y="440" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="260" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Kassekreditt og kredittlinjer
-  </text>
-  <text x="260" y="455" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="260" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Diversifiserte finansieringskilder
-  </text>
-  <text x="260" y="470" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="260" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Kontantreserver
-  </text>
-  <text x="260" y="485" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="260" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Fleksible avtaler
-  </text>
-  
-  <rect x="420" y="400" width="150" height="110" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="495" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="110" x="420" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="495" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Operasjonell Effektivitet
-  </text>
-  <text x="430" y="440" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Forbedre innkrevingsprosesser
-  </text>
-  <text x="430" y="455" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Optimalisere betalingsbetingelser
-  </text>
-  <text x="430" y="470" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Redusere arbeidskapitalbinding
-  </text>
-  <text x="430" y="485" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Automatisere prosesser
-  </text>
-  
-  <rect x="590" y="400" width="150" height="110" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="665" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="110" x="590" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="665" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Risikohåndtering
-  </text>
-  <text x="600" y="440" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="600" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Forsikringsdekning
-  </text>
-  <text x="600" y="455" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="600" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Diversifisering av kunder
-  </text>
-  <text x="600" y="470" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="600" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Kontraktuelle sikkerhetsnett
-  </text>
-  <text x="600" y="485" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="600" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Beredskapsplaner
-  </text>
-  
-
-  <rect x="50" y="550" width="700" height="40" fill="#fff3e0" stroke="#FF9800" stroke-width="2" rx="10"/>
-  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E65100">
+  </text><rect width="700" height="40" x="50" y="550" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/><text x="400" y="570" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Varseltegn på Kontantstrømproblemer
-  </text>
-  <text x="70" y="585" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="70" y="585" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Økende kundefordringer • Forsinket betaling til leverandører • Reduserte kontantreserver • Hyppig bruk av kassekreditt
-  </text>
-  
-
-  <path d="M 220 200 L 400 350" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrowOrange)"/>
-  <path d="M 580 200 L 400 350" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
-  <path d="M 220 340 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
-  <path d="M 580 340 L 400 350" stroke="#9C27B0" stroke-width="2" fill="none" marker-end="url(#arrowPurple)"/>
-  
-
-  <defs>
-    <marker id="arrowOrange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#FF9800"/>
-    </marker>
-    <marker id="arrowRed" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#f44336"/>
-    </marker>
-    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2196F3"/>
-    </marker>
-    <marker id="arrowPurple" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#9C27B0"/>
-    </marker>
-  </defs>
-</svg>
+  </text><path fill="none" stroke="#ff9800" stroke-width="2" marker-end="url(#f)" d="m220 200 180 150"/><path fill="none" stroke="#f44336" stroke-width="2" marker-end="url(#g)" d="M580 200 400 350"/><path fill="none" stroke="#2196f3" stroke-width="2" marker-end="url(#h)" d="m220 340 180 10"/><path fill="none" stroke="#9c27b0" stroke-width="2" marker-end="url(#i)" d="m580 340-180 10"/><defs><marker id="f" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#ff9800" d="m0 0 10 3.5L0 7z"/></marker><marker id="g" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#f44336" d="m0 0 10 3.5L0 7z"/></marker><marker id="h" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2196f3" d="m0 0 10 3.5L0 7z"/></marker><marker id="i" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#9c27b0" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

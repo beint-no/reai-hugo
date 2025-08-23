@@ -1,224 +1,99 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f1f8e9;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#388e3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4caf50;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="docGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2196f3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="prodGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffb74d;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="reportGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ba68c8;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" />
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)" />
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f1f8e9;stop-opacity:1"/><stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#388e3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#4caf50;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffb74d;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#ba68c8;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Dokumentasjonskrav for Jordbruksfradrag
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-
-    <rect x="0" y="0" width="220" height="180" fill="white" stroke="#2196f3" stroke-width="2" rx="10"/>
-    <rect x="0" y="0" width="220" height="40" fill="url(#docGradient)" rx="10"/>
-    <rect x="0" y="30" width="220" height="10" fill="url(#docGradient)"/>
-    <text x="110" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(50 80)"><rect width="220" height="180" fill="#fff" stroke="#2196f3" stroke-width="2" rx="10"/><rect width="220" height="40" fill="url(#c)" rx="10"/><path fill="url(#c)" d="M0 30h220v10H0z"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Regnskapsdokumentasjon
-    </text>
-    
-    <text x="20" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+    </text><text x="20" y="65" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Obligatoriske dokumenter:
-    </text>
-    <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="85" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Komplett regnskap etter god
-    </text>
-    <text x="20" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="100" fill="#666" font-family="Arial, sans-serif" font-size="11">
         regnskapsskikk
-    </text>
-    <text x="20" y="115" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="115" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Alle bilag arkivert systematisk
-    </text>
-    <text x="20" y="130" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="130" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Spesifikasjon av jordbruksinntekter
-    </text>
-    <text x="20" y="145" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="145" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Avstemminger og kontroller
-    </text>
-    <text x="20" y="160" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="160" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Årsregnskap med noter
-    </text>
-    
-
-    <rect x="240" y="0" width="220" height="180" fill="white" stroke="#ff9800" stroke-width="2" rx="10"/>
-    <rect x="240" y="0" width="220" height="40" fill="url(#prodGradient)" rx="10"/>
-    <rect x="240" y="30" width="220" height="10" fill="url(#prodGradient)"/>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="220" height="180" x="240" fill="#fff" stroke="#ff9800" stroke-width="2" rx="10"/><rect width="220" height="40" x="240" fill="url(#d)" rx="10"/><path fill="url(#d)" d="M240 30h220v10H240z"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Produksjonsregistrering
-    </text>
-    
-    <text x="260" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
+    </text><text x="260" y="65" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Krav til registrering:
-    </text>
-    <text x="260" y="85" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="85" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Detaljert registrering av all
-    </text>
-    <text x="260" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="100" fill="#666" font-family="Arial, sans-serif" font-size="11">
         produksjon
-    </text>
-    <text x="260" y="115" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="115" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Salgsbilag og leveringskvitteringer
-    </text>
-    <text x="260" y="130" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="130" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Lagerregistrering ved årsskifte
-    </text>
-    <text x="260" y="145" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="145" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Produksjonsstatistikk
-    </text>
-    <text x="260" y="160" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="260" y="160" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Kvalitetsdokumentasjon
-    </text>
-    
-
-    <rect x="480" y="0" width="220" height="180" fill="white" stroke="#9c27b0" stroke-width="2" rx="10"/>
-    <rect x="480" y="0" width="220" height="40" fill="url(#reportGradient)" rx="10"/>
-    <rect x="480" y="30" width="220" height="10" fill="url(#reportGradient)"/>
-    <text x="590" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="220" height="180" x="480" fill="#fff" stroke="#9c27b0" stroke-width="2" rx="10"/><rect width="220" height="40" x="480" fill="url(#e)" rx="10"/><path fill="url(#e)" d="M480 30h220v10H480z"/><text x="590" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Offentlige Rapporter
-    </text>
-    
-    <text x="500" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7b1fa2">
+    </text><text x="500" y="65" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Påkrevde rapporter:
-    </text>
-    <text x="500" y="85" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="85" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Søknad om produksjonstilskudd
-    </text>
-    <text x="500" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="100" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Rapportering til Landbruks-
-    </text>
-    <text x="500" y="115" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="115" fill="#666" font-family="Arial, sans-serif" font-size="11">
         direktoratet
-    </text>
-    <text x="500" y="130" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="130" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Miljørapportering der relevant
-    </text>
-    <text x="500" y="145" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="145" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Selvangivelse med vedlegg
-    </text>
-    <text x="500" y="160" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="500" y="160" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Skattemeldinger
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 280)">
-    <rect x="0" y="0" width="700" height="120" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <rect x="0" y="0" width="700" height="40" fill="#4caf50" rx="10"/>
-    <rect x="0" y="30" width="700" height="10" fill="#4caf50"/>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><g transform="translate(50 280)"><rect width="700" height="120" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><rect width="700" height="40" fill="#4caf50" rx="10"/><path fill="#4caf50" d="M0 30h700v10H0z"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Digitale Løsninger for Dokumentasjon
-    </text>
-    
-    <text x="50" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="50" y="70" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Landbruksapper:
-    </text>
-    <text x="50" y="85" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="50" y="85" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Registrering av produksjon og drift
-    </text>
-    <text x="50" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="50" y="100" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Automatisk datainnsamling
-    </text>
-    
-    <text x="250" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="250" y="70" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Regnskapssystemer:
-    </text>
-    <text x="250" y="85" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="250" y="85" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Integrert med landbruksmoduler
-    </text>
-    <text x="250" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="250" y="100" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Automatisk kategorisering
-    </text>
-    
-    <text x="450" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="450" y="70" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Offentlige portaler:
-    </text>
-    <text x="450" y="85" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="450" y="85" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Direkte rapportering til myndighetene
-    </text>
-    <text x="450" y="100" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="450" y="100" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Elektronisk saksbehandling
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 420)">
-    <rect x="0" y="0" width="700" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#e65100">
+    </text></g><g transform="translate(50 420)"><rect width="700" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/><text x="350" y="25" fill="#e65100" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Oppbevaringsplikt
-    </text>
-    
-    <text x="50" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
+    </text><text x="50" y="50" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Regnskapsmateriale:
-    </text>
-    <text x="50" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="50" y="65" fill="#666" font-family="Arial, sans-serif" font-size="11">
       Minimum 10 år
-    </text>
-    
-    <text x="250" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
+    </text><text x="250" y="50" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Produksjonsregistreringer:
-    </text>
-    <text x="250" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="250" y="65" fill="#666" font-family="Arial, sans-serif" font-size="11">
       5 år
-    </text>
-    
-    <text x="450" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e65100">
+    </text><text x="450" y="50" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Eiendomsdokumenter:
-    </text>
-    <text x="450" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="450" y="65" fill="#666" font-family="Arial, sans-serif" font-size="11">
       Permanent
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 520)">
-    <rect x="0" y="0" width="700" height="70" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="10"/>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#c62828">
+    </text></g><g transform="translate(50 520)"><rect width="700" height="70" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="10"/><text x="350" y="25" fill="#c62828" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Kontroll &amp; Revisjon
-    </text>
-    
-    <text x="50" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c62828">
+    </text><text x="50" y="45" fill="#c62828" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Skatteetaten:
-    </text>
-    <text x="50" y="60" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="50" y="60" fill="#666" font-family="Arial, sans-serif" font-size="10">
       Stikkprøvekontroller, bokettersyn
-    </text>
-    
-    <text x="250" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c62828">
+    </text><text x="250" y="45" fill="#c62828" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Landbruksmyndighetene:
-    </text>
-    <text x="250" y="60" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="250" y="60" fill="#666" font-family="Arial, sans-serif" font-size="10">
       Tilskuddskontroll, inspeksjoner
-    </text>
-    
-    <text x="450" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c62828">
+    </text><text x="450" y="45" fill="#c62828" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Sanksjoner:
-    </text>
-    <text x="450" y="60" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="450" y="60" fill="#666" font-family="Arial, sans-serif" font-size="10">
       Tilleggsskatt, tap av fradragsrett
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

@@ -1,81 +1,13 @@
-<svg width="700" height="300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="lawGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="regulationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="300" fill="#f8f9fa"/>
-  
-
-  <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#2980b9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#c0392b;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h700v300H0z"/><text x="350" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Lovgrunnlag for Oppbevaring
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <rect x="0" y="0" width="250" height="120" fill="url(#lawGradient)" stroke="#2980b9" stroke-width="2" rx="10"/>
-    <text x="125" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 70)"><rect width="250" height="120" fill="url(#a)" stroke="#2980b9" stroke-width="2" rx="10"/><text x="125" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Bokføringsloven
-    </text>
-    <text x="125" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="125" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       § 13 - Oppbevaringsplikt
-    </text>
-    
-
-    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Regnskapsmateriale: 5 år</text>
-    <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Bilag og dokumentasjon</text>
-    <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Hovedbok og hjelpebøker</text>
-  </g>
-  
-
-  <g transform="translate(400, 70)">
-    <rect x="0" y="0" width="250" height="120" fill="url(#regulationGradient)" stroke="#c0392b" stroke-width="2" rx="10"/>
-    <text x="125" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text><text x="20" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Regnskapsmateriale: 5 år</text><text x="20" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Bilag og dokumentasjon</text><text x="20" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Hovedbok og hjelpebøker</text></g><g transform="translate(400 70)"><rect width="250" height="120" fill="url(#b)" stroke="#c0392b" stroke-width="2" rx="10"/><text x="125" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Bokføringsforskriften
-    </text>
-    <text x="125" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="125" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Detaljerte krav
-    </text>
-    
-
-    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Oppbevaringsform</text>
-    <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Digital arkivering</text>
-    <text x="20" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">• Sikkerhetskrav</text>
-  </g>
-  
-
-  <path d="M 310 130 L 390 130" fill="none" stroke="#34495e" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
-    </marker>
-  </defs>
-  
-
-  <g transform="translate(150, 220)">
-    <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    </text><text x="20" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Oppbevaringsform</text><text x="20" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Digital arkivering</text><text x="20" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Sikkerhetskrav</text></g><path fill="none" stroke="#34495e" stroke-width="3" marker-end="url(#c)" d="M310 130h80"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#34495e" d="m0 0 10 3.5L0 7z"/></marker></defs><g transform="translate(150 220)"><text x="200" y="20" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Andre relevante lover
-    </text>
-    
-    <rect x="0" y="30" width="120" height="40" fill="#95a5a6" stroke="#7f8c8d" stroke-width="1" rx="5"/>
-    <text x="60" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">MVA-loven</text>
-    <text x="60" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">10 år</text>
-    
-    <rect x="140" y="30" width="120" height="40" fill="#95a5a6" stroke="#7f8c8d" stroke-width="1" rx="5"/>
-    <text x="200" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Regnskapsloven</text>
-    <text x="200" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">10 år årsregnskap</text>
-    
-    <rect x="280" y="30" width="120" height="40" fill="#95a5a6" stroke="#7f8c8d" stroke-width="1" rx="5"/>
-    <text x="340" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Skatteforvaltningsloven</text>
-    <text x="340" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">10 år skatt</text>
-  </g>
-</svg>
+    </text><rect width="120" height="40" y="30" fill="#95a5a6" stroke="#7f8c8d" rx="5"/><text x="60" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">MVA-loven</text><text x="60" y="58" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">10 år</text><rect width="120" height="40" x="140" y="30" fill="#95a5a6" stroke="#7f8c8d" rx="5"/><text x="200" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Regnskapsloven</text><text x="200" y="58" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">10 år årsregnskap</text><rect width="120" height="40" x="280" y="30" fill="#95a5a6" stroke="#7f8c8d" rx="5"/><text x="340" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Skatteforvaltningsloven</text><text x="340" y="58" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">10 år skatt</text></g></svg>

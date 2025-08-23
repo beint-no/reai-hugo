@@ -1,172 +1,67 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#495057;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#343a40;stop-opacity:1" />
-    </linearGradient>
-    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.15"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#495057;stop-opacity:1"/><stop offset="100%" style="stop-color:#343a40;stop-opacity:1"/></linearGradient><filter id="b" width="120%" height="120%" x="-10%" y="-10%"><feDropShadow dx="2" dy="2" flood-color="#000" flood-opacity=".15" stdDeviation="3"/></filter></defs><path fill="#f8f9fa" d="M0 0h800v500H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Praktisk Eksempel: Handelsbedrift AS - Fortjenesteberegning 2023
-  </text>
-  
-
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="300" height="60" fill="#007bff" rx="8" filter="url(#cardShadow)"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="300" height="60" fill="#007bff" filter="url(#b)" rx="8"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       SALGSINNTEKTER
-    </text>
-    <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text><text x="150" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       15 000 000 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(400, 80)">
-    <rect x="0" y="0" width="200" height="60" fill="#dc3545" rx="8" filter="url(#cardShadow)"/>
-    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><g transform="translate(400 80)"><rect width="200" height="60" fill="#dc3545" filter="url(#b)" rx="8"/><text x="100" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       - VAREKOSTNADER
-    </text>
-    <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><text x="100" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       9 000 000 kr
-    </text>
-    <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="100" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       (60% av salg)
-    </text>
-  </g>
-  
-
-  <g transform="translate(650, 80)">
-    <text x="25" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#28a745">
+    </text></g><text x="25" y="40" fill="#28a745" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" transform="translate(650 80)">
       =
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 160)">
-    <rect x="0" y="0" width="300" height="60" fill="#17a2b8" rx="8" filter="url(#cardShadow)"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><g transform="translate(50 160)"><rect width="300" height="60" fill="#17a2b8" filter="url(#b)" rx="8"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       BRUTTOFORTJENESTE
-    </text>
-    <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text><text x="150" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       6 000 000 kr (40%)
-    </text>
-  </g>
-  
-
-  <g transform="translate(400, 160)">
-    <rect x="0" y="0" width="200" height="60" fill="#dc3545" rx="8" filter="url(#cardShadow)"/>
-    <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    </text></g><g transform="translate(400 160)"><rect width="200" height="60" fill="#dc3545" filter="url(#b)" rx="8"/><text x="100" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       - DRIFTSKOSTNADER
-    </text>
-    <text x="100" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="100" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       4 500 000 kr
-    </text>
-    <text x="100" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="100" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Lønn: 3M + Andre: 1.5M
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 240)">
-    <rect x="0" y="0" width="300" height="60" fill="#fd7e14" rx="8" filter="url(#cardShadow)"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 240)"><rect width="300" height="60" fill="#fd7e14" filter="url(#b)" rx="8"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       DRIFTSFORTJENESTE
-    </text>
-    <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text><text x="150" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       1 500 000 kr (10%)
-    </text>
-  </g>
-  
-
-  <g transform="translate(400, 240)">
-    <rect x="0" y="0" width="200" height="60" fill="#dc3545" rx="8" filter="url(#cardShadow)"/>
-    <text x="100" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    </text></g><g transform="translate(400 240)"><rect width="200" height="60" fill="#dc3545" filter="url(#b)" rx="8"/><text x="100" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       - FINANS &amp; SKATT
-    </text>
-    <text x="100" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="100" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       525 000 kr
-    </text>
-    <text x="100" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+    </text><text x="100" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Finans: 200k + Skatt: 325k
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="300" height="60" fill="#28a745" rx="8" filter="url(#cardShadow)"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 320)"><rect width="300" height="60" fill="#28a745" filter="url(#b)" rx="8"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       NETTOFORTJENESTE
-    </text>
-    <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text><text x="150" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       975 000 kr (6,5%)
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 320)">
-    <rect x="0" y="0" width="300" height="120" fill="#ffffff" stroke="#dee2e6" stroke-width="2" rx="8" filter="url(#cardShadow)"/>
-    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+    </text></g><g transform="translate(450 320)"><rect width="300" height="120" fill="#fff" stroke="#dee2e6" stroke-width="2" filter="url(#b)" rx="8"/><text x="150" y="20" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Nøkkeltall Analyse
-    </text>
-    
-    <text x="20" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#17a2b8">
+    </text><text x="20" y="45" fill="#17a2b8" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Bruttomargin: 40%
-    </text>
-    <text x="20" y="60" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="20" y="60" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       God kontroll på varekostnader
-    </text>
-    
-    <text x="20" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fd7e14">
+    </text><text x="20" y="80" fill="#fd7e14" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Driftsmargin: 10%
-    </text>
-    <text x="20" y="95" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="20" y="95" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       Akseptabel operasjonell effektivitet
-    </text>
-    
-    <text x="20" y="115" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+    </text><text x="20" y="115" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Nettomargin: 6,5%
-    </text>
-    <text x="160" y="115" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+    </text><text x="160" y="115" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
       Solid lønnsomhet
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 400)">
-    <rect x="0" y="0" width="700" height="80" fill="#e9ecef" rx="8"/>
-    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+    </text></g><g transform="translate(50 400)"><rect width="700" height="80" fill="#e9ecef" rx="8"/><text x="350" y="20" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Detaljert Kostnadsfordeling
-    </text>
-    
-    <text x="50" y="40" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="50" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       <tspan font-weight="bold">Varekostnader (60%):</tspan> Innkjøp av handelsvarer
-    </text>
-    <text x="50" y="55" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="50" y="55" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       <tspan font-weight="bold">Lønnskostnader (20%):</tspan> Lønn inkl. sosiale kostnader
-    </text>
-    <text x="50" y="70" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="50" y="70" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       <tspan font-weight="bold">Andre driftskost. (10%):</tspan> Husleie, markedsføring, admin
-    </text>
-    
-    <text x="400" y="40" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="400" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       <tspan font-weight="bold">Finanskostnader (1,3%):</tspan> Renter på lån
-    </text>
-    <text x="400" y="55" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="400" y="55" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       <tspan font-weight="bold">Skatter (2,2%):</tspan> Selskapsskatt 22%
-    </text>
-    <text x="400" y="70" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="400" y="70" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       <tspan font-weight="bold">Til eiere (6,5%):</tspan> Utbytte og oppsparing
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

@@ -1,81 +1,25 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Finanskapital
-  </text>
-  
-
-  <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-
-  <text x="400" y="160" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><rect width="700" height="240" x="50" y="120" fill="#fff" stroke="#dee2e6" rx="10"/><text x="400" y="160" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Penger og finansielle instrumenter som kan brukes
-  </text>
-  <text x="400" y="185" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><text x="400" y="185" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     til å finansiere investeringer og drift
-  </text>
-  
-
-
-  <circle cx="150" cy="250" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-  <text x="150" y="255" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="150" cy="250" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="150" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     $
-  </text>
-  <text x="150" y="285" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="150" y="285" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kontanter
-  </text>
-  
-
-  <rect x="275" y="225" width="50" height="50" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="5"/>
-  <text x="300" y="255" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="50" height="50" x="275" y="225" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="5"/><text x="300" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     📊
-  </text>
-  <text x="300" y="285" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="300" y="285" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Verdipapirer
-  </text>
-  
-
-  <rect x="425" y="225" width="50" height="50" fill="#6f42c1" stroke="#5a2d91" stroke-width="2" rx="5"/>
-  <text x="450" y="255" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="50" height="50" x="425" y="225" fill="#6f42c1" stroke="#5a2d91" stroke-width="2" rx="5"/><text x="450" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     🏦
-  </text>
-  <text x="450" y="285" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="450" y="285" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Bankinnskudd
-  </text>
-  
-
-  <circle cx="575" cy="250" r="25" fill="#fd7e14" stroke="#e55a00" stroke-width="2"/>
-  <text x="575" y="255" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="575" cy="250" r="25" fill="#fd7e14" stroke="#e55a00" stroke-width="2"/><text x="575" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     📈
-  </text>
-  <text x="575" y="285" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="575" y="285" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Investeringer
-  </text>
-  
-
-  <line x1="175" y1="250" x2="275" y2="250" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="325" y1="250" x2="425" y2="250" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="475" y1="250" x2="550" y2="250" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <text x="400" y="330" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+  </text><path stroke="#6c757d" stroke-dasharray="5,5" stroke-width="2" d="M175 250h100M325 250h100M475 250h75"/><text x="400" y="330" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Likvide ressurser for finansiering og vekst
-  </text>
-</svg>
+  </text></svg>

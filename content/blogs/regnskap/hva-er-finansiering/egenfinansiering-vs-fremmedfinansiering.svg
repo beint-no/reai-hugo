@@ -1,190 +1,81 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="equityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="debtGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fff3e0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffe0b2;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff3e0;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffe0b2;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Egenfinansiering vs Fremmedfinansiering
-  </text>
-  
-
-  <rect x="50" y="70" width="320" height="500" fill="url(#equityGradient)" stroke="#4caf50" stroke-width="3" rx="10"/>
-  
-
-  <rect x="70" y="90" width="280" height="40" fill="#4caf50" rx="5"/>
-  <text x="210" y="115" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="500" x="50" y="70" fill="url(#b)" stroke="#4caf50" stroke-width="3" rx="10"/><rect width="280" height="40" x="70" y="90" fill="#4caf50" rx="5"/><text x="210" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     EGENFINANSIERING
-  </text>
-  
-
-  <text x="210" y="155" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+  </text><text x="210" y="155" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kapital fra eierne
-  </text>
-  
-
-  <text x="80" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
+  </text><text x="80" y="185" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Hovedtyper:
-  </text>
-  <circle cx="90" cy="205" r="4" fill="#4caf50"/>
-  <text x="105" y="210" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><circle cx="90" cy="205" r="4" fill="#4caf50"/><text x="105" y="210" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Aksjekapital
-  </text>
-  <circle cx="90" cy="225" r="4" fill="#4caf50"/>
-  <text x="105" y="230" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><circle cx="90" cy="225" r="4" fill="#4caf50"/><text x="105" y="230" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Tilbakeholdt overskudd
-  </text>
-  <circle cx="90" cy="245" r="4" fill="#4caf50"/>
-  <text x="105" y="250" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><circle cx="90" cy="245" r="4" fill="#4caf50"/><text x="105" y="250" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Egenkapitaltilskudd
-  </text>
-  
-
-  <text x="80" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
+  </text><text x="80" y="285" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Fordeler:
-  </text>
-  <text x="90" y="305" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="90" y="305" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Ingen rentekostnader
-  </text>
-  <text x="90" y="320" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="90" y="320" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Økt finansiell stabilitet
-  </text>
-  <text x="90" y="335" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="90" y="335" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Større fleksibilitet
-  </text>
-  <text x="90" y="350" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="90" y="350" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Bedre kredittrating
-  </text>
-  
-
-  <text x="80" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
+  </text><text x="80" y="385" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Ulemper:
-  </text>
-  <text x="90" y="405" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="90" y="405" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Utvanning av eierskap
-  </text>
-  <text x="90" y="420" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="90" y="420" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Høyere kapitalkostnad
-  </text>
-  <text x="90" y="435" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="90" y="435" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Begrenset tilgang
-  </text>
-  <text x="90" y="450" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="90" y="450" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Potensielt tap av kontroll
-  </text>
-  
-
-  <rect x="80" y="480" width="260" height="70" fill="white" stroke="#4caf50" stroke-width="1" rx="5"/>
-  <text x="210" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+  </text><rect width="260" height="70" x="80" y="480" fill="#fff" stroke="#4caf50" rx="5"/><text x="210" y="500" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Karakteristika
-  </text>
-  <text x="90" y="520" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="90" y="520" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Ingen tilbakebetalingsplikt
-  </text>
-  <text x="90" y="535" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="90" y="535" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Eierrettigheter og stemmerett
-  </text>
-  
-
-  <rect x="430" y="70" width="320" height="500" fill="url(#debtGradient)" stroke="#ff9800" stroke-width="3" rx="10"/>
-  
-
-  <rect x="450" y="90" width="280" height="40" fill="#ff9800" rx="5"/>
-  <text x="590" y="115" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="500" x="430" y="70" fill="url(#c)" stroke="#ff9800" stroke-width="3" rx="10"/><rect width="280" height="40" x="450" y="90" fill="#ff9800" rx="5"/><text x="590" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     FREMMEDFINANSIERING
-  </text>
-  
-
-  <text x="590" y="155" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e65100">
+  </text><text x="590" y="155" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Lån av kapital
-  </text>
-  
-
-  <text x="460" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
+  </text><text x="460" y="185" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Hovedtyper:
-  </text>
-  <circle cx="470" cy="205" r="4" fill="#ff9800"/>
-  <text x="485" y="210" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><circle cx="470" cy="205" r="4" fill="#ff9800"/><text x="485" y="210" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Banklån
-  </text>
-  <circle cx="470" cy="225" r="4" fill="#ff9800"/>
-  <text x="485" y="230" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><circle cx="470" cy="225" r="4" fill="#ff9800"/><text x="485" y="230" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Obligasjoner
-  </text>
-  <circle cx="470" cy="245" r="4" fill="#ff9800"/>
-  <text x="485" y="250" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><circle cx="470" cy="245" r="4" fill="#ff9800"/><text x="485" y="250" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Leverandørkreditt
-  </text>
-  
-
-  <text x="460" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
+  </text><text x="460" y="285" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Fordeler:
-  </text>
-  <text x="470" y="305" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="470" y="305" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Beholder eierskap
-  </text>
-  <text x="470" y="320" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="470" y="320" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Skattefradrag for renter
-  </text>
-  <text x="470" y="335" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="470" y="335" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Lavere kapitalkostnad
-  </text>
-  <text x="470" y="350" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="470" y="350" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Større tilgang på kapital
-  </text>
-  
-
-  <text x="460" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
+  </text><text x="460" y="385" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Ulemper:
-  </text>
-  <text x="470" y="405" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="470" y="405" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Faste rentekostnader
-  </text>
-  <text x="470" y="420" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="470" y="420" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Økt finansiell risiko
-  </text>
-  <text x="470" y="435" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="470" y="435" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Krav til sikkerhet
-  </text>
-  <text x="470" y="450" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="470" y="450" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Lånebetingelser
-  </text>
-  
-
-  <rect x="460" y="480" width="260" height="70" fill="white" stroke="#ff9800" stroke-width="1" rx="5"/>
-  <text x="590" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#e65100">
+  </text><rect width="260" height="70" x="460" y="480" fill="#fff" stroke="#ff9800" rx="5"/><text x="590" y="500" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Karakteristika
-  </text>
-  <text x="470" y="520" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="470" y="520" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Tilbakebetalingsplikt med renter
-  </text>
-  <text x="470" y="535" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="470" y="535" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Ingen eierrettigheter
-  </text>
-  
-
-  <path d="M 380 300 L 420 300" stroke="#666" stroke-width="3" fill="none"/>
-  <polygon points="420,295 430,300 420,305" fill="#666"/>
-  <path d="M 420 320 L 380 320" stroke="#666" stroke-width="3" fill="none"/>
-  <polygon points="380,315 370,320 380,325" fill="#666"/>
-  
-
-  <circle cx="400" cy="310" r="25" fill="white" stroke="#666" stroke-width="2"/>
-  <text x="400" y="318" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#666">
+  </text><path fill="none" stroke="#666" stroke-width="3" d="M380 300h40"/><path fill="#666" d="m420 295 10 5-10 5z"/><path fill="none" stroke="#666" stroke-width="3" d="M420 320h-40"/><path fill="#666" d="m380 315-10 5 10 5z"/><circle cx="400" cy="310" r="25" fill="#fff" stroke="#666" stroke-width="2"/><text x="400" y="318" fill="#666" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     VS
-  </text>
-</svg>
+  </text></svg>

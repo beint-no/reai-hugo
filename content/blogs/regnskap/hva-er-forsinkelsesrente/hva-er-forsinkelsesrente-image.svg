@@ -1,69 +1,23 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  <text x="400" y="45" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Hva er Forsinkelsesrente?
-  </text>
-  
-
-  <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-
-  <text x="400" y="150" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><rect width="700" height="240" x="50" y="120" fill="#fff" stroke="#dee2e6" rx="10"/><text x="400" y="150" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Lovpålagt rente ved forsinket betaling
-  </text>
-  
-
-  <circle cx="120" cy="190" r="8" fill="#0066cc"/>
-  <text x="140" y="195" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="120" cy="190" r="8" fill="#06c"/><text x="140" y="195" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Påløper automatisk fra forfallsdato
-  </text>
-  
-  <circle cx="120" cy="220" r="8" fill="#0066cc"/>
-  <text x="140" y="225" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="120" cy="220" r="8" fill="#06c"/><text x="140" y="225" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Referanserente + 8% (B2B) eller + 5% (B2C)
-  </text>
-  
-  <circle cx="120" cy="250" r="8" fill="#0066cc"/>
-  <text x="140" y="255" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="120" cy="250" r="8" fill="#06c"/><text x="140" y="255" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Regulert av forsinkelsesrenteloven
-  </text>
-  
-  <circle cx="120" cy="280" r="8" fill="#0066cc"/>
-  <text x="140" y="285" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="120" cy="280" r="8" fill="#06c"/><text x="140" y="285" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Gjelder alle pengefordringer
-  </text>
-  
-
-  <rect x="500" y="170" width="250" height="120" fill="#f8f9fa" stroke="#0066cc" stroke-width="2" rx="5"/>
-  <text x="625" y="190" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="250" height="120" x="500" y="170" fill="#f8f9fa" stroke="#06c" stroke-width="2" rx="5"/><text x="625" y="190" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Eksempel 2024
-  </text>
-  <text x="625" y="210" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="625" y="210" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Hovedstol: 50 000 kr
-  </text>
-  <text x="625" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="625" y="225" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Forsinkelse: 30 dager
-  </text>
-  <text x="625" y="240" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="625" y="240" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Rentesats: 12,50%
-  </text>
-  <line x1="510" y1="250" x2="740" y2="250" stroke="#0066cc" stroke-width="1"/>
-  <text x="625" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#d63384">
+  </text><path stroke="#06c" d="M510 250h230"/><text x="625" y="270" fill="#d63384" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Forsinkelsesrente: 513 kr
-  </text>
-</svg>
+  </text></svg>

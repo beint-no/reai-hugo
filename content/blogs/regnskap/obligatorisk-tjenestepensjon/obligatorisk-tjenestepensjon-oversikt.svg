@@ -1,153 +1,63 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="employerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="employeeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Oversikt over Obligatorisk Tjenestepensjon
-  </text>
-  
-
-  <rect x="50" y="70" width="300" height="180" fill="url(#employerGradient)" rx="10"/>
-  <text x="200" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="180" x="50" y="70" fill="url(#b)" rx="10"/><text x="200" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     ARBEIDSGIVER
-  </text>
-  
-
-  <text x="70" y="120" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="70" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     Plikter:
-  </text>
-  <text x="70" y="140" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Etablere pensjonsordning
-  </text>
-  <text x="70" y="155" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Betale pensjonspremie
-  </text>
-  <text x="70" y="170" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Regnskapsføring
-  </text>
-  <text x="70" y="185" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Rapportering
-  </text>
-  
-
-  <text x="70" y="210" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="70" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     Minimumskrav:
-  </text>
-  <text x="70" y="230" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • 2% av lønn (1-7,1G)
-  </text>
-  <text x="70" y="245" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • 5% av lønn (7,1-12G)
-  </text>
-  
-
-  <rect x="450" y="70" width="300" height="180" fill="url(#employeeGradient)" rx="10"/>
-  <text x="600" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="180" x="450" y="70" fill="url(#c)" rx="10"/><text x="600" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     ANSATTE
-  </text>
-  
-
-  <text x="470" y="120" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="470" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     Omfattet:
-  </text>
-  <text x="470" y="140" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="470" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Alder: 20-62 år
-  </text>
-  <text x="470" y="155" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="470" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Minimum 20% stilling
-  </text>
-  <text x="470" y="170" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="470" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • 12 måneders ansettelse
-  </text>
-  
-
-  <text x="470" y="195" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="470" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     Rettigheter:
-  </text>
-  <text x="470" y="215" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="470" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Pensjonsopptjening
-  </text>
-  <text x="470" y="230" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="470" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Portabilitet
-  </text>
-  <text x="470" y="245" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="470" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Informasjon om ordning
-  </text>
-  
-
-  <path d="M 360 160 L 440 160" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="50" y="280" width="700" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
-  <text x="400" y="305" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#d)" d="M360 160h80"/><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="700" height="120" x="50" y="280" fill="#fff" stroke="#dee2e6" rx="8"/><text x="400" y="305" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Typer Pensjonsordninger
-  </text>
-  
-
-  <rect x="80" y="320" width="200" height="60" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
-  <text x="180" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><rect width="200" height="60" x="80" y="320" fill="#e3f2fd" stroke="#2196f3" rx="5"/><text x="180" y="340" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Innskuddspensjon
-  </text>
-  <text x="180" y="355" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+  </text><text x="180" y="355" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Forutsigbare kostnader
-  </text>
-  <text x="180" y="370" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#1976d2">
+  </text><text x="180" y="370" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Enkel administrasjon
-  </text>
-  
-
-  <rect x="300" y="320" width="200" height="60" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="5"/>
-  <text x="400" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+  </text><rect width="200" height="60" x="300" y="320" fill="#f3e5f5" stroke="#9c27b0" rx="5"/><text x="400" y="340" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ytelsespensjon
-  </text>
-  <text x="400" y="355" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+  </text><text x="400" y="355" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Garantert ytelse
-  </text>
-  <text x="400" y="370" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#7b1fa2">
+  </text><text x="400" y="370" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Kompleks regnskapsføring
-  </text>
-  
-
-  <rect x="520" y="320" width="200" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="5"/>
-  <text x="620" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">
+  </text><rect width="200" height="60" x="520" y="320" fill="#fff3e0" stroke="#ff9800" rx="5"/><text x="620" y="340" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Hybridordninger
-  </text>
-  <text x="620" y="355" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">
+  </text><text x="620" y="355" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Kombinerte løsninger
-  </text>
-  <text x="620" y="370" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#f57c00">
+  </text><text x="620" y="370" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Fleksible alternativer
-  </text>
-  
-
-  <rect x="50" y="420" width="700" height="60" fill="#ffebee" stroke="#f44336" stroke-width="1" rx="8"/>
-  <text x="400" y="440" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#d32f2f">
+  </text><rect width="700" height="60" x="50" y="420" fill="#ffebee" stroke="#f44336" rx="8"/><text x="400" y="440" fill="#d32f2f" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Sanksjoner ved Manglende Etterlevelse
-  </text>
-  <text x="400" y="460" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#d32f2f">
+  </text><text x="400" y="460" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Dagmulkt inntil kr 50 000 • Overtredelsesgebyr inntil kr 10 millioner • Erstatningsansvar
-  </text>
-</svg>
+  </text></svg>

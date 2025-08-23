@@ -1,119 +1,27 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fremmedkapitalens Komponenter i Balansen
-  </text>
-  
-
-  <g transform="translate(100, 60)">
-
-    <rect x="0" y="0" width="600" height="400" fill="white" stroke="#34495e" stroke-width="2" rx="10"/>
-    
-
-    <rect x="20" y="20" width="560" height="40" fill="#34495e" rx="5"/>
-    <text x="300" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(100 60)"><rect width="600" height="400" fill="#fff" stroke="#34495e" stroke-width="2" rx="10"/><rect width="560" height="40" x="20" y="20" fill="#34495e" rx="5"/><text x="300" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       BALANSE - GJELD OG EGENKAPITAL
-    </text>
-    
-
-    <rect x="40" y="80" width="520" height="140" fill="#e74c3c" fill-opacity="0.1" stroke="#e74c3c" stroke-width="2" rx="5"/>
-    <text x="60" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#c0392b">
+    </text><rect width="520" height="140" x="40" y="80" fill="#e74c3c" fill-opacity=".1" stroke="#e74c3c" stroke-width="2" rx="5"/><text x="60" y="105" fill="#c0392b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       KORTSIKTIG GJELD (Forfaller innen 1 år)
-    </text>
-    
-
-    <g transform="translate(80, 120)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" fill="#34495e">• Leverandørgjeld</text>
-      <text x="300" y="0" font-family="Arial, sans-serif" font-size="14" fill="#34495e">150 000 kr</text>
-      
-      <text x="0" y="25" font-family="Arial, sans-serif" font-size="14" fill="#34495e">• Kassekreditt</text>
-      <text x="300" y="25" font-family="Arial, sans-serif" font-size="14" fill="#34495e">100 000 kr</text>
-      
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="14" fill="#34495e">• Skyldig MVA</text>
-      <text x="300" y="50" font-family="Arial, sans-serif" font-size="14" fill="#34495e">75 000 kr</text>
-      
-      <text x="0" y="75" font-family="Arial, sans-serif" font-size="14" fill="#34495e">• Annen kortsiktig gjeld</text>
-      <text x="300" y="75" font-family="Arial, sans-serif" font-size="14" fill="#34495e">50 000 kr</text>
-    </g>
-    
-
-    <rect x="400" y="200" width="140" height="20" fill="#c0392b" fill-opacity="0.2"/>
-    <text x="470" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#c0392b">
+    </text><g fill="#34495e" font-family="Arial, sans-serif" font-size="14"><text transform="translate(80 120)">• Leverandørgjeld</text><text x="300" transform="translate(80 120)">150 000 kr</text><text y="25" transform="translate(80 120)">• Kassekreditt</text><text x="300" y="25" transform="translate(80 120)">100 000 kr</text><text y="50" transform="translate(80 120)">• Skyldig MVA</text><text x="300" y="50" transform="translate(80 120)">75 000 kr</text><text y="75" transform="translate(80 120)">• Annen kortsiktig gjeld</text><text x="300" y="75" transform="translate(80 120)">50 000 kr</text></g><path fill="#c0392b" fill-opacity=".2" d="M400 200h140v20H400z"/><text x="470" y="215" fill="#c0392b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       375 000 kr
-    </text>
-    
-
-    <rect x="40" y="240" width="520" height="100" fill="#8e44ad" fill-opacity="0.1" stroke="#8e44ad" stroke-width="2" rx="5"/>
-    <text x="60" y="265" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7d3c98">
+    </text><rect width="520" height="100" x="40" y="240" fill="#8e44ad" fill-opacity=".1" stroke="#8e44ad" stroke-width="2" rx="5"/><text x="60" y="265" fill="#7d3c98" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       LANGSIKTIG GJELD (Forfaller etter 1 år)
-    </text>
-    
-
-    <g transform="translate(80, 280)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" fill="#34495e">• Banklån maskiner</text>
-      <text x="300" y="0" font-family="Arial, sans-serif" font-size="14" fill="#34495e">500 000 kr</text>
-      
-      <text x="0" y="25" font-family="Arial, sans-serif" font-size="14" fill="#34495e">• Byggelån</text>
-      <text x="300" y="25" font-family="Arial, sans-serif" font-size="14" fill="#34495e">800 000 kr</text>
-      
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="14" fill="#34495e">• Obligasjonslån</text>
-      <text x="300" y="50" font-family="Arial, sans-serif" font-size="14" fill="#34495e">300 000 kr</text>
-    </g>
-    
-
-    <rect x="400" y="320" width="140" height="20" fill="#7d3c98" fill-opacity="0.2"/>
-    <text x="470" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7d3c98">
+    </text><g fill="#34495e" font-family="Arial, sans-serif" font-size="14"><text transform="translate(80 280)">• Banklån maskiner</text><text x="300" transform="translate(80 280)">500 000 kr</text><text y="25" transform="translate(80 280)">• Byggelån</text><text x="300" y="25" transform="translate(80 280)">800 000 kr</text><text y="50" transform="translate(80 280)">• Obligasjonslån</text><text x="300" y="50" transform="translate(80 280)">300 000 kr</text></g><path fill="#7d3c98" fill-opacity=".2" d="M400 320h140v20H400z"/><text x="470" y="335" fill="#7d3c98" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       1 600 000 kr
-    </text>
-    
-
-    <rect x="40" y="360" width="520" height="30" fill="#e74c3c" fill-opacity="0.3" stroke="#e74c3c" stroke-width="3" rx="5"/>
-    <text x="80" y="380" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#c0392b">
+    </text><rect width="520" height="30" x="40" y="360" fill="#e74c3c" fill-opacity=".3" stroke="#e74c3c" stroke-width="3" rx="5"/><text x="80" y="380" fill="#c0392b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       TOTAL FREMMEDKAPITAL
-    </text>
-    <text x="470" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#c0392b">
+    </text><text x="470" y="380" fill="#c0392b" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       1 975 000 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(20, 200)">
-
-    <path d="M 0 0 L 60 0" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowhead-red)"/>
-    <text x="-10" y="-10" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#c0392b">
+    </text></g><path stroke="#e74c3c" stroke-width="2" marker-end="url(#a)" d="M0 0h60" transform="translate(20 200)"/><text x="-10" y="-10" fill="#c0392b" font-family="Arial, sans-serif" font-size="12" text-anchor="end" transform="translate(20 200)">
       Må betales
-    </text>
-    <text x="-10" y="5" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#c0392b">
+    </text><text x="-10" y="5" fill="#c0392b" font-family="Arial, sans-serif" font-size="12" text-anchor="end" transform="translate(20 200)">
       innen 1 år
-    </text>
-  </g>
-  
-  <g transform="translate(20, 300)">
-
-    <path d="M 0 0 L 60 0" stroke="#8e44ad" stroke-width="2" marker-end="url(#arrowhead-purple)"/>
-    <text x="-10" y="-10" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7d3c98">
+    </text><path stroke="#8e44ad" stroke-width="2" marker-end="url(#b)" d="M0 0h60" transform="translate(20 300)"/><text x="-10" y="-10" fill="#7d3c98" font-family="Arial, sans-serif" font-size="12" text-anchor="end" transform="translate(20 300)">
       Må betales
-    </text>
-    <text x="-10" y="5" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7d3c98">
+    </text><text x="-10" y="5" fill="#7d3c98" font-family="Arial, sans-serif" font-size="12" text-anchor="end" transform="translate(20 300)">
       etter 1 år
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead-red" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
-    </marker>
-    <marker id="arrowhead-purple" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#8e44ad"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
+    </text><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#e74c3c" d="m0 0 10 3.5L0 7z"/></marker><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#8e44ad" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="480" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Fremmedkapital = Kortsiktig gjeld + Langsiktig gjeld
-  </text>
-</svg>
+  </text></svg>

@@ -1,171 +1,39 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="rawMaterialGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="wipGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="finishedGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="spareGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:.8"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:.8"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:.8"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:.8"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:.8"/><stop offset="100%" style="stop-color:#5a32a3;stop-opacity:.8"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Typer Lagerbeholdning
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="150" height="120" fill="url(#rawMaterialGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="150" height="120" fill="url(#a)" stroke="#1e7e34" stroke-width="2" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Råvarer og
-    </text>
-    <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Materialer
-    </text>
-    
-
-    <circle cx="35" cy="75" r="12" fill="#ffffff" opacity="0.8"/>
-    <rect x="60" y="63" width="24" height="24" fill="#ffffff" opacity="0.8"/>
-    <polygon points="100,63 124,63 112,87" fill="#ffffff" opacity="0.8"/>
-    
-    <text x="75" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><circle cx="35" cy="75" r="12" fill="#fff" opacity=".8"/><path fill="#fff" d="M60 63h24v24H60zM100 63h24l-12 24z" opacity=".8"/><text x="75" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Grunnmaterialer for produksjon
-    </text>
-  </g>
-  
-
-  <g transform="translate(250, 80)">
-    <rect x="0" y="0" width="150" height="120" fill="url(#wipGradient)" stroke="#e0a800" stroke-width="2" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(250 80)"><rect width="150" height="120" fill="url(#b)" stroke="#e0a800" stroke-width="2" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Varer under
-    </text>
-    <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Arbeid (VUA)
-    </text>
-    
-
-    <rect x="25" y="65" width="30" height="20" fill="#ffffff" opacity="0.8"/>
-    <rect x="25" y="65" width="15" height="20" fill="#e0a800"/>
-    
-    <rect x="70" y="65" width="30" height="20" fill="#ffffff" opacity="0.8"/>
-    <rect x="70" y="65" width="20" height="20" fill="#e0a800"/>
-    
-    <rect x="115" y="65" width="30" height="20" fill="#ffffff" opacity="0.8"/>
-    <rect x="115" y="65" width="10" height="20" fill="#e0a800"/>
-    
-    <text x="75" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><path fill="#fff" d="M25 65h30v20H25z" opacity=".8"/><path fill="#e0a800" d="M25 65h15v20H25z"/><path fill="#fff" d="M70 65h30v20H70z" opacity=".8"/><path fill="#e0a800" d="M70 65h20v20H70z"/><path fill="#fff" d="M115 65h30v20h-30z" opacity=".8"/><path fill="#e0a800" d="M115 65h10v20h-10z"/><text x="75" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Delvis ferdigstilte produkter
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 80)">
-    <rect x="0" y="0" width="150" height="120" fill="url(#finishedGradient)" stroke="#0056b3" stroke-width="2" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(450 80)"><rect width="150" height="120" fill="url(#c)" stroke="#0056b3" stroke-width="2" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Ferdigvarer
-    </text>
-    
-
-    <rect x="20" y="55" width="25" height="25" fill="#ffffff" opacity="0.9" rx="3"/>
-    <rect x="55" y="55" width="25" height="25" fill="#ffffff" opacity="0.9" rx="3"/>
-    <rect x="90" y="55" width="25" height="25" fill="#ffffff" opacity="0.9" rx="3"/>
-    <rect x="125" y="55" width="25" height="25" fill="#ffffff" opacity="0.9" rx="3"/>
-    
-
-    <text x="32" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745">✓</text>
-    <text x="67" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745">✓</text>
-    <text x="102" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745">✓</text>
-    <text x="137" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745">✓</text>
-    
-    <text x="75" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><rect width="25" height="25" x="20" y="55" fill="#fff" opacity=".9" rx="3"/><rect width="25" height="25" x="55" y="55" fill="#fff" opacity=".9" rx="3"/><rect width="25" height="25" x="90" y="55" fill="#fff" opacity=".9" rx="3"/><rect width="25" height="25" x="125" y="55" fill="#fff" opacity=".9" rx="3"/><text x="32" y="72" fill="#28a745" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">✓</text><text x="67" y="72" fill="#28a745" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">✓</text><text x="102" y="72" fill="#28a745" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">✓</text><text x="137" y="72" fill="#28a745" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">✓</text><text x="75" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Komplette produkter klare for salg
-    </text>
-  </g>
-  
-
-  <g transform="translate(150, 250)">
-    <rect x="0" y="0" width="150" height="120" fill="url(#spareGradient)" stroke="#5a32a3" stroke-width="2" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(150 250)"><rect width="150" height="120" fill="url(#d)" stroke="#5a32a3" stroke-width="2" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Reservedeler og
-    </text>
-    <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Vedlikeholdsmaterialer
-    </text>
-    
-
-    <circle cx="40" cy="75" r="8" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.8"/>
-    <rect x="60" y="67" width="16" height="16" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.8"/>
-    <polygon points="90,67 106,67 98,83" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.8"/>
-    
-    <text x="75" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><circle cx="40" cy="75" r="8" fill="none" stroke="#fff" stroke-width="2" opacity=".8"/><path fill="none" stroke="#fff" stroke-width="2" d="M60 67h16v16H60zM90 67h16l-8 16z" opacity=".8"/><text x="75" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       For vedlikehold og reparasjoner
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 250)">
-    <rect x="0" y="0" width="150" height="120" fill="#6c757d" stroke="#495057" stroke-width="2" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(450 250)"><rect width="150" height="120" fill="#6c757d" stroke="#495057" stroke-width="2" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       MRO-varer
-    </text>
-    <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       (Maintenance, Repair,
-    </text>
-    <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="75" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Operations)
-    </text>
-    
-
-    <rect x="25" y="75" width="12" height="12" fill="#ffffff" opacity="0.8"/>
-    <rect x="45" y="75" width="12" height="12" fill="#ffffff" opacity="0.8"/>
-    <rect x="65" y="75" width="12" height="12" fill="#ffffff" opacity="0.8"/>
-    <rect x="85" y="75" width="12" height="12" fill="#ffffff" opacity="0.8"/>
-    <rect x="105" y="75" width="12" height="12" fill="#ffffff" opacity="0.8"/>
-    <rect x="125" y="75" width="12" height="12" fill="#ffffff" opacity="0.8"/>
-    
-    <text x="75" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><path fill="#fff" d="M25 75h12v12H25zM45 75h12v12H45zM65 75h12v12H65zM85 75h12v12H85zM105 75h12v12h-12zM125 75h12v12h-12z" opacity=".8"/><text x="75" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Forbruksvarer og verktøy
-    </text>
-  </g>
-  
-
-  <g stroke="#495057" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
-    <defs>
-      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-        <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-      </marker>
-    </defs>
-    
-
-    <path d="M 200 140 Q 225 140 250 140"/>
-    
-
-    <path d="M 400 140 Q 425 140 450 140"/>
-  </g>
-  
-
-  <g transform="translate(50, 420)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+    </text></g><g fill="none" stroke="#495057" stroke-width="2" marker-end="url(#e)"><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs><path d="M200 140h50"/><path d="M400 140h50"/></g><g font-family="Arial, sans-serif"><text fill="#495057" font-size="14" font-weight="bold" transform="translate(50 420)">
       Produksjonsflyt:
-    </text>
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    </text><text y="20" fill="#6c757d" font-size="12" transform="translate(50 420)">
       Råvarer → Varer under arbeid → Ferdigvarer
-    </text>
-    <text x="0" y="40" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    </text><text y="40" fill="#6c757d" font-size="12" transform="translate(50 420)">
       Reservedeler og MRO-varer støtter produksjonsprosessen
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

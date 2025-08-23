@@ -1,221 +1,39 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="retailGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#E91E63;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#AD1457;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="itGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="manufacturingGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e91e63;stop-opacity:1"/><stop offset="100%" style="stop-color:#ad1457;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Driftsinntekter - Bransjeeksempler
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="220" height="280" rx="10" fill="url(#retailGradient)" opacity="0.9"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="220" height="280" fill="url(#a)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Detaljhandel
-    </text>
-    <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="110" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Klesbutikk
-    </text>
-    
-
-    <g transform="translate(15, 65)">
-      <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><g transform="translate(15 65)"><text y="15" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Driftsinntekter 2024:
-      </text>
-      
-
-      <rect x="0" y="25" width="190" height="25" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="42" font-family="Arial, sans-serif" font-size="12" fill="white">Salg av klær</text>
-      <text x="150" y="42" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2 500 000</text>
-      
-      <rect x="0" y="55" width="190" height="25" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="72" font-family="Arial, sans-serif" font-size="12" fill="white">Salg av tilbehør</text>
-      <text x="150" y="72" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">300 000</text>
-      
-      <rect x="0" y="85" width="190" height="25" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="102" font-family="Arial, sans-serif" font-size="12" fill="white">Alterasjonstjenester</text>
-      <text x="150" y="102" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">50 000</text>
-      
-
-      <line x1="0" y1="120" x2="190" y2="120" stroke="white" stroke-width="2"/>
-      <text x="10" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Total driftsinntekter</text>
-      <text x="150" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">2 850 000</text>
-      
-
-      <text x="0" y="165" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="190" height="25" y="25" fill="#fff" opacity=".2" rx="5"/><text x="10" y="42" fill="#fff" font-family="Arial, sans-serif" font-size="12">Salg av klær</text><text x="150" y="42" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2 500 000</text><rect width="190" height="25" y="55" fill="#fff" opacity=".2" rx="5"/><text x="10" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="12">Salg av tilbehør</text><text x="150" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">300 000</text><rect width="190" height="25" y="85" fill="#fff" opacity=".2" rx="5"/><text x="10" y="102" fill="#fff" font-family="Arial, sans-serif" font-size="12">Alterasjonstjenester</text><text x="150" y="102" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">50 000</text><path stroke="#fff" stroke-width="2" d="M0 120h190"/><text x="10" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Total driftsinntekter</text><text x="150" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">2 850 000</text><text y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Ikke-driftsinntekter:
-      </text>
-      <text x="10" y="180" font-family="Arial, sans-serif" font-size="11" fill="white">• Renteinntekter: 15 000</text>
-      <text x="10" y="195" font-family="Arial, sans-serif" font-size="11" fill="white">• Gevinst salg utstyr: 25 000</text>
-      
-
-      <text x="0" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Renteinntekter: 15 000</text><text x="10" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Gevinst salg utstyr: 25 000</text><text y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Kjennetegn:
-      </text>
-      <text x="10" y="235" font-family="Arial, sans-serif" font-size="11" fill="white">• Sesongvariasjoner</text>
-      <text x="10" y="250" font-family="Arial, sans-serif" font-size="11" fill="white">• Fysiske varer</text>
-      <text x="10" y="265" font-family="Arial, sans-serif" font-size="11" fill="white">• Direkte kundesalg</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(290, 80)">
-    <rect x="0" y="0" width="220" height="280" rx="10" fill="url(#itGradient)" opacity="0.9"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="10" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Sesongvariasjoner</text><text x="10" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Fysiske varer</text><text x="10" y="265" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Direkte kundesalg</text></g></g><g transform="translate(290 80)"><rect width="220" height="280" fill="url(#b)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       IT-Konsulent
-    </text>
-    <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="110" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Teknologiselskap
-    </text>
-    
-
-    <g transform="translate(15, 65)">
-      <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><g transform="translate(15 65)"><text y="15" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Driftsinntekter 2024:
-      </text>
-      
-
-      <rect x="0" y="25" width="190" height="25" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="42" font-family="Arial, sans-serif" font-size="12" fill="white">Konsulenthonorar</text>
-      <text x="150" y="42" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1 800 000</text>
-      
-      <rect x="0" y="55" width="190" height="25" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="72" font-family="Arial, sans-serif" font-size="12" fill="white">Software-lisenser</text>
-      <text x="150" y="72" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">600 000</text>
-      
-      <rect x="0" y="85" width="190" height="25" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="102" font-family="Arial, sans-serif" font-size="12" fill="white">Support og vedlikehold</text>
-      <text x="150" y="102" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">400 000</text>
-      
-      <rect x="0" y="115" width="190" height="25" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="132" font-family="Arial, sans-serif" font-size="12" fill="white">Opplæring</text>
-      <text x="150" y="132" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">200 000</text>
-      
-
-      <line x1="0" y1="150" x2="190" y2="150" stroke="white" stroke-width="2"/>
-      <text x="10" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Total driftsinntekter</text>
-      <text x="150" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">3 000 000</text>
-      
-
-      <text x="0" y="195" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="190" height="25" y="25" fill="#fff" opacity=".2" rx="5"/><text x="10" y="42" fill="#fff" font-family="Arial, sans-serif" font-size="12">Konsulenthonorar</text><text x="150" y="42" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">1 800 000</text><rect width="190" height="25" y="55" fill="#fff" opacity=".2" rx="5"/><text x="10" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="12">Software-lisenser</text><text x="150" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">600 000</text><rect width="190" height="25" y="85" fill="#fff" opacity=".2" rx="5"/><text x="10" y="102" fill="#fff" font-family="Arial, sans-serif" font-size="12">Support og vedlikehold</text><text x="150" y="102" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">400 000</text><rect width="190" height="25" y="115" fill="#fff" opacity=".2" rx="5"/><text x="10" y="132" fill="#fff" font-family="Arial, sans-serif" font-size="12">Opplæring</text><text x="150" y="132" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">200 000</text><path stroke="#fff" stroke-width="2" d="M0 150h190"/><text x="10" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Total driftsinntekter</text><text x="150" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">3 000 000</text><text y="195" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Kjennetegn:
-      </text>
-      <text x="10" y="210" font-family="Arial, sans-serif" font-size="11" fill="white">• Tjenesteinntekter</text>
-      <text x="10" y="225" font-family="Arial, sans-serif" font-size="11" fill="white">• Abonnementsmodeller</text>
-      <text x="10" y="240" font-family="Arial, sans-serif" font-size="11" fill="white">• Kunnskapsbasert</text>
-      <text x="10" y="255" font-family="Arial, sans-serif" font-size="11" fill="white">• Langsiktige kontrakter</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(530, 80)">
-    <rect x="0" y="0" width="220" height="280" rx="10" fill="url(#manufacturingGradient)" opacity="0.9"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="10" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Tjenesteinntekter</text><text x="10" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Abonnementsmodeller</text><text x="10" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Kunnskapsbasert</text><text x="10" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Langsiktige kontrakter</text></g></g><g transform="translate(530 80)"><rect width="220" height="280" fill="url(#c)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Produksjon
-    </text>
-    <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="110" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Møbelprodusent
-    </text>
-    
-
-    <g transform="translate(15, 65)">
-      <text x="0" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><g transform="translate(15 65)"><text y="15" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Driftsinntekter 2024:
-      </text>
-      
-
-      <rect x="0" y="25" width="190" height="25" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="42" font-family="Arial, sans-serif" font-size="12" fill="white">Kontormøbler (60%)</text>
-      <text x="150" y="42" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4 500 000</text>
-      
-      <rect x="0" y="55" width="190" height="25" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="72" font-family="Arial, sans-serif" font-size="12" fill="white">Hjemmemøbler (30%)</text>
-      <text x="150" y="72" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2 250 000</text>
-      
-      <rect x="0" y="85" width="190" height="25" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="102" font-family="Arial, sans-serif" font-size="12" fill="white">Spesialtilpassede (10%)</text>
-      <text x="150" y="102" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">750 000</text>
-      
-
-      <line x1="0" y1="120" x2="190" y2="120" stroke="white" stroke-width="2"/>
-      <text x="10" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Total driftsinntekter</text>
-      <text x="150" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">7 500 000</text>
-      
-
-      <text x="0" y="165" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="190" height="25" y="25" fill="#fff" opacity=".2" rx="5"/><text x="10" y="42" fill="#fff" font-family="Arial, sans-serif" font-size="12">Kontormøbler (60%)</text><text x="150" y="42" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">4 500 000</text><rect width="190" height="25" y="55" fill="#fff" opacity=".2" rx="5"/><text x="10" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="12">Hjemmemøbler (30%)</text><text x="150" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">2 250 000</text><rect width="190" height="25" y="85" fill="#fff" opacity=".2" rx="5"/><text x="10" y="102" fill="#fff" font-family="Arial, sans-serif" font-size="12">Spesialtilpassede (10%)</text><text x="150" y="102" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">750 000</text><path stroke="#fff" stroke-width="2" d="M0 120h190"/><text x="10" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Total driftsinntekter</text><text x="150" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">7 500 000</text><text y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Kjennetegn:
-      </text>
-      <text x="10" y="180" font-family="Arial, sans-serif" font-size="11" fill="white">• Produserte varer</text>
-      <text x="10" y="195" font-family="Arial, sans-serif" font-size="11" fill="white">• B2B og B2C salg</text>
-      <text x="10" y="210" font-family="Arial, sans-serif" font-size="11" fill="white">• Produktdiversifisering</text>
-      <text x="10" y="225" font-family="Arial, sans-serif" font-size="11" fill="white">• Høy kapitalintensitet</text>
-      <text x="10" y="240" font-family="Arial, sans-serif" font-size="11" fill="white">• Lagerstyring kritisk</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 390)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+      </text><text x="10" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Produserte varer</text><text x="10" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="11">• B2B og B2C salg</text><text x="10" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Produktdiversifisering</text><text x="10" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Høy kapitalintensitet</text><text x="10" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Lagerstyring kritisk</text></g></g><text y="20" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" transform="translate(50 390)">
       Sammenligning av Bransjer
-    </text>
-    
-
-    <rect x="0" y="35" width="700" height="30" fill="#e9ecef"/>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Bransje</text>
-    <text x="150" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Hovedinntektskilde</text>
-    <text x="320" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Inntektsmodell</text>
-    <text x="480" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Særtrekk</text>
-    
-
-    <rect x="0" y="65" width="700" height="25" fill="white" stroke="#dee2e6"/>
-    <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="#333">Detaljhandel</text>
-    <text x="150" y="82" font-family="Arial, sans-serif" font-size="11" fill="#333">Varesalg</text>
-    <text x="320" y="82" font-family="Arial, sans-serif" font-size="11" fill="#333">Transaksjonsbasert</text>
-    <text x="480" y="82" font-family="Arial, sans-serif" font-size="11" fill="#333">Sesongvariasjoner</text>
-    
-
-    <rect x="0" y="90" width="700" height="25" fill="#f8f9fa" stroke="#dee2e6"/>
-    <text x="10" y="107" font-family="Arial, sans-serif" font-size="11" fill="#333">IT-Konsulent</text>
-    <text x="150" y="107" font-family="Arial, sans-serif" font-size="11" fill="#333">Tjenester + Lisenser</text>
-    <text x="320" y="107" font-family="Arial, sans-serif" font-size="11" fill="#333">Abonnement + Prosjekt</text>
-    <text x="480" y="107" font-family="Arial, sans-serif" font-size="11" fill="#333">Kunnskapsintensiv</text>
-    
-
-    <rect x="0" y="115" width="700" height="25" fill="white" stroke="#dee2e6"/>
-    <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="#333">Produksjon</text>
-    <text x="150" y="132" font-family="Arial, sans-serif" font-size="11" fill="#333">Produserte varer</text>
-    <text x="320" y="132" font-family="Arial, sans-serif" font-size="11" fill="#333">Ordre + Lager</text>
-    <text x="480" y="132" font-family="Arial, sans-serif" font-size="11" fill="#333">Kapitalintensiv</text>
-  </g>
-  
-
-  <g transform="translate(50, 520)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+    </text><path fill="#e9ecef" d="M50 425h700v30H50z"/><text x="10" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" transform="translate(50 390)">Bransje</text><text x="150" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" transform="translate(50 390)">Hovedinntektskilde</text><text x="320" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" transform="translate(50 390)">Inntektsmodell</text><text x="480" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" transform="translate(50 390)">Særtrekk</text><path fill="#fff" stroke="#dee2e6" d="M50 455h700v25H50z"/><text x="10" y="82" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Detaljhandel</text><text x="150" y="82" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Varesalg</text><text x="320" y="82" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Transaksjonsbasert</text><text x="480" y="82" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Sesongvariasjoner</text><path fill="#f8f9fa" stroke="#dee2e6" d="M50 480h700v25H50z"/><text x="10" y="107" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">IT-Konsulent</text><text x="150" y="107" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Tjenester + Lisenser</text><text x="320" y="107" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Abonnement + Prosjekt</text><text x="480" y="107" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Kunnskapsintensiv</text><path fill="#fff" stroke="#dee2e6" d="M50 505h700v25H50z"/><text x="10" y="132" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Produksjon</text><text x="150" y="132" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Produserte varer</text><text x="320" y="132" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Ordre + Lager</text><text x="480" y="132" fill="#333" font-family="Arial, sans-serif" font-size="11" transform="translate(50 390)">Kapitalintensiv</text><g font-family="Arial, sans-serif"><text fill="#333" font-size="16" font-weight="bold" transform="translate(50 520)">
       Viktige Innsikter:
-    </text>
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" fill="#555">
+    </text><text y="20" fill="#555" font-size="12" transform="translate(50 520)">
       • Hver bransje har unike karakteristikker som påvirker inntektsstruktur og -timing
-    </text>
-    <text x="0" y="35" font-family="Arial, sans-serif" font-size="12" fill="#555">
+    </text><text y="35" fill="#555" font-size="12" transform="translate(50 520)">
       • Diversifisering av inntektskilder reduserer risiko og øker stabilitet
-    </text>
-    <text x="0" y="50" font-family="Arial, sans-serif" font-size="12" fill="#555">
+    </text><text y="50" fill="#555" font-size="12" transform="translate(50 520)">
       • Forståelse av bransjenormer er viktig for benchmarking og analyse
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

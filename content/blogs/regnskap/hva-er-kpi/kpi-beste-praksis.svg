@@ -1,128 +1,41 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgBeste" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="successGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.9" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgBeste)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="#343a40"/>
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.9"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:.9"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="#343a40" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     KPI Beste Praksis for Suksess
-  </text>
-  
-
-  <circle cx="400" cy="250" r="80" fill="url(#successGrad)" stroke="#1e7e34" stroke-width="4"/>
-  <text x="400" y="240" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="400" cy="250" r="80" fill="url(#b)" stroke="#1e7e34" stroke-width="4"/><text x="400" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     KPI
-  </text>
-  <text x="400" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="400" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     SUKSESS
-  </text>
-  
-
-  <rect x="50" y="100" width="200" height="80" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
-  <text x="150" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e7e34">
+  </text><rect width="200" height="80" x="50" y="100" fill="#fff" stroke="#28a745" stroke-width="2" rx="10"/><text x="150" y="125" fill="#1e7e34" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     BEGRENS ANTALLET
-  </text>
-  <text x="150" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="150" y="145" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Maksimalt 5-7
-  </text>
-  <text x="150" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="150" y="160" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     hovedKPI-er per nivå
-  </text>
-  
-
-  <rect x="550" y="100" width="200" height="80" fill="white" stroke="#007bff" stroke-width="2" rx="10"/>
-  <text x="650" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0056b3">
+  </text><rect width="200" height="80" x="550" y="100" fill="#fff" stroke="#007bff" stroke-width="2" rx="10"/><text x="650" y="125" fill="#0056b3" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     BALANSERT TILNÆRMING
-  </text>
-  <text x="650" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="650" y="145" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kombiner finansielle og
-  </text>
-  <text x="650" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="650" y="160" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     ikke-finansielle målinger
-  </text>
-  
-
-  <rect x="50" y="360" width="200" height="80" fill="white" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="150" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e0a800">
+  </text><rect width="200" height="80" x="50" y="360" fill="#fff" stroke="#ffc107" stroke-width="2" rx="10"/><text x="150" y="385" fill="#e0a800" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     REGELMESSIG GJENNOMGANG
-  </text>
-  <text x="150" y="405" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="150" y="405" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Vurder relevans og
-  </text>
-  <text x="150" y="420" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="150" y="420" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     justér ved behov
-  </text>
-  
-
-  <rect x="550" y="360" width="200" height="80" fill="white" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="650" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c82333">
+  </text><rect width="200" height="80" x="550" y="360" fill="#fff" stroke="#dc3545" stroke-width="2" rx="10"/><text x="650" y="385" fill="#c82333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     INVOLVER ORGANISASJONEN
-  </text>
-  <text x="650" y="405" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="650" y="405" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sikre forståelse og
-  </text>
-  <text x="650" y="420" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="650" y="420" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     engasjement
-  </text>
-  
-
-  <rect x="300" y="80" width="200" height="60" fill="white" stroke="#6f42c1" stroke-width="2" rx="10"/>
-  <text x="400" y="105" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6f42c1">
+  </text><rect width="200" height="60" x="300" y="80" fill="#fff" stroke="#6f42c1" stroke-width="2" rx="10"/><text x="400" y="105" fill="#6f42c1" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     KOBLE TIL INSENTIVER
-  </text>
-  <text x="400" y="125" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="400" y="125" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Knytt KPI-er til belønningssystemer
-  </text>
-  
-
-  <rect x="300" y="380" width="200" height="60" fill="white" stroke="#20c997" stroke-width="2" rx="10"/>
-  <text x="400" y="405" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#20c997">
+  </text><rect width="200" height="60" x="300" y="380" fill="#fff" stroke="#20c997" stroke-width="2" rx="10"/><text x="400" y="405" fill="#20c997" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     SIKRE DATAKVALITET
-  </text>
-  <text x="400" y="425" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="400" y="425" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Nøyaktige og pålitelige målinger
-  </text>
-  
-
-  <line x1="340" y1="200" x2="150" y2="140" stroke="#28a745" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="460" y1="200" x2="650" y2="140" stroke="#007bff" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="340" y1="300" x2="150" y2="400" stroke="#ffc107" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="460" y1="300" x2="650" y2="400" stroke="#dc3545" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="400" y1="170" x2="400" y2="140" stroke="#6f42c1" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="400" y1="330" x2="400" y2="380" stroke="#20c997" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <circle cx="120" cy="120" r="8" fill="#28a745"/>
-  <text x="120" y="126" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  
-  <circle cx="680" cy="120" r="8" fill="#007bff"/>
-  <text x="680" y="126" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  
-  <circle cx="120" cy="380" r="8" fill="#ffc107"/>
-  <text x="120" y="386" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  
-  <circle cx="680" cy="380" r="8" fill="#dc3545"/>
-  <text x="680" y="386" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  
-  <circle cx="430" cy="100" r="8" fill="#6f42c1"/>
-  <text x="430" y="106" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  
-  <circle cx="430" cy="400" r="8" fill="#20c997"/>
-  <text x="430" y="406" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  
-
-  <text x="400" y="470" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+  </text><path stroke="#28a745" stroke-dasharray="5,5" stroke-width="2" d="m340 200-190-60"/><path stroke="#007bff" stroke-dasharray="5,5" stroke-width="2" d="m460 200 190-60"/><path stroke="#ffc107" stroke-dasharray="5,5" stroke-width="2" d="M340 300 150 400"/><path stroke="#dc3545" stroke-dasharray="5,5" stroke-width="2" d="m460 300 190 100"/><path stroke="#6f42c1" stroke-dasharray="5,5" stroke-width="2" d="M400 170v-30"/><path stroke="#20c997" stroke-dasharray="5,5" stroke-width="2" d="M400 330v50"/><circle cx="120" cy="120" r="8" fill="#28a745"/><text x="120" y="126" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><circle cx="680" cy="120" r="8" fill="#007bff"/><text x="680" y="126" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><circle cx="120" cy="380" r="8" fill="#ffc107"/><text x="120" y="386" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><circle cx="680" cy="380" r="8" fill="#dc3545"/><text x="680" y="386" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><circle cx="430" cy="100" r="8" fill="#6f42c1"/><text x="430" y="106" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><circle cx="430" cy="400" r="8" fill="#20c997"/><text x="430" y="406" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="400" y="470" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Følg beste praksis for å sikre at KPI-systemet driver forbedret prestasjon og verdiskaping
-  </text>
-</svg>
+  </text></svg>

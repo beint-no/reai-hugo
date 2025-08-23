@@ -1,176 +1,63 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#06c" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Konteringsprosessen - Oversikt
-  </text>
-  
-
-  <rect x="50" y="80" width="140" height="100" fill="url(#stepGradient)" rx="10"/>
-  <text x="120" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="140" height="100" x="50" y="80" fill="url(#b)" rx="10"/><text x="120" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     1. BILAG
-  </text>
-  <text x="120" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="120" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Faktura
-  </text>
-  <text x="120" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="120" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kvittering
-  </text>
-  <text x="120" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="120" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Banktransaksjon
-  </text>
-  
-
-  <path d="M 200 130 L 250 130" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="270" y="80" width="140" height="100" fill="#28a745" rx="10"/>
-  <text x="340" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path fill="none" stroke="#06c" stroke-width="3" marker-end="url(#c)" d="M200 130h50"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#06c" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="140" height="100" x="270" y="80" fill="#28a745" rx="10"/><text x="340" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     2. ANALYSE
-  </text>
-  <text x="340" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="340" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Transaksjonens art
-  </text>
-  <text x="340" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="340" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Beløp &amp; MVA
-  </text>
-  <text x="340" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="340" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Periode
-  </text>
-  
-
-  <path d="M 420 130 L 470 130" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
-  <defs>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="490" y="80" width="140" height="100" fill="#ffc107" rx="10"/>
-  <text x="560" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="black">
+  </text><path fill="none" stroke="#28a745" stroke-width="3" marker-end="url(#d)" d="M420 130h50"/><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="140" height="100" x="490" y="80" fill="#ffc107" rx="10"/><text x="560" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     3. KONTOVALG
-  </text>
-  <text x="560" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="black">
+  </text><text x="560" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Hovedkonto
-  </text>
-  <text x="560" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="black">
+  </text><text x="560" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Motkonto
-  </text>
-  <text x="560" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="black">
+  </text><text x="560" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Hjelpekonto
-  </text>
-  
-
-  <path d="M 560 190 L 560 240" stroke="#ffc107" stroke-width="3" fill="none" marker-end="url(#arrowhead3)"/>
-  <defs>
-    <marker id="arrowhead3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#ffc107"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="490" y="260" width="140" height="100" fill="#dc3545" rx="10"/>
-  <text x="560" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path fill="none" stroke="#ffc107" stroke-width="3" marker-end="url(#e)" d="M560 190v50"/><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#ffc107" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="140" height="100" x="490" y="260" fill="#dc3545" rx="10"/><text x="560" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     4. DEBET/KREDIT
-  </text>
-  <text x="560" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="560" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Bestem side
-  </text>
-  <text x="560" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="560" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     av kontoen
-  </text>
-  <text x="560" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="560" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Balansering
-  </text>
-  
-
-  <path d="M 480 310 L 430 310" stroke="#dc3545" stroke-width="3" fill="none" marker-end="url(#arrowhead4)"/>
-  <defs>
-    <marker id="arrowhead4" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="270" y="260" width="140" height="100" fill="#6f42c1" rx="10"/>
-  <text x="340" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path fill="none" stroke="#dc3545" stroke-width="3" marker-end="url(#f)" d="M480 310h-50"/><defs><marker id="f" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#dc3545" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="140" height="100" x="270" y="260" fill="#6f42c1" rx="10"/><text x="340" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     5. REGISTRERING
-  </text>
-  <text x="340" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="340" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Regnskapssystem
-  </text>
-  <text x="340" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="340" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Bilagsreferanse
-  </text>
-  <text x="340" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="340" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Beskrivelse
-  </text>
-  
-
-  <path d="M 260 310 L 210 310" stroke="#6f42c1" stroke-width="3" fill="none" marker-end="url(#arrowhead5)"/>
-  <defs>
-    <marker id="arrowhead5" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6f42c1"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="50" y="260" width="140" height="100" fill="#17a2b8" rx="10"/>
-  <text x="120" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path fill="none" stroke="#6f42c1" stroke-width="3" marker-end="url(#g)" d="M260 310h-50"/><defs><marker id="g" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6f42c1" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="140" height="100" x="50" y="260" fill="#17a2b8" rx="10"/><text x="120" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     6. KONTROLL
-  </text>
-  <text x="120" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="120" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Avstemming
-  </text>
-  <text x="120" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="120" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Balansekontroll
-  </text>
-  <text x="120" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="120" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Rapporter
-  </text>
-  
-
-  <circle cx="340" cy="195" r="25" fill="#ffffff" stroke="#0066cc" stroke-width="3"/>
-  <text x="340" y="202" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><circle cx="340" cy="195" r="25" fill="#fff" stroke="#06c" stroke-width="3"/><text x="340" y="202" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     K
-  </text>
-  
-
-  <text x="400" y="420" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#495057">
+  </text><text x="400" y="420" fill="#495057" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Systematisk prosess for korrekt kontering av alle transaksjoner
-  </text>
-  
-
-  <rect x="650" y="380" width="120" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="8"/>
-  <text x="710" y="400" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="120" height="80" x="650" y="380" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="8"/><text x="710" y="400" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KVALITET
-  </text>
-  <text x="710" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">
+  </text><text x="710" y="420" fill="#28a745" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     ✓ Nøyaktighet
-  </text>
-  <text x="710" y="435" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">
+  </text><text x="710" y="435" fill="#28a745" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     ✓ Konsistens
-  </text>
-  <text x="710" y="450" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">
+  </text><text x="710" y="450" fill="#28a745" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     ✓ Sporbarhet
-  </text>
-</svg>
+  </text></svg>

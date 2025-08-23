@@ -1,174 +1,43 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="finalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
-    </filter>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
-    </marker>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#06c" d="m0 0 10 3.5L0 7z"/></marker><filter id="c" width="140%" height="140%" x="-20%" y="-20%"><feDropShadow dx="2" dy="2" flood-color="#000" flood-opacity=".3" stdDeviation="3"/></filter></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#06c" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Arbeidsgivers Forskuddstrekkprosess
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="140" height="90" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
-    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(50 80)"><rect width="140" height="90" fill="url(#b)" filter="url(#c)" rx="10"/><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       STEG 1
-    </text>
-    <text x="70" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       LØNNSBEREGNING
-    </text>
-    
-
-    <rect x="55" y="55" width="30" height="20" fill="white" rx="2"/>
-    <rect x="58" y="58" width="6" height="3" fill="#0066cc"/>
-    <rect x="66" y="58" width="6" height="3" fill="#0066cc"/>
-    <rect x="74" y="58" width="6" height="3" fill="#0066cc"/>
-    <rect x="58" y="63" width="6" height="3" fill="#0066cc"/>
-    <rect x="66" y="63" width="6" height="3" fill="#0066cc"/>
-    <rect x="74" y="63" width="6" height="3" fill="#0066cc"/>
-    <rect x="58" y="68" width="22" height="3" fill="#28a745"/>
-  </g>
-  
-
-  <path d="M200 125 L240 125" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(250, 80)">
-    <rect x="0" y="0" width="140" height="90" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
-    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="30" height="20" x="55" y="55" fill="#fff" rx="2"/><path fill="#06c" d="M58 58h6v3h-6zM66 58h6v3h-6zM74 58h6v3h-6zM58 63h6v3h-6zM66 63h6v3h-6zM74 63h6v3h-6z"/><path fill="#28a745" d="M58 68h22v3H58z"/></g><path fill="none" stroke="#06c" stroke-width="3" marker-end="url(#d)" d="M200 125h40"/><g transform="translate(250 80)"><rect width="140" height="90" fill="url(#b)" filter="url(#c)" rx="10"/><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       STEG 2
-    </text>
-    <text x="70" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       TREKKBEREGNING
-    </text>
-    
-
-    <circle cx="70" cy="65" r="12" fill="white"/>
-    <text x="70" y="71" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    </text><circle cx="70" cy="65" r="12" fill="#fff"/><text x="70" y="71" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       %
-    </text>
-  </g>
-  
-
-  <path d="M400 125 L440 125" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(450, 80)">
-    <rect x="0" y="0" width="140" height="90" fill="url(#stepGradient)" rx="10" filter="url(#shadow)"/>
-    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><path fill="none" stroke="#06c" stroke-width="3" marker-end="url(#d)" d="M400 125h40"/><g transform="translate(450 80)"><rect width="140" height="90" fill="url(#b)" filter="url(#c)" rx="10"/><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       STEG 3
-    </text>
-    <text x="70" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       LØNNSUTBETALING
-    </text>
-    
-
-    <rect x="55" y="55" width="30" height="20" fill="white" rx="3"/>
-    <text x="70" y="68" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    </text><rect width="30" height="20" x="55" y="55" fill="#fff" rx="3"/><text x="70" y="68" fill="#06c" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       NETTO
-    </text>
-  </g>
-  
-
-  <path d="M520 180 L520 220" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(450, 230)">
-    <rect x="0" y="0" width="140" height="90" fill="url(#finalGradient)" rx="10" filter="url(#shadow)"/>
-    <text x="70" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><path fill="none" stroke="#06c" stroke-width="3" marker-end="url(#d)" d="M520 180v40"/><g transform="translate(450 230)"><rect width="140" height="90" fill="url(#e)" filter="url(#c)" rx="10"/><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       STEG 4
-    </text>
-    <text x="70" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       RAPPORTERING
-    </text>
-    
-
-    <rect x="55" y="55" width="20" height="25" fill="white" rx="2"/>
-    <rect x="57" y="60" width="16" height="2" fill="#28a745"/>
-    <rect x="57" y="65" width="12" height="1" fill="#666"/>
-    <rect x="57" y="70" width="14" height="1" fill="#666"/>
-    <path d="M78 67 L88 67" stroke="white" stroke-width="2" fill="none"/>
-    <path d="M85 64 L88 67 L85 70" stroke="white" stroke-width="2" fill="none"/>
-  </g>
-  
-
-  <g transform="translate(50, 200)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+    </text><rect width="20" height="25" x="55" y="55" fill="#fff" rx="2"/><path fill="#28a745" d="M57 60h16v2H57z"/><path fill="#666" d="M57 65h12v1H57zM57 70h14v1H57z"/><path fill="none" stroke="#fff" stroke-width="2" d="M78 67h10M85 64l3 3-3 3"/></g><g transform="translate(50 200)"><text y="20" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Detaljert Prosess:
-    </text>
-    
-
-    <circle cx="10" cy="45" r="4" fill="#0066cc"/>
-    <text x="25" y="50" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><circle cx="10" cy="45" r="4" fill="#06c"/><text x="25" y="50" fill="#333" font-family="Arial, sans-serif" font-size="12">
       <tspan font-weight="bold">Lønnsberegning:</tspan> Beregn bruttolønn • Inkluder trekkpliktige ytelser • Kontroller skattekort
-    </text>
-    
-
-    <circle cx="10" cy="70" r="4" fill="#0066cc"/>
-    <text x="25" y="75" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><circle cx="10" cy="70" r="4" fill="#06c"/><text x="25" y="75" fill="#333" font-family="Arial, sans-serif" font-size="12">
       <tspan font-weight="bold">Trekkberegning:</tspan> Anvend trekkprosent • Kontroller mot trekktabeller • Beregn forskuddstrekk
-    </text>
-    
-
-    <circle cx="10" cy="95" r="4" fill="#0066cc"/>
-    <text x="25" y="100" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><circle cx="10" cy="95" r="4" fill="#06c"/><text x="25" y="100" fill="#333" font-family="Arial, sans-serif" font-size="12">
       <tspan font-weight="bold">Lønnsutbetaling:</tspan> Trekk skatt fra bruttolønn • Utbetal nettolønn • Generer lønnsslipp
-    </text>
-    
-
-    <circle cx="10" cy="120" r="4" fill="#28a745"/>
-    <text x="25" y="125" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><circle cx="10" cy="120" r="4" fill="#28a745"/><text x="25" y="125" fill="#333" font-family="Arial, sans-serif" font-size="12">
       <tspan font-weight="bold">Rapportering:</tspan> Send A-melding • Innbetal trekk til Skatteetaten • Oppbevar dokumentasjon
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 380)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+    </text></g><g transform="translate(50 380)"><text y="20" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Månedlig Tidsplan:
-    </text>
-    
-    <rect x="0" y="30" width="700" height="30" fill="#e9ecef" rx="5"/>
-    
-
-    <rect x="0" y="30" width="175" height="30" fill="#0066cc" rx="5"/>
-    <text x="87" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="700" height="30" y="30" fill="#e9ecef" rx="5"/><rect width="175" height="30" y="30" fill="#06c" rx="5"/><text x="87" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Uke 1-2: Lønnsberegning
-    </text>
-    
-    <rect x="175" y="30" width="175" height="30" fill="#004499" rx="5"/>
-    <text x="262" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="175" height="30" x="175" y="30" fill="#049" rx="5"/><text x="262" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Uke 3: Utbetaling
-    </text>
-    
-    <rect x="350" y="30" width="175" height="30" fill="#28a745" rx="5"/>
-    <text x="437" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="175" height="30" x="350" y="30" fill="#28a745" rx="5"/><text x="437" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Uke 4: A-melding
-    </text>
-    
-    <rect x="525" y="30" width="175" height="30" fill="#1e7e34" rx="5"/>
-    <text x="612" y="50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="175" height="30" x="525" y="30" fill="#1e7e34" rx="5"/><text x="612" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Innen 15.: Innbetaling
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

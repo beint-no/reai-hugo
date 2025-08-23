@@ -1,261 +1,71 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="futureBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <radialGradient id="techGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:0.3" />
-      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:0" />
-    </radialGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#futureBg)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><defs><radialGradient id="b" cx="50%" cy="50%" r="50%"><stop offset="0%" style="stop-color:#60a5fa;stop-opacity:.3"/><stop offset="100%" style="stop-color:#60a5fa;stop-opacity:0"/></radialGradient><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#1e293b" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Fremtidens Strekkodeteknologi
-  </text>
-  
-
-  <g transform="translate(50, 60)">
-    <circle cx="80" cy="80" r="70" fill="url(#techGlow)" stroke="#3b82f6" stroke-width="2"/>
-    
-    <text x="80" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+  </text><g transform="translate(50 60)"><circle cx="80" cy="80" r="70" fill="url(#b)" stroke="#3b82f6" stroke-width="2"/><text x="80" y="50" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       AI &amp; Maskinlæring
-    </text>
-    
-
-    <circle cx="80" cy="80" r="25" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
-    <circle cx="72" cy="75" r="3" fill="#3b82f6"/>
-    <circle cx="88" cy="75" r="3" fill="#3b82f6"/>
-    <circle cx="72" cy="85" r="2" fill="#60a5fa"/>
-    <circle cx="80" cy="88" r="2" fill="#60a5fa"/>
-    <circle cx="88" cy="85" r="2" fill="#60a5fa"/>
-    <path d="M 65 70 Q 80 65 95 70" stroke="#3b82f6" stroke-width="1" fill="none"/>
-    <path d="M 65 90 Q 80 95 95 90" stroke="#3b82f6" stroke-width="1" fill="none"/>
-    
-
-    <text x="80" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+    </text><circle cx="80" cy="80" r="25" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/><circle cx="72" cy="75" r="3" fill="#3b82f6"/><circle cx="88" cy="75" r="3" fill="#3b82f6"/><circle cx="72" cy="85" r="2" fill="#60a5fa"/><circle cx="80" cy="88" r="2" fill="#60a5fa"/><circle cx="88" cy="85" r="2" fill="#60a5fa"/><path fill="none" stroke="#3b82f6" d="M65 70q15-5 30 0M65 90q15 5 30 0"/><text x="80" y="115" fill="#1e40af" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Automatisk bildegenkjenning
-    </text>
-    <text x="80" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+    </text><text x="80" y="130" fill="#1e40af" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Prediktiv vedlikehold
-    </text>
-    <text x="80" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+    </text><text x="80" y="145" fill="#1e40af" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Anomalidetekning
-    </text>
-  </g>
-  
-
-  <g transform="translate(250, 60)">
-    <circle cx="80" cy="80" r="70" fill="url(#techGlow)" stroke="#10b981" stroke-width="2"/>
-    
-    <text x="80" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+    </text></g><g transform="translate(250 60)"><circle cx="80" cy="80" r="70" fill="url(#b)" stroke="#10b981" stroke-width="2"/><text x="80" y="50" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Blockchain &amp; DLT
-    </text>
-    
-
-    <rect x="60" y="65" width="15" height="15" rx="2" fill="#dcfce7" stroke="#10b981" stroke-width="1"/>
-    <rect x="77" y="65" width="15" height="15" rx="2" fill="#dcfce7" stroke="#10b981" stroke-width="1"/>
-    <rect x="94" y="65" width="15" height="15" rx="2" fill="#dcfce7" stroke="#10b981" stroke-width="1"/>
-    <rect x="60" y="82" width="15" height="15" rx="2" fill="#dcfce7" stroke="#10b981" stroke-width="1"/>
-    <rect x="77" y="82" width="15" height="15" rx="2" fill="#dcfce7" stroke="#10b981" stroke-width="1"/>
-    <rect x="94" y="82" width="15" height="15" rx="2" fill="#dcfce7" stroke="#10b981" stroke-width="1"/>
-    
-
-    <line x1="75" y1="72" x2="77" y2="72" stroke="#10b981" stroke-width="1"/>
-    <line x1="92" y1="72" x2="94" y2="72" stroke="#10b981" stroke-width="1"/>
-    <line x1="75" y1="89" x2="77" y2="89" stroke="#10b981" stroke-width="1"/>
-    <line x1="92" y1="89" x2="94" y2="89" stroke="#10b981" stroke-width="1"/>
-    
-
-    <text x="80" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#14532d">
+    </text><rect width="15" height="15" x="60" y="65" fill="#dcfce7" stroke="#10b981" rx="2"/><rect width="15" height="15" x="77" y="65" fill="#dcfce7" stroke="#10b981" rx="2"/><rect width="15" height="15" x="94" y="65" fill="#dcfce7" stroke="#10b981" rx="2"/><rect width="15" height="15" x="60" y="82" fill="#dcfce7" stroke="#10b981" rx="2"/><rect width="15" height="15" x="77" y="82" fill="#dcfce7" stroke="#10b981" rx="2"/><rect width="15" height="15" x="94" y="82" fill="#dcfce7" stroke="#10b981" rx="2"/><path stroke="#10b981" d="M75 72h2M92 72h2M75 89h2M92 89h2"/><text x="80" y="115" fill="#14532d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Uforanderlig sporbarhet
-    </text>
-    <text x="80" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#14532d">
+    </text><text x="80" y="130" fill="#14532d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Smart contracts
-    </text>
-    <text x="80" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#14532d">
+    </text><text x="80" y="145" fill="#14532d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Desentralisert verifikasjon
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 60)">
-    <circle cx="80" cy="80" r="70" fill="url(#techGlow)" stroke="#f59e0b" stroke-width="2"/>
-    
-    <text x="80" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+    </text></g><g transform="translate(450 60)"><circle cx="80" cy="80" r="70" fill="url(#b)" stroke="#f59e0b" stroke-width="2"/><text x="80" y="50" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       IoT Integration
-    </text>
-    
-
-    <circle cx="65" cy="70" r="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
-    <circle cx="95" cy="70" r="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
-    <circle cx="80" cy="90" r="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
-    <circle cx="80" cy="70" r="4" fill="#f59e0b"/>
-    
-
-    <line x1="73" y1="70" x2="87" y2="70" stroke="#f59e0b" stroke-width="1"/>
-    <line x1="70" y1="75" x2="75" y2="85" stroke="#f59e0b" stroke-width="1"/>
-    <line x1="90" y1="75" x2="85" y2="85" stroke="#f59e0b" stroke-width="1"/>
-    
-
-    <text x="80" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    </text><circle cx="65" cy="70" r="8" fill="#fef3c7" stroke="#f59e0b"/><circle cx="95" cy="70" r="8" fill="#fef3c7" stroke="#f59e0b"/><circle cx="80" cy="90" r="8" fill="#fef3c7" stroke="#f59e0b"/><circle cx="80" cy="70" r="4" fill="#f59e0b"/><path stroke="#f59e0b" d="M73 70h14M70 75l5 10M90 75l-5 10"/><text x="80" y="115" fill="#92400e" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Smart sensorer
-    </text>
-    <text x="80" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    </text><text x="80" y="130" fill="#92400e" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • RFID-integrasjon
-    </text>
-    <text x="80" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    </text><text x="80" y="145" fill="#92400e" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Edge computing
-    </text>
-  </g>
-  
-
-  <g transform="translate(650, 60)">
-    <circle cx="80" cy="80" r="70" fill="url(#techGlow)" stroke="#8b5cf6" stroke-width="2"/>
-    
-    <text x="80" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+    </text></g><g transform="translate(650 60)"><circle cx="80" cy="80" r="70" fill="url(#b)" stroke="#8b5cf6" stroke-width="2"/><text x="80" y="50" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       AR/VR Teknologi
-    </text>
-    
-
-    <rect x="60" y="70" width="40" height="20" rx="10" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2"/>
-    <circle cx="70" cy="80" r="6" fill="#ddd6fe" stroke="#8b5cf6" stroke-width="1"/>
-    <circle cx="90" cy="80" r="6" fill="#ddd6fe" stroke="#8b5cf6" stroke-width="1"/>
-    <rect x="75" y="85" width="10" height="3" rx="1" fill="#8b5cf6"/>
-    
-
-    <text x="80" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6b21a8">
+    </text><rect width="40" height="20" x="60" y="70" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" rx="10"/><circle cx="70" cy="80" r="6" fill="#ddd6fe" stroke="#8b5cf6"/><circle cx="90" cy="80" r="6" fill="#ddd6fe" stroke="#8b5cf6"/><rect width="10" height="3" x="75" y="85" fill="#8b5cf6" rx="1"/><text x="80" y="115" fill="#6b21a8" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Visuell veiledning
-    </text>
-    <text x="80" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6b21a8">
+    </text><text x="80" y="130" fill="#6b21a8" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • 3D-scanning
-    </text>
-    <text x="80" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6b21a8">
+    </text><text x="80" y="145" fill="#6b21a8" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Immersiv trening
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 220)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+    </text></g><text y="20" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold" transform="translate(50 220)">
       Teknologisk Utviklingsplan
-    </text>
-    
-
-    <line x1="50" y1="50" x2="700" y2="50" stroke="#374151" stroke-width="3"/>
-    
-
-    <g transform="translate(50, 30)">
-      <circle cx="0" cy="20" r="8" fill="#3b82f6"/>
-      <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">1</text>
-      <text x="0" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+    </text><path stroke="#374151" stroke-width="3" d="M100 270h650"/><g transform="translate(100 250)"><circle cy="20" r="8" fill="#3b82f6"/><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">1</text><text y="45" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2024-2025
-      </text>
-      <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      </text><text y="65" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Mobile løsninger
-      </text>
-      <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      </text><text y="80" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Cloud-integrasjon
-      </text>
-    </g>
-    
-
-    <g transform="translate(200, 30)">
-      <circle cx="0" cy="20" r="8" fill="#10b981"/>
-      <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">2</text>
-      <text x="0" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+      </text></g><g transform="translate(250 250)"><circle cy="20" r="8" fill="#10b981"/><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">2</text><text y="45" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2025-2027
-      </text>
-      <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      </text><text y="65" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         AI-drevne analyser
-      </text>
-      <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      </text><text y="80" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Automatisk scanning
-      </text>
-    </g>
-    
-
-    <g transform="translate(400, 30)">
-      <circle cx="0" cy="20" r="8" fill="#f59e0b"/>
-      <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">3</text>
-      <text x="0" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+      </text></g><g transform="translate(450 250)"><circle cy="20" r="8" fill="#f59e0b"/><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">3</text><text y="45" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2027-2030
-      </text>
-      <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      </text><text y="65" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         IoT-ecosystemer
-      </text>
-      <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      </text><text y="80" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Blockchain sporbarhet
-      </text>
-    </g>
-    
-
-    <g transform="translate(600, 30)">
-      <circle cx="0" cy="20" r="8" fill="#8b5cf6"/>
-      <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">4</text>
-      <text x="0" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">
+      </text></g><g transform="translate(650 250)"><circle cy="20" r="8" fill="#8b5cf6"/><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">4</text><text y="45" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2030+
-      </text>
-      <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      </text><text y="65" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Quantum computing
-      </text>
-      <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      </text><text y="80" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Neural interfaces
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 330)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+      </text></g><text y="20" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold" transform="translate(50 330)">
       Påvirkningsområder for Regnskapsføring
-    </text>
-    
-
-    <g transform="translate(0, 40)">
-
-      <rect x="0" y="0" width="160" height="100" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
-      <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+    </text><g transform="translate(50 370)"><rect width="160" height="100" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" rx="8"/><text x="80" y="20" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Automatisering
-      </text>
-      <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• 95% reduksjon i manuell</text>
-      <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">  registrering</text>
-      <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• Selvlærende systemer</text>
-      <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">• Proaktiv feilforebygging</text>
-      
-
-      <rect x="180" y="0" width="160" height="100" rx="8" fill="#f0fdf4" stroke="#10b981" stroke-width="2"/>
-      <text x="260" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#14532d">
+      </text><text x="10" y="40" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• 95% reduksjon i manuell</text><text x="10" y="55" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">  registrering</text><text x="10" y="70" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Selvlærende systemer</text><text x="10" y="85" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">• Proaktiv feilforebygging</text><rect width="160" height="100" x="180" fill="#f0fdf4" stroke="#10b981" stroke-width="2" rx="8"/><text x="260" y="20" fill="#14532d" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Sanntidsinnsikt
-      </text>
-      <text x="190" y="40" font-family="Arial, sans-serif" font-size="11" fill="#14532d">• Kontinuerlig overvåking</text>
-      <text x="190" y="55" font-family="Arial, sans-serif" font-size="11" fill="#14532d">• Prediktive analyser</text>
-      <text x="190" y="70" font-family="Arial, sans-serif" font-size="11" fill="#14532d">• Dynamisk rapportering</text>
-      <text x="190" y="85" font-family="Arial, sans-serif" font-size="11" fill="#14532d">• AI-drevne prognoser</text>
-      
-
-      <rect x="360" y="0" width="160" height="100" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="2"/>
-      <text x="440" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#a16207">
+      </text><text x="190" y="40" fill="#14532d" font-family="Arial, sans-serif" font-size="11">• Kontinuerlig overvåking</text><text x="190" y="55" fill="#14532d" font-family="Arial, sans-serif" font-size="11">• Prediktive analyser</text><text x="190" y="70" fill="#14532d" font-family="Arial, sans-serif" font-size="11">• Dynamisk rapportering</text><text x="190" y="85" fill="#14532d" font-family="Arial, sans-serif" font-size="11">• AI-drevne prognoser</text><rect width="160" height="100" x="360" fill="#fefce8" stroke="#eab308" stroke-width="2" rx="8"/><text x="440" y="20" fill="#a16207" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Økt Sikkerhet
-      </text>
-      <text x="370" y="40" font-family="Arial, sans-serif" font-size="11" fill="#a16207">• Biometrisk autentisering</text>
-      <text x="370" y="55" font-family="Arial, sans-serif" font-size="11" fill="#a16207">• Kryptografisk sporbarhet</text>
-      <text x="370" y="70" font-family="Arial, sans-serif" font-size="11" fill="#a16207">• Zero-trust arkitektur</text>
-      <text x="370" y="85" font-family="Arial, sans-serif" font-size="11" fill="#a16207">• Quantum-sikker kryptering</text>
-      
-
-      <rect x="540" y="0" width="160" height="100" rx="8" fill="#fdf4ff" stroke="#a855f7" stroke-width="2"/>
-      <text x="620" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7c2d12">
+      </text><text x="370" y="40" fill="#a16207" font-family="Arial, sans-serif" font-size="11">• Biometrisk autentisering</text><text x="370" y="55" fill="#a16207" font-family="Arial, sans-serif" font-size="11">• Kryptografisk sporbarhet</text><text x="370" y="70" fill="#a16207" font-family="Arial, sans-serif" font-size="11">• Zero-trust arkitektur</text><text x="370" y="85" fill="#a16207" font-family="Arial, sans-serif" font-size="11">• Quantum-sikker kryptering</text><rect width="160" height="100" x="540" fill="#fdf4ff" stroke="#a855f7" stroke-width="2" rx="8"/><text x="620" y="20" fill="#7c2d12" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Bærekraft
-      </text>
-      <text x="550" y="40" font-family="Arial, sans-serif" font-size="11" fill="#7c2d12">• Papirløse prosesser</text>
-      <text x="550" y="55" font-family="Arial, sans-serif" font-size="11" fill="#7c2d12">• Energieffektive løsninger</text>
-      <text x="550" y="70" font-family="Arial, sans-serif" font-size="11" fill="#7c2d12">• Sirkulær økonomi-sporing</text>
-      <text x="550" y="85" font-family="Arial, sans-serif" font-size="11" fill="#7c2d12">• ESG-rapportering</text>
-    </g>
-  </g>
-</svg>
+      </text><text x="550" y="40" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Papirløse prosesser</text><text x="550" y="55" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Energieffektive løsninger</text><text x="550" y="70" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• Sirkulær økonomi-sporing</text><text x="550" y="85" fill="#7c2d12" font-family="Arial, sans-serif" font-size="11">• ESG-rapportering</text></g></svg>

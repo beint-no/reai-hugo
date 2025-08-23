@@ -1,101 +1,35 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f8f9fa;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff;stop-opacity:1"/><stop offset="100%" style="stop-color:#f8f9fa;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="url(#a)" d="M0 0h800v80H0z"/><text x="400" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Driftsinntekter - Oversikt
-  </text>
-  <text x="400" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white" opacity="0.9">
+  </text><text x="400" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="14" opacity=".9" text-anchor="middle">
     Kjennetegn ved inntekter fra ordinær forretningsvirksomhet
-  </text>
-  
-
-  <circle cx="400" cy="250" r="80" fill="url(#headerGradient)" stroke="white" stroke-width="4"/>
-  <text x="400" y="240" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="400" cy="250" r="80" fill="url(#a)" stroke="#fff" stroke-width="4"/><text x="400" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DRIFTS-
-  </text>
-  <text x="400" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="400" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     INNTEKTER
-  </text>
-  
-
-  <rect x="50" y="120" width="180" height="120" fill="url(#cardGradient)" rx="10" stroke="#007bff" stroke-width="2"/>
-  <circle cx="140" cy="150" r="20" fill="#28a745"/>
-  <text x="140" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">R</text>
-  <text x="140" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#007bff">
+  </text><rect width="180" height="120" x="50" y="120" fill="url(#b)" stroke="#007bff" stroke-width="2" rx="10"/><circle cx="140" cy="150" r="20" fill="#28a745"/><text x="140" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">R</text><text x="140" y="185" fill="#007bff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Regelmessighet
-  </text>
-  <text x="140" y="205" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="140" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Oppstår kontinuerlig
-  </text>
-  <text x="140" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="140" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     gjennom normal drift
-  </text>
-  
-
-  <rect x="570" y="120" width="180" height="120" fill="url(#cardGradient)" rx="10" stroke="#007bff" stroke-width="2"/>
-  <circle cx="660" cy="150" r="20" fill="#17a2b8"/>
-  <text x="660" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">F</text>
-  <text x="660" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#007bff">
+  </text><rect width="180" height="120" x="570" y="120" fill="url(#b)" stroke="#007bff" stroke-width="2" rx="10"/><circle cx="660" cy="150" r="20" fill="#17a2b8"/><text x="660" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">F</text><text x="660" y="185" fill="#007bff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Forutsigbarhet
-  </text>
-  <text x="660" y="205" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="660" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Kan planlegges og
-  </text>
-  <text x="660" y="220" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="660" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     budsjetteres
-  </text>
-  
-
-  <rect x="50" y="320" width="180" height="120" fill="url(#cardGradient)" rx="10" stroke="#007bff" stroke-width="2"/>
-  <circle cx="140" cy="350" r="20" fill="#dc3545"/>
-  <text x="140" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">K</text>
-  <text x="140" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#007bff">
+  </text><rect width="180" height="120" x="50" y="320" fill="url(#b)" stroke="#007bff" stroke-width="2" rx="10"/><circle cx="140" cy="350" r="20" fill="#dc3545"/><text x="140" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">K</text><text x="140" y="385" fill="#007bff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kjernevirksomhet
-  </text>
-  <text x="140" y="405" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="140" y="405" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Direkte knyttet til
-  </text>
-  <text x="140" y="420" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="140" y="420" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     hovedformål
-  </text>
-  
-
-  <rect x="570" y="320" width="180" height="120" fill="url(#cardGradient)" rx="10" stroke="#007bff" stroke-width="2"/>
-  <circle cx="660" cy="350" r="20" fill="#ffc107"/>
-  <text x="660" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">B</text>
-  <text x="660" y="385" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#007bff">
+  </text><rect width="180" height="120" x="570" y="320" fill="url(#b)" stroke="#007bff" stroke-width="2" rx="10"/><circle cx="660" cy="350" r="20" fill="#ffc107"/><text x="660" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">B</text><text x="660" y="385" fill="#007bff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Bærekraftighet
-  </text>
-  <text x="660" y="405" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="660" y="405" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Grunnlag for langsiktig
-  </text>
-  <text x="660" y="420" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#495057">
+  </text><text x="660" y="420" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     lønnsomhet
-  </text>
-  
-
-  <line x1="230" y1="180" x2="320" y2="220" stroke="#007bff" stroke-width="2" opacity="0.6"/>
-  <line x1="570" y1="180" x2="480" y2="220" stroke="#007bff" stroke-width="2" opacity="0.6"/>
-  <line x1="230" y1="380" x2="320" y2="280" stroke="#007bff" stroke-width="2" opacity="0.6"/>
-  <line x1="570" y1="380" x2="480" y2="280" stroke="#007bff" stroke-width="2" opacity="0.6"/>
-  
-
-  <rect x="250" y="460" width="300" height="30" fill="#e9ecef" rx="5"/>
-  <text x="400" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><path stroke="#007bff" stroke-width="2" d="m230 180 90 40M570 180l-90 40M230 380l90-100M570 380l-90-100" opacity=".6"/><rect width="300" height="30" x="250" y="460" fill="#e9ecef" rx="5"/><text x="400" y="480" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Grunnlag for måling av operative prestasjoner
-  </text>
-</svg>
+  </text></svg>

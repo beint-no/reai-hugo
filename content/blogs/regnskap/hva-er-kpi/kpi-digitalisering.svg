@@ -1,135 +1,47 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgDigital" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="techGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#007bff;stop-opacity:0.9" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgDigital)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="#343a40"/>
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:.9"/><stop offset="100%" style="stop-color:#007bff;stop-opacity:.9"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="#343a40" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     KPI-er og Digitalisering
-  </text>
-  
-
-  <text x="200" y="90" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#6c757d">
+  </text><text x="200" y="90" fill="#6c757d" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     TRADISJONELL TILNÆRMING
-  </text>
-  <text x="600" y="90" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#6f42c1">
+  </text><text x="600" y="90" fill="#6f42c1" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DIGITAL TILNÆRMING
-  </text>
-  
-
-  <rect x="50" y="100" width="300" height="320" fill="white" stroke="#6c757d" stroke-width="2" rx="10"/>
-  
-
-  <rect x="70" y="120" width="260" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="200" y="145" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#495057">
+  </text><rect width="300" height="320" x="50" y="100" fill="#fff" stroke="#6c757d" stroke-width="2" rx="10"/><rect width="260" height="40" x="70" y="120" fill="#f8f9fa" stroke="#6c757d" rx="5"/><text x="200" y="145" fill="#495057" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     📊 Manuell datainnsamling
-  </text>
-  
-  <rect x="70" y="170" width="260" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="200" y="195" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#495057">
+  </text><rect width="260" height="40" x="70" y="170" fill="#f8f9fa" stroke="#6c757d" rx="5"/><text x="200" y="195" fill="#495057" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     📈 Excel-baserte rapporter
-  </text>
-  
-  <rect x="70" y="220" width="260" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="200" y="245" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#495057">
+  </text><rect width="260" height="40" x="70" y="220" fill="#f8f9fa" stroke="#6c757d" rx="5"/><text x="200" y="245" fill="#495057" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     ⏰ Månedlig rapportering
-  </text>
-  
-  <rect x="70" y="270" width="260" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="200" y="295" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#495057">
+  </text><rect width="260" height="40" x="70" y="270" fill="#f8f9fa" stroke="#6c757d" rx="5"/><text x="200" y="295" fill="#495057" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     📧 E-post distribusjon
-  </text>
-  
-  <rect x="70" y="320" width="260" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="200" y="345" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#495057">
+  </text><rect width="260" height="40" x="70" y="320" fill="#f8f9fa" stroke="#6c757d" rx="5"/><text x="200" y="345" fill="#495057" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     🔍 Begrenset analyse
-  </text>
-  
-  <rect x="70" y="370" width="260" height="40" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="200" y="395" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#495057">
+  </text><rect width="260" height="40" x="70" y="370" fill="#f8f9fa" stroke="#6c757d" rx="5"/><text x="200" y="395" fill="#495057" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     ⚠️ Feilkilder og forsinkelser
-  </text>
-  
-
-  <rect x="450" y="100" width="300" height="320" fill="white" stroke="#6f42c1" stroke-width="2" rx="10"/>
-  
-
-  <rect x="470" y="120" width="260" height="40" fill="url(#techGrad)" stroke="#6f42c1" stroke-width="1" rx="5"/>
-  <text x="600" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="320" x="450" y="100" fill="#fff" stroke="#6f42c1" stroke-width="2" rx="10"/><rect width="260" height="40" x="470" y="120" fill="url(#b)" stroke="#6f42c1" rx="5"/><text x="600" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     🤖 Automatisk datainnsamling
-  </text>
-  
-  <rect x="470" y="170" width="260" height="40" fill="url(#techGrad)" stroke="#6f42c1" stroke-width="1" rx="5"/>
-  <text x="600" y="195" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="260" height="40" x="470" y="170" fill="url(#b)" stroke="#6f42c1" rx="5"/><text x="600" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     📱 Sanntids dashboards
-  </text>
-  
-  <rect x="470" y="220" width="260" height="40" fill="url(#techGrad)" stroke="#6f42c1" stroke-width="1" rx="5"/>
-  <text x="600" y="245" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="260" height="40" x="470" y="220" fill="url(#b)" stroke="#6f42c1" rx="5"/><text x="600" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ⚡ Sanntidsrapportering
-  </text>
-  
-  <rect x="470" y="270" width="260" height="40" fill="url(#techGrad)" stroke="#6f42c1" stroke-width="1" rx="5"/>
-  <text x="600" y="295" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="260" height="40" x="470" y="270" fill="url(#b)" stroke="#6f42c1" rx="5"/><text x="600" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     📲 Mobilrapportering
-  </text>
-  
-  <rect x="470" y="320" width="260" height="40" fill="url(#techGrad)" stroke="#6f42c1" stroke-width="1" rx="5"/>
-  <text x="600" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="260" height="40" x="470" y="320" fill="url(#b)" stroke="#6f42c1" rx="5"/><text x="600" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     🧠 AI-drevne innsikter
-  </text>
-  
-  <rect x="470" y="370" width="260" height="40" fill="url(#techGrad)" stroke="#6f42c1" stroke-width="1" rx="5"/>
-  <text x="600" y="395" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="260" height="40" x="470" y="370" fill="url(#b)" stroke="#6f42c1" rx="5"/><text x="600" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     🔮 Prediktiv analyse
-  </text>
-  
-
-  <path d="M 350 260 L 450 260" stroke="#28a745" stroke-width="6" fill="none" marker-end="url(#arrowTransform)"/>
-  <text x="400" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><path fill="none" stroke="#28a745" stroke-width="6" marker-end="url(#c)" d="M350 260h100"/><text x="400" y="250" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     DIGITAL
-  </text>
-  <text x="400" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="400" y="280" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     TRANSFORMASJON
-  </text>
-  
-
-  <rect x="50" y="440" width="700" height="50" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
-  <text x="400" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="700" height="50" x="50" y="440" fill="#fff" stroke="#28a745" stroke-width="2" rx="10"/><text x="400" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     TEKNOLOGISKE FORDELER
-  </text>
-  <text x="150" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#28a745">
+  </text><text x="150" y="480" fill="#28a745" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Økt nøyaktighet
-  </text>
-  <text x="300" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#007bff">
+  </text><text x="300" y="480" fill="#007bff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Raskere beslutninger
-  </text>
-  <text x="450" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6f42c1">
+  </text><text x="450" y="480" fill="#6f42c1" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Bedre innsikt
-  </text>
-  <text x="600" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#ffc107">
+  </text><text x="600" y="480" fill="#ffc107" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Lavere kostnader
-  </text>
-  <text x="700" y="480" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#dc3545">
+  </text><text x="700" y="480" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Skalerbarhet
-  </text>
-  
-
-  <defs>
-    <marker id="arrowTransform" markerWidth="15" markerHeight="10" 
-            refX="14" refY="5" orient="auto">
-      <polygon points="0 0, 15 5, 0 10" fill="#28a745" />
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="c" markerHeight="10" markerWidth="15" orient="auto" refX="14" refY="5"><path fill="#28a745" d="m0 0 15 5-15 5z"/></marker></defs></svg>

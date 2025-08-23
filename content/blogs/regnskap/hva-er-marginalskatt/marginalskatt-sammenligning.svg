@@ -1,135 +1,45 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="barGradient1" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="barGradient2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="barGradient3" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Sammenligning av Marginalskatt på Ulike Inntektsnivåer
-  </text>
-  
-
-  <text x="30" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#495057" transform="rotate(-90 30 200)">
+  </text><text x="30" y="200" fill="#495057" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" transform="rotate(-90 30 200)">
     Marginalskatt (%)
-  </text>
-  
-
-  <line x1="60" y1="80" x2="60" y2="380" stroke="#495057" stroke-width="2"/>
-  
-
-  <line x1="60" y1="380" x2="750" y2="380" stroke="#495057" stroke-width="2"/>
-  
-
-  <text x="50" y="85" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">50%</text>
-  <text x="50" y="155" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">40%</text>
-  <text x="50" y="225" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">30%</text>
-  <text x="50" y="295" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">20%</text>
-  <text x="50" y="365" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">10%</text>
-  <text x="50" y="385" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">0%</text>
-  
-
-  <line x1="60" y1="80" x2="750" y2="80" stroke="#e9ecef" stroke-width="1"/>
-  <line x1="60" y1="150" x2="750" y2="150" stroke="#e9ecef" stroke-width="1"/>
-  <line x1="60" y1="220" x2="750" y2="220" stroke="#e9ecef" stroke-width="1"/>
-  <line x1="60" y1="290" x2="750" y2="290" stroke="#e9ecef" stroke-width="1"/>
-  <line x1="60" y1="360" x2="750" y2="360" stroke="#e9ecef" stroke-width="1"/>
-  
-
-  <rect x="100" y="340" width="80" height="40" fill="url(#barGradient1)" stroke="#20c997" stroke-width="2"/>
-  <text x="140" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#20c997">
+  </text><path stroke="#495057" stroke-width="2" d="M60 80v300M60 380h690"/><text x="50" y="85" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">50%</text><text x="50" y="155" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">40%</text><text x="50" y="225" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">30%</text><text x="50" y="295" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">20%</text><text x="50" y="365" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">10%</text><text x="50" y="385" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">0%</text><path stroke="#e9ecef" d="M60 80h690M60 150h690M60 220h690M60 290h690M60 360h690"/><path fill="url(#b)" stroke="#20c997" stroke-width="2" d="M100 340h80v40h-80z"/><text x="140" y="330" fill="#20c997" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     16,3%
-  </text>
-  <text x="140" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="140" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     300 000 kr
-  </text>
-  <text x="140" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><text x="140" y="415" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Trinn 2
-  </text>
-  
-
-  <rect x="220" y="310" width="80" height="70" fill="url(#barGradient1)" stroke="#20c997" stroke-width="2"/>
-  <text x="260" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#20c997">
+  </text><path fill="url(#b)" stroke="#20c997" stroke-width="2" d="M220 310h80v70h-80z"/><text x="260" y="300" fill="#20c997" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     18,3%
-  </text>
-  <text x="260" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="260" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     500 000 kr
-  </text>
-  <text x="260" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><text x="260" y="415" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Trinn 2
-  </text>
-  
-
-  <rect x="340" y="185" width="80" height="195" fill="url(#barGradient2)" stroke="#fd7e14" stroke-width="2"/>
-  <text x="380" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fd7e14">
+  </text><path fill="url(#c)" stroke="#fd7e14" stroke-width="2" d="M340 185h80v195h-80z"/><text x="380" y="175" fill="#fd7e14" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     27,7%
-  </text>
-  <text x="380" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="380" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     750 000 kr
-  </text>
-  <text x="380" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><text x="380" y="415" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Trinn 3
-  </text>
-  
-
-  <rect x="460" y="185" width="80" height="195" fill="url(#barGradient2)" stroke="#fd7e14" stroke-width="2"/>
-  <text x="500" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fd7e14">
+  </text><path fill="url(#c)" stroke="#fd7e14" stroke-width="2" d="M460 185h80v195h-80z"/><text x="500" y="175" fill="#fd7e14" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     27,7%
-  </text>
-  <text x="500" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="500" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     1 000 000 kr
-  </text>
-  <text x="500" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><text x="500" y="415" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Trinn 3
-  </text>
-  
-
-  <rect x="580" y="125" width="80" height="255" fill="url(#barGradient3)" stroke="#e83e8c" stroke-width="2"/>
-  <text x="620" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e83e8c">
+  </text><path fill="url(#d)" stroke="#e83e8c" stroke-width="2" d="M580 125h80v255h-80z"/><text x="620" y="115" fill="#e83e8c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     30,7%
-  </text>
-  <text x="620" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="620" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     1 200 000 kr
-  </text>
-  <text x="620" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><text x="620" y="415" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Trinn 4
-  </text>
-  
-
-  <rect x="700" y="110" width="80" height="270" fill="url(#barGradient3)" stroke="#e83e8c" stroke-width="2"/>
-  <text x="740" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e83e8c">
+  </text><path fill="url(#d)" stroke="#e83e8c" stroke-width="2" d="M700 110h80v270h-80z"/><text x="740" y="100" fill="#e83e8c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     31,7%
-  </text>
-  <text x="740" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="740" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     1 500 000 kr
-  </text>
-  <text x="740" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><text x="740" y="415" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Trinn 5
-  </text>
-  
-
-  <rect x="50" y="440" width="700" height="50" fill="#fff" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="70" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="700" height="50" x="50" y="440" fill="#fff" stroke="#dee2e6" rx="5"/><text x="70" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Marginalskatt inkluderer:
-  </text>
-  <text x="70" y="475" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="70" y="475" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">
     Trinnskatt + Kommuneskatt (11,9%) + Fylkeskommunal skatt (2,4%)
-  </text>
-</svg>
+  </text></svg>

@@ -1,169 +1,71 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="salaryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="benefitGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1e40af;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#10b981;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskapsføring av gradert uføretrygd (50% arbeid + 50% uføretrygd)
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+  </text><text y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold" transform="translate(50 70)">
       Inntektsfordeling
-    </text>
-    
-
-    <rect x="0" y="40" width="400" height="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
-    <text x="200" y="60" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path fill="#e5e7eb" stroke="#9ca3af" d="M50 110h400v30H50z"/><text x="200" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 70)">
       Total tilsvarende lønn: 500.000 kr/år
-    </text>
-    
-
-    <rect x="0" y="80" width="200" height="40" fill="url(#salaryGrad)" stroke="#1e40af" stroke-width="2"/>
-    <text x="100" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path fill="url(#a)" stroke="#1e40af" stroke-width="2" d="M0 80h200v40H0z" transform="translate(50 70)"/><text x="100" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 70)">
       Lønn fra arbeidsgiver
       250.000 kr (50%)
-    </text>
-    
-
-    <rect x="200" y="80" width="200" height="40" fill="url(#benefitGrad)" stroke="#059669" stroke-width="2"/>
-    <text x="300" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path fill="url(#b)" stroke="#059669" stroke-width="2" d="M200 80h200v40H200z" transform="translate(50 70)"/><text x="300" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 70)">
       Uføretrygd fra NAV
       250.000 kr (50%)
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 180)">
-    <text x="0" y="20" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text><g transform="translate(50 180)"><text y="20" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Arbeidsgivers regnskapsføring (månedlig)
-    </text>
-    
-    <rect x="0" y="40" width="350" height="200" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
-    
-
-    <text x="10" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="350" height="200" y="40" fill="#f1f5f9" stroke="#cbd5e1" rx="8"/><text x="10" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Lønnskostnad (50% stilling):
-    </text>
-    <text x="20" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="20" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Debet: Lønnskostnad 20.833 kr
-    </text>
-    <text x="20" y="100" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="20" y="100" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Kredit: Skyldig lønn 20.833 kr
-    </text>
-    
-
-    <text x="10" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><text x="10" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Arbeidsgiveravgift:
-    </text>
-    <text x="20" y="145" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="20" y="145" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Debet: Arbeidsgiveravgift 2.937 kr
-    </text>
-    <text x="20" y="160" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="20" y="160" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Kredit: Skyldig off. avgifter 2.937 kr
-    </text>
-    
-
-    <text x="10" y="185" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><text x="10" y="185" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Utbetaling til ansatt:
-    </text>
-    <text x="20" y="205" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="20" y="205" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Debet: Skyldig lønn 20.833 kr
-    </text>
-    <text x="20" y="220" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="20" y="220" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Kredit: Bank 16.250 kr, Forskuddstrekk 4.583 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 180)">
-    <text x="0" y="20" fill="#059669" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(450 180)"><text y="20" fill="#059669" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       NAVs håndtering (månedlig)
-    </text>
-    
-    <rect x="0" y="40" width="300" height="120" rx="8" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1"/>
-    
-    <text x="10" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="300" height="120" y="40" fill="#f0fdf4" stroke="#bbf7d0" rx="8"/><text x="10" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Uføretrygdutbetaling:
-    </text>
-    <text x="20" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="20" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Brutto uføretrygd: 20.833 kr
-    </text>
-    <text x="20" y="100" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="20" y="100" fill="#374151" font-family="Arial, sans-serif" font-size="13">
       Forskuddstrekk: 4.583 kr
-    </text>
-    <text x="20" y="115" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+    </text><text x="20" y="115" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Netto til mottaker: 16.250 kr
-    </text>
-    <text x="20" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="20" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       (Ingen arbeidsgiveravgift for NAV)
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 420)">
-    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><text y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold" transform="translate(50 420)">
       Kostnadssammenligning for arbeidsgiver
-    </text>
-    
-
-    <rect x="0" y="40" width="700" height="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
-    <text x="175" y="60" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path fill="#e5e7eb" stroke="#9ca3af" d="M50 460h700v30H50z"/><text x="175" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 420)">
       Scenario
-    </text>
-    <text x="350" y="60" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><text x="350" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 420)">
       Månedlig lønnskostnad
-    </text>
-    <text x="525" y="60" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><text x="525" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 420)">
       Årlig totalkostnad
-    </text>
-    
-
-    <rect x="0" y="70" width="700" height="25" fill="white" stroke="#d1d5db" stroke-width="1"/>
-    <text x="175" y="87" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><path fill="#fff" stroke="#d1d5db" d="M50 490h700v25H50z"/><text x="175" y="87" fill="#374151" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" transform="translate(50 420)">
       100% stilling (før uførhet)
-    </text>
-    <text x="350" y="87" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="350" y="87" fill="#374151" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" transform="translate(50 420)">
       47.770 kr
-    </text>
-    <text x="525" y="87" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="525" y="87" fill="#374151" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" transform="translate(50 420)">
       573.240 kr
-    </text>
-    
-
-    <rect x="0" y="95" width="700" height="25" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
-    <text x="175" y="112" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><path fill="#f9fafb" stroke="#d1d5db" d="M50 515h700v25H50z"/><text x="175" y="112" fill="#374151" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" transform="translate(50 420)">
       50% stilling + 50% uføretrygd
-    </text>
-    <text x="350" y="112" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="350" y="112" fill="#374151" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" transform="translate(50 420)">
       23.770 kr
-    </text>
-    <text x="525" y="112" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="525" y="112" fill="#374151" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" transform="translate(50 420)">
       285.240 kr
-    </text>
-    
-
-    <rect x="0" y="120" width="700" height="25" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
-    <text x="175" y="137" text-anchor="middle" fill="#16a34a" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+    </text><path fill="#dcfce7" stroke="#16a34a" d="M50 540h700v25H50z"/><text x="175" y="137" fill="#16a34a" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" transform="translate(50 420)">
       Besparelse for arbeidsgiver
-    </text>
-    <text x="350" y="137" text-anchor="middle" fill="#16a34a" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+    </text><text x="350" y="137" fill="#16a34a" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" transform="translate(50 420)">
       24.000 kr/måned
-    </text>
-    <text x="525" y="137" text-anchor="middle" fill="#16a34a" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+    </text><text x="525" y="137" fill="#16a34a" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" transform="translate(50 420)">
       288.000 kr/år
-    </text>
-  </g>
-</svg>
+    </text></svg>

@@ -1,128 +1,33 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Praktisk Eksempel: ROE Beregning
-  </text>
-  
-
-  <rect x="50" y="80" width="700" height="200" fill="#ffffff" stroke="#ddd" stroke-width="1" rx="8"/>
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1976d2">
+  </text><rect width="700" height="200" x="50" y="80" fill="#fff" stroke="#ddd" rx="8"/><text x="400" y="110" fill="#1976d2" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Selskap A - Finansielle Data
-  </text>
-  
-
-  <rect x="70" y="130" width="200" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <rect x="270" y="130" width="120" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <rect x="390" y="130" width="120" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <rect x="510" y="130" width="200" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  
-  <text x="170" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">Regnskapspost</text>
-  <text x="330" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">År 1</text>
-  <text x="450" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">År 2</text>
-  <text x="610" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">Endring</text>
-  
-
-  <rect x="70" y="160" width="200" height="25" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
-  <rect x="270" y="160" width="120" height="25" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
-  <rect x="390" y="160" width="120" height="25" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
-  <rect x="510" y="160" width="200" height="25" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
-  
-  <text x="80" y="177" font-family="Arial, sans-serif" font-size="12" fill="#424242">Årsresultat etter skatt</text>
-  <text x="330" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#424242">2 500 000</text>
-  <text x="450" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#424242">3 200 000</text>
-  <text x="610" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4caf50">+28%</text>
-  
-  <rect x="70" y="185" width="200" height="25" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
-  <rect x="270" y="185" width="120" height="25" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
-  <rect x="390" y="185" width="120" height="25" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
-  <rect x="510" y="185" width="200" height="25" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
-  
-  <text x="80" y="202" font-family="Arial, sans-serif" font-size="12" fill="#424242">Egenkapital begynnelse</text>
-  <text x="330" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#424242">15 000 000</text>
-  <text x="450" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#424242">18 000 000</text>
-  <text x="610" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4caf50">+20%</text>
-  
-  <rect x="70" y="210" width="200" height="25" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
-  <rect x="270" y="210" width="120" height="25" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
-  <rect x="390" y="210" width="120" height="25" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
-  <rect x="510" y="210" width="200" height="25" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
-  
-  <text x="80" y="227" font-family="Arial, sans-serif" font-size="12" fill="#424242">Egenkapital slutt</text>
-  <text x="330" y="227" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#424242">18 000 000</text>
-  <text x="450" y="227" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#424242">21 500 000</text>
-  <text x="610" y="227" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4caf50">+19%</text>
-  
-  <rect x="70" y="235" width="200" height="25" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
-  <rect x="270" y="235" width="120" height="25" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
-  <rect x="390" y="235" width="120" height="25" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
-  <rect x="510" y="235" width="200" height="25" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
-  
-  <text x="80" y="252" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">Gjennomsnittlig Egenkapital</text>
-  <text x="330" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">16 500 000</text>
-  <text x="450" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">19 750 000</text>
-  <text x="610" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">+19,7%</text>
-  
-
-  <rect x="100" y="320" width="250" height="150" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/>
-  <text x="225" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M70 130h200v30H70zM270 130h120v30H270zM390 130h120v30H390zM510 130h200v30H510z"/><text x="170" y="150" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Regnskapspost</text><text x="330" y="150" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">År 1</text><text x="450" y="150" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">År 2</text><text x="610" y="150" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Endring</text><path fill="#f8f9fa" stroke="#ddd" d="M70 160h200v25H70zM270 160h120v25H270zM390 160h120v25H390zM510 160h200v25H510z"/><text x="80" y="177" fill="#424242" font-family="Arial, sans-serif" font-size="12">Årsresultat etter skatt</text><text x="330" y="177" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">2 500 000</text><text x="450" y="177" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">3 200 000</text><text x="610" y="177" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">+28%</text><path fill="#fff" stroke="#ddd" d="M70 185h200v25H70zM270 185h120v25H270zM390 185h120v25H390zM510 185h200v25H510z"/><text x="80" y="202" fill="#424242" font-family="Arial, sans-serif" font-size="12">Egenkapital begynnelse</text><text x="330" y="202" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">15 000 000</text><text x="450" y="202" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">18 000 000</text><text x="610" y="202" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">+20%</text><path fill="#f8f9fa" stroke="#ddd" d="M70 210h200v25H70zM270 210h120v25H270zM390 210h120v25H390zM510 210h200v25H510z"/><text x="80" y="227" fill="#424242" font-family="Arial, sans-serif" font-size="12">Egenkapital slutt</text><text x="330" y="227" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">18 000 000</text><text x="450" y="227" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">21 500 000</text><text x="610" y="227" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">+19%</text><path fill="#fff3e0" stroke="#ff9800" stroke-width="2" d="M70 235h200v25H70zM270 235h120v25H270zM390 235h120v25H390zM510 235h200v25H510z"/><text x="80" y="252" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Gjennomsnittlig Egenkapital</text><text x="330" y="252" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">16 500 000</text><text x="450" y="252" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">19 750 000</text><text x="610" y="252" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">+19,7%</text><rect width="250" height="150" x="100" y="320" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/><text x="225" y="345" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     År 2 Beregning
-  </text>
-  <text x="120" y="370" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="120" y="370" fill="#424242" font-family="Arial, sans-serif" font-size="14">
     Gjennomsnittlig EK:
-  </text>
-  <text x="120" y="390" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="120" y="390" fill="#666" font-family="Arial, sans-serif" font-size="12">
     (18 000 000 + 21 500 000) / 2
-  </text>
-  <text x="120" y="410" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="120" y="410" fill="#666" font-family="Arial, sans-serif" font-size="12">
     = 19 750 000 NOK
-  </text>
-  <text x="120" y="435" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="120" y="435" fill="#424242" font-family="Arial, sans-serif" font-size="14">
     ROE Beregning:
-  </text>
-  <text x="120" y="455" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="120" y="455" fill="#666" font-family="Arial, sans-serif" font-size="12">
     3 200 000 / 19 750 000 × 100%
-  </text>
-  
-
-  <rect x="450" y="320" width="250" height="150" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
-  <text x="575" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
+  </text><rect width="250" height="150" x="450" y="320" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/><text x="575" y="345" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Resultat
-  </text>
-  <text x="575" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#1976d2">
+  </text><text x="575" y="380" fill="#1976d2" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     16,2%
-  </text>
-  <text x="575" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="575" y="410" fill="#424242" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Meget god ROE
-  </text>
-  <text x="575" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="575" y="430" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Forbedring fra 15,2% i År 1
-  </text>
-  <text x="575" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="575" y="450" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sterk vekst i lønnsomhet
-  </text>
-  
-
-  <path d="M 350 395 L 450 395" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="150" y="500" width="500" height="80" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="8"/>
-  <text x="400" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7b1fa2">
+  </text><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#a)" d="M350 395h100"/><rect width="500" height="80" x="150" y="500" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="8"/><text x="400" y="525" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Analyse: Positiv Utvikling
-  </text>
-  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="400" y="545" fill="#424242" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     • Økt lønnsomhet (+28% i årsresultat) • Kontrollert vekst i egenkapital
-  </text>
-  <text x="400" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="400" y="565" fill="#424242" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     • ROE over bransjegjennomsnitt • Effektiv kapitalforvaltning
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

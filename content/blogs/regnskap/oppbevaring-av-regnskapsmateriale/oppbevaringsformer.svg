@@ -1,90 +1,11 @@
-<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="digitalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="physicalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#95a5a6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7f8c8d;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <rect width="600" height="300" fill="#f8f9fa"/>
-  
-  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#2980b9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#95a5a6;stop-opacity:1"/><stop offset="100%" style="stop-color:#7f8c8d;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h600v300H0z"/><text x="300" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Oppbevaringsformer
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <rect x="0" y="0" width="220" height="180" fill="url(#digitalGrad)" stroke="#2980b9" stroke-width="2" rx="10"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 70)"><rect width="220" height="180" fill="url(#a)" stroke="#2980b9" stroke-width="2" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Digital Oppbevaring
-    </text>
-    
-
-    <ellipse cx="70" cy="60" rx="15" ry="10" fill="white" opacity="0.8"/>
-    <ellipse cx="85" cy="55" rx="18" ry="12" fill="white" opacity="0.8"/>
-    <ellipse cx="100" cy="60" rx="15" ry="10" fill="white" opacity="0.8"/>
-    <rect x="55" y="60" width="60" height="10" fill="white" opacity="0.8"/>
-    
-    <rect x="140" y="50" width="25" height="20" fill="white" opacity="0.8" rx="2"/>
-    <rect x="142" y="52" width="21" height="12" fill="#2980b9"/>
-    <rect x="145" y="70" width="15" height="2" fill="white" opacity="0.8"/>
-    
-    <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Tekniske krav:</text>
-    <text x="20" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">• Lesbarhet</text>
-    <text x="20" y="118" font-family="Arial, sans-serif" font-size="10" fill="white">• Integritet</text>
-    <text x="20" y="131" font-family="Arial, sans-serif" font-size="10" fill="white">• Autentisitet</text>
-    
-    <text x="120" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Sikkerhet:</text>
-    <text x="120" y="105" font-family="Arial, sans-serif" font-size="10" fill="white">• Backup</text>
-    <text x="120" y="118" font-family="Arial, sans-serif" font-size="10" fill="white">• Tilgangskontroll</text>
-    <text x="120" y="131" font-family="Arial, sans-serif" font-size="10" fill="white">• Kryptering</text>
-    
-    <text x="110" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    </text><ellipse cx="70" cy="60" fill="#fff" opacity=".8" rx="15" ry="10"/><ellipse cx="85" cy="55" fill="#fff" opacity=".8" rx="18" ry="12"/><ellipse cx="100" cy="60" fill="#fff" opacity=".8" rx="15" ry="10"/><path fill="#fff" d="M55 60h60v10H55z" opacity=".8"/><rect width="25" height="20" x="140" y="50" fill="#fff" opacity=".8" rx="2"/><path fill="#2980b9" d="M142 52h21v12h-21z"/><path fill="#fff" d="M145 70h15v2h-15z" opacity=".8"/><text x="20" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Tekniske krav:</text><text x="20" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Lesbarhet</text><text x="20" y="118" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Integritet</text><text x="20" y="131" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Autentisitet</text><text x="120" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Sikkerhet:</text><text x="120" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Backup</text><text x="120" y="118" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Tilgangskontroll</text><text x="120" y="131" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Kryptering</text><text x="110" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Foretrukket metode
-    </text>
-  </g>
-  
-
-  <g transform="translate(330, 70)">
-    <rect x="0" y="0" width="220" height="180" fill="url(#physicalGrad)" stroke="#7f8c8d" stroke-width="2" rx="10"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(330 70)"><rect width="220" height="180" fill="url(#b)" stroke="#7f8c8d" stroke-width="2" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Fysisk Oppbevaring
-    </text>
-    
-
-    <rect x="60" y="45" width="40" height="35" fill="white" opacity="0.8" stroke="#7f8c8d" stroke-width="1"/>
-    <rect x="62" y="50" width="36" height="4" fill="#7f8c8d"/>
-    <rect x="62" y="56" width="36" height="4" fill="#7f8c8d"/>
-    <rect x="62" y="62" width="36" height="4" fill="#7f8c8d"/>
-    <rect x="62" y="68" width="36" height="4" fill="#7f8c8d"/>
-    <circle cx="92" cy="60" r="3" fill="#7f8c8d"/>
-    
-
-    <rect x="120" y="45" width="35" height="35" fill="white" opacity="0.8" stroke="#7f8c8d" stroke-width="2"/>
-    <circle cx="137" cy="62" r="8" fill="#7f8c8d"/>
-    <circle cx="137" cy="62" r="5" fill="white" opacity="0.8"/>
-    <rect x="125" y="50" width="24" height="3" fill="#7f8c8d"/>
-    
-    <text x="20" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Krav:</text>
-    <text x="20" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Brannsikkerhet</text>
-    <text x="20" y="123" font-family="Arial, sans-serif" font-size="10" fill="white">• Organisering</text>
-    <text x="20" y="136" font-family="Arial, sans-serif" font-size="10" fill="white">• Tilgangskontroll</text>
-    
-    <text x="120" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Miljø:</text>
-    <text x="120" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Temperatur</text>
-    <text x="120" y="123" font-family="Arial, sans-serif" font-size="10" fill="white">• Fuktighet</text>
-    <text x="120" y="136" font-family="Arial, sans-serif" font-size="10" fill="white">• Beskyttelse</text>
-    
-    <text x="110" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    </text><path fill="#fff" stroke="#7f8c8d" d="M60 45h40v35H60z" opacity=".8"/><path fill="#7f8c8d" d="M62 50h36v4H62zM62 56h36v4H62zM62 62h36v4H62zM62 68h36v4H62z"/><circle cx="92" cy="60" r="3" fill="#7f8c8d"/><path fill="#fff" stroke="#7f8c8d" stroke-width="2" d="M120 45h35v35h-35z" opacity=".8"/><circle cx="137" cy="62" r="8" fill="#7f8c8d"/><circle cx="137" cy="62" r="5" fill="#fff" opacity=".8"/><path fill="#7f8c8d" d="M125 50h24v3h-24z"/><text x="20" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Krav:</text><text x="20" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Brannsikkerhet</text><text x="20" y="123" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Organisering</text><text x="20" y="136" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Tilgangskontroll</text><text x="120" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Miljø:</text><text x="120" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Temperatur</text><text x="120" y="123" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Fuktighet</text><text x="120" y="136" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Beskyttelse</text><text x="110" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Tradisjonell metode
-    </text>
-  </g>
-  
-
-  <path d="M 280 160 L 320 160" fill="none" stroke="#34495e" stroke-width="3"/>
-  <text x="300" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#34495e">vs</text>
-</svg>
+    </text></g><path fill="none" stroke="#34495e" stroke-width="3" d="M280 160h40"/><text x="300" y="175" fill="#34495e" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">vs</text></svg>

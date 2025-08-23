@@ -1,117 +1,45 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     MVA-Beregning - Praktisk Eksempel
-  </text>
-  
-
-  <rect x="50" y="80" width="320" height="220" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="2" rx="10"/>
-  <text x="210" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e74c3c">
+  </text><rect width="320" height="220" x="50" y="80" fill="#e74c3c" stroke="#e74c3c" stroke-width="2" opacity=".1" rx="10"/><text x="210" y="110" fill="#e74c3c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     UTGÅENDE MVA (Salg)
-  </text>
-  
-
-  <rect x="70" y="130" width="280" height="40" fill="#e74c3c" opacity="0.8" rx="5"/>
-  <text x="210" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="280" height="40" x="70" y="130" fill="#e74c3c" opacity=".8" rx="5"/><text x="210" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Salg av varer: 10 000 kr + 25% MVA
-  </text>
-  
-
-  <text x="80" y="190" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="80" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     Salgspris ekskl. MVA: 10 000 kr
-  </text>
-  <text x="80" y="210" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="80" y="210" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     MVA (25%): 10 000 × 0,25 = 2 500 kr
-  </text>
-  <line x1="80" y1="220" x2="340" y2="220" stroke="#2c3e50" stroke-width="1"/>
-  <text x="80" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
+  </text><path stroke="#2c3e50" d="M80 220h260"/><text x="80" y="240" fill="#e74c3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Total salgspris: 12 500 kr
-  </text>
-  <text x="80" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
+  </text><text x="80" y="260" fill="#e74c3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Utgående MVA: 2 500 kr
-  </text>
-  
-
-  <rect x="430" y="80" width="320" height="220" fill="#3498db" opacity="0.1" stroke="#3498db" stroke-width="2" rx="10"/>
-  <text x="590" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#3498db">
+  </text><rect width="320" height="220" x="430" y="80" fill="#3498db" stroke="#3498db" stroke-width="2" opacity=".1" rx="10"/><text x="590" y="110" fill="#3498db" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     INNGÅENDE MVA (Kjøp)
-  </text>
-  
-
-  <rect x="450" y="130" width="280" height="40" fill="#3498db" opacity="0.8" rx="5"/>
-  <text x="590" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="280" height="40" x="450" y="130" fill="#3498db" opacity=".8" rx="5"/><text x="590" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kjøp av råvarer: 5 000 kr + 25% MVA
-  </text>
-  
-
-  <text x="460" y="190" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="460" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     Kjøpspris ekskl. MVA: 5 000 kr
-  </text>
-  <text x="460" y="210" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="460" y="210" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     MVA (25%): 5 000 × 0,25 = 1 250 kr
-  </text>
-  <line x1="460" y1="220" x2="720" y2="220" stroke="#2c3e50" stroke-width="1"/>
-  <text x="460" y="240" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">
+  </text><path stroke="#2c3e50" d="M460 220h260"/><text x="460" y="240" fill="#3498db" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Total kjøpspris: 6 250 kr
-  </text>
-  <text x="460" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">
+  </text><text x="460" y="260" fill="#3498db" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Inngående MVA: 1 250 kr
-  </text>
-  
-
-  <rect x="200" y="340" width="400" height="180" fill="#27ae60" opacity="0.1" stroke="#27ae60" stroke-width="3" rx="15"/>
-  <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#27ae60">
+  </text><rect width="400" height="180" x="200" y="340" fill="#27ae60" stroke="#27ae60" stroke-width="3" opacity=".1" rx="15"/><text x="400" y="370" fill="#27ae60" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     NETTO MVA TIL BETALING
-  </text>
-  
-
-  <rect x="220" y="390" width="360" height="100" fill="white" stroke="#bdc3c7" stroke-width="1" rx="5"/>
-  
-  <text x="400" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><rect width="360" height="100" x="220" y="390" fill="#fff" stroke="#bdc3c7" rx="5"/><text x="400" y="415" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Beregning:
-  </text>
-  
-  <text x="240" y="440" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+  </text><text x="240" y="440" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
     Utgående MVA (fra salg):
-  </text>
-  <text x="520" y="440" font-family="Arial, sans-serif" font-size="14" fill="#e74c3c" text-anchor="end">
+  </text><text x="520" y="440" fill="#e74c3c" font-family="Arial, sans-serif" font-size="14" text-anchor="end">
     2 500 kr
-  </text>
-  
-  <text x="240" y="460" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+  </text><text x="240" y="460" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
     Inngående MVA (fra kjøp):
-  </text>
-  <text x="520" y="460" font-family="Arial, sans-serif" font-size="14" fill="#3498db" text-anchor="end">
+  </text><text x="520" y="460" fill="#3498db" font-family="Arial, sans-serif" font-size="14" text-anchor="end">
     - 1 250 kr
-  </text>
-  
-  <line x1="240" y1="470" x2="520" y2="470" stroke="#2c3e50" stroke-width="2"/>
-  
-  <text x="240" y="485" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">
+  </text><path stroke="#2c3e50" stroke-width="2" d="M240 470h280"/><text x="240" y="485" fill="#27ae60" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Netto MVA til betaling:
-  </text>
-  <text x="520" y="485" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60" text-anchor="end">
+  </text><text x="520" y="485" fill="#27ae60" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="end">
     1 250 kr
-  </text>
-  
-
-  <defs>
-    <marker id="arrowgreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
-    </marker>
-  </defs>
-  
-
-  <line x1="210" y1="300" x2="300" y2="340" stroke="#27ae60" stroke-width="3" marker-end="url(#arrowgreen)"/>
-  
-
-  <line x1="590" y1="300" x2="500" y2="340" stroke="#27ae60" stroke-width="3" marker-end="url(#arrowgreen)"/>
-  
-
-  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+  </text><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#27ae60" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke="#27ae60" stroke-width="3" marker-end="url(#a)" d="m210 300 90 40"/><path stroke="#27ae60" stroke-width="3" marker-end="url(#a)" d="m590 300-90 40"/><text x="400" y="560" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Dette beløpet betales til Skatteetaten i MVA-oppgaven
-  </text>
-</svg>
+  </text></svg>

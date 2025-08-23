@@ -1,128 +1,53 @@
-<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="500" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="700" height="60" fill="url(#headerGrad)"/>
-  <text x="350" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h700v500H0z"/><path fill="url(#b)" d="M0 0h700v60H0z"/><text x="350" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Omsetningsanalyse og Nøkkeltall
-  </text>
-  
-
-
-  <rect x="50" y="80" width="280" height="180" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
-  <rect x="50" y="80" width="280" height="40" fill="#28a745" rx="8"/>
-  <text x="190" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="280" height="180" x="50" y="80" fill="#fff" stroke="#28a745" stroke-width="2" rx="8"/><rect width="280" height="40" x="50" y="80" fill="#28a745" rx="8"/><text x="190" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Omsetningsvekst
-  </text>
-  
-  <text x="190" y="135" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="190" y="135" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     (Ny - Gammel) / Gammel × 100%
-  </text>
-  
-  <rect x="70" y="150" width="240" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="5"/>
-  <text x="190" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="240" height="80" x="70" y="150" fill="#e8f5e8" stroke="#28a745" rx="5"/><text x="190" y="170" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Eksempel:
-  </text>
-  <text x="90" y="190" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="90" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     2022: 1 200 000 kr
-  </text>
-  <text x="90" y="205" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="90" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     2023: 1 440 000 kr
-  </text>
-  <text x="90" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+  </text><text x="90" y="220" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Vekst: 20%
-  </text>
-  
-
-  <rect x="370" y="80" width="280" height="180" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
-  <rect x="370" y="80" width="280" height="40" fill="#dc3545" rx="8"/>
-  <text x="510" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="280" height="180" x="370" y="80" fill="#fff" stroke="#dc3545" stroke-width="2" rx="8"/><rect width="280" height="40" x="370" y="80" fill="#dc3545" rx="8"/><text x="510" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Omsetning per Ansatt
-  </text>
-  
-  <text x="510" y="135" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><text x="510" y="135" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Total omsetning / Antall ansatte
-  </text>
-  
-  <rect x="390" y="150" width="240" height="80" fill="#fdeaea" stroke="#dc3545" stroke-width="1" rx="5"/>
-  <text x="510" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><rect width="240" height="80" x="390" y="150" fill="#fdeaea" stroke="#dc3545" rx="5"/><text x="510" y="170" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Eksempel:
-  </text>
-  <text x="410" y="190" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="410" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Omsetning: 2 400 000 kr
-  </text>
-  <text x="410" y="205" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="410" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Ansatte: 8 personer
-  </text>
-  <text x="410" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><text x="410" y="220" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Per ansatt: 300 000 kr
-  </text>
-  
-
-  <rect x="50" y="280" width="280" height="180" fill="white" stroke="#ffc107" stroke-width="2" rx="8"/>
-  <rect x="50" y="280" width="280" height="40" fill="#ffc107" rx="8"/>
-  <text x="190" y="305" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="280" height="180" x="50" y="280" fill="#fff" stroke="#ffc107" stroke-width="2" rx="8"/><rect width="280" height="40" x="50" y="280" fill="#ffc107" rx="8"/><text x="190" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Omsetning per Kunde
-  </text>
-  
-  <text x="190" y="335" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffc107">
+  </text><text x="190" y="335" fill="#ffc107" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Total omsetning / Antall kunder
-  </text>
-  
-  <rect x="70" y="350" width="240" height="80" fill="#fff8e1" stroke="#ffc107" stroke-width="1" rx="5"/>
-  <text x="190" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffc107">
+  </text><rect width="240" height="80" x="70" y="350" fill="#fff8e1" stroke="#ffc107" rx="5"/><text x="190" y="370" fill="#ffc107" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Eksempel:
-  </text>
-  <text x="90" y="390" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="90" y="390" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Omsetning: 1 800 000 kr
-  </text>
-  <text x="90" y="405" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="90" y="405" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Kunder: 150 stk
-  </text>
-  <text x="90" y="420" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffc107">
+  </text><text x="90" y="420" fill="#ffc107" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Per kunde: 12 000 kr
-  </text>
-  
-
-  <rect x="370" y="280" width="280" height="180" fill="white" stroke="#6f42c1" stroke-width="2" rx="8"/>
-  <rect x="370" y="280" width="280" height="40" fill="#6f42c1" rx="8"/>
-  <text x="510" y="305" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="280" height="180" x="370" y="280" fill="#fff" stroke="#6f42c1" stroke-width="2" rx="8"/><rect width="280" height="40" x="370" y="280" fill="#6f42c1" rx="8"/><text x="510" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Månedlig Gjennomsnitt
-  </text>
-  
-  <text x="510" y="335" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6f42c1">
+  </text><text x="510" y="335" fill="#6f42c1" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Årsomsetning / 12 måneder
-  </text>
-  
-  <rect x="390" y="350" width="240" height="80" fill="#f3e5f5" stroke="#6f42c1" stroke-width="1" rx="5"/>
-  <text x="510" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#6f42c1">
+  </text><rect width="240" height="80" x="390" y="350" fill="#f3e5f5" stroke="#6f42c1" rx="5"/><text x="510" y="370" fill="#6f42c1" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Eksempel:
-  </text>
-  <text x="410" y="390" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="410" y="390" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Årsomsetning: 3 600 000 kr
-  </text>
-  <text x="410" y="405" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="410" y="405" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Måneder: 12
-  </text>
-  <text x="410" y="420" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6f42c1">
+  </text><text x="410" y="420" fill="#6f42c1" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Per måned: 300 000 kr
-  </text>
-  
-
-  <rect x="100" y="480" width="500" height="15" fill="#e9ecef" stroke="#dee2e6" stroke-width="1" rx="3"/>
-  <text x="350" y="490" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
+  </text><rect width="500" height="15" x="100" y="480" fill="#e9ecef" stroke="#dee2e6" rx="3"/><text x="350" y="490" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Disse nøkkeltallene hjelper med å måle effektivitet og planlegge fremtidig vekst
-  </text>
-</svg>
+  </text></svg>

@@ -1,221 +1,71 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="controlGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.9" />
-    </linearGradient>
-    <linearGradient id="complianceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.9" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:.9"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:.9"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.9"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:.9"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Kontroll og Etterlevelse av Arbeidsgiveravgift
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="320" height="180" fill="white" stroke="#dc3545" stroke-width="3" rx="10"/>
-    <rect x="0" y="0" width="320" height="40" fill="url(#controlGradient)" rx="10"/>
-    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><g transform="translate(50 80)"><rect width="320" height="180" fill="#fff" stroke="#dc3545" stroke-width="3" rx="10"/><rect width="320" height="40" fill="url(#b)" rx="10"/><text x="160" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Skatteetatens Kontrollaktivitet
-    </text>
-    
-    <g transform="translate(20, 55)">
-      <g transform="translate(0, 0)">
-        <circle cx="8" cy="8" r="4" fill="#dc3545"/>
-        <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+    </text><g transform="translate(20 55)"><circle cx="8" cy="8" r="4" fill="#dc3545"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
           Automatiserte kontroller
-        </text>
-        <text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
           Kryssjekk av A-meldinger mot tidligere data
-        </text>
-      </g>
-      
-      <g transform="translate(0, 40)">
-        <circle cx="8" cy="8" r="4" fill="#dc3545"/>
-        <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+        </text></g><g transform="translate(20 95)"><circle cx="8" cy="8" r="4" fill="#dc3545"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
           Stikkprøvekontroller
-        </text>
-        <text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
           Utvalgte bedrifter kontrolleres grundig
-        </text>
-      </g>
-      
-      <g transform="translate(0, 80)">
-        <circle cx="8" cy="8" r="4" fill="#dc3545"/>
-        <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+        </text></g><g transform="translate(20 135)"><circle cx="8" cy="8" r="4" fill="#dc3545"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
           Bokettersyn
-        </text>
-        <text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
           Dyptgående gjennomgang av regnskap
-        </text>
-      </g>
-      
-      <g transform="translate(0, 120)">
-        <circle cx="8" cy="8" r="4" fill="#dc3545"/>
-        <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+        </text></g><g transform="translate(20 175)"><circle cx="8" cy="8" r="4" fill="#dc3545"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
           Sanksjoner
-        </text>
-        <text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
           Tilleggsskatt, renter og gebyrer
-        </text>
-      </g>
-    </g>
-  </g>
-  
-
-  <g transform="translate(430, 80)">
-    <rect x="0" y="0" width="320" height="180" fill="white" stroke="#28a745" stroke-width="3" rx="10"/>
-    <rect x="0" y="0" width="320" height="40" fill="url(#complianceGradient)" rx="10"/>
-    <text x="160" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+        </text></g></g><g transform="translate(430 80)"><rect width="320" height="180" fill="#fff" stroke="#28a745" stroke-width="3" rx="10"/><rect width="320" height="40" fill="url(#c)" rx="10"/><text x="160" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Bedriftens Etterlevelse
-    </text>
-    
-    <g transform="translate(20, 55)">
-      <g transform="translate(0, 0)">
-        <circle cx="8" cy="8" r="4" fill="#28a745"/>
-        <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+    </text><g transform="translate(20 55)"><circle cx="8" cy="8" r="4" fill="#28a745"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
           Korrekte beregninger
-        </text>
-        <text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
           Riktig sone, alder og grunnlag
-        </text>
-      </g>
-      
-      <g transform="translate(0, 40)">
-        <circle cx="8" cy="8" r="4" fill="#28a745"/>
-        <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+        </text></g><g transform="translate(20 95)"><circle cx="8" cy="8" r="4" fill="#28a745"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
           Rettidig rapportering
-        </text>
-        <text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
           A-melding innen 5. hver måned
-        </text>
-      </g>
-      
-      <g transform="translate(0, 80)">
-        <circle cx="8" cy="8" r="4" fill="#28a745"/>
-        <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+        </text></g><g transform="translate(20 135)"><circle cx="8" cy="8" r="4" fill="#28a745"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
           Dokumentasjon
-        </text>
-        <text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
           Oppbevare bilag og beregninger
-        </text>
-      </g>
-      
-      <g transform="translate(0, 120)">
-        <circle cx="8" cy="8" r="4" fill="#28a745"/>
-        <text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+        </text></g><g transform="translate(20 175)"><circle cx="8" cy="8" r="4" fill="#28a745"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
           Sporbarhet
-        </text>
-        <text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
           Kobling mellom lønn og regnskap
-        </text>
-      </g>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 290)">
-    <rect x="0" y="0" width="700" height="180" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
-    <text x="350" y="25" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+        </text></g></g><g transform="translate(50 290)"><rect width="700" height="180" fill="#fff" stroke="#06c" stroke-width="2" rx="10"/><text x="350" y="25" fill="#06c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Kontrollprosessen
-    </text>
-    
-
-    <g transform="translate(50, 50)">
-      <rect x="0" y="0" width="120" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/>
-      <text x="60" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><g transform="translate(50 50)"><rect width="120" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/><text x="60" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         1. Datainnsamling
-      </text>
-      <text x="60" y="35" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="60" y="35" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         A-meldinger
-      </text>
-      <text x="60" y="48" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="60" y="48" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         analyseres
-      </text>
-    </g>
-    
-
-    <g transform="translate(180, 75)">
-      <line x1="0" y1="0" x2="40" y2="0" stroke="#666" stroke-width="2"/>
-      <polygon points="35,-3 43,0 35,3" fill="#666"/>
-    </g>
-    
-
-    <g transform="translate(230, 50)">
-      <rect x="0" y="0" width="120" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/>
-      <text x="60" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      </text></g><path stroke="#666" stroke-width="2" d="M180 75h40"/><path fill="#666" d="m215 72 8 3-8 3z"/><g transform="translate(230 50)"><rect width="120" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/><text x="60" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2. Risikovurdering
-      </text>
-      <text x="60" y="35" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="60" y="35" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Identifiser
-      </text>
-      <text x="60" y="48" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="60" y="48" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         avvik
-      </text>
-    </g>
-    
-
-    <g transform="translate(360, 75)">
-      <line x1="0" y1="0" x2="40" y2="0" stroke="#666" stroke-width="2"/>
-      <polygon points="35,-3 43,0 35,3" fill="#666"/>
-    </g>
-    
-
-    <g transform="translate(410, 50)">
-      <rect x="0" y="0" width="120" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/>
-      <text x="60" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      </text></g><path stroke="#666" stroke-width="2" d="M360 75h40"/><path fill="#666" d="m395 72 8 3-8 3z"/><g transform="translate(410 50)"><rect width="120" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/><text x="60" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         3. Kontrollhandling
-      </text>
-      <text x="60" y="35" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="60" y="35" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Bokettersyn eller
-      </text>
-      <text x="60" y="48" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="60" y="48" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         forespørsel
-      </text>
-    </g>
-    
-
-    <g transform="translate(540, 75)">
-      <line x1="0" y1="0" x2="40" y2="0" stroke="#666" stroke-width="2"/>
-      <polygon points="35,-3 43,0 35,3" fill="#666"/>
-    </g>
-    
-
-    <g transform="translate(590, 50)">
-      <rect x="0" y="0" width="80" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/>
-      <text x="40" y="20" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      </text></g><path stroke="#666" stroke-width="2" d="M540 75h40"/><path fill="#666" d="m575 72 8 3-8 3z"/><g transform="translate(590 50)"><rect width="80" height="60" fill="#e9ecef" stroke="#666" stroke-width="2" rx="5"/><text x="40" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         4. Resultat
-      </text>
-      <text x="40" y="35" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="40" y="35" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Vedtak eller
-      </text>
-      <text x="40" y="48" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+      </text><text x="40" y="48" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         godkjenning
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 130)">
-      <text x="0" y="15" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text></g><g font-family="Arial, sans-serif"><text y="15" fill="#06c" font-size="14" font-weight="bold" transform="translate(20 130)">
         Beste praksis for å unngå kontrollproblemer:
-      </text>
-      <text x="0" y="35" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="35" fill="#333" font-size="12" transform="translate(20 130)">
         • Implementer automatiserte kontroller i lønnssystemet • Gjennomfør månedlige avstemminger
-      </text>
-      <text x="0" y="50" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="50" fill="#333" font-size="12" transform="translate(20 130)">
         • Oppbevar all dokumentasjon systematisk • Hold deg oppdatert på regelverksendringer
-      </text>
-    </g>
-  </g>
-</svg>
+      </text></g></g></svg>

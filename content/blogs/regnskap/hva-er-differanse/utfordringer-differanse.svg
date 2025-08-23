@@ -1,322 +1,97 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="challenge1Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c62828;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="challenge2Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="challenge3Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#c62828;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Utfordringer og Løsninger i Differansehåndtering
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    
-
-    <g transform="translate(0, 0)">
-      <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#challenge1Gradient)" opacity="0.9"/>
-      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="220" height="150" fill="url(#b)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Utfordring 1: Komplekse Avviksanalyser
-      </text>
-      
-
-      <g transform="translate(85, 35)">
-        <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
-        <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">⚠️</text>
-        <text x="25" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+      </text><g fill="#fff" transform="translate(85 35)"><circle cx="25" cy="25" r="20" opacity=".3"/><text x="25" y="30" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">⚠️</text><text x="25" y="55" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
           Kompleksitet
-        </text>
-      </g>
-      
-
-      <g transform="translate(15, 85)">
-        <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        </text></g><g fill="#fff" font-family="Arial, sans-serif"><text y="15" font-size="12" font-weight="bold" transform="translate(15 85)">
           Problem:
-        </text>
-        <text x="0" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="30" font-size="10" transform="translate(15 85)">
           Vanskelig å identifisere årsaker til avvik
-        </text>
-        <text x="0" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="45" font-size="10" transform="translate(15 85)">
           Mange variabler og sammenhenger
-        </text>
-      </g>
-    </g>
-    
-
-    <g transform="translate(240, 0)">
-      <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#solutionGradient)" opacity="0.9"/>
-      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        </text></g></g><g transform="translate(290 80)"><rect width="220" height="150" fill="url(#c)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Løsning 1
-      </text>
-      
-
-      <g transform="translate(85, 35)">
-        <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
-        <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">✅</text>
-        <text x="25" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+      </text><g fill="#fff" transform="translate(85 35)"><circle cx="25" cy="25" r="20" opacity=".3"/><text x="25" y="30" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">✅</text><text x="25" y="55" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
           Systematisk tilnærming
-        </text>
-      </g>
-      
-
-      <g transform="translate(15, 85)">
-        <circle cx="8" cy="8" r="4" fill="white"/>
-        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text></g><g fill="#fff" transform="translate(15 85)"><circle cx="8" cy="8" r="4"/><text x="20" y="12" font-family="Arial, sans-serif" font-size="10">
           Detaljert kontoplan
-        </text>
-        
-        <circle cx="8" cy="25" r="4" fill="white"/>
-        <text x="20" y="29" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><circle cx="8" cy="25" r="4"/><text x="20" y="29" font-family="Arial, sans-serif" font-size="10">
           Systematisk årsaksanalyse
-        </text>
-        
-        <circle cx="8" cy="42" r="4" fill="white"/>
-        <text x="20" y="46" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><circle cx="8" cy="42" r="4"/><text x="20" y="46" font-family="Arial, sans-serif" font-size="10">
           Involvering av operative ledere
-        </text>
-      </g>
-    </g>
-    
-
-    <g transform="translate(480, 0)">
-      <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#challenge2Gradient)" opacity="0.9"/>
-      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        </text></g></g><g transform="translate(530 80)"><rect width="220" height="150" fill="url(#d)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Utfordring 2: Tidkrevende Avstemminger
-      </text>
-      
-
-      <g transform="translate(85, 35)">
-        <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
-        <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">⏰</text>
-        <text x="25" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+      </text><g fill="#fff" transform="translate(85 35)"><circle cx="25" cy="25" r="20" opacity=".3"/><text x="25" y="30" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">⏰</text><text x="25" y="55" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
           Tidspress
-        </text>
-      </g>
-      
-
-      <g transform="translate(15, 85)">
-        <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        </text></g><g fill="#fff" font-family="Arial, sans-serif"><text y="15" font-size="12" font-weight="bold" transform="translate(15 85)">
           Problem:
-        </text>
-        <text x="0" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="30" font-size="10" transform="translate(15 85)">
           Manuell avstemming tar for mye tid
-        </text>
-        <text x="0" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="45" font-size="10" transform="translate(15 85)">
           Ressurskrevende prosesser
-        </text>
-      </g>
-    </g>
-    
-
-    <g transform="translate(0, 170)">
-      <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#solutionGradient)" opacity="0.9"/>
-      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        </text></g></g><g transform="translate(50 250)"><rect width="220" height="150" fill="url(#c)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Løsning 2
-      </text>
-      
-
-      <g transform="translate(85, 35)">
-        <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
-        <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">🤖</text>
-        <text x="25" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+      </text><g fill="#fff" transform="translate(85 35)"><circle cx="25" cy="25" r="20" opacity=".3"/><text x="25" y="30" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">🤖</text><text x="25" y="55" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
           Automatisering
-        </text>
-      </g>
-      
-
-      <g transform="translate(15, 85)">
-        <circle cx="8" cy="8" r="4" fill="white"/>
-        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text></g><g fill="#fff" transform="translate(15 85)"><circle cx="8" cy="8" r="4"/><text x="20" y="12" font-family="Arial, sans-serif" font-size="10">
           Automatisering av rutineoppgaver
-        </text>
-        
-        <circle cx="8" cy="25" r="4" fill="white"/>
-        <text x="20" y="29" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><circle cx="8" cy="25" r="4"/><text x="20" y="29" font-family="Arial, sans-serif" font-size="10">
           Standardiserte prosedyrer
-        </text>
-        
-        <circle cx="8" cy="42" r="4" fill="white"/>
-        <text x="20" y="46" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><circle cx="8" cy="42" r="4"/><text x="20" y="46" font-family="Arial, sans-serif" font-size="10">
           Digitale verktøy
-        </text>
-      </g>
-    </g>
-    
-
-    <g transform="translate(240, 170)">
-      <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#challenge3Gradient)" opacity="0.9"/>
-      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        </text></g></g><g transform="translate(290 250)"><rect width="220" height="150" fill="url(#e)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Utfordring 3: Inkonsistente Rapporter
-      </text>
-      
-
-      <g transform="translate(85, 35)">
-        <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
-        <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">📊</text>
-        <text x="25" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+      </text><g fill="#fff" transform="translate(85 35)"><circle cx="25" cy="25" r="20" opacity=".3"/><text x="25" y="30" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">📊</text><text x="25" y="55" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
           Inkonsistens
-        </text>
-      </g>
-      
-
-      <g transform="translate(15, 85)">
-        <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+        </text></g><g fill="#fff" font-family="Arial, sans-serif"><text y="15" font-size="12" font-weight="bold" transform="translate(15 85)">
           Problem:
-        </text>
-        <text x="0" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="30" font-size="10" transform="translate(15 85)">
           Ulike definisjoner og beregninger
-        </text>
-        <text x="0" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="45" font-size="10" transform="translate(15 85)">
           Manglende standardisering
-        </text>
-      </g>
-    </g>
-    
-
-    <g transform="translate(480, 170)">
-      <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#solutionGradient)" opacity="0.9"/>
-      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        </text></g></g><g transform="translate(530 250)"><rect width="220" height="150" fill="url(#c)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Løsning 3
-      </text>
-      
-
-      <g transform="translate(85, 35)">
-        <circle cx="25" cy="25" r="20" fill="white" opacity="0.3"/>
-        <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white">📋</text>
-        <text x="25" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+      </text><g fill="#fff" transform="translate(85 35)"><circle cx="25" cy="25" r="20" opacity=".3"/><text x="25" y="30" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">📋</text><text x="25" y="55" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
           Standardisering
-        </text>
-      </g>
-      
-
-      <g transform="translate(15, 85)">
-        <circle cx="8" cy="8" r="4" fill="white"/>
-        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text></g><g fill="#fff" transform="translate(15 85)"><circle cx="8" cy="8" r="4"/><text x="20" y="12" font-family="Arial, sans-serif" font-size="10">
           Felles rapportmaler
-        </text>
-        
-        <circle cx="8" cy="25" r="4" fill="white"/>
-        <text x="20" y="29" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><circle cx="8" cy="25" r="4"/><text x="20" y="29" font-family="Arial, sans-serif" font-size="10">
           Dokumenterte prosedyrer
-        </text>
-        
-        <circle cx="8" cy="42" r="4" fill="white"/>
-        <text x="20" y="46" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><circle cx="8" cy="42" r="4"/><text x="20" y="46" font-family="Arial, sans-serif" font-size="10">
           Opplæring av personale
-        </text>
-      </g>
-    </g>
-    
-  </g>
-  
-
-  <g transform="translate(50, 420)">
-    <rect x="0" y="0" width="700" height="130" rx="10" fill="#6c757d" opacity="0.9"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+        </text></g></g><g transform="translate(50 420)"><rect width="700" height="130" fill="#6c757d" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Implementeringsveikart for Løsninger
-    </text>
-    
-
-    <g transform="translate(50, 40)">
-      <rect x="0" y="0" width="120" height="70" rx="5" fill="white" opacity="0.1"/>
-      <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(50 40)"><rect width="120" height="70" opacity=".1" rx="5"/><text x="60" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Fase 1: Kartlegging
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="9">
         • Identifiser utfordringer
-      </text>
-      <text x="10" y="48" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="48" font-family="Arial, sans-serif" font-size="9">
         • Analyser nåsituasjon
-      </text>
-      <text x="10" y="61" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="61" font-family="Arial, sans-serif" font-size="9">
         • Prioriter forbedringer
-      </text>
-    </g>
-    
-
-    <path d="M 180 75 L 200 75" stroke="white" stroke-width="2" fill="none"/>
-    <polygon points="195,70 205,75 195,80" fill="white"/>
-    
-
-    <g transform="translate(210, 40)">
-      <rect x="0" y="0" width="120" height="70" rx="5" fill="white" opacity="0.1"/>
-      <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text></g><path fill="none" stroke="#fff" stroke-width="2" d="M180 75h20"/><path fill="#fff" d="m195 70 10 5-10 5z"/><g fill="#fff" transform="translate(210 40)"><rect width="120" height="70" opacity=".1" rx="5"/><text x="60" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Fase 2: Planlegging
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="9">
         • Utvikle løsninger
-      </text>
-      <text x="10" y="48" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="48" font-family="Arial, sans-serif" font-size="9">
         • Lage implementeringsplan
-      </text>
-      <text x="10" y="61" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="61" font-family="Arial, sans-serif" font-size="9">
         • Allokere ressurser
-      </text>
-    </g>
-    
-
-    <path d="M 340 75 L 360 75" stroke="white" stroke-width="2" fill="none"/>
-    <polygon points="355,70 365,75 355,80" fill="white"/>
-    
-
-    <g transform="translate(370, 40)">
-      <rect x="0" y="0" width="120" height="70" rx="5" fill="white" opacity="0.1"/>
-      <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text></g><path fill="none" stroke="#fff" stroke-width="2" d="M340 75h20"/><path fill="#fff" d="m355 70 10 5-10 5z"/><g fill="#fff" transform="translate(370 40)"><rect width="120" height="70" opacity=".1" rx="5"/><text x="60" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Fase 3: Implementering
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="9">
         • Innføre løsninger
-      </text>
-      <text x="10" y="48" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="48" font-family="Arial, sans-serif" font-size="9">
         • Trene personale
-      </text>
-      <text x="10" y="61" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="61" font-family="Arial, sans-serif" font-size="9">
         • Overvåke fremgang
-      </text>
-    </g>
-    
-
-    <path d="M 500 75 L 520 75" stroke="white" stroke-width="2" fill="none"/>
-    <polygon points="515,70 525,75 515,80" fill="white"/>
-    
-
-    <g transform="translate(530, 40)">
-      <rect x="0" y="0" width="120" height="70" rx="5" fill="white" opacity="0.1"/>
-      <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text></g><path fill="none" stroke="#fff" stroke-width="2" d="M500 75h20"/><path fill="#fff" d="m515 70 10 5-10 5z"/><g fill="#fff" transform="translate(530 40)"><rect width="120" height="70" opacity=".1" rx="5"/><text x="60" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Fase 4: Optimalisering
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="9">
         • Evaluere resultater
-      </text>
-      <text x="10" y="48" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="48" font-family="Arial, sans-serif" font-size="9">
         • Finjustere prosesser
-      </text>
-      <text x="10" y="61" font-family="Arial, sans-serif" font-size="9" fill="white">
+      </text><text x="10" y="61" font-family="Arial, sans-serif" font-size="9">
         • Kontinuerlig forbedring
-      </text>
-    </g>
-  </g>
-  
-</svg>
+      </text></g></g></svg>

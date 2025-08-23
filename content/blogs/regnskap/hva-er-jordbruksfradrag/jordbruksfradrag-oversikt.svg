@@ -1,194 +1,85 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f1f8e9;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#dcedc8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#388e3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" />
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)" />
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f1f8e9;stop-opacity:1"/><stop offset="100%" style="stop-color:#dcedc8;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#388e3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><path fill="url(#b)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Jordbruksfradrag - Oversikt
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-
-    <rect x="0" y="0" width="180" height="80" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+  </text><g transform="translate(50 80)"><rect width="180" height="80" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><text x="90" y="25" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Landbruksvirksomhet
-    </text>
-    <text x="90" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="90" y="45" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Aktiv produksjon
-    </text>
-    <text x="90" y="60" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="90" y="60" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Registrert virksomhet
-    </text>
-    
-
-    <polygon points="190,40 210,35 210,45" fill="#4caf50"/>
-    <line x1="180" y1="40" x2="210" y2="40" stroke="#4caf50" stroke-width="2"/>
-    
-
-    <rect x="220" y="0" width="180" height="80" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <text x="310" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+    </text><path fill="#4caf50" d="m190 40 20-5v10z"/><path stroke="#4caf50" stroke-width="2" d="M180 40h30"/><rect width="180" height="80" x="220" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><text x="310" y="25" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Beregning av Fradrag
-    </text>
-    <text x="310" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="310" y="45" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Prosentsats av inntekt
-    </text>
-    <text x="310" y="60" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="310" y="60" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Maksimalbeløp
-    </text>
-    
-
-    <polygon points="410,40 430,35 430,45" fill="#4caf50"/>
-    <line x1="400" y1="40" x2="430" y2="40" stroke="#4caf50" stroke-width="2"/>
-    
-
-    <rect x="440" y="0" width="180" height="80" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <text x="530" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+    </text><path fill="#4caf50" d="m410 40 20-5v10z"/><path stroke="#4caf50" stroke-width="2" d="M400 40h30"/><rect width="180" height="80" x="440" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><text x="530" y="25" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Skattefradrag
-    </text>
-    <text x="530" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="530" y="45" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Redusert skattepliktig
-    </text>
-    <text x="530" y="60" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="530" y="60" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       inntekt
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 200)">
-
-    <rect x="0" y="0" width="220" height="250" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <rect x="0" y="0" width="220" height="40" fill="#4caf50" rx="10"/>
-    <rect x="0" y="30" width="220" height="10" fill="#4caf50"/>
-    <text x="110" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><g transform="translate(50 200)"><rect width="220" height="250" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><rect width="220" height="40" fill="#4caf50" rx="10"/><path fill="#4caf50" d="M0 30h220v10H0z"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Vilkår for Fradrag
-    </text>
-    
-    <text x="20" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="20" y="65" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       • Aktiv landbruksdrift
-    </text>
-    <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="85" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Regelmessig produksjon
-    </text>
-    
-    <text x="20" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="20" y="110" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       • Registrering
-    </text>
-    <text x="20" y="130" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="130" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Enhetsregisteret
-    </text>
-    <text x="20" y="145" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="145" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Landbruksregister
-    </text>
-    
-    <text x="20" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="20" y="170" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       • Dokumentasjon
-    </text>
-    <text x="20" y="190" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="190" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Komplett regnskap
-    </text>
-    <text x="20" y="205" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="205" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Produksjonsregistrering
-    </text>
-    
-    <text x="20" y="230" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="20" y="230" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       • Rapportering
-    </text>
-    <text x="20" y="245" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="245" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Selvangivelse
-    </text>
-    
-
-    <rect x="240" y="0" width="220" height="250" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <rect x="240" y="0" width="220" height="40" fill="#4caf50" rx="10"/>
-    <rect x="240" y="30" width="220" height="10" fill="#4caf50"/>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="220" height="250" x="240" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><rect width="220" height="40" x="240" fill="#4caf50" rx="10"/><path fill="#4caf50" d="M240 30h220v10H240z"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Beregningssatser
-    </text>
-    
-    <text x="260" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="260" y="65" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       0 - 500 000 kr:
-    </text>
-    <text x="260" y="80" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="260" y="80" fill="#666" font-family="Arial, sans-serif" font-size="12">
       35% (maks 175 000 kr)
-    </text>
-    
-    <text x="260" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="260" y="105" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       500 001 - 1 000 000 kr:
-    </text>
-    <text x="260" y="120" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="260" y="120" fill="#666" font-family="Arial, sans-serif" font-size="12">
       18% (maks 90 000 kr)
-    </text>
-    
-    <text x="260" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="260" y="145" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Over 1 000 000 kr:
-    </text>
-    <text x="260" y="160" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="260" y="160" fill="#666" font-family="Arial, sans-serif" font-size="12">
       11% (ingen øvre grense)
-    </text>
-    
-    <text x="260" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="260" y="185" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Spesielle regler:
-    </text>
-    <text x="260" y="200" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="260" y="200" fill="#666" font-family="Arial, sans-serif" font-size="12">
       • Skogbruk
-    </text>
-    <text x="260" y="215" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="260" y="215" fill="#666" font-family="Arial, sans-serif" font-size="12">
       • Reindrift
-    </text>
-    <text x="260" y="230" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="260" y="230" fill="#666" font-family="Arial, sans-serif" font-size="12">
       • Kombinert drift
-    </text>
-    
-
-    <rect x="480" y="0" width="220" height="250" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <rect x="480" y="0" width="220" height="40" fill="#4caf50" rx="10"/>
-    <rect x="480" y="30" width="220" height="10" fill="#4caf50"/>
-    <text x="590" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="220" height="250" x="480" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><rect width="220" height="40" x="480" fill="#4caf50" rx="10"/><path fill="#4caf50" d="M480 30h220v10H480z"/><text x="590" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Fordeler &amp; Formål
-    </text>
-    
-    <text x="500" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="500" y="65" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       • Kompensasjon
-    </text>
-    <text x="500" y="80" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="500" y="80" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Lavere lønnsomhet
-    </text>
-    
-    <text x="500" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="500" y="105" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       • Distriktspolitikk
-    </text>
-    <text x="500" y="120" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="500" y="120" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Opprettholde bosetting
-    </text>
-    
-    <text x="500" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="500" y="145" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       • Matproduksjon
-    </text>
-    <text x="500" y="160" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="500" y="160" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Sikre nasjonal beredskap
-    </text>
-    
-    <text x="500" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><text x="500" y="185" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       • Miljø &amp; Landskap
-    </text>
-    <text x="500" y="200" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="500" y="200" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Vedlikehold av
-    </text>
-    <text x="500" y="215" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="500" y="215" fill="#666" font-family="Arial, sans-serif" font-size="12">
       kulturlandskap
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

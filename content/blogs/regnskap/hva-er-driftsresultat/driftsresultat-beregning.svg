@@ -1,147 +1,67 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="formulaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:0.1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:.1"/><stop offset="100%" style="stop-color:#049;stop-opacity:.1"/></linearGradient><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Beregning av Driftsresultat
-  </text>
-  
-
-  <rect x="50" y="90" width="700" height="80" fill="url(#formulaGradient)" stroke="#0066cc" stroke-width="2" rx="10"/>
-  <text x="400" y="125" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="700" height="80" x="50" y="90" fill="url(#b)" stroke="#06c" stroke-width="2" rx="10"/><text x="400" y="125" fill="#06c" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Driftsresultat = Driftsinntekter - Driftskostnader
-  </text>
-  <text x="400" y="150" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#666">
+  </text><text x="400" y="150" fill="#666" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Grunnleggende formel for operasjonell lønnsomhet
-  </text>
-  
-
-  <rect x="50" y="200" width="700" height="350" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  
-
-  <rect x="50" y="200" width="700" height="40" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
-  <text x="150" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><rect width="700" height="350" x="50" y="200" fill="#fff" stroke="#dee2e6" rx="5"/><path fill="#f8f9fa" stroke="#dee2e6" d="M50 200h700v40H50z"/><text x="150" y="225" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Post
-  </text>
-  <text x="400" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><text x="400" y="225" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Beskrivelse
-  </text>
-  <text x="650" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><text x="650" y="225" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Beløp (NOK)
-  </text>
-  
-
-  <rect x="50" y="240" width="700" height="20" fill="#e8f5e8"/>
-  <text x="70" y="255" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+  </text><path fill="#e8f5e8" d="M50 240h700v20H50z"/><text x="70" y="255" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     DRIFTSINNTEKTER
-  </text>
-  
-  <text x="70" y="275" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="275" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Salgsinntekter
-  </text>
-  <text x="300" y="275" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="300" y="275" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Inntekter fra salg av varer/tjenester
-  </text>
-  <text x="650" y="275" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="650" y="275" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     10 000 000
-  </text>
-  
-  <text x="70" y="295" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="295" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Andre driftsinntekter
-  </text>
-  <text x="300" y="295" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="300" y="295" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Leieinntekter, provisjoner, etc.
-  </text>
-  <text x="650" y="295" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="650" y="295" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     500 000
-  </text>
-  
-  <line x1="50" y1="305" x2="750" y2="305" stroke="#28a745" stroke-width="1"/>
-  <text x="70" y="325" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+  </text><path stroke="#28a745" d="M50 305h700"/><text x="70" y="325" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Sum driftsinntekter
-  </text>
-  <text x="650" y="325" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="650" y="325" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     10 500 000
-  </text>
-  
-
-  <rect x="50" y="340" width="700" height="20" fill="#fde8e8"/>
-  <text x="70" y="355" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
+  </text><path fill="#fde8e8" d="M50 340h700v20H50z"/><text x="70" y="355" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     DRIFTSKOSTNADER
-  </text>
-  
-  <text x="70" y="375" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="375" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Varekostnad
-  </text>
-  <text x="300" y="375" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="300" y="375" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Kostnad for solgte varer
-  </text>
-  <text x="650" y="375" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="650" y="375" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     -6 000 000
-  </text>
-  
-  <text x="70" y="395" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="395" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Lønnskostnader
-  </text>
-  <text x="300" y="395" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="300" y="395" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Lønn og arbeidsgiveravgift
-  </text>
-  <text x="650" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="650" y="395" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     -2 000 000
-  </text>
-  
-  <text x="70" y="415" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="415" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Andre driftskostnader
-  </text>
-  <text x="300" y="415" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="300" y="415" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Husleie, markedsføring, etc.
-  </text>
-  <text x="650" y="415" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="650" y="415" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     -1 200 000
-  </text>
-  
-  <text x="70" y="435" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="435" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Avskrivninger
-  </text>
-  <text x="300" y="435" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="300" y="435" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Avskrivning på maskiner og utstyr
-  </text>
-  <text x="650" y="435" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="650" y="435" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     -300 000
-  </text>
-  
-  <line x1="50" y1="445" x2="750" y2="445" stroke="#dc3545" stroke-width="1"/>
-  <text x="70" y="465" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
+  </text><path stroke="#dc3545" d="M50 445h700"/><text x="70" y="465" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Sum driftskostnader
-  </text>
-  <text x="650" y="465" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><text x="650" y="465" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     -9 500 000
-  </text>
-  
-
-  <rect x="50" y="480" width="700" height="40" fill="#e8f4fd" stroke="#0066cc" stroke-width="2"/>
-  <text x="70" y="505" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
+  </text><path fill="#e8f4fd" stroke="#06c" stroke-width="2" d="M50 480h700v40H50z"/><text x="70" y="505" fill="#06c" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     DRIFTSRESULTAT
-  </text>
-  <text x="650" y="505" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><text x="650" y="505" fill="#06c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     1 000 000
-  </text>
-  
-
-  <text x="400" y="570" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666">
+  </text><text x="400" y="570" fill="#666" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Driftsmargin: (1 000 000 ÷ 10 500 000) × 100 = 9,5%
-  </text>
-</svg>
+  </text></svg>

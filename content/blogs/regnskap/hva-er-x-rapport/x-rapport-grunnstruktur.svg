@@ -1,134 +1,59 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#2196F3;stop-opacity:0.8"/>
-    </linearGradient>
-  </defs>
-
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:.8"/><stop offset="100%" style="stop-color:#2196f3;stop-opacity:.8"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     X-rapport Grunnstruktur
-  </text>
-  
-
-  <rect x="50" y="70" width="150" height="80" fill="url(#grad1)" rx="8"/>
-  <text x="125" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="80" x="50" y="70" fill="url(#a)" rx="8"/><text x="125" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kassasystem
-  </text>
-  <text x="125" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="125" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (Aktiv)
-  </text>
-  <text x="125" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="125" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Tellere fortsetter
-  </text>
-  
-
-  <path d="M220 110 L280 110" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="300" y="70" width="150" height="80" fill="#FF9800" rx="8"/>
-  <text x="375" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><path stroke="#333" stroke-width="2" marker-end="url(#b)" d="M220 110h60"/><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#333" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="150" height="80" x="300" y="70" fill="#ff9800" rx="8"/><text x="375" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     X-rapport
-  </text>
-  <text x="375" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="375" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Genereres
-  </text>
-  <text x="375" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="375" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (Ikke-destruktiv)
-  </text>
-  
-
-  <path d="M470 110 L530 110" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="550" y="70" width="150" height="80" fill="url(#grad1)" rx="8"/>
-  <text x="625" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><path stroke="#333" stroke-width="2" marker-end="url(#b)" d="M470 110h60"/><rect width="150" height="80" x="550" y="70" fill="url(#a)" rx="8"/><text x="625" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kassasystem
-  </text>
-  <text x="625" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="625" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Fortsetter drift
-  </text>
-  <text x="625" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="625" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Uendret status
-  </text>
-  
-
-  <rect x="50" y="200" width="700" height="250" fill="white" stroke="#ddd" stroke-width="1" rx="8"/>
-  <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+  </text><rect width="700" height="250" x="50" y="200" fill="#fff" stroke="#ddd" rx="8"/><text x="400" y="230" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Hovedfunksjoner ved X-rapport
-  </text>
-  
-
-  <rect x="80" y="260" width="150" height="100" fill="#E3F2FD" stroke="#2196F3" stroke-width="1" rx="5"/>
-  <text x="155" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976D2">
+  </text><rect width="150" height="100" x="80" y="260" fill="#e3f2fd" stroke="#2196f3" rx="5"/><text x="155" y="285" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Mellomrapportering
-  </text>
-  <text x="155" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="155" y="305" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Viser status på salg
-  </text>
-  <text x="155" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="155" y="320" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     og kontanter uten å
-  </text>
-  <text x="155" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="155" y="335" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     avslutte kassedagen
-  </text>
-  
-  <rect x="250" y="260" width="150" height="100" fill="#E8F5E8" stroke="#4CAF50" stroke-width="1" rx="5"/>
-  <text x="325" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#388E3C">
+  </text><rect width="150" height="100" x="250" y="260" fill="#e8f5e8" stroke="#4caf50" rx="5"/><text x="325" y="285" fill="#388e3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kontinuerlig overvåking
-  </text>
-  <text x="325" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="325" y="305" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Gir løpende kontroll
-  </text>
-  <text x="325" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="325" y="320" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     over kassens tilstand
-  </text>
-  <text x="325" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="325" y="335" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     og driftsstatus
-  </text>
-  
-  <rect x="420" y="260" width="150" height="100" fill="#FFF3E0" stroke="#FF9800" stroke-width="1" rx="5"/>
-  <text x="495" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">
+  </text><rect width="150" height="100" x="420" y="260" fill="#fff3e0" stroke="#ff9800" rx="5"/><text x="495" y="285" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Fleksibel uttrekking
-  </text>
-  <text x="495" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="495" y="305" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kan genereres når
-  </text>
-  <text x="495" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="495" y="320" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     som helst i løpet
-  </text>
-  <text x="495" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="495" y="335" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     av kassedagen
-  </text>
-  
-  <rect x="590" y="260" width="150" height="100" fill="#F3E5F5" stroke="#9C27B0" stroke-width="1" rx="5"/>
-  <text x="665" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">
+  </text><rect width="150" height="100" x="590" y="260" fill="#f3e5f5" stroke="#9c27b0" rx="5"/><text x="665" y="285" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Ikke-destruktiv
-  </text>
-  <text x="665" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="665" y="305" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Påvirker ikke kassens
-  </text>
-  <text x="665" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="665" y="320" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     tellere eller
-  </text>
-  <text x="665" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="665" y="335" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     funksjonalitet
-  </text>
-  
-
-  <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="400" y="410" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Forskjell fra Z-rapport: X-rapport avslutter ikke kassedagen
-  </text>
-  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="400" y="430" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     og nullstiller ikke systemets tellere
-  </text>
-</svg>
+  </text></svg>

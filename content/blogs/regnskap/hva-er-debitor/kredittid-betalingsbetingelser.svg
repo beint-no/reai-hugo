@@ -1,246 +1,123 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#dc3545;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="50%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#dc3545;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Kredittid og Betalingsbetingelser
-  </text>
-  
-
-  <rect x="50" y="80" width="700" height="60" fill="url(#timelineGradient)" stroke="#495057" stroke-width="2" rx="10"/>
-  
-
-  <line x1="100" y1="70" x2="100" y2="150" stroke="#212529" stroke-width="2"/>
-  <line x1="250" y1="70" x2="250" y2="150" stroke="#212529" stroke-width="2"/>
-  <line x1="400" y1="70" x2="400" y2="150" stroke="#212529" stroke-width="2"/>
-  <line x1="550" y1="70" x2="550" y2="150" stroke="#212529" stroke-width="2"/>
-  <line x1="700" y1="70" x2="700" y2="150" stroke="#212529" stroke-width="2"/>
-  
-
-  <text x="100" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><rect width="700" height="60" x="50" y="80" fill="url(#b)" stroke="#495057" stroke-width="2" rx="10"/><path stroke="#212529" stroke-width="2" d="M100 70v80M250 70v80M400 70v80M550 70v80M700 70v80"/><text x="100" y="65" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kontant
-  </text>
-  <text x="250" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="250" y="65" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     8 dager
-  </text>
-  <text x="400" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="400" y="65" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     14 dager
-  </text>
-  <text x="550" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="550" y="65" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     30 dager
-  </text>
-  <text x="700" y="65" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="700" y="65" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     60+ dager
-  </text>
-  
-
-  <text x="100" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">
+  </text><text x="100" y="160" fill="#28a745" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Ingen risiko
-  </text>
-  <text x="250" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">
+  </text><text x="250" y="160" fill="#28a745" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Lav risiko
-  </text>
-  <text x="400" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#ffc107">
+  </text><text x="400" y="160" fill="#ffc107" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Moderat risiko
-  </text>
-  <text x="550" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#fd7e14">
+  </text><text x="550" y="160" fill="#fd7e14" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Høy risiko
-  </text>
-  <text x="700" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#dc3545">
+  </text><text x="700" y="160" fill="#dc3545" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Meget høy risiko
-  </text>
-  
-
-  <rect x="50" y="200" width="140" height="120" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/>
-  <text x="120" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><rect width="140" height="120" x="50" y="200" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="10"/><text x="120" y="220" fill="#155724" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kontant/Forskudd
-  </text>
-  <text x="60" y="240" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="60" y="240" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Betaling ved levering
-  </text>
-  <text x="60" y="255" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="60" y="255" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Eller før levering
-  </text>
-  <text x="60" y="270" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="60" y="270" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Ingen kredittrisiko
-  </text>
-  <text x="60" y="285" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="60" y="285" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Optimal likviditet
-  </text>
-  <text x="60" y="300" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="60" y="300" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Konkurranseulempe
-  </text>
-  
-  <rect x="210" y="200" width="140" height="120" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/>
-  <text x="280" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0c5460">
+  </text><rect width="140" height="120" x="210" y="200" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="10"/><text x="280" y="220" fill="#0c5460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Netto 8-14 dager
-  </text>
-  <text x="220" y="240" font-family="Arial, sans-serif" font-size="11" fill="#0c5460">
+  </text><text x="220" y="240" fill="#0c5460" font-family="Arial, sans-serif" font-size="11">
     • Standard for B2C
-  </text>
-  <text x="220" y="255" font-family="Arial, sans-serif" font-size="11" fill="#0c5460">
+  </text><text x="220" y="255" fill="#0c5460" font-family="Arial, sans-serif" font-size="11">
     • Rask kontantstrøm
-  </text>
-  <text x="220" y="270" font-family="Arial, sans-serif" font-size="11" fill="#0c5460">
+  </text><text x="220" y="270" fill="#0c5460" font-family="Arial, sans-serif" font-size="11">
     • Lav kredittrisiko
-  </text>
-  <text x="220" y="285" font-family="Arial, sans-serif" font-size="11" fill="#0c5460">
+  </text><text x="220" y="285" fill="#0c5460" font-family="Arial, sans-serif" font-size="11">
     • Enkel oppfølging
-  </text>
-  <text x="220" y="300" font-family="Arial, sans-serif" font-size="11" fill="#0c5460">
+  </text><text x="220" y="300" fill="#0c5460" font-family="Arial, sans-serif" font-size="11">
     • Kundevennlig
-  </text>
-  
-  <rect x="370" y="200" width="140" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="440" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="140" height="120" x="370" y="200" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/><text x="440" y="220" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Netto 30 dager
-  </text>
-  <text x="380" y="240" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="380" y="240" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Standard for B2B
-  </text>
-  <text x="380" y="255" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="380" y="255" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Balanse risiko/service
-  </text>
-  <text x="380" y="270" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="380" y="270" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Moderat kredittrisiko
-  </text>
-  <text x="380" y="285" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="380" y="285" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Krever oppfølging
-  </text>
-  <text x="380" y="300" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="380" y="300" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Bransjestandard
-  </text>
-  
-  <rect x="530" y="200" width="140" height="120" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="600" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#721c24">
+  </text><rect width="140" height="120" x="530" y="200" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/><text x="600" y="220" fill="#721c24" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     60+ dager
-  </text>
-  <text x="540" y="240" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="540" y="240" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Spesielle avtaler
-  </text>
-  <text x="540" y="255" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="540" y="255" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Høy kredittrisiko
-  </text>
-  <text x="540" y="270" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="540" y="270" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Bundet kapital
-  </text>
-  <text x="540" y="285" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="540" y="285" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Intensiv oppfølging
-  </text>
-  <text x="540" y="300" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="540" y="300" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Kredittvurdering
-  </text>
-  
-
-  <rect x="50" y="350" width="700" height="220" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-  <text x="400" y="375" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><rect width="700" height="220" x="50" y="350" fill="#fff" stroke="#dee2e6" rx="10"/><text x="400" y="375" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Faktorer som Påvirker Kredittid
-  </text>
-  
-
-  <circle cx="120" cy="420" r="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/>
-  <text x="120" y="415" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><circle cx="120" cy="420" r="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/><text x="120" y="415" fill="#1976d2" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Bransje-
-  </text>
-  <text x="120" y="428" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><text x="120" y="428" fill="#1976d2" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     normer
-  </text>
-  
-  <text x="120" y="465" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="120" y="465" fill="#212529" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Bransjenormer
-  </text>
-  <text x="70" y="480" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="70" y="480" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Detaljhandel: 8-14 dager
-  </text>
-  <text x="70" y="495" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="70" y="495" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • B2B: 30 dager
-  </text>
-  <text x="70" y="510" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="70" y="510" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Bygg/anlegg: 45-60 dager
-  </text>
-  
-
-  <circle cx="280" cy="420" r="30" fill="#fff3e0" stroke="#f57c00" stroke-width="2"/>
-  <text x="280" y="415" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#f57c00">
+  </text><circle cx="280" cy="420" r="30" fill="#fff3e0" stroke="#f57c00" stroke-width="2"/><text x="280" y="415" fill="#f57c00" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Kunde-
-  </text>
-  <text x="280" y="428" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#f57c00">
+  </text><text x="280" y="428" fill="#f57c00" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     forhold
-  </text>
-  
-  <text x="280" y="465" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="280" y="465" fill="#212529" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Kundeforhold
-  </text>
-  <text x="230" y="480" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="230" y="480" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Nye kunder: Kort kredittid
-  </text>
-  <text x="230" y="495" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="230" y="495" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Etablerte: Lengre kredittid
-  </text>
-  <text x="230" y="510" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="230" y="510" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Storvolum: Bedre betingelser
-  </text>
-  
-
-  <circle cx="440" cy="420" r="30" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
-  <text x="440" y="415" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+  </text><circle cx="440" cy="420" r="30" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/><text x="440" y="415" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Risiko-
-  </text>
-  <text x="440" y="428" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+  </text><text x="440" y="428" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     vurdering
-  </text>
-  
-  <text x="440" y="465" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="440" y="465" fill="#212529" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Risikoevaluering
-  </text>
-  <text x="390" y="480" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="390" y="480" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Kredittvurdering
-  </text>
-  <text x="390" y="495" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="390" y="495" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Betalingshistorikk
-  </text>
-  <text x="390" y="510" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="390" y="510" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Finansiell stilling
-  </text>
-  
-
-  <circle cx="600" cy="420" r="30" fill="#e8f5e8" stroke="#388e3c" stroke-width="2"/>
-  <text x="600" y="415" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#388e3c">
+  </text><circle cx="600" cy="420" r="30" fill="#e8f5e8" stroke="#388e3c" stroke-width="2"/><text x="600" y="415" fill="#388e3c" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Konkur-
-  </text>
-  <text x="600" y="428" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#388e3c">
+  </text><text x="600" y="428" fill="#388e3c" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     ranse
-  </text>
-  
-  <text x="600" y="465" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="600" y="465" fill="#212529" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Konkurransesituasjon
-  </text>
-  <text x="550" y="480" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="550" y="480" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Markedsforhold
-  </text>
-  <text x="550" y="495" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="550" y="495" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Konkurrenters betingelser
-  </text>
-  <text x="550" y="510" font-family="Arial, sans-serif" font-size="9" text-anchor="start" fill="#495057">
+  </text><text x="550" y="510" fill="#495057" font-family="Arial, sans-serif" font-size="9">
     • Kundens forhandlingsmakt
-  </text>
-  
-
-  <text x="400" y="550" font-family="Arial, sans-serif" font-size="12" font-style="italic" text-anchor="middle" fill="#6c757d">
+  </text><text x="400" y="550" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-style="italic" text-anchor="middle">
     Optimal kredittid balanserer kundeservice, konkurranseevne og risikostyring
-  </text>
-</svg>
+  </text></svg>

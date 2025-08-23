@@ -1,220 +1,85 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="profitGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="efficiencyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="inventoryGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="customerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#27ae60;stop-opacity:1"/><stop offset="100%" style="stop-color:#229954;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#2980b9;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#c0392b;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1"/><stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Viktige Nøkkeltall for Detaljhandel
-  </text>
-  
-
-  <rect x="50" y="80" width="300" height="200" fill="url(#profitGradient)" stroke="#2c3e50" stroke-width="2" rx="15"/>
-  <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
+  </text><rect width="300" height="200" x="50" y="80" fill="url(#b)" stroke="#2c3e50" stroke-width="2" rx="15"/><text x="200" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     LØNNSOMHETSMÅL
-  </text>
-  
-
-  <rect x="70" y="130" width="120" height="60" fill="#2ecc71" stroke="#27ae60" stroke-width="1" rx="8"/>
-  <text x="130" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="60" x="70" y="130" fill="#2ecc71" stroke="#27ae60" rx="8"/><text x="130" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Bruttomargin
-  </text>
-  <text x="130" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#fff">
+  </text><text x="130" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     35%
-  </text>
-  <text x="130" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
+  </text><text x="130" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     (Salg - Varekost) / Salg
-  </text>
-  
-
-  <rect x="210" y="130" width="120" height="60" fill="#2ecc71" stroke="#27ae60" stroke-width="1" rx="8"/>
-  <text x="270" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="60" x="210" y="130" fill="#2ecc71" stroke="#27ae60" rx="8"/><text x="270" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Netto margin
-  </text>
-  <text x="270" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#fff">
+  </text><text x="270" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     8%
-  </text>
-  <text x="270" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
+  </text><text x="270" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Resultat / Salg
-  </text>
-  
-
-  <rect x="70" y="210" width="120" height="50" fill="#16a085" stroke="#138d75" stroke-width="1" rx="8"/>
-  <text x="130" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="50" x="70" y="210" fill="#16a085" stroke="#138d75" rx="8"/><text x="130" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Salg per m²
-  </text>
-  <text x="130" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="130" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     25.000 kr
-  </text>
-  
-
-  <rect x="210" y="210" width="120" height="50" fill="#16a085" stroke="#138d75" stroke-width="1" rx="8"/>
-  <text x="270" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="50" x="210" y="210" fill="#16a085" stroke="#138d75" rx="8"/><text x="270" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Lageromløp
-  </text>
-  <text x="270" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="270" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     6x per år
-  </text>
-  
-
-  <rect x="400" y="80" width="300" height="200" fill="url(#efficiencyGradient)" stroke="#2c3e50" stroke-width="2" rx="15"/>
-  <text x="550" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
+  </text><rect width="300" height="200" x="400" y="80" fill="url(#c)" stroke="#2c3e50" stroke-width="2" rx="15"/><text x="550" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     EFFEKTIVITETSMÅL
-  </text>
-  
-
-  <rect x="420" y="130" width="120" height="60" fill="#3498db" stroke="#2980b9" stroke-width="1" rx="8"/>
-  <text x="480" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="60" x="420" y="130" fill="#3498db" stroke="#2980b9" rx="8"/><text x="480" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Konverteringsrate
-  </text>
-  <text x="480" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#fff">
+  </text><text x="480" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     22%
-  </text>
-  <text x="480" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
+  </text><text x="480" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kjøp / Besøkende
-  </text>
-  
-
-  <rect x="560" y="130" width="120" height="60" fill="#3498db" stroke="#2980b9" stroke-width="1" rx="8"/>
-  <text x="620" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="60" x="560" y="130" fill="#3498db" stroke="#2980b9" rx="8"/><text x="620" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Snitt handlekurv
-  </text>
-  <text x="620" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#fff">
+  </text><text x="620" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     485 kr
-  </text>
-  <text x="620" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#fff">
+  </text><text x="620" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Salg / Transaksjoner
-  </text>
-  
-
-  <rect x="420" y="210" width="120" height="50" fill="#5dade2" stroke="#3498db" stroke-width="1" rx="8"/>
-  <text x="480" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="50" x="420" y="210" fill="#5dade2" stroke="#3498db" rx="8"/><text x="480" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Ansatte per m²
-  </text>
-  <text x="480" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="480" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     0.8 per 100m²
-  </text>
-  
-
-  <rect x="560" y="210" width="120" height="50" fill="#5dade2" stroke="#3498db" stroke-width="1" rx="8"/>
-  <text x="620" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="50" x="560" y="210" fill="#5dade2" stroke="#3498db" rx="8"/><text x="620" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kundetilfredshet
-  </text>
-  <text x="620" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="620" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     4.2 / 5.0
-  </text>
-  
-
-  <rect x="50" y="320" width="300" height="150" fill="url(#inventoryGradient)" stroke="#2c3e50" stroke-width="2" rx="15"/>
-  <text x="200" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
+  </text><rect width="300" height="150" x="50" y="320" fill="url(#d)" stroke="#2c3e50" stroke-width="2" rx="15"/><text x="200" y="350" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     LAGERSTYRING
-  </text>
-  
-
-  <rect x="70" y="370" width="120" height="50" fill="#e74c3c" stroke="#c0392b" stroke-width="1" rx="8"/>
-  <text x="130" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="50" x="70" y="370" fill="#e74c3c" stroke="#c0392b" rx="8"/><text x="130" y="390" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Lagernivå
-  </text>
-  <text x="130" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="130" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     2.1 mnd
-  </text>
-  
-
-  <rect x="210" y="370" width="120" height="50" fill="#e74c3c" stroke="#c0392b" stroke-width="1" rx="8"/>
-  <text x="270" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="50" x="210" y="370" fill="#e74c3c" stroke="#c0392b" rx="8"/><text x="270" y="390" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Svinn
-  </text>
-  <text x="270" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="270" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     1.8%
-  </text>
-  
-
-  <rect x="140" y="440" width="120" height="50" fill="#ec7063" stroke="#e74c3c" stroke-width="1" rx="8"/>
-  <text x="200" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="50" x="140" y="440" fill="#ec7063" stroke="#e74c3c" rx="8"/><text x="200" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Leveringspresisjon
-  </text>
-  <text x="200" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="200" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     96.5%
-  </text>
-  
-
-  <rect x="400" y="320" width="300" height="150" fill="url(#customerGradient)" stroke="#2c3e50" stroke-width="2" rx="15"/>
-  <text x="550" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
+  </text><rect width="300" height="150" x="400" y="320" fill="url(#e)" stroke="#2c3e50" stroke-width="2" rx="15"/><text x="550" y="350" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     KUNDEMÅL
-  </text>
-  
-
-  <rect x="420" y="370" width="120" height="50" fill="#9b59b6" stroke="#8e44ad" stroke-width="1" rx="8"/>
-  <text x="480" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="50" x="420" y="370" fill="#9b59b6" stroke="#8e44ad" rx="8"/><text x="480" y="390" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Nye kunder
-  </text>
-  <text x="480" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="480" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     15% per mnd
-  </text>
-  
-
-  <rect x="560" y="370" width="120" height="50" fill="#9b59b6" stroke="#8e44ad" stroke-width="1" rx="8"/>
-  <text x="620" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="50" x="560" y="370" fill="#9b59b6" stroke="#8e44ad" rx="8"/><text x="620" y="390" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Gjenkjøpsrate
-  </text>
-  <text x="620" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="620" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     68%
-  </text>
-  
-
-  <rect x="490" y="440" width="120" height="50" fill="#bb8fce" stroke="#9b59b6" stroke-width="1" rx="8"/>
-  <text x="550" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">
+  </text><rect width="120" height="50" x="490" y="440" fill="#bb8fce" stroke="#9b59b6" rx="8"/><text x="550" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kundelivstidsverdi
-  </text>
-  <text x="550" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="550" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     8.500 kr
-  </text>
-  
-
-  <rect x="100" y="520" width="600" height="60" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="10"/>
-  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><rect width="600" height="60" x="100" y="520" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="10"/><text x="400" y="545" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DASHBOARD SAMMENDRAG
-  </text>
-  <text x="200" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ecf0f1">
+  </text><text x="200" y="565" fill="#ecf0f1" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Daglig salg: 45.000 kr
-  </text>
-  <text x="400" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ecf0f1">
+  </text><text x="400" y="565" fill="#ecf0f1" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Transaksjoner: 92 stk
-  </text>
-  <text x="600" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ecf0f1">
+  </text><text x="600" y="565" fill="#ecf0f1" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Besøkende: 420 personer
-  </text>
-  
-
-  <polygon points="320,140 330,130 340,140 335,140 335,150 325,150 325,140" fill="#2ecc71"/>
-  <polygon points="670,140 680,130 690,140 685,140 685,150 675,150 675,140" fill="#2ecc71"/>
-  <polygon points="320,380 330,370 340,380 335,380 335,390 325,390 325,380" fill="#e74c3c"/>
-  <polygon points="670,380 680,370 690,380 685,380 685,390 675,390 675,380" fill="#2ecc71"/>
-  
-
-  <text x="50" y="510" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+  </text><path fill="#2ecc71" d="m320 140 10-10 10 10h-5v10h-10v-10zM670 140l10-10 10 10h-5v10h-10v-10z"/><path fill="#e74c3c" d="m320 380 10-10 10 10h-5v10h-10v-10z"/><path fill="#2ecc71" d="m670 380 10-10 10 10h-5v10h-10v-10z"/><text x="50" y="510" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10">
     ↑ Positiv trend  ↓ Negativ trend
-  </text>
-</svg>
+  </text></svg>

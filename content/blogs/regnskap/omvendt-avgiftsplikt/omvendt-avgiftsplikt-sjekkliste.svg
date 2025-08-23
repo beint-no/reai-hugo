@@ -1,205 +1,73 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.9" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:.8"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:.9"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Sjekkliste for Omvendt Avgiftsplikt
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="520" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  
-
-  <rect x="50" y="60" width="700" height="50" fill="url(#headerGradient)" rx="10"/>
-  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="700" height="520" x="50" y="60" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><rect width="700" height="50" x="50" y="60" fill="url(#b)" rx="10"/><text x="400" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Praktisk Sjekkliste for Håndtering av Omvendt Avgiftsplikt
-  </text>
-  
-
-  <text x="80" y="140" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><text x="80" y="140" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     1. IDENTIFISERING
-  </text>
-  
-
-  <rect x="100" y="155" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="167" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="167" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="155" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="167" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="167" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Er leverandøren etablert utenfor Norge?
-  </text>
-  
-
-  <rect x="100" y="175" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="187" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="175" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="187" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="187" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Er kjøperen et norsk foretak registrert for MVA?
-  </text>
-  
-
-  <rect x="100" y="195" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="207" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="195" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="207" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="207" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Gjelder kjøpet tjenester eller elektroniske tjenester?
-  </text>
-  
-
-  <text x="80" y="240" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><text x="80" y="240" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     2. DOKUMENTASJON
-  </text>
-  
-
-  <rect x="100" y="255" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="267" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="267" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="255" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="267" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="267" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Har du originalfaktura fra utenlandsk leverandør?
-  </text>
-  
-
-  <rect x="100" y="275" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="287" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="287" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="275" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="287" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="287" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Er leverandørens utenlandske status dokumentert?
-  </text>
-  
-
-  <rect x="100" y="295" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="307" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="307" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="295" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="307" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="307" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Er tjenesten som er levert beskrevet tydelig?
-  </text>
-  
-
-  <text x="80" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><text x="80" y="340" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     3. BEREGNING OG BOKFØRING
-  </text>
-  
-
-  <rect x="100" y="355" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="367" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="367" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="355" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="367" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="367" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Er MVA beregnet korrekt (vanligvis 25%)?
-  </text>
-  
-
-  <rect x="100" y="375" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="387" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="387" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="375" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="387" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="387" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Er transaksjonen bokført med både utgående og inngående MVA?
-  </text>
-  
-
-  <rect x="100" y="395" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="407" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="407" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="395" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="407" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="407" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Er fradragsretten vurdert og dokumentert?
-  </text>
-  
-
-  <text x="80" y="440" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><text x="80" y="440" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     4. RAPPORTERING
-  </text>
-  
-
-  <rect x="100" y="455" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="467" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="467" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="455" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="467" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="467" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Er riktig kode brukt i MVA-meldingen (kode 81, 82, 83)?
-  </text>
-  
-
-  <rect x="100" y="475" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="487" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="487" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="475" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="487" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="487" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Stemmer beløpene i MVA-meldingen med regnskapet?
-  </text>
-  
-
-  <rect x="100" y="495" width="15" height="15" fill="white" stroke="#28a745" stroke-width="2" rx="2"/>
-  <text x="105" y="507" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">✓</text>
-  <text x="130" y="507" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><rect width="15" height="15" x="100" y="495" fill="#fff" stroke="#28a745" stroke-width="2" rx="2"/><text x="105" y="507" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="130" y="507" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Er MVA-meldingen sendt inn innen fristen?
-  </text>
-  
-
-  <rect x="420" y="140" width="300" height="380" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="570" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="300" height="380" x="420" y="140" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="570" y="165" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     VIKTIGE PÅMINNELSER
-  </text>
-  
-
-  <rect x="440" y="180" width="260" height="60" fill="#fff3cd" stroke="#ffeaa7" stroke-width="1" rx="3"/>
-  <text x="570" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+  </text><rect width="260" height="60" x="440" y="180" fill="#fff3cd" stroke="#ffeaa7" rx="3"/><text x="570" y="200" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     ⚠️ VANLIGE FEIL
-  </text>
-  <text x="450" y="215" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+  </text><text x="450" y="215" fill="#856404" font-family="Arial, sans-serif" font-size="10">
     • Glemmer å beregne MVA
-  </text>
-  <text x="450" y="227" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+  </text><text x="450" y="227" fill="#856404" font-family="Arial, sans-serif" font-size="10">
     • Bruker feil MVA-sats
-  </text>
-  
-
-  <rect x="440" y="250" width="260" height="80" fill="#d4edda" stroke="#c3e6cb" stroke-width="1" rx="3"/>
-  <text x="570" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
+  </text><rect width="260" height="80" x="440" y="250" fill="#d4edda" stroke="#c3e6cb" rx="3"/><text x="570" y="270" fill="#155724" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     💡 TIPS
-  </text>
-  <text x="450" y="285" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="450" y="285" fill="#155724" font-family="Arial, sans-serif" font-size="10">
     • Opprett egne leverandørkontoer
-  </text>
-  <text x="450" y="297" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="450" y="297" fill="#155724" font-family="Arial, sans-serif" font-size="10">
     • Bruk standardiserte maler
-  </text>
-  <text x="450" y="309" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="450" y="309" fill="#155724" font-family="Arial, sans-serif" font-size="10">
     • Automatiser med ERP-system
-  </text>
-  <text x="450" y="321" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="450" y="321" fill="#155724" font-family="Arial, sans-serif" font-size="10">
     • Månedlig kontroll av utenlandske kjøp
-  </text>
-  
-
-  <rect x="440" y="340" width="260" height="60" fill="#e3f2fd" stroke="#bbdefb" stroke-width="1" rx="3"/>
-  <text x="570" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+  </text><rect width="260" height="60" x="440" y="340" fill="#e3f2fd" stroke="#bbdefb" rx="3"/><text x="570" y="360" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     📞 TRENGER HJELP?
-  </text>
-  <text x="450" y="375" font-family="Arial, sans-serif" font-size="10" fill="#1976d2">
+  </text><text x="450" y="375" fill="#1976d2" font-family="Arial, sans-serif" font-size="10">
     • Kontakt regnskapsfører
-  </text>
-  <text x="450" y="387" font-family="Arial, sans-serif" font-size="10" fill="#1976d2">
+  </text><text x="450" y="387" fill="#1976d2" font-family="Arial, sans-serif" font-size="10">
     • Ring Skatteetaten: 800 80 000
-  </text>
-  
-
-  <rect x="440" y="410" width="260" height="80" fill="#f8d7da" stroke="#f5c6cb" stroke-width="1" rx="3"/>
-  <text x="570" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+  </text><rect width="260" height="80" x="440" y="410" fill="#f8d7da" stroke="#f5c6cb" rx="3"/><text x="570" y="430" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     ⚖️ JURIDISK ANSVAR
-  </text>
-  <text x="450" y="445" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="450" y="445" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     Feil kan føre til:
-  </text>
-  <text x="450" y="457" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="450" y="457" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Tilleggsskatt (20%)
-  </text>
-  <text x="450" y="469" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="450" y="469" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Forsinkelsesrente
-  </text>
-  <text x="450" y="481" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="450" y="481" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     • Kontrollavgift
-  </text>
-  
-
-  <rect x="80" y="540" width="640" height="25" fill="#e9ecef" stroke="#dee2e6" stroke-width="1" rx="3"/>
-  <text x="400" y="557" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#495057">
+  </text><rect width="640" height="25" x="80" y="540" fill="#e9ecef" stroke="#dee2e6" rx="3"/><text x="400" y="557" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Husk: Ved tvil, søk profesjonell hjelp før du rapporterer
-  </text>
-</svg>
+  </text></svg>

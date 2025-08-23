@@ -1,181 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750">
-  <defs>
-    <linearGradient id="incomeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#E53E3E;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FC8181;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="balanceGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3182CE;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#63B3ED;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="notesGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#38A169;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#68D391;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="specialGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#805AD5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#B794F6;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="1000" height="750" fill="#f8f9fa"/>
-  
-
-  <text x="500" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e53e3e;stop-opacity:1"/><stop offset="100%" style="stop-color:#fc8181;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#3182ce;stop-opacity:1"/><stop offset="100%" style="stop-color:#63b3ed;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#38a169;stop-opacity:1"/><stop offset="100%" style="stop-color:#68d391;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#805ad5;stop-opacity:1"/><stop offset="100%" style="stop-color:#b794f6;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h1000v750H0z"/><text x="500" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Rapportering av Nedskrivninger
-  </text>
-  
-
-  <rect x="50" y="70" width="400" height="150" rx="10" fill="url(#incomeGradient)" stroke="#E53E3E" stroke-width="2"/>
-  <text x="250" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="400" height="150" x="50" y="70" fill="url(#a)" stroke="#e53e3e" stroke-width="2" rx="10"/><text x="250" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Resultatregnskap
-  </text>
-  <text x="250" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="250" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Presentasjon av Nedskrivninger
-  </text>
-  <text x="250" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
-    • Egen post: "Nedskrivning av eiendeler"
-  </text>
-  <text x="250" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="250" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
+    • Egen post: &quot;Nedskrivning av eiendeler&quot;
+  </text><text x="250" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Alternativt: Inkludert i driftskostnader
-  </text>
-  <text x="250" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="250" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Må spesifiseres i noter hvis vesentlig
-  </text>
-  <text x="250" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="250" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Reversering presenteres som inntekt
-  </text>
-  
-
-  <rect x="550" y="70" width="400" height="150" rx="10" fill="url(#balanceGradient)" stroke="#3182CE" stroke-width="2"/>
-  <text x="750" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="400" height="150" x="550" y="70" fill="url(#b)" stroke="#3182ce" stroke-width="2" rx="10"/><text x="750" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Balanse
-  </text>
-  <text x="750" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="750" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Presentasjon av Eiendeler
-  </text>
-  <text x="750" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="750" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Eiendeler til bokført verdi minus
-  </text>
-  <text x="750" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="750" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     akkumulerte nedskrivninger
-  </text>
-  <text x="750" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="750" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Noter må beskrive nedskrivningens
-  </text>
-  <text x="750" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="750" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     art og beløp
-  </text>
-  
-
-  <rect x="50" y="250" width="900" height="180" rx="10" fill="url(#notesGradient)" stroke="#38A169" stroke-width="2"/>
-  <text x="500" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="900" height="180" x="50" y="250" fill="url(#c)" stroke="#38a169" stroke-width="2" rx="10"/><text x="500" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Krav til Noteopplysninger
-  </text>
-  
-
-  <text x="70" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="70" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Vesentlige Nedskrivninger:
-  </text>
-  <text x="70" y="325" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Beskrivelse av nedskrevne eiendeler
-  </text>
-  <text x="70" y="340" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Årsaker til nedskrivningen
-  </text>
-  <text x="70" y="355" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Beløp og beregningsmetode
-  </text>
-  <text x="70" y="370" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Kontantgenererende enheter som er berørt
-  </text>
-  <text x="70" y="385" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Segment eller geografisk område
-  </text>
-  <text x="70" y="400" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Tidspunkt for nedskrivningen
-  </text>
-  
-
-  <text x="520" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="520" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Goodwill og Immaterielle Eiendeler:
-  </text>
-  <text x="520" y="325" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Allokering av goodwill til CGU
-  </text>
-  <text x="520" y="340" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Nøkkelforutsetninger i verdsettelsen
-  </text>
-  <text x="520" y="355" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Sensitivitetsanalyser for kritiske estimater
-  </text>
-  <text x="520" y="370" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Diskonteringsrenter brukt
-  </text>
-  <text x="520" y="385" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Vekstrate for terminalverdi
-  </text>
-  <text x="520" y="400" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Endringer i nøkkelforutsetninger
-  </text>
-  
-
-  <rect x="50" y="450" width="900" height="120" rx="10" fill="url(#specialGradient)" stroke="#805AD5" stroke-width="2"/>
-  <text x="500" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="900" height="120" x="50" y="450" fill="url(#d)" stroke="#805ad5" stroke-width="2" rx="10"/><text x="500" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Spesielle Rapporteringskrav
-  </text>
-  
-
-  <text x="70" y="505" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="70" y="505" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Reversering av Nedskrivning:
-  </text>
-  <text x="70" y="525" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="525" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Beløp reversert i perioden
-  </text>
-  <text x="70" y="540" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="540" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Årsaker til reverseringen
-  </text>
-  <text x="70" y="555" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="555" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Eiendeler eller CGU berørt
-  </text>
-  
-
-  <text x="520" y="505" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="520" y="505" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Segmentrapportering:
-  </text>
-  <text x="520" y="525" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="525" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Nedskrivninger per segment
-  </text>
-  <text x="520" y="540" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="540" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Goodwill allokert til segmenter
-  </text>
-  <text x="520" y="555" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="555" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Vesentlige nedskrivninger per segment
-  </text>
-  
-
-  <rect x="50" y="590" width="900" height="140" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
-  <text x="500" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><rect width="900" height="140" x="50" y="590" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="500" y="615" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Eksempel på Noteopplysning
-  </text>
-  
-  <text x="70" y="645" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><text x="70" y="645" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Note X - Nedskrivning av Anleggsmidler
-  </text>
-  <text x="70" y="665" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+  </text><text x="70" y="665" fill="#34495e" font-family="Arial, sans-serif" font-size="12">
     Selskapet har i 2024 foretatt nedskrivning av produksjonsutstyr med kr 2,5 millioner som følge av
-  </text>
-  <text x="70" y="680" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+  </text><text x="70" y="680" fill="#34495e" font-family="Arial, sans-serif" font-size="12">
     teknologiske endringer som har redusert utstyrets konkurranseevne. Nedskrivningen er basert på
-  </text>
-  <text x="70" y="695" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+  </text><text x="70" y="695" fill="#34495e" font-family="Arial, sans-serif" font-size="12">
     vurdering av bruksverdi beregnet som nåverdi av forventede fremtidige kontantstrømmer diskontert
-  </text>
-  <text x="70" y="710" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+  </text><text x="70" y="710" fill="#34495e" font-family="Arial, sans-serif" font-size="12">
     med 8% rente. Sensitivitetsanalyse viser at en økning i diskonteringsrenten til 10% ville medført
-  </text>
-  <text x="70" y="725" font-family="Arial, sans-serif" font-size="12" fill="#34495e">
+  </text><text x="70" y="725" fill="#34495e" font-family="Arial, sans-serif" font-size="12">
     ytterligere nedskrivning på kr 0,8 millioner.
-  </text>
-</svg>
+  </text></svg>

@@ -1,184 +1,37 @@
-<svg width="600" height="350" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="kraftGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="petroleumGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#e55a00;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="forskuddGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="600" height="350" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
-  
-
-  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="350"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#fd7e14;stop-opacity:.8"/><stop offset="100%" style="stop-color:#e55a00;stop-opacity:.8"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:.8"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:.8"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" d="M0 0h600v350H0z"/><text x="300" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Rapporteringsfrister Grunnrenteskatt
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-
-    <line x1="0" y1="100" x2="500" y2="100" stroke="#495057" stroke-width="3"/>
-    
-
-    <g transform="translate(0, 100)">
-
-      <line x1="0" y1="-10" x2="0" y2="10" stroke="#6c757d" stroke-width="2"/>
-      <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Jan</text>
-      
-
-      <line x1="42" y1="-5" x2="42" y2="5" stroke="#6c757d" stroke-width="1"/>
-      <text x="42" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Feb</text>
-      
-
-      <line x1="84" y1="-5" x2="84" y2="5" stroke="#6c757d" stroke-width="1"/>
-      <text x="84" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Mar</text>
-      
-
-      <line x1="126" y1="-5" x2="126" y2="5" stroke="#6c757d" stroke-width="1"/>
-      <text x="126" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Apr</text>
-      
-
-      <line x1="168" y1="-10" x2="168" y2="10" stroke="#dc3545" stroke-width="3"/>
-      <text x="168" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc3545">Mai</text>
-      
-
-      <line x1="210" y1="-5" x2="210" y2="5" stroke="#6c757d" stroke-width="1"/>
-      <text x="210" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Jun</text>
-      
-
-      <line x1="252" y1="-5" x2="252" y2="5" stroke="#6c757d" stroke-width="1"/>
-      <text x="252" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Jul</text>
-      
-
-      <line x1="294" y1="-5" x2="294" y2="5" stroke="#6c757d" stroke-width="1"/>
-      <text x="294" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Aug</text>
-      
-
-      <line x1="336" y1="-5" x2="336" y2="5" stroke="#6c757d" stroke-width="1"/>
-      <text x="336" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Sep</text>
-      
-
-      <line x1="378" y1="-5" x2="378" y2="5" stroke="#6c757d" stroke-width="1"/>
-      <text x="378" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Okt</text>
-      
-
-      <line x1="420" y1="-5" x2="420" y2="5" stroke="#6c757d" stroke-width="1"/>
-      <text x="420" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Nov</text>
-      
-
-      <line x1="462" y1="-10" x2="462" y2="10" stroke="#6c757d" stroke-width="2"/>
-      <text x="462" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">Des</text>
-    </g>
-    
-
-    
-
-    <g transform="translate(168, 50)">
-      <rect x="-60" y="-30" width="120" height="40" fill="url(#kraftGradient)" rx="5"/>
-      <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+  </text><path stroke="#495057" stroke-width="3" d="M50 170h500"/><path stroke="#6c757d" stroke-width="2" d="M50 160v20"/><text y="25" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(50 170)">Jan</text><path stroke="#6c757d" d="M92 165v10"/><text x="42" y="20" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" transform="translate(50 170)">Feb</text><path stroke="#6c757d" d="M134 165v10"/><text x="84" y="20" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" transform="translate(50 170)">Mar</text><path stroke="#6c757d" d="M176 165v10"/><text x="126" y="20" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" transform="translate(50 170)">Apr</text><path stroke="#dc3545" stroke-width="3" d="M218 160v20"/><text x="168" y="25" fill="#dc3545" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" transform="translate(50 170)">Mai</text><path stroke="#6c757d" d="M260 165v10"/><text x="210" y="20" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" transform="translate(50 170)">Jun</text><path stroke="#6c757d" d="M302 165v10"/><text x="252" y="20" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" transform="translate(50 170)">Jul</text><path stroke="#6c757d" d="M344 165v10"/><text x="294" y="20" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" transform="translate(50 170)">Aug</text><path stroke="#6c757d" d="M386 165v10"/><text x="336" y="20" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" transform="translate(50 170)">Sep</text><path stroke="#6c757d" d="M428 165v10"/><text x="378" y="20" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" transform="translate(50 170)">Okt</text><path stroke="#6c757d" d="M470 165v10"/><text x="420" y="20" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" transform="translate(50 170)">Nov</text><path stroke="#6c757d" stroke-width="2" d="M512 160v20"/><text x="462" y="25" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(50 170)">Des</text><g transform="translate(218 120)"><rect width="120" height="40" x="-60" y="-30" fill="url(#a)" rx="5"/><text y="-15" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         Kraftsektorens
-      </text>
-      <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><text y="-5" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         Grunnrenteskatt
-      </text>
-      <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      </text><text y="8" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         RF-1088
-      </text>
-      
-
-      <path d="M0,15 L0,35" stroke="#28a745" stroke-width="2" marker-end="url(#arrowGreen)"/>
-      <text x="0" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+      </text><path stroke="#28a745" stroke-width="2" marker-end="url(#b)" d="M0 15v20"/><text y="55" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         31. mai
-      </text>
-    </g>
-    
-
-    <g transform="translate(168, 150)">
-      <rect x="-50" y="10" width="100" height="40" fill="url(#petroleumGradient)" rx="5"/>
-      <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text></g><g transform="translate(218 220)"><rect width="100" height="40" x="-50" y="10" fill="url(#c)" rx="5"/><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         Petroleumsskatt
-      </text>
-      <text x="0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+      </text><text y="38" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         RF-1175
-      </text>
-      
-
-      <path d="M0,5 L0,-35" stroke="#fd7e14" stroke-width="2" marker-end="url(#arrowOrange)"/>
-      <text x="0" y="-45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fd7e14">
+      </text><path stroke="#fd7e14" stroke-width="2" marker-end="url(#d)" d="M0 5v-40"/><text y="-45" fill="#fd7e14" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         31. mai
-      </text>
-    </g>
-    
-
-    <g transform="translate(100, 200)">
-      <rect x="-40" y="0" width="280" height="30" fill="url(#forskuddGradient)" rx="5"/>
-      <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text></g><g transform="translate(150 270)"><rect width="280" height="30" x="-40" fill="url(#e)" rx="5"/><text x="100" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Forskuddsskatt - Månedlig/Kvartalsvis - 15. i måneden
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 280)">
-    <text x="250" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
+      </text></g><text x="250" fill="#212529" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" transform="translate(50 280)">
       Viktige Rapporteringskrav
-    </text>
-    
-
-    <g transform="translate(0, 20)">
-
-      <rect x="0" y="0" width="120" height="35" fill="#17a2b8" opacity="0.2" rx="3"/>
-      <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#0c5460">
+    </text><g transform="translate(50 300)"><rect width="120" height="35" fill="#17a2b8" opacity=".2" rx="3"/><text x="60" y="15" fill="#0c5460" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Produksjonsdata
-      </text>
-      <text x="60" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">
+      </text><text x="60" y="28" fill="#0c5460" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Nøyaktige målinger
-      </text>
-      
-
-      <rect x="130" y="0" width="120" height="35" fill="#28a745" opacity="0.2" rx="3"/>
-      <text x="190" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#155724">
+      </text><rect width="120" height="35" x="130" fill="#28a745" opacity=".2" rx="3"/><text x="190" y="15" fill="#155724" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Prisdokumentasjon
-      </text>
-      <text x="190" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#155724">
+      </text><text x="190" y="28" fill="#155724" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Markedsreferanser
-      </text>
-      
-
-      <rect x="260" y="0" width="120" height="35" fill="#ffc107" opacity="0.2" rx="3"/>
-      <text x="320" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#856404">
+      </text><rect width="120" height="35" x="260" fill="#ffc107" opacity=".2" rx="3"/><text x="320" y="15" fill="#856404" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Kostnadsfordeling
-      </text>
-      <text x="320" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#856404">
+      </text><text x="320" y="28" fill="#856404" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Detaljert oppstilling
-      </text>
-      
-
-      <rect x="390" y="0" width="120" height="35" fill="#6f42c1" opacity="0.2" rx="3"/>
-      <text x="450" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4a2c7a">
+      </text><rect width="120" height="35" x="390" fill="#6f42c1" opacity=".2" rx="3"/><text x="450" y="15" fill="#4a2c7a" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Investeringsregister
-      </text>
-      <text x="450" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#4a2c7a">
+      </text><text x="450" y="28" fill="#4a2c7a" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Komplett oversikt
-      </text>
-    </g>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-    <marker id="arrowOrange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#fd7e14"/>
-    </marker>
-  </defs>
-</svg>
+      </text></g><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#fd7e14" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

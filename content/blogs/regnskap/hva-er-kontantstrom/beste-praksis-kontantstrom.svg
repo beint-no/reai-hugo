@@ -1,246 +1,83 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="dailyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#66BB6A;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="strategicGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="organizationalGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FFB74D;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="kpiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#BA68C8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="implementationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#607D8B;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#78909C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffb74d;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#ba68c8;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#607d8b;stop-opacity:1"/><stop offset="100%" style="stop-color:#78909c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Beste Praksis for Kontantstrømstyring
-  </text>
-  
-
-  <rect x="50" y="70" width="340" height="140" fill="url(#dailyGradient)" rx="15" opacity="0.1"/>
-  <rect x="60" y="80" width="320" height="30" fill="url(#dailyGradient)" rx="5"/>
-  <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="140" x="50" y="70" fill="url(#a)" opacity=".1" rx="15"/><rect width="320" height="30" x="60" y="80" fill="url(#a)" rx="5"/><text x="220" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DAGLIG STYRING
-  </text>
-  
-
-  <circle cx="80" cy="130" r="8" fill="#4CAF50"/>
-  <text x="100" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#2E7D32">
+  </text><circle cx="80" cy="130" r="8" fill="#4caf50"/><text x="100" y="135" fill="#2e7d32" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Daglig Kontantrapport
-  </text>
-  <text x="100" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="100" y="150" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Overvåk kontantposisjon hver dag
-  </text>
-  
-  <circle cx="80" cy="170" r="8" fill="#4CAF50"/>
-  <text x="100" y="175" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#2E7D32">
+  </text><circle cx="80" cy="170" r="8" fill="#4caf50"/><text x="100" y="175" fill="#2e7d32" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Ukentlig Prognose
-  </text>
-  <text x="100" y="190" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="100" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Oppdater 13-ukers rullende prognose
-  </text>
-  
-  <circle cx="80" cy="210" r="8" fill="#4CAF50"/>
-  <text x="100" y="215" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#2E7D32">
+  </text><circle cx="80" cy="210" r="8" fill="#4caf50"/><text x="100" y="215" fill="#2e7d32" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Månedlig Analyse
-  </text>
-  <text x="100" y="230" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="100" y="230" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Sammenlign faktisk vs. budsjett
-  </text>
-  
-
-  <rect x="410" y="70" width="340" height="140" fill="url(#strategicGradient)" rx="15" opacity="0.1"/>
-  <rect x="420" y="80" width="320" height="30" fill="url(#strategicGradient)" rx="5"/>
-  <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="140" x="410" y="70" fill="url(#b)" opacity=".1" rx="15"/><rect width="320" height="30" x="420" y="80" fill="url(#b)" rx="5"/><text x="580" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     STRATEGISK PLANLEGGING
-  </text>
-  
-
-  <circle cx="440" cy="130" r="8" fill="#2196F3"/>
-  <text x="460" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1565C0">
+  </text><circle cx="440" cy="130" r="8" fill="#2196f3"/><text x="460" y="135" fill="#1565c0" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Årlig Kontantstrømbudsjett
-  </text>
-  <text x="460" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="460" y="150" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Detaljert planlegging for kommende år
-  </text>
-  
-  <circle cx="440" cy="170" r="8" fill="#2196F3"/>
-  <text x="460" y="175" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1565C0">
+  </text><circle cx="440" cy="170" r="8" fill="#2196f3"/><text x="460" y="175" fill="#1565c0" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Scenarioanalyse
-  </text>
-  <text x="460" y="190" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="460" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Planlegg for beste/verste/mest sannsynlige utfall
-  </text>
-  
-  <circle cx="440" cy="210" r="8" fill="#2196F3"/>
-  <text x="460" y="215" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1565C0">
+  </text><circle cx="440" cy="210" r="8" fill="#2196f3"/><text x="460" y="215" fill="#1565c0" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Stresstesting
-  </text>
-  <text x="460" y="230" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="460" y="230" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Test motstandskraft mot kontantstrømsjokk
-  </text>
-  
-
-  <rect x="50" y="230" width="340" height="140" fill="url(#organizationalGradient)" rx="15" opacity="0.1"/>
-  <rect x="60" y="240" width="320" height="30" fill="url(#organizationalGradient)" rx="5"/>
-  <text x="220" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="140" x="50" y="230" fill="url(#c)" opacity=".1" rx="15"/><rect width="320" height="30" x="60" y="240" fill="url(#c)" rx="5"/><text x="220" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ORGANISATORISKE TILTAK
-  </text>
-  
-
-  <circle cx="80" cy="290" r="8" fill="#FF9800"/>
-  <text x="100" y="295" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#E65100">
+  </text><circle cx="80" cy="290" r="8" fill="#ff9800"/><text x="100" y="295" fill="#e65100" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Tydelig Ansvar
-  </text>
-  <text x="100" y="310" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="100" y="310" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Utnevn ansvarlig for kontantstrømstyring
-  </text>
-  
-  <circle cx="80" cy="330" r="8" fill="#FF9800"/>
-  <text x="100" y="335" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#E65100">
+  </text><circle cx="80" cy="330" r="8" fill="#ff9800"/><text x="100" y="335" fill="#e65100" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Regelmessig Rapportering
-  </text>
-  <text x="100" y="350" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="100" y="350" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Månedlige rapporter til ledelsen
-  </text>
-  
-  <circle cx="80" cy="370" r="8" fill="#FF9800"/>
-  <text x="100" y="375" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#E65100">
+  </text><circle cx="80" cy="370" r="8" fill="#ff9800"/><text x="100" y="375" fill="#e65100" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Kontinuerlig Forbedring
-  </text>
-  <text x="100" y="390" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="100" y="390" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Evaluer og forbedre prosesser regelmessig
-  </text>
-  
-
-  <rect x="410" y="230" width="340" height="140" fill="url(#kpiGradient)" rx="15" opacity="0.1"/>
-  <rect x="420" y="240" width="320" height="30" fill="url(#kpiGradient)" rx="5"/>
-  <text x="580" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="140" x="410" y="230" fill="url(#d)" opacity=".1" rx="15"/><rect width="320" height="30" x="420" y="240" fill="url(#d)" rx="5"/><text x="580" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     NØKKELTALL FOR OVERVÅKING
-  </text>
-  
-
-  <rect x="430" y="280" width="300" height="80" fill="rgba(255,255,255,0.2)" rx="5"/>
-  
-
-  <text x="440" y="295" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Nøkkeltall</text>
-  <text x="580" y="295" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Målsetting</text>
-  
-
-  <text x="440" y="315" font-family="Arial, sans-serif" font-size="10" fill="white">Kontantstrømmargin</text>
-  <text x="580" y="315" font-family="Arial, sans-serif" font-size="10" fill="white">> 10%</text>
-  
-  <text x="440" y="330" font-family="Arial, sans-serif" font-size="10" fill="white">Kontantkonverteringsratio</text>
-  <text x="580" y="330" font-family="Arial, sans-serif" font-size="10" fill="white">> 0,8</text>
-  
-  <text x="440" y="345" font-family="Arial, sans-serif" font-size="10" fill="white">Dager med kontantdekning</text>
-  <text x="580" y="345" font-family="Arial, sans-serif" font-size="10" fill="white">> 30 dager</text>
-  
-  <text x="440" y="360" font-family="Arial, sans-serif" font-size="10" fill="white">Arbeidskapitalomløp</text>
-  <text x="580" y="360" font-family="Arial, sans-serif" font-size="10" fill="white">Bransjetilpasset</text>
-  
-
-  <rect x="50" y="390" width="700" height="160" fill="url(#implementationGradient)" rx="15"/>
-  <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="300" height="80" x="430" y="280" fill="rgba(255,255,255,0.2)" rx="5"/><text x="440" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Nøkkeltall</text><text x="580" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Målsetting</text><text x="440" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="10">Kontantstrømmargin</text><text x="580" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="10">&gt; 10%</text><text x="440" y="330" fill="#fff" font-family="Arial, sans-serif" font-size="10">Kontantkonverteringsratio</text><text x="580" y="330" fill="#fff" font-family="Arial, sans-serif" font-size="10">&gt; 0,8</text><text x="440" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="10">Dager med kontantdekning</text><text x="580" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="10">&gt; 30 dager</text><text x="440" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="10">Arbeidskapitalomløp</text><text x="580" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="10">Bransjetilpasset</text><rect width="700" height="160" x="50" y="390" fill="url(#e)" rx="15"/><text x="400" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     IMPLEMENTERINGSRAMMEVERK
-  </text>
-  
-
-  <rect x="80" y="440" width="150" height="90" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="155" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="90" x="80" y="440" fill="rgba(255,255,255,0.2)" rx="8"/><text x="155" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fase 1: Grunnlag
-  </text>
-  <text x="90" y="480" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Kartlegg nåværende prosesser
-  </text>
-  <text x="90" y="495" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Identifiser forbedringspotensial
-  </text>
-  <text x="90" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Etabler baseline-målinger
-  </text>
-  
-  <rect x="250" y="440" width="150" height="90" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="325" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="90" x="250" y="440" fill="rgba(255,255,255,0.2)" rx="8"/><text x="325" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fase 2: Implementering
-  </text>
-  <text x="260" y="480" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="260" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Innfør daglige rutiner
-  </text>
-  <text x="260" y="495" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="260" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Etabler rapporteringssystemer
-  </text>
-  <text x="260" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="260" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Tren ansatte i nye prosesser
-  </text>
-  
-  <rect x="420" y="440" width="150" height="90" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="495" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="90" x="420" y="440" fill="rgba(255,255,255,0.2)" rx="8"/><text x="495" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fase 3: Optimalisering
-  </text>
-  <text x="430" y="480" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Overvåk nøkkeltall
-  </text>
-  <text x="430" y="495" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Juster prosesser basert på data
-  </text>
-  <text x="430" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Kontinuerlig forbedring
-  </text>
-  
-  <rect x="590" y="440" width="150" height="90" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="665" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="90" x="590" y="440" fill="rgba(255,255,255,0.2)" rx="8"/><text x="665" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fase 4: Vedlikehold
-  </text>
-  <text x="600" y="480" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="600" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Regelmessig evaluering
-  </text>
-  <text x="600" y="495" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="600" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Oppdater prognoser og budsjetter
-  </text>
-  <text x="600" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="600" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Tilpass til endringer
-  </text>
-  
-
-  <rect x="50" y="570" width="700" height="25" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2" rx="5"/>
-  <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><rect width="700" height="25" x="50" y="570" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="5"/><text x="400" y="585" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Suksessfaktorer: Ledelsesforankring • Systematisk tilnærming • Riktige verktøy • Kompetente medarbeidere • Kontinuerlig fokus
-  </text>
-  
-
-  <path d="M 220 220 L 400 390" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
-  <path d="M 580 220 L 400 390" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
-  <path d="M 220 380 L 400 390" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrowOrange)"/>
-  <path d="M 580 380 L 400 390" stroke="#9C27B0" stroke-width="2" fill="none" marker-end="url(#arrowPurple)"/>
-  
-
-  <defs>
-    <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#4CAF50"/>
-    </marker>
-    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2196F3"/>
-    </marker>
-    <marker id="arrowOrange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#FF9800"/>
-    </marker>
-    <marker id="arrowPurple" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#9C27B0"/>
-    </marker>
-  </defs>
-</svg>
+  </text><path fill="none" stroke="#4caf50" stroke-width="2" marker-end="url(#f)" d="m220 220 180 170"/><path fill="none" stroke="#2196f3" stroke-width="2" marker-end="url(#g)" d="M580 220 400 390"/><path fill="none" stroke="#ff9800" stroke-width="2" marker-end="url(#h)" d="m220 380 180 10"/><path fill="none" stroke="#9c27b0" stroke-width="2" marker-end="url(#i)" d="m580 380-180 10"/><defs><marker id="f" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#4caf50" d="m0 0 10 3.5L0 7z"/></marker><marker id="g" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2196f3" d="m0 0 10 3.5L0 7z"/></marker><marker id="h" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#ff9800" d="m0 0 10 3.5L0 7z"/></marker><marker id="i" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#9c27b0" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

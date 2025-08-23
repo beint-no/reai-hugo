@@ -1,126 +1,43 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Omvendt Avgiftsplikt
-  </text>
-  
-
-  <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6c757d">
+  </text><text x="400" y="65" fill="#6c757d" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Kjøperen betaler MVA i stedet for selgeren
-  </text>
-  
-
-  <rect x="50" y="100" width="300" height="250" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  <text x="200" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
+  </text><rect width="300" height="250" x="50" y="100" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="200" y="125" fill="#495057" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Vanlig MVA
-  </text>
-  
-
-  <rect x="70" y="150" width="120" height="60" fill="url(#blueGradient)" rx="5"/>
-  <text x="130" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="60" x="70" y="150" fill="url(#b)" rx="5"/><text x="130" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     SELGER
-  </text>
-  <text x="130" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="130" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     (Norsk bedrift)
-  </text>
-  
-
-  <rect x="210" y="150" width="120" height="60" fill="url(#greenGradient)" rx="5"/>
-  <text x="270" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="60" x="210" y="150" fill="url(#c)" rx="5"/><text x="270" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KJØPER
-  </text>
-  <text x="270" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="270" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     (Norsk bedrift)
-  </text>
-  
-
-  <path d="M 190 180 L 210 180" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="200" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><path stroke="#495057" stroke-width="2" marker-end="url(#d)" d="M190 180h20"/><text x="200" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Faktura
-  </text>
-  <text x="200" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="200" y="195" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     + MVA
-  </text>
-  
-
-  <path d="M 130 210 L 130 250" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="130" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">
+  </text><path stroke="#dc3545" stroke-width="2" marker-end="url(#d)" d="M130 210v40"/><text x="130" y="270" fill="#dc3545" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Betaler MVA
-  </text>
-  <text x="130" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">
+  </text><text x="130" y="285" fill="#dc3545" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     til staten
-  </text>
-  
-
-  <rect x="450" y="100" width="300" height="250" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  <text x="600" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
+  </text><rect width="300" height="250" x="450" y="100" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="600" y="125" fill="#495057" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Omvendt Avgiftsplikt
-  </text>
-  
-
-  <rect x="470" y="150" width="120" height="60" fill="url(#blueGradient)" rx="5"/>
-  <text x="530" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="60" x="470" y="150" fill="url(#b)" rx="5"/><text x="530" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     SELGER
-  </text>
-  <text x="530" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="530" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     (Utenlandsk)
-  </text>
-  
-
-  <rect x="610" y="150" width="120" height="60" fill="url(#greenGradient)" rx="5"/>
-  <text x="670" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="60" x="610" y="150" fill="url(#c)" rx="5"/><text x="670" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KJØPER
-  </text>
-  <text x="670" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="670" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     (Norsk bedrift)
-  </text>
-  
-
-  <path d="M 590 180 L 610 180" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="600" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><path stroke="#495057" stroke-width="2" marker-end="url(#d)" d="M590 180h20"/><text x="600" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Faktura
-  </text>
-  <text x="600" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="600" y="195" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     UTEN MVA
-  </text>
-  
-
-  <path d="M 670 210 L 670 250" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="670" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">
+  </text><path stroke="#dc3545" stroke-width="2" marker-end="url(#d)" d="M670 210v40"/><text x="670" y="270" fill="#dc3545" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Beregner og
-  </text>
-  <text x="670" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">
+  </text><text x="670" y="285" fill="#dc3545" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     betaler MVA
-  </text>
-  
-
-  <rect x="300" y="320" width="200" height="40" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="5"/>
-  <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+  </text><rect width="200" height="40" x="300" y="320" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="5"/><text x="400" y="345" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     SKATTEETATEN
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

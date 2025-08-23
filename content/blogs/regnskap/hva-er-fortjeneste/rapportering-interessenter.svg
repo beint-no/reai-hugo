@@ -1,154 +1,21 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="reportingGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="stakeholderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="legalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="internalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Rapportering til Interessenter
-  </text>
-  <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">
+  </text><text x="400" y="65" fill="#666" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Kommunikasjon av fortjeneste til ulike interessentgrupper
-  </text>
-  
-
-  <g transform="translate(350, 250)">
-    <circle cx="50" cy="50" r="40" fill="url(#reportingGradient)" opacity="0.9"/>
-    <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">BEDRIFT</text>
-    <text x="50" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Fortjeneste-</text>
-    <text x="50" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">rapportering</text>
-  </g>
-  
-
-  
-
-  <g transform="translate(100, 120)">
-    <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#stakeholderGradient)" opacity="0.9"/>
-    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><g transform="translate(350 250)"><circle cx="50" cy="50" r="40" fill="url(#a)" opacity=".9"/><text x="50" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">BEDRIFT</text><text x="50" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Fortjeneste-</text><text x="50" y="72" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">rapportering</text></g><g transform="translate(100 120)"><rect width="200" height="120" fill="url(#b)" opacity=".9" rx="10"/><text x="100" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       👥 Eiere og Investorer
-    </text>
-    
-    <text x="15" y="40" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Rapporter:</text>
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">• Årsrapporter - Omfattende resultater</text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">• Kvartalsrapporter - Regelmessig oppdatering</text>
-    <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Investormøter - Direkte kommunikasjon</text>
-    <text x="15" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Utbyttepolitikk - Kapitalallokering</text>
-    
-
-    <line x1="200" y1="60" x2="340" y2="280" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(500, 120)">
-    <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#legalGradient)" opacity="0.9"/>
-    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="15" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Rapporter:</text><text x="15" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Årsrapporter - Omfattende resultater</text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Kvartalsrapporter - Regelmessig oppdatering</text><text x="15" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Investormøter - Direkte kommunikasjon</text><text x="15" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Utbyttepolitikk - Kapitalallokering</text><path stroke="#666" stroke-width="2" marker-end="url(#c)" d="m200 60 140 220"/></g><g transform="translate(500 120)"><rect width="200" height="120" fill="url(#d)" opacity=".9" rx="10"/><text x="100" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       🏦 Kreditorer
-    </text>
-    
-    <text x="15" y="40" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Fokus:</text>
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">• Betalingsevne og likviditet</text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">• Soliditet og gjeldsgrad</text>
-    <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Dekningsgrad for renter</text>
-    <text x="15" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Fremtidig kontantstrøm</text>
-    
-
-    <line x1="0" y1="60" x2="360" y2="280" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(100, 380)">
-    <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#internalGradient)" opacity="0.9"/>
-    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="15" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Fokus:</text><text x="15" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Betalingsevne og likviditet</text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Soliditet og gjeldsgrad</text><text x="15" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Dekningsgrad for renter</text><text x="15" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Fremtidig kontantstrøm</text><path stroke="#666" stroke-width="2" marker-end="url(#c)" d="m0 60 360 220"/></g><g transform="translate(100 380)"><rect width="200" height="120" fill="url(#e)" opacity=".9" rx="10"/><text x="100" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       👨‍💼 Ansatte
-    </text>
-    
-    <text x="15" y="40" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Interesse:</text>
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">• Jobbsikkerhet og stabilitet</text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">• Bonusordninger og incentiver</text>
-    <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Fremtidige investeringer</text>
-    <text x="15" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Bedriftens konkurranseevne</text>
-    
-
-    <line x1="200" y1="60" x2="360" y2="320" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(500, 380)">
-    <rect x="0" y="0" width="200" height="120" rx="10" fill="url(#reportingGradient)" opacity="0.9"/>
-    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="15" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Interesse:</text><text x="15" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Jobbsikkerhet og stabilitet</text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Bonusordninger og incentiver</text><text x="15" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Fremtidige investeringer</text><text x="15" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Bedriftens konkurranseevne</text><path stroke="#666" stroke-width="2" marker-end="url(#c)" d="m200 60 160 260"/></g><g transform="translate(500 380)"><rect width="200" height="120" fill="url(#a)" opacity=".9" rx="10"/><text x="100" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       🏛️ Myndigheter
-    </text>
-    
-    <text x="15" y="40" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Krav:</text>
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">• Skattemessig rapportering</text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="10" fill="white">• Bokføringsloven compliance</text>
-    <text x="15" y="85" font-family="Arial, sans-serif" font-size="10" fill="white">• Offentliggjøring til Brønnøysund</text>
-    <text x="15" y="100" font-family="Arial, sans-serif" font-size="10" fill="white">• Revisjonsplikt oppfyllelse</text>
-    
-
-    <line x1="0" y1="60" x2="340" y2="320" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(50, 520)">
-    <rect x="0" y="0" width="320" height="70" rx="10" fill="url(#legalGradient)" opacity="0.9"/>
-    <text x="160" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="15" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Krav:</text><text x="15" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Skattemessig rapportering</text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Bokføringsloven compliance</text><text x="15" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Offentliggjøring til Brønnøysund</text><text x="15" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Revisjonsplikt oppfyllelse</text><path stroke="#666" stroke-width="2" marker-end="url(#c)" d="m0 60 340 260"/></g><g transform="translate(50 520)"><rect width="320" height="70" fill="url(#d)" opacity=".9" rx="10"/><text x="160" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       📋 Lovpålagte Krav
-    </text>
-    
-    <text x="15" y="40" font-family="Arial, sans-serif" font-size="10" fill="white">• Bokføringsloven - Grunnleggende krav</text>
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">• Regnskapsstandarder - NGRS eller IFRS</text>
-    <text x="170" y="40" font-family="Arial, sans-serif" font-size="10" fill="white">• Revisjonsplikt - Ekstern revisjon</text>
-    <text x="170" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">• Offentliggjøring - Brønnøysundregistrene</text>
-  </g>
-  
-
-  <g transform="translate(430, 520)">
-    <rect x="0" y="0" width="320" height="70" rx="10" fill="url(#internalGradient)" opacity="0.9"/>
-    <text x="160" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="15" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Bokføringsloven - Grunnleggende krav</text><text x="15" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Regnskapsstandarder - NGRS eller IFRS</text><text x="170" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Revisjonsplikt - Ekstern revisjon</text><text x="170" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Offentliggjøring - Brønnøysundregistrene</text></g><g transform="translate(430 520)"><rect width="320" height="70" fill="url(#e)" opacity=".9" rx="10"/><text x="160" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       📊 Intern Rapportering
-    </text>
-    
-    <text x="15" y="40" font-family="Arial, sans-serif" font-size="10" fill="white">• Månedlige rapporter - Oppfølging</text>
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">• Budsjett vs. faktisk - Avviksanalyse</text>
-    <text x="170" y="40" font-family="Arial, sans-serif" font-size="10" fill="white">• Prognoser - Fremtidsrettede estimater</text>
-    <text x="170" y="55" font-family="Arial, sans-serif" font-size="10" fill="white">• Segmentrapportering - Per område</text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
-     refX="0" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666" />
-    </marker>
-  </defs>
-  
-
-  <g transform="translate(250, 90)">
-    <rect x="0" y="0" width="300" height="50" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
-    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+    </text><text x="15" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Månedlige rapporter - Oppfølging</text><text x="15" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Budsjett vs. faktisk - Avviksanalyse</text><text x="170" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Prognoser - Fremtidsrettede estimater</text><text x="170" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10">• Segmentrapportering - Per område</text></g><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="0" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs><g transform="translate(250 90)"><rect width="300" height="50" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="150" y="20" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       🎯 Nøkkelprinsipper for Kommunikasjon
-    </text>
-    <text x="150" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+    </text><text x="150" y="40" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Transparens • Konsistens • Relevans • Rettidighet
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

@@ -1,72 +1,7 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#34495e;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#titleGradient)">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1"/><stop offset="100%" style="stop-color:#34495e;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><text x="400" y="80" fill="url(#b)" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle">
     Hva er Diskontering?
-  </text>
-  
-
-  <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#6c757d">
+  </text><text x="400" y="120" fill="#6c757d" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">
     Nåverdi og Fremtidige Kontantstrømmer
-  </text>
-  
-
-  <line x1="150" y1="200" x2="650" y2="200" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-    </marker>
-  </defs>
-  
-
-  <text x="150" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">I DAG</text>
-  <text x="650" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">FREMTID</text>
-  
-
-  <rect x="100" y="230" width="100" height="80" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="5"/>
-  <text x="150" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">NÅVERDI</text>
-  <text x="150" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">PV</text>
-  <text x="150" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Diskontert</text>
-  
-
-  <rect x="600" y="230" width="100" height="80" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="5"/>
-  <text x="650" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">FREMTIDIG</text>
-  <text x="650" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">FV</text>
-  <text x="650" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Kontantstrøm</text>
-  
-
-  <circle cx="400" cy="270" r="40" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
-  <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">Diskonterings-</text>
-  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">rente (r)</text>
-  
-
-  <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
+  </text><path stroke="#495057" stroke-width="3" marker-end="url(#c)" d="M150 200h500"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="150" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">I DAG</text><text x="650" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">FREMTID</text><rect width="100" height="80" x="100" y="230" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="5"/><text x="150" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">NÅVERDI</text><text x="150" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">PV</text><text x="150" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Diskontert</text><rect width="100" height="80" x="600" y="230" fill="#007bff" stroke="#0056b3" stroke-width="2" rx="5"/><text x="650" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">FREMTIDIG</text><text x="650" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">FV</text><text x="650" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Kontantstrøm</text><circle cx="400" cy="270" r="40" fill="#ffc107" stroke="#e0a800" stroke-width="2"/><text x="400" y="265" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Diskonterings-</text><text x="400" y="280" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">rente (r)</text><text x="400" y="350" fill="#495057" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     PV = FV / (1 + r)^n
-  </text>
-  
-
-  <path d="M 200 270 Q 300 240 380 270" stroke="#dc3545" stroke-width="2" fill="none" marker-end="url(#redArrow)"/>
-  <path d="M 420 270 Q 520 240 600 270" stroke="#dc3545" stroke-width="2" fill="none" marker-end="url(#redArrow)"/>
-  
-
-  <defs>
-    <marker id="redArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
-      <polygon points="0 0, 8 3, 0 6" fill="#dc3545"/>
-    </marker>
-  </defs>
-</svg>
+  </text><path fill="none" stroke="#dc3545" stroke-width="2" marker-end="url(#d)" d="M200 270q100-30 180 0"/><path fill="none" stroke="#dc3545" stroke-width="2" marker-end="url(#d)" d="M420 270q100-30 180 0"/><defs><marker id="d" markerHeight="6" markerWidth="8" orient="auto" refX="7" refY="3"><path fill="#dc3545" d="m0 0 8 3-8 3z"/></marker></defs></svg>

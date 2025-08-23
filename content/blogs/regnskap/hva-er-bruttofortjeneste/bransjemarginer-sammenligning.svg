@@ -1,113 +1,11 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="highMargin" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="mediumMargin" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f57c00;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="lowMargin" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c62828;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#f57c00;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#c62828;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Bransjemarginer Sammenligning
-  </text>
-  <text x="400" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#666">
+  </text><text x="400" y="55" fill="#666" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Typiske bruttofortjenestemarginer per bransje
-  </text>
-  
-
-  <line x1="80" y1="100" x2="80" y2="520" stroke="#333" stroke-width="2"/>
-  
-
-  <line x1="80" y1="520" x2="750" y2="520" stroke="#333" stroke-width="2"/>
-  
-
-  <text x="70" y="525" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#666">0%</text>
-  <text x="70" y="440" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#666">20%</text>
-  <text x="70" y="355" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#666">40%</text>
-  <text x="70" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#666">60%</text>
-  <text x="70" y="185" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#666">80%</text>
-  <text x="70" y="105" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#666">100%</text>
-  
-
-  <line x1="80" y1="435" x2="750" y2="435" stroke="#e0e0e0" stroke-width="1"/>
-  <line x1="80" y1="350" x2="750" y2="350" stroke="#e0e0e0" stroke-width="1"/>
-  <line x1="80" y1="265" x2="750" y2="265" stroke="#e0e0e0" stroke-width="1"/>
-  <line x1="80" y1="180" x2="750" y2="180" stroke="#e0e0e0" stroke-width="1"/>
-  
-
-  <rect x="100" y="180" width="60" height="340" fill="url(#highMargin)" rx="3"/>
-  <text x="130" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">80%</text>
-  <text x="130" y="540" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Software/</text>
-  <text x="130" y="555" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">SaaS</text>
-  
-
-  <rect x="180" y="222" width="60" height="298" fill="url(#highMargin)" rx="3"/>
-  <text x="210" y="217" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">70%</text>
-  <text x="210" y="540" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Farmasi</text>
-  
-
-  <rect x="260" y="243" width="60" height="277" fill="url(#highMargin)" rx="3"/>
-  <text x="290" y="238" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">65%</text>
-  <text x="290" y="540" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Restaurant</text>
-  
-
-  <rect x="340" y="265" width="60" height="255" fill="url(#highMargin)" rx="3"/>
-  <text x="370" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">60%</text>
-  <text x="370" y="540" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Luksus-</text>
-  <text x="370" y="555" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">varer</text>
-  
-
-  <rect x="420" y="307" width="60" height="213" fill="url(#mediumMargin)" rx="3"/>
-  <text x="450" y="302" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">50%</text>
-  <text x="450" y="540" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Detaljhandel</text>
-  <text x="450" y="555" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">(klær)</text>
-  
-
-  <rect x="500" y="414" width="60" height="106" fill="url(#mediumMargin)" rx="3"/>
-  <text x="530" y="409" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">25%</text>
-  <text x="530" y="540" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Dagligvare</text>
-  
-
-  <rect x="580" y="456" width="60" height="64" fill="url(#lowMargin)" rx="3"/>
-  <text x="610" y="451" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">15%</text>
-  <text x="610" y="540" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Bilhandel</text>
-  
-
-  <rect x="580" y="100" width="150" height="120" fill="white" stroke="#ccc" stroke-width="1" rx="5"/>
-  <text x="655" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><path stroke="#333" stroke-width="2" d="M80 100v420M80 520h670"/><text x="70" y="525" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="end">0%</text><text x="70" y="440" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="end">20%</text><text x="70" y="355" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="end">40%</text><text x="70" y="270" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="end">60%</text><text x="70" y="185" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="end">80%</text><text x="70" y="105" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="end">100%</text><path stroke="#e0e0e0" d="M80 435h670M80 350h670M80 265h670M80 180h670"/><rect width="60" height="340" x="100" y="180" fill="url(#a)" rx="3"/><text x="130" y="175" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">80%</text><text x="130" y="540" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Software/</text><text x="130" y="555" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">SaaS</text><rect width="60" height="298" x="180" y="222" fill="url(#a)" rx="3"/><text x="210" y="217" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">70%</text><text x="210" y="540" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Farmasi</text><rect width="60" height="277" x="260" y="243" fill="url(#a)" rx="3"/><text x="290" y="238" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">65%</text><text x="290" y="540" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Restaurant</text><rect width="60" height="255" x="340" y="265" fill="url(#a)" rx="3"/><text x="370" y="260" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">60%</text><text x="370" y="540" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Luksus-</text><text x="370" y="555" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">varer</text><rect width="60" height="213" x="420" y="307" fill="url(#b)" rx="3"/><text x="450" y="302" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">50%</text><text x="450" y="540" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Detaljhandel</text><text x="450" y="555" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">(klær)</text><rect width="60" height="106" x="500" y="414" fill="url(#b)" rx="3"/><text x="530" y="409" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">25%</text><text x="530" y="540" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Dagligvare</text><rect width="60" height="64" x="580" y="456" fill="url(#c)" rx="3"/><text x="610" y="451" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">15%</text><text x="610" y="540" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Bilhandel</text><rect width="150" height="120" x="580" y="100" fill="#fff" stroke="#ccc" rx="5"/><text x="655" y="120" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Marginkategorier
-  </text>
-  
-
-  <rect x="590" y="135" width="15" height="15" fill="url(#highMargin)" rx="2"/>
-  <text x="615" y="147" font-family="Arial, sans-serif" font-size="12" fill="#333">Høy (>50%)</text>
-  
-
-  <rect x="590" y="160" width="15" height="15" fill="url(#mediumMargin)" rx="2"/>
-  <text x="615" y="172" font-family="Arial, sans-serif" font-size="12" fill="#333">Middels (20-50%)</text>
-  
-
-  <rect x="590" y="185" width="15" height="15" fill="url(#lowMargin)" rx="2"/>
-  <text x="615" y="197" font-family="Arial, sans-serif" font-size="12" fill="#333">Lav (&lt;20%)</text>
-  
-
-  <text x="25" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333" transform="rotate(-90 25 310)">
+  </text><rect width="15" height="15" x="590" y="135" fill="url(#a)" rx="2"/><text x="615" y="147" fill="#333" font-family="Arial, sans-serif" font-size="12">Høy (&gt;50%)</text><rect width="15" height="15" x="590" y="160" fill="url(#b)" rx="2"/><text x="615" y="172" fill="#333" font-family="Arial, sans-serif" font-size="12">Middels (20-50%)</text><rect width="15" height="15" x="590" y="185" fill="url(#c)" rx="2"/><text x="615" y="197" fill="#333" font-family="Arial, sans-serif" font-size="12">Lav (&lt;20%)</text><text x="25" y="310" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 25 310)">
     Bruttofortjenestemargin (%)
-  </text>
-  
-
-  <text x="415" y="590" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><text x="415" y="590" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Bransjer
-  </text>
-</svg>
+  </text></svg>

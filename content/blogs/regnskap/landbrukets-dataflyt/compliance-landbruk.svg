@@ -1,197 +1,61 @@
-<svg width="800" height="550" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="complianceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#8e44ad;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#9b59b6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="regulatoryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="environmentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="safetyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f39c12;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e67e22;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="550" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="550"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#8e44ad;stop-opacity:1"/><stop offset="100%" style="stop-color:#9b59b6;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#c0392b;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#27ae60;stop-opacity:1"/><stop offset="100%" style="stop-color:#229954;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f39c12;stop-opacity:1"/><stop offset="100%" style="stop-color:#e67e22;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v550H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Compliance-krav for Landbrukets Dataflyt
-  </text>
-  
-
-  <circle cx="400" cy="200" r="60" fill="url(#complianceGrad)" stroke="#8e44ad" stroke-width="3"/>
-  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="200" r="60" fill="url(#a)" stroke="#8e44ad" stroke-width="3"/><text x="400" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     COMPLIANCE
-  </text>
-  <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="400" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     SENTRAL
-  </text>
-  <text x="400" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="400" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Koordinering
-  </text>
-  
-
-  <rect x="100" y="80" width="180" height="100" rx="10" fill="url(#regulatoryGrad)" stroke="#c0392b" stroke-width="2"/>
-  <text x="190" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="180" height="100" x="100" y="80" fill="url(#b)" stroke="#c0392b" stroke-width="2" rx="10"/><text x="190" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     MYNDIGHETER
-  </text>
-  <text x="190" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="190" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Landbruksdirektoratet
-  </text>
-  <text x="190" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="190" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Skatteetaten
-  </text>
-  <text x="190" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="190" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Mattilsynet
-  </text>
-  <text x="190" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="190" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Miljødirektoratet
-  </text>
-  
-
-  <rect x="520" y="80" width="180" height="100" rx="10" fill="url(#environmentGrad)" stroke="#229954" stroke-width="2"/>
-  <text x="610" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="180" height="100" x="520" y="80" fill="url(#c)" stroke="#229954" stroke-width="2" rx="10"/><text x="610" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     MILJØKRAV
-  </text>
-  <text x="610" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="610" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Utslippsrapportering
-  </text>
-  <text x="610" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="610" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Bærekraftsmål
-  </text>
-  <text x="610" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="610" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Biodiversitet
-  </text>
-  <text x="610" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="610" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Klimarapporter
-  </text>
-  
-
-  <rect x="100" y="320" width="180" height="100" rx="10" fill="url(#safetyGrad)" stroke="#e67e22" stroke-width="2"/>
-  <text x="190" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="180" height="100" x="100" y="320" fill="url(#d)" stroke="#e67e22" stroke-width="2" rx="10"/><text x="190" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     MATTRYGGHET
-  </text>
-  <text x="190" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="190" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Sporbarhet
-  </text>
-  <text x="190" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="190" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • HACCP-system
-  </text>
-  <text x="190" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="190" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Kvalitetssikring
-  </text>
-  <text x="190" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="190" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Tilbakekalling
-  </text>
-  
-
-  <rect x="520" y="320" width="180" height="100" rx="10" fill="#34495e" stroke="#2c3e50" stroke-width="2"/>
-  <text x="610" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="180" height="100" x="520" y="320" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="10"/><text x="610" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     PERSONVERN
-  </text>
-  <text x="610" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="610" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • GDPR-compliance
-  </text>
-  <text x="610" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="610" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Databehandling
-  </text>
-  <text x="610" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="610" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Samtykke
-  </text>
-  <text x="610" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="610" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Sikkerhet
-  </text>
-  
-
-  <defs>
-    <marker id="compArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
-      <polygon points="0 0, 8 3, 0 6" fill="#7f8c8d" />
-    </marker>
-  </defs>
-  
-
-  <line x1="280" y1="130" x2="340" y2="170" stroke="#7f8c8d" stroke-width="2" marker-end="url(#compArrow)" stroke-dasharray="5,5"/>
-  <line x1="520" y1="130" x2="460" y2="170" stroke="#7f8c8d" stroke-width="2" marker-end="url(#compArrow)" stroke-dasharray="5,5"/>
-  <line x1="280" y1="370" x2="340" y2="230" stroke="#7f8c8d" stroke-width="2" marker-end="url(#compArrow)" stroke-dasharray="5,5"/>
-  <line x1="520" y1="370" x2="460" y2="230" stroke="#7f8c8d" stroke-width="2" marker-end="url(#compArrow)" stroke-dasharray="5,5"/>
-  
-
-  <rect x="50" y="450" width="700" height="80" rx="8" fill="white" stroke="#bdc3c7" stroke-width="2"/>
-  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><defs><marker id="e" markerHeight="6" markerWidth="8" orient="auto" refX="7" refY="3"><path fill="#7f8c8d" d="m0 0 8 3-8 3z"/></marker></defs><path stroke="#7f8c8d" stroke-dasharray="5,5" stroke-width="2" marker-end="url(#e)" d="m280 130 60 40"/><path stroke="#7f8c8d" stroke-dasharray="5,5" stroke-width="2" marker-end="url(#e)" d="m520 130-60 40"/><path stroke="#7f8c8d" stroke-dasharray="5,5" stroke-width="2" marker-end="url(#e)" d="m280 370 60-140"/><path stroke="#7f8c8d" stroke-dasharray="5,5" stroke-width="2" marker-end="url(#e)" d="m520 370-60-140"/><rect width="700" height="80" x="50" y="450" fill="#fff" stroke="#bdc3c7" stroke-width="2" rx="8"/><text x="400" y="470" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     DETALJERTE COMPLIANCE-KRAV
-  </text>
-  
-
-  <g transform="translate(70, 485)">
-
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e74c3c">SUBSIDIER &amp; TILSKUDD:</text>
-    <text x="0" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Arealregistrering</text>
-    <text x="0" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Produksjonsdata</text>
-    <text x="0" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Miljøtiltak</text>
-    
-
-    <text x="170" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#8e44ad">SKATT &amp; MVA:</text>
-    <text x="170" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Inntektsrapportering</text>
-    <text x="170" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Fradragsberettigelse</text>
-    <text x="170" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• MVA-behandling</text>
-    
-
-    <text x="340" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#27ae60">MILJØRAPPORTER:</text>
-    <text x="340" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Klimagassutslipp</text>
-    <text x="340" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Ressursforbruk</text>
-    <text x="340" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Avfallshåndtering</text>
-    
-
-    <text x="510" y="0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f39c12">KVALITETSSIKRING:</text>
-    <text x="510" y="15" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Produktsporing</text>
-    <text x="510" y="28" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Sertifiseringer</text>
-    <text x="510" y="41" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">• Dokumentasjon</text>
-  </g>
-  
-
-  <circle cx="310" cy="150" r="2" fill="#e74c3c">
-    <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="490" cy="150" r="2" fill="#27ae60">
-    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="0.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="310" cy="390" r="2" fill="#f39c12">
-    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="490" cy="390" r="2" fill="#34495e">
-    <animate attributeName="opacity" values="1;0.3;1" dur="3s" begin="1.5s" repeatCount="indefinite"/>
-  </circle>
-  
-
-  <g transform="translate(320, 50)">
-    <rect x="0" y="0" width="160" height="20" rx="10" fill="#2ecc71"/>
-    <text x="80" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><g font-family="Arial, sans-serif"><text fill="#e74c3c" font-size="10" font-weight="bold" transform="translate(70 485)">SUBSIDIER &amp; TILSKUDD:</text><text y="15" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Arealregistrering</text><text y="28" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Produksjonsdata</text><text y="41" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Miljøtiltak</text><text x="170" fill="#8e44ad" font-size="10" font-weight="bold" transform="translate(70 485)">SKATT &amp; MVA:</text><text x="170" y="15" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Inntektsrapportering</text><text x="170" y="28" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Fradragsberettigelse</text><text x="170" y="41" fill="#2c3e50" font-size="9" transform="translate(70 485)">• MVA-behandling</text><text x="340" fill="#27ae60" font-size="10" font-weight="bold" transform="translate(70 485)">MILJØRAPPORTER:</text><text x="340" y="15" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Klimagassutslipp</text><text x="340" y="28" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Ressursforbruk</text><text x="340" y="41" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Avfallshåndtering</text><text x="510" fill="#f39c12" font-size="10" font-weight="bold" transform="translate(70 485)">KVALITETSSIKRING:</text><text x="510" y="15" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Produktsporing</text><text x="510" y="28" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Sertifiseringer</text><text x="510" y="41" fill="#2c3e50" font-size="9" transform="translate(70 485)">• Dokumentasjon</text></g><circle cx="310" cy="150" r="2" fill="#e74c3c"><animate attributeName="opacity" dur="3s" repeatCount="indefinite" values="1;0.3;1"/></circle><circle cx="490" cy="150" r="2" fill="#27ae60"><animate attributeName="opacity" begin="0.5s" dur="3s" repeatCount="indefinite" values="1;0.3;1"/></circle><circle cx="310" cy="390" r="2" fill="#f39c12"><animate attributeName="opacity" begin="1s" dur="3s" repeatCount="indefinite" values="1;0.3;1"/></circle><circle cx="490" cy="390" r="2" fill="#34495e"><animate attributeName="opacity" begin="1.5s" dur="3s" repeatCount="indefinite" values="1;0.3;1"/></circle><g transform="translate(320 50)"><rect width="160" height="20" fill="#2ecc71" rx="10"/><text x="80" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       COMPLIANCE STATUS: AKTIV
-    </text>
-  </g>
-  
-
-  <text x="50" y="60" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">
+    </text></g><text x="50" y="60" fill="#e74c3c" font-family="Arial, sans-serif" font-size="10">
     ⚠ Høy risiko: Manglende dokumentasjon
-  </text>
-  <text x="550" y="60" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">
+  </text><text x="550" y="60" fill="#f39c12" font-family="Arial, sans-serif" font-size="10">
     ⚡ Medium risiko: Forsinkede rapporter
-  </text>
-  
-
-  <ellipse cx="400" cy="280" rx="120" ry="25" fill="rgba(52, 152, 219, 0.1)" stroke="#3498db" stroke-width="1" stroke-dasharray="3,3"/>
-  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#3498db">
+  </text><ellipse cx="400" cy="280" fill="rgba(52, 152, 219, 0.1)" stroke="#3498db" stroke-dasharray="3,3" rx="120" ry="25"/><text x="400" y="275" fill="#3498db" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     AUTOMATISERT COMPLIANCE
-  </text>
-  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#3498db">
+  </text><text x="400" y="290" fill="#3498db" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Reduserer risiko og administrative kostnader
-  </text>
-</svg>
+  </text></svg>

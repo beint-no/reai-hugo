@@ -1,192 +1,71 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="centerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4dabf7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1c7ed6;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4dabf7;stop-opacity:1"/><stop offset="100%" style="stop-color:#1c7ed6;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Interne Faktorer som Påvirker Betalingsevne
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="url(#centerGradient)" stroke="#1c7ed6" stroke-width="3"/>
-  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="300" r="80" fill="url(#b)" stroke="#1c7ed6" stroke-width="3"/><text x="400" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     BETALINGS-
-  </text>
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><text x="400" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     EVNE
-  </text>
-  
-
-  <g transform="translate(150, 100)">
-    <circle cx="0" cy="0" r="60" fill="#51cf66" stroke="#37b24d" stroke-width="2"/>
-    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><g transform="translate(150 100)"><circle r="60" fill="#51cf66" stroke="#37b24d" stroke-width="2"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Kredittid til
-    </text>
-    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       kunder
-    </text>
-    
-
-    <line x1="50" y1="40" x2="320" y2="240" stroke="#495057" stroke-width="2"/>
-    
-
-    <rect x="-50" y="80" width="100" height="40" rx="5" fill="white" stroke="#37b24d" stroke-width="1"/>
-    <text x="0" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#37b24d">
+    </text><path stroke="#495057" stroke-width="2" d="m50 40 270 200"/><rect width="100" height="40" x="-50" y="80" fill="#fff" stroke="#37b24d" rx="5"/><text y="95" fill="#37b24d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Lengre kredittid
-    </text>
-    <text x="0" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#37b24d">
+    </text><text y="110" fill="#37b24d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       = mindre kontanter
-    </text>
-  </g>
-  
-
-  <g transform="translate(650, 100)">
-    <circle cx="0" cy="0" r="60" fill="#fd7e14" stroke="#e8590c" stroke-width="2"/>
-    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><g transform="translate(650 100)"><circle r="60" fill="#fd7e14" stroke="#e8590c" stroke-width="2"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Lager-
-    </text>
-    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       rotasjon
-    </text>
-    
-
-    <line x1="-50" y1="40" x2="-320" y2="240" stroke="#495057" stroke-width="2"/>
-    
-
-    <rect x="-50" y="80" width="100" height="40" rx="5" fill="white" stroke="#e8590c" stroke-width="1"/>
-    <text x="0" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e8590c">
+    </text><path stroke="#495057" stroke-width="2" d="m-50 40-270 200"/><rect width="100" height="40" x="-50" y="80" fill="#fff" stroke="#e8590c" rx="5"/><text y="95" fill="#e8590c" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Treg rotasjon
-    </text>
-    <text x="0" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e8590c">
+    </text><text y="110" fill="#e8590c" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       = bundet kapital
-    </text>
-  </g>
-  
-
-  <g transform="translate(150, 500)">
-    <circle cx="0" cy="0" r="60" fill="#9775fa" stroke="#7048e8" stroke-width="2"/>
-    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><g transform="translate(150 500)"><circle r="60" fill="#9775fa" stroke="#7048e8" stroke-width="2"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Leverandør-
-    </text>
-    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       kreditt
-    </text>
-    
-
-    <line x1="50" y1="-40" x2="320" y2="-160" stroke="#495057" stroke-width="2"/>
-    
-
-    <rect x="-50" y="-120" width="100" height="40" rx="5" fill="white" stroke="#7048e8" stroke-width="1"/>
-    <text x="0" y="-105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7048e8">
+    </text><path stroke="#495057" stroke-width="2" d="m50-40 270-120"/><rect width="100" height="40" x="-50" y="-120" fill="#fff" stroke="#7048e8" rx="5"/><text y="-105" fill="#7048e8" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Lengre kreditt
-    </text>
-    <text x="0" y="-90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7048e8">
+    </text><text y="-90" fill="#7048e8" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       = bedre likviditet
-    </text>
-  </g>
-  
-
-  <g transform="translate(650, 500)">
-    <circle cx="0" cy="0" r="60" fill="#e03131" stroke="#c92a2a" stroke-width="2"/>
-    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><g transform="translate(650 500)"><circle r="60" fill="#e03131" stroke="#c92a2a" stroke-width="2"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Sesong-
-    </text>
-    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       variasjoner
-    </text>
-    
-
-    <line x1="-50" y1="-40" x2="-320" y2="-160" stroke="#495057" stroke-width="2"/>
-    
-
-    <rect x="-50" y="-120" width="100" height="40" rx="5" fill="white" stroke="#c92a2a" stroke-width="1"/>
-    <text x="0" y="-105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#c92a2a">
+    </text><path stroke="#495057" stroke-width="2" d="m-50-40-270-120"/><rect width="100" height="40" x="-50" y="-120" fill="#fff" stroke="#c92a2a" rx="5"/><text y="-105" fill="#c92a2a" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Uforutsigbare
-    </text>
-    <text x="0" y="-90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#c92a2a">
+    </text><text y="-90" fill="#c92a2a" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       kontantstrømmer
-    </text>
-  </g>
-  
-
-  <g transform="translate(400, 120)">
-    <circle cx="0" cy="0" r="60" fill="#20c997" stroke="#12b886" stroke-width="2"/>
-    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><g transform="translate(400 120)"><circle r="60" fill="#20c997" stroke="#12b886" stroke-width="2"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Investerings-
-    </text>
-    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       beslutninger
-    </text>
-    
-
-    <line x1="0" y1="60" x2="0" y2="140" stroke="#495057" stroke-width="2"/>
-    
-
-    <rect x="-60" y="80" width="120" height="40" rx="5" fill="white" stroke="#12b886" stroke-width="1"/>
-    <text x="0" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#12b886">
+    </text><path stroke="#495057" stroke-width="2" d="M0 60v80"/><rect width="120" height="40" x="-60" y="80" fill="#fff" stroke="#12b886" rx="5"/><text y="95" fill="#12b886" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Store investeringer
-    </text>
-    <text x="0" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#12b886">
+    </text><text y="110" fill="#12b886" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       = redusert likviditet
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 50)">
-    <rect x="0" y="0" width="200" height="120" rx="8" fill="white" stroke="#dee2e6" stroke-width="2"/>
-    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+    </text></g><g transform="translate(50 50)"><rect width="200" height="120" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="8"/><text x="100" y="20" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Nøkkelinnsikter
-    </text>
-    
-    <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Kontrollere kredittid
-    </text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="55" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Optimalisere lager
-    </text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="70" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Forhandle betalingsfrist
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="85" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Planlegge sesongvariasjoner
-    </text>
-    <text x="10" y="100" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="100" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Tidsbestemme investeringer
-    </text>
-  </g>
-  
-
-  <g transform="translate(550, 50)">
-    <rect x="0" y="0" width="200" height="120" rx="8" fill="#e7f5ff" stroke="#4dabf7" stroke-width="2"/>
-    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1c7ed6">
+    </text></g><g transform="translate(550 50)"><rect width="200" height="120" fill="#e7f5ff" stroke="#4dabf7" stroke-width="2" rx="8"/><text x="100" y="20" fill="#1c7ed6" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Ledelseskontroll
-    </text>
-    
-    <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#1c7ed6">
+    </text><text x="10" y="40" fill="#1c7ed6" font-family="Arial, sans-serif" font-size="11">
       ✓ Daglig kontantovervåking
-    </text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#1c7ed6">
+    </text><text x="10" y="55" fill="#1c7ed6" font-family="Arial, sans-serif" font-size="11">
       ✓ Ukentlige prognoser
-    </text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#1c7ed6">
+    </text><text x="10" y="70" fill="#1c7ed6" font-family="Arial, sans-serif" font-size="11">
       ✓ Månedlige analyser
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#1c7ed6">
+    </text><text x="10" y="85" fill="#1c7ed6" font-family="Arial, sans-serif" font-size="11">
       ✓ Kvartalsvise justeringer
-    </text>
-    <text x="10" y="100" font-family="Arial, sans-serif" font-size="11" fill="#1c7ed6">
+    </text><text x="10" y="100" fill="#1c7ed6" font-family="Arial, sans-serif" font-size="11">
       ✓ Årlig strategigjennomgang
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

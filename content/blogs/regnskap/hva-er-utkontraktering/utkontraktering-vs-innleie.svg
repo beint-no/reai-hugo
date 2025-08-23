@@ -1,121 +1,47 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e55a00;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1"/><stop offset="100%" style="stop-color:#e55a00;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Sammenligning: Utkontraktering vs. Innleie
-  </text>
-  
-
-  <line x1="400" y1="70" x2="400" y2="480" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <rect x="50" y="80" width="300" height="60" fill="url(#blueGradient)" rx="10"/>
-  <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+  </text><path stroke="#6c757d" stroke-dasharray="5,5" stroke-width="2" d="M400 70v410"/><rect width="300" height="60" x="50" y="80" fill="url(#b)" rx="10"/><text x="200" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     UTKONTRAKTERING
-  </text>
-  <text x="200" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">
+  </text><text x="200" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (Outsourcing)
-  </text>
-  
-
-  <rect x="450" y="80" width="300" height="60" fill="url(#orangeGradient)" rx="10"/>
-  <text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+  </text><rect width="300" height="60" x="450" y="80" fill="url(#c)" rx="10"/><text x="600" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     INNLEIE
-  </text>
-  <text x="600" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">
+  </text><text x="600" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (Temporary staffing)
-  </text>
-  
-
-  
-
-  <text x="50" y="180" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><text x="50" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     KONTROLL:
-  </text>
-  <rect x="50" y="190" width="300" height="50" fill="#cce5ff" stroke="#007bff" stroke-width="1" rx="5"/>
-  <text x="60" y="210" font-family="Arial, sans-serif" font-size="12" fill="#004085">
+  </text><rect width="300" height="50" x="50" y="190" fill="#cce5ff" stroke="#007bff" rx="5"/><text x="60" y="210" fill="#004085" font-family="Arial, sans-serif" font-size="12">
     • Leverandør har ansvar for utførelse
-  </text>
-  <text x="60" y="225" font-family="Arial, sans-serif" font-size="12" fill="#004085">
+  </text><text x="60" y="225" fill="#004085" font-family="Arial, sans-serif" font-size="12">
     • Mindre direkte styring av prosesser
-  </text>
-  
-  <rect x="450" y="190" width="300" height="50" fill="#ffe5cc" stroke="#fd7e14" stroke-width="1" rx="5"/>
-  <text x="460" y="210" font-family="Arial, sans-serif" font-size="12" fill="#8b4513">
+  </text><rect width="300" height="50" x="450" y="190" fill="#ffe5cc" stroke="#fd7e14" rx="5"/><text x="460" y="210" fill="#8b4513" font-family="Arial, sans-serif" font-size="12">
     • Oppdragsgiver styrer arbeidet direkte
-  </text>
-  <text x="460" y="225" font-family="Arial, sans-serif" font-size="12" fill="#8b4513">
+  </text><text x="460" y="225" fill="#8b4513" font-family="Arial, sans-serif" font-size="12">
     • Full kontroll over daglige oppgaver
-  </text>
-  
-
-  <text x="50" y="270" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><text x="50" y="270" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     RISIKO:
-  </text>
-  <rect x="50" y="280" width="300" height="50" fill="#cce5ff" stroke="#007bff" stroke-width="1" rx="5"/>
-  <text x="60" y="300" font-family="Arial, sans-serif" font-size="12" fill="#004085">
+  </text><rect width="300" height="50" x="50" y="280" fill="#cce5ff" stroke="#007bff" rx="5"/><text x="60" y="300" fill="#004085" font-family="Arial, sans-serif" font-size="12">
     • Risiko overføres til leverandør
-  </text>
-  <text x="60" y="315" font-family="Arial, sans-serif" font-size="12" fill="#004085">
+  </text><text x="60" y="315" fill="#004085" font-family="Arial, sans-serif" font-size="12">
     • Leverandør garanterer resultat
-  </text>
-  
-  <rect x="450" y="280" width="300" height="50" fill="#ffe5cc" stroke="#fd7e14" stroke-width="1" rx="5"/>
-  <text x="460" y="300" font-family="Arial, sans-serif" font-size="12" fill="#8b4513">
+  </text><rect width="300" height="50" x="450" y="280" fill="#ffe5cc" stroke="#fd7e14" rx="5"/><text x="460" y="300" fill="#8b4513" font-family="Arial, sans-serif" font-size="12">
     • Risiko forblir hos oppdragsgiver
-  </text>
-  <text x="460" y="315" font-family="Arial, sans-serif" font-size="12" fill="#8b4513">
+  </text><text x="460" y="315" fill="#8b4513" font-family="Arial, sans-serif" font-size="12">
     • Kun arbeidskraft leveres
-  </text>
-  
-
-  <text x="50" y="360" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><text x="50" y="360" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     RESULTAT:
-  </text>
-  <rect x="50" y="370" width="300" height="50" fill="#cce5ff" stroke="#007bff" stroke-width="1" rx="5"/>
-  <text x="60" y="390" font-family="Arial, sans-serif" font-size="12" fill="#004085">
+  </text><rect width="300" height="50" x="50" y="370" fill="#cce5ff" stroke="#007bff" rx="5"/><text x="60" y="390" fill="#004085" font-family="Arial, sans-serif" font-size="12">
     • Leverandør garanterer resultat
-  </text>
-  <text x="60" y="405" font-family="Arial, sans-serif" font-size="12" fill="#004085">
+  </text><text x="60" y="405" fill="#004085" font-family="Arial, sans-serif" font-size="12">
     • Komplett tjeneste leveres
-  </text>
-  
-  <rect x="450" y="370" width="300" height="50" fill="#ffe5cc" stroke="#fd7e14" stroke-width="1" rx="5"/>
-  <text x="460" y="390" font-family="Arial, sans-serif" font-size="12" fill="#8b4513">
+  </text><rect width="300" height="50" x="450" y="370" fill="#ffe5cc" stroke="#fd7e14" rx="5"/><text x="460" y="390" fill="#8b4513" font-family="Arial, sans-serif" font-size="12">
     • Kun arbeidskraft leveres
-  </text>
-  <text x="460" y="405" font-family="Arial, sans-serif" font-size="12" fill="#8b4513">
+  </text><text x="460" y="405" fill="#8b4513" font-family="Arial, sans-serif" font-size="12">
     • Oppdragsgiver ansvarlig for resultat
-  </text>
-  
-
-  <text x="50" y="450" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><text x="50" y="450" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     JURIDISK ANSVAR:
-  </text>
-  <rect x="50" y="460" width="300" height="30" fill="#d4edda" stroke="#28a745" stroke-width="1" rx="5"/>
-  <text x="60" y="480" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+  </text><rect width="300" height="30" x="50" y="460" fill="#d4edda" stroke="#28a745" rx="5"/><text x="60" y="480" fill="#155724" font-family="Arial, sans-serif" font-size="12">
     Hos leverandør
-  </text>
-  
-  <rect x="450" y="460" width="300" height="30" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
-  <text x="460" y="480" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+  </text><rect width="300" height="30" x="450" y="460" fill="#f8d7da" stroke="#dc3545" rx="5"/><text x="460" y="480" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
     Hos oppdragsgiver
-  </text>
-</svg>
+  </text></svg>

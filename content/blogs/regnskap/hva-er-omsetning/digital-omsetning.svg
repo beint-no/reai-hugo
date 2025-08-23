@@ -1,220 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f0f8ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e6f3ff;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="erpGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#5dade2;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="posGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2ecc71;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#58d68d;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="ecommerceGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ec7063;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="apiGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#bb8fce;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f0f8ff;stop-opacity:1"/><stop offset="100%" style="stop-color:#e6f3ff;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#5dade2;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2ecc71;stop-opacity:1"/><stop offset="100%" style="stop-color:#58d68d;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#ec7063;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1"/><stop offset="100%" style="stop-color:#bb8fce;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Digital Omsetning
-  </text>
-  
-
-  <g transform="translate(350, 70)">
-    <ellipse cx="50" cy="40" rx="40" ry="25" fill="#ecf0f1"/>
-    <ellipse cx="30" cy="50" rx="25" ry="20" fill="#ecf0f1"/>
-    <ellipse cx="70" cy="50" rx="25" ry="20" fill="#ecf0f1"/>
-    <ellipse cx="50" cy="60" rx="35" ry="15" fill="#ecf0f1"/>
-    <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#34495e">
+  </text><g transform="translate(350 70)"><ellipse cx="50" cy="40" fill="#ecf0f1" rx="40" ry="25"/><ellipse cx="30" cy="50" fill="#ecf0f1" rx="25" ry="20"/><ellipse cx="70" cy="50" fill="#ecf0f1" rx="25" ry="20"/><ellipse cx="50" cy="60" fill="#ecf0f1" rx="35" ry="15"/><text x="50" y="45" fill="#34495e" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Digital Sky
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 150)">
-    <rect x="0" y="0" width="150" height="120" fill="url(#erpGradient)" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 150)"><rect width="150" height="120" fill="url(#b)" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       ERP-system
-    </text>
-    
-
-    <rect x="60" y="35" width="30" height="40" fill="white" rx="3"/>
-    <rect x="65" y="40" width="20" height="3" fill="#3498db"/>
-    <rect x="65" y="45" width="20" height="3" fill="#3498db"/>
-    <rect x="65" y="50" width="20" height="3" fill="#3498db"/>
-    <rect x="65" y="55" width="20" height="3" fill="#3498db"/>
-    <rect x="65" y="60" width="20" height="3" fill="#3498db"/>
-    <rect x="65" y="65" width="20" height="3" fill="#3498db"/>
-    
-    <text x="75" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><rect width="30" height="40" x="60" y="35" fill="#fff" rx="3"/><path fill="#3498db" d="M65 40h20v3H65zM65 45h20v3H65zM65 50h20v3H65zM65 55h20v3H65zM65 60h20v3H65zM65 65h20v3H65z"/><text x="75" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Automatisk
-    </text>
-    <text x="75" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="75" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       registrering
-    </text>
-  </g>
-  
-
-  <g transform="translate(250, 150)">
-    <rect x="0" y="0" width="150" height="120" fill="url(#posGradient)" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(250 150)"><rect width="150" height="120" fill="url(#c)" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Kassasystem
-    </text>
-    
-
-    <rect x="50" y="35" width="50" height="35" fill="white" rx="5"/>
-    <rect x="55" y="40" width="40" height="15" fill="#2ecc71"/>
-    <rect x="60" y="58" width="8" height="8" fill="#2ecc71"/>
-    <rect x="72" y="58" width="8" height="8" fill="#2ecc71"/>
-    <rect x="84" y="58" width="8" height="8" fill="#2ecc71"/>
-    
-    <text x="75" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><rect width="50" height="35" x="50" y="35" fill="#fff" rx="5"/><path fill="#2ecc71" d="M55 40h40v15H55zM60 58h8v8h-8zM72 58h8v8h-8zM84 58h8v8h-8z"/><text x="75" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Direkte
-    </text>
-    <text x="75" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="75" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       integrasjon
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 150)">
-    <rect x="0" y="0" width="150" height="120" fill="url(#ecommerceGradient)" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(450 150)"><rect width="150" height="120" fill="url(#d)" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       E-handel
-    </text>
-    
-
-    <g transform="translate(60, 35)">
-      <rect x="0" y="15" width="25" height="20" fill="none" stroke="white" stroke-width="2"/>
-      <circle cx="8" cy="40" r="3" fill="white"/>
-      <circle cx="20" cy="40" r="3" fill="white"/>
-      <path d="M 0 15 L 5 0 L 30 0" stroke="white" stroke-width="2" fill="none"/>
-    </g>
-    
-    <text x="75" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><g transform="translate(60 35)"><path fill="none" stroke="#fff" stroke-width="2" d="M0 15h25v20H0z"/><circle cx="8" cy="40" r="3" fill="#fff"/><circle cx="20" cy="40" r="3" fill="#fff"/><path fill="none" stroke="#fff" stroke-width="2" d="M0 15 5 0h25"/></g><text x="75" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Automatisk
-    </text>
-    <text x="75" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="75" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       MVA-beregning
-    </text>
-  </g>
-  
-
-  <g transform="translate(150, 300)">
-    <rect x="0" y="0" width="150" height="120" fill="url(#apiGradient)" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(150 300)"><rect width="150" height="120" fill="url(#e)" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       API-integrasjon
-    </text>
-    
-
-    <g transform="translate(50, 35)">
-      <circle cx="15" cy="15" r="8" fill="white"/>
-      <circle cx="35" cy="15" r="8" fill="white"/>
-      <path d="M 23 15 L 27 15" stroke="white" stroke-width="3"/>
-      <path d="M 25 12 L 28 15 L 25 18" stroke="white" stroke-width="2" fill="none"/>
-      <text x="25" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    </text><g transform="translate(50 35)"><circle cx="15" cy="15" r="8" fill="#fff"/><circle cx="35" cy="15" r="8" fill="#fff"/><path stroke="#fff" stroke-width="3" d="M23 15h4"/><path fill="none" stroke="#fff" stroke-width="2" d="m25 12 3 3-3 3"/><text x="25" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
         API
-      </text>
-    </g>
-    
-    <text x="75" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      </text></g><text x="75" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Sanntidsdata
-    </text>
-    <text x="75" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="75" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       fra salgskanaler
-    </text>
-  </g>
-  
-
-  <g transform="translate(400, 300)">
-    <rect x="0" y="0" width="200" height="120" fill="#34495e" rx="10"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(400 300)"><rect width="200" height="120" fill="#34495e" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Digitale fordeler
-    </text>
-    
-
-    <g transform="translate(20, 40)">
-      <circle cx="8" cy="8" r="6" fill="#27ae60"/>
-      <path d="M 5 8 L 7 10 L 12 5" stroke="white" stroke-width="1.5" fill="none"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><g transform="translate(20 40)"><circle cx="8" cy="8" r="6" fill="#27ae60"/><path fill="none" stroke="#fff" stroke-width="1.5" d="m5 8 2 2 5-5"/><text x="20" y="12" fill="#fff" font-family="Arial, sans-serif" font-size="12">
         Nøyaktighet
-      </text>
-    </g>
-    
-    <g transform="translate(20, 60)">
-      <circle cx="8" cy="8" r="6" fill="#27ae60"/>
-      <path d="M 5 8 L 7 10 L 12 5" stroke="white" stroke-width="1.5" fill="none"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="12" fill="white">
+      </text></g><g transform="translate(20 60)"><circle cx="8" cy="8" r="6" fill="#27ae60"/><path fill="none" stroke="#fff" stroke-width="1.5" d="m5 8 2 2 5-5"/><text x="20" y="12" fill="#fff" font-family="Arial, sans-serif" font-size="12">
         Effektivitet
-      </text>
-    </g>
-    
-    <g transform="translate(100, 40)">
-      <circle cx="8" cy="8" r="6" fill="#27ae60"/>
-      <path d="M 5 8 L 7 10 L 12 5" stroke="white" stroke-width="1.5" fill="none"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="12" fill="white">
+      </text></g><g transform="translate(100 40)"><circle cx="8" cy="8" r="6" fill="#27ae60"/><path fill="none" stroke="#fff" stroke-width="1.5" d="m5 8 2 2 5-5"/><text x="20" y="12" fill="#fff" font-family="Arial, sans-serif" font-size="12">
         Compliance
-      </text>
-    </g>
-    
-    <g transform="translate(100, 60)">
-      <circle cx="8" cy="8" r="6" fill="#27ae60"/>
-      <path d="M 5 8 L 7 10 L 12 5" stroke="white" stroke-width="1.5" fill="none"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="12" fill="white">
+      </text></g><g transform="translate(100 60)"><circle cx="8" cy="8" r="6" fill="#27ae60"/><path fill="none" stroke="#fff" stroke-width="1.5" d="m5 8 2 2 5-5"/><text x="20" y="12" fill="#fff" font-family="Arial, sans-serif" font-size="12">
         Analyse
-      </text>
-    </g>
-  </g>
-  
-
-  <path d="M 380 130 L 125 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
-  <path d="M 400 130 L 325 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
-  <path d="M 420 130 L 525 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
-  <path d="M 400 130 L 225 300" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#3498db"/>
-    </marker>
-  </defs>
-  
-
-  <g transform="translate(320, 450)">
-    <rect x="0" y="0" width="160" height="60" fill="#3498db" rx="30"/>
-    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text></g></g><path fill="none" stroke="#bdc3c7" stroke-dasharray="5,5" stroke-width="2" d="m380 130-255 20M400 130l-75 20M420 130l105 20M400 130 225 300"/><g transform="translate(320 450)"><rect width="160" height="60" fill="#3498db" rx="30"/><text x="80" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Automatisert
-    </text>
-    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="80" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       omsetningsrapport
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 450)">
-    <circle cx="20" cy="20" r="15" fill="#95a5a6"/>
-    <circle cx="20" cy="20" r="8" fill="#7f8c8d"/>
-    <rect x="18" y="5" width="4" height="30" fill="#95a5a6"/>
-    <rect x="5" y="18" width="30" height="4" fill="#95a5a6"/>
-    <rect x="11" y="11" width="18" height="18" fill="#95a5a6" transform="rotate(45 20 20)"/>
-  </g>
-  
-  <g transform="translate(700, 450)">
-    <circle cx="20" cy="20" r="15" fill="#95a5a6"/>
-    <circle cx="20" cy="20" r="8" fill="#7f8c8d"/>
-    <rect x="18" y="5" width="4" height="30" fill="#95a5a6"/>
-    <rect x="5" y="18" width="30" height="4" fill="#95a5a6"/>
-    <rect x="11" y="11" width="18" height="18" fill="#95a5a6" transform="rotate(45 20 20)"/>
-  </g>
-</svg>
+    </text></g><g transform="translate(50 450)"><circle cx="20" cy="20" r="15" fill="#95a5a6"/><circle cx="20" cy="20" r="8" fill="#7f8c8d"/><path fill="#95a5a6" d="M18 5h4v30h-4z"/><path fill="#95a5a6" d="M5 18h30v4H5z"/><path fill="#95a5a6" d="M20 7.272 32.728 20 20 32.728 7.272 20z"/></g><g transform="translate(700 450)"><circle cx="20" cy="20" r="15" fill="#95a5a6"/><circle cx="20" cy="20" r="8" fill="#7f8c8d"/><path fill="#95a5a6" d="M18 5h4v30h-4z"/><path fill="#95a5a6" d="M5 18h30v4H5z"/><path fill="#95a5a6" d="M20 7.272 32.728 20 20 32.728 7.272 20z"/></g></svg>

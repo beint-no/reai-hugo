@@ -1,106 +1,13 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#e74c3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#27ae60;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="50%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#27ae60;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v400H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Oppbevaringsfrister - Oversikt
-  </text>
-  
-
-  <line x1="100" y1="80" x2="700" y2="80" stroke="url(#timelineGradient)" stroke-width="8"/>
-  
-
-  <g font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
-    <text x="100" y="100" text-anchor="middle">0</text>
-    <text x="220" y="100" text-anchor="middle">5 år</text>
-    <text x="460" y="100" text-anchor="middle">10 år</text>
-    <text x="700" y="100" text-anchor="middle">Permanent</text>
-  </g>
-  
-
-  <line x1="100" y1="75" x2="100" y2="85" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="220" y1="75" x2="220" y2="85" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="460" y1="75" x2="460" y2="85" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="700" y1="75" x2="700" y2="85" stroke="#2c3e50" stroke-width="2"/>
-  
-
-  <g transform="translate(50, 130)">
-    <rect x="0" y="0" width="220" height="100" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8" opacity="0.9"/>
-    <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><path stroke="url(#a)" stroke-width="8" d="M100 80h600"/><g fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle"><text x="100" y="100">0</text><text x="220" y="100">5 år</text><text x="460" y="100">10 år</text><text x="700" y="100">Permanent</text></g><path stroke="#2c3e50" stroke-width="2" d="M100 75v10M220 75v10M460 75v10M700 75v10"/><g transform="translate(50 130)"><rect width="220" height="100" fill="#3498db" stroke="#2980b9" stroke-width="2" opacity=".9" rx="8"/><text x="110" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       5 år
-    </text>
-    <text x="15" y="40" font-family="Arial, sans-serif" font-size="12" fill="white">• Regnskapsbilag</text>
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="12" fill="white">• Hovedbok og hjelpebøker</text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Lønnsbilag</text>
-    <text x="15" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Bankkontoutskrifter</text>
-  </g>
-  
-
-  <g transform="translate(290, 130)">
-    <rect x="0" y="0" width="220" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8" opacity="0.9"/>
-    <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><text x="15" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Regnskapsbilag</text><text x="15" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Hovedbok og hjelpebøker</text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Lønnsbilag</text><text x="15" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Bankkontoutskrifter</text></g><g transform="translate(290 130)"><rect width="220" height="100" fill="#e74c3c" stroke="#c0392b" stroke-width="2" opacity=".9" rx="8"/><text x="110" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       10 år
-    </text>
-    <text x="15" y="40" font-family="Arial, sans-serif" font-size="12" fill="white">• MVA-dokumenter</text>
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="12" fill="white">• Skattedokumenter</text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Årsregnskap</text>
-    <text x="15" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Revisjonsberetning</text>
-  </g>
-  
-
-  <g transform="translate(530, 130)">
-    <rect x="0" y="0" width="220" height="100" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8" opacity="0.9"/>
-    <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><text x="15" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="12">• MVA-dokumenter</text><text x="15" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Skattedokumenter</text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Årsregnskap</text><text x="15" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Revisjonsberetning</text></g><g transform="translate(530 130)"><rect width="220" height="100" fill="#27ae60" stroke="#229954" stroke-width="2" opacity=".9" rx="8"/><text x="110" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Permanent
-    </text>
-    <text x="15" y="40" font-family="Arial, sans-serif" font-size="12" fill="white">• Stiftelsesdokumenter</text>
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="12" fill="white">• Vedtekter</text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">• Viktige kontrakter</text>
-    <text x="15" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Eiendomsdokumenter</text>
-  </g>
-  
-
-  <g transform="translate(100, 260)">
-    <text x="300" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    </text><text x="15" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Stiftelsesdokumenter</text><text x="15" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Vedtekter</text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Viktige kontrakter</text><text x="15" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Eiendomsdokumenter</text></g><g transform="translate(100 260)"><text x="300" y="20" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Spesielle oppbevaringskrav
-    </text>
-    
-
-    <rect x="0" y="30" width="140" height="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5"/>
-    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Finansinstitusjoner</text>
-    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">10 år</text>
-    <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">De fleste dokumenter</text>
-    
-
-    <rect x="160" y="30" width="140" height="60" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/>
-    <text x="230" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Forsikringsselskaper</text>
-    <text x="230" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">30 år</text>
-    <text x="230" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Forsikringskontrakter</text>
-    
-
-    <rect x="320" y="30" width="140" height="60" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="5"/>
-    <text x="390" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Apotek</text>
-    <text x="390" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">5 år</text>
-    <text x="390" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Reseptjournaler</text>
-    
-
-    <rect x="480" y="30" width="140" height="60" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="5"/>
-    <text x="550" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Revisorer</text>
-    <text x="550" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">10 år</text>
-    <text x="550" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Arbeidspapirer</text>
-  </g>
-  
-
-  <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#7f8c8d">
+    </text><rect width="140" height="60" y="30" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="5"/><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Finansinstitusjoner</text><text x="70" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">10 år</text><text x="70" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">De fleste dokumenter</text><rect width="140" height="60" x="160" y="30" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="5"/><text x="230" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Forsikringsselskaper</text><text x="230" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">30 år</text><text x="230" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Forsikringskontrakter</text><rect width="140" height="60" x="320" y="30" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="5"/><text x="390" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Apotek</text><text x="390" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">5 år</text><text x="390" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Reseptjournaler</text><rect width="140" height="60" x="480" y="30" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="5"/><text x="550" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Revisorer</text><text x="550" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">10 år</text><text x="550" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Arbeidspapirer</text></g><text x="400" y="370" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Oppbevaringsfristene regnes fra regnskapsårets slutt
-  </text>
-</svg>
+  </text></svg>

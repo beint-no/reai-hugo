@@ -1,148 +1,51 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Typer Fakturagebyr
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="4"/>
-  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">
+  </text><circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="4"/><text x="400" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FAKTURAGEBYR
-  </text>
-  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">
+  </text><text x="400" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Hovedtyper
-  </text>
-  
-
-  <g transform="translate(100, 100)">
-    <rect x="0" y="0" width="180" height="120" fill="#e8f5e8" stroke="#27ae60" stroke-width="3" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
+  </text><g transform="translate(100 100)"><rect width="180" height="120" fill="#e8f5e8" stroke="#27ae60" stroke-width="3" rx="10"/><text x="90" y="25" fill="#27ae60" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Papirfakturagebyr
-    </text>
-    
-
-    <rect x="20" y="35" width="30" height="40" fill="#ffffff" stroke="#27ae60" stroke-width="2" rx="3"/>
-    <line x1="25" y1="45" x2="45" y2="45" stroke="#27ae60" stroke-width="1"/>
-    <line x1="25" y1="55" x2="45" y2="55" stroke="#27ae60" stroke-width="1"/>
-    <line x1="25" y1="65" x2="40" y2="65" stroke="#27ae60" stroke-width="1"/>
-    
-    <text x="70" y="45" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><rect width="30" height="40" x="20" y="35" fill="#fff" stroke="#27ae60" stroke-width="2" rx="3"/><path stroke="#27ae60" d="M25 45h20M25 55h20M25 65h15"/><text x="70" y="45" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Porto og forsendelse
-    </text>
-    <text x="70" y="58" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="70" y="58" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Papir og printing
-    </text>
-    <text x="70" y="71" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="70" y="71" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Håndtering
-    </text>
-    
-    <rect x="10" y="85" width="160" height="25" fill="#d5f4e6" stroke="#27ae60" stroke-width="1" rx="5"/>
-    <text x="90" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e8449">
+    </text><rect width="160" height="25" x="10" y="85" fill="#d5f4e6" stroke="#27ae60" rx="5"/><text x="90" y="100" fill="#1e8449" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       25-50 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(520, 100)">
-    <rect x="0" y="0" width="180" height="120" fill="#fff5f5" stroke="#e74c3c" stroke-width="3" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
+    </text></g><g transform="translate(520 100)"><rect width="180" height="120" fill="#fff5f5" stroke="#e74c3c" stroke-width="3" rx="10"/><text x="90" y="25" fill="#e74c3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Purregebyr
-    </text>
-    
-
-    <circle cx="35" cy="55" r="18" fill="#ffffff" stroke="#e74c3c" stroke-width="2"/>
-    <line x1="35" y1="55" x2="35" y2="42" stroke="#e74c3c" stroke-width="2"/>
-    <line x1="35" y1="55" x2="45" y2="55" stroke="#e74c3c" stroke-width="2"/>
-    
-    <text x="70" y="45" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><circle cx="35" cy="55" r="18" fill="#fff" stroke="#e74c3c" stroke-width="2"/><path stroke="#e74c3c" stroke-width="2" d="M35 55V42M35 55h10"/><text x="70" y="45" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Ved forsinket betaling
-    </text>
-    <text x="70" y="58" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="70" y="58" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Regulert av inkassoloven
-    </text>
-    <text x="70" y="71" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="70" y="71" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Trinnvis økning
-    </text>
-    
-    <rect x="10" y="85" width="160" height="25" fill="#fdeaea" stroke="#e74c3c" stroke-width="1" rx="5"/>
-    <text x="90" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#c0392b">
+    </text><rect width="160" height="25" x="10" y="85" fill="#fdeaea" stroke="#e74c3c" rx="5"/><text x="90" y="100" fill="#c0392b" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       100-300 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(100, 400)">
-    <rect x="0" y="0" width="180" height="120" fill="#f0f8ff" stroke="#3498db" stroke-width="3" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">
+    </text></g><g transform="translate(100 400)"><rect width="180" height="120" fill="#f0f8ff" stroke="#3498db" stroke-width="3" rx="10"/><text x="90" y="25" fill="#3498db" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Ekspedisjonsgebyr
-    </text>
-    
-
-    <rect x="15" y="40" width="35" height="20" fill="#ffffff" stroke="#3498db" stroke-width="2" rx="3"/>
-    <circle cx="25" cy="68" r="6" fill="#3498db"/>
-    <circle cx="40" cy="68" r="6" fill="#3498db"/>
-    <rect x="45" y="45" width="8" height="10" fill="#3498db"/>
-    
-    <text x="70" y="45" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><rect width="35" height="20" x="15" y="40" fill="#fff" stroke="#3498db" stroke-width="2" rx="3"/><circle cx="25" cy="68" r="6" fill="#3498db"/><circle cx="40" cy="68" r="6" fill="#3498db"/><path fill="#3498db" d="M45 45h8v10h-8z"/><text x="70" y="45" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Spesiell levering
-    </text>
-    <text x="70" y="58" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="70" y="58" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Ekstra emballasje
-    </text>
-    <text x="70" y="71" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="70" y="71" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Dokumentasjon
-    </text>
-    
-    <rect x="10" y="85" width="160" height="25" fill="#e6f3ff" stroke="#3498db" stroke-width="1" rx="5"/>
-    <text x="90" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2471a3">
+    </text><rect width="160" height="25" x="10" y="85" fill="#e6f3ff" stroke="#3498db" rx="5"/><text x="90" y="100" fill="#2471a3" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       50-100 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(520, 400)">
-    <rect x="0" y="0" width="180" height="120" fill="#fffbf0" stroke="#f39c12" stroke-width="3" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">
+    </text></g><g transform="translate(520 400)"><rect width="180" height="120" fill="#fffbf0" stroke="#f39c12" stroke-width="3" rx="10"/><text x="90" y="25" fill="#f39c12" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Betalingsgebyr
-    </text>
-    
-
-    <rect x="15" y="40" width="35" height="22" fill="#ffffff" stroke="#f39c12" stroke-width="2" rx="3"/>
-    <rect x="18" y="45" width="29" height="4" fill="#f39c12"/>
-    <line x1="20" y1="55" x2="35" y2="55" stroke="#f39c12" stroke-width="1"/>
-    <line x1="20" y1="58" x2="30" y2="58" stroke="#f39c12" stroke-width="1"/>
-    
-    <text x="70" y="45" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><rect width="35" height="22" x="15" y="40" fill="#fff" stroke="#f39c12" stroke-width="2" rx="3"/><path fill="#f39c12" d="M18 45h29v4H18z"/><path stroke="#f39c12" d="M20 55h15M20 58h10"/><text x="70" y="45" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Kortbetaling
-    </text>
-    <text x="70" y="58" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="70" y="58" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Spesielle metoder
-    </text>
-    <text x="70" y="71" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="70" y="71" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
       • Sterkt regulert
-    </text>
-    
-    <rect x="10" y="85" width="160" height="25" fill="#fef5e7" stroke="#f39c12" stroke-width="1" rx="5"/>
-    <text x="90" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#d68910">
+    </text><rect width="160" height="25" x="10" y="85" fill="#fef5e7" stroke="#f39c12" rx="5"/><text x="90" y="100" fill="#d68910" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Faktiske kostnader
-    </text>
-  </g>
-  
-
-  <line x1="280" y1="160" x2="340" y2="240" stroke="#95a5a6" stroke-width="2"/>
-  <line x1="520" y1="160" x2="460" y2="240" stroke="#95a5a6" stroke-width="2"/>
-  <line x1="280" y1="460" x2="340" y2="360" stroke="#95a5a6" stroke-width="2"/>
-  <line x1="520" y1="460" x2="460" y2="360" stroke="#95a5a6" stroke-width="2"/>
-  
-
-  <rect x="50" y="550" width="700" height="40" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2" rx="8"/>
-  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    </text></g><path stroke="#95a5a6" stroke-width="2" d="m280 160 60 80M520 160l-60 80M280 460l60-100M520 460l-60-100"/><rect width="700" height="40" x="50" y="550" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2" rx="8"/><text x="400" y="570" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Viktig: Alle gebyrer må være forholdsmessige og ikke overstige faktiske kostnader
-  </text>
-  <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+  </text><text x="400" y="585" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Elektroniske alternativer må tilbys gratis der det er relevant
-  </text>
-</svg>
+  </text></svg>

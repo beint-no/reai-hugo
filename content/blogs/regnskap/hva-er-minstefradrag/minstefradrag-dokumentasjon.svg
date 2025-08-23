@@ -1,133 +1,19 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2980b9;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3498db;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2ecc71;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <rect x="0" y="0" width="800" height="70" fill="url(#headerGradient)"/>
-  <text x="400" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2980b9;stop-opacity:1"/><stop offset="100%" style="stop-color:#3498db;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#27ae60;stop-opacity:1"/><stop offset="100%" style="stop-color:#2ecc71;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v70H0z"/><text x="400" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Minstefradrag Dokumentasjon og Automatisk Utfylling
-  </text>
-  
-
-  <text x="400" y="110" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+  </text><text x="400" y="110" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Automatisk Utfyllingsprosess
-  </text>
-  
-
-  <rect x="50" y="140" width="180" height="120" fill="#e8f6f3" stroke="#27ae60" stroke-width="2" rx="10"/>
-  <rect x="50" y="140" width="180" height="35" fill="url(#processGradient)" rx="10"/>
-  <text x="140" y="162" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="180" height="120" x="50" y="140" fill="#e8f6f3" stroke="#27ae60" stroke-width="2" rx="10"/><rect width="180" height="35" x="50" y="140" fill="url(#c)" rx="10"/><text x="140" y="162" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Datakilder
-  </text>
-  
-  <text x="65" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">📊 A-melding</text>
-  <text x="65" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Opplysninger fra</text>
-  <text x="65" y="218" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">arbeidsgivere</text>
-  
-  <text x="65" y="235" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">🏛️ NAV/Pensjon</text>
-  <text x="65" y="250" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Pensjonsutbetalinger</text>
-  
-
-  <path d="M 230 200 L 280 200" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="290" y="140" width="180" height="120" fill="#fef9e7" stroke="#f39c12" stroke-width="2" rx="10"/>
-  <rect x="290" y="140" width="180" height="35" fill="#f39c12" rx="10"/>
-  <text x="380" y="162" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="65" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">📊 A-melding</text><text x="65" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Opplysninger fra</text><text x="65" y="218" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">arbeidsgivere</text><text x="65" y="235" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">🏛️ NAV/Pensjon</text><text x="65" y="250" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Pensjonsutbetalinger</text><path fill="none" stroke="#34495e" stroke-width="3" marker-end="url(#d)" d="M230 200h50"/><rect width="180" height="120" x="290" y="140" fill="#fef9e7" stroke="#f39c12" stroke-width="2" rx="10"/><rect width="180" height="35" x="290" y="140" fill="#f39c12" rx="10"/><text x="380" y="162" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Skatteetaten
-  </text>
-  
-  <text x="305" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">⚙️ Automatisk beregning</text>
-  <text x="305" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">• 46% av lønnsinntekt</text>
-  <text x="305" y="218" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">• 31% av pensjonsinntekt</text>
-  <text x="305" y="231" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">• Maks kr 104 850 (lønn)</text>
-  <text x="305" y="244" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">• Maks kr 90 800 (pensjon)</text>
-  
-
-  <path d="M 470 200 L 520 200" stroke="#34495e" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="530" y="140" width="180" height="120" fill="#ebf3fd" stroke="#3498db" stroke-width="2" rx="10"/>
-  <rect x="530" y="140" width="180" height="35" fill="#3498db" rx="10"/>
-  <text x="620" y="162" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="305" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">⚙️ Automatisk beregning</text><text x="305" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">• 46% av lønnsinntekt</text><text x="305" y="218" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">• 31% av pensjonsinntekt</text><text x="305" y="231" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">• Maks kr 104 850 (lønn)</text><text x="305" y="244" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">• Maks kr 90 800 (pensjon)</text><path fill="none" stroke="#34495e" stroke-width="3" marker-end="url(#d)" d="M470 200h50"/><rect width="180" height="120" x="530" y="140" fill="#ebf3fd" stroke="#3498db" stroke-width="2" rx="10"/><rect width="180" height="35" x="530" y="140" fill="#3498db" rx="10"/><text x="620" y="162" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Selvangivelse
-  </text>
-  
-  <text x="545" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">📋 Forhåndsutfylt</text>
-  <text x="545" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Minstefradrag beregnet</text>
-  <text x="545" y="218" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">og fylt ut automatisk</text>
-  
-  <text x="545" y="235" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">✅ Kontroll</text>
-  <text x="545" y="250" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Skattyter kontrollerer</text>
-  
-
-  <rect x="50" y="300" width="700" height="250" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="10"/>
-  <rect x="50" y="300" width="700" height="40" fill="#6c757d" rx="10"/>
-  <text x="400" y="325" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><text x="545" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">📋 Forhåndsutfylt</text><text x="545" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Minstefradrag beregnet</text><text x="545" y="218" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">og fylt ut automatisk</text><text x="545" y="235" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">✅ Kontroll</text><text x="545" y="250" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Skattyter kontrollerer</text><rect width="700" height="250" x="50" y="300" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="10"/><rect width="700" height="40" x="50" y="300" fill="#6c757d" rx="10"/><text x="400" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Kontroll og Dokumentasjonskrav
-  </text>
-  
-
-  <text x="70" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Skattyter bør kontrollere:</text>
-  
-  <circle cx="80" cy="385" r="4" fill="#e74c3c"/>
-  <text x="95" y="390" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Minstefradrag er korrekt beregnet</text>
-  
-  <circle cx="80" cy="405" r="4" fill="#e74c3c"/>
-  <text x="95" y="410" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Alle inntektskilder er inkludert</text>
-  
-  <circle cx="80" cy="425" r="4" fill="#e74c3c"/>
-  <text x="95" y="430" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Spesielle forhold er hensyntatt</text>
-  
-  <circle cx="80" cy="445" r="4" fill="#e74c3c"/>
-  <text x="95" y="450" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Valg mellom minstefradrag og faktiske utgifter</text>
-  
-
-  <text x="420" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Dokumentasjon ved endringer:</text>
-  
-  <circle cx="430" cy="385" r="4" fill="#27ae60"/>
-  <text x="445" y="390" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Lønnsslipp og arbeidskontrakt</text>
-  
-  <circle cx="430" cy="405" r="4" fill="#27ae60"/>
-  <text x="445" y="410" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Pensjonsutbetalinger</text>
-  
-  <circle cx="430" cy="425" r="4" fill="#27ae60"/>
-  <text x="445" y="430" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Næringsinntekt dokumentasjon</text>
-  
-  <circle cx="430" cy="445" r="4" fill="#27ae60"/>
-  <text x="445" y="450" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Spesialordninger (sjømannsfradrag)</text>
-  
-
-  <rect x="200" y="480" width="400" height="60" fill="#d5f4e6" stroke="#27ae60" stroke-width="2" rx="8"/>
-  <text x="400" y="500" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+  </text><text x="70" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Skattyter bør kontrollere:</text><circle cx="80" cy="385" r="4" fill="#e74c3c"/><text x="95" y="390" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Minstefradrag er korrekt beregnet</text><circle cx="80" cy="405" r="4" fill="#e74c3c"/><text x="95" y="410" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Alle inntektskilder er inkludert</text><circle cx="80" cy="425" r="4" fill="#e74c3c"/><text x="95" y="430" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Spesielle forhold er hensyntatt</text><circle cx="80" cy="445" r="4" fill="#e74c3c"/><text x="95" y="450" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Valg mellom minstefradrag og faktiske utgifter</text><text x="420" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Dokumentasjon ved endringer:</text><circle cx="430" cy="385" r="4" fill="#27ae60"/><text x="445" y="390" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Lønnsslipp og arbeidskontrakt</text><circle cx="430" cy="405" r="4" fill="#27ae60"/><text x="445" y="410" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Pensjonsutbetalinger</text><circle cx="430" cy="425" r="4" fill="#27ae60"/><text x="445" y="430" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Næringsinntekt dokumentasjon</text><circle cx="430" cy="445" r="4" fill="#27ae60"/><text x="445" y="450" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Spesialordninger (sjømannsfradrag)</text><rect width="400" height="60" x="200" y="480" fill="#d5f4e6" stroke="#27ae60" stroke-width="2" rx="8"/><text x="400" y="500" fill="#2c3e50" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
     💡 Fordeler med automatisk utfylling
-  </text>
-  <text x="400" y="515" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="400" y="515" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Reduserer feil • Sparer tid • Sikrer riktig beregning • Forenkler prosessen
-  </text>
-  <text x="400" y="530" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="400" y="530" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Skattyter trenger kun å kontrollere og eventuelt justere
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#34495e" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

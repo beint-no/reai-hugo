@@ -1,182 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-  <defs>
-    <linearGradient id="portfolioGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f4f8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d1e7dd;stop-opacity:1" />
-    </linearGradient>
-    
-    <linearGradient id="shieldingGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#ffb347;stop-opacity:0.8" />
-    </linearGradient>
-    
-    <filter id="dropShadow">
-      <feDropShadow dx="3" dy="3" stdDeviation="2" flood-color="#000" flood-opacity="0.3"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#portfolioGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c5530">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f4f8;stop-opacity:1"/><stop offset="100%" style="stop-color:#d1e7dd;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:gold;stop-opacity:.8"/><stop offset="100%" style="stop-color:#ffb347;stop-opacity:.8"/></linearGradient><filter id="c"><feDropShadow dx="3" dy="3" flood-color="#000" flood-opacity=".3" stdDeviation="2"/></filter></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c5530" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Strategisk Porteføljeplanlegging
-  </text>
-  <text x="400" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#5a6c57">
+  </text><text x="400" y="65" fill="#5a6c57" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Optimalisering med Skjermingsfradrag
-  </text>
-  
-
-  <circle cx="400" cy="300" r="120" fill="url(#shieldingGradient)" stroke="#d4a574" stroke-width="3" filter="url(#dropShadow)"/>
-  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c5530">
+  </text><circle cx="400" cy="300" r="120" fill="url(#b)" stroke="#d4a574" stroke-width="3" filter="url(#c)"/><text x="400" y="295" fill="#2c5530" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Portfolio
-  </text>
-  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c5530">
+  </text><text x="400" y="315" fill="#2c5530" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Skjermings-
-  </text>
-  <text x="400" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c5530">
+  </text><text x="400" y="330" fill="#2c5530" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     optimalisert
-  </text>
-  
-
-  <g transform="translate(150, 160)">
-    <rect x="0" y="0" width="140" height="80" rx="8" fill="#4a9eff" stroke="#2c5530" stroke-width="2" filter="url(#dropShadow)"/>
-    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><g transform="translate(150 160)"><rect width="140" height="80" fill="#4a9eff" stroke="#2c5530" stroke-width="2" filter="url(#c)" rx="8"/><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Norske Aksjer
-    </text>
-    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Maksimal skjerming
-    </text>
-    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="70" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Skatteeffektivitet
-    </text>
-  </g>
-  
-
-  <g transform="translate(510, 160)">
-    <rect x="0" y="0" width="140" height="80" rx="8" fill="#ff6b6b" stroke="#2c5530" stroke-width="2" filter="url(#dropShadow)"/>
-    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(510 160)"><rect width="140" height="80" fill="#ff6b6b" stroke="#2c5530" stroke-width="2" filter="url(#c)" rx="8"/><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Internasjonale
-    </text>
-    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Ingen skjerming
-    </text>
-    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="70" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Diversifisering
-    </text>
-  </g>
-  
-
-  <g transform="translate(150, 460)">
-    <rect x="0" y="0" width="140" height="80" rx="8" fill="#95e1d3" stroke="#2c5530" stroke-width="2" filter="url(#dropShadow)"/>
-    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c5530">
+    </text></g><g transform="translate(150 460)"><rect width="140" height="80" fill="#95e1d3" stroke="#2c5530" stroke-width="2" filter="url(#c)" rx="8"/><text x="70" y="25" fill="#2c5530" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Obligasjoner
-    </text>
-    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c5530">
+    </text><text x="70" y="45" fill="#2c5530" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Benchmark
-    </text>
-    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c5530">
+    </text><text x="70" y="60" fill="#2c5530" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Skjermingsrente
-    </text>
-  </g>
-  
-
-  <g transform="translate(510, 460)">
-    <rect x="0" y="0" width="140" height="80" rx="8" fill="#ffc93c" stroke="#2c5530" stroke-width="2" filter="url(#dropShadow)"/>
-    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c5530">
+    </text></g><g transform="translate(510 460)"><rect width="140" height="80" fill="#ffc93c" stroke="#2c5530" stroke-width="2" filter="url(#c)" rx="8"/><text x="70" y="25" fill="#2c5530" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Optimalisering
-    </text>
-    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c5530">
+    </text><text x="70" y="45" fill="#2c5530" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Timing &amp; Struktur
-    </text>
-    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c5530">
+    </text><text x="70" y="60" fill="#2c5530" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Skatteeffektivitet
-    </text>
-  </g>
-  
-
-  <line x1="290" y1="200" x2="320" y2="240" stroke="#2c5530" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="510" y1="200" x2="480" y2="240" stroke="#2c5530" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="290" y1="500" x2="320" y2="360" stroke="#2c5530" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="510" y1="500" x2="480" y2="360" stroke="#2c5530" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <g transform="translate(350, 120)">
-    <path d="M 0 0 L 60 0 L 50 -10 M 60 0 L 50 10" stroke="#2c5530" stroke-width="2" fill="none"/>
-    <text x="30" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c5530">
+    </text></g><path stroke="#2c5530" stroke-dasharray="5,5" stroke-width="2" d="m290 200 30 40M510 200l-30 40M290 500l30-140M510 500l-30-140"/><path fill="none" stroke="#2c5530" stroke-width="2" d="M350 120h60l-10-10m10 10-10 10"/><text x="30" y="-15" fill="#2c5530" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="translate(350 120)">
       Allokering
-    </text>
-  </g>
-  
-  <g transform="translate(350, 555)">
-    <path d="M 0 0 L 60 0 L 50 -10 M 60 0 L 50 10" stroke="#2c5530" stroke-width="2" fill="none"/>
-    <text x="30" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c5530">
+    </text><path fill="none" stroke="#2c5530" stroke-width="2" d="M350 555h60l-10-10m10 10-10 10"/><text x="30" y="-15" fill="#2c5530" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="translate(350 555)">
       Rebalansering
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="120" height="120" rx="8" fill="white" stroke="#2c5530" stroke-width="2" filter="url(#dropShadow)"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c5530">
+    </text><g transform="translate(50 320)"><rect width="120" height="120" fill="#fff" stroke="#2c5530" stroke-width="2" filter="url(#c)" rx="8"/><text x="60" y="20" fill="#2c5530" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Nøkkeltall
-    </text>
-    <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#2c5530">
+    </text><text x="10" y="40" fill="#2c5530" font-family="Arial, sans-serif" font-size="11">
       • Skjermingsdekning
-    </text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#2c5530">
+    </text><text x="10" y="55" fill="#2c5530" font-family="Arial, sans-serif" font-size="11">
       • Effektiv skatterate
-    </text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#2c5530">
+    </text><text x="10" y="70" fill="#2c5530" font-family="Arial, sans-serif" font-size="11">
       • Porteføljebalanse
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#2c5530">
+    </text><text x="10" y="85" fill="#2c5530" font-family="Arial, sans-serif" font-size="11">
       • Risikojustert
-    </text>
-    <text x="10" y="100" font-family="Arial, sans-serif" font-size="11" fill="#2c5530">
+    </text><text x="10" y="100" fill="#2c5530" font-family="Arial, sans-serif" font-size="11">
       avkastning
-    </text>
-  </g>
-  
-
-  <g transform="translate(630, 320)">
-    <rect x="0" y="0" width="120" height="120" rx="8" fill="white" stroke="#2c5530" stroke-width="2" filter="url(#dropShadow)"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c5530">
+    </text></g><g transform="translate(630 320)"><rect width="120" height="120" fill="#fff" stroke="#2c5530" stroke-width="2" filter="url(#c)" rx="8"/><text x="60" y="20" fill="#2c5530" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Timing
-    </text>
-    <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#2c5530">
+    </text><text x="10" y="40" fill="#2c5530" font-family="Arial, sans-serif" font-size="11">
       • Aksjekjøp tidlig
-    </text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#2c5530">
+    </text><text x="10" y="55" fill="#2c5530" font-family="Arial, sans-serif" font-size="11">
       • Utbyttetiming
-    </text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#2c5530">
+    </text><text x="10" y="70" fill="#2c5530" font-family="Arial, sans-serif" font-size="11">
       • Salgsplanlegging
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#2c5530">
+    </text><text x="10" y="85" fill="#2c5530" font-family="Arial, sans-serif" font-size="11">
       • Renteoptimalisering
-    </text>
-  </g>
-  
-
-  <g transform="translate(280, 380)">
-    <rect x="0" y="0" width="240" height="40" rx="8" fill="#f8f9fa" stroke="#2c5530" stroke-width="2" filter="url(#dropShadow)"/>
-    <text x="120" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c5530">
+    </text></g><g transform="translate(280 380)"><rect width="240" height="40" fill="#f8f9fa" stroke="#2c5530" stroke-width="2" filter="url(#c)" rx="8"/><text x="120" y="15" fill="#2c5530" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Optimal allokering = f(avkastning, risiko, skjerming)
-    </text>
-    <text x="120" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#5a6c57">
+    </text><text x="120" y="30" fill="#5a6c57" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Porteføljeoptimalisering med skjermingseffekt
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 50)">
-    <rect x="0" y="0" width="180" height="60" rx="5" fill="white" stroke="#2c5530" stroke-width="1" opacity="0.9"/>
-    <circle cx="15" cy="15" r="5" fill="#ffd700"/>
-    <text x="25" y="20" font-family="Arial, sans-serif" font-size="12" fill="#2c5530">Skjermingsfradrag</text>
-    <circle cx="15" cy="35" r="5" fill="#4a9eff"/>
-    <text x="25" y="40" font-family="Arial, sans-serif" font-size="12" fill="#2c5530">Skatteeffektiv</text>
-    <circle cx="15" cy="55" r="5" fill="#ff6b6b"/>
-    <text x="25" y="60" font-family="Arial, sans-serif" font-size="12" fill="#2c5530">Diversifisering</text>
-  </g>
-</svg>
+    </text></g><g transform="translate(50 50)"><rect width="180" height="60" fill="#fff" stroke="#2c5530" opacity=".9" rx="5"/><circle cx="15" cy="15" r="5" fill="gold"/><text x="25" y="20" fill="#2c5530" font-family="Arial, sans-serif" font-size="12">Skjermingsfradrag</text><circle cx="15" cy="35" r="5" fill="#4a9eff"/><text x="25" y="40" fill="#2c5530" font-family="Arial, sans-serif" font-size="12">Skatteeffektiv</text><circle cx="15" cy="55" r="5" fill="#ff6b6b"/><text x="25" y="60" fill="#2c5530" font-family="Arial, sans-serif" font-size="12">Diversifisering</text></g></svg>

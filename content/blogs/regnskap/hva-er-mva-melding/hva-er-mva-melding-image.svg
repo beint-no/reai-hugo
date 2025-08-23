@@ -1,80 +1,13 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <title>Hva er MVA-melding?</title>
-  
-
-  <rect width="800" height="400" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><title>Hva er MVA-melding?</title><path fill="#f8f9fa" d="M0 0h800v400H0z"/><text x="400" y="50" fill="#2c3e50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     MVA-melding
-  </text>
-  
-
-  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">
+  </text><text x="400" y="80" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Obligatorisk rapportering av merverdiavgift
-  </text>
-  
-
-  <rect x="300" y="120" width="200" height="260" fill="white" stroke="#3498db" stroke-width="3" rx="10"/>
-  
-
-  <rect x="310" y="130" width="180" height="30" fill="#3498db" rx="5"/>
-  <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="200" height="260" x="300" y="120" fill="#fff" stroke="#3498db" stroke-width="3" rx="10"/><rect width="180" height="30" x="310" y="130" fill="#3498db" rx="5"/><text x="400" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     MVA-MELDING
-  </text>
-  
-
-  <line x1="320" y1="180" x2="480" y2="180" stroke="#bdc3c7" stroke-width="2"/>
-  <text x="325" y="195" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Utgående MVA:</text>
-  <text x="450" y="195" font-family="Arial, sans-serif" font-size="12" fill="#27ae60" font-weight="bold">125.000</text>
-  
-  <line x1="320" y1="210" x2="480" y2="210" stroke="#bdc3c7" stroke-width="2"/>
-  <text x="325" y="225" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Inngående MVA:</text>
-  <text x="450" y="225" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c" font-weight="bold">75.000</text>
-  
-  <line x1="320" y1="240" x2="480" y2="240" stroke="#2c3e50" stroke-width="3"/>
-  <text x="325" y="255" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Skyldig MVA:</text>
-  <text x="450" y="255" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">50.000</text>
-  
-
-  <rect x="320" y="280" width="160" height="40" fill="#e8f4f8" stroke="#3498db" stroke-width="1" rx="5"/>
-  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Frist:</text>
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">10. i påfølgende måned</text>
-  
-
-  <text x="150" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><path stroke="#bdc3c7" stroke-width="2" d="M320 180h160"/><text x="325" y="195" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Utgående MVA:</text><text x="450" y="195" fill="#27ae60" font-family="Arial, sans-serif" font-size="12" font-weight="bold">125.000</text><path stroke="#bdc3c7" stroke-width="2" d="M320 210h160"/><text x="325" y="225" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Inngående MVA:</text><text x="450" y="225" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">75.000</text><path stroke="#2c3e50" stroke-width="3" d="M320 240h160"/><text x="325" y="255" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Skyldig MVA:</text><text x="450" y="255" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">50.000</text><rect width="160" height="40" x="320" y="280" fill="#e8f4f8" stroke="#3498db" rx="5"/><text x="400" y="295" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Frist:</text><text x="400" y="310" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">10. i påfølgende måned</text><text x="150" y="140" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Datakilder
-  </text>
-  
-
-  <circle cx="100" cy="180" r="25" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
-  <text x="100" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">SALG</text>
-  <text x="100" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Utgående MVA</text>
-  
-
-  <circle cx="200" cy="180" r="25" fill="#e74c3c" stroke="#2c3e50" stroke-width="2"/>
-  <text x="200" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">KJØP</text>
-  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Inngående MVA</text>
-  
-
-  <path d="M 125 180 L 280 180 L 270 170 M 280 180 L 270 190" stroke="#7f8c8d" stroke-width="2" fill="none"/>
-  <path d="M 225 180 L 280 180" stroke="#7f8c8d" stroke-width="2" fill="none"/>
-  
-
-  <text x="650" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><circle cx="100" cy="180" r="25" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/><text x="100" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">SALG</text><text x="100" y="220" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Utgående MVA</text><circle cx="200" cy="180" r="25" fill="#e74c3c" stroke="#2c3e50" stroke-width="2"/><text x="200" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">KJØP</text><text x="200" y="220" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Inngående MVA</text><path fill="none" stroke="#7f8c8d" stroke-width="2" d="M125 180h155l-10-10m10 10-10 10M225 180h55"/><text x="650" y="140" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Innlevering
-  </text>
-  
-
-  <rect x="600" y="160" width="100" height="60" fill="#0066cc" rx="10"/>
-  <text x="650" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">ALTINN</text>
-  <text x="650" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Elektronisk</text>
-  
-
-  <path d="M 520 200 L 580 200 L 570 190 M 580 200 L 570 210" stroke="#7f8c8d" stroke-width="2" fill="none"/>
-  
-
-  <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+  </text><rect width="100" height="60" x="600" y="160" fill="#06c" rx="10"/><text x="650" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">ALTINN</text><text x="650" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Elektronisk</text><path fill="none" stroke="#7f8c8d" stroke-width="2" d="M520 200h60l-10-10m10 10-10 10"/><text x="400" y="360" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Obligatorisk for alle MVA-registrerte virksomheter
-  </text>
-</svg>
+  </text></svg>

@@ -1,89 +1,21 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="50" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">
     Hva er Debitor?
-  </text>
-  
-
-  <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-
-  <circle cx="150" cy="200" r="40" fill="#0066cc" stroke="#004499" stroke-width="2"/>
-  <text x="150" y="210" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="700" height="240" x="50" y="120" fill="#fff" stroke="#dee2e6" rx="10"/><circle cx="150" cy="200" r="40" fill="#06c" stroke="#049" stroke-width="2"/><text x="150" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Kr
-  </text>
-  
-
-  <path d="M 200 200 L 280 200" stroke="#28a745" stroke-width="4" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="320" y="160" width="80" height="80" fill="#6c757d" stroke="#495057" stroke-width="2"/>
-  <rect x="330" y="170" width="15" height="15" fill="#fff"/>
-  <rect x="350" y="170" width="15" height="15" fill="#fff"/>
-  <rect x="370" y="170" width="15" height="15" fill="#fff"/>
-  <rect x="330" y="190" width="15" height="15" fill="#fff"/>
-  <rect x="350" y="190" width="15" height="15" fill="#fff"/>
-  <rect x="370" y="190" width="15" height="15" fill="#fff"/>
-  <rect x="340" y="220" width="20" height="20" fill="#8b4513"/>
-  
-
-  <text x="450" y="160" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
+  </text><path stroke="#28a745" stroke-width="4" marker-end="url(#c)" d="M200 200h80"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="#6c757d" stroke="#495057" stroke-width="2" d="M320 160h80v80h-80z"/><path fill="#fff" d="M330 170h15v15h-15zM350 170h15v15h-15zM370 170h15v15h-15zM330 190h15v15h-15zM350 190h15v15h-15zM370 190h15v15h-15z"/><path fill="#8b4513" d="M340 220h20v20h-20z"/><text x="450" y="160" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Debitor = Kunde som skylder penger
-  </text>
-  
-  <text x="450" y="185" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="450" y="185" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     • Kundefordringer på balansen
-  </text>
-  
-  <text x="450" y="205" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="450" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     • Omløpsmidler (aktiva)
-  </text>
-  
-  <text x="450" y="225" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="450" y="225" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     • Oppstår ved salg på kreditt
-  </text>
-  
-  <text x="450" y="245" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="450" y="245" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     • Påvirker likviditet og arbeidskapital
-  </text>
-  
-
-  <rect x="50" y="320" width="200" height="40" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
-  <text x="150" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><rect width="200" height="40" x="50" y="320" fill="#e3f2fd" stroke="#1976d2" rx="5"/><text x="150" y="345" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kundefordringer
-  </text>
-  
-  <rect x="300" y="320" width="200" height="40" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="1" rx="5"/>
-  <text x="400" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+  </text><rect width="200" height="40" x="300" y="320" fill="#f3e5f5" stroke="#7b1fa2" rx="5"/><text x="400" y="345" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Debitorhåndtering
-  </text>
-  
-  <rect x="550" y="320" width="200" height="40" fill="#e8f5e8" stroke="#388e3c" stroke-width="1" rx="5"/>
-  <text x="650" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#388e3c">
+  </text><rect width="200" height="40" x="550" y="320" fill="#e8f5e8" stroke="#388e3c" rx="5"/><text x="650" y="345" fill="#388e3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Likviditetsstyring
-  </text>
-</svg>
+  </text></svg>

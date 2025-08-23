@@ -1,132 +1,39 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="400" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><path fill="#f8f9fa" d="M0 0h800v400H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Kapitalens Rolle i Bedriftens Finansieringsstruktur
-  </text>
-  
-
-  <g transform="translate(300, 120)">
-    <rect x="0" y="0" width="200" height="160" fill="#34495e" stroke="#2c3e50" stroke-width="3" rx="15"/>
-    <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(300 120)"><rect width="200" height="160" fill="#34495e" stroke="#2c3e50" stroke-width="3" rx="15"/><text x="100" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       BEDRIFTEN
-    </text>
-    <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="100" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Forretningsvirksomhet
-    </text>
-    
-
-    <text x="20" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">• Produksjon</text>
-    <text x="20" y="105" font-family="Arial, sans-serif" font-size="12" fill="white">• Salg</text>
-    <text x="20" y="125" font-family="Arial, sans-serif" font-size="12" fill="white">• Investeringer</text>
-    <text x="20" y="145" font-family="Arial, sans-serif" font-size="12" fill="white">• Vekst</text>
-  </g>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="180" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><text x="20" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Produksjon</text><text x="20" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Salg</text><text x="20" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Investeringer</text><text x="20" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12">• Vekst</text></g><g transform="translate(50 80)"><rect width="180" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       EGENKAPITAL
-    </text>
-    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Fra Eierne
-    </text>
-    
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Aksjekapital</text>
-    <text x="15" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• Tilbakeholdt overskudd</text>
-    <text x="15" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Overkurs</text>
-  </g>
-  
-
-  <g transform="translate(570, 80)">
-    <rect x="0" y="0" width="180" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Aksjekapital</text><text x="15" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Tilbakeholdt overskudd</text><text x="15" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Overkurs</text></g><g transform="translate(570 80)"><rect width="180" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       FREMMEDKAPITAL
-    </text>
-    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Fra Kreditorer
-    </text>
-    
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" fill="white">• Banklån</text>
-    <text x="15" y="85" font-family="Arial, sans-serif" font-size="11" fill="white">• Obligasjoner</text>
-    <text x="15" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Leverandørgjeld</text>
-  </g>
-  
-
-  <path d="M 230 140 L 290 180" stroke="#27ae60" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
-  <path d="M 570 140 L 510 180" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#redArrow)"/>
-  
-
-  <g transform="translate(100, 320)">
-    <rect x="0" y="0" width="150" height="60" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
-    <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Banklån</text><text x="15" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Obligasjoner</text><text x="15" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Leverandørgjeld</text></g><path fill="none" stroke="#27ae60" stroke-width="3" marker-end="url(#a)" d="m230 140 60 40"/><path fill="none" stroke="#e74c3c" stroke-width="3" marker-end="url(#b)" d="m570 140-60 40"/><g transform="translate(100 320)"><rect width="150" height="60" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/><text x="75" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       ANLEGGSMIDLER
-    </text>
-    <text x="75" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="75" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Maskiner, bygninger
-    </text>
-    <text x="75" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="75" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       langsiktige investeringer
-    </text>
-  </g>
-  
-  <g transform="translate(280, 320)">
-    <rect x="0" y="0" width="120" height="60" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><g transform="translate(280 320)"><rect width="120" height="60" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/><text x="60" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       DRIFT
-    </text>
-    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Daglig virksomhet
-    </text>
-    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       og operasjoner
-    </text>
-  </g>
-  
-  <g transform="translate(430, 320)">
-    <rect x="0" y="0" width="120" height="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><g transform="translate(430 320)"><rect width="120" height="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/><text x="60" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       VEKST
-    </text>
-    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Ekspansjon og
-    </text>
-    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       nye muligheter
-    </text>
-  </g>
-  
-  <g transform="translate(580, 320)">
-    <rect x="0" y="0" width="120" height="60" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="8"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text></g><g transform="translate(580 320)"><rect width="120" height="60" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="8"/><text x="60" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       BEREDSKAP
-    </text>
-    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Reserver og
-    </text>
-    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="60" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       likviditet
-    </text>
-  </g>
-  
-
-  <path d="M 350 280 L 200 320" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#darkArrow)"/>
-  <path d="M 380 280 L 340 320" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#darkArrow)"/>
-  <path d="M 420 280 L 490 320" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#darkArrow)"/>
-  <path d="M 450 280 L 620 320" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#darkArrow)"/>
-  
-
-  <defs>
-    <marker id="greenArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
-    </marker>
-    <marker id="redArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
-    </marker>
-    <marker id="darkArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
-      <polygon points="0 0, 8 3, 0 6" fill="#2c3e50"/>
-    </marker>
-  </defs>
-</svg>
+    </text></g><path fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#c)" d="m350 280-150 40"/><path fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#c)" d="m380 280-40 40"/><path fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#c)" d="m420 280 70 40"/><path fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#c)" d="m450 280 170 40"/><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#27ae60" d="m0 0 10 3.5L0 7z"/></marker><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#e74c3c" d="m0 0 10 3.5L0 7z"/></marker><marker id="c" markerHeight="6" markerWidth="8" orient="auto" refX="7" refY="3"><path fill="#2c3e50" d="m0 0 8 3-8 3z"/></marker></defs></svg>

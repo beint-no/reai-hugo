@@ -1,134 +1,67 @@
-<svg width="600" height="500" viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="600" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="500" viewBox="0 0 600 500"><path fill="#f8f9fa" d="M0 0h600v500H0z"/><text x="300" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Vanlige Feil og Forebyggende Tiltak ved Avrunding
-  </text>
-  
-
-  <rect x="30" y="50" width="540" height="420" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
-  
-
-  <rect x="50" y="70" width="240" height="100" fill="#e74c3c" opacity="0.1" stroke="#e74c3c" stroke-width="2" rx="5"/>
-  <text x="170" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
+  </text><rect width="540" height="420" x="30" y="50" fill="#fff" stroke="#2c3e50" stroke-width="2" rx="10"/><rect width="240" height="100" x="50" y="70" fill="#e74c3c" stroke="#e74c3c" stroke-width="2" opacity=".1" rx="5"/><text x="170" y="90" fill="#e74c3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FEIL 1: INKONSISTENT AVRUNDING
-  </text>
-  
-  <text x="60" y="110" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="60" y="110" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✗ Problem: Ulike avrundingsnivåer
-  </text>
-  <text x="60" y="125" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="60" y="125" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✗ Konsekvens: Balansen stemmer ikke
-  </text>
-  <text x="60" y="140" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">
+  </text><text x="60" y="140" fill="#27ae60" font-family="Arial, sans-serif" font-size="11">
     ✓ Løsning: Standardiser prinsipper
-  </text>
-  <text x="60" y="155" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">
+  </text><text x="60" y="155" fill="#27ae60" font-family="Arial, sans-serif" font-size="11">
     ✓ Forebygging: Systeminnstillinger
-  </text>
-  
-
-  <rect x="310" y="70" width="240" height="100" fill="#f39c12" opacity="0.1" stroke="#f39c12" stroke-width="2" rx="5"/>
-  <text x="430" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">
+  </text><rect width="240" height="100" x="310" y="70" fill="#f39c12" stroke="#f39c12" stroke-width="2" opacity=".1" rx="5"/><text x="430" y="90" fill="#f39c12" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FEIL 2: MANGLENDE KONTROLL
-  </text>
-  
-  <text x="320" y="110" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="110" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✗ Problem: Differanser ikke oppdaget
-  </text>
-  <text x="320" y="125" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="125" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✗ Konsekvens: Feil i regnskapet
-  </text>
-  <text x="320" y="140" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">
+  </text><text x="320" y="140" fill="#27ae60" font-family="Arial, sans-serif" font-size="11">
     ✓ Løsning: Implementer kontroller
-  </text>
-  <text x="320" y="155" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">
+  </text><text x="320" y="155" fill="#27ae60" font-family="Arial, sans-serif" font-size="11">
     ✓ Forebygging: Automatiske rapporter
-  </text>
-  
-
-  <rect x="50" y="190" width="240" height="100" fill="#9b59b6" opacity="0.1" stroke="#9b59b6" stroke-width="2" rx="5"/>
-  <text x="170" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9b59b6">
+  </text><rect width="240" height="100" x="50" y="190" fill="#9b59b6" stroke="#9b59b6" stroke-width="2" opacity=".1" rx="5"/><text x="170" y="210" fill="#9b59b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FEIL 3: FEIL AVRUNDINGSMETODE
-  </text>
-  
-  <text x="60" y="230" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="60" y="230" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✗ Problem: Bruk av feil regler
-  </text>
-  <text x="60" y="245" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="60" y="245" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✗ Konsekvens: Systematiske feil
-  </text>
-  <text x="60" y="260" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">
+  </text><text x="60" y="260" fill="#27ae60" font-family="Arial, sans-serif" font-size="11">
     ✓ Løsning: Opplæring og dokumentasjon
-  </text>
-  <text x="60" y="275" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">
+  </text><text x="60" y="275" fill="#27ae60" font-family="Arial, sans-serif" font-size="11">
     ✓ Forebygging: Klare retningslinjer
-  </text>
-  
-
-  <rect x="310" y="190" width="240" height="100" fill="#34495e" opacity="0.1" stroke="#34495e" stroke-width="2" rx="5"/>
-  <text x="430" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#34495e">
+  </text><rect width="240" height="100" x="310" y="190" fill="#34495e" stroke="#34495e" stroke-width="2" opacity=".1" rx="5"/><text x="430" y="210" fill="#34495e" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FEIL 4: MANGLENDE DOKUMENTASJON
-  </text>
-  
-  <text x="320" y="230" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="230" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✗ Problem: Ingen revisjonssti
-  </text>
-  <text x="320" y="245" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="245" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✗ Konsekvens: Revisjonsproblemer
-  </text>
-  <text x="320" y="260" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">
+  </text><text x="320" y="260" fill="#27ae60" font-family="Arial, sans-serif" font-size="11">
     ✓ Løsning: Systematisk dokumentasjon
-  </text>
-  <text x="320" y="275" font-family="Arial, sans-serif" font-size="11" fill="#27ae60">
+  </text><text x="320" y="275" fill="#27ae60" font-family="Arial, sans-serif" font-size="11">
     ✓ Forebygging: Automatisk logging
-  </text>
-  
-
-  <rect x="50" y="310" width="500" height="140" fill="#2ecc71" opacity="0.1" stroke="#2ecc71" stroke-width="2" rx="5"/>
-  <text x="300" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2ecc71">
+  </text><rect width="500" height="140" x="50" y="310" fill="#2ecc71" stroke="#2ecc71" stroke-width="2" opacity=".1" rx="5"/><text x="300" y="330" fill="#2ecc71" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FOREBYGGENDE TILTAK - BESTE PRAKSIS
-  </text>
-  
-
-  <text x="70" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><text x="70" y="355" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Organisatoriske tiltak:
-  </text>
-  <text x="70" y="375" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="70" y="375" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Etabler tydelige retningslinjer
-  </text>
-  <text x="70" y="390" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="70" y="390" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Regelmessig opplæring av personalet
-  </text>
-  <text x="70" y="405" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="70" y="405" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Dokumenter alle avrundingsprinsipper
-  </text>
-  <text x="70" y="420" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="70" y="420" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Implementer kvalitetskontroller
-  </text>
-  
-
-  <text x="320" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><text x="320" y="355" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Tekniske tiltak:
-  </text>
-  <text x="320" y="375" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="375" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Automatiserte kontroller i system
-  </text>
-  <text x="320" y="390" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="390" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Standardiserte systeminnstillinger
-  </text>
-  <text x="320" y="405" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="405" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Automatisk differanserapportering
-  </text>
-  <text x="320" y="420" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="420" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Regelmessig testing av avrundingslogikk
-  </text>
-  
-
-  <rect x="100" y="460" width="400" height="25" fill="#e74c3c" rx="5"/>
-  <text x="300" y="477" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="400" height="25" x="100" y="460" fill="#e74c3c" rx="5"/><text x="300" y="477" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     HUSK: Forebygging er alltid bedre enn å rette opp feil i ettertid!
-  </text>
-</svg>
+  </text></svg>

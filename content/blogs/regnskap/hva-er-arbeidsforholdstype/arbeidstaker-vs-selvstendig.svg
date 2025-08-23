@@ -1,171 +1,87 @@
-<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="employeeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="contractorGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#bd2130;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="900" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="450" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#bd2130;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h900v600H0z"/><text x="450" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Arbeidstaker vs. Selvstendig Næringsdrivende
-  </text>
-  
-
-  <text x="450" y="55" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#6c757d">
+  </text><text x="450" y="55" fill="#6c757d" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Kriterier for vurdering av arbeidsforholdstype
-  </text>
-  
-
-  <rect x="50" y="80" width="380" height="480" fill="url(#employeeGradient)" rx="10" opacity="0.9"/>
-  <text x="240" y="110" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="380" height="480" x="50" y="80" fill="url(#b)" opacity=".9" rx="10"/><text x="240" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     ARBEIDSTAKER
-  </text>
-  
-
-  <text x="70" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="70" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Økonomiske forhold:
-  </text>
-  <text x="80" y="160" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Fast måneds- eller timelønn
-  </text>
-  <text x="80" y="180" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Garantert inntekt
-  </text>
-  <text x="80" y="200" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Ingen økonomisk risiko
-  </text>
-  <text x="80" y="220" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Feriepenger og sykepenger
-  </text>
-  
-  <text x="70" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="70" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Arbeidsorganisering:
-  </text>
-  <text x="80" y="270" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Arbeidsgiver bestemmer arbeidstid
-  </text>
-  <text x="80" y="290" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Fast arbeidssted
-  </text>
-  <text x="80" y="310" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Integrert i organisasjonen
-  </text>
-  <text x="80" y="330" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="330" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Følger bedriftens rutiner
-  </text>
-  
-  <text x="70" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="70" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Utstyr og verktøy:
-  </text>
-  <text x="80" y="380" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Bruker arbeidsgivers utstyr
-  </text>
-  <text x="80" y="400" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Arbeidsgivers lokaler
-  </text>
-  <text x="80" y="420" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Bedriftens systemer og verktøy
-  </text>
-  
-  <text x="70" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="70" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Juridiske forhold:
-  </text>
-  <text x="80" y="470" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Underlagt instruksjonsmyndighet
-  </text>
-  <text x="80" y="490" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="490" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Oppsigelsesfrister
-  </text>
-  <text x="80" y="510" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Beskyttet av arbeidsmiljøloven
-  </text>
-  <text x="80" y="530" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="530" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Kun én arbeidsgiver (normalt)
-  </text>
-  
-
-  <rect x="470" y="80" width="380" height="480" fill="url(#contractorGradient)" rx="10" opacity="0.9"/>
-  <text x="660" y="110" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="380" height="480" x="470" y="80" fill="url(#c)" opacity=".9" rx="10"/><text x="660" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     SELVSTENDIG NÆRINGSDRIVENDE
-  </text>
-  
-
-  <text x="490" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="490" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Økonomiske forhold:
-  </text>
-  <text x="500" y="160" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Fakturerer for utført arbeid
-  </text>
-  <text x="500" y="180" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Variabel inntekt
-  </text>
-  <text x="500" y="200" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Bærer økonomisk risiko
-  </text>
-  <text x="500" y="220" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Ingen feriepenger/sykepenger
-  </text>
-  
-  <text x="490" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="490" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Arbeidsorganisering:
-  </text>
-  <text x="500" y="270" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Bestemmer selv arbeidstid
-  </text>
-  <text x="500" y="290" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Fleksibelt arbeidssted
-  </text>
-  <text x="500" y="310" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Ikke integrert i organisasjonen
-  </text>
-  <text x="500" y="330" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="330" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Egne arbeidsmetoder
-  </text>
-  
-  <text x="490" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="490" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Utstyr og verktøy:
-  </text>
-  <text x="500" y="380" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Bruker eget utstyr
-  </text>
-  <text x="500" y="400" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Egne lokaler/hjemmekontor
-  </text>
-  <text x="500" y="420" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Egne systemer og verktøy
-  </text>
-  
-  <text x="490" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="490" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Juridiske forhold:
-  </text>
-  <text x="500" y="470" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Ikke underlagt instruksjoner
-  </text>
-  <text x="500" y="490" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="490" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Ingen oppsigelsesfrister
-  </text>
-  <text x="500" y="510" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Ikke beskyttet av AML
-  </text>
-  <text x="500" y="530" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="500" y="530" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Flere oppdragsgivere
-  </text>
-  
-
-  <rect x="200" y="570" width="500" height="25" fill="#fd7e14" rx="5" opacity="0.9"/>
-  <text x="450" y="587" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="500" height="25" x="200" y="570" fill="#fd7e14" opacity=".9" rx="5"/><text x="450" y="587" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ⚠️ Skatteetaten kan omklassifisere forholdet ved feil vurdering
-  </text>
-</svg>
+  </text></svg>

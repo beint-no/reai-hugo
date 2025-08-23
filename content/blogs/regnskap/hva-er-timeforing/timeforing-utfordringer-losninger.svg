@@ -1,154 +1,59 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="challengeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ff8e8e;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4ecdc4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6ee6de;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="arrowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#95a5a6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#bdc3c7;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1"/><stop offset="100%" style="stop-color:#ff8e8e;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4ecdc4;stop-opacity:1"/><stop offset="100%" style="stop-color:#6ee6de;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#95a5a6;stop-opacity:1"/><stop offset="100%" style="stop-color:#bdc3c7;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Timeføring: Utfordringer og Løsninger
-  </text>
-  
-
-  <text x="50" y="70" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e74c3c">
+  </text><text x="50" y="70" fill="#e74c3c" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     UTFORDRINGER
-  </text>
-  
-
-  <rect x="40" y="85" width="300" height="180" rx="10" fill="url(#challengeGradient)" opacity="0.1" stroke="#ff6b6b" stroke-width="2"/>
-  <text x="50" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#c0392b">
+  </text><rect width="300" height="180" x="40" y="85" fill="url(#a)" stroke="#ff6b6b" stroke-width="2" opacity=".1" rx="10"/><text x="50" y="110" fill="#c0392b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Tekniske Utfordringer
-  </text>
-  
-  <text x="60" y="135" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="60" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Integrasjon med legacy-systemer
-  </text>
-  <text x="60" y="155" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="60" y="155" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Datamigrasjon fra gamle systemer
-  </text>
-  <text x="60" y="175" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="60" y="175" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Skalerbarhet og ytelse
-  </text>
-  <text x="60" y="195" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="60" y="195" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Sikkerhet og personvern
-  </text>
-  
-
-  <rect x="40" y="290" width="300" height="200" rx="10" fill="url(#challengeGradient)" opacity="0.1" stroke="#ff6b6b" stroke-width="2"/>
-  <text x="50" y="315" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#c0392b">
+  </text><rect width="300" height="200" x="40" y="290" fill="url(#a)" stroke="#ff6b6b" stroke-width="2" opacity=".1" rx="10"/><text x="50" y="315" fill="#c0392b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Organisatoriske Utfordringer
-  </text>
-  
-  <text x="60" y="340" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="60" y="340" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Motstand mot endring blant ansatte
-  </text>
-  <text x="60" y="360" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="60" y="360" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Manglende ledelsesforankring
-  </text>
-  <text x="60" y="380" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="60" y="380" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Utilstrekkelig opplæring
-  </text>
-  <text x="60" y="400" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="60" y="400" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Uklare prosesser og ansvarsfordeling
-  </text>
-  
-
-  <path d="M 360 300 L 420 300" stroke="url(#arrowGradient)" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#95a5a6"/>
-    </marker>
-  </defs>
-  
-
-  <text x="450" y="70" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
+  </text><path stroke="url(#b)" stroke-width="3" marker-end="url(#c)" d="M360 300h60"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#95a5a6" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="450" y="70" fill="#27ae60" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     LØSNINGER
-  </text>
-  
-
-  <rect x="440" y="85" width="320" height="180" rx="10" fill="url(#solutionGradient)" opacity="0.1" stroke="#4ecdc4" stroke-width="2"/>
-  <text x="450" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2ecc71">
+  </text><rect width="320" height="180" x="440" y="85" fill="url(#d)" stroke="#4ecdc4" stroke-width="2" opacity=".1" rx="10"/><text x="450" y="110" fill="#2ecc71" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Tekniske Løsninger
-  </text>
-  
-  <text x="460" y="135" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="460" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Gradvis migrering og parallellkjøring
-  </text>
-  <text x="460" y="155" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="460" y="155" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Cloud-baserte løsninger for skalerbarhet
-  </text>
-  <text x="460" y="175" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="460" y="175" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • API-basert integrasjon med eksisterende systemer
-  </text>
-  <text x="460" y="195" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="460" y="195" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Robust backup- og gjenopprettingsløsninger
-  </text>
-  
-
-  <rect x="440" y="290" width="320" height="200" rx="10" fill="url(#solutionGradient)" opacity="0.1" stroke="#4ecdc4" stroke-width="2"/>
-  <text x="450" y="315" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2ecc71">
+  </text><rect width="320" height="200" x="440" y="290" fill="url(#d)" stroke="#4ecdc4" stroke-width="2" opacity=".1" rx="10"/><text x="450" y="315" fill="#2ecc71" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Endringsledelse
-  </text>
-  
-  <text x="460" y="340" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="460" y="340" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Tydelig kommunikasjon av fordeler og mål
-  </text>
-  <text x="460" y="360" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="460" y="360" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Involvering av nøkkelpersoner i implementeringen
-  </text>
-  <text x="460" y="380" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="460" y="380" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Kontinuerlig opplæring og støtte
-  </text>
-  <text x="460" y="400" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="460" y="400" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
     • Positive insentiver for korrekt timeføring
-  </text>
-  
-
-  <circle cx="380" cy="520" r="8" fill="#f39c12"/>
-  <text x="400" y="525" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">
+  </text><circle cx="380" cy="520" r="8" fill="#f39c12"/><text x="400" y="525" fill="#f39c12" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kritiske Suksessfaktorer
-  </text>
-  
-  <text x="60" y="550" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+  </text><text x="60" y="550" fill="#34495e" font-family="Arial, sans-serif" font-size="11">
     • Ledelsesforankring
-  </text>
-  <text x="180" y="550" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+  </text><text x="180" y="550" fill="#34495e" font-family="Arial, sans-serif" font-size="11">
     • Brukermedvirkning
-  </text>
-  <text x="300" y="550" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+  </text><text x="300" y="550" fill="#34495e" font-family="Arial, sans-serif" font-size="11">
     • Tydelig kommunikasjon
-  </text>
-  <text x="450" y="550" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+  </text><text x="450" y="550" fill="#34495e" font-family="Arial, sans-serif" font-size="11">
     • Fleksibilitet
-  </text>
-  <text x="550" y="550" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+  </text><text x="550" y="550" fill="#34495e" font-family="Arial, sans-serif" font-size="11">
     • Måling og oppfølging
-  </text>
-  
-
-  <line x1="40" y1="575" x2="760" y2="575" stroke="#bdc3c7" stroke-width="2"/>
-  
-
-
-  <circle cx="190" cy="230" r="15" fill="#e74c3c" opacity="0.3"/>
-  <text x="190" y="236" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#c0392b">⚠</text>
-  
-
-  <circle cx="600" cy="230" r="15" fill="#27ae60" opacity="0.3"/>
-  <text x="600" y="236" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#2ecc71">✓</text>
-</svg>
+  </text><path stroke="#bdc3c7" stroke-width="2" d="M40 575h720"/><circle cx="190" cy="230" r="15" fill="#e74c3c" opacity=".3"/><text x="190" y="236" fill="#c0392b" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">⚠</text><circle cx="600" cy="230" r="15" fill="#27ae60" opacity=".3"/><text x="600" y="236" fill="#2ecc71" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">✓</text></svg>

@@ -1,226 +1,105 @@
-<svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-    </marker>
-  </defs>
-  
-
-  <rect width="800" height="700" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="700"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v700H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Prosess for Etablering av Investeringsselskap
-  </text>
-  
-
-  <rect x="50" y="80" width="150" height="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
-  <circle cx="125" cy="110" r="20" fill="#1976d2"/>
-  <text x="125" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="150" height="120" x="50" y="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/><circle cx="125" cy="110" r="20" fill="#1976d2"/><text x="125" y="118" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     1
-  </text>
-  <text x="125" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0d47a1">
+  </text><text x="125" y="145" fill="#0d47a1" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Planlegging
-  </text>
-  <text x="60" y="165" font-family="Arial, sans-serif" font-size="10" fill="#1565c0">
+  </text><text x="60" y="165" fill="#1565c0" font-family="Arial, sans-serif" font-size="10">
     • Forretningsplan
-  </text>
-  <text x="60" y="178" font-family="Arial, sans-serif" font-size="10" fill="#1565c0">
+  </text><text x="60" y="178" fill="#1565c0" font-family="Arial, sans-serif" font-size="10">
     • Investeringsstrategi
-  </text>
-  <text x="60" y="191" font-family="Arial, sans-serif" font-size="10" fill="#1565c0">
+  </text><text x="60" y="191" fill="#1565c0" font-family="Arial, sans-serif" font-size="10">
     • Markedsanalyse
-  </text>
-  
-
-  <rect x="250" y="80" width="150" height="120" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/>
-  <circle cx="325" cy="110" r="20" fill="#f57c00"/>
-  <text x="325" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="150" height="120" x="250" y="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/><circle cx="325" cy="110" r="20" fill="#f57c00"/><text x="325" y="118" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     2
-  </text>
-  <text x="325" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
+  </text><text x="325" y="145" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kapitalkrav
-  </text>
-  <text x="260" y="165" font-family="Arial, sans-serif" font-size="10" fill="#f57c00">
+  </text><text x="260" y="165" fill="#f57c00" font-family="Arial, sans-serif" font-size="10">
     • Minimum egenkapital
-  </text>
-  <text x="260" y="178" font-family="Arial, sans-serif" font-size="10" fill="#f57c00">
+  </text><text x="260" y="178" fill="#f57c00" font-family="Arial, sans-serif" font-size="10">
     • Forsikring/sikkerhet
-  </text>
-  <text x="260" y="191" font-family="Arial, sans-serif" font-size="10" fill="#f57c00">
+  </text><text x="260" y="191" fill="#f57c00" font-family="Arial, sans-serif" font-size="10">
     • Kapitalbevis
-  </text>
-  
-
-  <rect x="450" y="80" width="150" height="120" fill="#e8f5e8" stroke="#2e7d32" stroke-width="2" rx="8"/>
-  <circle cx="525" cy="110" r="20" fill="#2e7d32"/>
-  <text x="525" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="150" height="120" x="450" y="80" fill="#e8f5e8" stroke="#2e7d32" stroke-width="2" rx="8"/><circle cx="525" cy="110" r="20" fill="#2e7d32"/><text x="525" y="118" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     3
-  </text>
-  <text x="525" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1b5e20">
+  </text><text x="525" y="145" fill="#1b5e20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Dokumentasjon
-  </text>
-  <text x="460" y="165" font-family="Arial, sans-serif" font-size="10" fill="#2e7d32">
+  </text><text x="460" y="165" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Søknadsskjema
-  </text>
-  <text x="460" y="178" font-family="Arial, sans-serif" font-size="10" fill="#2e7d32">
+  </text><text x="460" y="178" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Vedtekter/prospekt
-  </text>
-  <text x="460" y="191" font-family="Arial, sans-serif" font-size="10" fill="#2e7d32">
+  </text><text x="460" y="191" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Kompetansedok.
-  </text>
-  
-
-  <rect x="650" y="80" width="120" height="120" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="8"/>
-  <circle cx="710" cy="110" r="20" fill="#7b1fa2"/>
-  <text x="710" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="120" height="120" x="650" y="80" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="8"/><circle cx="710" cy="110" r="20" fill="#7b1fa2"/><text x="710" y="118" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     4
-  </text>
-  <text x="710" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4a148c">
+  </text><text x="710" y="145" fill="#4a148c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Søknad
-  </text>
-  <text x="660" y="165" font-family="Arial, sans-serif" font-size="10" fill="#7b1fa2">
+  </text><text x="660" y="165" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10">
     • Til Finanstilsynet
-  </text>
-  <text x="660" y="178" font-family="Arial, sans-serif" font-size="10" fill="#7b1fa2">
+  </text><text x="660" y="178" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10">
     • Behandlingstid
-  </text>
-  <text x="660" y="191" font-family="Arial, sans-serif" font-size="10" fill="#7b1fa2">
+  </text><text x="660" y="191" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10">
     • 3-6 måneder
-  </text>
-  
-
-  <path d="M 200 140 L 250 140" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <path d="M 400 140 L 450 140" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <path d="M 600 140 L 650 140" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="200" y="250" width="400" height="150" fill="#ffebee" stroke="#c62828" stroke-width="2" rx="10"/>
-  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#b71c1c">
+  </text><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M200 140h50"/><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M400 140h50"/><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M600 140h50"/><rect width="400" height="150" x="200" y="250" fill="#ffebee" stroke="#c62828" stroke-width="2" rx="10"/><text x="400" y="275" fill="#b71c1c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Finanstilsynets Vurdering
-  </text>
-  
-
-  <rect x="220" y="290" width="180" height="100" fill="white" stroke="#ef5350" stroke-width="1" rx="5"/>
-  <text x="310" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c62828">
+  </text><rect width="180" height="100" x="220" y="290" fill="#fff" stroke="#ef5350" rx="5"/><text x="310" y="310" fill="#c62828" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Vurderingskriterier
-  </text>
-  <text x="230" y="330" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><text x="230" y="330" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Kompetanse og erfaring
-  </text>
-  <text x="230" y="345" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><text x="230" y="345" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Finansiell soliditet
-  </text>
-  <text x="230" y="360" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><text x="230" y="360" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Organisatoriske krav
-  </text>
-  <text x="230" y="375" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><text x="230" y="375" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Risikostyringssystemer
-  </text>
-  
-
-  <rect x="420" y="290" width="160" height="100" fill="white" stroke="#ef5350" stroke-width="1" rx="5"/>
-  <text x="500" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c62828">
+  </text><rect width="160" height="100" x="420" y="290" fill="#fff" stroke="#ef5350" rx="5"/><text x="500" y="310" fill="#c62828" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Systemkrav
-  </text>
-  <text x="430" y="330" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><text x="430" y="330" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • IT-systemer
-  </text>
-  <text x="430" y="345" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><text x="430" y="345" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Rapporteringssystemer
-  </text>
-  <text x="430" y="360" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><text x="430" y="360" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Compliance-funksjoner
-  </text>
-  <text x="430" y="375" font-family="Arial, sans-serif" font-size="10" fill="#424242">
+  </text><text x="430" y="375" fill="#424242" font-family="Arial, sans-serif" font-size="10">
     • Internkontroll
-  </text>
-  
-
-  <path d="M 710 200 L 500 250" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="50" y="450" width="150" height="100" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
-  <text x="125" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
+  </text><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="m710 200-210 50"/><rect width="150" height="100" x="50" y="450" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/><text x="125" y="475" fill="#155724" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Godkjent
-  </text>
-  <text x="60" y="495" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="60" y="495" fill="#155724" font-family="Arial, sans-serif" font-size="10">
     ✓ Konsesjon tildelt
-  </text>
-  <text x="60" y="510" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="60" y="510" fill="#155724" font-family="Arial, sans-serif" font-size="10">
     ✓ Kan starte drift
-  </text>
-  <text x="60" y="525" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="60" y="525" fill="#155724" font-family="Arial, sans-serif" font-size="10">
     ✓ Markedsføring tillatt
-  </text>
-  <text x="60" y="540" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="60" y="540" fill="#155724" font-family="Arial, sans-serif" font-size="10">
     ✓ Løpende tilsyn
-  </text>
-  
-  <rect x="250" y="450" width="150" height="100" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/>
-  <text x="325" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
+  </text><rect width="150" height="100" x="250" y="450" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/><text x="325" y="475" fill="#721c24" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Avslått
-  </text>
-  <text x="260" y="495" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="260" y="495" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     ✗ Manglende kompetanse
-  </text>
-  <text x="260" y="510" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="260" y="510" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     ✗ Utilstrekkelig kapital
-  </text>
-  <text x="260" y="525" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="260" y="525" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     ✗ Systemmangler
-  </text>
-  <text x="260" y="540" font-family="Arial, sans-serif" font-size="10" fill="#721c24">
+  </text><text x="260" y="540" fill="#721c24" font-family="Arial, sans-serif" font-size="10">
     ✗ Kan søke på nytt
-  </text>
-  
-
-  <path d="M 280 400 L 150 450" stroke="#28a745" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <path d="M 320 400 L 300 450" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="450" y="450" width="300" height="150" fill="#fff" stroke="#17a2b8" stroke-width="2" rx="8"/>
-  <text x="600" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0c5460">
+  </text><path stroke="#28a745" stroke-width="2" marker-end="url(#b)" d="m280 400-130 50"/><path stroke="#dc3545" stroke-width="2" marker-end="url(#b)" d="m320 400-20 50"/><rect width="300" height="150" x="450" y="450" fill="#fff" stroke="#17a2b8" stroke-width="2" rx="8"/><text x="600" y="475" fill="#0c5460" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Etter Godkjenning
-  </text>
-  
-  <text x="460" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c5460">
+  </text><text x="460" y="500" fill="#0c5460" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Løpende forpliktelser:
-  </text>
-  <text x="460" y="520" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="460" y="520" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Kvartalsrapportering til Finanstilsynet
-  </text>
-  <text x="460" y="535" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="460" y="535" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Månedlige rapporter til investorer
-  </text>
-  <text x="460" y="550" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="460" y="550" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Årsregnskap og revisorberetning
-  </text>
-  <text x="460" y="565" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="460" y="565" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Overholdelse av kapitalkrav
-  </text>
-  <text x="460" y="580" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="460" y="580" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Risiko- og likviditetsrapporter
-  </text>
-  
-
-  <path d="M 200 500 L 450 500" stroke="#17a2b8" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="50" y="620" width="700" height="50" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="400" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+  </text><path stroke="#17a2b8" stroke-width="2" marker-end="url(#b)" d="M200 500h250"/><rect width="700" height="50" x="50" y="620" fill="#f8f9fa" stroke="#6c757d" rx="5"/><text x="400" y="640" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Typisk Tidsramme
-  </text>
-  <text x="60" y="660" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="60" y="660" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Planlegging: 2-6 mnd • Dokumentasjon: 1-3 mnd • Søknadsbehandling: 3-6 mnd • Total: 6-15 måneder
-  </text>
-  
-
-  <text x="400" y="690" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="400" y="690" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Etablering av investeringsselskap krever grundig forberedelse og overholdelse av strenge regulatoriske krav
-  </text>
-</svg>
+  </text></svg>

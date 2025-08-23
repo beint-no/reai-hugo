@@ -1,92 +1,33 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Inntjeningsbasert Verdivurdering
-  </text>
-  
-
-  <text x="400" y="120" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#495057">
+  </text><text x="400" y="120" fill="#495057" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">
     Verdsettelse basert på fremtidig inntjening og kontantstrøm
-  </text>
-  
-
-  <rect x="50" y="160" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
-  <text x="125" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><rect width="150" height="80" x="50" y="160" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/><text x="125" y="185" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     DCF-Analyse
-  </text>
-  <text x="125" y="205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+  </text><text x="125" y="205" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Diskontert
-  </text>
-  <text x="125" y="220" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+  </text><text x="125" y="220" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kontantstrøm
-  </text>
-  
-  <rect x="225" y="160" width="150" height="80" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="8"/>
-  <text x="300" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+  </text><rect width="150" height="80" x="225" y="160" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="8"/><text x="300" y="185" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Multiplikatorer
-  </text>
-  <text x="300" y="205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+  </text><text x="300" y="205" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     P/E, EV/EBITDA
-  </text>
-  <text x="300" y="220" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+  </text><text x="300" y="220" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sammenligning
-  </text>
-  
-  <rect x="400" y="160" width="150" height="80" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8"/>
-  <text x="475" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#388e3c">
+  </text><rect width="150" height="80" x="400" y="160" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8"/><text x="475" y="185" fill="#388e3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Residualinntekt
-  </text>
-  <text x="475" y="205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+  </text><text x="475" y="205" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     EVA &amp; Økonomisk
-  </text>
-  <text x="475" y="220" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+  </text><text x="475" y="220" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Verdiskapning
-  </text>
-  
-  <rect x="575" y="160" width="150" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/>
-  <text x="650" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">
+  </text><rect width="150" height="80" x="575" y="160" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/><text x="650" y="185" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Markedsbasert
-  </text>
-  <text x="650" y="205" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+  </text><text x="650" y="205" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sammenlignbare
-  </text>
-  <text x="650" y="220" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#424242">
+  </text><text x="650" y="220" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Transaksjoner
-  </text>
-  
-
-  <path d="M 125 250 Q 400 280 675 250" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="320" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#c)" d="M125 250q275 30 550 0"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="320" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Fremtidsrettet Verdsettelse
-  </text>
-  
-  <text x="400" y="350" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+  </text><text x="400" y="350" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Fokus på selskapets evne til å skape økonomisk verdi over tid
-  </text>
-</svg>
+  </text></svg>

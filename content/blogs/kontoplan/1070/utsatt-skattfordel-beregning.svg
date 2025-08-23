@@ -1,153 +1,61 @@
-<svg width="700" height="500" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#357abd;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="500" fill="url(#bgGradient)"/>
-  
-
-  <rect x="0" y="0" width="700" height="60" fill="url(#processGradient)"/>
-  <text x="350" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500" viewBox="0 0 700 500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1"/><stop offset="100%" style="stop-color:#357abd;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h700v500H0z"/><path fill="url(#b)" d="M0 0h700v60H0z"/><text x="350" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Prosess for beregning av utsatt skattfordel
-  </text>
-  
-
-  <rect x="50" y="80" width="180" height="100" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
-  <circle cx="140" cy="100" r="15" fill="#2196f3"/>
-  <text x="140" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">1</text>
-  <text x="140" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><rect width="180" height="100" x="50" y="80" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="8"/><circle cx="140" cy="100" r="15" fill="#2196f3"/><text x="140" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">1</text><text x="140" y="125" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Identifiser forskjeller
-  </text>
-  <text x="140" y="145" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+  </text><text x="140" y="145" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Sammenlign regnskapsmessige
-  </text>
-  <text x="140" y="160" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+  </text><text x="140" y="160" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     og skattemessige verdier
-  </text>
-  
-
-  <path d="M 240 130 L 280 130" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="290" y="80" width="180" height="100" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
-  <circle cx="380" cy="100" r="15" fill="#ff9800"/>
-  <text x="380" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">2</text>
-  <text x="380" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#c)" d="M240 130h40"/><rect width="180" height="100" x="290" y="80" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="8"/><circle cx="380" cy="100" r="15" fill="#ff9800"/><text x="380" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">2</text><text x="380" y="125" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Vurder sannsynlighet
-  </text>
-  <text x="380" y="145" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+  </text><text x="380" y="145" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Fremtidige skattemessige
-  </text>
-  <text x="380" y="160" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+  </text><text x="380" y="160" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     overskudd
-  </text>
-  
-
-  <path d="M 480 130 L 520 130" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="530" y="80" width="140" height="100" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
-  <circle cx="600" cy="100" r="15" fill="#4caf50"/>
-  <text x="600" y="105" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">3</text>
-  <text x="600" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#c)" d="M480 130h40"/><rect width="140" height="100" x="530" y="80" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="8"/><circle cx="600" cy="100" r="15" fill="#4caf50"/><text x="600" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">3</text><text x="600" y="125" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Beregn fordel
-  </text>
-  <text x="600" y="145" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#666">
+  </text><text x="600" y="145" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Forskjell × Skattesats
-  </text>
-  
-
-  <rect x="50" y="220" width="600" height="250" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
-  <text x="350" y="245" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><rect width="600" height="250" x="50" y="220" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="8"/><text x="350" y="245" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Eksempler på utsatt skattfordel
-  </text>
-  
-
-  <rect x="70" y="260" width="170" height="120" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="4"/>
-  <text x="155" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#e65100">
+  </text><rect width="170" height="120" x="70" y="260" fill="#fff3e0" stroke="#ff9800" rx="4"/><text x="155" y="280" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Avsetning garantier
-  </text>
-  <text x="85" y="300" font-family="Arial, sans-serif" font-size="10" fill="#bf360c">
+  </text><text x="85" y="300" fill="#bf360c" font-family="Arial, sans-serif" font-size="10">
     Regnskapsmessig: 500 000
-  </text>
-  <text x="85" y="315" font-family="Arial, sans-serif" font-size="10" fill="#bf360c">
+  </text><text x="85" y="315" fill="#bf360c" font-family="Arial, sans-serif" font-size="10">
     Skattemessig: 0
-  </text>
-  <text x="85" y="330" font-family="Arial, sans-serif" font-size="10" fill="#bf360c">
+  </text><text x="85" y="330" fill="#bf360c" font-family="Arial, sans-serif" font-size="10">
     Forskjell: 500 000
-  </text>
-  <text x="85" y="345" font-family="Arial, sans-serif" font-size="10" fill="#bf360c">
+  </text><text x="85" y="345" fill="#bf360c" font-family="Arial, sans-serif" font-size="10">
     Skattesats: 25%
-  </text>
-  <text x="85" y="365" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#d84315">
+  </text><text x="85" y="365" fill="#d84315" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Utsatt skattfordel: 125 000
-  </text>
-  
-
-  <rect x="260" y="260" width="170" height="120" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="4"/>
-  <text x="345" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+  </text><rect width="170" height="120" x="260" y="260" fill="#e8f5e8" stroke="#4caf50" rx="4"/><text x="345" y="280" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Fremførbart underskudd
-  </text>
-  <text x="275" y="300" font-family="Arial, sans-serif" font-size="10" fill="#1b5e20">
+  </text><text x="275" y="300" fill="#1b5e20" font-family="Arial, sans-serif" font-size="10">
     Regnskapsmessig: 0
-  </text>
-  <text x="275" y="315" font-family="Arial, sans-serif" font-size="10" fill="#1b5e20">
+  </text><text x="275" y="315" fill="#1b5e20" font-family="Arial, sans-serif" font-size="10">
     Skattemessig: 1 000 000
-  </text>
-  <text x="275" y="330" font-family="Arial, sans-serif" font-size="10" fill="#1b5e20">
+  </text><text x="275" y="330" fill="#1b5e20" font-family="Arial, sans-serif" font-size="10">
     Forskjell: 1 000 000
-  </text>
-  <text x="275" y="345" font-family="Arial, sans-serif" font-size="10" fill="#1b5e20">
+  </text><text x="275" y="345" fill="#1b5e20" font-family="Arial, sans-serif" font-size="10">
     Skattesats: 25%
-  </text>
-  <text x="275" y="365" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#388e3c">
+  </text><text x="275" y="365" fill="#388e3c" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Utsatt skattfordel: 250 000
-  </text>
-  
-
-  <rect x="450" y="260" width="170" height="120" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="4"/>
-  <text x="535" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#6a1b9a">
+  </text><rect width="170" height="120" x="450" y="260" fill="#f3e5f5" stroke="#9c27b0" rx="4"/><text x="535" y="280" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Nedskrivning
-  </text>
-  <text x="465" y="300" font-family="Arial, sans-serif" font-size="10" fill="#4a148c">
+  </text><text x="465" y="300" fill="#4a148c" font-family="Arial, sans-serif" font-size="10">
     Regnskapsmessig: 200 000
-  </text>
-  <text x="465" y="315" font-family="Arial, sans-serif" font-size="10" fill="#4a148c">
+  </text><text x="465" y="315" fill="#4a148c" font-family="Arial, sans-serif" font-size="10">
     Skattemessig: 0
-  </text>
-  <text x="465" y="330" font-family="Arial, sans-serif" font-size="10" fill="#4a148c">
+  </text><text x="465" y="330" fill="#4a148c" font-family="Arial, sans-serif" font-size="10">
     Forskjell: 200 000
-  </text>
-  <text x="465" y="345" font-family="Arial, sans-serif" font-size="10" fill="#4a148c">
+  </text><text x="465" y="345" fill="#4a148c" font-family="Arial, sans-serif" font-size="10">
     Skattesats: 25%
-  </text>
-  <text x="465" y="365" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7b1fa2">
+  </text><text x="465" y="365" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Utsatt skattfordel: 50 000
-  </text>
-  
-
-  <rect x="250" y="400" width="200" height="40" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="4"/>
-  <text x="350" y="420" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><rect width="200" height="40" x="250" y="400" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="4"/><text x="350" y="420" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Total utsatt skattfordel: 425 000
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-  </defs>
-  
-
-  <text x="350" y="485" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="350" y="485" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Utsatt skattfordel aktiveres bare når sannsynlig realisering er dokumentert
-  </text>
-</svg>
+  </text></svg>

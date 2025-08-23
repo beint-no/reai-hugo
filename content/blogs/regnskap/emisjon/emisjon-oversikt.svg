@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="600" height="140" viewBox="0 0 600 140" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="20" width="180" height="80" fill="#e9ecef" stroke="#6c757d"/>
-  <text x="90" y="60" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333">Emisjon</text>
-  <line x1="180" y1="60" x2="210" y2="60" stroke="#6c757d" marker-end="url(#arrow)"/>
-  <rect x="210" y="20" width="180" height="80" fill="#e9ecef" stroke="#6c757d"/>
-  <text x="300" y="60" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333">Kapitalforhøyelse</text>
-  <line x1="390" y1="60" x2="420" y2="60" stroke="#6c757d" marker-end="url(#arrow)"/>
-  <rect x="420" y="20" width="180" height="80" fill="#e9ecef" stroke="#6c757d"/>
-  <text x="510" y="60" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#333">Økt egenkapital</text>
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#6c757d"/>
-    </marker>
-  </defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="140" viewBox="0 0 600 140"><path fill="#e9ecef" stroke="#6c757d" d="M0 20h180v80H0z"/><text x="90" y="60" fill="#333" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Emisjon</text><path stroke="#6c757d" marker-end="url(#a)" d="M180 60h30"/><path fill="#e9ecef" stroke="#6c757d" d="M210 20h180v80H210z"/><text x="300" y="60" fill="#333" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Kapitalforhøyelse</text><path stroke="#6c757d" marker-end="url(#a)" d="M390 60h30"/><path fill="#e9ecef" stroke="#6c757d" d="M420 20h180v80H420z"/><text x="510" y="60" fill="#333" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Økt egenkapital</text><defs><marker id="a" markerHeight="10" markerWidth="10" orient="auto" refX="5" refY="5"><path fill="#6c757d" d="m0 0 10 5-10 5Z"/></marker></defs></svg>

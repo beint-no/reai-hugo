@@ -1,72 +1,23 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="csvGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="60" fill="#2c3e50" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">
     Hva er en CSV-fil?
-  </text>
-  
-
-  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#6c757d">
+  </text><text x="400" y="90" fill="#6c757d" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">
     Comma-Separated Values i Regnskapssammenheng
-  </text>
-  
-
-  <rect x="150" y="120" width="500" height="200" rx="10" fill="white" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="160" y="130" width="480" height="30" fill="url(#csvGradient)"/>
-  <text x="170" y="150" font-family="Courier New, monospace" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="500" height="200" x="150" y="120" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><path fill="url(#b)" d="M160 130h480v30H160z"/><text x="170" y="150" fill="#fff" font-family="Courier New, monospace" font-size="14" font-weight="bold">
     Dato,Beskrivelse,Debet,Kredit,Konto
-  </text>
-  
-
-  <text x="170" y="180" font-family="Courier New, monospace" font-size="12" fill="#495057">
+  </text><text x="170" y="180" fill="#495057" font-family="Courier New, monospace" font-size="12">
     2024-01-15,Salg av varer,15000,0,3000
-  </text>
-  <text x="170" y="200" font-family="Courier New, monospace" font-size="12" fill="#495057">
+  </text><text x="170" y="200" fill="#495057" font-family="Courier New, monospace" font-size="12">
     2024-01-15,Merverdiavgift,3750,0,2700
-  </text>
-  <text x="170" y="220" font-family="Courier New, monospace" font-size="12" fill="#495057">
+  </text><text x="170" y="220" fill="#495057" font-family="Courier New, monospace" font-size="12">
     2024-01-15,Kundefordring,0,18750,1500
-  </text>
-  <text x="170" y="240" font-family="Courier New, monospace" font-size="12" fill="#495057">
+  </text><text x="170" y="240" fill="#495057" font-family="Courier New, monospace" font-size="12">
     2024-01-16,Innkjøp kontorrekvisita,2500,0,6800
-  </text>
-  <text x="170" y="260" font-family="Courier New, monospace" font-size="12" fill="#495057">
+  </text><text x="170" y="260" fill="#495057" font-family="Courier New, monospace" font-size="12">
     2024-01-16,Leverandørgjeld,0,2500,2400
-  </text>
-  <text x="170" y="280" font-family="Courier New, monospace" font-size="12" fill="#495057">
+  </text><text x="170" y="280" fill="#495057" font-family="Courier New, monospace" font-size="12">
     2024-01-17,Bankoverføring,50000,0,1920
-  </text>
-  <text x="170" y="300" font-family="Courier New, monospace" font-size="12" fill="#495057">
+  </text><text x="170" y="300" fill="#495057" font-family="Courier New, monospace" font-size="12">
     ...
-  </text>
-  
-
-  <path d="M 400 340 L 400 360" stroke="#28a745" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
+  </text><path stroke="#28a745" stroke-width="3" marker-end="url(#c)" d="M400 340v20"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="380" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Strukturerte regnskapsdata for import/eksport
-  </text>
-</svg>
+  </text></svg>

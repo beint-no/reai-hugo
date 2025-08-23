@@ -1,103 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
-  <defs>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1565C0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#C62828;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400"><defs><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#1565c0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#c62828;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v400H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Hva er Profitt?
-  </text>
-  
-
-  <rect x="50" y="80" width="180" height="100" rx="10" fill="url(#blueGradient)" stroke="#1565C0" stroke-width="2"/>
-  <text x="140" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="180" height="100" x="50" y="80" fill="url(#a)" stroke="#1565c0" stroke-width="2" rx="10"/><text x="140" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     INNTEKTER
-  </text>
-  <text x="140" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><text x="140" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     10.000.000
-  </text>
-  <text x="140" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="140" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Salgsinntekter
-  </text>
-  
-
-  <text x="270" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#2c3e50">
+  </text><text x="270" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle">
     -
-  </text>
-  
-
-  <rect x="310" y="80" width="180" height="100" rx="10" fill="url(#redGradient)" stroke="#C62828" stroke-width="2"/>
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="180" height="100" x="310" y="80" fill="url(#b)" stroke="#c62828" stroke-width="2" rx="10"/><text x="400" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     KOSTNADER
-  </text>
-  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><text x="400" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     8.000.000
-  </text>
-  <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Totale kostnader
-  </text>
-  
-
-  <text x="530" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#2c3e50">
+  </text><text x="530" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle">
     =
-  </text>
-  
-
-  <rect x="570" y="80" width="180" height="100" rx="10" fill="url(#greenGradient)" stroke="#2E7D32" stroke-width="2"/>
-  <text x="660" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="180" height="100" x="570" y="80" fill="url(#c)" stroke="#2e7d32" stroke-width="2" rx="10"/><text x="660" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     PROFITT
-  </text>
-  <text x="660" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><text x="660" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     2.000.000
-  </text>
-  <text x="660" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="660" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Årets resultat
-  </text>
-  
-
-  <rect x="200" y="220" width="400" height="80" rx="8" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2"/>
-  <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+  </text><rect width="400" height="80" x="200" y="220" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/><text x="400" y="245" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Profittmargin
-  </text>
-  <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2E7D32">
+  </text><text x="400" y="270" fill="#2e7d32" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     20%
-  </text>
-  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2E7D32">
+  </text><text x="400" y="290" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (Profitt / Inntekter) × 100%
-  </text>
-  
-
-  <text x="50" y="340" font-family="Arial, sans-serif" font-size="12" fill="#5a6c7d">
+  </text><text x="50" y="340" fill="#5a6c7d" font-family="Arial, sans-serif" font-size="12">
     • Profitt = Inntekter - Kostnader
-  </text>
-  <text x="50" y="360" font-family="Arial, sans-serif" font-size="12" fill="#5a6c7d">
+  </text><text x="50" y="360" fill="#5a6c7d" font-family="Arial, sans-serif" font-size="12">
     • Måles over en bestemt periode
-  </text>
-  <text x="50" y="380" font-family="Arial, sans-serif" font-size="12" fill="#5a6c7d">
+  </text><text x="50" y="380" fill="#5a6c7d" font-family="Arial, sans-serif" font-size="12">
     • Grunnlag for utbytte og reinvestering
-  </text>
-  
-  <text x="450" y="340" font-family="Arial, sans-serif" font-size="12" fill="#5a6c7d">
+  </text><text x="450" y="340" fill="#5a6c7d" font-family="Arial, sans-serif" font-size="12">
     • Påvirker skatteberegning
-  </text>
-  <text x="450" y="360" font-family="Arial, sans-serif" font-size="12" fill="#5a6c7d">
+  </text><text x="450" y="360" fill="#5a6c7d" font-family="Arial, sans-serif" font-size="12">
     • Viktig for verdivurdering
-  </text>
-  <text x="450" y="380" font-family="Arial, sans-serif" font-size="12" fill="#5a6c7d">
+  </text><text x="450" y="380" fill="#5a6c7d" font-family="Arial, sans-serif" font-size="12">
     • Indikator på lønnsomhet
-  </text>
-</svg>
+  </text></svg>

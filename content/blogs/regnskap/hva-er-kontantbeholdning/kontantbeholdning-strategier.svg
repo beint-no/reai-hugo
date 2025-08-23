@@ -1,185 +1,65 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="conservativeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="aggressiveGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Kontantforvaltningsstrategier
-  </text>
-  
-
-  <g transform="translate(200, 100)">
-    <rect x="-150" y="0" width="300" height="150" fill="url(#conservativeGradient)" stroke="#1e7e34" stroke-width="3" rx="15"/>
-    
-
-    <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><g transform="translate(200 100)"><rect width="300" height="150" x="-150" fill="url(#b)" stroke="#1e7e34" stroke-width="3" rx="15"/><text y="30" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       Konservativ Strategi
-    </text>
-    
-
-    <rect x="-100" y="50" width="200" height="20" fill="white" stroke="#1e7e34" stroke-width="2" rx="10"/>
-    <rect x="-95" y="55" width="160" height="10" fill="#1e7e34" rx="5"/>
-    <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><rect width="200" height="20" x="-100" y="50" fill="#fff" stroke="#1e7e34" stroke-width="2" rx="10"/><rect width="160" height="10" x="-95" y="55" fill="#1e7e34" rx="5"/><text y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Høy kontantbeholdning (80% fylt)
-    </text>
-    
-
-    <text x="-120" y="110" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="-120" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       ✓ Høy finansiell sikkerhet
-    </text>
-    <text x="-120" y="125" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="-120" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       ✓ Lav likviditetsrisiko
-    </text>
-    <text x="-120" y="140" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="-120" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       ✗ Lav avkastning på kapital
-    </text>
-  </g>
-  
-
-  <g transform="translate(600, 100)">
-    <rect x="-150" y="0" width="300" height="150" fill="url(#aggressiveGradient)" stroke="#c82333" stroke-width="3" rx="15"/>
-    
-
-    <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    </text></g><g transform="translate(600 100)"><rect width="300" height="150" x="-150" fill="url(#c)" stroke="#c82333" stroke-width="3" rx="15"/><text y="30" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       Aggressiv Strategi
-    </text>
-    
-
-    <rect x="-100" y="50" width="200" height="20" fill="white" stroke="#c82333" stroke-width="2" rx="10"/>
-    <rect x="-95" y="55" width="60" height="10" fill="#c82333" rx="5"/>
-    <text x="0" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><rect width="200" height="20" x="-100" y="50" fill="#fff" stroke="#c82333" stroke-width="2" rx="10"/><rect width="60" height="10" x="-95" y="55" fill="#c82333" rx="5"/><text y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Lav kontantbeholdning (30% fylt)
-    </text>
-    
-
-    <text x="-120" y="110" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="-120" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       ✓ Høy avkastning på kapital
-    </text>
-    <text x="-120" y="125" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="-120" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       ✓ Effektiv kapitalallokering
-    </text>
-    <text x="-120" y="140" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="-120" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       ✗ Høy likviditetsrisiko
-    </text>
-  </g>
-  
-
-  <g transform="translate(400, 320)">
-
-    <rect x="-300" y="0" width="600" height="120" fill="white" stroke="#6c757d" stroke-width="2" rx="10"/>
-    
-
-    <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    </text></g><g transform="translate(400 320)"><rect width="600" height="120" x="-300" fill="#fff" stroke="#6c757d" stroke-width="2" rx="10"/><text y="20" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Sammenligning av Strategier
-    </text>
-    
-
-    <g transform="translate(-250, 40)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    </text><g font-family="Arial, sans-serif"><text fill="#2c3e50" font-size="12" font-weight="bold" transform="translate(-250 40)">
         Kontantbeholdning/Omsetning:
-      </text>
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="11" fill="#28a745">
+      </text><text y="20" fill="#28a745" font-size="11" transform="translate(-250 40)">
         Konservativ: 15-25%
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">
+      </text><text y="35" fill="#dc3545" font-size="11" transform="translate(-250 40)">
         Aggressiv: 3-8%
-      </text>
-    </g>
-    
-    <g transform="translate(50, 40)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      </text></g><g font-family="Arial, sans-serif"><text fill="#2c3e50" font-size="12" font-weight="bold" transform="translate(50 40)">
         Likviditetsrisiko:
-      </text>
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="11" fill="#28a745">
+      </text><text y="20" fill="#28a745" font-size="11" transform="translate(50 40)">
         Konservativ: Lav
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">
+      </text><text y="35" fill="#dc3545" font-size="11" transform="translate(50 40)">
         Aggressiv: Høy
-      </text>
-    </g>
-    
-    <g transform="translate(-250, 80)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      </text></g><g font-family="Arial, sans-serif"><text fill="#2c3e50" font-size="12" font-weight="bold" transform="translate(-250 80)">
         Avkastning på kapital:
-      </text>
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="11" fill="#28a745">
+      </text><text y="20" fill="#28a745" font-size="11" transform="translate(-250 80)">
         Konservativ: Lav-Middels
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">
+      </text><text y="35" fill="#dc3545" font-size="11" transform="translate(-250 80)">
         Aggressiv: Høy
-      </text>
-    </g>
-    
-    <g transform="translate(50, 80)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+      </text></g><g font-family="Arial, sans-serif"><text fill="#2c3e50" font-size="12" font-weight="bold" transform="translate(50 80)">
         Fleksibilitet:
-      </text>
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="11" fill="#28a745">
+      </text><text y="20" fill="#28a745" font-size="11" transform="translate(50 80)">
         Konservativ: Høy
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">
+      </text><text y="35" fill="#dc3545" font-size="11" transform="translate(50 80)">
         Aggressiv: Lav
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(100, 300)">
-
-    <line x1="0" y1="100" x2="150" y2="100" stroke="#2c3e50" stroke-width="2"/>
-    <line x1="0" y1="100" x2="0" y2="0" stroke="#2c3e50" stroke-width="2"/>
-    
-
-    <text x="75" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+      </text></g></g><g transform="translate(100 300)"><path stroke="#2c3e50" stroke-width="2" d="M0 100h150M0 100V0"/><text x="75" y="120" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Risiko
-    </text>
-    <text x="-15" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d" transform="rotate(-90, -15, 50)">
+    </text><text x="-15" y="50" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="rotate(-90 -15 50)">
       Avkastning
-    </text>
-    
-
-    <circle cx="30" cy="70" r="8" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-    <text x="30" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#28a745">
+    </text><circle cx="30" cy="70" r="8" fill="#28a745" stroke="#1e7e34" stroke-width="2"/><text x="30" y="55" fill="#28a745" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Konservativ
-    </text>
-    
-    <circle cx="120" cy="20" r="8" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
-    <text x="120" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#dc3545">
+    </text><circle cx="120" cy="20" r="8" fill="#dc3545" stroke="#c82333" stroke-width="2"/><text x="120" y="10" fill="#dc3545" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Aggressiv
-    </text>
-    
-
-    <line x1="30" y1="70" x2="120" y2="20" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
-  </g>
-  
-
-  <g transform="translate(400, 460)">
-    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    </text><path stroke="#6c757d" stroke-dasharray="5,5" stroke-width="2" d="m30 70 90-50"/></g><g font-family="Arial, sans-serif"><text fill="#2c3e50" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(400 460)">
       Valg av strategi avhenger av:
-    </text>
-    <text x="-150" y="20" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    </text><text x="-150" y="20" fill="#6c757d" font-size="12" transform="translate(400 460)">
       • Bransje og markedsforhold
-    </text>
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    </text><text y="20" fill="#6c757d" font-size="12" transform="translate(400 460)">
       • Selskapets risikotoleranse
-    </text>
-    <text x="150" y="20" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    </text><text x="150" y="20" fill="#6c757d" font-size="12" transform="translate(400 460)">
       • Tilgang til finansiering
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

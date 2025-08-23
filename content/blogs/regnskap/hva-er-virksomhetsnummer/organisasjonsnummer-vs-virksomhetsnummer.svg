@@ -1,169 +1,69 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="orgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="virkGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <rect width="800" height="500" fill="#f8fafc"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><defs><linearGradient id="a" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/><stop offset="100%" style="stop-color:#059669;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#1e40af" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Organisasjonsnummer vs. Virksomhetsnummer
-  </text>
-  
-
-  <rect x="50" y="80" width="320" height="180" fill="url(#orgGrad)" rx="10"/>
-  <text x="210" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="320" height="180" x="50" y="80" fill="url(#a)" rx="10"/><text x="210" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Organisasjonsnummer
-  </text>
-  
-  <text x="70" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="70" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Definisjon:
-  </text>
-  <text x="70" y="160" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Hovedidentifikator for den juridiske enheten
-  </text>
-  
-  <text x="70" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="70" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Bruksområder:
-  </text>
-  <text x="70" y="205" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Juridiske dokumenter og kontrakter
-  </text>
-  <text x="70" y="220" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Skatterapportering og offentlige meldinger
-  </text>
-  <text x="70" y="235" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Hovedregistrering i offentlige registre
-  </text>
-  <text x="70" y="250" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Formell identifikasjon av selskapet
-  </text>
-  
-
-  <rect x="430" y="80" width="320" height="180" fill="url(#virkGrad)" rx="10"/>
-  <text x="590" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="320" height="180" x="430" y="80" fill="url(#b)" rx="10"/><text x="590" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Virksomhetsnummer
-  </text>
-  
-  <text x="450" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="450" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Definisjon:
-  </text>
-  <text x="450" y="160" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="450" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Identifikator for spesifikk virksomhetsaktivitet
-  </text>
-  
-  <text x="450" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="450" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Bruksområder:
-  </text>
-  <text x="450" y="205" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="450" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Daglig drift og fakturabehandling
-  </text>
-  <text x="450" y="220" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="450" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • MVA-oppgaver og løpende rapportering
-  </text>
-  <text x="450" y="235" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="450" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Kunderegistrering og CRM-systemer
-  </text>
-  <text x="450" y="250" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="450" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Operasjonell virksomhetsidentifikasjon
-  </text>
-  
-
-  <rect x="50" y="280" width="700" height="180" fill="white" stroke="#cbd5e1" stroke-width="2" rx="10"/>
-  
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
+  </text><rect width="700" height="180" x="50" y="280" fill="#fff" stroke="#cbd5e1" stroke-width="2" rx="10"/><text x="400" y="310" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Praktisk Sammenligning
-  </text>
-  
-
-  <rect x="70" y="325" width="200" height="30" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
-  <text x="170" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#374151">
+  </text><path fill="#f1f5f9" stroke="#cbd5e1" d="M70 325h200v30H70z"/><text x="170" y="345" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Aspekt
-  </text>
-  
-  <rect x="270" y="325" width="200" height="30" fill="#dbeafe" stroke="#cbd5e1" stroke-width="1"/>
-  <text x="370" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+  </text><path fill="#dbeafe" stroke="#cbd5e1" d="M270 325h200v30H270z"/><text x="370" y="345" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Organisasjonsnummer
-  </text>
-  
-  <rect x="470" y="325" width="200" height="30" fill="#d1fae5" stroke="#cbd5e1" stroke-width="1"/>
-  <text x="570" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#059669">
+  </text><path fill="#d1fae5" stroke="#cbd5e1" d="M470 325h200v30H470z"/><text x="570" y="345" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Virksomhetsnummer
-  </text>
-  
-
-  <rect x="70" y="355" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="white"/>
-  <text x="80" y="373" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><path fill="#fff" stroke="#cbd5e1" d="M70 355h200v25H70z"/><text x="80" y="373" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Små/mellomstore bedrifter
-  </text>
-  
-  <rect x="270" y="355" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="#dbeafe"/>
-  <text x="370" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">
+  </text><path fill="#dbeafe" stroke="#cbd5e1" d="M270 355h200v25H270z"/><text x="370" y="373" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     123 456 789
-  </text>
-  
-  <rect x="470" y="355" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="#d1fae5"/>
-  <text x="570" y="373" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
+  </text><path fill="#d1fae5" stroke="#cbd5e1" d="M470 355h200v25H470z"/><text x="570" y="373" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     123 456 789 (Identisk)
-  </text>
-  
-
-  <rect x="70" y="380" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="white"/>
-  <text x="80" y="398" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><path fill="#fff" stroke="#cbd5e1" d="M70 380h200v25H70z"/><text x="80" y="398" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Store konsern/morselskap
-  </text>
-  
-  <rect x="270" y="380" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="#dbeafe"/>
-  <text x="370" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">
+  </text><path fill="#dbeafe" stroke="#cbd5e1" d="M270 380h200v25H270z"/><text x="370" y="398" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     111 222 333 (Ett nummer)
-  </text>
-  
-  <rect x="470" y="380" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="#d1fae5"/>
-  <text x="570" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
+  </text><path fill="#d1fae5" stroke="#cbd5e1" d="M470 380h200v25H470z"/><text x="570" y="398" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Flere nummer (per divisjon)
-  </text>
-  
-
-  <rect x="70" y="405" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="white"/>
-  <text x="80" y="423" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><path fill="#fff" stroke="#cbd5e1" d="M70 405h200v25H70z"/><text x="80" y="423" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     På fakturaer/tilbud
-  </text>
-  
-  <rect x="270" y="405" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="#dbeafe"/>
-  <text x="370" y="423" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e40af">
+  </text><path fill="#dbeafe" stroke="#cbd5e1" d="M270 405h200v25H270z"/><text x="370" y="423" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kan brukes
-  </text>
-  
-  <rect x="470" y="405" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="#d1fae5"/>
-  <text x="570" y="423" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
+  </text><path fill="#d1fae5" stroke="#cbd5e1" d="M470 405h200v25H470z"/><text x="570" y="423" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Anbefalt/Standard
-  </text>
-  
-
-  <rect x="70" y="430" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="white"/>
-  <text x="80" y="448" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><path fill="#fff" stroke="#cbd5e1" d="M70 430h200v25H70z"/><text x="80" y="448" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Daglig regnskapsføring
-  </text>
-  
-  <rect x="270" y="430" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="#dbeafe"/>
-  <text x="370" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e40af">
+  </text><path fill="#dbeafe" stroke="#cbd5e1" d="M270 430h200v25H270z"/><text x="370" y="448" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sjeldnere brukt
-  </text>
-  
-  <rect x="470" y="430" width="200" height="25" stroke="#cbd5e1" stroke-width="1" fill="#d1fae5"/>
-  <text x="570" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
+  </text><path fill="#d1fae5" stroke="#cbd5e1" d="M470 430h200v25H470z"/><text x="570" y="448" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Primær identifikator
-  </text>
-  
-
-  <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+  </text><text x="400" y="485" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     For de fleste norske bedrifter er organisasjonsnummer og virksomhetsnummer identiske
-  </text>
-</svg>
+  </text></svg>

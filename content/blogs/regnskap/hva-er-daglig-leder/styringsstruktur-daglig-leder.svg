@@ -1,16 +1,1 @@
-<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-      <path d="M0,0 L10,5 L0,10" fill="#64748b"/>
-    </marker>
-  </defs>
-  <style>
-    .node {fill: #3b82f6; stroke: #1e40af; stroke-width: 2;}
-    .text {font-family: Arial, sans-serif; fill: white; font-size: 14px;}
-  </style>
-  <rect x="50" y="20" width="200" height="50" rx="8" class="node"/>
-  <text x="150" y="50" text-anchor="middle" class="text">Styre</text>
-  <line x1="250" y1="45" x2="350" y2="45" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
-  <rect x="350" y="20" width="200" height="50" rx="8" class="node"/>
-  <text x="450" y="50" text-anchor="middle" class="text">Daglig leder</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200"><defs><marker id="arrow" markerHeight="10" markerWidth="10" orient="auto" refX="5" refY="5"><path fill="#64748b" d="m0 0 10 5-10 5"/></marker></defs><style>.node{fill:#3b82f6;stroke:#1e40af;stroke-width:2}.text{font-family:Arial,sans-serif;fill:#fff;font-size:14px}</style><rect width="200" height="50" x="50" y="20" class="node" rx="8"/><text x="150" y="50" class="text" text-anchor="middle">Styre</text><path stroke="#64748b" stroke-width="2" marker-end="url(#arrow)" d="M250 45h100"/><rect width="200" height="50" x="350" y="20" class="node" rx="8"/><text x="450" y="50" class="text" text-anchor="middle">Daglig leder</text></svg>

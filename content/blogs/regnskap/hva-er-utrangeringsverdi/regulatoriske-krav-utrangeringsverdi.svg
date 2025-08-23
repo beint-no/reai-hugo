@@ -1,157 +1,39 @@
-<svg width="800" height="550" viewBox="0 0 800 550" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="norwayGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="ifrsGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="550" fill="url(#bgGrad)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="550" viewBox="0 0 800 550"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v550H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regulatoriske Krav til Utrangeringsverdi
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <rect x="0" y="0" width="340" height="200" fill="url(#norwayGrad)" rx="15"/>
-    <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 70)"><rect width="340" height="200" fill="url(#b)" rx="15"/><text x="170" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Norske Regnskapsstandarder
-    </text>
-    
-    <rect x="20" y="45" width="300" height="140" fill="white" rx="8"/>
-    
-
-    <rect x="30" y="60" width="30" height="20" fill="#dc3545"/>
-    <rect x="30" y="68" width="30" height="4" fill="white"/>
-    <rect x="36" y="60" width="4" height="20" fill="white"/>
-    
-    <text x="75" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+    </text><rect width="300" height="140" x="20" y="45" fill="#fff" rx="8"/><path fill="#dc3545" d="M30 60h30v20H30z"/><path fill="#fff" d="M30 68h30v4H30z"/><path fill="#fff" d="M36 60h4v20h-4z"/><text x="75" y="70" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       God Regnskapsskikk:
-    </text>
-    <text x="75" y="90" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="75" y="90" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Realistiske estimater kreves
-    </text>
-    <text x="75" y="105" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="75" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Dokumentasjon av vurderingsgrunnlag
-    </text>
-    <text x="75" y="120" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="75" y="120" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Konsistens i metoder over tid
-    </text>
-    
-    <text x="30" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+    </text><text x="30" y="140" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Regnskapslovens Prinsipper:
-    </text>
-    <text x="30" y="160" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="30" y="160" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       ✓ Forsiktighetsprinsippet ved usikkerhet
-    </text>
-    <text x="30" y="175" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="30" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       ✓ Opplysningsplikt om forutsetninger
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 70)">
-    <rect x="0" y="0" width="340" height="200" fill="url(#ifrsGrad)" rx="15"/>
-    <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(410 70)"><rect width="340" height="200" fill="url(#c)" rx="15"/><text x="170" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       IFRS Krav
-    </text>
-    
-    <rect x="20" y="45" width="300" height="140" fill="white" rx="8"/>
-    
-
-    <rect x="30" y="60" width="25" height="20" fill="#007bff" rx="3"/>
-    <text x="42.5" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">IFRS</text>
-    
-    <text x="65" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+    </text><rect width="300" height="140" x="20" y="45" fill="#fff" rx="8"/><rect width="25" height="20" x="30" y="60" fill="#007bff" rx="3"/><text x="42.5" y="73" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">IFRS</text><text x="65" y="70" fill="#007bff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       IAS 16 Krav:
-    </text>
-    <text x="65" y="90" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="65" y="90" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Årlig vurdering av restverdi
-    </text>
-    <text x="65" y="105" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="65" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Prospektiv behandling av endringer
-    </text>
-    <text x="65" y="120" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="65" y="120" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Detaljerte krav til dokumentasjon
-    </text>
-    
-    <text x="30" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+    </text><text x="30" y="140" fill="#007bff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Strengere Krav:
-    </text>
-    <text x="30" y="160" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="30" y="160" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       ✓ Hyppigere revurdering
-    </text>
-    <text x="30" y="175" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="30" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       ✓ Mer detaljert testing av forutsetninger
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 290)">
-    <rect x="0" y="0" width="700" height="220" fill="white" stroke="#28a745" stroke-width="3" rx="15"/>
-    <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#28a745">
+    </text></g><g transform="translate(50 290)"><rect width="700" height="220" fill="#fff" stroke="#28a745" stroke-width="3" rx="15"/><text x="350" y="30" fill="#28a745" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Sammenligning: Norsk GAAP vs. IFRS
-    </text>
-    
-
-    <rect x="30" y="50" width="640" height="25" fill="#d4edda" stroke="#28a745" rx="5"/>
-    <text x="50" y="67" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">Aspekt</text>
-    <text x="250" y="67" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">Norsk GAAP</text>
-    <text x="500" y="67" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">IFRS</text>
-    
-
-    <rect x="30" y="75" width="640" height="20" fill="#f8f9fa"/>
-    <text x="50" y="88" font-family="Arial, sans-serif" font-size="11" fill="#495057">Vurderingsfrekvens</text>
-    <text x="250" y="88" font-family="Arial, sans-serif" font-size="11" fill="#495057">Ved vesentlige endringer</text>
-    <text x="500" y="88" font-family="Arial, sans-serif" font-size="11" fill="#495057">Årlig vurdering påkrevd</text>
-    
-
-    <rect x="30" y="95" width="640" height="20" fill="white"/>
-    <text x="50" y="108" font-family="Arial, sans-serif" font-size="11" fill="#495057">Dokumentasjon</text>
-    <text x="250" y="108" font-family="Arial, sans-serif" font-size="11" fill="#495057">Grunnleggende krav</text>
-    <text x="500" y="108" font-family="Arial, sans-serif" font-size="11" fill="#495057">Detaljerte krav</text>
-    
-
-    <rect x="30" y="115" width="640" height="20" fill="#f8f9fa"/>
-    <text x="50" y="128" font-family="Arial, sans-serif" font-size="11" fill="#495057">Endring av estimat</text>
-    <text x="250" y="128" font-family="Arial, sans-serif" font-size="11" fill="#495057">Prospektiv behandling</text>
-    <text x="500" y="128" font-family="Arial, sans-serif" font-size="11" fill="#495057">Prospektiv behandling</text>
-    
-
-    <rect x="30" y="135" width="640" height="20" fill="white"/>
-    <text x="50" y="148" font-family="Arial, sans-serif" font-size="11" fill="#495057">Testing av forutsetninger</text>
-    <text x="250" y="148" font-family="Arial, sans-serif" font-size="11" fill="#495057">Praktisk tilnærming</text>
-    <text x="500" y="148" font-family="Arial, sans-serif" font-size="11" fill="#495057">Systematisk testing</text>
-    
-
-    <rect x="30" y="155" width="640" height="20" fill="#f8f9fa"/>
-    <text x="50" y="168" font-family="Arial, sans-serif" font-size="11" fill="#495057">Kompleksitet</text>
-    <text x="250" y="168" font-family="Arial, sans-serif" font-size="11" fill="#495057">Enklere regler for SMB</text>
-    <text x="500" y="168" font-family="Arial, sans-serif" font-size="11" fill="#495057">Komplekse krav</text>
-    
-
-    <rect x="30" y="175" width="640" height="20" fill="white"/>
-    <text x="50" y="188" font-family="Arial, sans-serif" font-size="11" fill="#495057">Komponentavskrivning</text>
-    <text x="250" y="188" font-family="Arial, sans-serif" font-size="11" fill="#495057">Frivillig for mindre komponenter</text>
-    <text x="500" y="188" font-family="Arial, sans-serif" font-size="11" fill="#495057">Obligatorisk for betydelige</text>
-  </g>
-  
-
-  <g transform="translate(50, 530)">
-    <rect x="0" y="0" width="700" height="15" fill="#cce5ff" stroke="#007bff" rx="5"/>
-    <text x="350" y="12" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#004085">
+    </text><rect width="640" height="25" x="30" y="50" fill="#d4edda" stroke="#28a745" rx="5"/><text x="50" y="67" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Aspekt</text><text x="250" y="67" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Norsk GAAP</text><text x="500" y="67" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">IFRS</text><path fill="#f8f9fa" d="M30 75h640v20H30z"/><text x="50" y="88" fill="#495057" font-family="Arial, sans-serif" font-size="11">Vurderingsfrekvens</text><text x="250" y="88" fill="#495057" font-family="Arial, sans-serif" font-size="11">Ved vesentlige endringer</text><text x="500" y="88" fill="#495057" font-family="Arial, sans-serif" font-size="11">Årlig vurdering påkrevd</text><path fill="#fff" d="M30 95h640v20H30z"/><text x="50" y="108" fill="#495057" font-family="Arial, sans-serif" font-size="11">Dokumentasjon</text><text x="250" y="108" fill="#495057" font-family="Arial, sans-serif" font-size="11">Grunnleggende krav</text><text x="500" y="108" fill="#495057" font-family="Arial, sans-serif" font-size="11">Detaljerte krav</text><path fill="#f8f9fa" d="M30 115h640v20H30z"/><text x="50" y="128" fill="#495057" font-family="Arial, sans-serif" font-size="11">Endring av estimat</text><text x="250" y="128" fill="#495057" font-family="Arial, sans-serif" font-size="11">Prospektiv behandling</text><text x="500" y="128" fill="#495057" font-family="Arial, sans-serif" font-size="11">Prospektiv behandling</text><path fill="#fff" d="M30 135h640v20H30z"/><text x="50" y="148" fill="#495057" font-family="Arial, sans-serif" font-size="11">Testing av forutsetninger</text><text x="250" y="148" fill="#495057" font-family="Arial, sans-serif" font-size="11">Praktisk tilnærming</text><text x="500" y="148" fill="#495057" font-family="Arial, sans-serif" font-size="11">Systematisk testing</text><path fill="#f8f9fa" d="M30 155h640v20H30z"/><text x="50" y="168" fill="#495057" font-family="Arial, sans-serif" font-size="11">Kompleksitet</text><text x="250" y="168" fill="#495057" font-family="Arial, sans-serif" font-size="11">Enklere regler for SMB</text><text x="500" y="168" fill="#495057" font-family="Arial, sans-serif" font-size="11">Komplekse krav</text><path fill="#fff" d="M30 175h640v20H30z"/><text x="50" y="188" fill="#495057" font-family="Arial, sans-serif" font-size="11">Komponentavskrivning</text><text x="250" y="188" fill="#495057" font-family="Arial, sans-serif" font-size="11">Frivillig for mindre komponenter</text><text x="500" y="188" fill="#495057" font-family="Arial, sans-serif" font-size="11">Obligatorisk for betydelige</text></g><g transform="translate(50 530)"><rect width="700" height="15" fill="#cce5ff" stroke="#007bff" rx="5"/><text x="350" y="12" fill="#004085" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       Implementering: Etabler klare retningslinjer, dokumenter metoder og vurderinger, revurder regelmessig basert på ny informasjon
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

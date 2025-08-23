@@ -1,170 +1,37 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="commBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="centerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1976d2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1565c0;stop-opacity:1" />
-    </linearGradient>
-    <radialGradient id="stakeholderGrad" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f5f5f5;stop-opacity:1" />
-    </radialGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#commBg)" stroke="#4caf50" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#1976d2;stop-opacity:1"/><stop offset="100%" style="stop-color:#1565c0;stop-opacity:1"/></linearGradient><radialGradient id="c" cx="50%" cy="50%" r="50%"><stop offset="0%" style="stop-color:#fff;stop-opacity:1"/><stop offset="100%" style="stop-color:#f5f5f5;stop-opacity:1"/></radialGradient></defs><path fill="url(#a)" stroke="#4caf50" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#2e7d32" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Interessent Kommunikasjon
-  </text>
-  
-
-  <g transform="translate(350, 200)">
-    <circle cx="50" cy="50" r="60" fill="url(#centerGrad)" stroke="#1565c0" stroke-width="3"/>
-    <text x="50" y="40" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(350 200)"><circle cx="50" cy="50" r="60" fill="url(#b)" stroke="#1565c0" stroke-width="3"/><text x="50" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       SELSKAP
-    </text>
-    <text x="50" y="60" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    </text><text x="50" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Kvartalsrapport
-    </text>
-  </g>
-  
-
-  
-
-  <g transform="translate(150, 80)">
-    <circle cx="50" cy="50" r="45" fill="url(#stakeholderGrad)" stroke="#ff9800" stroke-width="2"/>
-    <text x="50" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57c00">
+    </text></g><g transform="translate(150 80)"><circle cx="50" cy="50" r="45" fill="url(#c)" stroke="#ff9800" stroke-width="2"/><text x="50" y="40" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       INVESTORER
-    </text>
-    <text x="50" y="55" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">
+    </text><text x="50" y="55" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Aksjonærer
-    </text>
-    <text x="50" y="68" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">
+    </text><text x="50" y="68" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Potensielle investorer
-    </text>
-    
-
-    <rect x="10" y="110" width="80" height="40" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="4"/>
-    <text x="50" y="125" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#f57c00">• Børsmelding</text>
-    <text x="50" y="138" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#f57c00">• Presentasjon</text>
-  </g>
-  
-
-  <g transform="translate(550, 80)">
-    <circle cx="50" cy="50" r="45" fill="url(#stakeholderGrad)" stroke="#e91e63" stroke-width="2"/>
-    <text x="50" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#c2185b">
+    </text><rect width="80" height="40" x="10" y="110" fill="#fff3e0" stroke="#ff9800" rx="4"/><text x="50" y="125" fill="#f57c00" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">• Børsmelding</text><text x="50" y="138" fill="#f57c00" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">• Presentasjon</text></g><g transform="translate(550 80)"><circle cx="50" cy="50" r="45" fill="url(#c)" stroke="#e91e63" stroke-width="2"/><text x="50" y="40" fill="#c2185b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       KREDITORER
-    </text>
-    <text x="50" y="55" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">
+    </text><text x="50" y="55" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       banker
-    </text>
-    <text x="50" y="68" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">
+    </text><text x="50" y="68" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Obligasjonseiere
-    </text>
-    
-    <rect x="10" y="110" width="80" height="40" fill="#fce4ec" stroke="#e91e63" stroke-width="1" rx="4"/>
-    <text x="50" y="125" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#c2185b">• Direkte rapport</text>
-    <text x="50" y="138" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#c2185b">• Covenant testing</text>
-  </g>
-  
-
-  <g transform="translate(100, 320)">
-    <circle cx="50" cy="50" r="45" fill="url(#stakeholderGrad)" stroke="#9c27b0" stroke-width="2"/>
-    <text x="50" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+    </text><rect width="80" height="40" x="10" y="110" fill="#fce4ec" stroke="#e91e63" rx="4"/><text x="50" y="125" fill="#c2185b" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">• Direkte rapport</text><text x="50" y="138" fill="#c2185b" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">• Covenant testing</text></g><g transform="translate(100 320)"><circle cx="50" cy="50" r="45" fill="url(#c)" stroke="#9c27b0" stroke-width="2"/><text x="50" y="40" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       ANALYTIKERE
-    </text>
-    <text x="50" y="55" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">
+    </text><text x="50" y="55" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Finansanalytikere
-    </text>
-    <text x="50" y="68" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">
+    </text><text x="50" y="68" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Ratingbyråer
-    </text>
-    
-    <rect x="10" y="110" width="80" height="40" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="4"/>
-    <text x="50" y="125" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#7b1fa2">• Telekonferanse</text>
-    <text x="50" y="138" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#7b1fa2">• Q&amp;A sesjon</text>
-  </g>
-  
-
-  <g transform="translate(550, 320)">
-    <circle cx="50" cy="50" r="45" fill="url(#stakeholderGrad)" stroke="#607d8b" stroke-width="2"/>
-    <text x="50" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#455a64">
+    </text><rect width="80" height="40" x="10" y="110" fill="#f3e5f5" stroke="#9c27b0" rx="4"/><text x="50" y="125" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">• Telekonferanse</text><text x="50" y="138" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">• Q&amp;A sesjon</text></g><g transform="translate(550 320)"><circle cx="50" cy="50" r="45" fill="url(#c)" stroke="#607d8b" stroke-width="2"/><text x="50" y="40" fill="#455a64" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       MYNDIGHETER
-    </text>
-    <text x="50" y="55" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">
+    </text><text x="50" y="55" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Finanstilsynet
-    </text>
-    <text x="50" y="68" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">
+    </text><text x="50" y="68" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Oslo Børs
-    </text>
-    
-    <rect x="10" y="110" width="80" height="40" fill="#eceff1" stroke="#607d8b" stroke-width="1" rx="4"/>
-    <text x="50" y="125" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#455a64">• Regulatorisk</text>
-    <text x="50" y="138" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#455a64">• Rapportering</text>
-  </g>
-  
-
-  <g transform="translate(320, 380)">
-    <circle cx="50" cy="50" r="40" fill="url(#stakeholderGrad)" stroke="#795548" stroke-width="2"/>
-    <text x="50" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#5d4037">
+    </text><rect width="80" height="40" x="10" y="110" fill="#eceff1" stroke="#607d8b" rx="4"/><text x="50" y="125" fill="#455a64" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">• Regulatorisk</text><text x="50" y="138" fill="#455a64" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">• Rapportering</text></g><g transform="translate(320 380)"><circle cx="50" cy="50" r="40" fill="url(#c)" stroke="#795548" stroke-width="2"/><text x="50" y="45" fill="#5d4037" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       MEDIA
-    </text>
-    <text x="50" y="60" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#666">
+    </text><text x="50" y="60" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Finanspresse
-    </text>
-    
-    <rect x="15" y="100" width="70" height="30" fill="#efebe9" stroke="#795548" stroke-width="1" rx="4"/>
-    <text x="50" y="118" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#5d4037">• Pressemelding</text>
-  </g>
-  
-
-  <g transform="translate(50, 450)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Kommunikasjonskanaler:</text>
-    
-    <rect x="0" y="10" width="120" height="25" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="4"/>
-    <text x="60" y="26" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1976d2">Oslo Børs Portal</text>
-    
-    <rect x="140" y="10" width="120" height="25" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="4"/>
-    <text x="200" y="26" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#2e7d32">Selskapets nettside</text>
-    
-    <rect x="280" y="10" width="120" height="25" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="4"/>
-    <text x="340" y="26" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#f57c00">Investor Relations</text>
-    
-    <rect x="420" y="10" width="120" height="25" fill="#fce4ec" stroke="#e91e63" stroke-width="1" rx="4"/>
-    <text x="480" y="26" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#c2185b">Direkte distribusjon</text>
-    
-    <rect x="560" y="10" width="120" height="25" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="4"/>
-    <text x="620" y="26" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#7b1fa2">Sosiale medier</text>
-  </g>
-  
-
-  <defs>
-    <marker id="commArrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L7,3 z" fill="#4caf50"/>
-    </marker>
-  </defs>
-  
-
-  <line x1="370" y1="180" x2="220" y2="130" stroke="#4caf50" stroke-width="2" marker-end="url(#commArrow)"/>
-  <line x1="430" y1="180" x2="580" y2="130" stroke="#4caf50" stroke-width="2" marker-end="url(#commArrow)"/>
-  <line x1="370" y1="270" x2="170" y2="350" stroke="#4caf50" stroke-width="2" marker-end="url(#commArrow)"/>
-  <line x1="430" y1="270" x2="580" y2="350" stroke="#4caf50" stroke-width="2" marker-end="url(#commArrow)"/>
-  <line x1="400" y1="310" x2="380" y2="380" stroke="#4caf50" stroke-width="2" marker-end="url(#commArrow)"/>
-  
-
-  <g transform="translate(650, 200)">
-    <rect x="0" y="0" width="120" height="100" fill="#f1f8ff" stroke="#2196f3" stroke-width="2" rx="8"/>
-    <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    </text><rect width="70" height="30" x="15" y="100" fill="#efebe9" stroke="#795548" rx="4"/><text x="50" y="118" fill="#5d4037" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">• Pressemelding</text></g><g transform="translate(50 450)"><text fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Kommunikasjonskanaler:</text><rect width="120" height="25" y="10" fill="#e3f2fd" stroke="#2196f3" rx="4"/><text x="60" y="26" fill="#1976d2" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Oslo Børs Portal</text><rect width="120" height="25" x="140" y="10" fill="#e8f5e8" stroke="#4caf50" rx="4"/><text x="200" y="26" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Selskapets nettside</text><rect width="120" height="25" x="280" y="10" fill="#fff3e0" stroke="#ff9800" rx="4"/><text x="340" y="26" fill="#f57c00" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Investor Relations</text><rect width="120" height="25" x="420" y="10" fill="#fce4ec" stroke="#e91e63" rx="4"/><text x="480" y="26" fill="#c2185b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Direkte distribusjon</text><rect width="120" height="25" x="560" y="10" fill="#f3e5f5" stroke="#9c27b0" rx="4"/><text x="620" y="26" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Sosiale medier</text></g><defs><marker id="d" markerHeight="8" markerWidth="8" orient="auto" refX="7" refY="3"><path fill="#4caf50" d="M0 0v6l7-3z"/></marker></defs><path stroke="#4caf50" stroke-width="2" marker-end="url(#d)" d="m370 180-150-50"/><path stroke="#4caf50" stroke-width="2" marker-end="url(#d)" d="m430 180 150-50"/><path stroke="#4caf50" stroke-width="2" marker-end="url(#d)" d="m370 270-200 80"/><path stroke="#4caf50" stroke-width="2" marker-end="url(#d)" d="m430 270 150 80"/><path stroke="#4caf50" stroke-width="2" marker-end="url(#d)" d="m400 310-20 70"/><g transform="translate(650 200)"><rect width="120" height="100" fill="#f1f8ff" stroke="#2196f3" stroke-width="2" rx="8"/><text x="60" y="20" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Tidsplan
-    </text>
-    <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#666">T+0: Publisering</text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#666">T+1: Presentasjon</text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#666">T+2: Q&amp;A</text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="10" fill="#666">T+7: Oppfølging</text>
-  </g>
-</svg>
+    </text><text x="10" y="40" fill="#666" font-family="Arial, sans-serif" font-size="10">T+0: Publisering</text><text x="10" y="55" fill="#666" font-family="Arial, sans-serif" font-size="10">T+1: Presentasjon</text><text x="10" y="70" fill="#666" font-family="Arial, sans-serif" font-size="10">T+2: Q&amp;A</text><text x="10" y="85" fill="#666" font-family="Arial, sans-serif" font-size="10">T+7: Oppfølging</text></g></svg>

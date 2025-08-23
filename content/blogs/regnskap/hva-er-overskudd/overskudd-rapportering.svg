@@ -1,156 +1,67 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="monthlyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="quarterlyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="annualGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:.8"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:.8"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:.8"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:.8"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Rapporteringssyklus for Overskudd
-  </text>
-  
-
-  <rect x="50" y="70" width="200" height="100" fill="url(#monthlyGradient)" stroke="#0056b3" stroke-width="2" rx="8"/>
-  <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="200" height="100" x="50" y="70" fill="url(#b)" stroke="#0056b3" stroke-width="2" rx="8"/><text x="150" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     MÅNEDLIG OPPFØLGING
-  </text>
-  <text x="150" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="150" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Månedlige resultatrapporter
-  </text>
-  <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="150" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Sammenligning med budsjett
-  </text>
-  <text x="150" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="150" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Identifisering av avvik
-  </text>
-  <text x="150" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="150" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Trendanalyse
-  </text>
-  
-
-  <rect x="300" y="70" width="200" height="100" fill="url(#quarterlyGradient)" stroke="#20c997" stroke-width="2" rx="8"/>
-  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="200" height="100" x="300" y="70" fill="url(#c)" stroke="#20c997" stroke-width="2" rx="8"/><text x="400" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     KVARTALSRAPPORTERING
-  </text>
-  <text x="400" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="400" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Detaljert analyse av utvikling
-  </text>
-  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="400" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Prognoser for resten av året
-  </text>
-  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="400" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Strategiske tiltak
-  </text>
-  <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="400" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Markedskommunikasjon
-  </text>
-  
-
-  <rect x="550" y="70" width="200" height="100" fill="url(#annualGradient)" stroke="#c82333" stroke-width="2" rx="8"/>
-  <text x="650" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="200" height="100" x="550" y="70" fill="url(#d)" stroke="#c82333" stroke-width="2" rx="8"/><text x="650" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ÅRSRAPPORTERING
-  </text>
-  <text x="650" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="650" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Fullstendig årsregnskap
-  </text>
-  <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="650" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Styrets beretning
-  </text>
-  <text x="650" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="650" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Revisjonsberetning
-  </text>
-  <text x="650" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="650" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Offentliggjøring
-  </text>
-  
-
-  <line x1="50" y1="220" x2="750" y2="220" stroke="#6c757d" stroke-width="2"/>
-  
-
-  <circle cx="150" cy="220" r="8" fill="#007bff"/>
-  <text x="150" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><path stroke="#6c757d" stroke-width="2" d="M50 220h700"/><circle cx="150" cy="220" r="8" fill="#007bff"/><text x="150" y="245" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Hver måned
-  </text>
-  
-  <circle cx="400" cy="220" r="8" fill="#28a745"/>
-  <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="400" cy="220" r="8" fill="#28a745"/><text x="400" y="245" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Hvert kvartal
-  </text>
-  
-  <circle cx="650" cy="220" r="8" fill="#dc3545"/>
-  <text x="650" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="650" cy="220" r="8" fill="#dc3545"/><text x="650" y="245" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Årlig
-  </text>
-  
-
-  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
+  </text><text x="400" y="280" fill="#212529" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Interessenter og Bruksområder
-  </text>
-  
-
-  <rect x="50" y="300" width="150" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="125" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="150" height="60" x="50" y="300" fill="#e9ecef" stroke="#6c757d" rx="5"/><text x="125" y="320" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     LEDELSE
-  </text>
-  <text x="125" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="125" y="335" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Strategiske beslutninger
-  </text>
-  <text x="125" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="125" y="350" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Operasjonell styring
-  </text>
-  
-  <rect x="225" y="300" width="150" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="300" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="150" height="60" x="225" y="300" fill="#e9ecef" stroke="#6c757d" rx="5"/><text x="300" y="320" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     INVESTORER
-  </text>
-  <text x="300" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="300" y="335" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Investeringsbeslutninger
-  </text>
-  <text x="300" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="300" y="350" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Verdsettelse
-  </text>
-  
-  <rect x="400" y="300" width="150" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="475" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="150" height="60" x="400" y="300" fill="#e9ecef" stroke="#6c757d" rx="5"/><text x="475" y="320" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KREDITORER
-  </text>
-  <text x="475" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="475" y="335" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kredittvurdering
-  </text>
-  <text x="475" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="475" y="350" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Risikoevaluering
-  </text>
-  
-  <rect x="575" y="300" width="150" height="60" fill="#e9ecef" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="650" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="150" height="60" x="575" y="300" fill="#e9ecef" stroke="#6c757d" rx="5"/><text x="650" y="320" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     MYNDIGHETER
-  </text>
-  <text x="650" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="650" y="335" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Skatteberegning
-  </text>
-  <text x="650" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="650" y="350" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Regulering
-  </text>
-  
-
-  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="400" y="385" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Regelmessig rapportering sikrer transparens og informerte beslutninger
-  </text>
-</svg>
+  </text></svg>

@@ -1,166 +1,55 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <radialGradient id="centerGradient" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </radialGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><radialGradient id="b" cx="50%" cy="50%" r="50%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></radialGradient><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">
     Internregnskapets Hovedkomponenter
-  </text>
-  
-
-  <circle cx="400" cy="300" r="100" fill="url(#centerGradient)" stroke="#004499" stroke-width="4"/>
-  <text x="400" y="290" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="400" cy="300" r="100" fill="url(#b)" stroke="#049" stroke-width="4"/><text x="400" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     INTERNREGNSKAP
-  </text>
-  <text x="400" y="310" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+  </text><text x="400" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Styringsverktøy
-  </text>
-  
-
-  <g transform="translate(400, 120)">
-    <rect x="-80" y="-40" width="160" height="80" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="10"/>
-    <text x="0" y="-15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(400 120)"><rect width="160" height="80" x="-80" y="-40" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="10"/><text y="-15" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Budsjetter &amp;
-    </text>
-    <text x="0" y="5" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text y="5" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Prognoser
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Planlegging
-    </text>
-
-    <path d="M 0 40 L 0 80" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(600, 180)">
-    <rect x="-70" y="-35" width="140" height="70" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="10"/>
-    <text x="0" y="-10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="M0 40v40"/></g><g transform="translate(600 180)"><rect width="140" height="70" x="-70" y="-35" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="10"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Kalkyler &amp;
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Kostnadsanalyse
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Prissetting
-    </text>
-
-    <path d="M -70 0 L -130 0" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(650, 300)">
-    <rect x="-75" y="-35" width="150" height="70" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="10"/>
-    <text x="0" y="-10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="black">
+    </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="M-70 0h-60"/></g><g transform="translate(650 300)"><rect width="150" height="70" x="-75" y="-35" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="10"/><text y="-10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Prestasjonsmåling
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="black">
+    </text><text y="10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       &amp; KPI-er
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="black">
+    </text><text y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Overvåking
-    </text>
-
-    <path d="M -75 0 L -150 0" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(600, 420)">
-    <rect x="-70" y="-35" width="140" height="70" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="10"/>
-    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="M-75 0h-75"/></g><g transform="translate(600 420)"><rect width="140" height="70" x="-70" y="-35" fill="#17a2b8" stroke="#138496" stroke-width="2" rx="10"/><text y="-5" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Avviksanalyse
-    </text>
-    <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text y="15" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Kontroll &amp; oppfølging
-    </text>
-
-    <path d="M -50 -35 L -100 -85" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(400, 480)">
-    <rect x="-80" y="-40" width="160" height="80" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="10"/>
-    <text x="0" y="-15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="m-50-35-50-50"/></g><g transform="translate(400 480)"><rect width="160" height="80" x="-80" y="-40" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="10"/><text y="-15" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Rapportering &amp;
-    </text>
-    <text x="0" y="5" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text y="5" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Kommunikasjon
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Beslutningsstøtte
-    </text>
-
-    <path d="M 0 -40 L 0 -80" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(200, 420)">
-    <rect x="-70" y="-35" width="140" height="70" fill="#fd7e14" stroke="#e8590c" stroke-width="2" rx="10"/>
-    <text x="0" y="-10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="M0-40v-40"/></g><g transform="translate(200 420)"><rect width="140" height="70" x="-70" y="-35" fill="#fd7e14" stroke="#e8590c" stroke-width="2" rx="10"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Kostnadsfordeling
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       &amp; Internprising
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Allokering
-    </text>
-
-    <path d="M 50 -35 L 100 -85" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(150, 300)">
-    <rect x="-75" y="-35" width="150" height="70" fill="#20c997" stroke="#1aa179" stroke-width="2" rx="10"/>
-    <text x="0" y="-10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="m50-35 50-50"/></g><g transform="translate(150 300)"><rect width="150" height="70" x="-75" y="-35" fill="#20c997" stroke="#1aa179" stroke-width="2" rx="10"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Digitale Verktøy
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       &amp; ERP-systemer
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Automatisering
-    </text>
-
-    <path d="M 75 0 L 150 0" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(200, 180)">
-    <rect x="-70" y="-35" width="140" height="70" fill="#e83e8c" stroke="#d91a72" stroke-width="2" rx="10"/>
-    <text x="0" y="-10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="M75 0h75"/></g><g transform="translate(200 180)"><rect width="140" height="70" x="-70" y="-35" fill="#e83e8c" stroke="#d91a72" stroke-width="2" rx="10"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Strategisk
-    </text>
-    <text x="0" y="10" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Planlegging
-    </text>
-    <text x="0" y="25" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Langsiktig fokus
-    </text>
-
-    <path d="M 70 0 L 130 0" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <text x="50" y="580" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#6c757d">
+    </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="M70 0h60"/></g><text x="50" y="580" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-style="italic">
     Alle komponenter arbeider sammen for å gi ledelsen helhetlig styringsinformasjon
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

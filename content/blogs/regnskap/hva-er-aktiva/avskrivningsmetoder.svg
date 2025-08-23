@@ -1,93 +1,43 @@
-<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="400" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400"><path fill="#f8f9fa" d="M0 0h800v400H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Avskrivningsmetoder
-  </text>
-  
-
-  <rect x="50" y="80" width="300" height="280" fill="#3498db" rx="10" opacity="0.9"/>
-  <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="300" height="280" x="50" y="80" fill="#3498db" opacity=".9" rx="10"/><text x="200" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     LINEÆR AVSKRIVNING
-  </text>
-  <text x="200" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="200" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Mest vanlige metode
-  </text>
-  
-
-  <rect x="70" y="150" width="260" height="50" fill="white" rx="5"/>
-  <text x="200" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50" font-weight="bold">
+  </text><rect width="260" height="50" x="70" y="150" fill="#fff" rx="5"/><text x="200" y="170" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Årlig avskrivning =
-  </text>
-  <text x="200" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="200" y="185" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (Anskaffelseskost - Restverdi) / Brukstid
-  </text>
-  
-
-  <text x="80" y="225" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">
+  </text><text x="80" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Eksempel:
-  </text>
-  <text x="80" y="245" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="80" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Maskin: 500.000 kr
-  </text>
-  <text x="80" y="260" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="80" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Restverdi: 50.000 kr
-  </text>
-  <text x="80" y="275" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="80" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Brukstid: 10 år
-  </text>
-  <text x="80" y="295" font-family="Arial, sans-serif" font-size="11" fill="white" font-weight="bold">
+  </text><text x="80" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     = 45.000 kr/år
-  </text>
-  
-
-  <rect x="80" y="310" width="240" height="40" fill="white" rx="3"/>
-  <line x1="90" y1="340" x2="310" y2="320" stroke="#2c3e50" stroke-width="2"/>
-  <text x="200" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><rect width="240" height="40" x="80" y="310" fill="#fff" rx="3"/><path stroke="#2c3e50" stroke-width="2" d="m90 340 220-20"/><text x="200" y="355" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Konstant avskrivning over tid
-  </text>
-  
-
-  <rect x="450" y="80" width="300" height="280" fill="#e74c3c" rx="10" opacity="0.9"/>
-  <text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="300" height="280" x="450" y="80" fill="#e74c3c" opacity=".9" rx="10"/><text x="600" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     DEGRESSIV AVSKRIVNING
-  </text>
-  <text x="600" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="600" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Høyere avskrivning først
-  </text>
-  
-
-  <rect x="470" y="150" width="260" height="50" fill="white" rx="5"/>
-  <text x="600" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50" font-weight="bold">
+  </text><rect width="260" height="50" x="470" y="150" fill="#fff" rx="5"/><text x="600" y="170" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Årlig avskrivning =
-  </text>
-  <text x="600" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="600" y="185" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Bokført verdi × Avskrivningssats
-  </text>
-  
-
-  <text x="480" y="225" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">
+  </text><text x="480" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Eksempel (30% sats):
-  </text>
-  <text x="480" y="245" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="480" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     År 1: 500.000 × 30% = 150.000
-  </text>
-  <text x="480" y="260" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="480" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     År 2: 350.000 × 30% = 105.000
-  </text>
-  <text x="480" y="275" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="480" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     År 3: 245.000 × 30% = 73.500
-  </text>
-  <text x="480" y="295" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="480" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     osv...
-  </text>
-  
-
-  <rect x="480" y="310" width="240" height="40" fill="white" rx="3"/>
-  <path d="M 490 340 Q 550 325 610 322 T 710 320" stroke="#2c3e50" stroke-width="2" fill="none"/>
-  <text x="600" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><rect width="240" height="40" x="480" y="310" fill="#fff" rx="3"/><path fill="none" stroke="#2c3e50" stroke-width="2" d="M490 340q60-15 120-18t100-2"/><text x="600" y="355" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Avtagende avskrivning over tid
-  </text>
-</svg>
+  </text></svg>

@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150">
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#000"/>
-    </marker>
-  </defs>
-  <rect x="50" y="30" width="200" height="50" fill="#f0f0f0" stroke="#000"/>
-  <text x="150" y="60" text-anchor="middle" font-size="16" fill="#000">Arbeidsgiver</text>
-  <rect x="350" y="30" width="200" height="50" fill="#f0f0f0" stroke="#000"/>
-  <text x="450" y="60" text-anchor="middle" font-size="16" fill="#000">Arbeidstaker</text>
-  <line x1="250" y1="55" x2="350" y2="55" stroke="#000" stroke-width="2" marker-end="url(#arrow)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150"><defs><marker id="a" markerHeight="10" markerWidth="10" orient="auto" refX="5" refY="5"><path d="m0 0 10 5-10 5Z"/></marker></defs><path fill="#f0f0f0" stroke="#000" d="M50 30h200v50H50z"/><text x="150" y="60" font-size="16" text-anchor="middle">Arbeidsgiver</text><path fill="#f0f0f0" stroke="#000" d="M350 30h200v50H350z"/><text x="450" y="60" font-size="16" text-anchor="middle">Arbeidstaker</text><path stroke="#000" stroke-width="2" marker-end="url(#a)" d="M250 55h100"/></svg>

@@ -1,125 +1,51 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="revenueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="costGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff5722;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d84315;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="profitGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2196f3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1565c0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff5722;stop-opacity:1"/><stop offset="100%" style="stop-color:#d84315;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#1565c0;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Bruttofortjeneste Beregning - Detaljert Oversikt
-  </text>
-  
-
-  <rect x="50" y="70" width="700" height="80" fill="url(#revenueGrad)" rx="8"/>
-  <text x="70" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="700" height="80" x="50" y="70" fill="url(#a)" rx="8"/><text x="70" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     SALGSINNTEKTER
-  </text>
-  <text x="70" y="115" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="70" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     Totale inntekter fra salg av varer og tjenester
-  </text>
-  <text x="730" y="115" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="730" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="end">
     10 000 000 kr
-  </text>
-  
-
-  <circle cx="400" cy="180" r="20" fill="#666"/>
-  <text x="400" y="188" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="400" cy="180" r="20" fill="#666"/><text x="400" y="188" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     −
-  </text>
-  
-
-  <text x="50" y="230" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+  </text><text x="50" y="230" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     VAREKOSTNADER (COGS)
-  </text>
-  
-
-  <rect x="50" y="250" width="350" height="50" fill="url(#costGrad)" rx="5"/>
-  <text x="70" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="350" height="50" x="50" y="250" fill="url(#b)" rx="5"/><text x="70" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Råvarer og materialer
-  </text>
-  <text x="70" y="285" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Direkte materialkostnader
-  </text>
-  <text x="380" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="380" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="end">
     3 500 000 kr
-  </text>
-  
-
-  <rect x="420" y="250" width="330" height="50" fill="url(#costGrad)" rx="5"/>
-  <text x="440" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="330" height="50" x="420" y="250" fill="url(#b)" rx="5"/><text x="440" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Direkte arbeidskraft
-  </text>
-  <text x="440" y="285" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="440" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Produksjonslønn
-  </text>
-  <text x="730" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="730" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="end">
     2 000 000 kr
-  </text>
-  
-
-  <rect x="50" y="320" width="350" height="50" fill="url(#costGrad)" rx="5"/>
-  <text x="70" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="350" height="50" x="50" y="320" fill="url(#b)" rx="5"/><text x="70" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Produksjonskostnader
-  </text>
-  <text x="70" y="355" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Maskiner, energi, vedlikehold
-  </text>
-  <text x="380" y="350" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="380" y="350" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="end">
     1 200 000 kr
-  </text>
-  
-
-  <rect x="420" y="320" width="330" height="50" fill="url(#costGrad)" rx="5"/>
-  <text x="440" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="330" height="50" x="420" y="320" fill="url(#b)" rx="5"/><text x="440" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Frakt og toll
-  </text>
-  <text x="440" y="355" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="440" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Transport og importavgifter
-  </text>
-  <text x="730" y="350" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="730" y="350" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="end">
     300 000 kr
-  </text>
-  
-
-  <rect x="50" y="390" width="700" height="40" fill="#d32f2f" rx="5"/>
-  <text x="70" y="410" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="40" x="50" y="390" fill="#d32f2f" rx="5"/><text x="70" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     TOTALE VAREKOSTNADER
-  </text>
-  <text x="730" y="415" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="730" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="end">
     7 000 000 kr
-  </text>
-  
-
-  <circle cx="400" cy="460" r="20" fill="#666"/>
-  <text x="400" y="468" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="400" cy="460" r="20" fill="#666"/><text x="400" y="468" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     =
-  </text>
-  
-
-  <rect x="50" y="490" width="700" height="80" fill="url(#profitGrad)" rx="8"/>
-  <text x="70" y="515" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="700" height="80" x="50" y="490" fill="url(#c)" rx="8"/><text x="70" y="515" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     BRUTTOFORTJENESTE
-  </text>
-  <text x="70" y="535" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="70" y="535" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     Overskudd før faste driftskostnader
-  </text>
-  <text x="730" y="535" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="730" y="535" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="end">
     3 000 000 kr
-  </text>
-  <text x="70" y="555" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="70" y="555" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Bruttofortjenestemargin: 30% (3 000 000 / 10 000 000 × 100)
-  </text>
-</svg>
+  </text></svg>

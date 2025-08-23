@@ -1,232 +1,57 @@
-<svg width="850" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="futureGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="aiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blockchainGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="sustainGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="quantumGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f39c12;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e67e22;stop-opacity:1" />
-    </linearGradient>
-    <filter id="futureShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="3" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.3"/>
-    </filter>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge> 
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  
-
-  <defs>
-    <radialGradient id="bgGrad" cx="50%" cy="50%" r="70%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </radialGradient>
-  </defs>
-  <rect width="850" height="600" fill="url(#bgGrad)"/>
-  
-
-  <text x="425" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="600"><defs><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1"/><stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#2980b9;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#c0392b;stop-opacity:1"/></linearGradient><linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#27ae60;stop-opacity:1"/><stop offset="100%" style="stop-color:#229954;stop-opacity:1"/></linearGradient><linearGradient id="h" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f39c12;stop-opacity:1"/><stop offset="100%" style="stop-color:#e67e22;stop-opacity:1"/></linearGradient><filter id="e" width="140%" height="140%" x="-20%" y="-20%"><feDropShadow dx="3" dy="3" flood-color="#000" flood-opacity=".3" stdDeviation="4"/></filter><filter id="c" width="200%" height="200%" x="-50%" y="-50%"><feGaussianBlur result="coloredBlur" stdDeviation="4"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><defs><radialGradient id="a" cx="50%" cy="50%" r="70%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></radialGradient></defs><path fill="url(#a)" d="M0 0h850v600H0z"/><text x="425" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Fremtidens Landbruksdataflyt
-  </text>
-  <text x="425" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+  </text><text x="425" y="50" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Emerging Technologies &amp; Innovation
-  </text>
-  
-
-  <circle cx="425" cy="200" r="70" fill="url(#futureGrad)" stroke="#8e44ad" stroke-width="4" filter="url(#glow)"/>
-  <text x="425" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="425" cy="200" r="70" fill="url(#b)" stroke="#8e44ad" stroke-width="4" filter="url(#c)"/><text x="425" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FREMTIDENS
-  </text>
-  <text x="425" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="425" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     LANDBRUK
-  </text>
-  <text x="425" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="425" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     2030-2040
-  </text>
-  
-
-  <rect x="100" y="80" width="160" height="100" rx="15" fill="url(#aiGrad)" stroke="#2980b9" stroke-width="3" filter="url(#futureShadow)"/>
-  <text x="180" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="100" x="100" y="80" fill="url(#d)" stroke="#2980b9" stroke-width="3" filter="url(#e)" rx="15"/><text x="180" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     AI &amp; MASKINLÆRING
-  </text>
-  <text x="180" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="180" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Prediktive modeller
-  </text>
-  <text x="180" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="180" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Autonome beslutninger
-  </text>
-  <text x="180" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="180" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Mønstergjenkjenning
-  </text>
-  <text x="180" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="180" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Optimalisering
-  </text>
-  
-
-  <rect x="590" y="80" width="160" height="100" rx="15" fill="url(#blockchainGrad)" stroke="#c0392b" stroke-width="3" filter="url(#futureShadow)"/>
-  <text x="670" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="100" x="590" y="80" fill="url(#f)" stroke="#c0392b" stroke-width="3" filter="url(#e)" rx="15"/><text x="670" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     BLOCKCHAIN
-  </text>
-  <text x="670" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="670" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Sporbarhet
-  </text>
-  <text x="670" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="670" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Smart contracts
-  </text>
-  <text x="670" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="670" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Desentralisert tillit
-  </text>
-  <text x="670" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="670" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Transparent handel
-  </text>
-  
-
-  <rect x="100" y="320" width="160" height="100" rx="15" fill="url(#sustainGrad)" stroke="#229954" stroke-width="3" filter="url(#futureShadow)"/>
-  <text x="180" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="100" x="100" y="320" fill="url(#g)" stroke="#229954" stroke-width="3" filter="url(#e)" rx="15"/><text x="180" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     BÆREKRAFT
-  </text>
-  <text x="180" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="180" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Sirkulærøkonomi
-  </text>
-  <text x="180" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="180" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Karbon-nøytralitet
-  </text>
-  <text x="180" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="180" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Biodiversitet
-  </text>
-  <text x="180" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="180" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Regenerativt landbruk
-  </text>
-  
-
-  <rect x="590" y="320" width="160" height="100" rx="15" fill="url(#quantumGrad)" stroke="#e67e22" stroke-width="3" filter="url(#futureShadow)"/>
-  <text x="670" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="100" x="590" y="320" fill="url(#h)" stroke="#e67e22" stroke-width="3" filter="url(#e)" rx="15"/><text x="670" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     QUANTUM COMPUTING
-  </text>
-  <text x="670" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="670" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Kompleks optimalisering
-  </text>
-  <text x="670" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="670" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Klimamodellering
-  </text>
-  <text x="670" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="670" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Molekylær simulering
-  </text>
-  <text x="670" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">
+  </text><text x="670" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Genetisk analyse
-  </text>
-  
-
-  <defs>
-    <marker id="futureArrow" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto">
-      <polygon points="0 0, 12 4, 0 8" fill="#9b59b6" />
-    </marker>
-  </defs>
-  
-
-  <line x1="260" y1="130" x2="355" y2="170" stroke="#9b59b6" stroke-width="3" marker-end="url(#futureArrow)" opacity="0.7">
-    <animate attributeName="stroke-dasharray" values="0,300;150,150;300,0" dur="4s" repeatCount="indefinite"/>
-  </line>
-  <line x1="590" y1="130" x2="495" y2="170" stroke="#9b59b6" stroke-width="3" marker-end="url(#futureArrow)" opacity="0.7">
-    <animate attributeName="stroke-dasharray" values="0,300;150,150;300,0" dur="4s" begin="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="260" y1="370" x2="355" y2="230" stroke="#9b59b6" stroke-width="3" marker-end="url(#futureArrow)" opacity="0.7">
-    <animate attributeName="stroke-dasharray" values="0,300;150,150;300,0" dur="4s" begin="2s" repeatCount="indefinite"/>
-  </line>
-  <line x1="590" y1="370" x2="495" y2="230" stroke="#9b59b6" stroke-width="3" marker-end="url(#futureArrow)" opacity="0.7">
-    <animate attributeName="stroke-dasharray" values="0,300;150,150;300,0" dur="4s" begin="3s" repeatCount="indefinite"/>
-  </line>
-  
-
-  <rect x="50" y="460" width="750" height="120" rx="10" fill="white" stroke="#bdc3c7" stroke-width="2" filter="url(#futureShadow)"/>
-  <text x="425" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><defs><marker id="i" markerHeight="8" markerWidth="12" orient="auto" refX="11" refY="4"><path fill="#9b59b6" d="m0 0 12 4L0 8z"/></marker></defs><path stroke="#9b59b6" stroke-width="3" marker-end="url(#i)" d="m260 130 95 40" opacity=".7"><animate attributeName="stroke-dasharray" dur="4s" repeatCount="indefinite" values="0,300;150,150;300,0"/></path><path stroke="#9b59b6" stroke-width="3" marker-end="url(#i)" d="m590 130-95 40" opacity=".7"><animate attributeName="stroke-dasharray" begin="1s" dur="4s" repeatCount="indefinite" values="0,300;150,150;300,0"/></path><path stroke="#9b59b6" stroke-width="3" marker-end="url(#i)" d="m260 370 95-140" opacity=".7"><animate attributeName="stroke-dasharray" begin="2s" dur="4s" repeatCount="indefinite" values="0,300;150,150;300,0"/></path><path stroke="#9b59b6" stroke-width="3" marker-end="url(#i)" d="m590 370-95-140" opacity=".7"><animate attributeName="stroke-dasharray" begin="3s" dur="4s" repeatCount="indefinite" values="0,300;150,150;300,0"/></path><rect width="750" height="120" x="50" y="460" fill="#fff" stroke="#bdc3c7" stroke-width="2" filter="url(#e)" rx="10"/><text x="425" y="485" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     INNOVASJONSTIDSLINJE
-  </text>
-  
-
-  <line x1="100" y1="520" x2="750" y2="520" stroke="#34495e" stroke-width="3"/>
-  
-
-  <g transform="translate(100, 520)">
-
-    <circle cx="0" cy="0" r="8" fill="#3498db"/>
-    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">25</text>
-    <text x="0" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">2025</text>
-    <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">5G &amp; IoT</text>
-    <text x="0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Edge Computing</text>
-    
-
-    <circle cx="162" cy="0" r="8" fill="#27ae60"/>
-    <text x="162" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">30</text>
-    <text x="162" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">2030</text>
-    <text x="162" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">AI Autonomi</text>
-    <text x="162" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Blockchain</text>
-    
-
-    <circle cx="325" cy="0" r="8" fill="#f39c12"/>
-    <text x="325" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">35</text>
-    <text x="325" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">2035</text>
-    <text x="325" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Quantum</text>
-    <text x="325" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Robotikk</text>
-    
-
-    <circle cx="487" cy="0" r="8" fill="#e74c3c"/>
-    <text x="487" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">40</text>
-    <text x="487" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">2040</text>
-    <text x="487" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Fullt autonomt</text>
-    <text x="487" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Sirkulært</text>
-    
-
-    <circle cx="650" cy="0" r="8" fill="#9b59b6"/>
-    <text x="650" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">50</text>
-    <text x="650" y="-15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">2050+</text>
-    <text x="650" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Regenerativt</text>
-    <text x="650" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#7f8c8d">Karbon-negativt</text>
-  </g>
-  
-
-  <g transform="translate(320, 250)">
-    <ellipse cx="0" cy="0" rx="100" ry="30" fill="rgba(155, 89, 182, 0.1)" stroke="#9b59b6" stroke-width="2" stroke-dasharray="5,5"/>
-    <text x="0" y="-8" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#9b59b6">
+  </text><path stroke="#34495e" stroke-width="3" d="M100 520h650"/><g transform="translate(100 520)"><circle r="8" fill="#3498db"/><text y="5" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">25</text><text y="-15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">2025</text><text y="25" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">5G &amp; IoT</text><text y="38" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Edge Computing</text><circle cx="162" r="8" fill="#27ae60"/><text x="162" y="5" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">30</text><text x="162" y="-15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">2030</text><text x="162" y="25" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">AI Autonomi</text><text x="162" y="38" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Blockchain</text><circle cx="325" r="8" fill="#f39c12"/><text x="325" y="5" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">35</text><text x="325" y="-15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">2035</text><text x="325" y="25" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Quantum</text><text x="325" y="38" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Robotikk</text><circle cx="487" r="8" fill="#e74c3c"/><text x="487" y="5" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">40</text><text x="487" y="-15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">2040</text><text x="487" y="25" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Fullt autonomt</text><text x="487" y="38" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Sirkulært</text><circle cx="650" r="8" fill="#9b59b6"/><text x="650" y="5" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">50</text><text x="650" y="-15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">2050+</text><text x="650" y="25" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Regenerativt</text><text x="650" y="38" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Karbon-negativt</text></g><g transform="translate(320 250)"><ellipse fill="rgba(155, 89, 182, 0.1)" stroke="#9b59b6" stroke-dasharray="5,5" stroke-width="2" rx="100" ry="30"/><text y="-8" fill="#9b59b6" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       NØKKELINNOVASJONER
-    </text>
-    <text x="0" y="8" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#9b59b6">
+    </text><text y="8" fill="#9b59b6" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Integrert &amp; Intelligent Økosystem
-    </text>
-  </g>
-  
-
-  <circle cx="200" cy="150" r="3" fill="#3498db">
-    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 50,20; 100,0" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="650" cy="150" r="3" fill="#e74c3c">
-    <animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="0.5s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,0; -50,20; -100,0" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="200" cy="390" r="3" fill="#27ae60">
-    <animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="1s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 50,-20; 100,0" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="650" cy="390" r="3" fill="#f39c12">
-    <animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="1.5s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,0; -50,-20; -100,0" dur="3s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+    </text></g><circle cx="200" cy="150" r="3" fill="#3498db"><animate attributeName="opacity" dur="2s" repeatCount="indefinite" values="1;0.2;1"/><animateTransform attributeName="transform" dur="3s" repeatCount="indefinite" type="translate" values="0,0; 50,20; 100,0"/></circle><circle cx="650" cy="150" r="3" fill="#e74c3c"><animate attributeName="opacity" begin="0.5s" dur="2s" repeatCount="indefinite" values="1;0.2;1"/><animateTransform attributeName="transform" dur="3s" repeatCount="indefinite" type="translate" values="0,0; -50,20; -100,0"/></circle><circle cx="200" cy="390" r="3" fill="#27ae60"><animate attributeName="opacity" begin="1s" dur="2s" repeatCount="indefinite" values="1;0.2;1"/><animateTransform attributeName="transform" dur="3s" repeatCount="indefinite" type="translate" values="0,0; 50,-20; 100,0"/></circle><circle cx="650" cy="390" r="3" fill="#f39c12"><animate attributeName="opacity" begin="1.5s" dur="2s" repeatCount="indefinite" values="1;0.2;1"/><animateTransform attributeName="transform" dur="3s" repeatCount="indefinite" type="translate" values="0,0; -50,-20; -100,0"/></circle></svg>

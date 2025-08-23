@@ -1,196 +1,85 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fff8e1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffecb3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f57c00;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ff9800;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="accountingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2196f3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="taxGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" />
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)" />
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff8e1;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffecb3;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#f57c00;stop-opacity:1"/><stop offset="100%" style="stop-color:#ff9800;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskapsføring av Jordbruksfradrag
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-
-    <rect x="0" y="0" width="200" height="80" fill="white" stroke="#ff9800" stroke-width="2" rx="10"/>
-    <text x="100" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f57c00">
+  </text><g transform="translate(50 80)"><rect width="200" height="80" fill="#fff" stroke="#ff9800" stroke-width="2" rx="10"/><text x="100" y="25" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Landbruksdrift
-    </text>
-    <text x="100" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="100" y="45" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Inntekter: 2 500 000 kr
-    </text>
-    <text x="100" y="60" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="100" y="60" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Kostnader: 2 100 000 kr
-    </text>
-    
-
-    <polygon points="210,40 230,35 230,45" fill="#ff9800"/>
-    <line x1="200" y1="40" x2="230" y2="40" stroke="#ff9800" stroke-width="2"/>
-    
-
-    <rect x="240" y="0" width="200" height="80" fill="white" stroke="#2196f3" stroke-width="2" rx="10"/>
-    <text x="340" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1976d2">
+    </text><path fill="#ff9800" d="m210 40 20-5v10z"/><path stroke="#ff9800" stroke-width="2" d="M200 40h30"/><rect width="200" height="80" x="240" fill="#fff" stroke="#2196f3" stroke-width="2" rx="10"/><text x="340" y="25" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Regnskapsresultat
-    </text>
-    <text x="340" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="340" y="45" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Driftsresultat: 400 000 kr
-    </text>
-    <text x="340" y="60" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="340" y="60" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       (Før jordbruksfradrag)
-    </text>
-    
-
-    <polygon points="450,40 470,35 470,45" fill="#2196f3"/>
-    <line x1="440" y1="40" x2="470" y2="40" stroke="#2196f3" stroke-width="2"/>
-    
-
-    <rect x="480" y="0" width="200" height="80" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <text x="580" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#388e3c">
+    </text><path fill="#2196f3" d="m450 40 20-5v10z"/><path stroke="#2196f3" stroke-width="2" d="M440 40h30"/><rect width="200" height="80" x="480" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><text x="580" y="25" fill="#388e3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Skatteberegning
-    </text>
-    <text x="580" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="580" y="45" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Jordbruksfradrag: 400 000 kr
-    </text>
-    <text x="580" y="60" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    </text><text x="580" y="60" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Skattepliktig inntekt: 0 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 200)">
-
-    <rect x="0" y="0" width="340" height="320" fill="white" stroke="#2196f3" stroke-width="2" rx="10"/>
-    <rect x="0" y="0" width="340" height="40" fill="url(#accountingGradient)" rx="10"/>
-    <rect x="0" y="30" width="340" height="10" fill="url(#accountingGradient)"/>
-    <text x="170" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><g transform="translate(50 200)"><rect width="340" height="320" fill="#fff" stroke="#2196f3" stroke-width="2" rx="10"/><rect width="340" height="40" fill="url(#c)" rx="10"/><path fill="url(#c)" d="M0 30h340v10H0z"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Regnskapsmessig Behandling
-    </text>
-    
-    <text x="20" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+    </text><text x="20" y="70" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       1. Ikke regnskapsført som kostnad
-    </text>
-    <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="90" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Jordbruksfradeget føres IKKE som en kostnad
-    </text>
-    <text x="20" y="105" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="105" fill="#666" font-family="Arial, sans-serif" font-size="12">
       i regnskapet. Det er et rent skattemessig
-    </text>
-    <text x="20" y="120" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="120" fill="#666" font-family="Arial, sans-serif" font-size="12">
       fradrag som håndteres i selvangivelsen.
-    </text>
-    
-    <text x="20" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+    </text><text x="20" y="150" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       2. Noteopplysninger
-    </text>
-    <text x="20" y="170" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="170" fill="#666" font-family="Arial, sans-serif" font-size="12">
       I årsregnskapet bør det gis opplysninger om:
-    </text>
-    <text x="20" y="185" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="185" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Beregningsgrunnlag for jordbruksfradrag
-    </text>
-    <text x="20" y="200" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="200" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Anvendt fradragssats
-    </text>
-    <text x="20" y="215" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="215" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Totalt fradragsbeløp
-    </text>
-    
-    <text x="20" y="245" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+    </text><text x="20" y="245" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       3. Regnskapsstandard
-    </text>
-    <text x="20" y="265" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="265" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Følger ordinære regnskapsregler:
-    </text>
-    <text x="20" y="280" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="280" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • God regnskapsskikk
-    </text>
-    <text x="20" y="295" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="295" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Regnskapsloven
-    </text>
-    <text x="20" y="310" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="20" y="310" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Bokføringsforskriften
-    </text>
-    
-
-    <rect x="360" y="0" width="340" height="320" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <rect x="360" y="0" width="340" height="40" fill="url(#taxGradient)" rx="10"/>
-    <rect x="360" y="30" width="340" height="10" fill="url(#taxGradient)"/>
-    <text x="530" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="340" height="320" x="360" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><rect width="340" height="40" x="360" fill="url(#d)" rx="10"/><path fill="url(#d)" d="M360 30h340v10H360z"/><text x="530" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Skattemessig Behandling
-    </text>
-    
-    <text x="380" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#388e3c">
+    </text><text x="380" y="70" fill="#388e3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       1. Direkte fradrag i selvangivelse
-    </text>
-    <text x="380" y="90" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="380" y="90" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Jordbruksfradeget trekkes direkte fra
-    </text>
-    <text x="380" y="105" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="380" y="105" fill="#666" font-family="Arial, sans-serif" font-size="12">
       skattepliktig inntekt i selvangivelsen.
-    </text>
-    <text x="380" y="120" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="380" y="120" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Reduserer grunnlag for inntektsskatt.
-    </text>
-    
-    <text x="380" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#388e3c">
+    </text><text x="380" y="150" fill="#388e3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       2. Påvirker skattearter
-    </text>
-    <text x="380" y="170" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="380" y="170" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Fradraget påvirker:
-    </text>
-    <text x="380" y="185" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="380" y="185" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Ordinær inntektsskatt (22%)
-    </text>
-    <text x="380" y="200" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="380" y="200" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Trygdeavgift (med begrensninger)
-    </text>
-    <text x="380" y="215" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="380" y="215" fill="#666" font-family="Arial, sans-serif" font-size="11">
       • Toppskatt (hvis aktuelt)
-    </text>
-    
-    <text x="380" y="245" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#388e3c">
+    </text><text x="380" y="245" fill="#388e3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       3. Beregningsrekkefølge
-    </text>
-    <text x="380" y="265" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="380" y="265" fill="#666" font-family="Arial, sans-serif" font-size="12">
       1. Beregn regnskapsmessig resultat
-    </text>
-    <text x="380" y="280" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="380" y="280" fill="#666" font-family="Arial, sans-serif" font-size="12">
       2. Beregn jordbruksfradrag
-    </text>
-    <text x="380" y="295" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="380" y="295" fill="#666" font-family="Arial, sans-serif" font-size="12">
       3. Trekk fra i selvangivelsen
-    </text>
-    <text x="380" y="310" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="380" y="310" fill="#666" font-family="Arial, sans-serif" font-size="12">
       4. Beregn endelig skattepliktig inntekt
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 540)">
-    <rect x="0" y="0" width="700" height="50" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
-    <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
+    </text></g><g transform="translate(50 540)"><rect width="700" height="50" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="20" y="20" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Praktisk Eksempel:
-    </text>
-    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><text x="20" y="40" fill="#666" font-family="Arial, sans-serif" font-size="12">
       Regnskapsresultat: 400 000 kr → Jordbruksfradrag: 400 000 kr → Skattepliktig inntekt: 0 kr → Inntektsskatt: 0 kr
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

@@ -1,190 +1,75 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="processGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2563eb;stop-opacity:1"/><stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Gjennomgang og Kvalitetskontroll av Arbeidspapirer
-  </text>
-  
-
-  <g transform="translate(50, 120)">
-    
-
-    <rect x="0" y="0" width="160" height="100" rx="10" fill="url(#processGradient)" stroke="#3b82f6" stroke-width="2"/>
-    <text x="80" y="25" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><g transform="translate(50 120)"><rect width="160" height="100" fill="url(#b)" stroke="#3b82f6" stroke-width="2" rx="10"/><text x="80" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       1. Selvgjennomgang
-    </text>
-    <text x="80" y="45" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="80" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Revisor gjennomgår
-    </text>
-    <text x="80" y="60" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="80" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       eget arbeid
-    </text>
-    <text x="80" y="80" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="80" y="80" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       ✓ Fullstendighet
-    </text>
-    <text x="80" y="92" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="80" y="92" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       ✓ Dokumentasjon
-    </text>
-    
-
-    <path d="M 170 50 L 190 50" stroke="#6b7280" stroke-width="2" marker-end="url(#arrowhead)"/>
-    
-
-    <rect x="200" y="0" width="160" height="100" rx="10" fill="url(#processGradient)" stroke="#059669" stroke-width="2"/>
-    <text x="280" y="25" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path stroke="#6b7280" stroke-width="2" marker-end="url(#c)" d="M170 50h20"/><rect width="160" height="100" x="200" fill="url(#b)" stroke="#059669" stroke-width="2" rx="10"/><text x="280" y="25" fill="#047857" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2. Kollegagjennomgang
-    </text>
-    <text x="280" y="45" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="280" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Erfaren kollega
-    </text>
-    <text x="280" y="60" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="280" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       gjennomgår arbeidet
-    </text>
-    <text x="280" y="80" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="280" y="80" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       ✓ Tilstrekkelighet
-    </text>
-    <text x="280" y="92" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="280" y="92" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       ✓ Hensiktsmessighet
-    </text>
-    
-
-    <path d="M 370 50 L 390 50" stroke="#6b7280" stroke-width="2" marker-end="url(#arrowhead)"/>
-    
-
-    <rect x="400" y="0" width="160" height="100" rx="10" fill="url(#processGradient)" stroke="#dc2626" stroke-width="2"/>
-    <text x="480" y="25" text-anchor="middle" fill="#b91c1c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path stroke="#6b7280" stroke-width="2" marker-end="url(#c)" d="M370 50h20"/><rect width="160" height="100" x="400" fill="url(#b)" stroke="#dc2626" stroke-width="2" rx="10"/><text x="480" y="25" fill="#b91c1c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       3. Partnergjennomgang
-    </text>
-    <text x="480" y="45" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="480" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Partner gjennomgår
-    </text>
-    <text x="480" y="60" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="480" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       kritiske områder
-    </text>
-    <text x="480" y="80" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="480" y="80" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       ✓ Konsistens
-    </text>
-    <text x="480" y="92" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="480" y="92" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       ✓ Standarder
-    </text>
-    
-
-    <path d="M 570 50 L 590 50" stroke="#6b7280" stroke-width="2" marker-end="url(#arrowhead)"/>
-    
-
-    <rect x="600" y="0" width="160" height="100" rx="10" fill="url(#processGradient)" stroke="#7c2d12" stroke-width="2"/>
-    <text x="680" y="20" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+    </text><path stroke="#6b7280" stroke-width="2" marker-end="url(#c)" d="M570 50h20"/><rect width="160" height="100" x="600" fill="url(#b)" stroke="#7c2d12" stroke-width="2" rx="10"/><text x="680" y="20" fill="#92400e" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
       4. Kvalitetskontroll-
-    </text>
-    <text x="680" y="35" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+    </text><text x="680" y="35" fill="#92400e" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
       gjennomgang
-    </text>
-    <text x="680" y="55" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="680" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Uavhengig gjennomgang
-    </text>
-    <text x="680" y="70" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="680" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       av høyrisikoklienter
-    </text>
-    <text x="680" y="88" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="680" y="88" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       ✓ Objektivitet
-    </text>
-    
-  </g>
-  
-
-  <g transform="translate(50, 260)">
-    <rect x="0" y="0" width="700" height="180" rx="10" fill="#ffffff" stroke="#d1d5db" stroke-width="1"/>
-    <text x="350" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(50 260)"><rect width="700" height="180" fill="#fff" stroke="#d1d5db" rx="10"/><text x="350" y="25" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Kvalitetsindikatorer
-    </text>
-    
-
-    <g transform="translate(20, 50)">
-      <text x="0" y="0" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><g font-family="Arial, sans-serif"><text fill="#374151" font-size="14" font-weight="bold" transform="translate(20 50)">
         Kvantitative Mål:
-      </text>
-      <text x="0" y="20" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="20" fill="#6b7280" font-size="12" transform="translate(20 50)">
         • Dokumentasjonsgrad: Andel av planlagte prosedyrer som er dokumentert
-      </text>
-      <text x="0" y="35" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="35" fill="#6b7280" font-size="12" transform="translate(20 50)">
         • Gjennomgangstid: Tid brukt på gjennomgang av arbeidspapirer
-      </text>
-      <text x="0" y="50" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="50" fill="#6b7280" font-size="12" transform="translate(20 50)">
         • Avviksrate: Antall identifiserte mangler eller feil
-      </text>
-      <text x="0" y="65" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="65" fill="#6b7280" font-size="12" transform="translate(20 50)">
         • Ferdigstillelsestid: Tid fra revisjonsavslutning til ferdig dokumentasjon
-      </text>
-    </g>
-    
-
-    <g transform="translate(360, 50)">
-      <text x="0" y="0" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text></g><g font-family="Arial, sans-serif"><text fill="#374151" font-size="14" font-weight="bold" transform="translate(360 50)">
         Kvalitative Vurderinger:
-      </text>
-      <text x="0" y="20" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="20" fill="#6b7280" font-size="12" transform="translate(360 50)">
         • Klarhet: Er dokumentasjonen klar og forståelig?
-      </text>
-      <text x="0" y="35" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="35" fill="#6b7280" font-size="12" transform="translate(360 50)">
         • Relevans: Er dokumentasjonen relevant for konklusjonene?
-      </text>
-      <text x="0" y="50" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="50" fill="#6b7280" font-size="12" transform="translate(360 50)">
         • Objektivitet: Er vurderingene objektive og balanserte?
-      </text>
-      <text x="0" y="65" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="65" fill="#6b7280" font-size="12" transform="translate(360 50)">
         • Profesjonalitet: Oppfyller dokumentasjonen profesjonelle standarder?
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 470)">
-    <rect x="0" y="0" width="700" height="100" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
-    <text x="350" y="25" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      </text></g></g><g transform="translate(50 470)"><rect width="700" height="100" fill="#fef3c7" stroke="#f59e0b" rx="10"/><text x="350" y="25" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Gjennomgangsfokus
-    </text>
-    
-    <g transform="translate(50, 40)">
-      <circle cx="0" cy="8" r="3" fill="#f59e0b"/>
-      <text x="15" y="12" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+    </text><g transform="translate(50 40)"><circle cy="8" r="3" fill="#f59e0b"/><text x="15" y="12" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
         Tilstrekkelighet: Er dokumentasjonen tilstrekkelig?
-      </text>
-      
-      <circle cx="200" cy="8" r="3" fill="#f59e0b"/>
-      <text x="215" y="12" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      </text><circle cx="200" cy="8" r="3" fill="#f59e0b"/><text x="215" y="12" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
         Hensiktsmessighet: Støtter dokumentasjonen konklusjonene?
-      </text>
-      
-      <circle cx="0" cy="28" r="3" fill="#f59e0b"/>
-      <text x="15" y="32" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      </text><circle cy="28" r="3" fill="#f59e0b"/><text x="15" y="32" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
         Konsistens: Er arbeidet konsistent med revisjonsplanen?
-      </text>
-      
-      <circle cx="200" cy="28" r="3" fill="#f59e0b"/>
-      <text x="215" y="32" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
+      </text><circle cx="200" cy="28" r="3" fill="#f59e0b"/><text x="215" y="32" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
         Standarder: Er profesjonelle standarder fulgt?
-      </text>
-    </g>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
-    </marker>
-  </defs>
-</svg>
+      </text></g></g><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6b7280" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

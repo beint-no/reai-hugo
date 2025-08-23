@@ -1,177 +1,67 @@
-<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="700" height="60" fill="url(#headerGradient)"/>
-  
-
-  <text x="350" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h700v500H0z"/><path fill="url(#b)" d="M0 0h700v60H0z"/><text x="350" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Forskuddstrekk i A-meldingen
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    
-
-    <rect x="0" y="0" width="600" height="350" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-    <text x="300" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><g transform="translate(50 80)"><rect width="600" height="350" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="300" y="25" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Månedlig Rapporteringsprosess
-    </text>
-    
-
-    <g transform="translate(30, 50)">
-      <rect x="0" y="0" width="120" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
-      <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1565c0">
+    </text><g transform="translate(30 50)"><rect width="120" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/><text x="60" y="20" fill="#1565c0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         1. LØNNSKJØRING
-      </text>
-      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#333">
+      </text><text x="10" y="40" fill="#333" font-family="Arial, sans-serif" font-size="10">
         • Beregn bruttolønn
-      </text>
-      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333">
+      </text><text x="10" y="55" fill="#333" font-family="Arial, sans-serif" font-size="10">
         • Anvend trekkprosent
-      </text>
-      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333">
+      </text><text x="10" y="70" fill="#333" font-family="Arial, sans-serif" font-size="10">
         • Trekk forskuddstrekk
-      </text>
-    </g>
-    
-
-    <g transform="translate(160, 85)">
-      <line x1="0" y1="0" x2="30" y2="0" stroke="#28a745" stroke-width="3" marker-end="url(#arrowhead)"/>
-    </g>
-    
-
-    <g transform="translate(200, 50)">
-      <rect x="0" y="0" width="120" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
-      <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">
+      </text></g><path stroke="#28a745" stroke-width="3" marker-end="url(#c)" d="M0 0h30" transform="translate(160 85)"/><g transform="translate(200 50)"><rect width="120" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/><text x="60" y="20" fill="#155724" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2. A-MELDING
-      </text>
-      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#333">
+      </text><text x="10" y="40" fill="#333" font-family="Arial, sans-serif" font-size="10">
         • Samle lønnsdata
-      </text>
-      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333">
+      </text><text x="10" y="55" fill="#333" font-family="Arial, sans-serif" font-size="10">
         • Rapporter trekk
-      </text>
-      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333">
+      </text><text x="10" y="70" fill="#333" font-family="Arial, sans-serif" font-size="10">
         • Send innen 5.
-      </text>
-    </g>
-    
-
-    <g transform="translate(330, 85)">
-      <line x1="0" y1="0" x2="30" y2="0" stroke="#dc3545" stroke-width="3" marker-end="url(#arrowhead2)"/>
-    </g>
-    
-
-    <g transform="translate(370, 50)">
-      <rect x="0" y="0" width="120" height="80" fill="#ffebee" stroke="#dc3545" stroke-width="2" rx="8"/>
-      <text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#c62828">
+      </text></g><path stroke="#dc3545" stroke-width="3" marker-end="url(#d)" d="M0 0h30" transform="translate(330 85)"/><g transform="translate(370 50)"><rect width="120" height="80" fill="#ffebee" stroke="#dc3545" stroke-width="2" rx="8"/><text x="60" y="20" fill="#c62828" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         3. INNBETALING
-      </text>
-      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#333">
+      </text><text x="10" y="40" fill="#333" font-family="Arial, sans-serif" font-size="10">
         • Betal til Skatteetaten
-      </text>
-      <text x="10" y="55" font-family="Arial, sans-serif" font-size="10" fill="#333">
+      </text><text x="10" y="55" fill="#333" font-family="Arial, sans-serif" font-size="10">
         • Frist 15. i måneden
-      </text>
-      <text x="10" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333">
+      </text><text x="10" y="70" fill="#333" font-family="Arial, sans-serif" font-size="10">
         • Unngå forsinkelse
-      </text>
-    </g>
-    
-
-    <rect x="30" y="150" width="540" height="180" fill="#f8f9fa" stroke="#6c757d" stroke-width="1" rx="8"/>
-    <text x="300" y="175" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+      </text></g><rect width="540" height="180" x="30" y="150" fill="#f8f9fa" stroke="#6c757d" rx="8"/><text x="300" y="175" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Informasjon som Rapporteres i A-meldingen
-    </text>
-    
-
-    <g transform="translate(50, 190)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+    </text><g font-family="Arial, sans-serif"><text fill="#06c" font-size="14" font-weight="bold" transform="translate(50 190)">
         Arbeidsgiverdata:
-      </text>
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="20" fill="#333" font-size="11" transform="translate(50 190)">
         • Organisasjonsnummer
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="35" fill="#333" font-size="11" transform="translate(50 190)">
         • Kontaktinformasjon
-      </text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="50" fill="#333" font-size="11" transform="translate(50 190)">
         • Rapporteringsperiode
-      </text>
-      
-      <text x="0" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+      </text><text y="80" fill="#06c" font-size="14" font-weight="bold" transform="translate(50 190)">
         Forskuddstrekkdata:
-      </text>
-      <text x="0" y="100" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="100" fill="#333" font-size="11" transform="translate(50 190)">
         • Trekkgrunnlag per ansatt
-      </text>
-      <text x="0" y="115" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="115" fill="#333" font-size="11" transform="translate(50 190)">
         • Anvendt trekkprosent
-      </text>
-      <text x="0" y="130" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="130" fill="#333" font-size="11" transform="translate(50 190)">
         • Beregnet forskuddstrekk
-      </text>
-    </g>
-    
-
-    <g transform="translate(320, 190)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+      </text></g><g font-family="Arial, sans-serif"><text fill="#06c" font-size="14" font-weight="bold" transform="translate(320 190)">
         Ansattdata:
-      </text>
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="20" fill="#333" font-size="11" transform="translate(320 190)">
         • Fødselsnummer
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="35" fill="#333" font-size="11" transform="translate(320 190)">
         • Arbeidsforholdstype
-      </text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="50" fill="#333" font-size="11" transform="translate(320 190)">
         • Utbetalt bruttolønn
-      </text>
-      
-      <text x="0" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+      </text><text y="80" fill="#06c" font-size="14" font-weight="bold" transform="translate(320 190)">
         Kontrollinformasjon:
-      </text>
-      <text x="0" y="100" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="100" fill="#333" font-size="11" transform="translate(320 190)">
         • Tabellnummer fra skattekort
-      </text>
-      <text x="0" y="115" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="115" fill="#333" font-size="11" transform="translate(320 190)">
         • Eventuelle korrigeringer
-      </text>
-      <text x="0" y="130" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text y="130" fill="#333" font-size="11" transform="translate(320 190)">
         • Naturalytelser
-      </text>
-    </g>
-    
-
-    <rect x="30" y="350" width="540" height="50" fill="#fff3cd" stroke="#856404" stroke-width="1" rx="5"/>
-    <text x="300" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+      </text></g><rect width="540" height="50" x="30" y="350" fill="#fff3cd" stroke="#856404" rx="5"/><text x="300" y="370" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Viktig: A-meldingen må sendes selv om det ikke har vært lønnsutbetalinger
-    </text>
-    <text x="300" y="385" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#856404">
+    </text><text x="300" y="385" fill="#856404" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       (null-melding for å bekrefte at arbeidsforholdet fortsatt består)
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
-    </marker>
-  </defs>
-</svg>
+    </text></g><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#dc3545" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

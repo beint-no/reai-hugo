@@ -1,225 +1,47 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="budgetGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#155724;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="liquidityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#17a2b8;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#0c5460;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="balanceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#856404;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#155724;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#17a2b8;stop-opacity:.8"/><stop offset="100%" style="stop-color:#0c5460;stop-opacity:.8"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:.8"/><stop offset="100%" style="stop-color:#856404;stop-opacity:.8"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Finansiell Planlegging i Forretningsplan
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="200" height="150" fill="url(#budgetGradient)" stroke="#155724" stroke-width="3" rx="10"/>
-    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(50 80)"><rect width="200" height="150" fill="url(#b)" stroke="#155724" stroke-width="3" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Resultatbudsjett
-    </text>
-    
-
-    <rect x="10" y="40" width="180" height="45" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="5"/>
-    <text x="100" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="180" height="45" x="10" y="40" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" rx="5"/><text x="100" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Inntektsprognoser
-    </text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="9" fill="white">• Salgsinntekter</text>
-    <text x="15" y="80" font-family="Arial, sans-serif" font-size="9" fill="white">• Andre driftsinntekter</text>
-    
-
-    <rect x="10" y="95" width="180" height="45" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="5"/>
-    <text x="100" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="9">• Salgsinntekter</text><text x="15" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="9">• Andre driftsinntekter</text><rect width="180" height="45" x="10" y="95" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" rx="5"/><text x="100" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Kostnadsprognoser
-    </text>
-    <text x="15" y="125" font-family="Arial, sans-serif" font-size="9" fill="white">• Driftskostnader</text>
-    <text x="15" y="135" font-family="Arial, sans-serif" font-size="9" fill="white">• Varekostnader</text>
-  </g>
-  
-
-  <g transform="translate(300, 80)">
-    <rect x="0" y="0" width="200" height="150" fill="url(#liquidityGradient)" stroke="#0c5460" stroke-width="3" rx="10"/>
-    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text x="15" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="9">• Driftskostnader</text><text x="15" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="9">• Varekostnader</text></g><g transform="translate(300 80)"><rect width="200" height="150" fill="url(#c)" stroke="#0c5460" stroke-width="3" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Likviditetsbudsjett
-    </text>
-    
-
-    <rect x="10" y="40" width="180" height="100" fill="rgba(255,255,255,0.9)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="5"/>
-    
-
-    <rect x="15" y="45" width="170" height="15" fill="#0c5460"/>
-    <text x="25" y="55" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Måned</text>
-    <text x="65" y="55" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Inn</text>
-    <text x="105" y="55" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Ut</text>
-    <text x="145" y="55" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">Saldo</text>
-    
-
-    <text x="25" y="70" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">Jan</text>
-    <text x="65" y="70" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">250k</text>
-    <text x="105" y="70" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">200k</text>
-    <text x="145" y="70" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">150k</text>
-    
-    <text x="25" y="82" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">Feb</text>
-    <text x="65" y="82" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">280k</text>
-    <text x="105" y="82" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">220k</text>
-    <text x="145" y="82" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">210k</text>
-    
-    <text x="25" y="94" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">Mar</text>
-    <text x="65" y="94" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">300k</text>
-    <text x="105" y="94" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">240k</text>
-    <text x="145" y="94" font-family="Arial, sans-serif" font-size="8" fill="#0c5460">270k</text>
-    
-
-    <text x="100" y="115" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="180" height="100" x="10" y="40" fill="rgba(255,255,255,0.9)" stroke="rgba(255,255,255,0.5)" rx="5"/><path fill="#0c5460" d="M15 45h170v15H15z"/><text x="25" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">Måned</text><text x="65" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">Inn</text><text x="105" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">Ut</text><text x="145" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold">Saldo</text><text x="25" y="70" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">Jan</text><text x="65" y="70" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">250k</text><text x="105" y="70" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">200k</text><text x="145" y="70" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">150k</text><text x="25" y="82" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">Feb</text><text x="65" y="82" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">280k</text><text x="105" y="82" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">220k</text><text x="145" y="82" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">210k</text><text x="25" y="94" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">Mar</text><text x="65" y="94" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">300k</text><text x="105" y="94" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">240k</text><text x="145" y="94" fill="#0c5460" font-family="Arial, sans-serif" font-size="8">270k</text><text x="100" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       Kritiske faktorer:
-    </text>
-    <text x="15" y="128" font-family="Arial, sans-serif" font-size="8" fill="white">• Betalingsvilkår</text>
-    <text x="15" y="136" font-family="Arial, sans-serif" font-size="8" fill="white">• Sesongvariasjoner</text>
-  </g>
-  
-
-  <g transform="translate(550, 80)">
-    <rect x="0" y="0" width="200" height="150" fill="url(#balanceGradient)" stroke="#856404" stroke-width="3" rx="10"/>
-    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text x="15" y="128" fill="#fff" font-family="Arial, sans-serif" font-size="8">• Betalingsvilkår</text><text x="15" y="136" fill="#fff" font-family="Arial, sans-serif" font-size="8">• Sesongvariasjoner</text></g><g transform="translate(550 80)"><rect width="200" height="150" fill="url(#d)" stroke="#856404" stroke-width="3" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Balansebudsjett
-    </text>
-    
-
-    <rect x="10" y="40" width="180" height="45" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="5"/>
-    <text x="100" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="180" height="45" x="10" y="40" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" rx="5"/><text x="100" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Eiendeler
-    </text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="9" fill="white">• Omløpsmidler</text>
-    <text x="15" y="80" font-family="Arial, sans-serif" font-size="9" fill="white">• Anleggsmidler</text>
-    
-
-    <rect x="10" y="95" width="180" height="45" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1" rx="5"/>
-    <text x="100" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text x="15" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="9">• Omløpsmidler</text><text x="15" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="9">• Anleggsmidler</text><rect width="180" height="45" x="10" y="95" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" rx="5"/><text x="100" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Gjeld og Egenkapital
-    </text>
-    <text x="15" y="125" font-family="Arial, sans-serif" font-size="9" fill="white">• Kortsiktig gjeld</text>
-    <text x="15" y="135" font-family="Arial, sans-serif" font-size="9" fill="white">• Egenkapital</text>
-  </g>
-  
-
-  <g transform="translate(250, 155)">
-    <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#6c757d" stroke-width="2" fill="none"/>
-  </g>
-  
-  <g transform="translate(500, 155)">
-    <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#6c757d" stroke-width="2" fill="none"/>
-  </g>
-  
-
-  <g transform="translate(50, 280)">
-    <rect x="0" y="0" width="700" height="180" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
+    </text><text x="15" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="9">• Kortsiktig gjeld</text><text x="15" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="9">• Egenkapital</text></g><path fill="none" stroke="#6c757d" stroke-width="2" d="M250 155h40l-5-5m5 5-5 5M500 155h40l-5-5m5 5-5 5"/><g transform="translate(50 280)"><rect width="700" height="180" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="350" y="25" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Integrert Finansiell Planlegging
-    </text>
-    
-
-    <g transform="translate(50, 50)">
-
-      <rect x="0" y="0" width="120" height="60" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/>
-      <text x="60" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#155724">
+    </text><g transform="translate(50 50)"><rect width="120" height="60" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/><text x="60" y="20" fill="#155724" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         1. Inntekts- og
-      </text>
-      <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#155724">
+      </text><text x="60" y="35" fill="#155724" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         kostnadsprognoser
-      </text>
-      <text x="60" y="50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#155724">
+      </text><text x="60" y="50" fill="#155724" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Resultatbudsjett
-      </text>
-    </g>
-    
-
-    <g transform="translate(170, 75)">
-      <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#28a745" stroke-width="2" fill="none"/>
-    </g>
-    
-
-    <g transform="translate(220, 50)">
-      <rect x="0" y="0" width="120" height="60" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="5"/>
-      <text x="60" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#0c5460">
+      </text></g><path fill="none" stroke="#28a745" stroke-width="2" d="M170 75h40l-5-5m5 5-5 5"/><g transform="translate(220 50)"><rect width="120" height="60" fill="#d1ecf1" stroke="#17a2b8" stroke-width="2" rx="5"/><text x="60" y="20" fill="#0c5460" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         2. Kontantstrøm-
-      </text>
-      <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#0c5460">
+      </text><text x="60" y="35" fill="#0c5460" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         planlegging
-      </text>
-      <text x="60" y="50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#0c5460">
+      </text><text x="60" y="50" fill="#0c5460" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Likviditetsbudsjett
-      </text>
-    </g>
-    
-
-    <g transform="translate(340, 75)">
-      <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#17a2b8" stroke-width="2" fill="none"/>
-    </g>
-    
-
-    <g transform="translate(390, 50)">
-      <rect x="0" y="0" width="120" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
-      <text x="60" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#856404">
+      </text></g><path fill="none" stroke="#17a2b8" stroke-width="2" d="M340 75h40l-5-5m5 5-5 5"/><g transform="translate(390 50)"><rect width="120" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/><text x="60" y="20" fill="#856404" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         3. Finansiell
-      </text>
-      <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#856404">
+      </text><text x="60" y="35" fill="#856404" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         stilling
-      </text>
-      <text x="60" y="50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#856404">
+      </text><text x="60" y="50" fill="#856404" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Balansebudsjett
-      </text>
-    </g>
-    
-
-    <g transform="translate(510, 75)">
-      <path d="M0,0 L40,0 L35,-5 M40,0 L35,5" stroke="#ffc107" stroke-width="2" fill="none"/>
-    </g>
-    
-
-    <g transform="translate(560, 50)">
-      <rect x="0" y="0" width="120" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="5"/>
-      <text x="60" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#721c24">
+      </text></g><path fill="none" stroke="#ffc107" stroke-width="2" d="M510 75h40l-5-5m5 5-5 5"/><g transform="translate(560 50)"><rect width="120" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="5"/><text x="60" y="20" fill="#721c24" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         4. Regnskaps-
-      </text>
-      <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#721c24">
+      </text><text x="60" y="35" fill="#721c24" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         messig oppfølging
-      </text>
-      <text x="60" y="50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#721c24">
+      </text><text x="60" y="50" fill="#721c24" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Kontinuerlig kontroll
-      </text>
-    </g>
-    
-
-    <g transform="translate(50, 130)">
-      <text x="300" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+      </text></g><text x="300" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 130)">
         Nøkkelfordeler ved Integrert Planlegging
-      </text>
-      
-      <g transform="translate(0, 20)">
-        <circle cx="8" cy="8" r="6" fill="#28a745"/>
-        <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
-        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#495057">Konsistente prognoser på tvers av alle budsjetter</text>
-      </g>
-      
-      <g transform="translate(300, 20)">
-        <circle cx="8" cy="8" r="6" fill="#28a745"/>
-        <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
-        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#495057">Bedre likviditetsstyring og risikokontroll</text>
-      </g>
-    </g>
-  </g>
-</svg>
+      </text><g transform="translate(50 150)"><circle cx="8" cy="8" r="6" fill="#28a745"/><path fill="none" stroke="#fff" stroke-width="1.5" d="m5 8 2 2 4-4"/><text x="20" y="12" fill="#495057" font-family="Arial, sans-serif" font-size="10">Konsistente prognoser på tvers av alle budsjetter</text></g><g transform="translate(350 150)"><circle cx="8" cy="8" r="6" fill="#28a745"/><path fill="none" stroke="#fff" stroke-width="1.5" d="m5 8 2 2 4-4"/><text x="20" y="12" fill="#495057" font-family="Arial, sans-serif" font-size="10">Bedre likviditetsstyring og risikokontroll</text></g></g></svg>

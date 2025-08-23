@@ -1,186 +1,73 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="costGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffebee;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffcdd2;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="priceGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="profitGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffebee;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffcdd2;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1"/><stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Kostpris, Prissetting og Lønnsomhet
-  </text>
-  
-
-  <rect x="50" y="80" width="200" height="350" fill="url(#costGradient)" stroke="#e74c3c" stroke-width="3" rx="15"/>
-  <text x="150" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#c62828">
+  </text><rect width="200" height="350" x="50" y="80" fill="url(#b)" stroke="#e74c3c" stroke-width="3" rx="15"/><text x="150" y="110" fill="#c62828" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     KOSTPRIS
-  </text>
-  <text x="150" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+  </text><text x="150" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Grunnlag for prissetting
-  </text>
-  
-
-  <rect x="70" y="160" width="160" height="40" fill="white" stroke="#e74c3c" stroke-width="2" rx="5"/>
-  <text x="80" y="180" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><rect width="160" height="40" x="70" y="160" fill="#fff" stroke="#e74c3c" stroke-width="2" rx="5"/><text x="80" y="180" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     Direkte kostnader
-  </text>
-  <text x="220" y="185" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+  </text><text x="220" y="185" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
     700 kr
-  </text>
-  
-  <rect x="70" y="210" width="160" height="40" fill="white" stroke="#e74c3c" stroke-width="2" rx="5"/>
-  <text x="80" y="230" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><rect width="160" height="40" x="70" y="210" fill="#fff" stroke="#e74c3c" stroke-width="2" rx="5"/><text x="80" y="230" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     Indirekte kostnader
-  </text>
-  <text x="220" y="235" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+  </text><text x="220" y="235" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
     300 kr
-  </text>
-  
-  <rect x="70" y="270" width="160" height="50" fill="#e74c3c" stroke="#c62828" stroke-width="3" rx="8"/>
-  <text x="80" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="160" height="50" x="70" y="270" fill="#e74c3c" stroke="#c62828" stroke-width="3" rx="8"/><text x="80" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Total kostpris
-  </text>
-  <text x="220" y="305" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="220" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">
     1.000 kr
-  </text>
-  
-
-  <text x="150" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="150" y="350" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Minimum pris for
-  </text>
-  <text x="150" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="150" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     å unngå tap
-  </text>
-  
-
-  <rect x="300" y="80" width="200" height="350" fill="url(#priceGradient)" stroke="#4caf50" stroke-width="3" rx="15"/>
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32">
+  </text><rect width="200" height="350" x="300" y="80" fill="url(#c)" stroke="#4caf50" stroke-width="3" rx="15"/><text x="400" y="110" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     SALGSPRIS
-  </text>
-  <text x="400" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+  </text><text x="400" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Kostpris + Fortjenestemargin
-  </text>
-  
-
-  <rect x="320" y="160" width="160" height="40" fill="white" stroke="#4caf50" stroke-width="2" rx="5"/>
-  <text x="330" y="180" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><rect width="160" height="40" x="320" y="160" fill="#fff" stroke="#4caf50" stroke-width="2" rx="5"/><text x="330" y="180" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     Kostpris
-  </text>
-  <text x="470" y="185" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+  </text><text x="470" y="185" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
     1.000 kr
-  </text>
-  
-  <rect x="320" y="210" width="160" height="40" fill="white" stroke="#4caf50" stroke-width="2" rx="5"/>
-  <text x="330" y="230" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><rect width="160" height="40" x="320" y="210" fill="#fff" stroke="#4caf50" stroke-width="2" rx="5"/><text x="330" y="230" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     Fortjenestemargin (25%)
-  </text>
-  <text x="470" y="235" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4caf50">
+  </text><text x="470" y="235" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
     250 kr
-  </text>
-  
-  <rect x="320" y="270" width="160" height="50" fill="#4caf50" stroke="#2e7d32" stroke-width="3" rx="8"/>
-  <text x="330" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="160" height="50" x="320" y="270" fill="#4caf50" stroke="#2e7d32" stroke-width="3" rx="8"/><text x="330" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Salgspris
-  </text>
-  <text x="470" y="305" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="470" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">
     1.250 kr
-  </text>
-  
-
-  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2e7d32">
+  </text><text x="400" y="340" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Prisstrategier:
-  </text>
-  <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="400" y="355" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Cost-plus prissetting
-  </text>
-  <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="400" y="370" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Markedsbasert prissetting
-  </text>
-  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="400" y="385" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Konkurransebasert prissetting
-  </text>
-  
-
-  <rect x="550" y="80" width="200" height="350" fill="url(#profitGradient)" stroke="#2196f3" stroke-width="3" rx="15"/>
-  <text x="650" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1565c0">
+  </text><rect width="200" height="350" x="550" y="80" fill="url(#d)" stroke="#2196f3" stroke-width="3" rx="15"/><text x="650" y="110" fill="#1565c0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     LØNNSOMHET
-  </text>
-  <text x="650" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+  </text><text x="650" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Resultat av prissetting
-  </text>
-  
-
-  <rect x="570" y="160" width="160" height="40" fill="white" stroke="#2196f3" stroke-width="2" rx="5"/>
-  <text x="580" y="180" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><rect width="160" height="40" x="570" y="160" fill="#fff" stroke="#2196f3" stroke-width="2" rx="5"/><text x="580" y="180" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     Salgspris
-  </text>
-  <text x="720" y="185" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4caf50">
+  </text><text x="720" y="185" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
     1.250 kr
-  </text>
-  
-  <rect x="570" y="210" width="160" height="40" fill="white" stroke="#2196f3" stroke-width="2" rx="5"/>
-  <text x="580" y="230" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><rect width="160" height="40" x="570" y="210" fill="#fff" stroke="#2196f3" stroke-width="2" rx="5"/><text x="580" y="230" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     Kostpris
-  </text>
-  <text x="720" y="235" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+  </text><text x="720" y="235" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
     -1.000 kr
-  </text>
-  
-  <rect x="570" y="270" width="160" height="50" fill="#2196f3" stroke="#1565c0" stroke-width="3" rx="8"/>
-  <text x="580" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="160" height="50" x="570" y="270" fill="#2196f3" stroke="#1565c0" stroke-width="3" rx="8"/><text x="580" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Fortjeneste
-  </text>
-  <text x="720" y="305" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="720" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">
     250 kr
-  </text>
-  
-
-  <text x="650" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565c0">
+  </text><text x="650" y="340" fill="#1565c0" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Lønnsomhetsmål:
-  </text>
-  <text x="650" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="650" y="355" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Fortjenestemargin: 20%
-  </text>
-  <text x="650" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="650" y="370" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • Dekningsbidrag: 250 kr
-  </text>
-  <text x="650" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="650" y="385" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     • ROI: Avhenger av investering
-  </text>
-  
-
-  <path d="M 260 250 L 290 250" stroke="#34495e" stroke-width="4" fill="none" marker-end="url(#arrowhead1)"/>
-  <path d="M 510 250 L 540 250" stroke="#34495e" stroke-width="4" fill="none" marker-end="url(#arrowhead2)"/>
-  
-
-  <defs>
-    <marker id="arrowhead1" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
-    </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="150" y="450" width="500" height="30" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
-  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><path fill="none" stroke="#34495e" stroke-width="4" marker-end="url(#e)" d="M260 250h30"/><path fill="none" stroke="#34495e" stroke-width="4" marker-end="url(#f)" d="M510 250h30"/><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#34495e" d="m0 0 10 3.5L0 7z"/></marker><marker id="f" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#34495e" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="500" height="30" x="150" y="450" fill="#ecf0f1" stroke="#bdc3c7" rx="5"/><text x="400" y="470" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Lønnsomhet = Salgspris - Kostpris = Fortjeneste
-  </text>
-</svg>
+  </text></svg>

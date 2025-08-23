@@ -1,219 +1,63 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="yesGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.9" />
-    </linearGradient>
-    <linearGradient id="noGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.9" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:.9"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:.8"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:.9"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Når Gjelder Omvendt Avgiftsplikt?
-  </text>
-  
-
-  <rect x="50" y="70" width="320" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  <text x="210" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><rect width="320" height="120" x="50" y="70" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="210" y="95" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Norsk leverandør → Norsk kunde
-  </text>
-  
-
-  <rect x="80" y="110" width="80" height="40" fill="#007bff" rx="5"/>
-  <text x="120" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="80" height="40" x="80" y="110" fill="#007bff" rx="5"/><text x="120" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Norsk AS
-  </text>
-  
-  <path d="M 170 130 L 200 130" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-  <rect x="210" y="110" width="80" height="40" fill="#28a745" rx="5"/>
-  <text x="250" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M170 130h30"/><rect width="80" height="40" x="210" y="110" fill="#28a745" rx="5"/><text x="250" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Norsk AS
-  </text>
-  
-
-  <rect x="300" y="110" width="60" height="40" fill="url(#noGradient)" rx="5"/>
-  <text x="330" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="60" height="40" x="300" y="110" fill="url(#c)" rx="5"/><text x="330" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     NEI
-  </text>
-  
-  <text x="210" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="210" y="175" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Vanlig MVA-behandling
-  </text>
-  
-
-  <rect x="430" y="70" width="320" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  <text x="590" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><rect width="320" height="120" x="430" y="70" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="590" y="95" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Utenlandsk tjeneste → Norsk foretak
-  </text>
-  
-  <rect x="460" y="110" width="80" height="40" fill="#6f42c1" rx="5"/>
-  <text x="500" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="80" height="40" x="460" y="110" fill="#6f42c1" rx="5"/><text x="500" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Dansk AS
-  </text>
-  
-  <path d="M 550 130 L 580 130" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-  <rect x="590" y="110" width="80" height="40" fill="#28a745" rx="5"/>
-  <text x="630" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M550 130h30"/><rect width="80" height="40" x="590" y="110" fill="#28a745" rx="5"/><text x="630" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Norsk AS
-  </text>
-  
-
-  <rect x="680" y="110" width="60" height="40" fill="url(#yesGradient)" rx="5"/>
-  <text x="710" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="60" height="40" x="680" y="110" fill="url(#d)" rx="5"/><text x="710" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     JA
-  </text>
-  
-  <text x="590" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="590" y="175" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Omvendt avgiftsplikt gjelder
-  </text>
-  
-
-  <rect x="50" y="220" width="320" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  <text x="210" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><rect width="320" height="120" x="50" y="220" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="210" y="245" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Utenlandsk vare → Norsk forbruker
-  </text>
-  
-  <rect x="80" y="260" width="80" height="40" fill="#6f42c1" rx="5"/>
-  <text x="120" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="80" height="40" x="80" y="260" fill="#6f42c1" rx="5"/><text x="120" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Tysk shop
-  </text>
-  
-  <path d="M 170 280 L 200 280" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-  <rect x="210" y="260" width="80" height="40" fill="#fd7e14" rx="5"/>
-  <text x="250" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M170 280h30"/><rect width="80" height="40" x="210" y="260" fill="#fd7e14" rx="5"/><text x="250" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Privatperson
-  </text>
-  
-
-  <rect x="300" y="260" width="60" height="40" fill="url(#noGradient)" rx="5"/>
-  <text x="330" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="60" height="40" x="300" y="260" fill="url(#c)" rx="5"/><text x="330" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     NEI
-  </text>
-  
-  <text x="210" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="210" y="325" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     MVA ved import/toll
-  </text>
-  
-
-  <rect x="430" y="220" width="320" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  <text x="590" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><rect width="320" height="120" x="430" y="220" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="590" y="245" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Elektronisk tjeneste → Norsk foretak
-  </text>
-  
-  <rect x="460" y="260" width="80" height="40" fill="#6f42c1" rx="5"/>
-  <text x="500" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="80" height="40" x="460" y="260" fill="#6f42c1" rx="5"/><text x="500" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Google
-  </text>
-  
-  <path d="M 550 280 L 580 280" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-  <rect x="590" y="260" width="80" height="40" fill="#28a745" rx="5"/>
-  <text x="630" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M550 280h30"/><rect width="80" height="40" x="590" y="260" fill="#28a745" rx="5"/><text x="630" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Norsk AS
-  </text>
-  
-
-  <rect x="680" y="260" width="60" height="40" fill="url(#yesGradient)" rx="5"/>
-  <text x="710" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="60" height="40" x="680" y="260" fill="url(#d)" rx="5"/><text x="710" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     JA
-  </text>
-  
-  <text x="590" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="590" y="325" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Omvendt avgiftsplikt gjelder
-  </text>
-  
-
-  <rect x="100" y="370" width="600" height="200" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  <text x="400" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
+  </text><rect width="600" height="200" x="100" y="370" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="400" y="395" fill="#495057" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Beslutningstre: Gjelder Omvendt Avgiftsplikt?
-  </text>
-  
-
-  <rect x="120" y="410" width="200" height="30" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
-  <text x="220" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+  </text><rect width="200" height="30" x="120" y="410" fill="#e3f2fd" stroke="#2196f3" rx="5"/><text x="220" y="430" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Er leverandøren utenlandsk?
-  </text>
-  
-
-  <path d="M 170 440 L 170 470" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="150" y="460" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">NEI</text>
-  
-  <rect x="120" y="475" width="100" height="25" fill="url(#noGradient)" rx="3"/>
-  <text x="170" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+  </text><path stroke="#dc3545" stroke-width="2" marker-end="url(#b)" d="M170 440v30"/><text x="150" y="460" fill="#dc3545" font-family="Arial, sans-serif" font-size="11">NEI</text><rect width="100" height="25" x="120" y="475" fill="url(#c)" rx="3"/><text x="170" y="492" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Vanlig MVA
-  </text>
-  
-
-  <path d="M 270 440 L 270 470" stroke="#28a745" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="290" y="460" font-family="Arial, sans-serif" font-size="11" fill="#28a745">JA</text>
-  
-
-  <rect x="350" y="410" width="200" height="30" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
-  <text x="450" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+  </text><path stroke="#28a745" stroke-width="2" marker-end="url(#b)" d="M270 440v30"/><text x="290" y="460" fill="#28a745" font-family="Arial, sans-serif" font-size="11">JA</text><rect width="200" height="30" x="350" y="410" fill="#e3f2fd" stroke="#2196f3" rx="5"/><text x="450" y="430" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Er kjøperen norsk foretak?
-  </text>
-  
-
-  <path d="M 400 440 L 400 470" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="380" y="460" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">NEI</text>
-  
-  <rect x="350" y="475" width="100" height="25" fill="url(#noGradient)" rx="3"/>
-  <text x="400" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+  </text><path stroke="#dc3545" stroke-width="2" marker-end="url(#b)" d="M400 440v30"/><text x="380" y="460" fill="#dc3545" font-family="Arial, sans-serif" font-size="11">NEI</text><rect width="100" height="25" x="350" y="475" fill="url(#c)" rx="3"/><text x="400" y="492" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Ikke omvendt
-  </text>
-  
-
-  <path d="M 500 440 L 500 470" stroke="#28a745" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="520" y="460" font-family="Arial, sans-serif" font-size="11" fill="#28a745">JA</text>
-  
-
-  <rect x="580" y="410" width="100" height="30" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
-  <text x="630" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+  </text><path stroke="#28a745" stroke-width="2" marker-end="url(#b)" d="M500 440v30"/><text x="520" y="460" fill="#28a745" font-family="Arial, sans-serif" font-size="11">JA</text><rect width="100" height="30" x="580" y="410" fill="#e3f2fd" stroke="#2196f3" rx="5"/><text x="630" y="430" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Tjeneste?
-  </text>
-  
-
-  <path d="M 630 440 L 630 470" stroke="#28a745" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="650" y="460" font-family="Arial, sans-serif" font-size="11" fill="#28a745">JA</text>
-  
-  <rect x="580" y="475" width="100" height="25" fill="url(#yesGradient)" rx="3"/>
-  <text x="630" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+  </text><path stroke="#28a745" stroke-width="2" marker-end="url(#b)" d="M630 440v30"/><text x="650" y="460" fill="#28a745" font-family="Arial, sans-serif" font-size="11">JA</text><rect width="100" height="25" x="580" y="475" fill="url(#d)" rx="3"/><text x="630" y="492" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Omvendt avgiftsplikt
-  </text>
-  
-
-  <path d="M 270 475 L 350 425" stroke="#495057" stroke-width="1" stroke-dasharray="3,3"/>
-  <path d="M 500 475 L 580 425" stroke="#495057" stroke-width="1" stroke-dasharray="3,3"/>
-  
-
-  <rect x="250" y="530" width="300" height="50" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><path stroke="#495057" stroke-dasharray="3,3" d="m270 475 80-50M500 475l80-50"/><rect width="300" height="50" x="250" y="530" fill="#fff" stroke="#dee2e6" rx="5"/><text x="400" y="545" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Viktige Unntak
-  </text>
-  <text x="260" y="560" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><text x="260" y="560" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
     • Varer med installasjon kan også omfattes
-  </text>
-  <text x="260" y="572" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><text x="260" y="572" fill="#6c757d" font-family="Arial, sans-serif" font-size="10">
     • Bygge- og anleggsarbeider av utenlandske entreprenører
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

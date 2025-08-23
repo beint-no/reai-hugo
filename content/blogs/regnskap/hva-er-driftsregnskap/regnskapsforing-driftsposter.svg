@@ -1,174 +1,71 @@
-<svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="principleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:0.1" />
-    </linearGradient>
-    <linearGradient id="entryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#d97706;stop-opacity:0.1" />
-    </linearGradient>
-    <linearGradient id="periodGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0.1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="700" fill="#f8fafc"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
-  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="700"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#047857;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:.1"/><stop offset="100%" style="stop-color:#1e40af;stop-opacity:.1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f59e0b;stop-opacity:.1"/><stop offset="100%" style="stop-color:#d97706;stop-opacity:.1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:.1"/><stop offset="100%" style="stop-color:#7c3aed;stop-opacity:.1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v700H0z"/><path fill="url(#a)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskapsføring av Driftsposter
-  </text>
-  
-
-  <g transform="translate(50, 100)">
-    <rect x="0" y="0" width="700" height="120" rx="10" fill="url(#principleGrad)" stroke="#3b82f6" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+  </text><g transform="translate(50 100)"><rect width="700" height="120" fill="url(#b)" stroke="#3b82f6" stroke-width="2" rx="10"/><text x="350" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Viktige Regnskapsprinsipper
-    </text>
-    
-
-    <rect x="30" y="40" width="320" height="60" rx="5" fill="white" stroke="#3b82f6"/>
-    <text x="190" y="60" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="320" height="60" x="30" y="40" fill="#fff" stroke="#3b82f6" rx="5"/><text x="190" y="60" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       1. Opptjeningsprinsippet
-    </text>
-    <text x="50" y="80" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="80" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">
       Inntekter regnskapsføres når de er opptjent,
-    </text>
-    <text x="50" y="95" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="95" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">
       ikke nødvendigvis når de er mottatt
-    </text>
-    
-
-    <rect x="370" y="40" width="300" height="60" rx="5" fill="white" stroke="#3b82f6"/>
-    <text x="520" y="60" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="300" height="60" x="370" y="40" fill="#fff" stroke="#3b82f6" rx="5"/><text x="520" y="60" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2. Sammenstillingsprinsippet
-    </text>
-    <text x="390" y="80" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="80" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">
       Kostnader knyttes til tilhørende inntekter
-    </text>
-    <text x="390" y="95" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="95" fill="#1e40af" font-family="Arial, sans-serif" font-size="11">
       i samme regnskapsperiode
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 240)">
-    <rect x="0" y="0" width="700" height="200" rx="10" fill="url(#entryGrad)" stroke="#f59e0b" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(50 240)"><rect width="700" height="200" fill="url(#c)" stroke="#f59e0b" stroke-width="2" rx="10"/><text x="350" y="25" fill="#d97706" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Eksempler på Regnskapsføring
-    </text>
-    
-
-    <rect x="30" y="40" width="320" height="140" rx="5" fill="white" stroke="#f59e0b"/>
-    <text x="190" y="60" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="320" height="140" x="30" y="40" fill="#fff" stroke="#f59e0b" rx="5"/><text x="190" y="60" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Salg på Kreditt (100 000 kr)
-    </text>
-    <rect x="50" y="70" width="280" height="60" rx="3" fill="#fef3c7" stroke="#f59e0b"/>
-    <text x="60" y="90" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><rect width="280" height="60" x="50" y="70" fill="#fef3c7" stroke="#f59e0b" rx="3"/><text x="60" y="90" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Debet: Kundefordringer    100 000
-    </text>
-    <text x="60" y="110" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="60" y="110" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Kredit: Salgsinntekt      100 000
-    </text>
-    <text x="60" y="150" fill="#d97706" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="60" y="150" fill="#d97706" font-family="Arial, sans-serif" font-size="11">
       Inntekt føres ved levering, ikke ved betaling
-    </text>
-    <text x="60" y="165" fill="#d97706" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="60" y="165" fill="#d97706" font-family="Arial, sans-serif" font-size="11">
       Følger opptjeningsprinsippet
-    </text>
-    
-
-    <rect x="370" y="40" width="300" height="140" rx="5" fill="white" stroke="#f59e0b"/>
-    <text x="520" y="60" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="300" height="140" x="370" y="40" fill="#fff" stroke="#f59e0b" rx="5"/><text x="520" y="60" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Provisjon på Salg (5 000 kr)
-    </text>
-    <rect x="390" y="70" width="260" height="60" rx="3" fill="#fef3c7" stroke="#f59e0b"/>
-    <text x="400" y="90" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><rect width="260" height="60" x="390" y="70" fill="#fef3c7" stroke="#f59e0b" rx="3"/><text x="400" y="90" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Debet: Provisjonskostnad   5 000
-    </text>
-    <text x="400" y="110" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="400" y="110" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Kredit: Skyldig provisjon  5 000
-    </text>
-    <text x="400" y="150" fill="#d97706" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="400" y="150" fill="#d97706" font-family="Arial, sans-serif" font-size="11">
       Kostnad knyttes til tilhørende salg
-    </text>
-    <text x="400" y="165" fill="#d97706" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="400" y="165" fill="#d97706" font-family="Arial, sans-serif" font-size="11">
       Følger sammenstillingsprinsippet
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 460)">
-    <rect x="0" y="0" width="700" height="200" rx="10" fill="url(#periodGrad)" stroke="#8b5cf6" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(50 460)"><rect width="700" height="200" fill="url(#d)" stroke="#8b5cf6" stroke-width="2" rx="10"/><text x="350" y="25" fill="#7c3aed" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Periodisering av Driftsposter
-    </text>
-    
-
-    <rect x="30" y="40" width="320" height="140" rx="5" fill="white" stroke="#8b5cf6"/>
-    <text x="190" y="60" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="320" height="140" x="30" y="40" fill="#fff" stroke="#8b5cf6" rx="5"/><text x="190" y="60" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Forhåndsbetalte Kostnader
-    </text>
-    <text x="50" y="80" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="50" y="80" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Ved betaling av årlig forsikring (120 000 kr):
-    </text>
-    <rect x="50" y="85" width="280" height="40" rx="3" fill="#ede9fe" stroke="#8b5cf6"/>
-    <text x="60" y="100" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
+    </text><rect width="280" height="40" x="50" y="85" fill="#ede9fe" stroke="#8b5cf6" rx="3"/><text x="60" y="100" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       Debet: Forskudd forsikring  120 000
-    </text>
-    <text x="60" y="115" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="60" y="115" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       Kredit: Bank                120 000
-    </text>
-    
-    <text x="50" y="140" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="50" y="140" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Månedlig periodisering:
-    </text>
-    <rect x="50" y="145" width="280" height="30" rx="3" fill="#ede9fe" stroke="#8b5cf6"/>
-    <text x="60" y="160" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
+    </text><rect width="280" height="30" x="50" y="145" fill="#ede9fe" stroke="#8b5cf6" rx="3"/><text x="60" y="160" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       Debet: Forsikringskostnad   10 000
-    </text>
-    <text x="60" y="170" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="60" y="170" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       Kredit: Forskudd forsikring 10 000
-    </text>
-    
-
-    <rect x="370" y="40" width="300" height="140" rx="5" fill="white" stroke="#8b5cf6"/>
-    <text x="520" y="60" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="300" height="140" x="370" y="40" fill="#fff" stroke="#8b5cf6" rx="5"/><text x="520" y="60" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Påløpte Kostnader
-    </text>
-    <text x="390" y="80" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="390" y="80" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Påløpt lønn ved månedslutt (250 000 kr):
-    </text>
-    <rect x="390" y="85" width="260" height="40" rx="3" fill="#ede9fe" stroke="#8b5cf6"/>
-    <text x="400" y="100" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
+    </text><rect width="260" height="40" x="390" y="85" fill="#ede9fe" stroke="#8b5cf6" rx="3"/><text x="400" y="100" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       Debet: Lønnskostnad        250 000
-    </text>
-    <text x="400" y="115" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="400" y="115" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       Kredit: Påløpt lønn        250 000
-    </text>
-    
-    <text x="390" y="140" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="390" y="140" fill="#7c3aed" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Ved utbetaling neste måned:
-    </text>
-    <rect x="390" y="145" width="260" height="30" rx="3" fill="#ede9fe" stroke="#8b5cf6"/>
-    <text x="400" y="160" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
+    </text><rect width="260" height="30" x="390" y="145" fill="#ede9fe" stroke="#8b5cf6" rx="3"/><text x="400" y="160" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       Debet: Påløpt lønn         250 000
-    </text>
-    <text x="400" y="170" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="400" y="170" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       Kredit: Bank               250 000
-    </text>
-  </g>
-  
-
-  <text x="400" y="690" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12">
+    </text></g><text x="400" y="690" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Korrekt regnskapsføring og periodisering sikrer pålitelige finansielle rapporter
-  </text>
-</svg>
+  </text></svg>

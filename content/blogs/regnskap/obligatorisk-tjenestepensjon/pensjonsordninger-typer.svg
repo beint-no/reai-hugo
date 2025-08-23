@@ -1,241 +1,119 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="innskuddGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196f3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1976d2;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="ytelseGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7b1fa2;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="hybridGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ff9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f57c00;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#1976d2;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#7b1fa2;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#f57c00;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Typer Pensjonsordninger
-  </text>
-  
-
-  <rect x="50" y="70" width="220" height="480" fill="url(#innskuddGradient)" rx="15"/>
-  <text x="160" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="220" height="480" x="50" y="70" fill="url(#b)" rx="15"/><text x="160" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     INNSKUDDSPENSJON
-  </text>
-  
-
-  <rect x="70" y="120" width="180" height="120" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="160" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="180" height="120" x="70" y="120" fill="rgba(255,255,255,0.2)" rx="8"/><text x="160" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Innskuddssatser
-  </text>
-  <text x="80" y="160" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • 2% av lønn (1-7,1G)
-  </text>
-  <text x="80" y="175" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • 5% av lønn (7,1-12G)
-  </text>
-  <text x="80" y="190" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • G = Grunnbeløp i folketrygden
-  </text>
-  <text x="80" y="205" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Årlig justering
-  </text>
-  <text x="80" y="220" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Minimum kr 7 500 per år
-  </text>
-  
-
-  <rect x="70" y="260" width="180" height="120" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="160" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="180" height="120" x="70" y="260" fill="rgba(255,255,255,0.2)" rx="8"/><text x="160" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fordeler
-  </text>
-  <text x="80" y="300" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="300" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Forutsigbare kostnader
-  </text>
-  <text x="80" y="315" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Enkel administrasjon
-  </text>
-  <text x="80" y="330" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="330" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Fleksible investeringer
-  </text>
-  <text x="80" y="345" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Portable rettigheter
-  </text>
-  <text x="80" y="360" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Lavere regnskapskrav
-  </text>
-  
-
-  <rect x="70" y="400" width="180" height="120" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="160" y="420" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="180" height="120" x="70" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="160" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Regnskapsføring
-  </text>
-  <text x="80" y="440" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Månedlig kostnad
-  </text>
-  <text x="80" y="455" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Debet: Lønnskostnad
-  </text>
-  <text x="80" y="470" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Kredit: Skyldig premie
-  </text>
-  <text x="80" y="485" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • + Arbeidsgiveravgift
-  </text>
-  <text x="80" y="500" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="80" y="500" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Enkel bokføring
-  </text>
-  
-
-  <rect x="290" y="70" width="220" height="480" fill="url(#ytelseGradient)" rx="15"/>
-  <text x="400" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="220" height="480" x="290" y="70" fill="url(#c)" rx="15"/><text x="400" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     YTELSESPENSJON
-  </text>
-  
-
-  <rect x="310" y="120" width="180" height="120" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="400" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="180" height="120" x="310" y="120" fill="rgba(255,255,255,0.2)" rx="8"/><text x="400" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ytelsesnivå
-  </text>
-  <text x="320" y="160" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • 2% per tjenesteår
-  </text>
-  <text x="320" y="175" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Lønn mellom 1-12G
-  </text>
-  <text x="320" y="190" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Maks 66% av sluttlønn
-  </text>
-  <text x="320" y="205" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • 30 års opptjening
-  </text>
-  <text x="320" y="220" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Garantert ytelse
-  </text>
-  
-
-  <rect x="310" y="260" width="180" height="120" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="400" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="180" height="120" x="310" y="260" fill="rgba(255,255,255,0.2)" rx="8"/><text x="400" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Karakteristika
-  </text>
-  <text x="320" y="300" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="300" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Uforutsigbare kostnader
-  </text>
-  <text x="320" y="315" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Kompleks administrasjon
-  </text>
-  <text x="320" y="330" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="330" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Aktuarberegninger
-  </text>
-  <text x="320" y="345" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Langsiktige forpliktelser
-  </text>
-  <text x="320" y="360" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Høyere administrasjon
-  </text>
-  
-
-  <rect x="310" y="400" width="180" height="120" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="400" y="420" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="180" height="120" x="310" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="400" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Regnskapsføring
-  </text>
-  <text x="320" y="440" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Pensjonskostnad
-  </text>
-  <text x="320" y="455" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Pensjonsforpliktelse
-  </text>
-  <text x="320" y="470" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Pensjonsmidler
-  </text>
-  <text x="320" y="485" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Estimatavvik
-  </text>
-  <text x="320" y="500" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="320" y="500" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Kompleks bokføring
-  </text>
-  
-
-  <rect x="530" y="70" width="220" height="480" fill="url(#hybridGradient)" rx="15"/>
-  <text x="640" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="220" height="480" x="530" y="70" fill="url(#d)" rx="15"/><text x="640" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     HYBRIDORDNINGER
-  </text>
-  
-
-  <rect x="550" y="120" width="180" height="120" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="640" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="180" height="120" x="550" y="120" fill="rgba(255,255,255,0.2)" rx="8"/><text x="640" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kombinasjoner
-  </text>
-  <text x="560" y="160" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Innskudd + ytelse
-  </text>
-  <text x="560" y="175" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Fleksible løsninger
-  </text>
-  <text x="560" y="190" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Tilpassede ordninger
-  </text>
-  <text x="560" y="205" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Skreddersydde avtaler
-  </text>
-  <text x="560" y="220" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Større bedrifter
-  </text>
-  
-
-  <rect x="550" y="260" width="180" height="120" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="640" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="180" height="120" x="550" y="260" fill="rgba(255,255,255,0.2)" rx="8"/><text x="640" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fordeler
-  </text>
-  <text x="560" y="300" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="300" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Balansert risiko
-  </text>
-  <text x="560" y="315" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Fleksibilitet
-  </text>
-  <text x="560" y="330" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="330" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Konkurransedyktig
-  </text>
-  <text x="560" y="345" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Attraktiv for ansatte
-  </text>
-  <text x="560" y="360" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Moderne løsninger
-  </text>
-  
-
-  <rect x="550" y="400" width="180" height="120" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="640" y="420" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="180" height="120" x="550" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="640" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kompleksitet
-  </text>
-  <text x="560" y="440" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Middels administrasjon
-  </text>
-  <text x="560" y="455" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Variabel regnskapsføring
-  </text>
-  <text x="560" y="470" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Spesialkompetanse
-  </text>
-  <text x="560" y="485" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Høyere kostnader
-  </text>
-  <text x="560" y="500" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="560" y="500" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Mer rapportering
-  </text>
-  
-
-  <rect x="50" y="570" width="700" height="25" fill="rgba(108,117,125,0.1)" rx="5"/>
-  <text x="400" y="585" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><rect width="700" height="25" x="50" y="570" fill="rgba(108,117,125,0.1)" rx="5"/><text x="400" y="585" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Valg av pensjonsordning avhenger av bedriftens størrelse, økonomi og administrative kapasitet
-  </text>
-</svg>
+  </text></svg>

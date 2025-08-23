@@ -1,201 +1,39 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="challengeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="warningGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#b71c1c;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Utfordringer med Driftsinntekter
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="160" height="200" rx="10" fill="url(#challengeGradient)" opacity="0.9"/>
-    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="160" height="200" fill="url(#a)" opacity=".9" rx="10"/><text x="80" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Inntektsføring
-    </text>
-    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="80" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Timing-utfordringer
-    </text>
-    
-
-    <circle cx="80" cy="70" r="15" fill="white" opacity="0.3"/>
-    <text x="80" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#B71C1C">⚠️</text>
-    
-
-    <g transform="translate(10, 95)">
-      <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Problemer:</text>
-      <text x="0" y="30" font-family="Arial, sans-serif" font-size="11" fill="white">• For tidlig føring</text>
-      <text x="0" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">• For sen føring</text>
-      <text x="0" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">• Misvisende resultater</text>
-      
-      <text x="0" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Konsekvenser:</text>
-      <text x="0" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Feil periodisering</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(230, 80)">
-    <rect x="0" y="0" width="160" height="200" rx="10" fill="url(#challengeGradient)" opacity="0.9"/>
-    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><circle cx="80" cy="70" r="15" fill="#fff" opacity=".3"/><text x="80" y="77" fill="#b71c1c" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">⚠️</text><g fill="#fff" font-family="Arial, sans-serif"><text y="15" font-size="12" font-weight="bold" transform="translate(10 95)">Problemer:</text><text y="30" font-size="11" transform="translate(10 95)">• For tidlig føring</text><text y="45" font-size="11" transform="translate(10 95)">• For sen føring</text><text y="60" font-size="11" transform="translate(10 95)">• Misvisende resultater</text><text y="85" font-size="12" font-weight="bold" transform="translate(10 95)">Konsekvenser:</text><text y="100" font-size="11" transform="translate(10 95)">• Feil periodisering</text></g></g><g transform="translate(230 80)"><rect width="160" height="200" fill="url(#a)" opacity=".9" rx="10"/><text x="80" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Klassifisering
-    </text>
-    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="80" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Inntektstyper
-    </text>
-    
-
-    <circle cx="80" cy="70" r="15" fill="white" opacity="0.3"/>
-    <text x="80" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#B71C1C">🔄</text>
-    
-
-    <g transform="translate(10, 95)">
-      <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Problemer:</text>
-      <text x="0" y="30" font-family="Arial, sans-serif" font-size="11" fill="white">• Drift vs finans</text>
-      <text x="0" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">• Feil kategorisering</text>
-      <text x="0" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">• Inkonsistens</text>
-      
-      <text x="0" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Konsekvenser:</text>
-      <text x="0" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Feil analyse</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="160" height="200" rx="10" fill="url(#challengeGradient)" opacity="0.9"/>
-    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><circle cx="80" cy="70" r="15" fill="#fff" opacity=".3"/><text x="80" y="77" fill="#b71c1c" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🔄</text><g fill="#fff" font-family="Arial, sans-serif"><text y="15" font-size="12" font-weight="bold" transform="translate(10 95)">Problemer:</text><text y="30" font-size="11" transform="translate(10 95)">• Drift vs finans</text><text y="45" font-size="11" transform="translate(10 95)">• Feil kategorisering</text><text y="60" font-size="11" transform="translate(10 95)">• Inkonsistens</text><text y="85" font-size="12" font-weight="bold" transform="translate(10 95)">Konsekvenser:</text><text y="100" font-size="11" transform="translate(10 95)">• Feil analyse</text></g></g><g transform="translate(410 80)"><rect width="160" height="200" fill="url(#a)" opacity=".9" rx="10"/><text x="80" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Valutaomregning
-    </text>
-    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="80" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Utenlandske inntekter
-    </text>
-    
-
-    <circle cx="80" cy="70" r="15" fill="white" opacity="0.3"/>
-    <text x="80" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#B71C1C">💱</text>
-    
-
-    <g transform="translate(10, 95)">
-      <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Problemer:</text>
-      <text x="0" y="30" font-family="Arial, sans-serif" font-size="11" fill="white">• Kurssvingninger</text>
-      <text x="0" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">• Omregningsmetoder</text>
-      <text x="0" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">• Volatilitet</text>
-      
-      <text x="0" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Konsekvenser:</text>
-      <text x="0" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Usikre tall</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(590, 80)">
-    <rect x="0" y="0" width="160" height="200" rx="10" fill="url(#challengeGradient)" opacity="0.9"/>
-    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><circle cx="80" cy="70" r="15" fill="#fff" opacity=".3"/><text x="80" y="77" fill="#b71c1c" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">💱</text><g fill="#fff" font-family="Arial, sans-serif"><text y="15" font-size="12" font-weight="bold" transform="translate(10 95)">Problemer:</text><text y="30" font-size="11" transform="translate(10 95)">• Kurssvingninger</text><text y="45" font-size="11" transform="translate(10 95)">• Omregningsmetoder</text><text y="60" font-size="11" transform="translate(10 95)">• Volatilitet</text><text y="85" font-size="12" font-weight="bold" transform="translate(10 95)">Konsekvenser:</text><text y="100" font-size="11" transform="translate(10 95)">• Usikre tall</text></g></g><g transform="translate(590 80)"><rect width="160" height="200" fill="url(#a)" opacity=".9" rx="10"/><text x="80" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Sesongvariasjoner
-    </text>
-    <text x="80" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="80" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Periodiske svingninger
-    </text>
-    
-
-    <circle cx="80" cy="70" r="15" fill="white" opacity="0.3"/>
-    <text x="80" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#B71C1C">📊</text>
-    
-
-    <g transform="translate(10, 95)">
-      <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Problemer:</text>
-      <text x="0" y="30" font-family="Arial, sans-serif" font-size="11" fill="white">• Ujevne inntekter</text>
-      <text x="0" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">• Planleggingsutfordringer</text>
-      <text x="0" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">• Likviditetsproblemer</text>
-      
-      <text x="0" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Konsekvenser:</text>
-      <text x="0" y="100" font-family="Arial, sans-serif" font-size="11" fill="white">• Ustabil drift</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 310)">
-    <rect x="0" y="0" width="700" height="220" rx="10" fill="url(#solutionGradient)" opacity="0.9"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    </text><circle cx="80" cy="70" r="15" fill="#fff" opacity=".3"/><text x="80" y="77" fill="#b71c1c" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">📊</text><g fill="#fff" font-family="Arial, sans-serif"><text y="15" font-size="12" font-weight="bold" transform="translate(10 95)">Problemer:</text><text y="30" font-size="11" transform="translate(10 95)">• Ujevne inntekter</text><text y="45" font-size="11" transform="translate(10 95)">• Planleggingsutfordringer</text><text y="60" font-size="11" transform="translate(10 95)">• Likviditetsproblemer</text><text y="85" font-size="12" font-weight="bold" transform="translate(10 95)">Konsekvenser:</text><text y="100" font-size="11" transform="translate(10 95)">• Ustabil drift</text></g></g><g transform="translate(50 310)"><rect width="700" height="220" fill="url(#b)" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       Best Practices og Løsninger
-    </text>
-    
-
-    <g transform="translate(30, 50)">
-
-      <rect x="0" y="0" width="150" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(30 50)"><rect width="150" height="70" opacity=".2" rx="5"/><text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Konsistent regnskapsføring
-      </text>
-      <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• Samme prinsipper</text>
-      <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Over tid</text>
-      
-      <rect x="170" y="0" width="150" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="245" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="40" font-family="Arial, sans-serif" font-size="11">• Samme prinsipper</text><text x="10" y="55" font-family="Arial, sans-serif" font-size="11">• Over tid</text><rect width="150" height="70" x="170" opacity=".2" rx="5"/><text x="245" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Dokumentasjon
-      </text>
-      <text x="180" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• God dokumentasjon</text>
-      <text x="180" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Alle transaksjoner</text>
-      
-      <rect x="340" y="0" width="150" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="415" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="180" y="40" font-family="Arial, sans-serif" font-size="11">• God dokumentasjon</text><text x="180" y="55" font-family="Arial, sans-serif" font-size="11">• Alle transaksjoner</text><rect width="150" height="70" x="340" opacity=".2" rx="5"/><text x="415" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Regelmessig gjennomgang
-      </text>
-      <text x="350" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• Månedlig analyse</text>
-      <text x="350" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Trendovervåking</text>
-      
-      <rect x="510" y="0" width="150" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="585" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="350" y="40" font-family="Arial, sans-serif" font-size="11">• Månedlig analyse</text><text x="350" y="55" font-family="Arial, sans-serif" font-size="11">• Trendovervåking</text><rect width="150" height="70" x="510" opacity=".2" rx="5"/><text x="585" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Internkontroll
-      </text>
-      <text x="520" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontrollrutiner</text>
-      <text x="520" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Kvalitetssikring</text>
-      
-
-      <rect x="85" y="90" width="150" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="160" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="520" y="40" font-family="Arial, sans-serif" font-size="11">• Kontrollrutiner</text><text x="520" y="55" font-family="Arial, sans-serif" font-size="11">• Kvalitetssikring</text><rect width="150" height="70" x="85" y="90" opacity=".2" rx="5"/><text x="160" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Kompetanseutvikling
-      </text>
-      <text x="95" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">• Opplæring</text>
-      <text x="95" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">• Faglig oppdatering</text>
-      
-      <rect x="255" y="90" width="150" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="330" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="95" y="130" font-family="Arial, sans-serif" font-size="11">• Opplæring</text><text x="95" y="145" font-family="Arial, sans-serif" font-size="11">• Faglig oppdatering</text><rect width="150" height="70" x="255" y="90" opacity=".2" rx="5"/><text x="330" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Systemstøtte
-      </text>
-      <text x="265" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatisering</text>
-      <text x="265" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">• Integrasjon</text>
-      
-      <rect x="425" y="90" width="150" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="500" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="265" y="130" font-family="Arial, sans-serif" font-size="11">• Automatisering</text><text x="265" y="145" font-family="Arial, sans-serif" font-size="11">• Integrasjon</text><rect width="150" height="70" x="425" y="90" opacity=".2" rx="5"/><text x="500" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Risikovurdering
-      </text>
-      <text x="435" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">• Identifiser risiko</text>
-      <text x="435" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">• Forebyggende tiltak</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 550)">
-    <rect x="0" y="0" width="700" height="40" rx="5" fill="url(#warningGradient)" opacity="0.9"/>
-    <text x="20" y="15" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text><text x="435" y="130" font-family="Arial, sans-serif" font-size="11">• Identifiser risiko</text><text x="435" y="145" font-family="Arial, sans-serif" font-size="11">• Forebyggende tiltak</text></g></g><g transform="translate(50 550)"><rect width="700" height="40" fill="url(#c)" opacity=".9" rx="5"/><text x="20" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       ⚠️ Viktig å huske:
-    </text>
-    <text x="20" y="32" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="20" y="32" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       Feil håndtering av driftsinntekter kan føre til misvisende finansiell rapportering og regulatoriske problemer
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

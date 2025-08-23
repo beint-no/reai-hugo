@@ -1,168 +1,69 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="openGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#d4edda;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c3e6cb;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="restrictedGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#cce5ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#b3d9ff;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="negotiationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fff3cd;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffeaa7;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="dialogGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8d7da;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f5c6cb;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1976d2">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#d4edda;stop-opacity:1"/><stop offset="100%" style="stop-color:#c3e6cb;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#cce5ff;stop-opacity:1"/><stop offset="100%" style="stop-color:#b3d9ff;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff3cd;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffeaa7;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8d7da;stop-opacity:1"/><stop offset="100%" style="stop-color:#f5c6cb;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1976d2" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Anbudsprosedyrer i Offentlige Anskaffelser
-  </text>
-  
-
-  <rect x="50" y="70" width="320" height="220" fill="url(#openGradient)" stroke="#28a745" stroke-width="3" rx="15"/>
-  <text x="210" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><rect width="320" height="220" x="50" y="70" fill="url(#a)" stroke="#28a745" stroke-width="3" rx="15"/><text x="210" y="100" fill="#155724" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     1. Åpen Anbudskonkurranse
-  </text>
-  
-
-  <circle cx="210" cy="140" r="25" fill="#28a745" opacity="0.3"/>
-  <path d="M195 140 L225 140 M210 125 L210 155 M200 130 L220 130 M200 150 L220 150" stroke="#28a745" stroke-width="3"/>
-  
-  <text x="210" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><circle cx="210" cy="140" r="25" fill="#28a745" opacity=".3"/><path stroke="#28a745" stroke-width="3" d="M195 140h30m-15-15v30m-10-25h20m-20 20h20"/><text x="210" y="180" fill="#155724" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kjennetegn:
-  </text>
-  <text x="70" y="200" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="200" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Alle interesserte leverandører kan delta
-  </text>
-  <text x="70" y="215" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="215" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Ingen forhåndskvalifisering
-  </text>
-  <text x="70" y="230" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="230" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Mest brukte prosedyre
-  </text>
-  <text x="70" y="245" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="245" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Standardiserte anskaffelser
-  </text>
-  <text x="70" y="260" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="260" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Høy transparens
-  </text>
-  <text x="70" y="275" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="275" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Lavest administrativ belastning
-  </text>
-  
-
-  <rect x="430" y="70" width="320" height="220" fill="url(#restrictedGradient)" stroke="#007bff" stroke-width="3" rx="15"/>
-  <text x="590" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#004085">
+  </text><rect width="320" height="220" x="430" y="70" fill="url(#b)" stroke="#007bff" stroke-width="3" rx="15"/><text x="590" y="100" fill="#004085" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     2. Begrenset Anbudskonkurranse
-  </text>
-  
-
-  <circle cx="590" cy="140" r="25" fill="#007bff" opacity="0.3"/>
-  <rect x="575" y="125" width="30" height="30" fill="none" stroke="#007bff" stroke-width="3"/>
-  <circle cx="590" cy="140" r="8" fill="#007bff"/>
-  <path d="M582 132 L598 148 M598 132 L582 148" stroke="#007bff" stroke-width="2"/>
-  
-  <text x="590" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#004085">
+  </text><circle cx="590" cy="140" r="25" fill="#007bff" opacity=".3"/><path fill="none" stroke="#007bff" stroke-width="3" d="M575 125h30v30h-30z"/><circle cx="590" cy="140" r="8" fill="#007bff"/><path stroke="#007bff" stroke-width="2" d="m582 132 16 16m0-16-16 16"/><text x="590" y="180" fill="#004085" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kjennetegn:
-  </text>
-  <text x="450" y="200" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="200" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Prekvalifisering av leverandører
-  </text>
-  <text x="450" y="215" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="215" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Kun inviterte kan levere tilbud
-  </text>
-  <text x="450" y="230" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="230" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Krever spesialkompetanse
-  </text>
-  <text x="450" y="245" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="245" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Komplekse anskaffelser
-  </text>
-  <text x="450" y="260" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="260" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Høyere kvalitetskrav
-  </text>
-  <text x="450" y="275" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="275" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Redusert antall tilbydere
-  </text>
-  
-
-  <rect x="50" y="320" width="320" height="220" fill="url(#negotiationGradient)" stroke="#ffc107" stroke-width="3" rx="15"/>
-  <text x="210" y="350" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="320" height="220" x="50" y="320" fill="url(#c)" stroke="#ffc107" stroke-width="3" rx="15"/><text x="210" y="350" fill="#856404" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     3. Konkurranse med Forhandling
-  </text>
-  
-
-  <circle cx="210" cy="390" r="25" fill="#ffc107" opacity="0.3"/>
-  <path d="M195 385 Q210 375 225 385 M195 395 Q210 405 225 395" stroke="#ffc107" stroke-width="3" fill="none"/>
-  <circle cx="200" cy="390" r="3" fill="#ffc107"/>
-  <circle cx="220" cy="390" r="3" fill="#ffc107"/>
-  
-  <text x="210" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><circle cx="210" cy="390" r="25" fill="#ffc107" opacity=".3"/><path fill="none" stroke="#ffc107" stroke-width="3" d="M195 385q15-10 30 0m-30 10q15 10 30 0"/><circle cx="200" cy="390" r="3" fill="#ffc107"/><circle cx="220" cy="390" r="3" fill="#ffc107"/><text x="210" y="430" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kjennetegn:
-  </text>
-  <text x="70" y="450" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="70" y="450" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Mulighet for forhandlinger
-  </text>
-  <text x="70" y="465" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="70" y="465" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Krever særskilt begrunnelse
-  </text>
-  <text x="70" y="480" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="70" y="480" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Komplekse tekniske løsninger
-  </text>
-  <text x="70" y="495" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="70" y="495" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Innovative anskaffelser
-  </text>
-  <text x="70" y="510" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="70" y="510" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Fleksibel tilnærming
-  </text>
-  <text x="70" y="525" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="70" y="525" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Høyere administrativ belastning
-  </text>
-  
-
-  <rect x="430" y="320" width="320" height="220" fill="url(#dialogGradient)" stroke="#dc3545" stroke-width="3" rx="15"/>
-  <text x="590" y="350" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#721c24">
+  </text><rect width="320" height="220" x="430" y="320" fill="url(#d)" stroke="#dc3545" stroke-width="3" rx="15"/><text x="590" y="350" fill="#721c24" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     4. Konkurransepreget Dialog
-  </text>
-  
-
-  <circle cx="590" cy="390" r="25" fill="#dc3545" opacity="0.3"/>
-  <ellipse cx="580" cy="385" rx="12" ry="8" fill="none" stroke="#dc3545" stroke-width="2"/>
-  <ellipse cx="600" cy="395" rx="12" ry="8" fill="none" stroke="#dc3545" stroke-width="2"/>
-  <path d="M575 390 L585 395 M595 390 L605 385" stroke="#dc3545" stroke-width="2"/>
-  
-  <text x="590" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
+  </text><circle cx="590" cy="390" r="25" fill="#dc3545" opacity=".3"/><ellipse cx="580" cy="385" fill="none" stroke="#dc3545" stroke-width="2" rx="12" ry="8"/><ellipse cx="600" cy="395" fill="none" stroke="#dc3545" stroke-width="2" rx="12" ry="8"/><path stroke="#dc3545" stroke-width="2" d="m575 390 10 5m10-5 10-5"/><text x="590" y="430" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kjennetegn:
-  </text>
-  <text x="450" y="450" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="450" y="450" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Dialog mellom parter
-  </text>
-  <text x="450" y="465" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="450" y="465" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Løsning ikke kjent på forhånd
-  </text>
-  <text x="450" y="480" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="450" y="480" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Mest fleksible prosedyre
-  </text>
-  <text x="450" y="495" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="450" y="495" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Innovative prosjekter
-  </text>
-  <text x="450" y="510" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="450" y="510" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Høy grad av tilpasning
-  </text>
-  <text x="450" y="525" font-family="Arial, sans-serif" font-size="11" fill="#721c24">
+  </text><text x="450" y="525" fill="#721c24" font-family="Arial, sans-serif" font-size="11">
     • Lengste prosess
-  </text>
-  
-
-  <rect x="50" y="560" width="700" height="30" fill="#e9ecef" stroke="#6c757d" stroke-width="1"/>
-  <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><path fill="#e9ecef" stroke="#6c757d" d="M50 560h700v30H50z"/><text x="400" y="580" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Valg av prosedyre avhenger av anskaffelsens kompleksitet, verdi og markedssituasjon
-  </text>
-</svg>
+  </text></svg>

@@ -1,66 +1,27 @@
-<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="400" fill="#f8f9fa"/>
-  
-
-  <rect x="50" y="50" width="700" height="80" fill="#2c3e50" rx="10"/>
-  
-
-  <text x="400" y="100" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400"><path fill="#f8f9fa" d="M0 0h800v400H0z"/><rect width="700" height="80" x="50" y="50" fill="#2c3e50" rx="10"/><text x="400" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Fakturanummer
-  </text>
-  
-
-  <text x="400" y="160" text-anchor="middle" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18">
+  </text><text x="400" y="160" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">
     Unik identifikator for hver faktura
-  </text>
-  
-
-  <g transform="translate(100, 200)">
-
-    <rect x="0" y="0" width="150" height="60" fill="#3498db" rx="5"/>
-    <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><g transform="translate(100 200)"><rect width="150" height="60" fill="#3498db" rx="5"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2024-001
-    </text>
-    <text x="75" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       År + Nummer
-    </text>
-    
-
-    <rect x="200" y="0" width="150" height="60" fill="#e74c3c" rx="5"/>
-    <text x="275" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="150" height="60" x="200" fill="#e74c3c" rx="5"/><text x="275" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       F-1001
-    </text>
-    <text x="275" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="275" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Prefiks + Nummer
-    </text>
-    
-
-    <rect x="400" y="0" width="150" height="60" fill="#27ae60" rx="5"/>
-    <text x="475" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="150" height="60" x="400" fill="#27ae60" rx="5"/><text x="475" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       OSLO-001
-    </text>
-    <text x="475" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="475" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Avdeling + Nummer
-    </text>
-  </g>
-  
-
-  <g transform="translate(100, 300)">
-    <text x="0" y="0" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text></g><g fill="#2c3e50" font-family="Arial, sans-serif"><text font-size="16" font-weight="bold" transform="translate(100 300)">
       Lovkrav:
-    </text>
-    <text x="0" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+    </text><text y="25" font-size="14" transform="translate(100 300)">
       ✓ Unikt nummer
-    </text>
-    <text x="150" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="150" y="25" font-size="14" transform="translate(100 300)">
       ✓ Maskinell tildeling
-    </text>
-    <text x="320" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="320" y="25" font-size="14" transform="translate(100 300)">
       ✓ Sammenhengende serie
-    </text>
-    <text x="520" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="520" y="25" font-size="14" transform="translate(100 300)">
       ✓ Permanent
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

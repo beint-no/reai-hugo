@@ -1,112 +1,41 @@
-<svg width="650" height="450" viewBox="0 0 650 450" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#357abd;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="650" height="450" fill="url(#bgGradient)"/>
-  
-
-  <rect x="0" y="0" width="650" height="60" fill="url(#headerGradient)"/>
-  <text x="325" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="450" viewBox="0 0 650 450"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1"/><stop offset="100%" style="stop-color:#357abd;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h650v450H0z"/><path fill="url(#b)" d="M0 0h650v60H0z"/><text x="325" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Regnskapsføring av utsatt skattfordel
-  </text>
-  
-
-  <rect x="50" y="80" width="550" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
-  <text x="325" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><rect width="550" height="140" x="50" y="80" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="8"/><text x="325" y="105" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Førstegangsregistrering
-  </text>
-  
-
-  <rect x="80" y="120" width="200" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="4"/>
-  <text x="180" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+  </text><rect width="200" height="80" x="80" y="120" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="4"/><text x="180" y="140" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     DEBET
-  </text>
-  <text x="180" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1b5e20">
+  </text><text x="180" y="160" fill="#1b5e20" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Konto 1070
-  </text>
-  <text x="180" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1b5e20">
+  </text><text x="180" y="175" fill="#1b5e20" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Utsatt skattfordel
-  </text>
-  <text x="180" y="190" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#388e3c">
+  </text><text x="180" y="190" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     125 000
-  </text>
-  
-
-  <rect x="370" y="120" width="200" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="4"/>
-  <text x="470" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e65100">
+  </text><rect width="200" height="80" x="370" y="120" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="4"/><text x="470" y="140" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     KREDIT
-  </text>
-  <text x="470" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#bf360c">
+  </text><text x="470" y="160" fill="#bf360c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Konto 7740
-  </text>
-  <text x="470" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#bf360c">
+  </text><text x="470" y="175" fill="#bf360c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Skatteinntekt
-  </text>
-  <text x="470" y="190" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#f57c00">
+  </text><text x="470" y="190" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     125 000
-  </text>
-  
-
-  <path d="M 290 160 L 360 160" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="50" y="250" width="550" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
-  <text x="325" y="275" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#c)" d="M290 160h70"/><rect width="550" height="140" x="50" y="250" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="8"/><text x="325" y="275" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Reversering ved realisering
-  </text>
-  
-
-  <rect x="80" y="290" width="200" height="80" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="4"/>
-  <text x="180" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c62828">
+  </text><rect width="200" height="80" x="80" y="290" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="4"/><text x="180" y="310" fill="#c62828" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     DEBET
-  </text>
-  <text x="180" y="330" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#b71c1c">
+  </text><text x="180" y="330" fill="#b71c1c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Konto 7750
-  </text>
-  <text x="180" y="345" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#b71c1c">
+  </text><text x="180" y="345" fill="#b71c1c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Skattekostnad
-  </text>
-  <text x="180" y="360" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#d32f2f">
+  </text><text x="180" y="360" fill="#d32f2f" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     125 000
-  </text>
-  
-
-  <rect x="370" y="290" width="200" height="80" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="4"/>
-  <text x="470" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6a1b9a">
+  </text><rect width="200" height="80" x="370" y="290" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="4"/><text x="470" y="310" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     KREDIT
-  </text>
-  <text x="470" y="330" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a148c">
+  </text><text x="470" y="330" fill="#4a148c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Konto 1070
-  </text>
-  <text x="470" y="345" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a148c">
+  </text><text x="470" y="345" fill="#4a148c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Utsatt skattfordel
-  </text>
-  <text x="470" y="360" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+  </text><text x="470" y="360" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     125 000
-  </text>
-  
-
-  <path d="M 290 330 L 360 330" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="100" y="400" width="450" height="30" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="4"/>
-  <text x="325" y="420" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1976d2">
+  </text><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#c)" d="M290 330h70"/><rect width="450" height="30" x="100" y="400" fill="#e3f2fd" stroke="#2196f3" rx="4"/><text x="325" y="420" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Reversering skjer når de midlertidige forskjellene utlignes
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

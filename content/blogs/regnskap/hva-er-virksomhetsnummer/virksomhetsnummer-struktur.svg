@@ -1,99 +1,39 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <rect width="800" height="500" fill="#f8fafc"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><defs><linearGradient id="a" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/><stop offset="100%" style="stop-color:#059669;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1"/><stop offset="100%" style="stop-color:#d97706;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#1e40af" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Virksomhetsnummer Struktur og Format
-  </text>
-  
-
-  <text x="400" y="100" text-anchor="middle" font-family="Arial, monospace" font-size="48" font-weight="bold" fill="#1e40af">
+  </text><text x="400" y="100" fill="#1e40af" font-family="Arial, monospace" font-size="48" font-weight="bold" text-anchor="middle">
     123 456 789
-  </text>
-  
-
-
-  <rect x="200" y="130" width="120" height="80" fill="url(#blueGrad)" rx="8"/>
-  <text x="260" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="120" height="80" x="200" y="130" fill="url(#a)" rx="8"/><text x="260" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Gruppe 1
-  </text>
-  <text x="260" y="175" text-anchor="middle" font-family="Arial, monospace" font-size="24" font-weight="bold" fill="white">
+  </text><text x="260" y="175" fill="#fff" font-family="Arial, monospace" font-size="24" font-weight="bold" text-anchor="middle">
     123
-  </text>
-  <text x="260" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="260" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     3 siffer
-  </text>
-  
-
-  <rect x="340" y="130" width="120" height="80" fill="url(#greenGrad)" rx="8"/>
-  <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="120" height="80" x="340" y="130" fill="url(#b)" rx="8"/><text x="400" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Gruppe 2
-  </text>
-  <text x="400" y="175" text-anchor="middle" font-family="Arial, monospace" font-size="24" font-weight="bold" fill="white">
+  </text><text x="400" y="175" fill="#fff" font-family="Arial, monospace" font-size="24" font-weight="bold" text-anchor="middle">
     456
-  </text>
-  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     3 siffer
-  </text>
-  
-
-  <rect x="480" y="130" width="120" height="80" fill="url(#orangeGrad)" rx="8"/>
-  <text x="540" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="120" height="80" x="480" y="130" fill="url(#c)" rx="8"/><text x="540" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Gruppe 3
-  </text>
-  <text x="540" y="175" text-anchor="middle" font-family="Arial, monospace" font-size="24" font-weight="bold" fill="white">
+  </text><text x="540" y="175" fill="#fff" font-family="Arial, monospace" font-size="24" font-weight="bold" text-anchor="middle">
     789
-  </text>
-  <text x="540" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="540" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     3 siffer
-  </text>
-  
-
-  <rect x="100" y="240" width="600" height="120" fill="white" stroke="#cbd5e1" stroke-width="1" rx="8"/>
-  
-  <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
+  </text><rect width="600" height="120" x="100" y="240" fill="#fff" stroke="#cbd5e1" rx="8"/><text x="400" y="270" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Format og Regler
-  </text>
-  
-  <text x="120" y="295" font-family="Arial, sans-serif" font-size="14" fill="#374151">
+  </text><text x="120" y="295" fill="#374151" font-family="Arial, sans-serif" font-size="14">
     • <tspan font-weight="bold">Første gruppe:</tspan> 100-999 (kan ikke starte med 0)
-  </text>
-  <text x="120" y="315" font-family="Arial, sans-serif" font-size="14" fill="#374151">
+  </text><text x="120" y="315" fill="#374151" font-family="Arial, sans-serif" font-size="14">
     • <tspan font-weight="bold">Andre gruppe:</tspan> 000-999 (alle kombinasjoner tillatt)
-  </text>
-  <text x="120" y="335" font-family="Arial, sans-serif" font-size="14" fill="#374151">
+  </text><text x="120" y="335" fill="#374151" font-family="Arial, sans-serif" font-size="14">
     • <tspan font-weight="bold">Tredje gruppe:</tspan> 000-999 (inkluderer kontrollsiffer)
-  </text>
-  
-
-  <rect x="100" y="380" width="600" height="100" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="8"/>
-  
-  <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">
+  </text><rect width="600" height="100" x="100" y="380" fill="#fef3c7" stroke="#f59e0b" rx="8"/><text x="400" y="405" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Kontrollsiffer (9. siffer)
-  </text>
-  
-  <text x="120" y="430" font-family="Arial, sans-serif" font-size="13" fill="#92400e">
+  </text><text x="120" y="430" fill="#92400e" font-family="Arial, sans-serif" font-size="13">
     Det siste sifferet (9) er et kontrollsiffer som beregnes matematisk fra de første 8 sifrene.
-  </text>
-  <text x="120" y="450" font-family="Arial, sans-serif" font-size="13" fill="#92400e">
+  </text><text x="120" y="450" fill="#92400e" font-family="Arial, sans-serif" font-size="13">
     Dette sikrer at virksomhetsnummeret er gyldig og reduserer feil ved manuell inntasting.
-  </text>
-  <text x="120" y="470" font-family="Arial, sans-serif" font-size="13" fill="#92400e">
+  </text><text x="120" y="470" fill="#92400e" font-family="Arial, sans-serif" font-size="13">
     Hvis kontrollsifferet ikke stemmer, er nummeret ugyldig.
-  </text>
-</svg>
+  </text></svg>

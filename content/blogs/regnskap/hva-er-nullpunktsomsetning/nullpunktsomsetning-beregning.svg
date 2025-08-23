@@ -1,110 +1,23 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="method1Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#007bff;stop-opacity:0.6" />
-    </linearGradient>
-    <linearGradient id="method2Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#28a745;stop-opacity:0.6" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:.8"/><stop offset="100%" style="stop-color:#007bff;stop-opacity:.6"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#28a745;stop-opacity:.6"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Beregningsmetoder for Nullpunktsomsetning
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="220" fill="url(#method1Gradient)" stroke="#007bff" stroke-width="2" rx="15"/>
-  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="700" height="220" x="50" y="60" fill="url(#b)" stroke="#007bff" stroke-width="2" rx="15"/><text x="400" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     METODE 1: DEKNINGSBIDRAGSPROSENT
-  </text>
-  
-
-  <rect x="100" y="100" width="600" height="40" fill="white" stroke="#007bff" stroke-width="2" rx="8"/>
-  <text x="400" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#007bff">
+  </text><rect width="600" height="40" x="100" y="100" fill="#fff" stroke="#007bff" stroke-width="2" rx="8"/><text x="400" y="125" fill="#007bff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Nullpunktsomsetning = Faste kostnader ÷ Dekningsbidragsprosent
-  </text>
-  
-
-  <rect x="100" y="160" width="280" height="100" fill="rgba(255,255,255,0.9)" stroke="#007bff" stroke-width="1" rx="5"/>
-  <text x="240" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">
+  </text><rect width="280" height="100" x="100" y="160" fill="rgba(255,255,255,0.9)" stroke="#007bff" rx="5"/><text x="240" y="180" fill="#007bff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Gitt data:
-  </text>
-  <text x="110" y="200" font-family="Arial, sans-serif" font-size="12" fill="#495057">• Faste kostnader: 500.000 kr</text>
-  <text x="110" y="215" font-family="Arial, sans-serif" font-size="12" fill="#495057">• Salgspris per enhet: 200 kr</text>
-  <text x="110" y="230" font-family="Arial, sans-serif" font-size="12" fill="#495057">• Variable kostnader: 120 kr</text>
-  <text x="110" y="245" font-family="Arial, sans-serif" font-size="12" fill="#495057">• Dekningsbidrag: 80 kr (40%)</text>
-  
-
-  <rect x="420" y="160" width="280" height="100" fill="rgba(255,255,255,0.9)" stroke="#007bff" stroke-width="1" rx="5"/>
-  <text x="560" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">
+  </text><text x="110" y="200" fill="#495057" font-family="Arial, sans-serif" font-size="12">• Faste kostnader: 500.000 kr</text><text x="110" y="215" fill="#495057" font-family="Arial, sans-serif" font-size="12">• Salgspris per enhet: 200 kr</text><text x="110" y="230" fill="#495057" font-family="Arial, sans-serif" font-size="12">• Variable kostnader: 120 kr</text><text x="110" y="245" fill="#495057" font-family="Arial, sans-serif" font-size="12">• Dekningsbidrag: 80 kr (40%)</text><rect width="280" height="100" x="420" y="160" fill="rgba(255,255,255,0.9)" stroke="#007bff" rx="5"/><text x="560" y="180" fill="#007bff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Beregning:
-  </text>
-  <text x="430" y="200" font-family="Arial, sans-serif" font-size="12" fill="#495057">Dekningsbidragsprosent:</text>
-  <text x="430" y="215" font-family="Arial, sans-serif" font-size="12" fill="#495057">(80 ÷ 200) × 100 = 40%</text>
-  <text x="430" y="235" font-family="Arial, sans-serif" font-size="12" fill="#495057">Nullpunktsomsetning:</text>
-  <text x="430" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">500.000 ÷ 0,40 = 1.250.000 kr</text>
-  
-
-  <rect x="50" y="300" width="700" height="220" fill="url(#method2Gradient)" stroke="#28a745" stroke-width="2" rx="15"/>
-  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="430" y="200" fill="#495057" font-family="Arial, sans-serif" font-size="12">Dekningsbidragsprosent:</text><text x="430" y="215" fill="#495057" font-family="Arial, sans-serif" font-size="12">(80 ÷ 200) × 100 = 40%</text><text x="430" y="235" fill="#495057" font-family="Arial, sans-serif" font-size="12">Nullpunktsomsetning:</text><text x="430" y="250" fill="#007bff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">500.000 ÷ 0,40 = 1.250.000 kr</text><rect width="700" height="220" x="50" y="300" fill="url(#c)" stroke="#28a745" stroke-width="2" rx="15"/><text x="400" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     METODE 2: ENHETSBASERT TILNAERMING
-  </text>
-  
-
-  <rect x="100" y="340" width="600" height="40" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
-  <text x="400" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
+  </text><rect width="600" height="40" x="100" y="340" fill="#fff" stroke="#28a745" stroke-width="2" rx="8"/><text x="400" y="365" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Nullpunktsomsetning = (Faste kostnader ÷ Dekningsbidrag per enhet) × Salgspris
-  </text>
-  
-
-  <rect x="100" y="400" width="280" height="100" fill="rgba(255,255,255,0.9)" stroke="#28a745" stroke-width="1" rx="5"/>
-  <text x="240" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+  </text><rect width="280" height="100" x="100" y="400" fill="rgba(255,255,255,0.9)" stroke="#28a745" rx="5"/><text x="240" y="420" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Steg 1: Enheter
-  </text>
-  <text x="110" y="440" font-family="Arial, sans-serif" font-size="12" fill="#495057">Nullpunkt i enheter:</text>
-  <text x="110" y="455" font-family="Arial, sans-serif" font-size="12" fill="#495057">500.000 ÷ 80 = 6.250 enheter</text>
-  <text x="110" y="475" font-family="Arial, sans-serif" font-size="12" fill="#495057">Dette er antall enheter som</text>
-  <text x="110" y="490" font-family="Arial, sans-serif" font-size="12" fill="#495057">må selges for å gå i balanse</text>
-  
-
-  <rect x="420" y="400" width="280" height="100" fill="rgba(255,255,255,0.9)" stroke="#28a745" stroke-width="1" rx="5"/>
-  <text x="560" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+  </text><text x="110" y="440" fill="#495057" font-family="Arial, sans-serif" font-size="12">Nullpunkt i enheter:</text><text x="110" y="455" fill="#495057" font-family="Arial, sans-serif" font-size="12">500.000 ÷ 80 = 6.250 enheter</text><text x="110" y="475" fill="#495057" font-family="Arial, sans-serif" font-size="12">Dette er antall enheter som</text><text x="110" y="490" fill="#495057" font-family="Arial, sans-serif" font-size="12">må selges for å gå i balanse</text><rect width="280" height="100" x="420" y="400" fill="rgba(255,255,255,0.9)" stroke="#28a745" rx="5"/><text x="560" y="420" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Steg 2: Omsetning
-  </text>
-  <text x="430" y="440" font-family="Arial, sans-serif" font-size="12" fill="#495057">Nullpunktsomsetning:</text>
-  <text x="430" y="455" font-family="Arial, sans-serif" font-size="12" fill="#495057">6.250 × 200 kr = 1.250.000 kr</text>
-  <text x="430" y="475" font-family="Arial, sans-serif" font-size="12" fill="#495057">Dette er omsetningen som</text>
-  <text x="430" y="490" font-family="Arial, sans-serif" font-size="12" fill="#495057">trengs for å dekke alle kostnader</text>
-  
-
-  <rect x="100" y="540" width="600" height="50" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+  </text><text x="430" y="440" fill="#495057" font-family="Arial, sans-serif" font-size="12">Nullpunktsomsetning:</text><text x="430" y="455" fill="#495057" font-family="Arial, sans-serif" font-size="12">6.250 × 200 kr = 1.250.000 kr</text><text x="430" y="475" fill="#495057" font-family="Arial, sans-serif" font-size="12">Dette er omsetningen som</text><text x="430" y="490" fill="#495057" font-family="Arial, sans-serif" font-size="12">trengs for å dekke alle kostnader</text><rect width="600" height="50" x="100" y="540" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/><text x="400" y="560" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ✓ VERIFIKASJON: Begge metoder gir samme resultat
-  </text>
-  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+  </text><text x="400" y="580" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Nullpunktsomsetning = 1.250.000 kr | Antall enheter = 6.250 stk
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d" />
-    </marker>
-  </defs>
-  
-
-  <line x1="300" y1="280" x2="350" y2="540" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead2)" stroke-dasharray="5,5"/>
-  
-
-  <line x1="500" y1="520" x2="450" y2="540" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowhead2)" stroke-dasharray="5,5"/>
-</svg>
+  </text><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke="#6c757d" stroke-dasharray="5,5" stroke-width="2" marker-end="url(#d)" d="m300 280 50 260"/><path stroke="#6c757d" stroke-dasharray="5,5" stroke-width="2" marker-end="url(#d)" d="m500 520-50 20"/></svg>

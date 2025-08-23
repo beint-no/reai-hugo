@@ -1,87 +1,27 @@
-<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="500" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="700" height="60" fill="url(#blueGrad)"/>
-  <text x="350" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h700v500H0z"/><path fill="url(#b)" d="M0 0h700v60H0z"/><text x="350" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Omsetning - Oversikt
-  </text>
-  
-
-  <circle cx="350" cy="200" r="80" fill="#0066cc" stroke="#004499" stroke-width="3"/>
-  <text x="350" y="195" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="350" cy="200" r="80" fill="#06c" stroke="#049" stroke-width="3"/><text x="350" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     OMSETNING
-  </text>
-  <text x="350" y="215" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="350" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Bruttoverdi inkl. MVA
-  </text>
-  
-
-
-  <rect x="280" y="80" width="140" height="50" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="5"/>
-  <text x="350" y="100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="140" height="50" x="280" y="80" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="5"/><text x="350" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Bruttoverdi
-  </text>
-  <text x="350" y="115" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+  </text><text x="350" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Inkl. MVA &amp; avgifter
-  </text>
-  <line x1="350" y1="130" x2="350" y2="120" stroke="#28a745" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="480" y="175" width="140" height="50" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="5"/>
-  <text x="550" y="195" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path stroke="#28a745" stroke-width="2" marker-end="url(#c)" d="M350 130v-10"/><rect width="140" height="50" x="480" y="175" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="5"/><text x="550" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Salgspris
-  </text>
-  <text x="550" y="210" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+  </text><text x="550" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Pris kunden betaler
-  </text>
-  <line x1="480" y1="200" x2="430" y2="200" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="280" y="320" width="140" height="50" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="5"/>
-  <text x="350" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path stroke="#dc3545" stroke-width="2" marker-end="url(#c)" d="M480 200h-50"/><rect width="140" height="50" x="280" y="320" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="5"/><text x="350" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ordinær drift
-  </text>
-  <text x="350" y="355" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+  </text><text x="350" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Normal virksomhet
-  </text>
-  <line x1="350" y1="320" x2="350" y2="280" stroke="#ffc107" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="80" y="175" width="140" height="50" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="5"/>
-  <text x="150" y="195" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path stroke="#ffc107" stroke-width="2" marker-end="url(#c)" d="M350 320v-40"/><rect width="140" height="50" x="80" y="175" fill="#6f42c1" stroke="#5a32a3" stroke-width="2" rx="5"/><text x="150" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Periodisering
-  </text>
-  <text x="150" y="210" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+  </text><text x="150" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Bestemt tidsperiode
-  </text>
-  <line x1="220" y1="200" x2="270" y2="200" stroke="#6f42c1" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="50" y="420" width="600" height="60" fill="white" stroke="#0066cc" stroke-width="2" rx="5"/>
-  <text x="350" y="440" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><path stroke="#6f42c1" stroke-width="2" marker-end="url(#c)" d="M220 200h50"/><rect width="600" height="60" x="50" y="420" fill="#fff" stroke="#06c" stroke-width="2" rx="5"/><text x="350" y="440" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Eksempel: Salg av varer for 80 000 kr + 20 000 kr MVA = 100 000 kr omsetning
-  </text>
-  <text x="350" y="460" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+  </text><text x="350" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Omsetning er det totale beløpet kunden betaler, inkludert alle avgifter
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#333" />
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#333" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

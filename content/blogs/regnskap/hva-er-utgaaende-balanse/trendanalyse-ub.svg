@@ -1,169 +1,43 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="chartGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f8fafc;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff;stop-opacity:1"/><stop offset="100%" style="stop-color:#f8fafc;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="35" fill="#1e293b" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Trendanalyse av Utgående Balanse
-  </text>
-  
-
-  <rect x="100" y="70" width="600" height="350" fill="url(#chartGradient)" stroke="#cbd5e1" stroke-width="2" rx="8"/>
-  
-
-  <text x="400" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#374151">
+  </text><rect width="600" height="350" x="100" y="70" fill="url(#b)" stroke="#cbd5e1" stroke-width="2" rx="8"/><text x="400" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Utvikling av Hovedbalanseposter (UB) 2020-2024
-  </text>
-  
-
-  <line x1="140" y1="120" x2="140" y2="380" stroke="#64748b" stroke-width="2"/>
-  
-
-  <line x1="140" y1="380" x2="680" y2="380" stroke="#64748b" stroke-width="2"/>
-  
-
-  <text x="130" y="130" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">6M</text>
-  <text x="130" y="180" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">5M</text>
-  <text x="130" y="230" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">4M</text>
-  <text x="130" y="280" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">3M</text>
-  <text x="130" y="330" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">2M</text>
-  <text x="130" y="380" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#64748b">1M</text>
-  
-
-  <text x="200" y="400" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">2020</text>
-  <text x="300" y="400" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">2021</text>
-  <text x="400" y="400" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">2022</text>
-  <text x="500" y="400" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">2023</text>
-  <text x="600" y="400" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#64748b">2024</text>
-  
-
-  <line x1="140" y1="130" x2="680" y2="130" stroke="#e2e8f0" stroke-width="1"/>
-  <line x1="140" y1="180" x2="680" y2="180" stroke="#e2e8f0" stroke-width="1"/>
-  <line x1="140" y1="230" x2="680" y2="230" stroke="#e2e8f0" stroke-width="1"/>
-  <line x1="140" y1="280" x2="680" y2="280" stroke="#e2e8f0" stroke-width="1"/>
-  <line x1="140" y1="330" x2="680" y2="330" stroke="#e2e8f0" stroke-width="1"/>
-  
-
-  <polyline points="200,280 300,260 400,240 500,210 600,180" 
-            fill="none" stroke="#3b82f6" stroke-width="3"/>
-  
-
-  <circle cx="200" cy="280" r="4" fill="#3b82f6"/>
-  <circle cx="300" cy="260" r="4" fill="#3b82f6"/>
-  <circle cx="400" cy="240" r="4" fill="#3b82f6"/>
-  <circle cx="500" cy="210" r="4" fill="#3b82f6"/>
-  <circle cx="600" cy="180" r="4" fill="#3b82f6"/>
-  
-
-  <polyline points="200,350 300,340 400,320 500,300 600,270" 
-            fill="none" stroke="#16a34a" stroke-width="3"/>
-  
-
-  <circle cx="200" cy="350" r="4" fill="#16a34a"/>
-  <circle cx="300" cy="340" r="4" fill="#16a34a"/>
-  <circle cx="400" cy="320" r="4" fill="#16a34a"/>
-  <circle cx="500" cy="300" r="4" fill="#16a34a"/>
-  <circle cx="600" cy="270" r="4" fill="#16a34a"/>
-  
-
-  <polyline points="200,320 300,310 400,300 500,290 600,280" 
-            fill="none" stroke="#dc2626" stroke-width="3"/>
-  
-
-  <circle cx="200" cy="320" r="4" fill="#dc2626"/>
-  <circle cx="300" cy="310" r="4" fill="#dc2626"/>
-  <circle cx="400" cy="300" r="4" fill="#dc2626"/>
-  <circle cx="500" cy="290" r="4" fill="#dc2626"/>
-  <circle cx="600" cy="280" r="4" fill="#dc2626"/>
-  
-
-  <rect x="480" y="120" width="180" height="80" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" rx="4"/>
-  <text x="570" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">
+  </text><path stroke="#64748b" stroke-width="2" d="M140 120v260M140 380h540"/><text x="130" y="130" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="end">6M</text><text x="130" y="180" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="end">5M</text><text x="130" y="230" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="end">4M</text><text x="130" y="280" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="end">3M</text><text x="130" y="330" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="end">2M</text><text x="130" y="380" fill="#64748b" font-family="Arial, sans-serif" font-size="10" text-anchor="end">1M</text><text x="200" y="400" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">2020</text><text x="300" y="400" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">2021</text><text x="400" y="400" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">2022</text><text x="500" y="400" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">2023</text><text x="600" y="400" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">2024</text><path stroke="#e2e8f0" d="M140 130h540M140 180h540M140 230h540M140 280h540M140 330h540"/><path fill="none" stroke="#3b82f6" stroke-width="3" d="m200 280 100-20 100-20 100-30 100-30"/><circle cx="200" cy="280" r="4" fill="#3b82f6"/><circle cx="300" cy="260" r="4" fill="#3b82f6"/><circle cx="400" cy="240" r="4" fill="#3b82f6"/><circle cx="500" cy="210" r="4" fill="#3b82f6"/><circle cx="600" cy="180" r="4" fill="#3b82f6"/><path fill="none" stroke="#16a34a" stroke-width="3" d="m200 350 100-10 100-20 100-20 100-30"/><circle cx="200" cy="350" r="4" fill="#16a34a"/><circle cx="300" cy="340" r="4" fill="#16a34a"/><circle cx="400" cy="320" r="4" fill="#16a34a"/><circle cx="500" cy="300" r="4" fill="#16a34a"/><circle cx="600" cy="270" r="4" fill="#16a34a"/><path fill="none" stroke="#dc2626" stroke-width="3" d="m200 320 100-10 100-10 100-10 100-10"/><circle cx="200" cy="320" r="4" fill="#dc2626"/><circle cx="300" cy="310" r="4" fill="#dc2626"/><circle cx="400" cy="300" r="4" fill="#dc2626"/><circle cx="500" cy="290" r="4" fill="#dc2626"/><circle cx="600" cy="280" r="4" fill="#dc2626"/><rect width="180" height="80" x="480" y="120" fill="#fff" stroke="#cbd5e1" rx="4"/><text x="570" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Balanseposter
-  </text>
-  
-
-  <line x1="500" y1="155" x2="520" y2="155" stroke="#3b82f6" stroke-width="3"/>
-  <circle cx="510" cy="155" r="3" fill="#3b82f6"/>
-  <text x="530" y="160" font-family="Arial, sans-serif" font-size="10" fill="#374151">Sum Aktiva (UB)</text>
-  
-  <line x1="500" y1="170" x2="520" y2="170" stroke="#16a34a" stroke-width="3"/>
-  <circle cx="510" cy="170" r="3" fill="#16a34a"/>
-  <text x="530" y="175" font-family="Arial, sans-serif" font-size="10" fill="#374151">Egenkapital (UB)</text>
-  
-  <line x1="500" y1="185" x2="520" y2="185" stroke="#dc2626" stroke-width="3"/>
-  <circle cx="510" cy="185" r="3" fill="#dc2626"/>
-  <text x="530" y="190" font-family="Arial, sans-serif" font-size="10" fill="#374151">Sum Gjeld (UB)</text>
-  
-
-  <rect x="50" y="450" width="230" height="130" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="8"/>
-  <text x="165" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0c4a6e">
+  </text><path stroke="#3b82f6" stroke-width="3" d="M500 155h20"/><circle cx="510" cy="155" r="3" fill="#3b82f6"/><text x="530" y="160" fill="#374151" font-family="Arial, sans-serif" font-size="10">Sum Aktiva (UB)</text><path stroke="#16a34a" stroke-width="3" d="M500 170h20"/><circle cx="510" cy="170" r="3" fill="#16a34a"/><text x="530" y="175" fill="#374151" font-family="Arial, sans-serif" font-size="10">Egenkapital (UB)</text><path stroke="#dc2626" stroke-width="3" d="M500 185h20"/><circle cx="510" cy="185" r="3" fill="#dc2626"/><text x="530" y="190" fill="#374151" font-family="Arial, sans-serif" font-size="10">Sum Gjeld (UB)</text><rect width="230" height="130" x="50" y="450" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="2" rx="8"/><text x="165" y="475" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Vekstanalyse
-  </text>
-  <text x="65" y="495" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+  </text><text x="65" y="495" fill="#075985" font-family="Arial, sans-serif" font-size="10">
     • Aktiva vekst: 50% (2020-2024)
-  </text>
-  <text x="65" y="510" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+  </text><text x="65" y="510" fill="#075985" font-family="Arial, sans-serif" font-size="10">
     • Egenkapital vekst: 35%
-  </text>
-  <text x="65" y="525" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+  </text><text x="65" y="525" fill="#075985" font-family="Arial, sans-serif" font-size="10">
     • Gjeld vekst: 25%
-  </text>
-  <text x="65" y="550" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#075985">
+  </text><text x="65" y="550" fill="#075985" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Konklusjon:
-  </text>
-  <text x="65" y="565" font-family="Arial, sans-serif" font-size="10" fill="#075985">
+  </text><text x="65" y="565" fill="#075985" font-family="Arial, sans-serif" font-size="10">
     Sunn vekst med økt egenkapitalandel
-  </text>
-  
-  <rect x="300" y="450" width="230" height="130" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/>
-  <text x="415" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#92400e">
+  </text><rect width="230" height="130" x="300" y="450" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/><text x="415" y="475" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Struktur Endringer
-  </text>
-  <text x="315" y="495" font-family="Arial, sans-serif" font-size="10" fill="#451a03">
+  </text><text x="315" y="495" fill="#451a03" font-family="Arial, sans-serif" font-size="10">
     • Egenkapitalandel økt fra 55% til 62%
-  </text>
-  <text x="315" y="510" font-family="Arial, sans-serif" font-size="10" fill="#451a03">
+  </text><text x="315" y="510" fill="#451a03" font-family="Arial, sans-serif" font-size="10">
     • Gjeldsgrad redusert fra 45% til 38%
-  </text>
-  <text x="315" y="525" font-family="Arial, sans-serif" font-size="10" fill="#451a03">
+  </text><text x="315" y="525" fill="#451a03" font-family="Arial, sans-serif" font-size="10">
     • Bedre soliditet over tid
-  </text>
-  <text x="315" y="550" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#451a03">
+  </text><text x="315" y="550" fill="#451a03" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Konklusjon:
-  </text>
-  <text x="315" y="565" font-family="Arial, sans-serif" font-size="10" fill="#451a03">
+  </text><text x="315" y="565" fill="#451a03" font-family="Arial, sans-serif" font-size="10">
     Forbedret finansiell stabilitet
-  </text>
-  
-  <rect x="550" y="450" width="230" height="130" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/>
-  <text x="665" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#166534">
+  </text><rect width="230" height="130" x="550" y="450" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/><text x="665" y="475" fill="#166534" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Nøkkeltall Utvikling
-  </text>
-  <text x="565" y="495" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+  </text><text x="565" y="495" fill="#14532d" font-family="Arial, sans-serif" font-size="10">
     • Likviditetsgrad stabil ~2.1
-  </text>
-  <text x="565" y="510" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+  </text><text x="565" y="510" fill="#14532d" font-family="Arial, sans-serif" font-size="10">
     • ROE økt fra 12% til 18%
-  </text>
-  <text x="565" y="525" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+  </text><text x="565" y="525" fill="#14532d" font-family="Arial, sans-serif" font-size="10">
     • Totalkapitalrentabilitet: 15%
-  </text>
-  <text x="565" y="550" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#14532d">
+  </text><text x="565" y="550" fill="#14532d" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Konklusjon:
-  </text>
-  <text x="565" y="565" font-family="Arial, sans-serif" font-size="10" fill="#14532d">
+  </text><text x="565" y="565" fill="#14532d" font-family="Arial, sans-serif" font-size="10">
     Forbedret lønnsomhet og effektivitet
-  </text>
-</svg>
+  </text></svg>

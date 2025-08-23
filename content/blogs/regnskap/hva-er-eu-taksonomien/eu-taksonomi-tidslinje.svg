@@ -1,233 +1,101 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e8f5e8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#81c784;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2e7d32">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e8f5e8;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#81c784;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#2e7d32" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     EU-taksonomi Implementeringstidslinje
-  </text>
-  
-
-  <line x1="80" y1="100" x2="720" y2="100" stroke="url(#timelineGradient)" stroke-width="6"/>
-  
-
-  <g transform="translate(80, 100)">
-    <circle cx="0" cy="0" r="8" fill="#1b5e20"/>
-    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1b5e20">
+  </text><path stroke="url(#b)" stroke-width="6" d="M80 100h640"/><g transform="translate(80 100)"><circle r="8" fill="#1b5e20"/><text y="-25" fill="#1b5e20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2020
-    </text>
-    <rect x="-60" y="20" width="120" height="60" fill="white" stroke="#4caf50" stroke-width="2" rx="5"/>
-    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32">
+    </text><rect width="120" height="60" x="-60" y="20" fill="#fff" stroke="#4caf50" stroke-width="2" rx="5"/><text y="35" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Trådte i kraft
-    </text>
-    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="50" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       12. juli 2020
-    </text>
-    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="65" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Grunnleggende regelverk
-    </text>
-  </g>
-  
-
-  <g transform="translate(200, 100)">
-    <circle cx="0" cy="0" r="8" fill="#2e7d32"/>
-    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
+    </text></g><g transform="translate(200 100)"><circle r="8" fill="#2e7d32"/><text y="-25" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2022
-    </text>
-    <rect x="-60" y="20" width="120" height="80" fill="white" stroke="#4caf50" stroke-width="2" rx="5"/>
-    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32">
+    </text><rect width="120" height="80" x="-60" y="20" fill="#fff" stroke="#4caf50" stroke-width="2" rx="5"/><text y="35" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Første kriterier
-    </text>
-    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="50" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Klimamål 1 &amp; 2
-    </text>
-    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="65" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Tekniske kriterier
-    </text>
-    <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="80" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       publisert
-    </text>
-  </g>
-  
-
-  <g transform="translate(350, 100)">
-    <circle cx="0" cy="0" r="10" fill="#4caf50"/>
-    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4caf50">
+    </text></g><g transform="translate(350 100)"><circle r="10" fill="#4caf50"/><text y="-25" fill="#4caf50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2025
-    </text>
-    <rect x="-70" y="20" width="140" height="100" fill="#e8f5e8" stroke="#4caf50" stroke-width="3" rx="5"/>
-    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><rect width="140" height="100" x="-70" y="20" fill="#e8f5e8" stroke="#4caf50" stroke-width="3" rx="5"/><text y="35" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Store børsnoterte
-    </text>
-    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2e7d32">
+    </text><text y="50" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Rapportering starter
-    </text>
-    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="65" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       (for 2024-data)
-    </text>
-    <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="80" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Allerede omfattet
-    </text>
-    <text x="0" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="95" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       av NFRD
-    </text>
-  </g>
-  
-
-  <g transform="translate(480, 100)">
-    <circle cx="0" cy="0" r="10" fill="#66bb6a"/>
-    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#66bb6a">
+    </text></g><g transform="translate(480 100)"><circle r="10" fill="#66bb6a"/><text y="-25" fill="#66bb6a" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2026
-    </text>
-    <rect x="-70" y="20" width="140" height="120" fill="#f1f8e9" stroke="#66bb6a" stroke-width="3" rx="5"/>
-    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><rect width="140" height="120" x="-70" y="20" fill="#f1f8e9" stroke="#66bb6a" stroke-width="3" rx="5"/><text y="35" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Store ikke-børsnoterte
-    </text>
-    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2e7d32">
+    </text><text y="50" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Rapportering starter
-    </text>
-    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="65" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       (for 2025-data)
-    </text>
-    <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="80" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       ≥250 ansatte OG
-    </text>
-    <text x="0" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="95" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       (omsetning &gt;€40m ELLER
-    </text>
-    <text x="0" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="110" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       balanse &gt;€20m)
-    </text>
-  </g>
-  
-
-  <g transform="translate(580, 100)">
-    <circle cx="0" cy="0" r="8" fill="#81c784"/>
-    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#81c784">
+    </text></g><g transform="translate(580 100)"><circle r="8" fill="#81c784"/><text y="-25" fill="#81c784" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2027
-    </text>
-    <rect x="-60" y="20" width="120" height="100" fill="white" stroke="#81c784" stroke-width="2" rx="5"/>
-    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32">
+    </text><rect width="120" height="100" x="-60" y="20" fill="#fff" stroke="#81c784" stroke-width="2" rx="5"/><text y="35" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       SMB børsnoterte
-    </text>
-    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="50" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Rapportering starter
-    </text>
-    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="65" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       (for 2026-data)
-    </text>
-    <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="80" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Børsnotert, ikke
-    </text>
-    <text x="0" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="95" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       mikrobedrift
-    </text>
-  </g>
-  
-
-  <g transform="translate(720, 100)">
-    <circle cx="0" cy="0" r="8" fill="#a5d6a7"/>
-    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#a5d6a7">
+    </text></g><g transform="translate(720 100)"><circle r="8" fill="#a5d6a7"/><text y="-25" fill="#a5d6a7" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2029
-    </text>
-    <rect x="-60" y="20" width="120" height="80" fill="white" stroke="#a5d6a7" stroke-width="2" rx="5"/>
-    <text x="0" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32">
+    </text><rect width="120" height="80" x="-60" y="20" fill="#fff" stroke="#a5d6a7" stroke-width="2" rx="5"/><text y="35" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Tredjelandsbedrifter
-    </text>
-    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="50" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       Rapportering starter
-    </text>
-    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="65" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       (for 2028-data)
-    </text>
-    <text x="0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2e7d32">
+    </text><text y="80" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
       EU-omsetning &gt;€150m
-    </text>
-  </g>
-  
-
-  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2e7d32">
+    </text></g><text x="400" y="280" fill="#2e7d32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Utvikling av Miljømål og Kriterier
-  </text>
-  
-
-  <line x1="80" y1="320" x2="720" y2="320" stroke="#ff9800" stroke-width="4"/>
-  
-
-  <g transform="translate(200, 320)">
-    <circle cx="0" cy="0" r="6" fill="#ff9800"/>
-    <rect x="-50" y="15" width="100" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/>
-    <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e65100">
+  </text><path stroke="#ff9800" stroke-width="4" d="M80 320h640"/><g transform="translate(200 320)"><circle r="6" fill="#ff9800"/><rect width="100" height="60" x="-50" y="15" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/><text y="30" fill="#e65100" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       Klimamål 1 &amp; 2
-    </text>
-    <text x="0" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e65100">
+    </text><text y="45" fill="#e65100" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       Reduksjon og
-    </text>
-    <text x="0" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e65100">
+    </text><text y="58" fill="#e65100" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       tilpasning
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 320)">
-    <circle cx="0" cy="0" r="6" fill="#ff9800"/>
-    <rect x="-70" y="15" width="140" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/>
-    <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e65100">
+    </text></g><g transform="translate(450 320)"><circle r="6" fill="#ff9800"/><rect width="140" height="80" x="-70" y="15" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/><text y="30" fill="#e65100" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       Fire øvrige miljømål
-    </text>
-    <text x="0" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e65100">
+    </text><text y="45" fill="#e65100" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       Vann, sirkulær økonomi,
-    </text>
-    <text x="0" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e65100">
+    </text><text y="58" fill="#e65100" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       forurensning,
-    </text>
-    <text x="0" y="71" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e65100">
+    </text><text y="71" fill="#e65100" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       biodiversitet
-    </text>
-  </g>
-  
-
-  <g transform="translate(650, 320)">
-    <circle cx="0" cy="0" r="6" fill="#ff9800" opacity="0.5"/>
-    <rect x="-50" y="15" width="100" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5" opacity="0.5"/>
-    <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#e65100">
+    </text></g><g transform="translate(650 320)"><circle r="6" fill="#ff9800" opacity=".5"/><rect width="100" height="60" x="-50" y="15" fill="#fff3e0" stroke="#ff9800" stroke-width="2" opacity=".5" rx="5"/><text y="30" fill="#e65100" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       Sosial taksonomi
-    </text>
-    <text x="0" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e65100">
+    </text><text y="45" fill="#e65100" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       Under utvikling
-    </text>
-    <text x="0" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#e65100">
+    </text><text y="58" fill="#e65100" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       (fremtidig)
-    </text>
-  </g>
-  
-
-  <rect x="50" y="420" width="700" height="60" fill="white" stroke="#4caf50" stroke-width="2" rx="10"/>
-  <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">
+    </text></g><rect width="700" height="60" x="50" y="420" fill="#fff" stroke="#4caf50" stroke-width="2" rx="10"/><text x="400" y="440" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Viktige Milepæler for Norske Bedrifter
-  </text>
-  <text x="100" y="460" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="100" y="460" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • 2025: Store børsnoterte selskaper starter rapportering
-  </text>
-  <text x="100" y="475" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="100" y="475" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • 2026: Store ikke-børsnoterte selskaper omfattes (≥250 ansatte + finansielle kriterier)
-  </text>
-  
-  <text x="450" y="460" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="450" y="460" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • 2024-2026: Utvidelse til alle seks miljømål
-  </text>
-  <text x="450" y="475" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="450" y="475" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • 2027+: SMB børsnoterte og tredjelandsbedrifter
-  </text>
-</svg>
+  </text></svg>

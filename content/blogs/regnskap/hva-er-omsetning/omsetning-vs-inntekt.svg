@@ -1,139 +1,51 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="omsetningGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="inntektGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="70" fill="#0066cc"/>
-  <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="#06c" d="M0 0h800v70H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Omsetning vs Inntekt
-  </text>
-  
-
-  <rect x="50" y="100" width="320" height="450" fill="white" stroke="#dc3545" stroke-width="3" rx="10"/>
-  <rect x="50" y="100" width="320" height="60" fill="url(#omsetningGrad)" rx="10"/>
-  <text x="210" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="450" x="50" y="100" fill="#fff" stroke="#dc3545" stroke-width="3" rx="10"/><rect width="320" height="60" x="50" y="100" fill="url(#b)" rx="10"/><text x="210" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     OMSETNING
-  </text>
-  
-
-  <text x="210" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><text x="210" y="190" fill="#dc3545" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Bruttoverdi
-  </text>
-  
-  <circle cx="80" cy="220" r="6" fill="#dc3545"/>
-  <text x="100" y="225" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><circle cx="80" cy="220" r="6" fill="#dc3545"/><text x="100" y="225" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Inkluderer MVA
-  </text>
-  
-  <circle cx="80" cy="250" r="6" fill="#dc3545"/>
-  <text x="100" y="255" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><circle cx="80" cy="250" r="6" fill="#dc3545"/><text x="100" y="255" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Måles til salgspris
-  </text>
-  
-  <circle cx="80" cy="280" r="6" fill="#dc3545"/>
-  <text x="100" y="285" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><circle cx="80" cy="280" r="6" fill="#dc3545"/><text x="100" y="285" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     MVA-beregning
-  </text>
-  
-  <circle cx="80" cy="310" r="6" fill="#dc3545"/>
-  <text x="100" y="315" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><circle cx="80" cy="310" r="6" fill="#dc3545"/><text x="100" y="315" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Statistikk &amp; rapporter
-  </text>
-  
-
-  <rect x="70" y="350" width="280" height="120" fill="#ffe6e6" stroke="#dc3545" stroke-width="1" rx="5"/>
-  <text x="210" y="375" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><rect width="280" height="120" x="70" y="350" fill="#ffe6e6" stroke="#dc3545" rx="5"/><text x="210" y="375" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Eksempel:
-  </text>
-  <text x="90" y="395" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="90" y="395" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Salg eks. MVA: 100 000 kr
-  </text>
-  <text x="90" y="415" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="90" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     MVA (25%): 25 000 kr
-  </text>
-  <line x1="90" y1="425" x2="330" y2="425" stroke="#dc3545" stroke-width="1"/>
-  <text x="90" y="445" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
+  </text><path stroke="#dc3545" d="M90 425h240"/><text x="90" y="445" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Omsetning: 125 000 kr
-  </text>
-  <text x="210" y="460" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#6c757d">
+  </text><text x="210" y="460" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (Det kunden betaler)
-  </text>
-  
-
-  <rect x="430" y="100" width="320" height="450" fill="white" stroke="#28a745" stroke-width="3" rx="10"/>
-  <rect x="430" y="100" width="320" height="60" fill="url(#inntektGrad)" rx="10"/>
-  <text x="590" y="140" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="450" x="430" y="100" fill="#fff" stroke="#28a745" stroke-width="3" rx="10"/><rect width="320" height="60" x="430" y="100" fill="url(#c)" rx="10"/><text x="590" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     INNTEKT
-  </text>
-  
-
-  <text x="590" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="590" y="190" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Nettoverdi
-  </text>
-  
-  <circle cx="460" cy="220" r="6" fill="#28a745"/>
-  <text x="480" y="225" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><circle cx="460" cy="220" r="6" fill="#28a745"/><text x="480" y="225" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Ekskluderer MVA
-  </text>
-  
-  <circle cx="460" cy="250" r="6" fill="#28a745"/>
-  <text x="480" y="255" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><circle cx="460" cy="250" r="6" fill="#28a745"/><text x="480" y="255" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Regnskapsverdi
-  </text>
-  
-  <circle cx="460" cy="280" r="6" fill="#28a745"/>
-  <text x="480" y="285" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><circle cx="460" cy="280" r="6" fill="#28a745"/><text x="480" y="285" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Resultatmåling
-  </text>
-  
-  <circle cx="460" cy="310" r="6" fill="#28a745"/>
-  <text x="480" y="315" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><circle cx="460" cy="310" r="6" fill="#28a745"/><text x="480" y="315" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Regnskapsføring
-  </text>
-  
-
-  <rect x="450" y="350" width="280" height="120" fill="#e6f7e6" stroke="#28a745" stroke-width="1" rx="5"/>
-  <text x="590" y="375" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="280" height="120" x="450" y="350" fill="#e6f7e6" stroke="#28a745" rx="5"/><text x="590" y="375" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Eksempel:
-  </text>
-  <text x="470" y="395" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="470" y="395" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Salg eks. MVA: 100 000 kr
-  </text>
-  <text x="470" y="415" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="470" y="415" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">
     MVA: (ikke inkludert)
-  </text>
-  <line x1="470" y1="425" x2="710" y2="425" stroke="#28a745" stroke-width="1"/>
-  <text x="470" y="445" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+  </text><path stroke="#28a745" d="M470 425h240"/><text x="470" y="445" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Inntekt: 100 000 kr
-  </text>
-  <text x="590" y="460" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#6c757d">
+  </text><text x="590" y="460" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (Regnskapsverdi)
-  </text>
-  
-
-  <circle cx="400" cy="325" r="30" fill="#0066cc" stroke="#004499" stroke-width="3"/>
-  <text x="400" y="335" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="400" cy="325" r="30" fill="#06c" stroke="#049" stroke-width="3"/><text x="400" y="335" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     VS
-  </text>
-  
-
-  <rect x="100" y="570" width="600" height="25" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="400" y="587" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="600" height="25" x="100" y="570" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="400" y="587" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Omsetning = Inntekt + MVA | Samme salg, forskjellig måling og formål
-  </text>
-</svg>
+  </text></svg>

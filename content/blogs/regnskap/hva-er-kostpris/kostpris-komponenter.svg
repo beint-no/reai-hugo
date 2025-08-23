@@ -1,146 +1,59 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="directGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#d5f4e6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#a3e9c4;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="indirectGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#fef3cd;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fce588;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#d5f4e6;stop-opacity:1"/><stop offset="100%" style="stop-color:#a3e9c4;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fef3cd;stop-opacity:1"/><stop offset="100%" style="stop-color:#fce588;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Komponenter i Kostpris
-  </text>
-  
-
-  <circle cx="400" cy="120" r="60" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
-  <text x="400" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="120" r="60" fill="#3498db" stroke="#2980b9" stroke-width="3"/><text x="400" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     KOSTPRIS
-  </text>
-  <text x="400" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     100%
-  </text>
-  
-
-  <rect x="50" y="220" width="300" height="250" fill="url(#directGradient)" stroke="#27ae60" stroke-width="3" rx="15"/>
-  <text x="200" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#27ae60">
+  </text><rect width="300" height="250" x="50" y="220" fill="url(#b)" stroke="#27ae60" stroke-width="3" rx="15"/><text x="200" y="250" fill="#27ae60" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     DIREKTE KOSTNADER
-  </text>
-  <text x="200" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+  </text><text x="200" y="275" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (60-70% av kostpris)
-  </text>
-  
-
-  <rect x="70" y="290" width="120" height="80" fill="white" stroke="#27ae60" stroke-width="2" rx="8"/>
-  <text x="130" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+  </text><rect width="120" height="80" x="70" y="290" fill="#fff" stroke="#27ae60" stroke-width="2" rx="8"/><text x="130" y="315" fill="#27ae60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Materialkostnader
-  </text>
-  <text x="130" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="130" y="335" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Råvarer
-  </text>
-  <text x="130" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="130" y="350" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Komponenter
-  </text>
-  <text x="130" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="130" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Emballasje
-  </text>
-  
-
-  <rect x="210" y="290" width="120" height="80" fill="white" stroke="#27ae60" stroke-width="2" rx="8"/>
-  <text x="270" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+  </text><rect width="120" height="80" x="210" y="290" fill="#fff" stroke="#27ae60" stroke-width="2" rx="8"/><text x="270" y="315" fill="#27ae60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Lønnskostnader
-  </text>
-  <text x="270" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="270" y="335" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Produksjonslønn
-  </text>
-  <text x="270" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="270" y="350" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Arbeidsgiveravgift
-  </text>
-  <text x="270" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="270" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Feriepenger
-  </text>
-  
-
-  <rect x="140" y="380" width="120" height="70" fill="white" stroke="#27ae60" stroke-width="2" rx="8"/>
-  <text x="200" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+  </text><rect width="120" height="70" x="140" y="380" fill="#fff" stroke="#27ae60" stroke-width="2" rx="8"/><text x="200" y="405" fill="#27ae60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Andre direkte
-  </text>
-  <text x="200" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="200" y="425" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Spesialverktøy
-  </text>
-  <text x="200" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="200" y="440" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Frakt
-  </text>
-  
-
-  <rect x="450" y="220" width="300" height="250" fill="url(#indirectGradient)" stroke="#f39c12" stroke-width="3" rx="15"/>
-  <text x="600" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f39c12">
+  </text><rect width="300" height="250" x="450" y="220" fill="url(#c)" stroke="#f39c12" stroke-width="3" rx="15"/><text x="600" y="250" fill="#f39c12" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     INDIREKTE KOSTNADER
-  </text>
-  <text x="600" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+  </text><text x="600" y="275" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (30-40% av kostpris)
-  </text>
-  
-
-  <rect x="470" y="290" width="120" height="80" fill="white" stroke="#f39c12" stroke-width="2" rx="8"/>
-  <text x="530" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
+  </text><rect width="120" height="80" x="470" y="290" fill="#fff" stroke="#f39c12" stroke-width="2" rx="8"/><text x="530" y="315" fill="#f39c12" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Produksjonsoverhead
-  </text>
-  <text x="530" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="530" y="335" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Strøm &amp; varme
-  </text>
-  <text x="530" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="530" y="350" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Avskrivninger
-  </text>
-  <text x="530" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="530" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Vedlikehold
-  </text>
-  
-
-  <rect x="610" y="290" width="120" height="80" fill="white" stroke="#f39c12" stroke-width="2" rx="8"/>
-  <text x="670" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
+  </text><rect width="120" height="80" x="610" y="290" fill="#fff" stroke="#f39c12" stroke-width="2" rx="8"/><text x="670" y="315" fill="#f39c12" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Administrasjon
-  </text>
-  <text x="670" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="670" y="335" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Kontorleie
-  </text>
-  <text x="670" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="670" y="350" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • IT-systemer
-  </text>
-  <text x="670" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="670" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Forsikring
-  </text>
-  
-
-  <rect x="540" y="380" width="120" height="70" fill="white" stroke="#f39c12" stroke-width="2" rx="8"/>
-  <text x="600" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
+  </text><rect width="120" height="70" x="540" y="380" fill="#fff" stroke="#f39c12" stroke-width="2" rx="8"/><text x="600" y="405" fill="#f39c12" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kvalitet &amp; Øvrig
-  </text>
-  <text x="600" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="600" y="425" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Kvalitetskontroll
-  </text>
-  <text x="600" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="600" y="440" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Testing
-  </text>
-  
-
-  <path d="M 360 150 L 200 210" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 440 150 L 600 210" stroke="#3498db" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#3498db"/>
-    </marker>
-  </defs>
-</svg>
+  </text><path fill="none" stroke="#3498db" stroke-width="3" marker-end="url(#d)" d="m360 150-160 60"/><path fill="none" stroke="#3498db" stroke-width="3" marker-end="url(#d)" d="m440 150 160 60"/><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#3498db" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

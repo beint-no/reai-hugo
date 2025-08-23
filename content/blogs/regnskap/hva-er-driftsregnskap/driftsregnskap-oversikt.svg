@@ -1,128 +1,43 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="incomeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="costGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="resultGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6610f2;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#6610f2;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Driftsregnskap Oversikt
-  </text>
-  
-
-
-  <rect x="50" y="80" width="200" height="120" fill="url(#incomeGradient)" stroke="#28a745" stroke-width="2" rx="10"/>
-  <text x="150" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="120" x="50" y="80" fill="url(#b)" stroke="#28a745" stroke-width="2" rx="10"/><text x="150" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     DRIFTSINNTEKTER
-  </text>
-  <text x="150" y="135" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="150" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Salgsinntekter
-  </text>
-  <text x="150" y="150" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="150" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Andre driftsinntekter
-  </text>
-  <text x="150" y="165" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="150" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Leieinntekter
-  </text>
-  <text x="150" y="180" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="150" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Tilskudd
-  </text>
-  
-
-  <circle cx="350" cy="140" r="25" fill="#6c757d" stroke="#495057" stroke-width="2"/>
-  <text x="350" y="150" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="350" cy="140" r="25" fill="#6c757d" stroke="#495057" stroke-width="2"/><text x="350" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     -
-  </text>
-  
-
-  <rect x="450" y="80" width="200" height="120" fill="url(#costGradient)" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="550" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="120" x="450" y="80" fill="url(#c)" stroke="#dc3545" stroke-width="2" rx="10"/><text x="550" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     DRIFTSKOSTNADER
-  </text>
-  <text x="550" y="135" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="550" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Varekostnad
-  </text>
-  <text x="550" y="150" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="550" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Lønnskostnader
-  </text>
-  <text x="550" y="165" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="550" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Avskrivninger
-  </text>
-  <text x="550" y="180" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="550" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Andre driftskostnader
-  </text>
-  
-
-  <path d="M 350 180 L 350 220" stroke="#495057" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-    </marker>
-  </defs>
-  
-
-  <text x="350" y="250" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><path stroke="#495057" stroke-width="3" marker-end="url(#d)" d="M350 180v40"/><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="350" y="250" fill="#495057" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     =
-  </text>
-  
-
-  <rect x="250" y="280" width="200" height="80" fill="url(#resultGradient)" stroke="#0066cc" stroke-width="2" rx="10"/>
-  <text x="350" y="310" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="80" x="250" y="280" fill="url(#e)" stroke="#06c" stroke-width="2" rx="10"/><text x="350" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     DRIFTSRESULTAT
-  </text>
-  <text x="350" y="330" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="350" y="330" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Operative lønnsomhet
-  </text>
-  <text x="350" y="345" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="350" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kjernevirksomhetens resultat
-  </text>
-  
-
-  <rect x="50" y="390" width="700" height="80" fill="white" stroke="#0066cc" stroke-width="1" rx="8"/>
-  <text x="400" y="415" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="700" height="80" x="50" y="390" fill="#fff" stroke="#06c" rx="8"/><text x="400" y="415" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Hvorfor er Driftsregnskap Viktig?
-  </text>
-  
-
-  <circle cx="80" cy="440" r="5" fill="#28a745"/>
-  <text x="95" y="445" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+  </text><circle cx="80" cy="440" r="5" fill="#28a745"/><text x="95" y="445" fill="#212529" font-family="Arial, sans-serif" font-size="12">
     Viser operative prestasjoner uavhengig av finansiering
-  </text>
-  
-
-  <circle cx="80" cy="455" r="5" fill="#28a745"/>
-  <text x="95" y="460" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+  </text><circle cx="80" cy="455" r="5" fill="#28a745"/><text x="95" y="460" fill="#212529" font-family="Arial, sans-serif" font-size="12">
     Grunnlag for sammenligning mellom bedrifter og perioder
-  </text>
-  
-
-  <circle cx="420" cy="440" r="5" fill="#28a745"/>
-  <text x="435" y="445" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+  </text><circle cx="420" cy="440" r="5" fill="#28a745"/><text x="435" y="445" fill="#212529" font-family="Arial, sans-serif" font-size="12">
     Identifiserer forbedringspotensial i kjernevirksomheten
-  </text>
-  
-
-  <circle cx="420" cy="455" r="5" fill="#28a745"/>
-  <text x="435" y="460" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+  </text><circle cx="420" cy="455" r="5" fill="#28a745"/><text x="435" y="460" fill="#212529" font-family="Arial, sans-serif" font-size="12">
     Støtter strategiske beslutninger og budsjettplanlegging
-  </text>
-</svg>
+  </text></svg>

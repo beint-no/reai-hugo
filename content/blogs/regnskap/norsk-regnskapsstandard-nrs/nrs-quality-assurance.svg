@@ -1,189 +1,81 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="processFlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="stepGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f4fd;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d1e7dd;stop-opacity:1" />
-    </linearGradient>
-    <radialGradient id="centerCircle" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </radialGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="50" fill="url(#processFlow)"/>
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f4fd;stop-opacity:1"/><stop offset="100%" style="stop-color:#d1e7dd;stop-opacity:1"/></linearGradient><radialGradient id="b" cx="50%" cy="50%" r="50%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></radialGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="url(#a)" d="M0 0h800v50H0z"/><text x="400" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     NRS Kvalitetssikring og Overholdelse
-  </text>
-  
-
-  <circle cx="400" cy="250" r="60" fill="url(#centerCircle)"/>
-  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="250" r="60" fill="url(#b)"/><text x="400" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Kvalitets-
-  </text>
-  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><text x="400" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     sikring
-  </text>
-  
-
-  <rect x="50" y="80" width="140" height="100" fill="url(#stepGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="120" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+  </text><rect width="140" height="100" x="50" y="80" fill="url(#c)" stroke="#06c" stroke-width="2" rx="8"/><text x="120" y="105" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     1. Regelmessig
-  </text>
-  <text x="120" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+  </text><text x="120" y="120" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Oppdatering
-  </text>
-  <text x="120" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="120" y="140" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Følg standardendringer
-  </text>
-  <text x="120" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="120" y="152" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Faglige oppdateringer
-  </text>
-  <text x="120" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="120" y="164" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Regelverksendringer
-  </text>
-  
-
-  <rect x="610" y="80" width="140" height="100" fill="url(#stepGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="680" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+  </text><rect width="140" height="100" x="610" y="80" fill="url(#c)" stroke="#06c" stroke-width="2" rx="8"/><text x="680" y="105" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     2. Dokumenterte
-  </text>
-  <text x="680" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+  </text><text x="680" y="120" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Prosedyrer
-  </text>
-  <text x="680" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="680" y="140" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Skriftlige rutiner
-  </text>
-  <text x="680" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="680" y="152" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Kontrollpunkter
-  </text>
-  <text x="680" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="680" y="164" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Ansvarsfordeling
-  </text>
-  
-
-  <rect x="50" y="320" width="140" height="100" fill="url(#stepGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="120" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+  </text><rect width="140" height="100" x="50" y="320" fill="url(#c)" stroke="#06c" stroke-width="2" rx="8"/><text x="120" y="345" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     3. Kompetanse-
-  </text>
-  <text x="120" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+  </text><text x="120" y="360" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     utvikling
-  </text>
-  <text x="120" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="120" y="380" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Opplæring av personell
-  </text>
-  <text x="120" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="120" y="392" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Faglig utvikling
-  </text>
-  <text x="120" y="404" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="120" y="404" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Sertifisering
-  </text>
-  
-
-  <rect x="610" y="320" width="140" height="100" fill="url(#stepGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="680" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+  </text><rect width="140" height="100" x="610" y="320" fill="url(#c)" stroke="#06c" stroke-width="2" rx="8"/><text x="680" y="345" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     4. Periodisk
-  </text>
-  <text x="680" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+  </text><text x="680" y="360" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Gjennomgang
-  </text>
-  <text x="680" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="680" y="380" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Vurder regnskapspraksis
-  </text>
-  <text x="680" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="680" y="392" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Identifiser forbedringer
-  </text>
-  <text x="680" y="404" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="680" y="404" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Korrigerende tiltak
-  </text>
-  
-
-  <line x1="190" y1="130" x2="350" y2="210" stroke="#666" stroke-width="2"/>
-  <line x1="610" y1="130" x2="450" y2="210" stroke="#666" stroke-width="2"/>
-  <line x1="190" y1="370" x2="350" y2="290" stroke="#666" stroke-width="2"/>
-  <line x1="610" y1="370" x2="450" y2="290" stroke="#666" stroke-width="2"/>
-  
-
-  <path d="M 120 180 Q 200 200 280 180" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 520 180 Q 600 200 680 180" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 680 320 Q 600 300 520 320" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 280 320 Q 200 300 120 320" stroke="#0066cc" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="250" y="350" width="300" height="120" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
-  <text x="400" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
+  </text><path stroke="#666" stroke-width="2" d="m190 130 160 80M610 130l-160 80M190 370l160-80M610 370l-160-80"/><path fill="none" stroke="#06c" stroke-width="2" marker-end="url(#d)" d="M120 180q80 20 160 0"/><path fill="none" stroke="#06c" stroke-width="2" marker-end="url(#d)" d="M520 180q80 20 160 0"/><path fill="none" stroke="#06c" stroke-width="2" marker-end="url(#d)" d="M680 320q-80-20-160 0"/><path fill="none" stroke="#06c" stroke-width="2" marker-end="url(#d)" d="M280 320q-80-20-160 0"/><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#06c" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="300" height="120" x="250" y="350" fill="#fff" stroke="#28a745" stroke-width="2" rx="8"/><text x="400" y="375" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Kontrollmålinger
-  </text>
-  
-  <g transform="translate(270, 390)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><g font-family="Arial, sans-serif"><text fill="#333" font-size="12" font-weight="bold" transform="translate(270 390)">
       Månedlige kontroller:
-    </text>
-    <text x="0" y="15" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text y="15" fill="#666" font-size="10" transform="translate(270 390)">
       • Bankavstemming og kontokontroll
-    </text>
-    <text x="0" y="27" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text y="27" fill="#666" font-size="10" transform="translate(270 390)">
       • Gjennomgang av regnskapspraksis
-    </text>
-    
-    <text x="140" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><text x="140" fill="#333" font-size="12" font-weight="bold" transform="translate(270 390)">
       Årlige kontroller:
-    </text>
-    <text x="140" y="15" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="140" y="15" fill="#666" font-size="10" transform="translate(270 390)">
       • Uavhengig revisjon
-    </text>
-    <text x="140" y="27" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="140" y="27" fill="#666" font-size="10" transform="translate(270 390)">
       • Intern revisjon og evaluering
-    </text>
-  </g>
-  
-
-  <rect x="50" y="200" width="140" height="80" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
-  <text x="120" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+    </text></g><rect width="140" height="80" x="50" y="200" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/><text x="120" y="220" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Risikofaktorer
-  </text>
-  <text x="120" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+  </text><text x="120" y="235" fill="#856404" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Regelverksendringer
-  </text>
-  <text x="120" y="247" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+  </text><text x="120" y="247" fill="#856404" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Systemfeil
-  </text>
-  <text x="120" y="259" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+  </text><text x="120" y="259" fill="#856404" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Menneskelige feil
-  </text>
-  <text x="120" y="271" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#856404">
+  </text><text x="120" y="271" fill="#856404" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Kompetansemangel
-  </text>
-  
-
-  <rect x="610" y="200" width="140" height="80" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
-  <text x="680" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#155724">
+  </text><rect width="140" height="80" x="610" y="200" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/><text x="680" y="220" fill="#155724" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Suksessindikatorer
-  </text>
-  <text x="680" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="680" y="235" fill="#155724" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Feilfri regnskaper
-  </text>
-  <text x="680" y="247" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="680" y="247" fill="#155724" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Revisjonsklarhet
-  </text>
-  <text x="680" y="259" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="680" y="259" fill="#155724" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Stakeholder-tillit
-  </text>
-  <text x="680" y="271" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#155724">
+  </text><text x="680" y="271" fill="#155724" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Regelverksetterlevelse
-  </text>
-</svg>
+  </text></svg>

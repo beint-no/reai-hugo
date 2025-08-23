@@ -1,203 +1,55 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="lossGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffebee;stop-opacity:0.7" />
-      <stop offset="100%" style="stop-color:#ffcdd2;stop-opacity:0.7" />
-    </linearGradient>
-    <linearGradient id="profitGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:0.7" />
-      <stop offset="100%" style="stop-color:#c8e6c8;stop-opacity:0.7" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="50" fill="url(#headerGradient)"/>
-  <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ffebee;stop-opacity:.7"/><stop offset="100%" style="stop-color:#ffcdd2;stop-opacity:.7"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:.7"/><stop offset="100%" style="stop-color:#c8e6c8;stop-opacity:.7"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="url(#b)" d="M0 0h800v50H0z"/><text x="400" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Grafisk Nullpunkt-Analyse
-  </text>
-  
-
-  <rect x="100" y="80" width="500" height="350" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  
-
-  <defs>
-    <pattern id="grid" width="50" height="35" patternUnits="userSpaceOnUse">
-      <path d="M 50 0 L 0 0 0 35" fill="none" stroke="#f0f0f0" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect x="120" y="100" width="460" height="280" fill="url(#grid)"/>
-  
-
-  <line x1="120" y1="380" x2="580" y2="380" stroke="#333" stroke-width="3"/>
-  <line x1="120" y1="380" x2="120" y2="100" stroke="#333" stroke-width="3"/>
-  
-
-  <text x="350" y="410" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="500" height="350" x="100" y="80" fill="#fff" stroke="#dee2e6" rx="5"/><defs><pattern id="c" width="50" height="35" patternUnits="userSpaceOnUse"><path fill="none" stroke="#f0f0f0" d="M50 0H0v35"/></pattern></defs><path fill="url(#c)" d="M120 100h460v280H120z"/><path stroke="#333" stroke-width="3" d="M120 380h460M120 380V100"/><text x="350" y="410" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Salgsvolum (enheter)
-  </text>
-  <text x="80" y="240" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" transform="rotate(-90, 80, 240)">
+  </text><text x="80" y="240" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 80 240)">
     Kroner (1000)
-  </text>
-  
-
-  <line x1="170" y1="380" x2="170" y2="385" stroke="#333" stroke-width="2"/>
-  <text x="170" y="400" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">1000</text>
-  
-  <line x1="220" y1="380" x2="220" y2="385" stroke="#333" stroke-width="2"/>
-  <text x="220" y="400" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">2000</text>
-  
-  <line x1="270" y1="380" x2="270" y2="385" stroke="#333" stroke-width="2"/>
-  <text x="270" y="400" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">3000</text>
-  
-  <line x1="320" y1="380" x2="320" y2="385" stroke="#333" stroke-width="2"/>
-  <text x="320" y="400" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">4000</text>
-  
-  <line x1="370" y1="380" x2="370" y2="385" stroke="#333" stroke-width="2"/>
-  <text x="370" y="400" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">5000</text>
-  
-
-  <line x1="115" y1="345" x2="120" y2="345" stroke="#333" stroke-width="2"/>
-  <text x="110" y="350" text-anchor="end" fill="#666" font-family="Arial, sans-serif" font-size="11">100</text>
-  
-  <line x1="115" y1="310" x2="120" y2="310" stroke="#333" stroke-width="2"/>
-  <text x="110" y="315" text-anchor="end" fill="#666" font-family="Arial, sans-serif" font-size="11">200</text>
-  
-  <line x1="115" y1="275" x2="120" y2="275" stroke="#333" stroke-width="2"/>
-  <text x="110" y="280" text-anchor="end" fill="#666" font-family="Arial, sans-serif" font-size="11">300</text>
-  
-  <line x1="115" y1="240" x2="120" y2="240" stroke="#333" stroke-width="2"/>
-  <text x="110" y="245" text-anchor="end" fill="#666" font-family="Arial, sans-serif" font-size="11">400</text>
-  
-  <line x1="115" y1="205" x2="120" y2="205" stroke="#333" stroke-width="2"/>
-  <text x="110" y="210" text-anchor="end" fill="#666" font-family="Arial, sans-serif" font-size="11">500</text>
-  
-
-  <polygon points="120,317 270,317 270,240 120,275" fill="url(#lossGradient)" stroke="none"/>
-  
-
-  <polygon points="270,240 420,240 420,170 270,205" fill="url(#profitGradient)" stroke="none"/>
-  
-
-  <line x1="120" y1="317" x2="420" y2="317" stroke="#ffa94d" stroke-width="3" stroke-dasharray="8,4"/>
-  <text x="430" y="322" fill="#ffa94d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path stroke="#333" stroke-width="2" d="M170 380v5"/><text x="170" y="400" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">1000</text><path stroke="#333" stroke-width="2" d="M220 380v5"/><text x="220" y="400" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">2000</text><path stroke="#333" stroke-width="2" d="M270 380v5"/><text x="270" y="400" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">3000</text><path stroke="#333" stroke-width="2" d="M320 380v5"/><text x="320" y="400" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">4000</text><path stroke="#333" stroke-width="2" d="M370 380v5"/><text x="370" y="400" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">5000</text><path stroke="#333" stroke-width="2" d="M115 345h5"/><text x="110" y="350" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="end">100</text><path stroke="#333" stroke-width="2" d="M115 310h5"/><text x="110" y="315" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="end">200</text><path stroke="#333" stroke-width="2" d="M115 275h5"/><text x="110" y="280" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="end">300</text><path stroke="#333" stroke-width="2" d="M115 240h5"/><text x="110" y="245" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="end">400</text><path stroke="#333" stroke-width="2" d="M115 205h5"/><text x="110" y="210" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="end">500</text><path fill="url(#d)" d="M120 317h150v-77l-150 35z"/><path fill="url(#e)" d="M270 240h150v-70l-150 35z"/><path stroke="#ffa94d" stroke-dasharray="8,4" stroke-width="3" d="M120 317h300"/><text x="430" y="322" fill="#ffa94d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Faste kostnader (180.000 kr)
-  </text>
-  
-
-  <line x1="120" y1="317" x2="420" y2="205" stroke="#ff6b6b" stroke-width="4"/>
-  <text x="430" y="210" fill="#ff6b6b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path stroke="#ff6b6b" stroke-width="4" d="m120 317 300-112"/><text x="430" y="210" fill="#ff6b6b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Totale kostnader
-  </text>
-  
-
-  <line x1="120" y1="380" x2="420" y2="170" stroke="#51cf66" stroke-width="4"/>
-  <text x="430" y="175" fill="#51cf66" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path stroke="#51cf66" stroke-width="4" d="m120 380 300-210"/><text x="430" y="175" fill="#51cf66" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Totale inntekter
-  </text>
-  
-
-  <circle cx="270" cy="240" r="8" fill="#0066cc" stroke="white" stroke-width="3"/>
-  <text x="280" y="230" fill="#0066cc" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><circle cx="270" cy="240" r="8" fill="#06c" stroke="#fff" stroke-width="3"/><text x="280" y="230" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Nullpunkt
-  </text>
-  <text x="280" y="245" fill="#0066cc" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="280" y="245" fill="#06c" font-family="Arial, sans-serif" font-size="11">
     3.000 enheter
-  </text>
-  <text x="280" y="258" fill="#0066cc" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="280" y="258" fill="#06c" font-family="Arial, sans-serif" font-size="11">
     450.000 kr
-  </text>
-  
-
-  <line x1="270" y1="240" x2="270" y2="380" stroke="#0066cc" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <line x1="120" y1="240" x2="270" y2="240" stroke="#0066cc" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <text x="195" y="290" text-anchor="middle" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><path stroke="#06c" stroke-dasharray="5,5" stroke-width="2" d="M270 240v140M120 240h150"/><text x="195" y="290" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     TAP
-  </text>
-  <text x="195" y="305" text-anchor="middle" fill="#d32f2f" font-family="Arial, sans-serif" font-size="11">
-    (Kostnader > Inntekter)
-  </text>
-  
-  <text x="345" y="190" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="195" y="305" fill="#d32f2f" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
+    (Kostnader &gt; Inntekter)
+  </text><text x="345" y="190" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     OVERSKUDD
-  </text>
-  <text x="345" y="205" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
-    (Inntekter > Kostnader)
-  </text>
-  
-
-  <rect x="620" y="100" width="160" height="280" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="700" y="125" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="345" y="205" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
+    (Inntekter &gt; Kostnader)
+  </text><rect width="160" height="280" x="620" y="100" fill="#fff" stroke="#dee2e6" rx="5"/><text x="700" y="125" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Forklaring
-  </text>
-  
-
-  <line x1="630" y1="150" x2="660" y2="150" stroke="#51cf66" stroke-width="3"/>
-  <text x="670" y="155" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><path stroke="#51cf66" stroke-width="3" d="M630 150h30"/><text x="670" y="155" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Totale inntekter
-  </text>
-  
-  <line x1="630" y1="175" x2="660" y2="175" stroke="#ff6b6b" stroke-width="3"/>
-  <text x="670" y="180" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><path stroke="#ff6b6b" stroke-width="3" d="M630 175h30"/><text x="670" y="180" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Totale kostnader
-  </text>
-  
-  <line x1="630" y1="200" x2="660" y2="200" stroke="#ffa94d" stroke-width="3" stroke-dasharray="4,2"/>
-  <text x="670" y="205" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><path stroke="#ffa94d" stroke-dasharray="4,2" stroke-width="3" d="M630 200h30"/><text x="670" y="205" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Faste kostnader
-  </text>
-  
-  <circle cx="645" cy="225" r="4" fill="#0066cc" stroke="white" stroke-width="2"/>
-  <text x="670" y="230" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><circle cx="645" cy="225" r="4" fill="#06c" stroke="#fff" stroke-width="2"/><text x="670" y="230" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Nullpunkt
-  </text>
-  
-  <rect x="630" y="245" width="15" height="10" fill="url(#lossGradient)" stroke="#d32f2f" stroke-width="1"/>
-  <text x="670" y="255" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><path fill="url(#d)" stroke="#d32f2f" d="M630 245h15v10h-15z"/><text x="670" y="255" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Tap-område
-  </text>
-  
-  <rect x="630" y="270" width="15" height="10" fill="url(#profitGradient)" stroke="#2e7d32" stroke-width="1"/>
-  <text x="670" y="280" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><path fill="url(#e)" stroke="#2e7d32" d="M630 270h15v10h-15z"/><text x="670" y="280" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Overskudd-område
-  </text>
-  
-
-  <text x="630" y="310" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><text x="630" y="310" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Nøkkelinnsikt:
-  </text>
-  <text x="630" y="330" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="630" y="330" fill="#666" font-family="Arial, sans-serif" font-size="10">
     • Stigning på kostnadslinje
-  </text>
-  <text x="635" y="345" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="635" y="345" fill="#666" font-family="Arial, sans-serif" font-size="10">
     = Variable kostnader
-  </text>
-  <text x="630" y="360" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="630" y="360" fill="#666" font-family="Arial, sans-serif" font-size="10">
     • Stigning på inntektslinje
-  </text>
-  <text x="635" y="375" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="635" y="375" fill="#666" font-family="Arial, sans-serif" font-size="10">
     = Salgspris per enhet
-  </text>
-  
-
-  <text x="400" y="460" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><text x="400" y="460" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Grafisk analyse gir visuell forståelse av lønnsomhet ved ulike salgsnivåer
-  </text>
-  <text x="400" y="480" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="400" y="480" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Avstand mellom linjene viser størrelsen på tap eller overskudd
-  </text>
-</svg>
+  </text></svg>

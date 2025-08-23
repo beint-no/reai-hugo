@@ -1,153 +1,57 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="envGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="costGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#F57C00;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#f57c00;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Miljøavsetninger i Regnskap
-  </text>
-  
-
-  <rect x="100" y="100" width="200" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
-  <rect x="140" y="60" width="20" height="60" fill="#95a5a6"/>
-  <rect x="180" y="50" width="20" height="70" fill="#95a5a6"/>
-  <rect x="220" y="70" width="20" height="50" fill="#95a5a6"/>
-  
-
-  <circle cx="150" cy="45" r="8" fill="#7f8c8d"/>
-  <circle cx="190" cy="35" r="10" fill="#7f8c8d"/>
-  <circle cx="230" cy="55" r="6" fill="#7f8c8d"/>
-  
-
-  <path d="M 320 160 L 380 160" stroke="#e74c3c" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="400" y="80" width="300" height="160" fill="url(#envGradient)" stroke="#2E7D32" stroke-width="2" rx="10"/>
-  <text x="550" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><path fill="#e74c3c" stroke="#c0392b" stroke-width="2" d="M100 100h200v120H100z"/><path fill="#95a5a6" d="M140 60h20v60h-20zM180 50h20v70h-20zM220 70h20v50h-20z"/><circle cx="150" cy="45" r="8" fill="#7f8c8d"/><circle cx="190" cy="35" r="10" fill="#7f8c8d"/><circle cx="230" cy="55" r="6" fill="#7f8c8d"/><path fill="none" stroke="#e74c3c" stroke-width="3" marker-end="url(#a)" d="M320 160h60"/><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#e74c3c" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="300" height="160" x="400" y="80" fill="url(#b)" stroke="#2e7d32" stroke-width="2" rx="10"/><text x="550" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Miljøavsetninger
-  </text>
-  
-
-  <text x="420" y="135" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="420" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Oppryddingsforpliktelser
-  </text>
-  <text x="420" y="155" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="420" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Avslutningsforpliktelser
-  </text>
-  <text x="420" y="175" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="420" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Resertifikatforpliktelser
-  </text>
-  <text x="420" y="195" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="420" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Avfallshåndtering
-  </text>
-  <text x="420" y="215" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="420" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     • Karbonkvoter
-  </text>
-  
-
-  <rect x="100" y="280" width="600" height="200" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
-  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+  </text><rect width="600" height="200" x="100" y="280" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="400" y="305" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Beregning av Miljøavsetninger
-  </text>
-  
-
-  <line x1="150" y1="350" x2="650" y2="350" stroke="#34495e" stroke-width="2"/>
-  <text x="150" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><path stroke="#34495e" stroke-width="2" d="M150 350h500"/><text x="150" y="340" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     I dag
-  </text>
-  <text x="650" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="650" y="340" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Fremtid
-  </text>
-  
-
-  <rect x="200" y="370" width="120" height="60" fill="url(#costGradient)" stroke="#F57C00" stroke-width="2" rx="5"/>
-  <text x="260" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="60" x="200" y="370" fill="url(#c)" stroke="#f57c00" stroke-width="2" rx="5"/><text x="260" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Direkte
-  </text>
-  <text x="260" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="260" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Opprydding
-  </text>
-  <text x="260" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="260" y="425" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     200 mill kr
-  </text>
-  
-  <rect x="340" y="370" width="120" height="60" fill="url(#costGradient)" stroke="#F57C00" stroke-width="2" rx="5"/>
-  <text x="400" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="60" x="340" y="370" fill="url(#c)" stroke="#f57c00" stroke-width="2" rx="5"/><text x="400" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Overvåking
-  </text>
-  <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="400" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     (10 år)
-  </text>
-  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="400" y="425" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     50 mill kr
-  </text>
-  
-  <rect x="480" y="370" width="120" height="60" fill="url(#costGradient)" stroke="#F57C00" stroke-width="2" rx="5"/>
-  <text x="540" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="60" x="480" y="370" fill="url(#c)" stroke="#f57c00" stroke-width="2" rx="5"/><text x="540" y="395" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kontingente
-  </text>
-  <text x="540" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="540" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kostnader
-  </text>
-  <text x="540" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="540" y="425" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     100 mill kr
-  </text>
-  
-
-  <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#c0392b">
+  </text><text x="400" y="460" fill="#c0392b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Nåverdi = 350 mill kr / (1.03)^10 = 260 mill kr
-  </text>
-  
-
-  <circle cx="100" cy="520" r="25" fill="#27ae60"/>
-  <text x="100" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="100" cy="520" r="25" fill="#27ae60"/><text x="100" y="528" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ESG
-  </text>
-  
-  <circle cx="200" cy="520" r="25" fill="#3498db"/>
-  <text x="200" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><circle cx="200" cy="520" r="25" fill="#3498db"/><text x="200" y="528" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     SDG
-  </text>
-  
-  <circle cx="300" cy="520" r="25" fill="#e67e22"/>
-  <text x="300" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><circle cx="300" cy="520" r="25" fill="#e67e22"/><text x="300" y="528" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     CO2
-  </text>
-  
-  <text x="400" y="525" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+  </text><text x="400" y="525" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
     Bærekraftsrapportering øker kravene til miljøavsetninger
-  </text>
-  
-
-  <rect x="500" y="500" width="250" height="80" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/>
-  <text x="625" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="250" height="80" x="500" y="500" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="5"/><text x="625" y="520" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Regulatoriske Krav
-  </text>
-  <text x="520" y="540" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="540" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Forurensningsloven
-  </text>
-  <text x="520" y="555" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="555" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • EU-taksonomi
-  </text>
-  <text x="520" y="570" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="520" y="570" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Klimalov
-  </text>
-</svg>
+  </text></svg>

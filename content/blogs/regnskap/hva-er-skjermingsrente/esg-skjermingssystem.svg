@@ -1,127 +1,45 @@
-<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="esgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2E8B57;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#4682B4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8B4513;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="baseGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#696969;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#A9A9A9;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow">
-      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.2"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#696969;stop-opacity:1"/><stop offset="100%" style="stop-color:#a9a9a9;stop-opacity:1"/></linearGradient><filter id="b"><feDropShadow dx="2" dy="2" flood-color="#000" flood-opacity=".2" stdDeviation="2"/></filter></defs><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     ESG-integrerte Skjermingssystemer
-  </text>
-  
-
-  <rect x="50" y="80" width="700" height="40" fill="url(#baseGradient)" stroke="#2c3e50" stroke-width="2" filter="url(#shadow)"/>
-  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><path fill="url(#a)" stroke="#2c3e50" stroke-width="2" d="M50 80h700v40H50z" filter="url(#b)"/><text x="400" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Base Skjermingsrente (4.0%)
-  </text>
-  
-
-  <text x="50" y="150" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><text x="50" y="150" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     ESG-faktorer:
-  </text>
-  
-
-  <rect x="50" y="170" width="210" height="80" fill="#2E8B57" stroke="#1F5F3F" stroke-width="2" rx="5" filter="url(#shadow)"/>
-  <text x="155" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="210" height="80" x="50" y="170" fill="#2e8b57" stroke="#1f5f3f" stroke-width="2" filter="url(#b)" rx="5"/><text x="155" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Environmental (E)
-  </text>
-  <text x="155" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="155" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Scope 1-3 utslipp
-  </text>
-  <text x="155" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="155" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Miljøvennlige prosjekter
-  </text>
-  <text x="155" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="155" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Bonus: 0-30%
-  </text>
-  
-
-  <rect x="295" y="170" width="210" height="80" fill="#4682B4" stroke="#2F5A8C" stroke-width="2" rx="5" filter="url(#shadow)"/>
-  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="210" height="80" x="295" y="170" fill="#4682b4" stroke="#2f5a8c" stroke-width="2" filter="url(#b)" rx="5"/><text x="400" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Social (S)
-  </text>
-  <text x="400" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Samfunnsansvar
-  </text>
-  <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Stakeholder surveys
-  </text>
-  <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="400" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Bonus: 0-20%
-  </text>
-  
-
-  <rect x="540" y="170" width="210" height="80" fill="#8B4513" stroke="#5D2F0B" stroke-width="2" rx="5" filter="url(#shadow)"/>
-  <text x="645" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="210" height="80" x="540" y="170" fill="#8b4513" stroke="#5d2f0b" stroke-width="2" filter="url(#b)" rx="5"/><text x="645" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Governance (G)
-  </text>
-  <text x="645" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="645" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Selskapsstyring
-  </text>
-  <text x="645" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="645" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Board composition
-  </text>
-  <text x="645" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="645" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Bonus: 0-20%
-  </text>
-  
-
-  <rect x="50" y="280" width="700" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5" filter="url(#shadow)"/>
-  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><rect width="700" height="60" x="50" y="280" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" filter="url(#b)" rx="5"/><text x="400" y="305" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Beregningsformel:
-  </text>
-  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="400" y="325" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Modifisert skjermingsrente = Base skjermingsrente × (1 + ESG-faktor)
-  </text>
-  
-
-  <rect x="50" y="360" width="700" height="100" fill="#e8f5e8" stroke="#2E8B57" stroke-width="2" rx="5" filter="url(#shadow)"/>
-  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><rect width="700" height="100" x="50" y="360" fill="#e8f5e8" stroke="#2e8b57" stroke-width="2" filter="url(#b)" rx="5"/><text x="400" y="385" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Eksempel beregning:
-  </text>
-  <text x="400" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="400" y="405" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Base skjermingsrente: 4.0%
-  </text>
-  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><text x="400" y="425" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     ESG-score: E (20%) + S (15%) + G (15%) = 50% total bonus
-  </text>
-  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><text x="400" y="445" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Resultat: 4.0% × (1 + 0.50) = 6.0% skjermingsrente
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
-    </marker>
-  </defs>
-  
-
-  <line x1="155" y1="120" x2="155" y2="170" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <line x1="400" y1="120" x2="400" y2="170" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <line x1="645" y1="120" x2="645" y2="170" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <line x1="400" y1="250" x2="400" y2="280" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <line x1="400" y1="340" x2="400" y2="360" stroke="#2c3e50" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <text x="400" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#7f8c8d">
+  </text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="10" refY="3.5"><path fill="#2c3e50" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke="#2c3e50" stroke-width="2" marker-end="url(#c)" d="M155 120v50"/><path stroke="#2c3e50" stroke-width="2" marker-end="url(#c)" d="M400 120v50"/><path stroke="#2c3e50" stroke-width="2" marker-end="url(#c)" d="M645 120v50"/><path stroke="#2c3e50" stroke-width="2" marker-end="url(#c)" d="M400 250v30"/><path stroke="#2c3e50" stroke-width="2" marker-end="url(#c)" d="M400 340v20"/><text x="400" y="475" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" font-style="italic" text-anchor="middle">
     Total ESG-bonus: 0% til 70% over base rate
-  </text>
-</svg>
+  </text></svg>

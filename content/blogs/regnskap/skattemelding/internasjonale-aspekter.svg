@@ -1,158 +1,19 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2E5266;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1A3A4A;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="cfcGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#E8F4FD;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#B8E0FF;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="transferGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FFF8E1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FFE082;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="bepsGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#F3E5F5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#CE93D8;stop-opacity:1" />
-    </linearGradient>
-    <pattern id="globePattern" patternUnits="userSpaceOnUse" width="20" height="20">
-      <circle cx="10" cy="10" r="8" fill="none" stroke="#2E5266" stroke-width="1" opacity="0.1"/>
-      <path d="M2 10 Q10 2 18 10 Q10 18 2 10" fill="none" stroke="#2E5266" stroke-width="1" opacity="0.1"/>
-    </pattern>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#FAFAFA"/>
-  <rect width="800" height="600" fill="url(#globePattern)"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  <text x="400" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2e5266;stop-opacity:1"/><stop offset="100%" style="stop-color:#1a3a4a;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e8f4fd;stop-opacity:1"/><stop offset="100%" style="stop-color:#b8e0ff;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#fff8e1;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffe082;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1"/><stop offset="100%" style="stop-color:#ce93d8;stop-opacity:1"/></linearGradient><pattern id="a" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r="8" fill="none" stroke="#2e5266" opacity=".1"/><path fill="none" stroke="#2e5266" d="M2 10q8-8 16 0-8 8-16 0" opacity=".1"/></pattern></defs><path fill="#fafafa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Internasjonale Aspekter ved Skattemelding
-  </text>
-  
-
-  <circle cx="50" cy="40" r="20" fill="none" stroke="white" stroke-width="2"/>
-  <path d="M30 40 Q50 20 70 40 Q50 60 30 40" fill="none" stroke="white" stroke-width="2"/>
-  <line x1="30" y1="40" x2="70" y2="40" stroke="white" stroke-width="2"/>
-  
-
-
-  <rect x="50" y="110" width="220" height="160" rx="10" fill="url(#cfcGradient)" stroke="#2196F3" stroke-width="2"/>
-  <text x="160" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976D2">
+  </text><circle cx="50" cy="40" r="20" fill="none" stroke="#fff" stroke-width="2"/><path fill="none" stroke="#fff" stroke-width="2" d="M30 40q20-20 40 0-20 20-40 0"/><path stroke="#fff" stroke-width="2" d="M30 40h40"/><rect width="220" height="160" x="50" y="110" fill="url(#c)" stroke="#2196f3" stroke-width="2" rx="10"/><text x="160" y="135" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     CFC-Regler
-  </text>
-  <text x="160" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976D2">
+  </text><text x="160" y="155" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (Controlled Foreign Company)
-  </text>
-  
-
-  <rect x="65" y="170" width="190" height="25" rx="5" fill="white" stroke="#2196F3"/>
-  <text x="70" y="185" font-family="Arial, sans-serif" font-size="10" fill="#1976D2">• Lavskatteland: Effektiv skatt &lt; 19%</text>
-  
-  <rect x="65" y="200" width="190" height="25" rx="5" fill="white" stroke="#2196F3"/>
-  <text x="70" y="215" font-family="Arial, sans-serif" font-size="10" fill="#1976D2">• Passiv inntekt: Renter, utbytte, royalty</text>
-  
-  <rect x="65" y="230" width="190" height="25" rx="5" fill="white" stroke="#2196F3"/>
-  <text x="70" y="245" font-family="Arial, sans-serif" font-size="10" fill="#1976D2">• Gjennomskatning: Norsk skatt på overskudd</text>
-  
-
-  <rect x="290" y="110" width="220" height="160" rx="10" fill="url(#transferGradient)" stroke="#FF9800" stroke-width="2"/>
-  <text x="400" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F57C00">
+  </text><rect width="190" height="25" x="65" y="170" fill="#fff" stroke="#2196f3" rx="5"/><text x="70" y="185" fill="#1976d2" font-family="Arial, sans-serif" font-size="10">• Lavskatteland: Effektiv skatt &lt; 19%</text><rect width="190" height="25" x="65" y="200" fill="#fff" stroke="#2196f3" rx="5"/><text x="70" y="215" fill="#1976d2" font-family="Arial, sans-serif" font-size="10">• Passiv inntekt: Renter, utbytte, royalty</text><rect width="190" height="25" x="65" y="230" fill="#fff" stroke="#2196f3" rx="5"/><text x="70" y="245" fill="#1976d2" font-family="Arial, sans-serif" font-size="10">• Gjennomskatning: Norsk skatt på overskudd</text><rect width="220" height="160" x="290" y="110" fill="url(#d)" stroke="#ff9800" stroke-width="2" rx="10"/><text x="400" y="135" fill="#f57c00" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Transfer Pricing
-  </text>
-  <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#F57C00">
+  </text><text x="400" y="155" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Dokumentasjon
-  </text>
-  
-
-  <rect x="305" y="170" width="190" height="25" rx="5" fill="white" stroke="#FF9800"/>
-  <text x="310" y="185" font-family="Arial, sans-serif" font-size="10" fill="#F57C00">• Masterfil: Konsernstruktur</text>
-  
-  <rect x="305" y="200" width="190" height="25" rx="5" fill="white" stroke="#FF9800"/>
-  <text x="310" y="215" font-family="Arial, sans-serif" font-size="10" fill="#F57C00">• Lokalfil: Detaljert per enhet</text>
-  
-  <rect x="305" y="230" width="190" height="25" rx="5" fill="white" stroke="#FF9800"/>
-  <text x="310" y="245" font-family="Arial, sans-serif" font-size="10" fill="#F57C00">• Country-by-Country rapportering</text>
-  
-
-  <rect x="530" y="110" width="220" height="160" rx="10" fill="url(#bepsGradient)" stroke="#9C27B0" stroke-width="2"/>
-  <text x="640" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7B1FA2">
+  </text><rect width="190" height="25" x="305" y="170" fill="#fff" stroke="#ff9800" rx="5"/><text x="310" y="185" fill="#f57c00" font-family="Arial, sans-serif" font-size="10">• Masterfil: Konsernstruktur</text><rect width="190" height="25" x="305" y="200" fill="#fff" stroke="#ff9800" rx="5"/><text x="310" y="215" fill="#f57c00" font-family="Arial, sans-serif" font-size="10">• Lokalfil: Detaljert per enhet</text><rect width="190" height="25" x="305" y="230" fill="#fff" stroke="#ff9800" rx="5"/><text x="310" y="245" fill="#f57c00" font-family="Arial, sans-serif" font-size="10">• Country-by-Country rapportering</text><rect width="220" height="160" x="530" y="110" fill="url(#e)" stroke="#9c27b0" stroke-width="2" rx="10"/><text x="640" y="135" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     BEPS-Implementering
-  </text>
-  <text x="640" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7B1FA2">
+  </text><text x="640" y="155" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (Base Erosion &amp; Profit Shifting)
-  </text>
-  
-
-  <rect x="545" y="170" width="190" height="25" rx="5" fill="white" stroke="#9C27B0"/>
-  <text x="550" y="185" font-family="Arial, sans-serif" font-size="10" fill="#7B1FA2">• Pilar 1: Digital skatt</text>
-  
-  <rect x="545" y="200" width="190" height="25" rx="5" fill="white" stroke="#9C27B0"/>
-  <text x="550" y="215" font-family="Arial, sans-serif" font-size="10" fill="#7B1FA2">• Pilar 2: 15% minimum skatt</text>
-  
-  <rect x="545" y="230" width="190" height="25" rx="5" fill="white" stroke="#9C27B0"/>
-  <text x="550" y="245" font-family="Arial, sans-serif" font-size="10" fill="#7B1FA2">• Markedsallokeringer: 25% av overskudd</text>
-  
-
-  <rect x="170" y="300" width="460" height="120" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
-  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+  </text><rect width="190" height="25" x="545" y="170" fill="#fff" stroke="#9c27b0" rx="5"/><text x="550" y="185" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10">• Pilar 1: Digital skatt</text><rect width="190" height="25" x="545" y="200" fill="#fff" stroke="#9c27b0" rx="5"/><text x="550" y="215" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10">• Pilar 2: 15% minimum skatt</text><rect width="190" height="25" x="545" y="230" fill="#fff" stroke="#9c27b0" rx="5"/><text x="550" y="245" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10">• Markedsallokeringer: 25% av overskudd</text><rect width="460" height="120" x="170" y="300" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="400" y="325" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Grenseoverskridende Transaksjoner
-  </text>
-  
-
-  <rect x="190" y="340" width="200" height="25" rx="5" fill="white" stroke="#4CAF50"/>
-  <text x="195" y="355" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">• Permanent etablering</text>
-  
-  <rect x="410" y="340" width="200" height="25" rx="5" fill="white" stroke="#4CAF50"/>
-  <text x="415" y="355" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">• Valutakurseffekter</text>
-  
-  <rect x="190" y="370" width="200" height="25" rx="5" fill="white" stroke="#4CAF50"/>
-  <text x="195" y="385" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">• Skatteavtaler og allokeringsregler</text>
-  
-  <rect x="410" y="370" width="200" height="25" rx="5" fill="white" stroke="#4CAF50"/>
-  <text x="415" y="385" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">• Funksjonell vs. rapporteringsvaluta</text>
-  
-
-  <rect x="50" y="450" width="700" height="120" rx="10" fill="#FFF3E0" stroke="#FF5722" stroke-width="2"/>
-  <text x="400" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#D84315">
+  </text><rect width="200" height="25" x="190" y="340" fill="#fff" stroke="#4caf50" rx="5"/><text x="195" y="355" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">• Permanent etablering</text><rect width="200" height="25" x="410" y="340" fill="#fff" stroke="#4caf50" rx="5"/><text x="415" y="355" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">• Valutakurseffekter</text><rect width="200" height="25" x="190" y="370" fill="#fff" stroke="#4caf50" rx="5"/><text x="195" y="385" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">• Skatteavtaler og allokeringsregler</text><rect width="200" height="25" x="410" y="370" fill="#fff" stroke="#4caf50" rx="5"/><text x="415" y="385" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">• Funksjonell vs. rapporteringsvaluta</text><rect width="700" height="120" x="50" y="450" fill="#fff3e0" stroke="#ff5722" stroke-width="2" rx="10"/><text x="400" y="475" fill="#d84315" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Viktige Rapporteringskrav
-  </text>
-  
-
-  <rect x="70" y="490" width="200" height="25" rx="5" fill="white" stroke="#FF5722"/>
-  <text x="75" y="505" font-family="Arial, sans-serif" font-size="10" fill="#D84315">• Transaksjoner &gt; 10 mill. kr</text>
-  
-  <rect x="300" y="490" width="200" height="25" rx="5" fill="white" stroke="#FF5722"/>
-  <text x="305" y="505" font-family="Arial, sans-serif" font-size="10" fill="#D84315">• Armlengdeprinsippet</text>
-  
-  <rect x="530" y="490" width="200" height="25" rx="5" fill="white" stroke="#FF5722"/>
-  <text x="535" y="505" font-family="Arial, sans-serif" font-size="10" fill="#D84315">• Automatisk informasjonsutveksling</text>
-  
-  <rect x="70" y="520" width="200" height="25" rx="5" fill="white" stroke="#FF5722"/>
-  <text x="75" y="535" font-family="Arial, sans-serif" font-size="10" fill="#D84315">• CRS-rapportering til 30. juni</text>
-  
-  <rect x="300" y="520" width="200" height="25" rx="5" fill="white" stroke="#FF5722"/>
-  <text x="305" y="535" font-family="Arial, sans-serif" font-size="10" fill="#D84315">• Benchmarking mot markedet</text>
-  
-  <rect x="530" y="520" width="200" height="25" rx="5" fill="white" stroke="#FF5722"/>
-  <text x="535" y="535" font-family="Arial, sans-serif" font-size="10" fill="#D84315">• Konserninterntsprising</text>
-  
-
-  <line x1="160" y1="270" x2="160" y2="300" stroke="#2196F3" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="400" y1="270" x2="400" y2="300" stroke="#FF9800" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="640" y1="270" x2="640" y2="300" stroke="#9C27B0" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <path d="M160 420 L160 450" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M400 420 L400 450" stroke="#FF9800" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M640 420 L640 450" stroke="#9C27B0" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
-    </marker>
-  </defs>
-</svg>
+  </text><rect width="200" height="25" x="70" y="490" fill="#fff" stroke="#ff5722" rx="5"/><text x="75" y="505" fill="#d84315" font-family="Arial, sans-serif" font-size="10">• Transaksjoner &gt; 10 mill. kr</text><rect width="200" height="25" x="300" y="490" fill="#fff" stroke="#ff5722" rx="5"/><text x="305" y="505" fill="#d84315" font-family="Arial, sans-serif" font-size="10">• Armlengdeprinsippet</text><rect width="200" height="25" x="530" y="490" fill="#fff" stroke="#ff5722" rx="5"/><text x="535" y="505" fill="#d84315" font-family="Arial, sans-serif" font-size="10">• Automatisk informasjonsutveksling</text><rect width="200" height="25" x="70" y="520" fill="#fff" stroke="#ff5722" rx="5"/><text x="75" y="535" fill="#d84315" font-family="Arial, sans-serif" font-size="10">• CRS-rapportering til 30. juni</text><rect width="200" height="25" x="300" y="520" fill="#fff" stroke="#ff5722" rx="5"/><text x="305" y="535" fill="#d84315" font-family="Arial, sans-serif" font-size="10">• Benchmarking mot markedet</text><rect width="200" height="25" x="530" y="520" fill="#fff" stroke="#ff5722" rx="5"/><text x="535" y="535" fill="#d84315" font-family="Arial, sans-serif" font-size="10">• Konserninterntsprising</text><path stroke="#2196f3" stroke-dasharray="5,5" stroke-width="2" d="M160 270v30"/><path stroke="#ff9800" stroke-dasharray="5,5" stroke-width="2" d="M400 270v30"/><path stroke="#9c27b0" stroke-dasharray="5,5" stroke-width="2" d="M640 270v30"/><path fill="none" stroke="#2196f3" stroke-width="2" marker-end="url(#f)" d="M160 420v30"/><path fill="none" stroke="#ff9800" stroke-width="2" marker-end="url(#f)" d="M400 420v30"/><path fill="none" stroke="#9c27b0" stroke-width="2" marker-end="url(#f)" d="M640 420v30"/><defs><marker id="f" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#333" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

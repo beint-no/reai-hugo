@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180">
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L6,3 Z" fill="#333"/>
-    </marker>
-  </defs>
-  <text x="300" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#333">ELMA API-integrasjon</text>
-  <rect x="80" y="50" width="120" height="60" fill="#e0e0e0" stroke="#333"/>
-  <text x="140" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#000">Ditt system</text>
-  <line x1="200" y1="80" x2="260" y2="80" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <rect x="260" y="50" width="120" height="60" fill="#e0e0e0" stroke="#333"/>
-  <text x="320" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#000">ELMA API</text>
-  <line x1="380" y1="80" x2="440" y2="80" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <rect x="440" y="50" width="120" height="60" fill="#e0e0e0" stroke="#333"/>
-  <text x="500" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#000">Adresseoppslag</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180"><defs><marker id="a" markerHeight="10" markerWidth="10" orient="auto" refX="10" refY="3"><path fill="#333" d="M0 0v6l6-3Z"/></marker></defs><text x="300" y="20" fill="#333" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">ELMA API-integrasjon</text><path fill="#e0e0e0" stroke="#333" d="M80 50h120v60H80z"/><text x="140" y="85" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Ditt system</text><path stroke="#333" stroke-width="2" marker-end="url(#a)" d="M200 80h60"/><path fill="#e0e0e0" stroke="#333" d="M260 50h120v60H260z"/><text x="320" y="85" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">ELMA API</text><path stroke="#333" stroke-width="2" marker-end="url(#a)" d="M380 80h60"/><path fill="#e0e0e0" stroke="#333" d="M440 50h120v60H440z"/><text x="500" y="85" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Adresseoppslag</text></svg>

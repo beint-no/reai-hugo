@@ -1,188 +1,49 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">
     Rapporteringsstruktur i Internregnskap
-  </text>
-  
-
-  <g transform="translate(400, 100)">
-    <rect x="-150" y="-30" width="300" height="60" fill="url(#headerGradient)" stroke="#004499" stroke-width="2" rx="10"/>
-    <text x="0" y="-5" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(400 100)"><rect width="300" height="60" x="-150" y="-30" fill="url(#b)" stroke="#049" stroke-width="2" rx="10"/><text y="-5" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Strategiske Rapporter
-    </text>
-    <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    </text><text y="15" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Toppledelse - Månedlig/Kvartalsvis
-    </text>
-  </g>
-  
-
-  <g transform="translate(150, 220)">
-
-    <rect x="0" y="0" width="180" height="80" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/>
-    <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><g transform="translate(150 220)"><rect width="180" height="80" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="8"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Operasjonelle
-    </text>
-    <text x="90" y="45" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text x="90" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Rapporter
-    </text>
-    <text x="90" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text x="90" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Avdelingsledere - Ukentlig
-    </text>
-    
-
-    <rect x="200" y="0" width="180" height="80" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="8"/>
-    <text x="290" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><rect width="180" height="80" x="200" fill="#dc3545" stroke="#c82333" stroke-width="2" rx="8"/><text x="290" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Finansielle
-    </text>
-    <text x="290" y="45" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+    </text><text x="290" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Rapporter
-    </text>
-    <text x="290" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    </text><text x="290" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Økonomiansvarlig - Månedlig
-    </text>
-    
-
-    <rect x="400" y="0" width="180" height="80" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="8"/>
-    <text x="490" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="black">
+    </text><rect width="180" height="80" x="400" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="8"/><text x="490" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Prosjekt-
-    </text>
-    <text x="490" y="45" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="black">
+    </text><text x="490" y="45" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       rapporter
-    </text>
-    <text x="490" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="black">
+    </text><text x="490" y="65" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Prosjektledere - Ukentlig
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 350)">
-
-    <rect x="0" y="0" width="140" height="100" fill="#e3f2fd" stroke="#0066cc" stroke-width="2" rx="8"/>
-    <text x="70" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    </text></g><g transform="translate(50 350)"><rect width="140" height="100" fill="#e3f2fd" stroke="#06c" stroke-width="2" rx="8"/><text x="70" y="25" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Daglige
-    </text>
-    <text x="70" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
+    </text><text x="70" y="40" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Operasjoner
-    </text>
-    <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="#333">• Produksjonsdata</text>
-    <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="#333">• Salgsrapporter</text>
-    <text x="10" y="90" font-family="Arial, sans-serif" font-size="10" fill="#333">• Kvalitetsmål</text>
-    
-
-    <rect x="160" y="0" width="140" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
-    <text x="230" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#e0a800">
+    </text><text x="10" y="60" fill="#333" font-family="Arial, sans-serif" font-size="10">• Produksjonsdata</text><text x="10" y="75" fill="#333" font-family="Arial, sans-serif" font-size="10">• Salgsrapporter</text><text x="10" y="90" fill="#333" font-family="Arial, sans-serif" font-size="10">• Kvalitetsmål</text><rect width="140" height="100" x="160" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/><text x="230" y="25" fill="#e0a800" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Budsjett vs
-    </text>
-    <text x="230" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#e0a800">
+    </text><text x="230" y="40" fill="#e0a800" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Faktisk
-    </text>
-    <text x="170" y="60" font-family="Arial, sans-serif" font-size="10" fill="#333">• Avviksanalyse</text>
-    <text x="170" y="75" font-family="Arial, sans-serif" font-size="10" fill="#333">• Prognosejustering</text>
-    <text x="170" y="90" font-family="Arial, sans-serif" font-size="10" fill="#333">• Handlingsplaner</text>
-    
-
-    <rect x="320" y="0" width="140" height="100" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/>
-    <text x="390" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+    </text><text x="170" y="60" fill="#333" font-family="Arial, sans-serif" font-size="10">• Avviksanalyse</text><text x="170" y="75" fill="#333" font-family="Arial, sans-serif" font-size="10">• Prognosejustering</text><text x="170" y="90" fill="#333" font-family="Arial, sans-serif" font-size="10">• Handlingsplaner</text><rect width="140" height="100" x="320" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/><text x="390" y="25" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       KPI
-    </text>
-    <text x="390" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+    </text><text x="390" y="40" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Dashboards
-    </text>
-    <text x="330" y="60" font-family="Arial, sans-serif" font-size="10" fill="#333">• Sanntidsdata</text>
-    <text x="330" y="75" font-family="Arial, sans-serif" font-size="10" fill="#333">• Trendanalyse</text>
-    <text x="330" y="90" font-family="Arial, sans-serif" font-size="10" fill="#333">• Benchmarking</text>
-    
-
-    <rect x="480" y="0" width="140" height="100" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/>
-    <text x="550" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">
+    </text><text x="330" y="60" fill="#333" font-family="Arial, sans-serif" font-size="10">• Sanntidsdata</text><text x="330" y="75" fill="#333" font-family="Arial, sans-serif" font-size="10">• Trendanalyse</text><text x="330" y="90" fill="#333" font-family="Arial, sans-serif" font-size="10">• Benchmarking</text><rect width="140" height="100" x="480" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="8"/><text x="550" y="25" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Kostnads-
-    </text>
-    <text x="550" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">
+    </text><text x="550" y="40" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       analyser
-    </text>
-    <text x="490" y="60" font-family="Arial, sans-serif" font-size="10" fill="#333">• Produktkalkyler</text>
-    <text x="490" y="75" font-family="Arial, sans-serif" font-size="10" fill="#333">• Lønnsomhet</text>
-    <text x="490" y="90" font-family="Arial, sans-serif" font-size="10" fill="#333">• ABC-analyse</text>
-    
-
-    <rect x="640" y="0" width="140" height="100" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="8"/>
-    <text x="710" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#6c757d">
+    </text><text x="490" y="60" fill="#333" font-family="Arial, sans-serif" font-size="10">• Produktkalkyler</text><text x="490" y="75" fill="#333" font-family="Arial, sans-serif" font-size="10">• Lønnsomhet</text><text x="490" y="90" fill="#333" font-family="Arial, sans-serif" font-size="10">• ABC-analyse</text><rect width="140" height="100" x="640" fill="#e2e3e5" stroke="#6c757d" stroke-width="2" rx="8"/><text x="710" y="25" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Ad-hoc
-    </text>
-    <text x="710" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#6c757d">
+    </text><text x="710" y="40" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Analyser
-    </text>
-    <text x="650" y="60" font-family="Arial, sans-serif" font-size="10" fill="#333">• Spesialanalyser</text>
-    <text x="650" y="75" font-family="Arial, sans-serif" font-size="10" fill="#333">• Scenarioer</text>
-    <text x="650" y="90" font-family="Arial, sans-serif" font-size="10" fill="#333">• Investeringer</text>
-  </g>
-  
-
-  <g transform="translate(0, 180)">
-
-    <path d="M 350 0 L 240 20" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    <path d="M 400 0 L 340 20" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    <path d="M 450 0 L 540 20" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-  <g transform="translate(0, 320)">
-
-    <path d="M 240 0 L 120 10" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    <path d="M 240 0 L 230 10" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    <path d="M 340 0 L 390 10" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    <path d="M 340 0 L 550 10" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    <path d="M 540 0 L 710 10" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(50, 480)">
-    <rect x="0" y="0" width="700" height="100" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+    </text><text x="650" y="60" fill="#333" font-family="Arial, sans-serif" font-size="10">• Spesialanalyser</text><text x="650" y="75" fill="#333" font-family="Arial, sans-serif" font-size="10">• Scenarioer</text><text x="650" y="90" fill="#333" font-family="Arial, sans-serif" font-size="10">• Investeringer</text></g><g fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#c)" transform="translate(0 180)"><path d="M350 0 240 20"/><path d="m400 0-60 20"/><path d="m450 0 90 20"/></g><g fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#c)" transform="translate(0 320)"><path d="M240 0 120 10"/><path d="m240 0-10 10"/><path d="m340 0 50 10"/><path d="m340 0 210 10"/><path d="m540 0 170 10"/></g><g transform="translate(50 480)"><rect width="700" height="100" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="8"/><text x="350" y="25" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Rapportkarakteristika
-    </text>
-    
-
-    <g transform="translate(30, 40)">
-
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">Frekvens:</text>
-      <text x="80" y="20" font-family="Arial, sans-serif" font-size="11" fill="#333">Daglig → Ukentlig → Månedlig → Kvartalsvis</text>
-      
-
-      <text x="0" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">Detaljnivå:</text>
-      <text x="80" y="40" font-family="Arial, sans-serif" font-size="11" fill="#333">Høy detalj → Mellom → Sammendrag → Strategisk oversikt</text>
-      
-
-      <text x="0" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">Målgruppe:</text>
-      <text x="80" y="60" font-family="Arial, sans-serif" font-size="11" fill="#333">Operatører → Avdelingsledere → Mellomledelse → Toppledelse</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(750, 200)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6c757d" transform="rotate(-90)">
+    </text><g font-family="Arial, sans-serif"><text y="20" fill="#06c" font-size="12" font-weight="bold" transform="translate(30 40)">Frekvens:</text><text x="80" y="20" fill="#333" font-size="11" transform="translate(30 40)">Daglig → Ukentlig → Månedlig → Kvartalsvis</text><text y="40" fill="#28a745" font-size="12" font-weight="bold" transform="translate(30 40)">Detaljnivå:</text><text x="80" y="40" fill="#333" font-size="11" transform="translate(30 40)">Høy detalj → Mellom → Sammendrag → Strategisk oversikt</text><text y="60" fill="#dc3545" font-size="12" font-weight="bold" transform="translate(30 40)">Målgruppe:</text><text x="80" y="60" fill="#333" font-size="11" transform="translate(30 40)">Operatører → Avdelingsledere → Mellomledelse → Toppledelse</text></g></g><text fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-weight="bold" transform="rotate(-90 475 -275)">
       Tilbakemelding og justering
-    </text>
-    <path d="M 20 200 L 20 50" stroke="#6c757d" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-  </defs>
-</svg>
+    </text><path fill="none" stroke="#6c757d" stroke-dasharray="5,5" stroke-width="2" marker-end="url(#c)" d="M20 200V50" transform="translate(750 200)"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

@@ -1,186 +1,41 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="1" rx="10"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e40af">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient></defs><rect width="800" height="500" fill="url(#a)" stroke="#cbd5e1" rx="10"/><text x="400" y="30" fill="#1e40af" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     KREDITTVURDERING BASERT PÅ PASSIVA
-  </text>
-  
-
-  <g transform="translate(50, 60)">
-    <rect x="0" y="0" width="700" height="100" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" rx="8"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
+  </text><g transform="translate(50 60)"><rect width="700" height="100" fill="#f8fafc" stroke="#cbd5e1" rx="8"/><text x="350" y="25" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       KREDITTVURDERING SKALA
-    </text>
-    
-
-    <rect x="20" y="40" width="120" height="50" fill="#10b981" fill-opacity="0.8" stroke="#059669" stroke-width="2" rx="4"/>
-    <text x="80" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="120" height="50" x="20" y="40" fill="#10b981" fill-opacity=".8" stroke="#059669" stroke-width="2" rx="4"/><text x="80" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       UTMERKET
-    </text>
-    <text x="80" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="80" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       EK &gt; 40%
-    </text>
-    
-
-    <rect x="150" y="40" width="120" height="50" fill="#22c55e" fill-opacity="0.8" stroke="#16a34a" stroke-width="2" rx="4"/>
-    <text x="210" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="120" height="50" x="150" y="40" fill="#22c55e" fill-opacity=".8" stroke="#16a34a" stroke-width="2" rx="4"/><text x="210" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       GOD
-    </text>
-    <text x="210" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="210" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       EK 30-40%
-    </text>
-    
-
-    <rect x="280" y="40" width="120" height="50" fill="#84cc16" fill-opacity="0.8" stroke="#65a30d" stroke-width="2" rx="4"/>
-    <text x="340" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="120" height="50" x="280" y="40" fill="#84cc16" fill-opacity=".8" stroke="#65a30d" stroke-width="2" rx="4"/><text x="340" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       AKSEPTABEL
-    </text>
-    <text x="340" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="340" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       EK 20-30%
-    </text>
-    
-
-    <rect x="410" y="40" width="120" height="50" fill="#f59e0b" fill-opacity="0.8" stroke="#d97706" stroke-width="2" rx="4"/>
-    <text x="470" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="120" height="50" x="410" y="40" fill="#f59e0b" fill-opacity=".8" stroke="#d97706" stroke-width="2" rx="4"/><text x="470" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       ADVARSEL
-    </text>
-    <text x="470" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="470" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       EK 10-20%
-    </text>
-    
-
-    <rect x="540" y="40" width="120" height="50" fill="#ef4444" fill-opacity="0.8" stroke="#dc2626" stroke-width="2" rx="4"/>
-    <text x="600" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="120" height="50" x="540" y="40" fill="#ef4444" fill-opacity=".8" stroke="#dc2626" stroke-width="2" rx="4"/><text x="600" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       DÅRLIG
-    </text>
-    <text x="600" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="600" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       EK &lt; 10%
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 180)">
-    <rect x="0" y="0" width="700" height="200" fill="white" stroke="#cbd5e1" stroke-width="1" rx="8"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#374151">
+    </text></g><g transform="translate(50 180)"><rect width="700" height="200" fill="#fff" stroke="#cbd5e1" rx="8"/><text x="350" y="25" fill="#374151" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       NØKKELTALL FOR KREDITTVURDERING
-    </text>
-    
-
-    <rect x="20" y="40" width="160" height="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
-    <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+    </text><path fill="#e5e7eb" stroke="#9ca3af" d="M20 40h160v30H20z"/><text x="100" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       NØKKELTALL
-    </text>
-    
-    <rect x="180" y="40" width="130" height="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
-    <text x="245" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+    </text><path fill="#e5e7eb" stroke="#9ca3af" d="M180 40h130v30H180z"/><text x="245" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       BEREGNING
-    </text>
-    
-    <rect x="310" y="40" width="120" height="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
-    <text x="370" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+    </text><path fill="#e5e7eb" stroke="#9ca3af" d="M310 40h120v30H310z"/><text x="370" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       ØNSKET NIVÅ
-    </text>
-    
-    <rect x="430" y="40" width="120" height="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
-    <text x="490" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+    </text><path fill="#e5e7eb" stroke="#9ca3af" d="M430 40h120v30H430z"/><text x="490" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       ADVARSEL
-    </text>
-    
-    <rect x="550" y="40" width="130" height="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
-    <text x="615" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+    </text><path fill="#e5e7eb" stroke="#9ca3af" d="M550 40h130v30H550z"/><text x="615" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       PÅVIRKNING
-    </text>
-    
-
-    <rect x="20" y="70" width="160" height="30" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="30" y="90" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Egenkapitalandel</text>
-    
-    <rect x="180" y="70" width="130" height="30" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="245" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">EK / Total kapital</text>
-    
-    <rect x="310" y="70" width="120" height="30" fill="#dcfce7" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="370" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">&gt; 30%</text>
-    
-    <rect x="430" y="70" width="120" height="30" fill="#fef3c7" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="490" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">&lt; 20%</text>
-    
-    <rect x="550" y="70" width="130" height="30" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="615" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Rente &amp; sikkerhet</text>
-    
-
-    <rect x="20" y="100" width="160" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="30" y="120" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Gjeldsgrad</text>
-    
-    <rect x="180" y="100" width="130" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="245" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Total gjeld / EK</text>
-    
-    <rect x="310" y="100" width="120" height="30" fill="#dcfce7" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="370" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">&lt; 3</text>
-    
-    <rect x="430" y="100" width="120" height="30" fill="#fef3c7" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="490" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">&gt; 5</text>
-    
-    <rect x="550" y="100" width="130" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="615" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Lånekapasitet</text>
-    
-
-    <rect x="20" y="130" width="160" height="30" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="30" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Rentedekningsgrad</text>
-    
-    <rect x="180" y="130" width="130" height="30" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="245" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">EBIT / Renter</text>
-    
-    <rect x="310" y="130" width="120" height="30" fill="#dcfce7" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="370" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">&gt; 3</text>
-    
-    <rect x="430" y="130" width="120" height="30" fill="#fef3c7" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="490" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">&lt; 1,5</text>
-    
-    <rect x="550" y="130" width="130" height="30" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="615" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Betalingsevne</text>
-    
-
-    <rect x="20" y="160" width="160" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="30" y="180" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Likviditetsgrad 1</text>
-    
-    <rect x="180" y="160" width="130" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="245" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Omløp / Korts. gjeld</text>
-    
-    <rect x="310" y="160" width="120" height="30" fill="#dcfce7" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="370" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#166534">&gt; 2</text>
-    
-    <rect x="430" y="160" width="120" height="30" fill="#fef3c7" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="490" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">&lt; 1,2</text>
-    
-    <rect x="550" y="160" width="130" height="30" fill="white" stroke="#e5e7eb" stroke-width="1"/>
-    <text x="615" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#374151">Likviditet</text>
-  </g>
-  
-
-  <g transform="translate(50, 400)">
-    <rect x="0" y="0" width="330" height="80" fill="#e0f2fe" fill-opacity="0.5" stroke="#0891b2" stroke-width="1" rx="4"/>
-    <text x="165" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0891b2">
+    </text><path fill="#f9fafb" stroke="#e5e7eb" d="M20 70h160v30H20z"/><text x="30" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Egenkapitalandel</text><path fill="#f9fafb" stroke="#e5e7eb" d="M180 70h130v30H180z"/><text x="245" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">EK / Total kapital</text><path fill="#dcfce7" stroke="#e5e7eb" d="M310 70h120v30H310z"/><text x="370" y="90" fill="#166534" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">&gt; 30%</text><path fill="#fef3c7" stroke="#e5e7eb" d="M430 70h120v30H430z"/><text x="490" y="90" fill="#92400e" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">&lt; 20%</text><path fill="#f9fafb" stroke="#e5e7eb" d="M550 70h130v30H550z"/><text x="615" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Rente &amp; sikkerhet</text><path fill="#fff" stroke="#e5e7eb" d="M20 100h160v30H20z"/><text x="30" y="120" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Gjeldsgrad</text><path fill="#fff" stroke="#e5e7eb" d="M180 100h130v30H180z"/><text x="245" y="120" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Total gjeld / EK</text><path fill="#dcfce7" stroke="#e5e7eb" d="M310 100h120v30H310z"/><text x="370" y="120" fill="#166534" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">&lt; 3</text><path fill="#fef3c7" stroke="#e5e7eb" d="M430 100h120v30H430z"/><text x="490" y="120" fill="#92400e" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">&gt; 5</text><path fill="#fff" stroke="#e5e7eb" d="M550 100h130v30H550z"/><text x="615" y="120" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Lånekapasitet</text><path fill="#f9fafb" stroke="#e5e7eb" d="M20 130h160v30H20z"/><text x="30" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Rentedekningsgrad</text><path fill="#f9fafb" stroke="#e5e7eb" d="M180 130h130v30H180z"/><text x="245" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">EBIT / Renter</text><path fill="#dcfce7" stroke="#e5e7eb" d="M310 130h120v30H310z"/><text x="370" y="150" fill="#166534" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">&gt; 3</text><path fill="#fef3c7" stroke="#e5e7eb" d="M430 130h120v30H430z"/><text x="490" y="150" fill="#92400e" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">&lt; 1,5</text><path fill="#f9fafb" stroke="#e5e7eb" d="M550 130h130v30H550z"/><text x="615" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Betalingsevne</text><path fill="#fff" stroke="#e5e7eb" d="M20 160h160v30H20z"/><text x="30" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Likviditetsgrad 1</text><path fill="#fff" stroke="#e5e7eb" d="M180 160h130v30H180z"/><text x="245" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Omløp / Korts. gjeld</text><path fill="#dcfce7" stroke="#e5e7eb" d="M310 160h120v30H310z"/><text x="370" y="180" fill="#166534" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">&gt; 2</text><path fill="#fef3c7" stroke="#e5e7eb" d="M430 160h120v30H430z"/><text x="490" y="180" fill="#92400e" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">&lt; 1,2</text><path fill="#fff" stroke="#e5e7eb" d="M550 160h130v30H550z"/><text x="615" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Likviditet</text></g><g transform="translate(50 400)"><rect width="330" height="80" fill="#e0f2fe" fill-opacity=".5" stroke="#0891b2" rx="4"/><text x="165" y="20" fill="#0891b2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       GOD PASSIVA-STRUKTUR GIR
-    </text>
-    <text x="10" y="40" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Lavere rente på nye lån</text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Mindre sikkerhetskrav</text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Høyere lånekapasitet</text>
-    
-    <rect x="370" y="0" width="330" height="80" fill="#fef2f2" fill-opacity="0.5" stroke="#ef4444" stroke-width="1" rx="4"/>
-    <text x="535" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">
+    </text><text x="10" y="40" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Lavere rente på nye lån</text><text x="10" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Mindre sikkerhetskrav</text><text x="10" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Høyere lånekapasitet</text><rect width="330" height="80" x="370" fill="#fef2f2" fill-opacity=".5" stroke="#ef4444" rx="4"/><text x="535" y="20" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       DÅRLIG PASSIVA-STRUKTUR GIR
-    </text>
-    <text x="380" y="40" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Høyere rente og risikopremie</text>
-    <text x="380" y="55" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Økte sikkerhetskrav</text>
-    <text x="380" y="70" font-family="Arial, sans-serif" font-size="12" fill="#374151">• Begrenset tilgang til kapital</text>
-  </g>
-</svg>
+    </text><text x="380" y="40" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Høyere rente og risikopremie</text><text x="380" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Økte sikkerhetskrav</text><text x="380" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="12">• Begrenset tilgang til kapital</text></g></svg>

@@ -1,160 +1,55 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="50" fill="url(#headerGradient)"/>
-  <text x="400" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v50H0z"/><text x="400" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Multi-Produkt Nullpunkt-Analyse
-  </text>
-  
-
-  <rect x="50" y="80" width="700" height="200" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
-  <text x="400" y="105" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><rect width="700" height="200" x="50" y="80" fill="#fff" stroke="#dee2e6" rx="8"/><text x="400" y="105" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Produktmiks og Dekningsbidrag
-  </text>
-  
-
-  <rect x="80" y="130" width="180" height="120" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/>
-  <rect x="80" y="130" width="180" height="30" fill="#ff9800" rx="5"/>
-  <text x="170" y="150" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="180" height="120" x="80" y="130" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/><rect width="180" height="30" x="80" y="130" fill="#ff9800" rx="5"/><text x="170" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Produkt A
-  </text>
-  
-  <text x="90" y="175" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="90" y="175" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Salgsmiks: 50%
-  </text>
-  <text x="90" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="90" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Dekningsbidrag: 80 kr
-  </text>
-  <text x="90" y="205" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="90" y="205" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Vektet DB: 50% × 80 kr
-  </text>
-  
-  <rect x="90" y="220" width="160" height="20" fill="#ff9800" rx="3"/>
-  <text x="170" y="233" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="160" height="20" x="90" y="220" fill="#ff9800" rx="3"/><text x="170" y="233" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     = 40 kr
-  </text>
-  
-
-  <rect x="310" y="130" width="180" height="120" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="5"/>
-  <rect x="310" y="130" width="180" height="30" fill="#4caf50" rx="5"/>
-  <text x="400" y="150" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="180" height="120" x="310" y="130" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="5"/><rect width="180" height="30" x="310" y="130" fill="#4caf50" rx="5"/><text x="400" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Produkt B
-  </text>
-  
-  <text x="320" y="175" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="320" y="175" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Salgsmiks: 30%
-  </text>
-  <text x="320" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="320" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Dekningsbidrag: 150 kr
-  </text>
-  <text x="320" y="205" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="320" y="205" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Vektet DB: 30% × 150 kr
-  </text>
-  
-  <rect x="320" y="220" width="160" height="20" fill="#4caf50" rx="3"/>
-  <text x="400" y="233" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="160" height="20" x="320" y="220" fill="#4caf50" rx="3"/><text x="400" y="233" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     = 45 kr
-  </text>
-  
-
-  <rect x="540" y="130" width="180" height="120" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="5"/>
-  <rect x="540" y="130" width="180" height="30" fill="#9c27b0" rx="5"/>
-  <text x="630" y="150" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="180" height="120" x="540" y="130" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="5"/><rect width="180" height="30" x="540" y="130" fill="#9c27b0" rx="5"/><text x="630" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Produkt C
-  </text>
-  
-  <text x="550" y="175" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="550" y="175" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Salgsmiks: 20%
-  </text>
-  <text x="550" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="550" y="190" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Dekningsbidrag: 20 kr
-  </text>
-  <text x="550" y="205" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="550" y="205" fill="#333" font-family="Arial, sans-serif" font-size="11">
     Vektet DB: 20% × 20 kr
-  </text>
-  
-  <rect x="550" y="220" width="160" height="20" fill="#9c27b0" rx="3"/>
-  <text x="630" y="233" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="160" height="20" x="550" y="220" fill="#9c27b0" rx="3"/><text x="630" y="233" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     = 4 kr
-  </text>
-  
-
-  <rect x="50" y="300" width="700" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
-  <text x="400" y="325" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><rect width="700" height="120" x="50" y="300" fill="#fff" stroke="#dee2e6" rx="8"/><text x="400" y="325" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Vektet Gjennomsnittlig Dekningsbidrag
-  </text>
-  
-
-  <rect x="100" y="350" width="600" height="50" fill="#f8f9fa" stroke="#0066cc" stroke-width="2" rx="5"/>
-  <text x="400" y="370" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="600" height="50" x="100" y="350" fill="#f8f9fa" stroke="#06c" stroke-width="2" rx="5"/><text x="400" y="370" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Total vektet DB = 40 kr + 45 kr + 4 kr = 89 kr per enhet (gjennomsnitt)
-  </text>
-  <text x="400" y="390" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="400" y="390" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Nullpunkt = 180.000 kr ÷ 89 kr = 2.022 enheter (totalt)
-  </text>
-  
-
-  <rect x="50" y="440" width="700" height="130" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
-  <text x="400" y="465" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><rect width="700" height="130" x="50" y="440" fill="#fff" stroke="#dee2e6" rx="8"/><text x="400" y="465" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Fordeling av Nullpunkt per Produkt
-  </text>
-  
-
-  <rect x="100" y="480" width="200" height="25" fill="#ff9800" rx="3"/>
-  <text x="200" y="497" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="200" height="25" x="100" y="480" fill="#ff9800" rx="3"/><text x="200" y="497" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Produkt A: 1.011 enheter (50%)
-  </text>
-  
-  <rect x="320" y="480" width="120" height="25" fill="#4caf50" rx="3"/>
-  <text x="380" y="497" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="120" height="25" x="320" y="480" fill="#4caf50" rx="3"/><text x="380" y="497" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Produkt B: 607 enheter (30%)
-  </text>
-  
-  <rect x="460" y="480" width="80" height="25" fill="#9c27b0" rx="3"/>
-  <text x="500" y="497" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="80" height="25" x="460" y="480" fill="#9c27b0" rx="3"/><text x="500" y="497" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Produkt C: 404 enheter (20%)
-  </text>
-  
-
-  <text x="100" y="530" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><text x="100" y="530" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Viktige innsikter:
-  </text>
-  <text x="100" y="550" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="100" y="550" fill="#666" font-family="Arial, sans-serif" font-size="11">
     • Produktmiks påvirker nullpunkt betydelig - høyere andel av lønnsomme produkter reduserer nullpunkt
-  </text>
-  <text x="100" y="565" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="100" y="565" fill="#666" font-family="Arial, sans-serif" font-size="11">
     • Endringer i produktmiks krever ny nullpunkt-beregning
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666" />
-    </marker>
-  </defs>
-  
-
-  <line x1="170" y1="250" x2="170" y2="300" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <line x1="400" y1="250" x2="400" y2="300" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <line x1="630" y1="250" x2="630" y2="300" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <line x1="400" y1="420" x2="400" y2="440" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
-</svg>
+  </text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke="#666" stroke-width="2" marker-end="url(#c)" d="M170 250v50"/><path stroke="#666" stroke-width="2" marker-end="url(#c)" d="M400 250v50"/><path stroke="#666" stroke-width="2" marker-end="url(#c)" d="M630 250v50"/><path stroke="#666" stroke-width="2" marker-end="url(#c)" d="M400 420v20"/></svg>

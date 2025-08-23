@@ -1,120 +1,13 @@
-<svg width="600" height="700" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1565c0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1976d2;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="operatingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="600" height="700" fill="#fafafa"/>
-  
-
-  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1565c0">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="700"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1565c0;stop-opacity:1"/><stop offset="100%" style="stop-color:#1976d2;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1"/></linearGradient></defs><path fill="#fafafa" d="M0 0h600v700H0z"/><text x="300" y="30" fill="#1565c0" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Resultatregnskap - Struktur
-  </text>
-  
-
-  <rect x="50" y="60" width="500" height="620" fill="white" stroke="#1976d2" stroke-width="2" rx="10"/>
-  
-
-  <rect x="60" y="80" width="480" height="40" fill="url(#headerGradient)" rx="5"/>
-  <text x="300" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="500" height="620" x="50" y="60" fill="#fff" stroke="#1976d2" stroke-width="2" rx="10"/><rect width="480" height="40" x="60" y="80" fill="url(#a)" rx="5"/><text x="300" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     RESULTATREGNSKAP
-  </text>
-  
-
-  <rect x="70" y="140" width="460" height="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
-  <text x="80" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565c0">
+  </text><rect width="460" height="120" x="70" y="140" fill="#e3f2fd" stroke="#1976d2" rx="5"/><text x="80" y="160" fill="#1565c0" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     DRIFTSINNTEKTER
-  </text>
-  
-  <text x="80" y="180" font-family="Arial, sans-serif" font-size="12" fill="#424242">Salgsinntekt</text>
-  <text x="480" y="180" font-family="Arial, sans-serif" font-size="12" fill="#424242" text-anchor="end">10 000 000</text>
-  
-  <text x="80" y="200" font-family="Arial, sans-serif" font-size="12" fill="#424242">Andre driftsinntekter</text>
-  <text x="480" y="200" font-family="Arial, sans-serif" font-size="12" fill="#424242" text-anchor="end">500 000</text>
-  
-  <line x1="80" y1="210" x2="480" y2="210" stroke="#1565c0" stroke-width="1"/>
-  
-  <text x="80" y="230" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565c0">Sum driftsinntekter</text>
-  <text x="480" y="230" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565c0" text-anchor="end">10 500 000</text>
-  
-  <text x="80" y="250" font-family="Arial, sans-serif" font-size="10" fill="#666">Alle inntekter fra hovedvirksomheten</text>
-  
-
-  <rect x="70" y="280" width="460" height="160" fill="#ffebee" stroke="#d32f2f" stroke-width="1" rx="5"/>
-  <text x="80" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">
+  </text><text x="80" y="180" fill="#424242" font-family="Arial, sans-serif" font-size="12">Salgsinntekt</text><text x="480" y="180" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="end">10 000 000</text><text x="80" y="200" fill="#424242" font-family="Arial, sans-serif" font-size="12">Andre driftsinntekter</text><text x="480" y="200" fill="#424242" font-family="Arial, sans-serif" font-size="12" text-anchor="end">500 000</text><path stroke="#1565c0" d="M80 210h400"/><text x="80" y="230" fill="#1565c0" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Sum driftsinntekter</text><text x="480" y="230" fill="#1565c0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">10 500 000</text><text x="80" y="250" fill="#666" font-family="Arial, sans-serif" font-size="10">Alle inntekter fra hovedvirksomheten</text><rect width="460" height="160" x="70" y="280" fill="#ffebee" stroke="#d32f2f" rx="5"/><text x="80" y="300" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     DRIFTSKOSTNADER
-  </text>
-  
-  <text x="80" y="320" font-family="Arial, sans-serif" font-size="12" fill="#424242">Varekostnad</text>
-  <text x="480" y="320" font-family="Arial, sans-serif" font-size="12" fill="#d32f2f" text-anchor="end">-6 000 000</text>
-  
-  <text x="80" y="340" font-family="Arial, sans-serif" font-size="12" fill="#424242">Lønnskostnad</text>
-  <text x="480" y="340" font-family="Arial, sans-serif" font-size="12" fill="#d32f2f" text-anchor="end">-2 000 000</text>
-  
-  <text x="80" y="360" font-family="Arial, sans-serif" font-size="12" fill="#424242">Avskrivning på varige driftsmidler</text>
-  <text x="480" y="360" font-family="Arial, sans-serif" font-size="12" fill="#d32f2f" text-anchor="end">-300 000</text>
-  
-  <text x="80" y="380" font-family="Arial, sans-serif" font-size="12" fill="#424242">Andre driftskostnader</text>
-  <text x="480" y="380" font-family="Arial, sans-serif" font-size="12" fill="#d32f2f" text-anchor="end">-1 200 000</text>
-  
-  <line x1="80" y1="390" x2="480" y2="390" stroke="#d32f2f" stroke-width="1"/>
-  
-  <text x="80" y="410" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d32f2f">Sum driftskostnader</text>
-  <text x="480" y="410" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d32f2f" text-anchor="end">-9 500 000</text>
-  
-  <text x="80" y="430" font-family="Arial, sans-serif" font-size="10" fill="#666">Alle kostnader fra daglig drift</text>
-  
-
-  <rect x="70" y="460" width="460" height="60" fill="url(#operatingGradient)" stroke="#2e7d32" stroke-width="3" rx="5"/>
-  <text x="80" y="485" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32">
+  </text><text x="80" y="320" fill="#424242" font-family="Arial, sans-serif" font-size="12">Varekostnad</text><text x="480" y="320" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="end">-6 000 000</text><text x="80" y="340" fill="#424242" font-family="Arial, sans-serif" font-size="12">Lønnskostnad</text><text x="480" y="340" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="end">-2 000 000</text><text x="80" y="360" fill="#424242" font-family="Arial, sans-serif" font-size="12">Avskrivning på varige driftsmidler</text><text x="480" y="360" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="end">-300 000</text><text x="80" y="380" fill="#424242" font-family="Arial, sans-serif" font-size="12">Andre driftskostnader</text><text x="480" y="380" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="end">-1 200 000</text><path stroke="#d32f2f" d="M80 390h400"/><text x="80" y="410" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Sum driftskostnader</text><text x="480" y="410" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">-9 500 000</text><text x="80" y="430" fill="#666" font-family="Arial, sans-serif" font-size="10">Alle kostnader fra daglig drift</text><rect width="460" height="60" x="70" y="460" fill="url(#b)" stroke="#2e7d32" stroke-width="3" rx="5"/><text x="80" y="485" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     DRIFTSRESULTAT
-  </text>
-  <text x="480" y="485" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="end">1 000 000</text>
-  
-  <text x="80" y="505" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32" font-weight="bold">Lønnsomhet fra kjernevirksomheten</text>
-  
-
-  <rect x="70" y="540" width="460" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="5"/>
-  <text x="80" y="560" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
+  </text><text x="480" y="485" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="end">1 000 000</text><text x="80" y="505" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Lønnsomhet fra kjernevirksomheten</text><rect width="460" height="80" x="70" y="540" fill="#fff3e0" stroke="#ff9800" rx="5"/><text x="80" y="560" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     FINANSINNTEKTER OG FINANSKOSTNADER
-  </text>
-  
-  <text x="80" y="580" font-family="Arial, sans-serif" font-size="12" fill="#424242">Finansinntekter</text>
-  <text x="480" y="580" font-family="Arial, sans-serif" font-size="12" fill="#2e7d32" text-anchor="end">50 000</text>
-  
-  <text x="80" y="600" font-family="Arial, sans-serif" font-size="12" fill="#424242">Finanskostnader</text>
-  <text x="480" y="600" font-family="Arial, sans-serif" font-size="12" fill="#d32f2f" text-anchor="end">-150 000</text>
-  
-  <text x="80" y="615" font-family="Arial, sans-serif" font-size="10" fill="#666">Renter, utbytte, valutagevinst/-tap</text>
-  
-
-  <rect x="70" y="630" width="460" height="30" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="1" rx="5"/>
-  <text x="80" y="650" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6a1b9a">RESULTAT FØR SKATTEKOSTNAD</text>
-  <text x="480" y="650" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6a1b9a" text-anchor="end">900 000</text>
-  
-
-  <text x="80" y="675" font-family="Arial, sans-serif" font-size="12" fill="#424242">Skattekostnad</text>
-  <text x="480" y="675" font-family="Arial, sans-serif" font-size="12" fill="#d32f2f" text-anchor="end">-225 000</text>
-  
-
-  <line x1="70" y1="680" x2="530" y2="680" stroke="#1565c0" stroke-width="2"/>
-  <text x="80" y="700" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565c0">ÅRSRESULTAT</text>
-  <text x="480" y="700" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565c0" text-anchor="end">675 000</text>
-  
-
-  <path d="M 20 490 L 60 490" stroke="#2e7d32" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <text x="15" y="485" font-family="Arial, sans-serif" font-size="10" fill="#2e7d32" font-weight="bold" text-anchor="end">Fokus</text>
-  
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2e7d32"/>
-    </marker>
-  </defs>
-</svg>
+  </text><text x="80" y="580" fill="#424242" font-family="Arial, sans-serif" font-size="12">Finansinntekter</text><text x="480" y="580" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" text-anchor="end">50 000</text><text x="80" y="600" fill="#424242" font-family="Arial, sans-serif" font-size="12">Finanskostnader</text><text x="480" y="600" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="end">-150 000</text><text x="80" y="615" fill="#666" font-family="Arial, sans-serif" font-size="10">Renter, utbytte, valutagevinst/-tap</text><rect width="460" height="30" x="70" y="630" fill="#f3e5f5" stroke="#7b1fa2" rx="5"/><text x="80" y="650" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="12" font-weight="bold">RESULTAT FØR SKATTEKOSTNAD</text><text x="480" y="650" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">900 000</text><text x="80" y="675" fill="#424242" font-family="Arial, sans-serif" font-size="12">Skattekostnad</text><text x="480" y="675" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="end">-225 000</text><path stroke="#1565c0" stroke-width="2" d="M70 680h460"/><text x="80" y="700" fill="#1565c0" font-family="Arial, sans-serif" font-size="14" font-weight="bold">ÅRSRESULTAT</text><text x="480" y="700" fill="#1565c0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">675 000</text><path fill="none" stroke="#2e7d32" stroke-width="3" marker-end="url(#c)" d="M20 490h40"/><text x="15" y="485" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="end">Fokus</text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2e7d32" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

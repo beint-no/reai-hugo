@@ -1,219 +1,49 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="challengeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#C62828;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="strategyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1565C0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="improvementGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#F57C00;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#c62828;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#1565c0;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#f57c00;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Utfordringer og Løsninger i Avstemmingsarbeid
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#challengeGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="340" height="220" fill="url(#a)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Vanlige Utfordringer
-    </text>
-    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="170" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Problemer i avstemmingsprosesser
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="140" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="140" height="70" opacity=".2" rx="5"/><text x="70" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Volumutfordringer
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Store mengder transaksjoner</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Tidkrevende manuelt arbeid</text>
-      <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">• Økt feilrisiko</text>
-      
-
-      <rect x="160" y="0" width="140" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">• Store mengder transaksjoner</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">• Tidkrevende manuelt arbeid</text><text x="10" y="65" font-family="Arial, sans-serif" font-size="11">• Økt feilrisiko</text><rect width="140" height="70" x="160" opacity=".2" rx="5"/><text x="230" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Komplekse Transaksjoner
-      </text>
-      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Sammensatte posteringer</text>
-      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Vanskelig å spore</text>
-      <text x="170" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">• Krever spesialkompetanse</text>
-      
-
-      <rect x="0" y="85" width="140" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="170" y="35" font-family="Arial, sans-serif" font-size="11">• Sammensatte posteringer</text><text x="170" y="50" font-family="Arial, sans-serif" font-size="11">• Vanskelig å spore</text><text x="170" y="65" font-family="Arial, sans-serif" font-size="11">• Krever spesialkompetanse</text><rect width="140" height="70" y="85" opacity=".2" rx="5"/><text x="70" y="103" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Tidspress
-      </text>
-      <text x="10" y="120" font-family="Arial, sans-serif" font-size="11" fill="white">• Rask måneds-/kvartalsavslutning</text>
-      <text x="10" y="135" font-family="Arial, sans-serif" font-size="11" fill="white">• Rapporteringsfrister</text>
-      <text x="10" y="150" font-family="Arial, sans-serif" font-size="11" fill="white">• Begrenset tid til kontroll</text>
-      
-
-      <rect x="160" y="85" width="140" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="120" font-family="Arial, sans-serif" font-size="11">• Rask måneds-/kvartalsavslutning</text><text x="10" y="135" font-family="Arial, sans-serif" font-size="11">• Rapporteringsfrister</text><text x="10" y="150" font-family="Arial, sans-serif" font-size="11">• Begrenset tid til kontroll</text><rect width="140" height="70" x="160" y="85" opacity=".2" rx="5"/><text x="230" y="103" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Datakvalitet
-      </text>
-      <text x="170" y="120" font-family="Arial, sans-serif" font-size="11" fill="white">• Inkonsistente data</text>
-      <text x="170" y="135" font-family="Arial, sans-serif" font-size="11" fill="white">• Ufullstendige poster</text>
-      <text x="170" y="150" font-family="Arial, sans-serif" font-size="11" fill="white">• Manglende standarder</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#solutionGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="170" y="120" font-family="Arial, sans-serif" font-size="11">• Inkonsistente data</text><text x="170" y="135" font-family="Arial, sans-serif" font-size="11">• Ufullstendige poster</text><text x="170" y="150" font-family="Arial, sans-serif" font-size="11">• Manglende standarder</text></g></g><g transform="translate(410 80)"><rect width="340" height="220" fill="url(#b)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Løsningsstrategier
-    </text>
-    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="170" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Effektive tiltak og verktøy
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="140" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="140" height="70" opacity=".2" rx="5"/><text x="70" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Automatisering
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatiserte verktøy</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Unntak-basert rapportering</text>
-      <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">• Regelbasert matching</text>
-      
-
-      <rect x="160" y="0" width="140" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">• Automatiserte verktøy</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">• Unntak-basert rapportering</text><text x="10" y="65" font-family="Arial, sans-serif" font-size="11">• Regelbasert matching</text><rect width="140" height="70" x="160" opacity=".2" rx="5"/><text x="230" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Standardisering
-      </text>
-      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Standardiserte prosedyrer</text>
-      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Spesialiserte verktøy</text>
-      <text x="170" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">• Dokumenterte rutiner</text>
-      
-
-      <rect x="0" y="85" width="140" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="170" y="35" font-family="Arial, sans-serif" font-size="11">• Standardiserte prosedyrer</text><text x="170" y="50" font-family="Arial, sans-serif" font-size="11">• Spesialiserte verktøy</text><text x="170" y="65" font-family="Arial, sans-serif" font-size="11">• Dokumenterte rutiner</text><rect width="140" height="70" y="85" opacity=".2" rx="5"/><text x="70" y="103" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Kontinuerlige Prosesser
-      </text>
-      <text x="10" y="120" font-family="Arial, sans-serif" font-size="11" fill="white">• Daglige avstemminger</text>
-      <text x="10" y="135" font-family="Arial, sans-serif" font-size="11" fill="white">• Forberedelse i forkant</text>
-      <text x="10" y="150" font-family="Arial, sans-serif" font-size="11" fill="white">• Jevn arbeidsfordeling</text>
-      
-
-      <rect x="160" y="85" width="140" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="120" font-family="Arial, sans-serif" font-size="11">• Daglige avstemminger</text><text x="10" y="135" font-family="Arial, sans-serif" font-size="11">• Forberedelse i forkant</text><text x="10" y="150" font-family="Arial, sans-serif" font-size="11">• Jevn arbeidsfordeling</text><rect width="140" height="70" x="160" y="85" opacity=".2" rx="5"/><text x="230" y="103" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Kvalitetskontroller
-      </text>
-      <text x="170" y="120" font-family="Arial, sans-serif" font-size="11" fill="white">• Datakvalitetskontroller</text>
-      <text x="170" y="135" font-family="Arial, sans-serif" font-size="11" fill="white">• Standardiserte formater</text>
-      <text x="170" y="150" font-family="Arial, sans-serif" font-size="11" fill="white">• Validering av input</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="340" height="160" rx="10" fill="url(#strategyGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="170" y="120" font-family="Arial, sans-serif" font-size="11">• Datakvalitetskontroller</text><text x="170" y="135" font-family="Arial, sans-serif" font-size="11">• Standardiserte formater</text><text x="170" y="150" font-family="Arial, sans-serif" font-size="11">• Validering av input</text></g></g><g transform="translate(50 320)"><rect width="340" height="160" fill="url(#c)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Risikobasert Tilnærming
-    </text>
-    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="170" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Prioritering basert på risiko
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="90" height="80" rx="5" fill="white" opacity="0.2"/>
-      <text x="45" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="90" height="80" opacity=".2" rx="5"/><text x="45" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Høyrisiko
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Daglig avstemming</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Kritiske kontoer</text>
-      <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">• Høy verdi</text>
-      
-
-      <rect x="105" y="0" width="90" height="80" rx="5" fill="white" opacity="0.2"/>
-      <text x="150" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">• Daglig avstemming</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">• Kritiske kontoer</text><text x="10" y="65" font-family="Arial, sans-serif" font-size="11">• Høy verdi</text><rect width="90" height="80" x="105" opacity=".2" rx="5"/><text x="150" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Mellomrisiko
-      </text>
-      <text x="115" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Månedlig avstemming</text>
-      <text x="115" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Stikkprøvekontroller</text>
-      <text x="115" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">• Moderat aktivitet</text>
-      
-
-      <rect x="210" y="0" width="90" height="80" rx="5" fill="white" opacity="0.2"/>
-      <text x="255" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="115" y="35" font-family="Arial, sans-serif" font-size="11">• Månedlig avstemming</text><text x="115" y="50" font-family="Arial, sans-serif" font-size="11">• Stikkprøvekontroller</text><text x="115" y="65" font-family="Arial, sans-serif" font-size="11">• Moderat aktivitet</text><rect width="90" height="80" x="210" opacity=".2" rx="5"/><text x="255" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Lavrisiko
-      </text>
-      <text x="220" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Kvartalsvis avstemming</text>
-      <text x="220" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Stabile kontoer</text>
-      <text x="220" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">• Lav aktivitet</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 320)">
-    <rect x="0" y="0" width="340" height="160" rx="10" fill="url(#improvementGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="220" y="35" font-family="Arial, sans-serif" font-size="11">• Kvartalsvis avstemming</text><text x="220" y="50" font-family="Arial, sans-serif" font-size="11">• Stabile kontoer</text><text x="220" y="65" font-family="Arial, sans-serif" font-size="11">• Lav aktivitet</text></g></g><g transform="translate(410 320)"><rect width="340" height="160" fill="url(#d)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Kontinuerlig Forbedring
-    </text>
-    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="170" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Optimalisering av prosesser
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="140" height="80" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="140" height="80" opacity=".2" rx="5"/><text x="70" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Prosessevaluering
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Regelmessig gjennomgang</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Identifiser ineffektiviteter</text>
-      <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">• Måling av ytelse</text>
-      
-
-      <rect x="160" y="0" width="140" height="80" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">• Regelmessig gjennomgang</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">• Identifiser ineffektiviteter</text><text x="10" y="65" font-family="Arial, sans-serif" font-size="11">• Måling av ytelse</text><rect width="140" height="80" x="160" opacity=".2" rx="5"/><text x="230" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Opplæring og Utvikling
-      </text>
-      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Kompetanseutvikling</text>
-      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Beste praksis deling</text>
-      <text x="170" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">• Teknologioppdatering</text>
-    </g>
-  </g>
-  
-
-  <path d="M 390 190 L 410 190" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+      </text><text x="170" y="35" font-family="Arial, sans-serif" font-size="11">• Kompetanseutvikling</text><text x="170" y="50" font-family="Arial, sans-serif" font-size="11">• Beste praksis deling</text><text x="170" y="65" font-family="Arial, sans-serif" font-size="11">• Teknologioppdatering</text></g></g><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#e)" d="M390 190h20"/><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="540" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Effektive avstemminger krever systematisk tilnærming til utfordringer og løsninger
-  </text>
-  <text x="400" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">
+  </text><text x="400" y="565" fill="#666" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Kombinasjon av teknologi, prosesser og kompetanse sikrer optimal ytelse
-  </text>
-</svg>
+  </text></svg>

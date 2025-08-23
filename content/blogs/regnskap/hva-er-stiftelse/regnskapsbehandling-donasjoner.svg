@@ -1,156 +1,59 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1E40AF;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#F8FAFC"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1E293B">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e40af;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/><stop offset="100%" style="stop-color:#047857;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskapsbehandling av Donasjoner
-  </text>
-  
-
-  <rect x="350" y="70" width="100" height="40" fill="url(#blueGradient)" rx="5"/>
-  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF">
+  </text><rect width="100" height="40" x="350" y="70" fill="url(#a)" rx="5"/><text x="400" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     DONASJON
-  </text>
-  
-
-  <polygon points="400,130 450,160 400,190 350,160" fill="#FCD34D" stroke="#F59E0B" stroke-width="2"/>
-  <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400E">
+  </text><path fill="#fcd34d" stroke="#f59e0b" stroke-width="2" d="m400 130 50 30-50 30-50-30z"/><text x="400" y="155" fill="#92400e" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Betinget?
-  </text>
-  <text x="400" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+  </text><text x="400" y="168" fill="#92400e" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     (Øremerket)
-  </text>
-  
-
-  <line x1="400" y1="110" x2="400" y2="130" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <line x1="350" y1="160" x2="250" y2="160" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="300" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#64748B">
+  </text><path stroke="#64748b" stroke-width="2" marker-end="url(#b)" d="M400 110v20"/><path stroke="#64748b" stroke-width="2" marker-end="url(#b)" d="M350 160H250"/><text x="300" y="150" fill="#64748b" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     NEI
-  </text>
-  
-
-  <line x1="450" y1="160" x2="550" y2="160" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <text x="500" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#64748B">
+  </text><path stroke="#64748b" stroke-width="2" marker-end="url(#b)" d="M450 160h100"/><text x="500" y="150" fill="#64748b" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     JA
-  </text>
-  
-
-  <rect x="100" y="200" width="300" height="80" fill="url(#greenGradient)" rx="8"/>
-  <text x="250" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
+  </text><rect width="300" height="80" x="100" y="200" fill="url(#c)" rx="8"/><text x="250" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ubetinget Donasjon
-  </text>
-  <text x="250" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="250" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Ingen betingelser eller øremerking
-  </text>
-  <text x="250" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="250" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     → Direkte inntektsføring
-  </text>
-  <text x="250" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="250" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     → Kan brukes til formålet umiddelbart
-  </text>
-  
-
-  <rect x="450" y="200" width="300" height="80" fill="#F59E0B" rx="8"/>
-  <text x="600" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">
+  </text><rect width="300" height="80" x="450" y="200" fill="#f59e0b" rx="8"/><text x="600" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Betinget Donasjon
-  </text>
-  <text x="600" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="600" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Øremerket til spesifikke formål
-  </text>
-  <text x="600" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="600" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     → Utsatt inntekt frem til oppfyllelse
-  </text>
-  <text x="600" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF">
+  </text><text x="600" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     → Sporing av formålsbrukt
-  </text>
-  
-
-  <line x1="250" y1="180" x2="250" y2="200" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <line x1="600" y1="180" x2="600" y2="200" stroke="#64748B" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="50" y="320" width="300" height="220" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2" rx="8"/>
-  <text x="200" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">
+  </text><path stroke="#64748b" stroke-width="2" marker-end="url(#b)" d="M250 180v20"/><path stroke="#64748b" stroke-width="2" marker-end="url(#b)" d="M600 180v20"/><rect width="300" height="220" x="50" y="320" fill="#fff" stroke="#e5e7eb" stroke-width="2" rx="8"/><text x="200" y="345" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Regnskapsføring - Ubetinget
-  </text>
-  
-
-  <rect x="70" y="360" width="260" height="60" fill="#F0F9FF" stroke="#0EA5E9" stroke-width="1" rx="4"/>
-  <text x="80" y="378" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0C4A6E">
+  </text><rect width="260" height="60" x="70" y="360" fill="#f0f9ff" stroke="#0ea5e9" rx="4"/><text x="80" y="378" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Ved mottak:
-  </text>
-  <text x="80" y="395" font-family="Arial, sans-serif" font-size="10" fill="#0C4A6E">
+  </text><text x="80" y="395" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="10">
     Debet: Bank/Kontanter     NOK 500.000
-  </text>
-  <text x="80" y="408" font-family="Arial, sans-serif" font-size="10" fill="#0C4A6E">
+  </text><text x="80" y="408" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="10">
     Kredit: Donasjonsinntekt      NOK 500.000
-  </text>
-  
-
-  <rect x="70" y="430" width="260" height="60" fill="#F0FDF4" stroke="#22C55E" stroke-width="1" rx="4"/>
-  <text x="80" y="448" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#14532D">
+  </text><rect width="260" height="60" x="70" y="430" fill="#f0fdf4" stroke="#22c55e" rx="4"/><text x="80" y="448" fill="#14532d" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Resultat:
-  </text>
-  <text x="80" y="465" font-family="Arial, sans-serif" font-size="10" fill="#14532D">
+  </text><text x="80" y="465" fill="#14532d" font-family="Arial, sans-serif" font-size="10">
     • Øker årets resultat umiddelbart
-  </text>
-  <text x="80" y="478" font-family="Arial, sans-serif" font-size="10" fill="#14532D">
+  </text><text x="80" y="478" fill="#14532d" font-family="Arial, sans-serif" font-size="10">
     • Kan disponeres til formålet
-  </text>
-  
-  <rect x="400" y="320" width="350" height="220" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2" rx="8"/>
-  <text x="575" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">
+  </text><rect width="350" height="220" x="400" y="320" fill="#fff" stroke="#e5e7eb" stroke-width="2" rx="8"/><text x="575" y="345" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Regnskapsføring - Betinget
-  </text>
-  
-
-  <rect x="420" y="360" width="310" height="60" fill="#FEF3C7" stroke="#F59E0B" stroke-width="1" rx="4"/>
-  <text x="430" y="378" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400E">
+  </text><rect width="310" height="60" x="420" y="360" fill="#fef3c7" stroke="#f59e0b" rx="4"/><text x="430" y="378" fill="#92400e" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Ved mottak:
-  </text>
-  <text x="430" y="395" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+  </text><text x="430" y="395" fill="#92400e" font-family="Arial, sans-serif" font-size="10">
     Debet: Bank/Kontanter         NOK 500.000
-  </text>
-  <text x="430" y="408" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+  </text><text x="430" y="408" fill="#92400e" font-family="Arial, sans-serif" font-size="10">
     Kredit: Utsatt inntekt (gjeld)     NOK 500.000
-  </text>
-  
-
-  <rect x="420" y="430" width="310" height="60" fill="#FDF2F8" stroke="#EC4899" stroke-width="1" rx="4"/>
-  <text x="430" y="448" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#831843">
+  </text><rect width="310" height="60" x="420" y="430" fill="#fdf2f8" stroke="#ec4899" rx="4"/><text x="430" y="448" fill="#831843" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Ved oppfyllelse av betingelse:
-  </text>
-  <text x="430" y="465" font-family="Arial, sans-serif" font-size="10" fill="#831843">
+  </text><text x="430" y="465" fill="#831843" font-family="Arial, sans-serif" font-size="10">
     Debet: Utsatt inntekt          NOK 500.000
-  </text>
-  <text x="430" y="478" font-family="Arial, sans-serif" font-size="10" fill="#831843">
+  </text><text x="430" y="478" fill="#831843" font-family="Arial, sans-serif" font-size="10">
     Kredit: Donasjonsinntekt          NOK 500.000
-  </text>
-  
-
-  <rect x="100" y="560" width="600" height="30" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" rx="4"/>
-  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E40AF">
+  </text><rect width="600" height="30" x="100" y="560" fill="#eff6ff" stroke="#3b82f6" rx="4"/><text x="400" y="580" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Viktig: Betingede donasjoner må spores separat for å sikre formålsbrukt av midlene
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="10" refY="3.5"><path fill="#64748b" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

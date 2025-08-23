@@ -1,139 +1,57 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
-    </marker>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#06c" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Bokføring av Debitor - Praktiske Eksempler
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="180" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-  <text x="400" y="85" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><rect width="700" height="180" x="50" y="60" fill="#fff" stroke="#dee2e6" rx="10"/><text x="400" y="85" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Eksempel 1: Salg på Kreditt
-  </text>
-  
-  <text x="70" y="110" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="110" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Scenario: Salg av varer for 25 000 kr inkl. mva (20 000 kr ekskl. mva, 5 000 kr mva)
-  </text>
-  
-
-  <rect x="80" y="130" width="150" height="90" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
-  <text x="155" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><rect width="150" height="90" x="80" y="130" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/><text x="155" y="150" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kundefordringer
-  </text>
-  <line x1="80" y1="155" x2="230" y2="155" stroke="#1976d2" stroke-width="1"/>
-  <text x="90" y="175" font-family="Arial, sans-serif" font-size="11" fill="#1976d2">
+  </text><path stroke="#1976d2" d="M80 155h150"/><text x="90" y="175" fill="#1976d2" font-family="Arial, sans-serif" font-size="11">
     Debet: 25 000
-  </text>
-  <text x="200" y="175" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#1976d2">
+  </text><text x="200" y="175" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
     |
-  </text>
-  
-  <rect x="280" y="130" width="150" height="90" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
-  <text x="355" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#f57c00">
+  </text><rect width="150" height="90" x="280" y="130" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/><text x="355" y="150" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Salgsinntekt
-  </text>
-  <line x1="280" y1="155" x2="430" y2="155" stroke="#f57c00" stroke-width="1"/>
-  <text x="290" y="175" font-family="Arial, sans-serif" font-size="11" fill="#f57c00">
+  </text><path stroke="#f57c00" d="M280 155h150"/><text x="290" y="175" fill="#f57c00" font-family="Arial, sans-serif" font-size="11">
     |
-  </text>
-  <text x="420" y="175" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#f57c00">
+  </text><text x="420" y="175" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
     Kredit: 20 000
-  </text>
-  
-  <rect x="480" y="130" width="150" height="90" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="5"/>
-  <text x="555" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#7b1fa2">
+  </text><rect width="150" height="90" x="480" y="130" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="5"/><text x="555" y="150" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Utgående MVA
-  </text>
-  <line x1="480" y1="155" x2="630" y2="155" stroke="#7b1fa2" stroke-width="1"/>
-  <text x="490" y="175" font-family="Arial, sans-serif" font-size="11" fill="#7b1fa2">
+  </text><path stroke="#7b1fa2" d="M480 155h150"/><text x="490" y="175" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11">
     |
-  </text>
-  <text x="620" y="175" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#7b1fa2">
+  </text><text x="620" y="175" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
     Kredit: 5 000
-  </text>
-  
-
-  <rect x="650" y="130" width="100" height="90" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="5"/>
-  <text x="700" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#388e3c">
+  </text><rect width="100" height="90" x="650" y="130" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="5"/><text x="700" y="150" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Bilagspost
-  </text>
-  <text x="660" y="170" font-family="Arial, sans-serif" font-size="9" fill="#388e3c">
+  </text><text x="660" y="170" fill="#388e3c" font-family="Arial, sans-serif" font-size="9">
     D: 1500 - 25 000
-  </text>
-  <text x="660" y="185" font-family="Arial, sans-serif" font-size="9" fill="#388e3c">
+  </text><text x="660" y="185" fill="#388e3c" font-family="Arial, sans-serif" font-size="9">
     K: 3000 - 20 000
-  </text>
-  <text x="660" y="200" font-family="Arial, sans-serif" font-size="9" fill="#388e3c">
+  </text><text x="660" y="200" fill="#388e3c" font-family="Arial, sans-serif" font-size="9">
     K: 2700 - 5 000
-  </text>
-  
-
-  <rect x="50" y="260" width="700" height="180" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-  <text x="400" y="285" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><rect width="700" height="180" x="50" y="260" fill="#fff" stroke="#dee2e6" rx="10"/><text x="400" y="285" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Eksempel 2: Mottak av Betaling
-  </text>
-  
-  <text x="70" y="310" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="310" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Scenario: Kunden betaler fakturaen på 25 000 kr
-  </text>
-  
-
-  <rect x="150" y="330" width="150" height="90" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="5"/>
-  <text x="225" y="350" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#388e3c">
+  </text><rect width="150" height="90" x="150" y="330" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="5"/><text x="225" y="350" fill="#388e3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Bank
-  </text>
-  <line x1="150" y1="355" x2="300" y2="355" stroke="#388e3c" stroke-width="1"/>
-  <text x="160" y="375" font-family="Arial, sans-serif" font-size="11" fill="#388e3c">
+  </text><path stroke="#388e3c" d="M150 355h150"/><text x="160" y="375" fill="#388e3c" font-family="Arial, sans-serif" font-size="11">
     Debet: 25 000
-  </text>
-  <text x="290" y="375" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#388e3c">
+  </text><text x="290" y="375" fill="#388e3c" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
     |
-  </text>
-  
-
-  <path d="M 310 375 L 350 375" stroke="#0066cc" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-  <rect x="370" y="330" width="150" height="90" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
-  <text x="445" y="350" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><path stroke="#06c" stroke-width="3" marker-end="url(#b)" d="M310 375h40"/><rect width="150" height="90" x="370" y="330" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/><text x="445" y="350" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kundefordringer
-  </text>
-  <line x1="370" y1="355" x2="520" y2="355" stroke="#1976d2" stroke-width="1"/>
-  <text x="380" y="375" font-family="Arial, sans-serif" font-size="11" fill="#1976d2">
+  </text><path stroke="#1976d2" d="M370 355h150"/><text x="380" y="375" fill="#1976d2" font-family="Arial, sans-serif" font-size="11">
     |
-  </text>
-  <text x="510" y="375" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#1976d2">
+  </text><text x="510" y="375" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
     Kredit: 25 000
-  </text>
-  
-
-  <rect x="570" y="330" width="100" height="90" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
-  <text x="620" y="350" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="100" height="90" x="570" y="330" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/><text x="620" y="350" fill="#856404" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Bilagspost
-  </text>
-  <text x="580" y="370" font-family="Arial, sans-serif" font-size="9" fill="#856404">
+  </text><text x="580" y="370" fill="#856404" font-family="Arial, sans-serif" font-size="9">
     D: 1900 - 25 000
-  </text>
-  <text x="580" y="385" font-family="Arial, sans-serif" font-size="9" fill="#856404">
+  </text><text x="580" y="385" fill="#856404" font-family="Arial, sans-serif" font-size="9">
     K: 1500 - 25 000
-  </text>
-  
-
-  <rect x="50" y="460" width="700" height="30" fill="#d1ecf1" stroke="#17a2b8" stroke-width="1" rx="5"/>
-  <text x="400" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0c5460">
+  </text><rect width="700" height="30" x="50" y="460" fill="#d1ecf1" stroke="#17a2b8" rx="5"/><text x="400" y="480" fill="#0c5460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Resultat: Kundefordringen er lukket, banksaldoen øker med 25 000 kr
-  </text>
-</svg>
+  </text></svg>

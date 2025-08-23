@@ -1,189 +1,63 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f0fdf4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#dcfce7;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="governanceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f0fdf4;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="slaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#14532d">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f0fdf4;stop-opacity:1"/><stop offset="100%" style="stop-color:#dcfce7;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff;stop-opacity:1"/><stop offset="100%" style="stop-color:#f0fdf4;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1"/><stop offset="100%" style="stop-color:#fde68a;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#14532d" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Styring og Oppfølging av Utkontraktering
-  </text>
-  
-
-  <circle cx="400" cy="120" r="50" fill="#22c55e" stroke="#16a34a" stroke-width="3"/>
-  <text x="400" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="120" r="50" fill="#22c55e" stroke="#16a34a" stroke-width="3"/><text x="400" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     STYRING
-  </text>
-  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="400" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     &amp; KONTROLL
-  </text>
-  
-
-  <g transform="translate(50, 200)">
-    <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#slaGradient)" stroke="#f59e0b" stroke-width="2"/>
-    <circle cx="25" cy="25" r="15" fill="#f59e0b"/>
-    <text x="18" y="30" font-family="Arial, sans-serif" font-size="14" fill="white" font-weight="bold">📊</text>
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#92400e">
+  </text><g transform="translate(50 200)"><rect width="340" height="180" fill="url(#b)" stroke="#f59e0b" stroke-width="2" rx="10"/><circle cx="25" cy="25" r="15" fill="#f59e0b"/><text x="18" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">📊</text><text x="50" y="25" fill="#92400e" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Service Level Agreements (SLA)
-    </text>
-    
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#92400e">
+    </text><text x="15" y="55" fill="#92400e" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Ytelsesmål:
-    </text>
-    <text x="15" y="75" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Responstid - hvor raskt skal leverandør reagere?
-    </text>
-    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Oppetid - hvor mye nedetid er akseptabelt?
-    </text>
-    <text x="15" y="105" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Kvalitetsmål - feilrate, nøyaktighet, etc.
-    </text>
-    
-    <text x="15" y="130" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#92400e">
+    </text><text x="15" y="130" fill="#92400e" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Konsekvenser ved Brudd:
-    </text>
-    <text x="15" y="150" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Service credits - prisreduksjon ved dårlig ytelse
-    </text>
-    <text x="15" y="165" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="165" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Rett til oppsigelse ved gjentatte brudd
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 200)">
-    <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#governanceGradient)" stroke="#16a34a" stroke-width="2"/>
-    <circle cx="25" cy="25" r="15" fill="#16a34a"/>
-    <text x="18" y="30" font-family="Arial, sans-serif" font-size="14" fill="white" font-weight="bold">🏛</text>
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#14532d">
+    </text></g><g transform="translate(410 200)"><rect width="340" height="180" fill="url(#c)" stroke="#16a34a" stroke-width="2" rx="10"/><circle cx="25" cy="25" r="15" fill="#16a34a"/><text x="18" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">🏛</text><text x="50" y="25" fill="#14532d" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Governance-struktur
-    </text>
-    
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#14532d">
+    </text><text x="15" y="55" fill="#14532d" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Styringskomité:
-    </text>
-    <text x="15" y="75" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Representanter fra begge parter
-    </text>
-    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Regelmessige møter for oppfølging
-    </text>
-    <text x="15" y="105" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Strategiske beslutninger om tjenesten
-    </text>
-    
-    <text x="15" y="130" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#14532d">
+    </text><text x="15" y="130" fill="#14532d" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Operasjonell Styring:
-    </text>
-    <text x="15" y="150" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Daglig kontaktpunkt hos begge parter
-    </text>
-    <text x="15" y="165" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="165" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Problemløsning og forbedringer
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 400)">
-    <rect x="0" y="0" width="200" height="140" rx="10" fill="url(#governanceGradient)" stroke="#3b82f6" stroke-width="2"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+    </text></g><g transform="translate(50 400)"><rect width="200" height="140" fill="url(#c)" stroke="#3b82f6" stroke-width="2" rx="10"/><text x="100" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       KPI Dashboard
-    </text>
-    
-
-    <rect x="20" y="40" width="80" height="15" fill="#22c55e" rx="2"/>
-    <text x="15" y="52" font-family="Arial, sans-serif" font-size="9" fill="#374151">Kvalitet</text>
-    <text x="105" y="52" font-family="Arial, sans-serif" font-size="9" fill="#374151">95%</text>
-    
-    <rect x="20" y="65" width="60" height="15" fill="#f59e0b" rx="2"/>
-    <text x="15" y="77" font-family="Arial, sans-serif" font-size="9" fill="#374151">Responstid</text>
-    <text x="105" y="77" font-family="Arial, sans-serif" font-size="9" fill="#374151">85%</text>
-    
-    <rect x="20" y="90" width="90" height="15" fill="#22c55e" rx="2"/>
-    <text x="15" y="102" font-family="Arial, sans-serif" font-size="9" fill="#374151">Oppetid</text>
-    <text x="105" y="102" font-family="Arial, sans-serif" font-size="9" fill="#374151">99%</text>
-    
-    <rect x="20" y="115" width="70" height="15" fill="#ef4444" rx="2"/>
-    <text x="15" y="127" font-family="Arial, sans-serif" font-size="9" fill="#374151">Tilfredshet</text>
-    <text x="105" y="127" font-family="Arial, sans-serif" font-size="9" fill="#374151">78%</text>
-  </g>
-  
-
-  <g transform="translate(270, 400)">
-    <rect x="0" y="0" width="200" height="140" rx="10" fill="url(#governanceGradient)" stroke="#8b5cf6" stroke-width="2"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#581c87">
+    </text><rect width="80" height="15" x="20" y="40" fill="#22c55e" rx="2"/><text x="15" y="52" fill="#374151" font-family="Arial, sans-serif" font-size="9">Kvalitet</text><text x="105" y="52" fill="#374151" font-family="Arial, sans-serif" font-size="9">95%</text><rect width="60" height="15" x="20" y="65" fill="#f59e0b" rx="2"/><text x="15" y="77" fill="#374151" font-family="Arial, sans-serif" font-size="9">Responstid</text><text x="105" y="77" fill="#374151" font-family="Arial, sans-serif" font-size="9">85%</text><rect width="90" height="15" x="20" y="90" fill="#22c55e" rx="2"/><text x="15" y="102" fill="#374151" font-family="Arial, sans-serif" font-size="9">Oppetid</text><text x="105" y="102" fill="#374151" font-family="Arial, sans-serif" font-size="9">99%</text><rect width="70" height="15" x="20" y="115" fill="#ef4444" rx="2"/><text x="15" y="127" fill="#374151" font-family="Arial, sans-serif" font-size="9">Tilfredshet</text><text x="105" y="127" fill="#374151" font-family="Arial, sans-serif" font-size="9">78%</text></g><g transform="translate(270 400)"><rect width="200" height="140" fill="url(#c)" stroke="#8b5cf6" stroke-width="2" rx="10"/><text x="100" y="25" fill="#581c87" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Rapporteringssyklus
-    </text>
-    
-    <circle cx="50" cy="60" r="20" fill="#e879f9" stroke="#c026d3" stroke-width="2"/>
-    <text x="50" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">Dag</text>
-    
-    <circle cx="100" cy="60" r="20" fill="#a855f7" stroke="#9333ea" stroke-width="2"/>
-    <text x="100" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">Uke</text>
-    
-    <circle cx="150" cy="60" r="20" fill="#7c3aed" stroke="#6d28d9" stroke-width="2"/>
-    <text x="150" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">Mnd</text>
-    
-    <text x="15" y="95" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><circle cx="50" cy="60" r="20" fill="#e879f9" stroke="#c026d3" stroke-width="2"/><text x="50" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">Dag</text><circle cx="100" cy="60" r="20" fill="#a855f7" stroke="#9333ea" stroke-width="2"/><text x="100" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">Uke</text><circle cx="150" cy="60" r="20" fill="#7c3aed" stroke="#6d28d9" stroke-width="2"/><text x="150" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">Mnd</text><text x="15" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Daglige operasjonelle rapporter
-    </text>
-    <text x="15" y="110" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="15" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Ukentlige statusmøter
-    </text>
-    <text x="15" y="125" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="15" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Månedlige styringsrapporter
-    </text>
-  </g>
-  
-
-  <g transform="translate(490, 400)">
-    <rect x="0" y="0" width="260" height="140" rx="10" fill="url(#governanceGradient)" stroke="#10b981" stroke-width="2"/>
-    <circle cx="25" cy="25" r="15" fill="#10b981"/>
-    <text x="18" y="30" font-family="Arial, sans-serif" font-size="14" fill="white" font-weight="bold">🔄</text>
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#065f46">
+    </text></g><g transform="translate(490 400)"><rect width="260" height="140" fill="url(#c)" stroke="#10b981" stroke-width="2" rx="10"/><circle cx="25" cy="25" r="15" fill="#10b981"/><text x="18" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">🔄</text><text x="50" y="25" fill="#065f46" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Kontinuerlig Forbedring
-    </text>
-    
-    <text x="15" y="50" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Regelmessig evaluering av tjenestekvalitet
-    </text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Identifisering av forbedringsområder
-    </text>
-    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Implementering av forbedringer
-    </text>
-    <text x="15" y="110" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Benchmarking mot markedsstandard
-    </text>
-    <text x="15" y="130" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Innovasjon og teknologiutvikling
-    </text>
-  </g>
-  
-
-  <line x1="370" y1="140" x2="220" y2="195" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="430" y1="140" x2="580" y2="195" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="380" y1="160" x2="150" y2="395" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="400" y1="170" x2="370" y2="395" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="420" y1="160" x2="620" y2="395" stroke="#22c55e" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+    </text></g><path stroke="#22c55e" stroke-dasharray="5,5" stroke-width="2" d="m370 140-150 55M430 140l150 55M380 160 150 395M400 170l-30 225M420 160l200 235"/><text x="400" y="580" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Effektiv styring og oppfølging sikrer måloppnåelse og kontinuerlig forbedring
-  </text>
-</svg>
+  </text></svg>

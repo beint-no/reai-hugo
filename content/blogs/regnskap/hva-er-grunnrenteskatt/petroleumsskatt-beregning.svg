@@ -1,182 +1,65 @@
-<svg width="550" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="revenueGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="costGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6c757d;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#495057;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="investmentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="freeIncomeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#17a2b8;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#138496;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="ordinaryTaxGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#e55a00;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="specialTaxGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="550" height="400" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
-  
-
-  <text x="275" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:.8"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:.8"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#6c757d;stop-opacity:.8"/><stop offset="100%" style="stop-color:#495057;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:.8"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#17a2b8;stop-opacity:.8"/><stop offset="100%" style="stop-color:#138496;stop-opacity:.8"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#fd7e14;stop-opacity:.8"/><stop offset="100%" style="stop-color:#e55a00;stop-opacity:.8"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:.8"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:.8"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" d="M0 0h550v400H0z"/><text x="275" y="25" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Petroleumsskatt Beregning
-  </text>
-  
-
-  <text x="275" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="275" y="45" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Eksempel: Petroleumsselskap (millioner kr)
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    
-
-    <rect x="0" y="0" width="450" height="30" fill="url(#revenueGradient)" rx="3"/>
-    <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><g transform="translate(50 70)"><rect width="450" height="30" fill="url(#a)" rx="3"/><text x="10" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       1. Petroleumsinntekter
-    </text>
-    <text x="440" y="20" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="440" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       1.000
-    </text>
-    
-
-    <rect x="0" y="35" width="450" height="30" fill="url(#costGradient)" rx="3"/>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="450" height="30" y="35" fill="url(#b)" rx="3"/><text x="10" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       2. Driftskostnader
-    </text>
-    <text x="440" y="55" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="440" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       -300
-    </text>
-    
-
-    <rect x="0" y="70" width="450" height="30" fill="url(#investmentGradient)" rx="3"/>
-    <text x="10" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="450" height="30" y="70" fill="url(#c)" rx="3"/><text x="10" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       3. Investeringer (øyeblikkelig avskrivning)
-    </text>
-    <text x="440" y="90" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="440" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       -200
-    </text>
-    
-
-    <rect x="0" y="105" width="450" height="30" fill="url(#freeIncomeGradient)" rx="3"/>
-    <text x="10" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="450" height="30" y="105" fill="url(#d)" rx="3"/><text x="10" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       4. Friinntekt (5,2%)
-    </text>
-    <text x="440" y="125" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="440" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       -10
-    </text>
-    
-
-    <line x1="0" y1="150" x2="450" y2="150" stroke="#495057" stroke-width="2"/>
-    
-
-    <rect x="0" y="160" width="450" height="25" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" rx="3"/>
-    <text x="10" y="178" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+    </text><path stroke="#495057" stroke-width="2" d="M0 150h450"/><rect width="450" height="25" y="160" fill="#e9ecef" stroke="#adb5bd" rx="3"/><text x="10" y="178" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Skattepliktig inntekt
-    </text>
-    <text x="440" y="178" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+    </text><text x="440" y="178" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       490
-    </text>
-    
-
-    <rect x="0" y="195" width="450" height="30" fill="url(#ordinaryTaxGradient)" rx="3"/>
-    <text x="10" y="215" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="450" height="30" y="195" fill="url(#e)" rx="3"/><text x="10" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       5. Ordinær selskapsskatt (22%)
-    </text>
-    <text x="440" y="215" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="440" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       107,8
-    </text>
-    
-
-    <rect x="0" y="230" width="450" height="30" fill="url(#specialTaxGradient)" rx="3"/>
-    <text x="10" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="450" height="30" y="230" fill="url(#f)" rx="3"/><text x="10" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       6. Særskatt (56%)
-    </text>
-    <text x="440" y="250" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="440" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       274,4
-    </text>
-    
-
-    <rect x="0" y="270" width="450" height="35" fill="#6f42c1" rx="3"/>
-    <text x="10" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="450" height="35" y="270" fill="#6f42c1" rx="3"/><text x="10" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Total petroleumsskatt
-    </text>
-    <text x="440" y="290" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="440" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">
       382,2
-    </text>
-    <text x="10" y="300" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="10" y="300" fill="#fff" font-family="Arial, sans-serif" font-size="10">
       Effektiv skattesats: 78%
-    </text>
-    
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <text x="225" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+    </text></g><text x="225" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 320)">
       Særlige Fordeler i Petroleumsskatt
-    </text>
-    
-
-    <g transform="translate(0, 15)">
-
-      <rect x="0" y="0" width="110" height="40" fill="#28a745" opacity="0.2" rx="3"/>
-      <text x="55" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#155724">
+    </text><g transform="translate(50 335)"><rect width="110" height="40" fill="#28a745" opacity=".2" rx="3"/><text x="55" y="15" fill="#155724" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Øyeblikkelig avskrivning
-      </text>
-      <text x="55" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#155724">
+      </text><text x="55" y="28" fill="#155724" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Reduserer skatt umiddelbart
-      </text>
-      <text x="55" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#155724">
+      </text><text x="55" y="38" fill="#155724" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         200 × 78% = 156 mill. kr
-      </text>
-      
-
-      <rect x="120" y="0" width="110" height="40" fill="#17a2b8" opacity="0.2" rx="3"/>
-      <text x="175" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#0c5460">
+      </text><rect width="110" height="40" x="120" fill="#17a2b8" opacity=".2" rx="3"/><text x="175" y="15" fill="#0c5460" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Friinntekt 5,2%
-      </text>
-      <text x="175" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">
+      </text><text x="175" y="28" fill="#0c5460" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Skattefri normalavkastning
-      </text>
-      <text x="175" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0c5460">
+      </text><text x="175" y="38" fill="#0c5460" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         10 × 78% = 7,8 mill. kr
-      </text>
-      
-
-      <rect x="240" y="0" width="110" height="40" fill="#ffc107" opacity="0.2" rx="3"/>
-      <text x="295" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#856404">
+      </text><rect width="110" height="40" x="240" fill="#ffc107" opacity=".2" rx="3"/><text x="295" y="15" fill="#856404" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Fremføring med rente
-      </text>
-      <text x="295" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#856404">
+      </text><text x="295" y="28" fill="#856404" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Underskudd + rente
-      </text>
-      <text x="295" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#856404">
+      </text><text x="295" y="38" fill="#856404" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Unikt i norsk skatterett
-      </text>
-      
-
-      <rect x="360" y="0" width="90" height="40" fill="#6f42c1" opacity="0.2" rx="3"/>
-      <text x="405" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4a2c7a">
+      </text><rect width="90" height="40" x="360" fill="#6f42c1" opacity=".2" rx="3"/><text x="405" y="15" fill="#4a2c7a" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
         Netto skatteeffekt
-      </text>
-      <text x="405" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#4a2c7a">
+      </text><text x="405" y="28" fill="#4a2c7a" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Betydelig reduksjon
-      </text>
-      <text x="405" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#4a2c7a">
+      </text><text x="405" y="38" fill="#4a2c7a" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         av investeringsrisiko
-      </text>
-    </g>
-  </g>
-</svg>
+      </text></g></svg>

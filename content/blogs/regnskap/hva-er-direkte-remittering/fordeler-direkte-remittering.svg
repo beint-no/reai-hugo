@@ -1,195 +1,69 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="efficiencyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="costGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="securityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="controlGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#b71c1c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fordeler med Direkte Remittering
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#efficiencyGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="340" height="220" fill="url(#b)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       ⚡ Effektivitet
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="40" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Raskere behandling
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">
         Øyeblikkelig til 1 dag vs 3-5 dager for tradisjonelle metoder
-      </text>
-      
-      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="300" height="40" y="50" opacity=".2" rx="5"/><text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Redusert administrativt arbeid
-      </text>
-      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="82" font-family="Arial, sans-serif" font-size="11">
         Automatisering eliminerer manuell håndtering
-      </text>
-      
-      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="300" height="40" y="100" opacity=".2" rx="5"/><text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Automatisering av rutinebetalinger
-      </text>
-      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="132" font-family="Arial, sans-serif" font-size="11">
         Planlagte betalinger krever minimal oppfølging
-      </text>
-      
-      <rect x="0" y="150" width="300" height="30" rx="5" fill="white" opacity="0.3"/>
-      <text x="150" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text><rect width="300" height="30" y="150" opacity=".3" rx="5"/><text x="150" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Tidsbesparelse: 80-90%
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#costGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(410 80)"><rect width="340" height="220" fill="url(#c)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       💰 Kostnadskontroll
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="40" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Lavere transaksjonskostnader
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">
         2-5 kr per transaksjon vs 15-25 kr tradisjonelt
-      </text>
-      
-      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="300" height="40" y="50" opacity=".2" rx="5"/><text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Reduserte porto- og håndteringskostnader
-      </text>
-      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="82" font-family="Arial, sans-serif" font-size="11">
         Eliminerer fysisk post og manuell håndtering
-      </text>
-      
-      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="300" height="40" y="100" opacity=".2" rx="5"/><text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Bedre likviditetsstyring
-      </text>
-      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="132" font-family="Arial, sans-serif" font-size="11">
         Presis timing av betalinger optimaliserer kontantstrøm
-      </text>
-      
-      <rect x="0" y="150" width="300" height="30" rx="5" fill="white" opacity="0.3"/>
-      <text x="150" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text><rect width="300" height="30" y="150" opacity=".3" rx="5"/><text x="150" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Årlig besparelse: 50-80k kr
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#securityGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(50 320)"><rect width="340" height="220" fill="url(#d)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       🔒 Sikkerhet
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="40" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Eliminerer risiko for tapte sjekker
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">
         Ingen fysiske dokumenter som kan mistes eller stjeles
-      </text>
-      
-      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="300" height="40" y="50" opacity=".2" rx="5"/><text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Kryptert dataoverføring
-      </text>
-      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="82" font-family="Arial, sans-serif" font-size="11">
         Sikker kommunikasjon mellom banker og systemer
-      </text>
-      
-      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="300" height="40" y="100" opacity=".2" rx="5"/><text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Sporbare transaksjoner
-      </text>
-      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="132" font-family="Arial, sans-serif" font-size="11">
         Komplett auditspor for alle betalinger
-      </text>
-      
-      <rect x="0" y="150" width="300" height="30" rx="5" fill="white" opacity="0.3"/>
-      <text x="150" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text><rect width="300" height="30" y="150" opacity=".3" rx="5"/><text x="150" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Sikkerhetsnivå: Høy
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 320)">
-    <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#controlGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(410 320)"><rect width="340" height="220" fill="url(#e)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       📊 Kontroll
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="40" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Bedre oversikt over betalingsevne
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">
         Sanntidsinnsikt i tilgjengelige midler
-      </text>
-      
-      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="300" height="40" y="50" opacity=".2" rx="5"/><text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Planlegging av kontantstrøm
-      </text>
-      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="82" font-family="Arial, sans-serif" font-size="11">
         Forutsigbare betalingsdatoer forbedrer planlegging
-      </text>
-      
-      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="300" height="40" y="100" opacity=".2" rx="5"/><text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Automatisk dokumentasjon
-      </text>
-      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="132" font-family="Arial, sans-serif" font-size="11">
         Alle transaksjoner dokumenteres automatisk
-      </text>
-      
-      <rect x="0" y="150" width="300" height="30" rx="5" fill="white" opacity="0.3"/>
-      <text x="150" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text><rect width="300" height="30" y="150" opacity=".3" rx="5"/><text x="150" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Kontrollnivå: Utmerket
-      </text>
-    </g>
-  </g>
-  
-
-  <rect x="50" y="560" width="700" height="30" rx="5" fill="#333" opacity="0.8"/>
-  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text></g></g><rect width="700" height="30" x="50" y="560" fill="#333" opacity=".8" rx="5"/><text x="400" y="580" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Direkte remittering gir betydelige fordeler innen effektivitet, kostnader, sikkerhet og kontroll
-  </text>
-</svg>
+  </text></svg>

@@ -1,144 +1,40 @@
-<svg width="800" height="550" viewBox="0 0 800 550" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="taxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="salesGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="550" fill="url(#bgGrad)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="550" viewBox="0 0 800 550"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v550H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Skattemessige Aspekter ved Utrangeringsverdi
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <rect x="0" y="0" width="340" height="180" fill="url(#taxGrad)" rx="15"/>
-    <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 70)"><rect width="340" height="180" fill="url(#b)" rx="15"/><text x="170" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Skattemessige Avskrivninger
-    </text>
-    
-    <rect x="20" y="45" width="300" height="120" fill="white" rx="8"/>
-    
-    <text x="30" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+    </text><rect width="300" height="120" x="20" y="45" fill="#fff" rx="8"/><text x="30" y="70" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Saldoavskrivning vs. Lineær:
-    </text>
-    
-    <text x="30" y="90" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="30" y="90" fill="#495057" font-family="Arial, sans-serif" font-size="12">
       • Saldoavskrivning: Bruker ikke utrangeringsverdi
-    </text>
-    <text x="30" y="105" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="30" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="12">
       • Lineære avskrivninger: Kan bruke utrangeringsverdi
-    </text>
-    <text x="30" y="120" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="30" y="120" fill="#495057" font-family="Arial, sans-serif" font-size="12">
       • Skatteloven: Setter maksimale satser
-    </text>
-    
-    <rect x="30" y="130" width="270" height="25" fill="#f8f9fa" stroke="#dee2e6" rx="3"/>
-    <text x="165" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#856404">
+    </text><rect width="270" height="25" x="30" y="130" fill="#f8f9fa" stroke="#dee2e6" rx="3"/><text x="165" y="147" fill="#856404" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
       Eksempel: Firmabil i saldogruppe d (25% sats)
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 70)">
-    <rect x="0" y="0" width="340" height="180" fill="url(#salesGrad)" rx="15"/>
-    <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(410 70)"><rect width="340" height="180" fill="url(#c)" rx="15"/><text x="170" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Realisasjon ved Salg
-    </text>
-    
-    <rect x="20" y="45" width="300" height="120" fill="white" rx="8"/>
-    
-    <text x="30" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#212529">
+    </text><rect width="300" height="120" x="20" y="45" fill="#fff" rx="8"/><text x="30" y="70" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Gevinst/Tap Beregning:
-    </text>
-    
-    <text x="30" y="90" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="30" y="90" fill="#495057" font-family="Arial, sans-serif" font-size="12">
       Faktisk salgspris:
-    </text>
-    <text x="280" y="90" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+    </text><text x="280" y="90" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       75.000 kr
-    </text>
-    
-    <text x="30" y="105" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="30" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="12">
       Bokført verdi:
-    </text>
-    <text x="280" y="105" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="280" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="end">
       60.000 kr
-    </text>
-    
-    <line x1="30" y1="112" x2="280" y2="112" stroke="#dee2e6" stroke-width="1"/>
-    
-    <text x="30" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+    </text><path stroke="#dee2e6" d="M30 112h250"/><text x="30" y="130" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Skattepliktig gevinst:
-    </text>
-    <text x="280" y="130" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+    </text><text x="280" y="130" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       15.000 kr
-    </text>
-    
-    <text x="30" y="150" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+    </text><text x="30" y="150" fill="#6c757d" font-family="Arial, sans-serif" font-size="11">
       Beskatning i realiseringsåret
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 280)">
-    <rect x="0" y="0" width="700" height="200" fill="white" stroke="#007bff" stroke-width="3" rx="15"/>
-    <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#007bff">
+    </text></g><g transform="translate(50 280)"><rect width="700" height="200" fill="#fff" stroke="#007bff" stroke-width="3" rx="15"/><text x="350" y="30" fill="#007bff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Sammenligning: Regnskapsmessig vs. Skattemessig
-    </text>
-    
-
-    <rect x="20" y="50" width="660" height="30" fill="#e7f3ff" stroke="#007bff" rx="5"/>
-    <text x="30" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">Aspekt</text>
-    <text x="200" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">Regnskapsmessig</text>
-    <text x="450" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#007bff">Skattemessig</text>
-    
-
-    <rect x="20" y="80" width="660" height="25" fill="#f8f9fa"/>
-    <text x="30" y="97" font-family="Arial, sans-serif" font-size="12" fill="#495057">Utrangeringsverdi</text>
-    <text x="200" y="97" font-family="Arial, sans-serif" font-size="12" fill="#495057">Brukes i avskrivningsberegning</text>
-    <text x="450" y="97" font-family="Arial, sans-serif" font-size="12" fill="#495057">Ikke relevant for saldoavskrivning</text>
-    
-
-    <rect x="20" y="105" width="660" height="25" fill="white"/>
-    <text x="30" y="122" font-family="Arial, sans-serif" font-size="12" fill="#495057">Avskrivningsmetode</text>
-    <text x="200" y="122" font-family="Arial, sans-serif" font-size="12" fill="#495057">Lineær eller degressiv</text>
-    <text x="450" y="122" font-family="Arial, sans-serif" font-size="12" fill="#495057">Hovedsakelig saldoavskrivning</text>
-    
-
-    <rect x="20" y="130" width="660" height="25" fill="#f8f9fa"/>
-    <text x="30" y="147" font-family="Arial, sans-serif" font-size="12" fill="#495057">Årlig avskrivning</text>
-    <text x="200" y="147" font-family="Arial, sans-serif" font-size="12" fill="#495057">45.000 kr (lineær, 10 år)</text>
-    <text x="450" y="147" font-family="Arial, sans-serif" font-size="12" fill="#495057">Varierende (25% av saldo)</text>
-    
-
-    <rect x="20" y="155" width="660" height="25" fill="white"/>
-    <text x="30" y="172" font-family="Arial, sans-serif" font-size="12" fill="#495057">Realisasjon</text>
-    <text x="200" y="172" font-family="Arial, sans-serif" font-size="12" fill="#495057">Gevinst/tap i resultatregnskap</text>
-    <text x="450" y="172" font-family="Arial, sans-serif" font-size="12" fill="#495057">Inn/ut av saldogruppe</text>
-  </g>
-  
-
-  <g transform="translate(50, 500)">
-    <rect x="0" y="0" width="700" height="35" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/>
-    <text x="350" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+    </text><rect width="660" height="30" x="20" y="50" fill="#e7f3ff" stroke="#007bff" rx="5"/><text x="30" y="70" fill="#007bff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Aspekt</text><text x="200" y="70" fill="#007bff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Regnskapsmessig</text><text x="450" y="70" fill="#007bff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Skattemessig</text><path fill="#f8f9fa" d="M20 80h660v25H20z"/><text x="30" y="97" fill="#495057" font-family="Arial, sans-serif" font-size="12">Utrangeringsverdi</text><text x="200" y="97" fill="#495057" font-family="Arial, sans-serif" font-size="12">Brukes i avskrivningsberegning</text><text x="450" y="97" fill="#495057" font-family="Arial, sans-serif" font-size="12">Ikke relevant for saldoavskrivning</text><path fill="#fff" d="M20 105h660v25H20z"/><text x="30" y="122" fill="#495057" font-family="Arial, sans-serif" font-size="12">Avskrivningsmetode</text><text x="200" y="122" fill="#495057" font-family="Arial, sans-serif" font-size="12">Lineær eller degressiv</text><text x="450" y="122" fill="#495057" font-family="Arial, sans-serif" font-size="12">Hovedsakelig saldoavskrivning</text><path fill="#f8f9fa" d="M20 130h660v25H20z"/><text x="30" y="147" fill="#495057" font-family="Arial, sans-serif" font-size="12">Årlig avskrivning</text><text x="200" y="147" fill="#495057" font-family="Arial, sans-serif" font-size="12">45.000 kr (lineær, 10 år)</text><text x="450" y="147" fill="#495057" font-family="Arial, sans-serif" font-size="12">Varierende (25% av saldo)</text><path fill="#fff" d="M20 155h660v25H20z"/><text x="30" y="172" fill="#495057" font-family="Arial, sans-serif" font-size="12">Realisasjon</text><text x="200" y="172" fill="#495057" font-family="Arial, sans-serif" font-size="12">Gevinst/tap i resultatregnskap</text><text x="450" y="172" fill="#495057" font-family="Arial, sans-serif" font-size="12">Inn/ut av saldogruppe</text></g><g transform="translate(50 500)"><rect width="700" height="35" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="8"/><text x="350" y="15" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Praktisk Eksempel
-    </text>
-    <text x="20" y="30" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+    </text><text x="20" y="30" fill="#856404" font-family="Arial, sans-serif" font-size="11">
       Firmabil (500.000 kr) selges etter 3 år for 200.000 kr. Regnskapsmessig bokført verdi: 365.000 kr. Skattemessig saldo: 211.250 kr.
-      Regnskapsmessig tap: 165.000 kr. Skattemessig "gevinst": Uttak fra saldo på 211.250 kr reduserer fremtidige avskrivninger.
-    </text>
-  </g>
-</svg>
+      Regnskapsmessig tap: 165.000 kr. Skattemessig &quot;gevinst&quot;: Uttak fra saldo på 211.250 kr reduserer fremtidige avskrivninger.
+    </text></g></svg>

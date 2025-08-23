@@ -1,219 +1,69 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="incomeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="notesGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1565C0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#607D8B;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#37474F;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#1565c0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#607d8b;stop-opacity:1"/><stop offset="100%" style="stop-color:#37474f;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Driftsinntekter i Årsregnskapet
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="350" height="400" rx="10" fill="url(#incomeGradient)" opacity="0.9"/>
-    <text x="175" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="350" height="400" fill="url(#a)" opacity=".9" rx="10"/><text x="175" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Resultatregnskap
-    </text>
-    <text x="175" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="175" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Standard oppstilling
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="310" height="25" fill="url(#headerGradient)"/>
-      <text x="155" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><path fill="url(#b)" d="M0 0h310v25H0z" transform="translate(20 65)"/><text x="155" y="18" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(20 65)">
         RESULTATREGNSKAP
-      </text>
-      
-
-      <rect x="0" y="35" width="310" height="25" fill="white" opacity="0.3"/>
-      <text x="10" y="52" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><path fill="#fff" d="M20 100h310v25H20z" opacity=".3"/><text x="10" y="52" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" transform="translate(20 65)">
         DRIFTSINNTEKTER
-      </text>
-      
-      <rect x="0" y="60" width="310" height="20" fill="white" opacity="0.1"/>
-      <text x="20" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">Salgsinntekter</text>
-      <text x="250" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">X XXX XXX</text>
-      
-      <rect x="0" y="80" width="310" height="20" fill="white" opacity="0.1"/>
-      <text x="20" y="95" font-family="Arial, sans-serif" font-size="11" fill="white">Andre driftsinntekter</text>
-      <text x="270" y="95" font-family="Arial, sans-serif" font-size="11" fill="white">XXX XXX</text>
-      
-      <rect x="0" y="100" width="310" height="20" fill="white" opacity="0.2"/>
-      <text x="10" y="115" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Sum driftsinntekter</text>
-      <text x="250" y="115" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">X XXX XXX</text>
-      
-
-      <rect x="0" y="130" width="310" height="25" fill="white" opacity="0.3"/>
-      <text x="10" y="147" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><path fill="#fff" d="M20 125h310v20H20z" opacity=".1"/><text x="20" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">Salgsinntekter</text><text x="250" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">X XXX XXX</text><path fill="#fff" d="M20 145h310v20H20z" opacity=".1"/><text x="20" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">Andre driftsinntekter</text><text x="270" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">XXX XXX</text><path fill="#fff" d="M20 165h310v20H20z" opacity=".2"/><text x="10" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" transform="translate(20 65)">Sum driftsinntekter</text><text x="250" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" transform="translate(20 65)">X XXX XXX</text><path fill="#fff" d="M20 195h310v25H20z" opacity=".3"/><text x="10" y="147" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" transform="translate(20 65)">
         DRIFTSKOSTNADER
-      </text>
-      
-      <rect x="0" y="155" width="310" height="20" fill="white" opacity="0.1"/>
-      <text x="20" y="170" font-family="Arial, sans-serif" font-size="11" fill="white">Varekostnad</text>
-      <text x="240" y="170" font-family="Arial, sans-serif" font-size="11" fill="white">-X XXX XXX</text>
-      
-      <rect x="0" y="175" width="310" height="20" fill="white" opacity="0.1"/>
-      <text x="20" y="190" font-family="Arial, sans-serif" font-size="11" fill="white">Lønnskostnad</text>
-      <text x="260" y="190" font-family="Arial, sans-serif" font-size="11" fill="white">-XXX XXX</text>
-      
-      <rect x="0" y="195" width="310" height="20" fill="white" opacity="0.1"/>
-      <text x="20" y="210" font-family="Arial, sans-serif" font-size="11" fill="white">Avskrivninger</text>
-      <text x="260" y="210" font-family="Arial, sans-serif" font-size="11" fill="white">-XXX XXX</text>
-      
-      <rect x="0" y="215" width="310" height="20" fill="white" opacity="0.1"/>
-      <text x="20" y="230" font-family="Arial, sans-serif" font-size="11" fill="white">Andre driftskostnader</text>
-      <text x="260" y="230" font-family="Arial, sans-serif" font-size="11" fill="white">-XXX XXX</text>
-      
-      <rect x="0" y="235" width="310" height="20" fill="white" opacity="0.2"/>
-      <text x="10" y="250" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">Sum driftskostnader</text>
-      <text x="240" y="250" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">-X XXX XXX</text>
-      
-
-      <line x1="10" y1="260" x2="300" y2="260" stroke="white" stroke-width="2"/>
-      <rect x="0" y="270" width="310" height="25" fill="white" opacity="0.4"/>
-      <text x="10" y="287" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DRIFTSRESULTAT</text>
-      <text x="260" y="287" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">XXX XXX</text>
-      
-
-      <rect x="5" y="35" width="5" height="85" fill="#FFD700"/>
-      <text x="15" y="310" font-family="Arial, sans-serif" font-size="10" fill="white" font-style="italic">
+      </text><path fill="#fff" d="M20 220h310v20H20z" opacity=".1"/><text x="20" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">Varekostnad</text><text x="240" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">-X XXX XXX</text><path fill="#fff" d="M20 240h310v20H20z" opacity=".1"/><text x="20" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">Lønnskostnad</text><text x="260" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">-XXX XXX</text><path fill="#fff" d="M20 260h310v20H20z" opacity=".1"/><text x="20" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">Avskrivninger</text><text x="260" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">-XXX XXX</text><path fill="#fff" d="M20 280h310v20H20z" opacity=".1"/><text x="20" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">Andre driftskostnader</text><text x="260" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="11" transform="translate(20 65)">-XXX XXX</text><path fill="#fff" d="M20 300h310v20H20z" opacity=".2"/><text x="10" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" transform="translate(20 65)">Sum driftskostnader</text><text x="240" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" transform="translate(20 65)">-X XXX XXX</text><path stroke="#fff" stroke-width="2" d="M30 325h290"/><path fill="#fff" d="M20 335h310v25H20z" opacity=".4"/><text x="10" y="287" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" transform="translate(20 65)">DRIFTSRESULTAT</text><text x="260" y="287" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" transform="translate(20 65)">XXX XXX</text><path fill="gold" d="M25 100h5v85h-5z"/><text x="15" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-style="italic" transform="translate(20 65)">
         Driftsinntekter er grunnlaget for driftsresultatet
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(420, 80)">
-    <rect x="0" y="0" width="330" height="400" rx="10" fill="url(#notesGradient)" opacity="0.9"/>
-    <text x="165" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text></g><g transform="translate(420 80)"><rect width="330" height="400" fill="url(#c)" opacity=".9" rx="10"/><text x="165" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Noteopplysninger
-    </text>
-    <text x="165" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="165" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Obligatoriske opplysninger
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="290" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="290" height="60" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Note 1: Regnskapsmetoder
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">
         • Inntektsføringsprinsipper
-      </text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">
         • Klassifisering og måling
-      </text>
-      
-
-      <rect x="0" y="70" width="290" height="75" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="88" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="290" height="75" y="70" opacity=".2" rx="5"/><text x="10" y="88" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Note 2: Geografisk fordeling
-      </text>
-      <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="105" font-family="Arial, sans-serif" font-size="11">
         Norge: 15 000 000 kr (75%)
-      </text>
-      <text x="10" y="120" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="120" font-family="Arial, sans-serif" font-size="11">
         Europa: 4 000 000 kr (20%)
-      </text>
-      <text x="10" y="135" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="135" font-family="Arial, sans-serif" font-size="11">
         Andre: 1 000 000 kr (5%)
-      </text>
-      
-
-      <rect x="0" y="155" width="290" height="75" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="173" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="290" height="75" y="155" opacity=".2" rx="5"/><text x="10" y="173" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Note 3: Produktkategorier
-      </text>
-      <text x="10" y="190" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="190" font-family="Arial, sans-serif" font-size="11">
         Produktsalg: 12 000 000 kr
-      </text>
-      <text x="10" y="205" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="205" font-family="Arial, sans-serif" font-size="11">
         Tjenester: 6 000 000 kr
-      </text>
-      <text x="10" y="220" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="220" font-family="Arial, sans-serif" font-size="11">
         Lisenser: 2 000 000 kr
-      </text>
-      
-
-      <rect x="0" y="240" width="290" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="258" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="290" height="60" y="240" opacity=".2" rx="5"/><text x="10" y="258" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Note 4: Vesentlige kunder
-      </text>
-      <text x="10" y="275" font-family="Arial, sans-serif" font-size="11" fill="white">
-        • Ingen enkeltkunders andel > 10%
-      </text>
-      <text x="10" y="290" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="275" font-family="Arial, sans-serif" font-size="11">
+        • Ingen enkeltkunders andel &gt; 10%
+      </text><text x="10" y="290" font-family="Arial, sans-serif" font-size="11">
         • Diversifisert kundebase
-      </text>
-      
-
-      <rect x="0" y="310" width="290" height="45" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="328" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="290" height="45" y="310" opacity=".2" rx="5"/><text x="10" y="328" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Note 5: Sesongvariasjoner
-      </text>
-      <text x="10" y="345" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="10" y="345" font-family="Arial, sans-serif" font-size="11">
         • Q4: 35% av årsinntektene
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 500)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+      </text></g></g><text y="20" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" transform="translate(50 500)">
       Viktige Rapporteringskrav
-    </text>
-    
-
-    <g transform="translate(0, 35)">
-      <rect x="0" y="0" width="160" height="50" rx="5" fill="#e9ecef" stroke="#dee2e6"/>
-      <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><g transform="translate(50 535)"><rect width="160" height="50" fill="#e9ecef" stroke="#dee2e6" rx="5"/><text x="80" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Presentasjon
-      </text>
-      <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#555">
+      </text><text x="10" y="40" fill="#555" font-family="Arial, sans-serif" font-size="11">
         Klar struktur i resultatregnskap
-      </text>
-      
-      <rect x="180" y="0" width="160" height="50" rx="5" fill="#e9ecef" stroke="#dee2e6"/>
-      <text x="260" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><rect width="160" height="50" x="180" fill="#e9ecef" stroke="#dee2e6" rx="5"/><text x="260" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Spesifikasjon
-      </text>
-      <text x="190" y="40" font-family="Arial, sans-serif" font-size="11" fill="#555">
+      </text><text x="190" y="40" fill="#555" font-family="Arial, sans-serif" font-size="11">
         Detaljerte noteopplysninger
-      </text>
-      
-      <rect x="360" y="0" width="160" height="50" rx="5" fill="#e9ecef" stroke="#dee2e6"/>
-      <text x="440" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><rect width="160" height="50" x="360" fill="#e9ecef" stroke="#dee2e6" rx="5"/><text x="440" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Sammenlignbarhet
-      </text>
-      <text x="370" y="40" font-family="Arial, sans-serif" font-size="11" fill="#555">
+      </text><text x="370" y="40" fill="#555" font-family="Arial, sans-serif" font-size="11">
         Konsistente prinsipper
-      </text>
-      
-      <rect x="540" y="0" width="160" height="50" rx="5" fill="#e9ecef" stroke="#dee2e6"/>
-      <text x="620" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><rect width="160" height="50" x="540" fill="#e9ecef" stroke="#dee2e6" rx="5"/><text x="620" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Transparens
-      </text>
-      <text x="550" y="40" font-family="Arial, sans-serif" font-size="11" fill="#555">
+      </text><text x="550" y="40" fill="#555" font-family="Arial, sans-serif" font-size="11">
         Tilstrekkelige opplysninger
-      </text>
-    </g>
-  </g>
-</svg>
+      </text></g></svg>

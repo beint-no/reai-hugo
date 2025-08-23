@@ -1,123 +1,43 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Komponenter i Egenfinansiering
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
-  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="300" r="80" fill="#3498db" stroke="#2980b9" stroke-width="3"/><text x="400" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     EGENKAPITAL
-  </text>
-  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (Total)
-  </text>
-  
-
-  <g>
-    <circle cx="200" cy="150" r="60" fill="#27ae60" stroke="#229954" stroke-width="2"/>
-    <text x="200" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="200" cy="150" r="60" fill="#27ae60" stroke="#229954" stroke-width="2"/><text x="200" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Aksjekapital
-    </text>
-    <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="200" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Innbetalt kapital
-    </text>
-    
-
-    <line x1="240" y1="190" x2="360" y2="260" stroke="#34495e" stroke-width="2"/>
-    
-
-    <rect x="80" y="80" width="240" height="50" fill="#e8f5e8" stroke="#27ae60" stroke-width="1" rx="5"/>
-    <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+    </text><path stroke="#34495e" stroke-width="2" d="m240 190 120 70"/><rect width="240" height="50" x="80" y="80" fill="#e8f5e8" stroke="#27ae60" rx="5"/><text x="200" y="100" fill="#27ae60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Minimum 30 000 kr (AS)
-    </text>
-    <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="200" y="115" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Opprinnelig kapital fra eierne
-    </text>
-  </g>
-  
-
-  <g>
-    <circle cx="600" cy="150" r="60" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
-    <text x="600" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><circle cx="600" cy="150" r="60" fill="#e67e22" stroke="#d35400" stroke-width="2"/><text x="600" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Tilbakeholdt
-    </text>
-    <text x="600" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="600" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Overskudd
-    </text>
-    
-
-    <line x1="560" y1="190" x2="440" y2="260" stroke="#34495e" stroke-width="2"/>
-    
-
-    <rect x="480" y="80" width="240" height="50" fill="#fdeaa7" stroke="#e67e22" stroke-width="1" rx="5"/>
-    <text x="600" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e67e22">
+    </text><path stroke="#34495e" stroke-width="2" d="m560 190-120 70"/><rect width="240" height="50" x="480" y="80" fill="#fdeaa7" stroke="#e67e22" rx="5"/><text x="600" y="100" fill="#e67e22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Opptjent egenkapital
-    </text>
-    <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="600" y="115" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Overskudd ikke utbetalt som utbytte
-    </text>
-  </g>
-  
-
-  <g>
-    <circle cx="200" cy="450" r="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/>
-    <text x="200" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><circle cx="200" cy="450" r="60" fill="#9b59b6" stroke="#8e44ad" stroke-width="2"/><text x="200" y="445" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Overkurs
-    </text>
-    <text x="200" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="200" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Ved emisjoner
-    </text>
-    
-
-    <line x1="240" y1="410" x2="360" y2="340" stroke="#34495e" stroke-width="2"/>
-    
-
-    <rect x="80" y="470" width="240" height="50" fill="#f4ecf7" stroke="#9b59b6" stroke-width="1" rx="5"/>
-    <text x="200" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#9b59b6">
+    </text><path stroke="#34495e" stroke-width="2" d="m240 410 120-70"/><rect width="240" height="50" x="80" y="470" fill="#f4ecf7" stroke="#9b59b6" rx="5"/><text x="200" y="490" fill="#9b59b6" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Beløp over pålydende
-    </text>
-    <text x="200" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="200" y="505" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Ved salg av aksjer over pålydende verdi
-    </text>
-  </g>
-  
-
-  <g>
-    <circle cx="600" cy="450" r="60" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
-    <text x="600" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><circle cx="600" cy="450" r="60" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/><text x="600" y="445" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Annen
-    </text>
-    <text x="600" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="600" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Egenkapital
-    </text>
-    
-
-    <line x1="560" y1="410" x2="440" y2="340" stroke="#34495e" stroke-width="2"/>
-    
-
-    <rect x="480" y="470" width="240" height="50" fill="#fadbd8" stroke="#e74c3c" stroke-width="1" rx="5"/>
-    <text x="600" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+    </text><path stroke="#34495e" stroke-width="2" d="m560 410-120-70"/><rect width="240" height="50" x="480" y="470" fill="#fadbd8" stroke="#e74c3c" rx="5"/><text x="600" y="490" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Øvrige komponenter
-    </text>
-    <text x="600" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+    </text><text x="600" y="505" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Fond, reserver og andre poster
-    </text>
-  </g>
-  
-
-  <rect x="150" y="540" width="500" height="40" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
-  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    </text><rect width="500" height="40" x="150" y="540" fill="#ecf0f1" stroke="#bdc3c7" rx="5"/><text x="400" y="560" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Total Egenkapital = Aksjekapital + Tilbakeholdt Overskudd + Overkurs + Annen EK
-  </text>
-  
-
-  <g>
-    <text x="50" y="580" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7f8c8d">
+  </text><text x="50" y="580" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Alle komponenter utgjør sammen bedriftens totale egenkapital
-    </text>
-  </g>
-</svg>
+    </text></svg>

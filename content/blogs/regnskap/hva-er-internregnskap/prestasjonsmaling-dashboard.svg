@@ -1,204 +1,43 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="70" fill="url(#headerGradient)"/>
-  <text x="400" y="45" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v70H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Prestasjonsmåling Dashboard
-  </text>
-  
-
-  <g transform="translate(50, 100)">
-
-    <rect x="0" y="0" width="160" height="100" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
-    <text x="80" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><g transform="translate(50 100)"><rect width="160" height="100" fill="#fff" stroke="#28a745" stroke-width="2" rx="8"/><text x="80" y="25" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Omsetning
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    </text><text x="80" y="50" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       12.5M
-    </text>
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#28a745">
+    </text><text x="80" y="70" fill="#28a745" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       ↑ +8.2% vs budsjett
-    </text>
-    <text x="80" y="85" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
+    </text><text x="80" y="85" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       NOK (YTD)
-    </text>
-    
-
-    <rect x="180" y="0" width="160" height="100" fill="white" stroke="#ffc107" stroke-width="2" rx="8"/>
-    <text x="260" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e0a800">
+    </text><rect width="160" height="100" x="180" fill="#fff" stroke="#ffc107" stroke-width="2" rx="8"/><text x="260" y="25" fill="#e0a800" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Bruttomargin
-    </text>
-    <text x="260" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    </text><text x="260" y="50" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       23.4%
-    </text>
-    <text x="260" y="70" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#ffc107">
+    </text><text x="260" y="70" fill="#ffc107" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       → -0.3% vs budsjett
-    </text>
-    <text x="260" y="85" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
+    </text><text x="260" y="85" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Margin %
-    </text>
-    
-
-    <rect x="360" y="0" width="160" height="100" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
-    <text x="440" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+    </text><rect width="160" height="100" x="360" fill="#fff" stroke="#dc3545" stroke-width="2" rx="8"/><text x="440" y="25" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Driftskostnader
-    </text>
-    <text x="440" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    </text><text x="440" y="50" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       9.2M
-    </text>
-    <text x="440" y="70" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#dc3545">
+    </text><text x="440" y="70" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       ↑ +12% vs budsjett
-    </text>
-    <text x="440" y="85" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
+    </text><text x="440" y="85" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       NOK (YTD)
-    </text>
-    
-
-    <rect x="540" y="0" width="160" height="100" fill="white" stroke="#17a2b8" stroke-width="2" rx="8"/>
-    <text x="620" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#17a2b8">
+    </text><rect width="160" height="100" x="540" fill="#fff" stroke="#17a2b8" stroke-width="2" rx="8"/><text x="620" y="25" fill="#17a2b8" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Produktivitet
-    </text>
-    <text x="620" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    </text><text x="620" y="50" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       142%
-    </text>
-    <text x="620" y="70" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#28a745">
+    </text><text x="620" y="70" fill="#28a745" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       ↑ +5% vs budsjett
-    </text>
-    <text x="620" y="85" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
+    </text><text x="620" y="85" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Index
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 230)">
-
-    <rect x="0" y="0" width="340" height="200" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
-    <text x="170" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+    </text></g><g transform="translate(50 230)"><rect width="340" height="200" fill="#fff" stroke="#dee2e6" rx="8"/><text x="170" y="25" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Månedlig Utvikling
-    </text>
-    
-
-    <line x1="40" y1="180" x2="320" y2="180" stroke="#dee2e6" stroke-width="1"/>
-    <line x1="40" y1="50" x2="40" y2="180" stroke="#dee2e6" stroke-width="1"/>
-    
-
-    <polyline points="40,160 80,140 120,130 160,120 200,110 240,100 280,95 320,90" 
-              fill="none" stroke="#28a745" stroke-width="3"/>
-    <polyline points="40,170 80,165 120,155 160,150 200,145 240,140 280,135 320,130" 
-              fill="none" stroke="#0066cc" stroke-width="2" stroke-dasharray="5,5"/>
-    
-
-    <circle cx="320" cy="90" r="4" fill="#28a745"/>
-    <circle cx="320" cy="130" r="3" fill="#0066cc"/>
-    
-
-    <rect x="50" y="45" width="12" height="3" fill="#28a745"/>
-    <text x="70" y="52" font-family="Arial, sans-serif" font-size="10" fill="#333">Faktisk</text>
-    <rect x="120" y="45" width="12" height="2" fill="#0066cc"/>
-    <text x="140" y="52" font-family="Arial, sans-serif" font-size="10" fill="#333">Budsjett</text>
-    
-
-    <text x="35" y="55" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="#6c757d">100%</text>
-    <text x="35" y="95" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="#6c757d">75%</text>
-    <text x="35" y="135" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="#6c757d">50%</text>
-    <text x="35" y="175" font-family="Arial, sans-serif" font-size="9" text-anchor="end" fill="#6c757d">25%</text>
-    
-
-    <rect x="360" y="0" width="340" height="200" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
-    <text x="530" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+    </text><path stroke="#dee2e6" d="M40 180h280M40 50v130"/><path fill="none" stroke="#28a745" stroke-width="3" d="m40 160 40-20 40-10 40-10 40-10 40-10 40-5 40-5"/><path fill="none" stroke="#06c" stroke-dasharray="5,5" stroke-width="2" d="m40 170 40-5 40-10 40-5 40-5 40-5 40-5 40-5"/><circle cx="320" cy="90" r="4" fill="#28a745"/><circle cx="320" cy="130" r="3" fill="#06c"/><path fill="#28a745" d="M50 45h12v3H50z"/><text x="70" y="52" fill="#333" font-family="Arial, sans-serif" font-size="10">Faktisk</text><path fill="#06c" d="M120 45h12v2h-12z"/><text x="140" y="52" fill="#333" font-family="Arial, sans-serif" font-size="10">Budsjett</text><text x="35" y="55" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="end">100%</text><text x="35" y="95" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="end">75%</text><text x="35" y="135" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="end">50%</text><text x="35" y="175" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="end">25%</text><rect width="340" height="200" x="360" fill="#fff" stroke="#dee2e6" rx="8"/><text x="530" y="25" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Avdelingsresultater
-    </text>
-    
-
-    <g transform="translate(380, 50)">
-
-      <rect x="0" y="0" width="280" height="25" fill="#e9ecef" rx="3"/>
-      <rect x="0" y="0" width="224" height="25" fill="#28a745" rx="3"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Salg</text>
-      <text x="270" y="18" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#333">112%</text>
-      
-
-      <rect x="0" y="35" width="280" height="25" fill="#e9ecef" rx="3"/>
-      <rect x="0" y="35" width="252" height="25" fill="#ffc107" rx="3"/>
-      <text x="10" y="53" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Produksjon</text>
-      <text x="270" y="53" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#333">105%</text>
-      
-
-      <rect x="0" y="70" width="280" height="25" fill="#e9ecef" rx="3"/>
-      <rect x="0" y="70" width="196" height="25" fill="#17a2b8" rx="3"/>
-      <text x="10" y="88" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Markedsføring</text>
-      <text x="270" y="88" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#333">98%</text>
-      
-
-      <rect x="0" y="105" width="280" height="25" fill="#e9ecef" rx="3"/>
-      <rect x="0" y="105" width="168" height="25" fill="#dc3545" rx="3"/>
-      <text x="10" y="123" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Administrasjon</text>
-      <text x="270" y="123" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#333">85%</text>
-      
-      <text x="140" y="150" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d">
+    </text><g transform="translate(380 50)"><rect width="280" height="25" fill="#e9ecef" rx="3"/><rect width="224" height="25" fill="#28a745" rx="3"/><text x="10" y="18" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Salg</text><text x="270" y="18" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="end">112%</text><rect width="280" height="25" y="35" fill="#e9ecef" rx="3"/><rect width="252" height="25" y="35" fill="#ffc107" rx="3"/><text x="10" y="53" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Produksjon</text><text x="270" y="53" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="end">105%</text><rect width="280" height="25" y="70" fill="#e9ecef" rx="3"/><rect width="196" height="25" y="70" fill="#17a2b8" rx="3"/><text x="10" y="88" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Markedsføring</text><text x="270" y="88" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="end">98%</text><rect width="280" height="25" y="105" fill="#e9ecef" rx="3"/><rect width="168" height="25" y="105" fill="#dc3545" rx="3"/><text x="10" y="123" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Administrasjon</text><text x="270" y="123" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="end">85%</text><text x="140" y="150" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         % av budsjettmål
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 460)">
-    <rect x="0" y="0" width="700" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+      </text></g></g><g transform="translate(50 460)"><rect width="700" height="120" fill="#fff" stroke="#dee2e6" rx="8"/><text x="350" y="25" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Nøkkelindikatorer (KPI)
-    </text>
-    
-
-    <g transform="translate(30, 40)">
-
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Kundetilfredshet:</text>
-      <text x="150" y="20" font-family="Arial, sans-serif" font-size="12" fill="#28a745">4.2/5.0 ↑</text>
-      
-      <text x="250" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Leveringspresisjon:</text>
-      <text x="400" y="20" font-family="Arial, sans-serif" font-size="12" fill="#28a745">96.8% ↑</text>
-      
-      <text x="500" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Kvalitetsindeks:</text>
-      <text x="620" y="20" font-family="Arial, sans-serif" font-size="12" fill="#ffc107">98.2% →</text>
-      
-
-      <text x="0" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Medarbeidertilfredshet:</text>
-      <text x="150" y="45" font-family="Arial, sans-serif" font-size="12" fill="#28a745">7.8/10 ↑</text>
-      
-      <text x="250" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Innovasjonsrate:</text>
-      <text x="400" y="45" font-family="Arial, sans-serif" font-size="12" fill="#17a2b8">12% nye produkter</text>
-      
-      <text x="500" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Markedsandel:</text>
-      <text x="620" y="45" font-family="Arial, sans-serif" font-size="12" fill="#28a745">18.5% ↑</text>
-      
-
-      <text x="0" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Kontantstrøm:</text>
-      <text x="150" y="70" font-family="Arial, sans-serif" font-size="12" fill="#28a745">Positiv +2.1M</text>
-      
-      <text x="250" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">ROI:</text>
-      <text x="400" y="70" font-family="Arial, sans-serif" font-size="12" fill="#28a745">15.2% ↑</text>
-      
-      <text x="500" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Sykefravær:</text>
-      <text x="620" y="70" font-family="Arial, sans-serif" font-size="12" fill="#dc3545">4.8% ↑</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(650, 580)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="10" fill="#28a745">↑ Over mål</text>
-    <text x="60" y="0" font-family="Arial, sans-serif" font-size="10" fill="#ffc107">→ På mål</text>
-    <text x="110" y="0" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">↓ Under mål</text>
-  </g>
-</svg>
+    </text><g font-family="Arial, sans-serif" font-size="12"><text y="20" fill="#333" font-weight="bold" transform="translate(30 40)">Kundetilfredshet:</text><text x="150" y="20" fill="#28a745" transform="translate(30 40)">4.2/5.0 ↑</text><text x="250" y="20" fill="#333" font-weight="bold" transform="translate(30 40)">Leveringspresisjon:</text><text x="400" y="20" fill="#28a745" transform="translate(30 40)">96.8% ↑</text><text x="500" y="20" fill="#333" font-weight="bold" transform="translate(30 40)">Kvalitetsindeks:</text><text x="620" y="20" fill="#ffc107" transform="translate(30 40)">98.2% →</text><text y="45" fill="#333" font-weight="bold" transform="translate(30 40)">Medarbeidertilfredshet:</text><text x="150" y="45" fill="#28a745" transform="translate(30 40)">7.8/10 ↑</text><text x="250" y="45" fill="#333" font-weight="bold" transform="translate(30 40)">Innovasjonsrate:</text><text x="400" y="45" fill="#17a2b8" transform="translate(30 40)">12% nye produkter</text><text x="500" y="45" fill="#333" font-weight="bold" transform="translate(30 40)">Markedsandel:</text><text x="620" y="45" fill="#28a745" transform="translate(30 40)">18.5% ↑</text><text y="70" fill="#333" font-weight="bold" transform="translate(30 40)">Kontantstrøm:</text><text x="150" y="70" fill="#28a745" transform="translate(30 40)">Positiv +2.1M</text><text x="250" y="70" fill="#333" font-weight="bold" transform="translate(30 40)">ROI:</text><text x="400" y="70" fill="#28a745" transform="translate(30 40)">15.2% ↑</text><text x="500" y="70" fill="#333" font-weight="bold" transform="translate(30 40)">Sykefravær:</text><text x="620" y="70" fill="#dc3545" transform="translate(30 40)">4.8% ↑</text></g></g><g font-family="Arial, sans-serif" font-size="10"><text fill="#28a745" transform="translate(650 580)">↑ Over mål</text><text x="60" fill="#ffc107" transform="translate(650 580)">→ På mål</text><text x="110" fill="#dc3545" transform="translate(650 580)">↓ Under mål</text></g></svg>

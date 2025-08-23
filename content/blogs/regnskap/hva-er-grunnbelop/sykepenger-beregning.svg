@@ -1,87 +1,41 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Sykepengeberegning med G-begrensning
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="60" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
-  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="60" x="50" y="60" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/><text x="400" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Eksempel: Arbeidstaker med årsinntekt 800 000 kr blir sykmeldt
-  </text>
-  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Hvordan påvirker 6 G-grensen sykepengeberegningen?
-  </text>
-  
-
-  <rect x="50" y="150" width="300" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
-  <text x="200" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="300" height="120" x="50" y="150" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/><text x="200" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Steg 1: Sammenlign inntekt
-  </text>
-  <text x="200" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="200" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Årsinntekt: 800 000 kr
-  </text>
-  <text x="200" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="200" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     6 G grense: 6 × 124 028 kr
-  </text>
-  <text x="200" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="200" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     = 744 168 kr
-  </text>
-  
-
-  <path d="M 370 210 L 430 210 L 425 205 M 430 210 L 425 215" stroke="#34495e" stroke-width="3" fill="none"/>
-  
-
-  <rect x="450" y="150" width="300" height="120" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/>
-  <text x="600" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><path fill="none" stroke="#34495e" stroke-width="3" d="M370 210h60l-5-5m5 5-5 5"/><rect width="300" height="120" x="450" y="150" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="10"/><text x="600" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Steg 2: Anvend begrensning
-  </text>
-  <text x="600" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
-    800 000 kr > 744 168 kr
-  </text>
-  <text x="600" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
+    800 000 kr &gt; 744 168 kr
+  </text><text x="600" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sykepengegivende inntekt:
-  </text>
-  <text x="600" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="600" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     744 168 kr (begrenset til 6 G)
-  </text>
-  
-
-  <rect x="150" y="300" width="500" height="100" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
-  <text x="400" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="500" height="100" x="150" y="300" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/><text x="400" y="330" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Daglig sykepengeberegning
-  </text>
-  <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="400" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     744 168 kr ÷ 260 arbeidsdager × 100% = 2 862 kr per dag
-  </text>
-  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (260 dager = standard arbeidsår minus helger og ferie)
-  </text>
-  
-
-  <rect x="50" y="420" width="300" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
-  <text x="200" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><rect width="300" height="60" x="50" y="420" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="200" y="440" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Uten G-begrensning:
-  </text>
-  <text x="200" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+  </text><text x="200" y="455" fill="#34495e" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     800 000 kr ÷ 260 = 3 077 kr per dag
-  </text>
-  <text x="200" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">
+  </text><text x="200" y="470" fill="#e74c3c" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Differanse: 215 kr per dag mindre
-  </text>
-  
-
-  <rect x="450" y="420" width="300" height="60" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
-  <text x="600" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><rect width="300" height="60" x="450" y="420" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="600" y="440" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Årlig tap ved langvarig sykdom:
-  </text>
-  <text x="600" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#34495e">
+  </text><text x="600" y="455" fill="#34495e" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     215 kr × 260 dager = 55 900 kr
-  </text>
-  <text x="600" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c">
+  </text><text x="600" y="470" fill="#e74c3c" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Dette dekkes ikke av folketrygden
-  </text>
-</svg>
+  </text></svg>

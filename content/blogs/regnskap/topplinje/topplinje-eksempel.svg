@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300">
-  <style>
-    .revenue { fill: #4CAF50; }
-    .label { font: 14px sans-serif; text-anchor: middle; }
-  </style>
-
-  <line x1="80" y1="280" x2="520" y2="280" stroke="#000"/>
-  <line x1="80" y1="80" x2="80" y2="280" stroke="#000"/>
-
-  <rect class="revenue" x="300" y="80" width="50" height="200"/>
-
-  <text class="label" x="325" y="75">100%</text>
-
-  <text class="label" x="325" y="295">Topplinje</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300"><style>.label{font:14px sans-serif;text-anchor:middle}</style><path stroke="#000" d="M80 280h440M80 80v200"/><path d="M300 80h50v200h-50z" style="fill:#4caf50"/><text x="325" y="75" class="label">100%</text><text x="325" y="295" class="label">Topplinje</text></svg>

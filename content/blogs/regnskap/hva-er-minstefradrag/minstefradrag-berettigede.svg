@@ -1,121 +1,51 @@
-<svg width="700" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="400" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="700" height="60" fill="url(#headerGrad)"/>
-  <text x="350" y="40" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h700v400H0z"/><path fill="url(#b)" d="M0 0h700v60H0z"/><text x="350" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Hvem har Rett til Minstefradrag?
-  </text>
-  
-
-  <circle cx="350" cy="200" r="80" fill="#e3f2fd" stroke="#0066cc" stroke-width="3"/>
-  <text x="350" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><circle cx="350" cy="200" r="80" fill="#e3f2fd" stroke="#06c" stroke-width="3"/><text x="350" y="190" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     MINSTEFRADRAG
-  </text>
-  <text x="350" y="210" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#0066cc">
+  </text><text x="350" y="210" fill="#06c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Alle med skattepliktig
-  </text>
-  <text x="350" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#0066cc">
+  </text><text x="350" y="225" fill="#06c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     inntekt i Norge
-  </text>
-  
-
-  <rect x="50" y="100" width="120" height="80" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/>
-  <text x="110" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="120" height="80" x="50" y="100" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/><text x="110" y="125" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     LØNNSTAKERE
-  </text>
-  <text x="110" y="145" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="110" y="145" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Alle ansatte
-  </text>
-  <text x="110" y="160" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="110" y="160" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Deltid/heltid
-  </text>
-  <text x="110" y="175" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="110" y="175" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • 46% (maks 104 850)
-  </text>
-  
-
-  <rect x="530" y="100" width="120" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/>
-  <text x="590" y="125" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ff9800">
+  </text><rect width="120" height="80" x="530" y="100" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/><text x="590" y="125" fill="#ff9800" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     PENSJONISTER
-  </text>
-  <text x="590" y="145" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="590" y="145" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Alderspensjon
-  </text>
-  <text x="590" y="160" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="590" y="160" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Uførepensjon
-  </text>
-  <text x="590" y="175" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="590" y="175" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • 31% (maks 90 800)
-  </text>
-  
-
-  <rect x="50" y="280" width="120" height="80" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="5"/>
-  <text x="110" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#9c27b0">
+  </text><rect width="120" height="80" x="50" y="280" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="5"/><text x="110" y="300" fill="#9c27b0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     NÆRINGSDRIVENDE
-  </text>
-  <text x="110" y="320" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="110" y="320" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Visse typer næring
-  </text>
-  <text x="110" y="335" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="110" y="335" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Strenge vilkår
-  </text>
-  <text x="110" y="350" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="110" y="350" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • 25% (maks 69 700)
-  </text>
-  
-
-  <rect x="290" y="280" width="120" height="80" fill="#e1f5fe" stroke="#00bcd4" stroke-width="2" rx="5"/>
-  <text x="350" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#00bcd4">
+  </text><rect width="120" height="80" x="290" y="280" fill="#e1f5fe" stroke="#00bcd4" stroke-width="2" rx="5"/><text x="350" y="305" fill="#00bcd4" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FRILANSERE
-  </text>
-  <text x="350" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="350" y="325" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Rapporterer som lønn
-  </text>
-  <text x="350" y="340" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="350" y="340" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Samme sats som
-  </text>
-  <text x="350" y="355" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="350" y="355" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     lønnstakere
-  </text>
-  
-
-  <rect x="530" y="280" width="120" height="80" fill="#fce4ec" stroke="#e91e63" stroke-width="2" rx="5"/>
-  <text x="590" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e91e63">
+  </text><rect width="120" height="80" x="530" y="280" fill="#fce4ec" stroke="#e91e63" stroke-width="2" rx="5"/><text x="590" y="305" fill="#e91e63" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     STUDENTER
-  </text>
-  <text x="590" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="590" y="325" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Deltidsjobb
-  </text>
-  <text x="590" y="340" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="590" y="340" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Feriejobb
-  </text>
-  <text x="590" y="355" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="590" y="355" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Samme regler
-  </text>
-  
-
-  <path d="M 170 140 L 270 180" stroke="#666" stroke-width="2" fill="none"/>
-  <path d="M 530 140 L 430 180" stroke="#666" stroke-width="2" fill="none"/>
-  <path d="M 170 320 L 270 220" stroke="#666" stroke-width="2" fill="none"/>
-  <path d="M 410 320 L 380 280" stroke="#666" stroke-width="2" fill="none"/>
-  <path d="M 530 320 L 430 220" stroke="#666" stroke-width="2" fill="none"/>
-  
-
-  <rect x="200" y="70" width="300" height="25" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="3"/>
-  <text x="350" y="87" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><path fill="none" stroke="#666" stroke-width="2" d="m170 140 100 40M530 140l-100 40M170 320l100-100M410 320l-30-40M530 320 430 220"/><rect width="300" height="25" x="200" y="70" fill="#fff3cd" stroke="#ffc107" rx="3"/><text x="350" y="87" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Spesialordninger: Sjøfolk, fiskere, utenlandske arbeidstakere
-  </text>
-</svg>
+  </text></svg>

@@ -1,164 +1,75 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1f2937">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskap vs. Skatt Behandling
-  </text>
-  <text x="400" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6b7280">
+  </text><text x="400" y="55" fill="#6b7280" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Varige Driftsmidler
-  </text>
-  
-
-  <line x1="400" y1="80" x2="400" y2="560" stroke="#d1d5db" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <rect x="50" y="90" width="300" height="40" fill="#3b82f6" rx="5"/>
-  <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><path stroke="#d1d5db" stroke-dasharray="5,5" stroke-width="2" d="M400 80v480"/><rect width="300" height="40" x="50" y="90" fill="#3b82f6" rx="5"/><text x="200" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     REGNSKAP
-  </text>
-  
-
-  <rect x="450" y="90" width="300" height="40" fill="#dc2626" rx="5"/>
-  <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="300" height="40" x="450" y="90" fill="#dc2626" rx="5"/><text x="600" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     SKATT
-  </text>
-  
-
-  <g id="accounting-side">
-
-    <rect x="60" y="150" width="280" height="30" fill="#bfdbfe" rx="3"/>
-    <text x="70" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+  </text><rect width="280" height="30" x="60" y="150" fill="#bfdbfe" rx="3"/><text x="70" y="170" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Avskrivningsmetode:
-    </text>
-    <text x="70" y="190" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="190" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Lineær avskrivning
-    </text>
-    <text x="70" y="205" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="205" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Jevn fordeling over levetid
-    </text>
-    <text x="70" y="220" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="220" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Stabile årlige kostnader
-    </text>
-    
-
-    <rect x="60" y="240" width="280" height="110" fill="#f3f4f6" rx="3"/>
-    <text x="70" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">
+    </text><rect width="280" height="110" x="60" y="240" fill="#f3f4f6" rx="3"/><text x="70" y="260" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Eksempel - Maskin 800.000 kr:
-    </text>
-    <text x="70" y="280" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="280" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       År 1: 100.000 kr (lineær)
-    </text>
-    <text x="70" y="295" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="295" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       År 2: 100.000 kr (lineær)
-    </text>
-    <text x="70" y="310" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="310" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       År 3: 100.000 kr (lineær)
-    </text>
-    <text x="70" y="325" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="325" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       År 4: 100.000 kr (lineær)
-    </text>
-    <text x="70" y="340" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="340" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       År 5: 100.000 kr (lineær)
-    </text>
-    
-
-    <rect x="60" y="370" width="280" height="80" fill="#ecfdf5" rx="3"/>
-    <text x="70" y="390" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46">
+    </text><rect width="280" height="80" x="60" y="370" fill="#ecfdf5" rx="3"/><text x="70" y="390" fill="#065f46" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Regnskapsprinsipper:
-    </text>
-    <text x="70" y="410" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="410" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Samsvarsprinsippet
-    </text>
-    <text x="70" y="425" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="425" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Faktisk verdireduksjon
-    </text>
-    <text x="70" y="440" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="70" y="440" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Finansiell rapportering
-    </text>
-  </g>
-  
-
-  <g id="tax-side">
-
-    <rect x="460" y="150" width="280" height="30" fill="#fecaca" rx="3"/>
-    <text x="470" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#b91c1c">
+    </text><rect width="280" height="30" x="460" y="150" fill="#fecaca" rx="3"/><text x="470" y="170" fill="#b91c1c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Avskrivningsmetode:
-    </text>
-    <text x="470" y="190" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="190" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Saldoavskrivning
-    </text>
-    <text x="470" y="205" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="205" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Degressiv avskrivning
-    </text>
-    <text x="470" y="220" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="220" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Høyere i starten
-    </text>
-    
-
-    <rect x="460" y="240" width="280" height="110" fill="#f3f4f6" rx="3"/>
-    <text x="470" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">
+    </text><rect width="280" height="110" x="460" y="240" fill="#f3f4f6" rx="3"/><text x="470" y="260" fill="#1f2937" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Eksempel - Maskin 800.000 kr (20%):
-    </text>
-    <text x="470" y="280" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="280" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       År 1: 160.000 kr (saldo)
-    </text>
-    <text x="470" y="295" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="295" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       År 2: 128.000 kr (saldo)
-    </text>
-    <text x="470" y="310" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="310" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       År 3: 102.400 kr (saldo)
-    </text>
-    <text x="470" y="325" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="325" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       År 4: 81.920 kr (saldo)
-    </text>
-    <text x="470" y="340" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="340" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       År 5: 65.536 kr (saldo)
-    </text>
-    
-
-    <rect x="460" y="370" width="280" height="80" fill="#fef3c7" rx="3"/>
-    <text x="470" y="390" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
+    </text><rect width="280" height="80" x="460" y="370" fill="#fef3c7" rx="3"/><text x="470" y="390" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Skatteformål:
-    </text>
-    <text x="470" y="410" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="410" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Skatteloven § 14-40
-    </text>
-    <text x="470" y="425" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="425" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Faste saldogrupper
-    </text>
-    <text x="470" y="440" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="470" y="440" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Skattereduksjon
-    </text>
-  </g>
-  
-
-  <rect x="100" y="470" width="600" height="80" fill="#fef2f2" rx="5" stroke="#ef4444" stroke-width="2"/>
-  <text x="400" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">
+    </text><rect width="600" height="80" x="100" y="470" fill="#fef2f2" stroke="#ef4444" stroke-width="2" rx="5"/><text x="400" y="490" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Midlertidige Forskjeller
-  </text>
-  
-  <text x="120" y="510" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="120" y="510" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     • <tspan font-weight="bold">År 1:</tspan> Regnskapsmessig 100.000 kr vs. Skattemessig 160.000 kr = 60.000 kr forskjell
-  </text>
-  <text x="120" y="525" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="120" y="525" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     • <tspan font-weight="bold">År 2:</tspan> Regnskapsmessig 100.000 kr vs. Skattemessig 128.000 kr = 28.000 kr forskjell
-  </text>
-  <text x="120" y="540" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="120" y="540" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     • <tspan font-weight="bold">Resultat:</tspan> Utsatt skatt må beregnes på forskjellene
-  </text>
-  
-
-  <path d="M 360 320 Q 400 350 440 320" stroke="#f59e0b" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b">
+  </text><path fill="none" stroke="#f59e0b" stroke-width="2" marker-end="url(#a)" d="M360 320q40 30 80 0"/><text x="400" y="345" fill="#f59e0b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Forskjell
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#f59e0b"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#f59e0b" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

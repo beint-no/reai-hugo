@@ -1,216 +1,53 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2e7d32;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4caf50;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f5f5f5;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2e7d32;stop-opacity:1"/><stop offset="100%" style="stop-color:#4caf50;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff;stop-opacity:1"/><stop offset="100%" style="stop-color:#f5f5f5;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">
     Sammendrag: Landbrukskontoplan
-  </text>
-  <text x="400" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="400" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Nøkkelelementer for effektiv regnskapsføring i landbruk
-  </text>
-  
-
-  <g transform="translate(50, 100)">
-    <rect x="0" y="0" width="340" height="200" fill="url(#cardGradient)" stroke="#f44336" stroke-width="3" rx="10"/>
-    
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#d32f2f">
+  </text><g transform="translate(50 100)"><rect width="340" height="200" fill="url(#c)" stroke="#f44336" stroke-width="3" rx="10"/><text x="170" y="25" fill="#d32f2f" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Unike Utfordringer
-    </text>
-    
-    <g transform="translate(20, 40)">
-      <circle cx="8" cy="8" r="4" fill="#f44336"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    </text><g transform="translate(20 40)"><circle cx="8" cy="8" r="4" fill="#f44336"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14">
         Biologiske eiendeler
-      </text>
-      <text x="20" y="28" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Levende dyr og planter som endrer verdi
-      </text>
-    </g>
-    
-    <g transform="translate(20, 70)">
-      <circle cx="8" cy="8" r="4" fill="#f44336"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      </text></g><g transform="translate(20 70)"><circle cx="8" cy="8" r="4" fill="#f44336"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14">
         Sesongvariasjoner
-      </text>
-      <text x="20" y="28" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Store svingninger i inntekter og kostnader
-      </text>
-    </g>
-    
-    <g transform="translate(20, 100)">
-      <circle cx="8" cy="8" r="4" fill="#f44336"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      </text></g><g transform="translate(20 100)"><circle cx="8" cy="8" r="4" fill="#f44336"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14">
         Komplekse støtteordninger
-      </text>
-      <text x="20" y="28" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Mange ulike tilskudd og refusjoner
-      </text>
-    </g>
-    
-    <g transform="translate(20, 130)">
-      <circle cx="8" cy="8" r="4" fill="#f44336"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      </text></g><g transform="translate(20 130)"><circle cx="8" cy="8" r="4" fill="#f44336"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14">
         Spesielle skatteordninger
-      </text>
-      <text x="20" y="28" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Jordbruksfradrag og andre fordeler
-      </text>
-    </g>
-    
-    <g transform="translate(20, 160)">
-      <circle cx="8" cy="8" r="4" fill="#f44336"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      </text></g><g transform="translate(20 160)"><circle cx="8" cy="8" r="4" fill="#f44336"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14">
         Værfølsomhet
-      </text>
-      <text x="20" y="28" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Klimarisiko påvirker resultatet
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 100)">
-    <rect x="0" y="0" width="340" height="200" fill="url(#cardGradient)" stroke="#4caf50" stroke-width="3" rx="10"/>
-    
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2e7d32">
+      </text></g></g><g transform="translate(410 100)"><rect width="340" height="200" fill="url(#c)" stroke="#4caf50" stroke-width="3" rx="10"/><text x="170" y="25" fill="#2e7d32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Suksessfaktorer
-    </text>
-    
-    <g transform="translate(20, 40)">
-      <circle cx="8" cy="8" r="4" fill="#4caf50"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    </text><g transform="translate(20 40)"><circle cx="8" cy="8" r="4" fill="#4caf50"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14">
         Tilpasset struktur
-      </text>
-      <text x="20" y="28" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Reflekterer virksomhetens art og behov
-      </text>
-    </g>
-    
-    <g transform="translate(20, 70)">
-      <circle cx="8" cy="8" r="4" fill="#4caf50"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      </text></g><g transform="translate(20 70)"><circle cx="8" cy="8" r="4" fill="#4caf50"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14">
         Løpende oppdatering
-      </text>
-      <text x="20" y="28" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Følger regelverksendringer aktivt
-      </text>
-    </g>
-    
-    <g transform="translate(20, 100)">
-      <circle cx="8" cy="8" r="4" fill="#4caf50"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      </text></g><g transform="translate(20 100)"><circle cx="8" cy="8" r="4" fill="#4caf50"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14">
         God dokumentasjon
-      </text>
-      <text x="20" y="28" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Sikrer etterlevelse av alle krav
-      </text>
-    </g>
-    
-    <g transform="translate(20, 130)">
-      <circle cx="8" cy="8" r="4" fill="#4caf50"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      </text></g><g transform="translate(20 130)"><circle cx="8" cy="8" r="4" fill="#4caf50"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14">
         Profesjonell støtte
-      </text>
-      <text x="20" y="28" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Bruk av fagkompetanse når nødvendig
-      </text>
-    </g>
-    
-    <g transform="translate(20, 160)">
-      <circle cx="8" cy="8" r="4" fill="#4caf50"/>
-      <text x="20" y="12" font-family="Arial, sans-serif" font-size="14" fill="#333">
+      </text></g><g transform="translate(20 160)"><circle cx="8" cy="8" r="4" fill="#4caf50"/><text x="20" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14">
         Digitale verktøy
-      </text>
-      <text x="20" y="28" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="20" y="28" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Moderne regnskapsprogrammer
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="700" height="120" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/>
-    
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e65100">
+      </text></g></g><g transform="translate(50 320)"><rect width="700" height="120" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/><text x="350" y="25" fill="#e65100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Viktige Kontoklasser i Landbrukskontoplan
-    </text>
-    
-    <g transform="translate(30, 45)">
-      <rect x="0" y="0" width="120" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
-      <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">Klasse 1</text>
-      <text x="60" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Biologiske</text>
-      <text x="60" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Eiendeler</text>
-      <text x="60" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#666">1100-1240</text>
-    </g>
-    
-    <g transform="translate(170, 45)">
-      <rect x="0" y="0" width="120" height="60" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
-      <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1565c0">Klasse 3</text>
-      <text x="60" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Salg &amp;</text>
-      <text x="60" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Tilskudd</text>
-      <text x="60" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#666">3000-3550</text>
-    </g>
-    
-    <g transform="translate(310, 45)">
-      <rect x="0" y="0" width="120" height="60" fill="#fce4ec" stroke="#e91e63" stroke-width="1" rx="5"/>
-      <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c2185b">Klasse 4</text>
-      <text x="60" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Drifts-</text>
-      <text x="60" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">kostnader</text>
-      <text x="60" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#666">4000-4230</text>
-    </g>
-    
-    <g transform="translate(450, 45)">
-      <rect x="0" y="0" width="120" height="60" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="5"/>
-      <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7b1fa2">Klasse 8</text>
-      <text x="60" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Jordbruks-</text>
-      <text x="60" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">fradrag</text>
-      <text x="60" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#666">8050-8051</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 460)">
-    <rect x="0" y="0" width="700" height="120" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
-    
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2e7d32">
+    </text><g transform="translate(30 45)"><rect width="120" height="60" fill="#e8f5e8" stroke="#4caf50" rx="5"/><text x="60" y="15" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Klasse 1</text><text x="60" y="30" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Biologiske</text><text x="60" y="42" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Eiendeler</text><text x="60" y="54" fill="#666" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">1100-1240</text></g><g transform="translate(170 45)"><rect width="120" height="60" fill="#e3f2fd" stroke="#2196f3" rx="5"/><text x="60" y="15" fill="#1565c0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Klasse 3</text><text x="60" y="30" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Salg &amp;</text><text x="60" y="42" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Tilskudd</text><text x="60" y="54" fill="#666" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">3000-3550</text></g><g transform="translate(310 45)"><rect width="120" height="60" fill="#fce4ec" stroke="#e91e63" rx="5"/><text x="60" y="15" fill="#c2185b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Klasse 4</text><text x="60" y="30" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Drifts-</text><text x="60" y="42" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">kostnader</text><text x="60" y="54" fill="#666" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">4000-4230</text></g><g transform="translate(450 45)"><rect width="120" height="60" fill="#f3e5f5" stroke="#9c27b0" rx="5"/><text x="60" y="15" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Klasse 8</text><text x="60" y="30" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Jordbruks-</text><text x="60" y="42" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">fradrag</text><text x="60" y="54" fill="#666" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">8050-8051</text></g></g><g transform="translate(50 460)"><rect width="700" height="120" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="350" y="25" fill="#2e7d32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Fordeler ved God Landbrukskontoplan
-    </text>
-    
-    <g transform="translate(50, 45)">
-      <rect x="0" y="0" width="150" height="50" fill="white" stroke="#4caf50" stroke-width="1" rx="5"/>
-      <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">Korrekt</text>
-      <text x="75" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">Regnskapsføring</text>
-    </g>
-    
-    <g transform="translate(220, 45)">
-      <rect x="0" y="0" width="150" height="50" fill="white" stroke="#4caf50" stroke-width="1" rx="5"/>
-      <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">Optimalisert</text>
-      <text x="75" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">Skatteposisjon</text>
-    </g>
-    
-    <g transform="translate(390, 45)">
-      <rect x="0" y="0" width="150" height="50" fill="white" stroke="#4caf50" stroke-width="1" rx="5"/>
-      <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">Bedre Økonomisk</text>
-      <text x="75" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">Styring</text>
-    </g>
-  </g>
-</svg>
+    </text><g transform="translate(50 45)"><rect width="150" height="50" fill="#fff" stroke="#4caf50" rx="5"/><text x="75" y="20" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Korrekt</text><text x="75" y="35" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Regnskapsføring</text></g><g transform="translate(220 45)"><rect width="150" height="50" fill="#fff" stroke="#4caf50" rx="5"/><text x="75" y="20" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Optimalisert</text><text x="75" y="35" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Skatteposisjon</text></g><g transform="translate(390 45)"><rect width="150" height="50" fill="#fff" stroke="#4caf50" rx="5"/><text x="75" y="20" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Bedre Økonomisk</text><text x="75" y="35" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Styring</text></g></g></svg>

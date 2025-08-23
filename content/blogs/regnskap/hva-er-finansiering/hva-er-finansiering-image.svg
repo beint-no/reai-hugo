@@ -1,109 +1,33 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="45" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Hva er Finansiering?
-  </text>
-  
-
-  <rect x="50" y="100" width="700" height="280" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  
-
-  <rect x="80" y="130" width="300" height="220" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/>
-  <text x="230" y="155" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><rect width="700" height="280" x="50" y="100" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><rect width="300" height="220" x="80" y="130" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/><text x="230" y="155" fill="#1976d2" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Egenfinansiering
-  </text>
-  
-
-  <circle cx="110" cy="185" r="8" fill="#4caf50"/>
-  <text x="130" y="190" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="110" cy="185" r="8" fill="#4caf50"/><text x="130" y="190" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Aksjekapital
-  </text>
-  
-  <circle cx="110" cy="210" r="8" fill="#4caf50"/>
-  <text x="130" y="215" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="110" cy="210" r="8" fill="#4caf50"/><text x="130" y="215" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Tilbakeholdt overskudd
-  </text>
-  
-  <circle cx="110" cy="235" r="8" fill="#4caf50"/>
-  <text x="130" y="240" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="110" cy="235" r="8" fill="#4caf50"/><text x="130" y="240" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Egenkapitaltilskudd
-  </text>
-  
-  <circle cx="110" cy="260" r="8" fill="#4caf50"/>
-  <text x="130" y="265" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="110" cy="260" r="8" fill="#4caf50"/><text x="130" y="265" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Crowdfunding
-  </text>
-  
-  <circle cx="110" cy="285" r="8" fill="#4caf50"/>
-  <text x="130" y="290" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="110" cy="285" r="8" fill="#4caf50"/><text x="130" y="290" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Venturekapital
-  </text>
-  
-  <circle cx="110" cy="310" r="8" fill="#4caf50"/>
-  <text x="130" y="315" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="110" cy="310" r="8" fill="#4caf50"/><text x="130" y="315" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Business angels
-  </text>
-  
-
-  <rect x="420" y="130" width="300" height="220" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/>
-  <text x="570" y="155" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#f57c00">
+  </text><rect width="300" height="220" x="420" y="130" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/><text x="570" y="155" fill="#f57c00" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Fremmedfinansiering
-  </text>
-  
-
-  <circle cx="450" cy="185" r="8" fill="#ff9800"/>
-  <text x="470" y="190" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="450" cy="185" r="8" fill="#ff9800"/><text x="470" y="190" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Banklån
-  </text>
-  
-  <circle cx="450" cy="210" r="8" fill="#ff9800"/>
-  <text x="470" y="215" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="450" cy="210" r="8" fill="#ff9800"/><text x="470" y="215" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Obligasjoner
-  </text>
-  
-  <circle cx="450" cy="235" r="8" fill="#ff9800"/>
-  <text x="470" y="240" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="450" cy="235" r="8" fill="#ff9800"/><text x="470" y="240" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Leverandørkreditt
-  </text>
-  
-  <circle cx="450" cy="260" r="8" fill="#ff9800"/>
-  <text x="470" y="265" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="450" cy="260" r="8" fill="#ff9800"/><text x="470" y="265" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Factoring
-  </text>
-  
-  <circle cx="450" cy="285" r="8" fill="#ff9800"/>
-  <text x="470" y="290" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="450" cy="285" r="8" fill="#ff9800"/><text x="470" y="290" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Leasing
-  </text>
-  
-  <circle cx="450" cy="310" r="8" fill="#ff9800"/>
-  <text x="470" y="315" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><circle cx="450" cy="310" r="8" fill="#ff9800"/><text x="470" y="315" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Crowdlending
-  </text>
-  
-
-  <path d="M 390 240 L 410 240" stroke="#666" stroke-width="3" fill="none"/>
-  <polygon points="410,235 420,240 410,245" fill="#666"/>
-  
-
-  <text x="400" y="225" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#666">
+  </text><path fill="none" stroke="#666" stroke-width="3" d="M390 240h20"/><path fill="#666" d="m410 235 10 5-10 5z"/><text x="400" y="225" fill="#666" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     VS
-  </text>
-</svg>
+  </text></svg>

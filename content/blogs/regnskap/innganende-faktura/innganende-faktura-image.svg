@@ -1,123 +1,17 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="invoiceGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f8f9fa;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff;stop-opacity:1"/><stop offset="100%" style="stop-color:#f8f9fa;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="50" fill="#2c3e50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Inngående Faktura
-  </text>
-  
-
-  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6c757d">
+  </text><text x="400" y="80" fill="#6c757d" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Komplett Guide til Mottak og Behandling av Leverandørfakturaer
-  </text>
-  
-
-  <g transform="translate(150, 120)">
-
-    <rect x="0" y="0" width="200" height="260" fill="url(#invoiceGradient)" stroke="#dee2e6" stroke-width="2" rx="5"/>
-    
-
-    <rect x="10" y="10" width="180" height="40" fill="#007bff" rx="3"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><g transform="translate(150 120)"><rect width="200" height="260" fill="url(#b)" stroke="#dee2e6" stroke-width="2" rx="5"/><rect width="180" height="40" x="10" y="10" fill="#007bff" rx="3"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       FAKTURA
-    </text>
-    <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="100" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Fra Leverandør
-    </text>
-    
-
-    <line x1="10" y1="70" x2="190" y2="70" stroke="#dee2e6" stroke-width="1"/>
-    <line x1="10" y1="90" x2="190" y2="90" stroke="#dee2e6" stroke-width="1"/>
-    <line x1="10" y1="110" x2="190" y2="110" stroke="#dee2e6" stroke-width="1"/>
-    <line x1="10" y1="130" x2="190" y2="130" stroke="#dee2e6" stroke-width="1"/>
-    <line x1="10" y1="150" x2="190" y2="150" stroke="#dee2e6" stroke-width="1"/>
-    
-
-    <text x="15" y="85" font-family="Arial, sans-serif" font-size="8" fill="#495057">Leverandør: ABC Leverandør AS</text>
-    <text x="15" y="105" font-family="Arial, sans-serif" font-size="8" fill="#495057">Fakturanr: 2024-001234</text>
-    <text x="15" y="125" font-family="Arial, sans-serif" font-size="8" fill="#495057">Forfallsdato: 30 dager</text>
-    <text x="15" y="145" font-family="Arial, sans-serif" font-size="8" fill="#495057">Beløp: 12,500 kr (inkl. MVA)</text>
-    
-
-    <rect x="10" y="200" width="180" height="30" fill="#28a745" rx="3"/>
-    <text x="100" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><path stroke="#dee2e6" d="M10 70h180M10 90h180M10 110h180M10 130h180M10 150h180"/><text x="15" y="85" fill="#495057" font-family="Arial, sans-serif" font-size="8">Leverandør: ABC Leverandør AS</text><text x="15" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="8">Fakturanr: 2024-001234</text><text x="15" y="125" fill="#495057" font-family="Arial, sans-serif" font-size="8">Forfallsdato: 30 dager</text><text x="15" y="145" fill="#495057" font-family="Arial, sans-serif" font-size="8">Beløp: 12,500 kr (inkl. MVA)</text><rect width="180" height="30" x="10" y="200" fill="#28a745" rx="3"/><text x="100" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Total: 12,500 kr
-    </text>
-    <text x="100" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+    </text><text x="100" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
       inkl. 25% MVA
-    </text>
-  </g>
-  
-
-  <g transform="translate(400, 140)">
-
-    <path d="M 0 60 L 40 60 L 35 55 M 40 60 L 35 65" stroke="#007bff" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-    
-
-    <g transform="translate(60, 20)">
-
-      <circle cx="0" cy="20" r="15" fill="#007bff"/>
-      <text x="0" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">1</text>
-      <text x="0" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">Mottak</text>
-      
-
-      <path d="M 15 20 L 35 20" stroke="#6c757d" stroke-width="2" fill="none"/>
-      <path d="M 32 17 L 35 20 L 32 23" stroke="#6c757d" stroke-width="2" fill="none"/>
-      
-
-      <circle cx="50" cy="20" r="15" fill="#28a745"/>
-      <text x="50" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2</text>
-      <text x="50" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">Kontroll</text>
-      
-
-      <path d="M 65 20 L 85 20" stroke="#6c757d" stroke-width="2" fill="none"/>
-      <path d="M 82 17 L 85 20 L 82 23" stroke="#6c757d" stroke-width="2" fill="none"/>
-      
-
-      <circle cx="100" cy="20" r="15" fill="#ffc107"/>
-      <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="black">3</text>
-      <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">Godkjenning</text>
-      
-
-      <path d="M 115 20 L 135 20" stroke="#6c757d" stroke-width="2" fill="none"/>
-      <path d="M 132 17 L 135 20 L 132 23" stroke="#6c757d" stroke-width="2" fill="none"/>
-      
-
-      <circle cx="150" cy="20" r="15" fill="#dc3545"/>
-      <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">4</text>
-      <text x="150" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">Betaling</text>
-    </g>
-    
-
-    <text x="135" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text></g><path fill="none" stroke="#007bff" stroke-width="3" marker-end="url(#arrowhead)" d="M0 60h40l-5-5m5 5-5 5" transform="translate(400 140)"/><g transform="translate(460 160)"><circle cy="20" r="15" fill="#007bff"/><text y="25" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">1</text><text y="45" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Mottak</text><path fill="none" stroke="#6c757d" stroke-width="2" d="M15 20h20M32 17l3 3-3 3"/><circle cx="50" cy="20" r="15" fill="#28a745"/><text x="50" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">2</text><text x="50" y="45" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Kontroll</text><path fill="none" stroke="#6c757d" stroke-width="2" d="M65 20h20M82 17l3 3-3 3"/><circle cx="100" cy="20" r="15" fill="#ffc107"/><text x="100" y="25" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">3</text><text x="100" y="45" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Godkjenning</text><path fill="none" stroke="#6c757d" stroke-width="2" d="M115 20h20M132 17l3 3-3 3"/><circle cx="150" cy="20" r="15" fill="#dc3545"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">4</text><text x="150" y="45" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Betaling</text></g><text x="135" y="100" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="translate(400 140)">
       Systematisk behandlingsprosess
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 250)">
-    <rect x="0" y="0" width="320" height="120" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-    <text x="160" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    </text><g transform="translate(450 250)"><rect width="320" height="120" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="160" y="20" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Viktige Fordeler
-    </text>
-    
-
-    <text x="20" y="40" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Bedre kontroll med utgifter</text>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Automatisert behandling</text>
-    <text x="20" y="70" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Redusert risiko for feil</text>
-    <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Forbedret leverandørstyring</text>
-    <text x="20" y="100" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Optimalisert kontantstrøm</text>
-  </g>
-</svg>
+    </text><text x="20" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Bedre kontroll med utgifter</text><text x="20" y="55" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Automatisert behandling</text><text x="20" y="70" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Redusert risiko for feil</text><text x="20" y="85" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Forbedret leverandørstyring</text><text x="20" y="100" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Optimalisert kontantstrøm</text></g></svg>

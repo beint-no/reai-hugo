@@ -1,141 +1,35 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="incomeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="deductionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="benefitGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6f42c1;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#fd7e14;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#6f42c1;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Hovedkomponenter i Ansattreskontro
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="white" stroke="#6c757d" stroke-width="3"/>
-  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><circle cx="400" cy="300" r="80" fill="#fff" stroke="#6c757d" stroke-width="3"/><text x="400" y="290" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ANSATT-
-  </text>
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><text x="400" y="310" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     RESKONTRO
-  </text>
-  
-
-  <g>
-
-    <rect x="150" y="80" width="120" height="60" fill="url(#incomeGradient)" rx="8"/>
-    <text x="210" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="60" x="150" y="80" fill="url(#b)" rx="8"/><text x="210" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Grunnlønn
-    </text>
-    <text x="210" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="210" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Fast månedslønn
-    </text>
-    <line x1="210" y1="140" x2="350" y2="230" stroke="#28a745" stroke-width="2" marker-end="url(#arrowGreen)"/>
-    
-
-    <rect x="530" y="80" width="120" height="60" fill="url(#incomeGradient)" rx="8"/>
-    <text x="590" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><path stroke="#28a745" stroke-width="2" marker-end="url(#c)" d="m210 140 140 90"/><rect width="120" height="60" x="530" y="80" fill="url(#b)" rx="8"/><text x="590" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Tillegg
-    </text>
-    <text x="590" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="590" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Overtid, bonus
-    </text>
-    <line x1="590" y1="140" x2="450" y2="230" stroke="#28a745" stroke-width="2" marker-end="url(#arrowGreen)"/>
-  </g>
-  
-
-  <g>
-
-    <rect x="50" y="250" width="120" height="60" fill="url(#deductionGradient)" rx="8"/>
-    <text x="110" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><path stroke="#28a745" stroke-width="2" marker-end="url(#c)" d="m590 140-140 90"/><rect width="120" height="60" x="50" y="250" fill="url(#d)" rx="8"/><text x="110" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Forskuddstrekk
-    </text>
-    <text x="110" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="110" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Skatt og avgifter
-    </text>
-    <line x1="170" y1="280" x2="320" y2="300" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowRed)"/>
-    
-
-    <rect x="630" y="250" width="120" height="60" fill="url(#deductionGradient)" rx="8"/>
-    <text x="690" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><path stroke="#dc3545" stroke-width="2" marker-end="url(#e)" d="m170 280 150 20"/><rect width="120" height="60" x="630" y="250" fill="url(#d)" rx="8"/><text x="690" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Pensjon
-    </text>
-    <text x="690" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="690" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Obligatorisk tjenestepensjon
-    </text>
-    <line x1="630" y1="280" x2="480" y2="300" stroke="#dc3545" stroke-width="2" marker-end="url(#arrowRed)"/>
-  </g>
-  
-
-  <g>
-
-    <rect x="150" y="450" width="120" height="60" fill="url(#benefitGradient)" rx="8"/>
-    <text x="210" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><path stroke="#dc3545" stroke-width="2" marker-end="url(#e)" d="m630 280-150 20"/><rect width="120" height="60" x="150" y="450" fill="url(#f)" rx="8"/><text x="210" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Feriepenger
-    </text>
-    <text x="210" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="210" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       12% av grunnlag
-    </text>
-    <line x1="210" y1="450" x2="350" y2="370" stroke="#007bff" stroke-width="2" marker-end="url(#arrowBlue)"/>
-    
-
-    <rect x="350" y="450" width="120" height="60" fill="url(#benefitGradient)" rx="8"/>
-    <text x="410" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><path stroke="#007bff" stroke-width="2" marker-end="url(#g)" d="m210 450 140-80"/><rect width="120" height="60" x="350" y="450" fill="url(#f)" rx="8"/><text x="410" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Forskudd/Lån
-    </text>
-    <text x="410" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="410" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Utlegg og lån
-    </text>
-    <line x1="410" y1="450" x2="400" y2="380" stroke="#007bff" stroke-width="2" marker-end="url(#arrowBlue)"/>
-    
-
-    <rect x="530" y="450" width="120" height="60" fill="url(#benefitGradient)" rx="8"/>
-    <text x="590" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><path stroke="#007bff" stroke-width="2" marker-end="url(#g)" d="m410 450-10-70"/><rect width="120" height="60" x="530" y="450" fill="url(#f)" rx="8"/><text x="590" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Naturalytelser
-    </text>
-    <text x="590" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="590" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Bil, telefon, etc.
-    </text>
-    <line x1="590" y1="450" x2="450" y2="370" stroke="#007bff" stroke-width="2" marker-end="url(#arrowBlue)"/>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0,0 0,6 9,3" fill="#28a745"/>
-    </marker>
-    <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0,0 0,6 9,3" fill="#dc3545"/>
-    </marker>
-    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0,0 0,6 9,3" fill="#007bff"/>
-    </marker>
-  </defs>
-  
-
-  <g transform="translate(50, 550)">
-    <rect x="0" y="0" width="20" height="15" fill="#28a745"/>
-    <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Inntekter</text>
-    
-    <rect x="120" y="0" width="20" height="15" fill="#dc3545"/>
-    <text x="145" y="12" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Fradrag</text>
-    
-    <rect x="220" y="0" width="20" height="15" fill="#007bff"/>
-    <text x="245" y="12" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Ytelser og andre poster</text>
-  </g>
-</svg>
+    </text><path stroke="#007bff" stroke-width="2" marker-end="url(#g)" d="m590 450-140-80"/><defs><marker id="c" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#28a745" d="M0 0v6l9-3z"/></marker><marker id="e" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#dc3545" d="M0 0v6l9-3z"/></marker><marker id="g" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#007bff" d="M0 0v6l9-3z"/></marker></defs><path fill="#28a745" d="M50 550h20v15H50z"/><text x="25" y="12" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" transform="translate(50 550)">Inntekter</text><path fill="#dc3545" d="M170 550h20v15h-20z"/><text x="145" y="12" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" transform="translate(50 550)">Fradrag</text><path fill="#007bff" d="M270 550h20v15h-20z"/><text x="245" y="12" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" transform="translate(50 550)">Ytelser og andre poster</text></svg>

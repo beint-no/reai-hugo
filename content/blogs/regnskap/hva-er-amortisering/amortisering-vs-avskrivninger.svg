@@ -1,99 +1,11 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="amortGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="deprecGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#495057">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#495057" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Amortisering vs Avskrivninger
-  </text>
-  
-
-  <rect x="50" y="70" width="320" height="380" fill="url(#amortGradient)" rx="15"/>
-  <text x="210" y="100" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="380" x="50" y="70" fill="url(#a)" rx="15"/><text x="210" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     AMORTISERING
-  </text>
-  
-
-  <rect x="70" y="120" width="280" height="310" fill="white" rx="10"/>
-  
-  <text x="210" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#007bff">
+  </text><rect width="280" height="310" x="70" y="120" fill="#fff" rx="10"/><text x="210" y="145" fill="#007bff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Immaterielle Eiendeler
-  </text>
-  
-
-  <circle cx="120" cy="180" r="20" fill="#007bff"/>
-  <text x="120" y="185" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">P</text>
-  <text x="120" y="205" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">Patent</text>
-  
-  <rect x="180" y="160" width="40" height="40" fill="#007bff" rx="5"/>
-  <text x="200" y="185" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">SW</text>
-  <text x="200" y="205" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">Software</text>
-  
-  <polygon points="260,160 300,160 280,200" fill="#007bff"/>
-  <text x="280" y="185" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">TM</text>
-  <text x="280" y="205" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">Varemerke</text>
-  
-
-  <text x="85" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Kjennetegn:</text>
-  <text x="85" y="255" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Lineær metode (hovedsakelig)</text>
-  <text x="85" y="275" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Restverdi vanligvis null</text>
-  <text x="85" y="295" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Ubestemt vs bestemt levetid</text>
-  <text x="85" y="315" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Goodwill testes for verdifall</text>
-  
-  <text x="85" y="345" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Eksempler:</text>
-  <text x="85" y="365" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Patenter (20 år)</text>
-  <text x="85" y="385" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Programvare (3-5 år)</text>
-  <text x="85" y="405" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Kundekontrakter</text>
-  
-
-  <rect x="430" y="70" width="320" height="380" fill="url(#deprecGradient)" rx="15"/>
-  <text x="590" y="100" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="120" cy="180" r="20" fill="#007bff"/><text x="120" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">P</text><text x="120" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Patent</text><rect width="40" height="40" x="180" y="160" fill="#007bff" rx="5"/><text x="200" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">SW</text><text x="200" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Software</text><path fill="#007bff" d="M260 160h40l-20 40z"/><text x="280" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">TM</text><text x="280" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Varemerke</text><text x="85" y="235" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kjennetegn:</text><text x="85" y="255" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Lineær metode (hovedsakelig)</text><text x="85" y="275" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Restverdi vanligvis null</text><text x="85" y="295" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Ubestemt vs bestemt levetid</text><text x="85" y="315" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Goodwill testes for verdifall</text><text x="85" y="345" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Eksempler:</text><text x="85" y="365" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Patenter (20 år)</text><text x="85" y="385" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Programvare (3-5 år)</text><text x="85" y="405" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Kundekontrakter</text><rect width="320" height="380" x="430" y="70" fill="url(#b)" rx="15"/><text x="590" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     AVSKRIVNINGER
-  </text>
-  
-
-  <rect x="450" y="120" width="280" height="310" fill="white" rx="10"/>
-  
-  <text x="590" y="145" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="280" height="310" x="450" y="120" fill="#fff" rx="10"/><text x="590" y="145" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Materielle Eiendeler
-  </text>
-  
-
-  <rect x="500" y="160" width="40" height="40" fill="#28a745" rx="5"/>
-  <text x="520" y="185" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">M</text>
-  <text x="520" y="205" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">Maskin</text>
-  
-  <rect x="560" y="160" width="40" height="40" fill="#28a745"/>
-  <text x="580" y="185" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">B</text>
-  <text x="580" y="205" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">Bygning</text>
-  
-  <circle cx="640" cy="180" r="20" fill="#28a745"/>
-  <text x="640" y="185" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">K</text>
-  <text x="640" y="205" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#495057">Kjøretøy</text>
-  
-
-  <text x="465" y="235" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Kjennetegn:</text>
-  <text x="465" y="255" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Flere metoder tilgjengelig</text>
-  <text x="465" y="275" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Kan ha restverdi</text>
-  <text x="465" y="295" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Fysisk slitasje og elde</text>
-  <text x="465" y="315" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Teknologisk foreldelse</text>
-  
-  <text x="465" y="345" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">Metoder:</text>
-  <text x="465" y="365" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Lineær avskrivning</text>
-  <text x="465" y="385" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Saldoavskrivning</text>
-  <text x="465" y="405" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Produksjonsavskrivning</text>
-  
-
-  <line x1="400" y1="70" x2="400" y2="450" stroke="#dee2e6" stroke-width="2" stroke-dasharray="5,5"/>
-</svg>
+  </text><rect width="40" height="40" x="500" y="160" fill="#28a745" rx="5"/><text x="520" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">M</text><text x="520" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Maskin</text><path fill="#28a745" d="M560 160h40v40h-40z"/><text x="580" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">B</text><text x="580" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Bygning</text><circle cx="640" cy="180" r="20" fill="#28a745"/><text x="640" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">K</text><text x="640" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Kjøretøy</text><text x="465" y="235" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kjennetegn:</text><text x="465" y="255" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Flere metoder tilgjengelig</text><text x="465" y="275" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Kan ha restverdi</text><text x="465" y="295" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Fysisk slitasje og elde</text><text x="465" y="315" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Teknologisk foreldelse</text><text x="465" y="345" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Metoder:</text><text x="465" y="365" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Lineær avskrivning</text><text x="465" y="385" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Saldoavskrivning</text><text x="465" y="405" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Produksjonsavskrivning</text><path stroke="#dee2e6" stroke-dasharray="5,5" stroke-width="2" d="M400 70v380"/></svg>

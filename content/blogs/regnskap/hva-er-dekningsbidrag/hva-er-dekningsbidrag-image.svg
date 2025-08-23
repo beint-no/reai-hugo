@@ -1,79 +1,27 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="50" fill="#2c3e50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Dekningsbidrag
-  </text>
-  
-
-  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#7f8c8d">
+  </text><text x="400" y="80" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">
     Salgsinntekter - Variable kostnader
-  </text>
-  
-
-  <rect x="100" y="120" width="600" height="400" fill="white" stroke="#bdc3c7" stroke-width="2" rx="10"/>
-  
-
-  <rect x="150" y="160" width="500" height="80" fill="#3498db" rx="5"/>
-  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="600" height="400" x="100" y="120" fill="#fff" stroke="#bdc3c7" stroke-width="2" rx="10"/><rect width="500" height="80" x="150" y="160" fill="#3498db" rx="5"/><text x="400" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Salgsinntekter
-  </text>
-  <text x="400" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">
+  </text><text x="400" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     1.500 kr per enhet
-  </text>
-  
-
-  <rect x="150" y="260" width="300" height="60" fill="#e74c3c" rx="5"/>
-  <text x="300" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="300" height="60" x="150" y="260" fill="#e74c3c" rx="5"/><text x="300" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Variable kostnader
-  </text>
-  <text x="300" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="300" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     900 kr per enhet
-  </text>
-  
-
-  <rect x="470" y="260" width="180" height="60" fill="#27ae60" rx="5"/>
-  <text x="560" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="180" height="60" x="470" y="260" fill="#27ae60" rx="5"/><text x="560" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Dekningsbidrag
-  </text>
-  <text x="560" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="560" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     600 kr per enhet
-  </text>
-  
-
-  <rect x="150" y="340" width="500" height="60" fill="#95a5a6" rx="5"/>
-  <text x="400" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="500" height="60" x="150" y="340" fill="#95a5a6" rx="5"/><text x="400" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Faste kostnader
-  </text>
-  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="400" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Husleie, lønn, forsikring
-  </text>
-  
-
-  <rect x="150" y="420" width="500" height="60" fill="#f39c12" rx="5"/>
-  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="500" height="60" x="150" y="420" fill="#f39c12" rx="5"/><text x="400" y="445" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Overskudd
-  </text>
-  <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="400" y="465" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Etter dekning av faste kostnader
-  </text>
-  
-
-  <path d="M 400 240 L 400 250" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 400 320 L 400 330" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 400 400 L 400 410" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><path fill="none" stroke="#2c3e50" stroke-width="3" marker-end="url(#a)" d="M400 240v10"/><path fill="none" stroke="#2c3e50" stroke-width="3" marker-end="url(#a)" d="M400 320v10"/><path fill="none" stroke="#2c3e50" stroke-width="3" marker-end="url(#a)" d="M400 400v10"/><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2c3e50" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="550" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Dekningsbidrag = Salgsinntekter - Variable kostnader
-  </text>
-</svg>
+  </text></svg>

@@ -1,262 +1,95 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="futureGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="innovationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00BCD4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#006064;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#00bcd4;stop-opacity:1"/><stop offset="100%" style="stop-color:#006064;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     AI i Kassasystemer - Fremtidens Teknologi
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <circle cx="50" cy="50" r="40" fill="url(#aiGradient)" opacity="0.8"/>
-    <text x="50" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="white">🧠</text>
-    <text x="50" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><g transform="translate(50 80)"><circle cx="50" cy="50" r="40" fill="url(#b)" opacity=".8"/><text x="50" y="57" fill="#fff" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🧠</text><text x="50" y="110" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Kunstig Intelligens
-    </text>
-  </g>
-  
-
-  <g transform="translate(150, 80)">
-    <rect x="0" y="0" width="600" height="120" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
-    <rect x="0" y="0" width="600" height="40" rx="10" fill="url(#aiGradient)"/>
-    <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(150 80)"><rect width="600" height="120" fill="#fff" stroke="#ddd" rx="10"/><rect width="600" height="40" fill="url(#b)" rx="10"/><text x="300" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       🤖 Dagens AI-Anvendelser i Kassasystemer
-    </text>
-    
-    <g transform="translate(20, 50)">
-
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><g font-family="Arial, sans-serif"><text y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 50)">
         Prediktiv analyse:
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="35" fill="#666" font-size="11" transform="translate(20 50)">
         • Salgsforecasting basert på historiske data
-      </text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="50" fill="#666" font-size="11" transform="translate(20 50)">
         • Automatisk lagerbestilling
-      </text>
-      <text x="0" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="65" fill="#666" font-size="11" transform="translate(20 50)">
         • Sesongbaserte prognoser
-      </text>
-      
-
-      <text x="200" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><text x="200" y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 50)">
         Prisoptimalisering:
-      </text>
-      <text x="200" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="200" y="35" fill="#666" font-size="11" transform="translate(20 50)">
         • Dynamisk prissetting basert på etterspørsel
-      </text>
-      <text x="200" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="200" y="50" fill="#666" font-size="11" transform="translate(20 50)">
         • Konkurranseanalyse og markedstilpasning
-      </text>
-      <text x="200" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="200" y="65" fill="#666" font-size="11" transform="translate(20 50)">
         • Rabattoptimalisering
-      </text>
-      
-
-      <text x="400" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><text x="400" y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 50)">
         Svindeldeteksjon:
-      </text>
-      <text x="400" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="400" y="35" fill="#666" font-size="11" transform="translate(20 50)">
         • Mønstergjenkjenning av uregelmessigheter
-      </text>
-      <text x="400" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="400" y="50" fill="#666" font-size="11" transform="translate(20 50)">
         • Automatiske varsler ved mistenkelig aktivitet
-      </text>
-      <text x="400" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="400" y="65" fill="#666" font-size="11" transform="translate(20 50)">
         • Risikovurdering av transaksjoner
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 220)">
-    <rect x="0" y="0" width="340" height="180" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
-    <rect x="0" y="0" width="340" height="40" rx="10" fill="url(#futureGradient)"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(50 220)"><rect width="340" height="180" fill="#fff" stroke="#ddd" rx="10"/><rect width="340" height="40" fill="url(#c)" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       🚀 Fremtidige Teknologier
-    </text>
-    
-    <g transform="translate(15, 50)">
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><g font-family="Arial, sans-serif"><text y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(15 50)">
         Selvbetjeningskasser med AI:
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="35" fill="#666" font-size="11" transform="translate(15 50)">
         • Bildegjenkjenning av produkter
-      </text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="50" fill="#666" font-size="11" transform="translate(15 50)">
         • Automatisk vektberegning
-      </text>
-      <text x="0" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="65" fill="#666" font-size="11" transform="translate(15 50)">
         • Ansiktsgjenkjenning for betaling
-      </text>
-      
-      <text x="0" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><text y="90" fill="#333" font-size="12" font-weight="bold" transform="translate(15 50)">
         Voice-aktiverte systemer:
-      </text>
-      <text x="0" y="105" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="105" fill="#666" font-size="11" transform="translate(15 50)">
         • Stemmekommandoer for kassafunksjoner
-      </text>
-      <text x="0" y="120" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="120" fill="#666" font-size="11" transform="translate(15 50)">
         • Naturlig språkbehandling
-      </text>
-      <text x="0" y="135" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="135" fill="#666" font-size="11" transform="translate(15 50)">
         • Flerspråklig støtte
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 220)">
-    <rect x="0" y="0" width="340" height="180" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
-    <rect x="0" y="0" width="340" height="40" rx="10" fill="url(#techGradient)"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(410 220)"><rect width="340" height="180" fill="#fff" stroke="#ddd" rx="10"/><rect width="340" height="40" fill="url(#d)" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       📊 Kundeadferdanalyse
-    </text>
-    
-    <g transform="translate(15, 50)">
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><g font-family="Arial, sans-serif"><text y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(15 50)">
         Personalisert service:
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="35" fill="#666" font-size="11" transform="translate(15 50)">
         • Individuelle produktanbefalinger
-      </text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="50" fill="#666" font-size="11" transform="translate(15 50)">
         • Tilpassede kampanjer og tilbud
-      </text>
-      <text x="0" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="65" fill="#666" font-size="11" transform="translate(15 50)">
         • Lojalitetsprogrammer med AI
-      </text>
-      
-      <text x="0" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><text y="90" fill="#333" font-size="12" font-weight="bold" transform="translate(15 50)">
         Atferdsanalyse:
-      </text>
-      <text x="0" y="105" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="105" fill="#666" font-size="11" transform="translate(15 50)">
         • Kjøpsmønstre og preferanser
-      </text>
-      <text x="0" y="120" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="120" fill="#666" font-size="11" transform="translate(15 50)">
         • Optimal butikklayout
-      </text>
-      <text x="0" y="135" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="135" fill="#666" font-size="11" transform="translate(15 50)">
         • Prediktiv kundeadferd
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 420)">
-    <rect x="0" y="0" width="700" height="120" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
-    <rect x="0" y="0" width="700" height="40" rx="10" fill="url(#innovationGradient)"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(50 420)"><rect width="700" height="120" fill="#fff" stroke="#ddd" rx="10"/><rect width="700" height="40" fill="url(#e)" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       ⛓️ Blockchain og Kryptovaluta Integration
-    </text>
-    
-    <g transform="translate(30, 50)">
-
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><g font-family="Arial, sans-serif"><text y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(30 50)">
         Blockchain-fordeler:
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="35" fill="#666" font-size="11" transform="translate(30 50)">
         • Uforanderlig transaksjonssporing
-      </text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="50" fill="#666" font-size="11" transform="translate(30 50)">
         • Desentralisert datalagring
-      </text>
-      <text x="0" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="65" fill="#666" font-size="11" transform="translate(30 50)">
         • Smart contracts for automatisering
-      </text>
-      
-
-      <text x="250" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><text x="250" y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(30 50)">
         Kryptovaluta-støtte:
-      </text>
-      <text x="250" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="250" y="35" fill="#666" font-size="11" transform="translate(30 50)">
         • Bitcoin og Ethereum betalinger
-      </text>
-      <text x="250" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="250" y="50" fill="#666" font-size="11" transform="translate(30 50)">
         • Stablecoins for stabilitet
-      </text>
-      <text x="250" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="250" y="65" fill="#666" font-size="11" transform="translate(30 50)">
         • Automatisk valutakonvertering
-      </text>
-      
-
-      <text x="500" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><text x="500" y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(30 50)">
         Tokenisering:
-      </text>
-      <text x="500" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="500" y="35" fill="#666" font-size="11" transform="translate(30 50)">
         • Digitale lojalitetsprogrammer
-      </text>
-      <text x="500" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="500" y="50" fill="#666" font-size="11" transform="translate(30 50)">
         • NFT-baserte medlemskap
-      </text>
-      <text x="500" y="65" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="500" y="65" fill="#666" font-size="11" transform="translate(30 50)">
         • Desentraliserte belønninger
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 560)">
-    <rect x="0" y="0" width="700" height="30" rx="5" fill="url(#futureGradient)"/>
-    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(50 560)"><rect width="700" height="30" fill="url(#c)" rx="5"/><text x="350" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       🕒 Tidshorisont: AI-funksjoner implementeres gradvis 2024-2030, full autonomi innen 2035
-    </text>
-  </g>
-  
-
-  <g transform="translate(600, 80)">
-
-    <circle cx="75" cy="60" r="20" fill="url(#aiGradient)"/>
-    <text x="75" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">AI</text>
-    
-
-    <circle cx="40" cy="30" r="12" fill="url(#techGradient)"/>
-    <text x="40" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">📊</text>
-    
-    <circle cx="110" cy="30" r="12" fill="url(#futureGradient)"/>
-    <text x="110" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">🔮</text>
-    
-    <circle cx="40" cy="90" r="12" fill="url(#innovationGradient)"/>
-    <text x="40" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">⛓️</text>
-    
-    <circle cx="110" cy="90" r="12" fill="url(#aiGradient)"/>
-    <text x="110" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">🤖</text>
-    
-
-    <line x1="55" y1="45" x2="52" y2="42" stroke="#666" stroke-width="1"/>
-    <line x1="95" y1="45" x2="98" y2="42" stroke="#666" stroke-width="1"/>
-    <line x1="55" y1="75" x2="52" y2="78" stroke="#666" stroke-width="1"/>
-    <line x1="95" y1="75" x2="98" y2="78" stroke="#666" stroke-width="1"/>
-    
-
-    <circle cx="75" cy="60" r="25" fill="none" stroke="url(#aiGradient)" stroke-width="1" opacity="0.3">
-      <animate attributeName="r" values="20;35;20" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.3;0;0.3" dur="3s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-</svg>
+    </text></g><g transform="translate(600 80)"><circle cx="75" cy="60" r="20" fill="url(#b)"/><text x="75" y="67" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">AI</text><circle cx="40" cy="30" r="12" fill="url(#d)"/><text x="40" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">📊</text><circle cx="110" cy="30" r="12" fill="url(#c)"/><text x="110" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">🔮</text><circle cx="40" cy="90" r="12" fill="url(#e)"/><text x="40" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">⛓️</text><circle cx="110" cy="90" r="12" fill="url(#b)"/><text x="110" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">🤖</text><path stroke="#666" d="m55 45-3-3M95 45l3-3M55 75l-3 3M95 75l3 3"/><circle cx="75" cy="60" r="25" fill="none" stroke="url(#b)" opacity=".3"><animate attributeName="r" dur="3s" repeatCount="indefinite" values="20;35;20"/><animate attributeName="opacity" dur="3s" repeatCount="indefinite" values="0.3;0;0.3"/></circle></g></svg>

@@ -1,209 +1,83 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Lagerverdivurdering - Metoder og Prinsipper
-  </text>
-  
-
-  <rect x="50" y="80" width="220" height="150" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
-  <text x="160" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="220" height="150" x="50" y="80" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/><text x="160" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FIFO Metode
-  </text>
-  <text x="160" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="160" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     First In, First Out
-  </text>
-  
-
-  <rect x="70" y="145" width="30" height="20" fill="#e74c3c" stroke="white" stroke-width="1"/>
-  <text x="85" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">100</text>
-  <rect x="110" y="145" width="30" height="20" fill="#f39c12" stroke="white" stroke-width="1"/>
-  <text x="125" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">120</text>
-  <rect x="150" y="145" width="30" height="20" fill="#27ae60" stroke="white" stroke-width="1"/>
-  <text x="165" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">140</text>
-  <rect x="190" y="145" width="30" height="20" fill="#9b59b6" stroke="white" stroke-width="1"/>
-  <text x="205" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">160</text>
-  
-  <text x="160" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><path fill="#e74c3c" stroke="#fff" d="M70 145h30v20H70z"/><text x="85" y="158" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">100</text><path fill="#f39c12" stroke="#fff" d="M110 145h30v20h-30z"/><text x="125" y="158" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">120</text><path fill="#27ae60" stroke="#fff" d="M150 145h30v20h-30z"/><text x="165" y="158" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">140</text><path fill="#9b59b6" stroke="#fff" d="M190 145h30v20h-30z"/><text x="205" y="158" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">160</text><text x="160" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Eldste varer selges først
-  </text>
-  <text x="160" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="160" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kostpris: 100 → 120 → 140
-  </text>
-  <text x="160" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="160" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Lager: Nyeste verdier
-  </text>
-  
-
-  <rect x="290" y="80" width="220" height="150" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="220" height="150" x="290" y="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/><text x="400" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Gjennomsnittskost
-  </text>
-  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Vektet Gjennomsnitt
-  </text>
-  
-
-  <circle cx="350" cy="155" r="15" fill="#3498db" stroke="white" stroke-width="2"/>
-  <text x="350" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">100</text>
-  <circle cx="400" cy="155" r="15" fill="#3498db" stroke="white" stroke-width="2"/>
-  <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">130</text>
-  <circle cx="450" cy="155" r="15" fill="#3498db" stroke="white" stroke-width="2"/>
-  <text x="450" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">160</text>
-  
-  <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><circle cx="350" cy="155" r="15" fill="#3498db" stroke="#fff" stroke-width="2"/><text x="350" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">100</text><circle cx="400" cy="155" r="15" fill="#3498db" stroke="#fff" stroke-width="2"/><text x="400" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">130</text><circle cx="450" cy="155" r="15" fill="#3498db" stroke="#fff" stroke-width="2"/><text x="450" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">160</text><text x="400" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Beregnet gjennomsnitt
-  </text>
-  <text x="400" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="400" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     (100+130+160)/3 = 130
-  </text>
-  <text x="400" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="400" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Jevn kostpris over tid
-  </text>
-  
-
-  <rect x="530" y="80" width="220" height="150" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
-  <text x="640" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="220" height="150" x="530" y="80" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/><text x="640" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Laveste Verdis Prinsipp
-  </text>
-  <text x="640" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="640" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kostpris vs. Markedsverdi
-  </text>
-  
-
-  <rect x="560" y="145" width="60" height="25" fill="#27ae60" stroke="white" stroke-width="1"/>
-  <text x="590" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Kostpris</text>
-  <text x="590" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">150</text>
-  
-  <text x="640" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">VS</text>
-  
-  <rect x="660" y="145" width="60" height="25" fill="#e74c3c" stroke="white" stroke-width="1"/>
-  <text x="690" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Marked</text>
-  <text x="690" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">120</text>
-  
-  <text x="640" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><path fill="#27ae60" stroke="#fff" d="M560 145h60v25h-60z"/><text x="590" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Kostpris</text><text x="590" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">150</text><text x="640" y="158" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">VS</text><path fill="#e74c3c" stroke="#fff" d="M660 145h60v25h-60z"/><text x="690" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Marked</text><text x="690" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">120</text><text x="640" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Velg laveste: 120
-  </text>
-  <text x="640" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="640" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Forsiktighetsprinsippet
-  </text>
-  
-
-  <rect x="50" y="260" width="700" height="200" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5"/>
-  <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+  </text><rect width="700" height="200" x="50" y="260" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="5"/><text x="400" y="285" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Sammenligning av Metoder
-  </text>
-  
-
-  <rect x="80" y="300" width="150" height="30" fill="#34495e" stroke="#2c3e50" stroke-width="1"/>
-  <text x="155" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><path fill="#34495e" stroke="#2c3e50" d="M80 300h150v30H80z"/><text x="155" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Metode
-  </text>
-  
-  <rect x="230" y="300" width="150" height="30" fill="#34495e" stroke="#2c3e50" stroke-width="1"/>
-  <text x="305" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><path fill="#34495e" stroke="#2c3e50" d="M230 300h150v30H230z"/><text x="305" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Fordeler
-  </text>
-  
-  <rect x="380" y="300" width="150" height="30" fill="#34495e" stroke="#2c3e50" stroke-width="1"/>
-  <text x="455" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><path fill="#34495e" stroke="#2c3e50" d="M380 300h150v30H380z"/><text x="455" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Ulemper
-  </text>
-  
-  <rect x="530" y="300" width="150" height="30" fill="#34495e" stroke="#2c3e50" stroke-width="1"/>
-  <text x="605" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><path fill="#34495e" stroke="#2c3e50" d="M530 300h150v30H530z"/><text x="605" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Beste for
-  </text>
-  
-
-  <rect x="80" y="330" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="155" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M80 330h150v40H80z"/><text x="155" y="355" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     FIFO
-  </text>
-  
-  <rect x="230" y="330" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="305" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M230 330h150v40H230z"/><text x="305" y="345" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Realistisk flyt
-  </text>
-  <text x="305" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="305" y="360" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Høyere resultat
-  </text>
-  
-  <rect x="380" y="330" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="455" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M380 330h150v40H380z"/><text x="455" y="345" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Kompleks ved
-  </text>
-  <text x="455" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="455" y="360" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     prissvingninger
-  </text>
-  
-  <rect x="530" y="330" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="605" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M530 330h150v40H530z"/><text x="605" y="345" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Bedrifter med
-  </text>
-  <text x="605" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="605" y="360" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     fysisk rotasjon
-  </text>
-  
-
-  <rect x="80" y="370" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="155" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M80 370h150v40H80z"/><text x="155" y="395" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Gjennomsnitt
-  </text>
-  
-  <rect x="230" y="370" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="305" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M230 370h150v40H230z"/><text x="305" y="385" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Enkel å beregne
-  </text>
-  <text x="305" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="305" y="400" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Jevner ut svingninger
-  </text>
-  
-  <rect x="380" y="370" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="455" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M380 370h150v40H380z"/><text x="455" y="385" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Ikke realistisk
-  </text>
-  <text x="455" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="455" y="400" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     fysisk flyt
-  </text>
-  
-  <rect x="530" y="370" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="605" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M530 370h150v40H530z"/><text x="605" y="385" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Stabile
-  </text>
-  <text x="605" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="605" y="400" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     markedsforhold
-  </text>
-  
-
-  <rect x="80" y="410" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="155" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M80 410h150v40H80z"/><text x="155" y="435" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     LVP
-  </text>
-  
-  <rect x="230" y="410" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="305" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M230 410h150v40H230z"/><text x="305" y="425" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Konservativ
-  </text>
-  <text x="305" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="305" y="440" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Reduserer risiko
-  </text>
-  
-  <rect x="380" y="410" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="455" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M380 410h150v40H380z"/><text x="455" y="425" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Kan undervurdere
-  </text>
-  <text x="455" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="455" y="440" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     lagerverdi
-  </text>
-  
-  <rect x="530" y="410" width="150" height="40" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-  <text x="605" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" d="M530 410h150v40H530z"/><text x="605" y="425" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Volatile
-  </text>
-  <text x="605" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="605" y="440" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     markeder
-  </text>
-</svg>
+  </text></svg>

@@ -1,203 +1,61 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="docGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="requirementGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="digitalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1"/><stop offset="100%" style="stop-color:#5a32a3;stop-opacity:1"/></linearGradient><filter id="b" width="140%" height="140%" x="-20%" y="-20%"><feDropShadow dx="2" dy="2" flood-color="#000" flood-opacity=".3" stdDeviation="3"/></filter></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#06c" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Attestering Dokumentasjon
-  </text>
-  
-
-  <g transform="translate(300, 80)">
-    <rect x="0" y="0" width="200" height="260" fill="white" stroke="#0066cc" stroke-width="3" rx="10" filter="url(#shadow)"/>
-    
-
-    <rect x="10" y="10" width="180" height="40" fill="url(#docGradient)" rx="5"/>
-    <text x="100" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><g transform="translate(300 80)"><rect width="200" height="260" fill="#fff" stroke="#06c" stroke-width="3" filter="url(#b)" rx="10"/><rect width="180" height="40" x="10" y="10" fill="url(#c)" rx="5"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       ATTESTERT BILAG
-    </text>
-    <text x="100" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    </text><text x="100" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Faktura nr. 2024-001
-    </text>
-    
-
-    <rect x="20" y="70" width="160" height="2" fill="#dee2e6"/>
-    <rect x="20" y="80" width="140" height="2" fill="#dee2e6"/>
-    <rect x="20" y="90" width="150" height="2" fill="#dee2e6"/>
-    <rect x="20" y="100" width="120" height="2" fill="#dee2e6"/>
-    
-
-    <rect x="10" y="120" width="180" height="60" fill="#f8f9fa" stroke="#28a745" stroke-width="2" rx="5"/>
-    <text x="20" y="140" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#28a745">
+    </text><path fill="#dee2e6" d="M20 70h160v2H20zM20 80h140v2H20zM20 90h150v2H20zM20 100h120v2H20z"/><rect width="180" height="60" x="10" y="120" fill="#f8f9fa" stroke="#28a745" stroke-width="2" rx="5"/><text x="20" y="140" fill="#28a745" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
       ATTESTANT SIGNATUR:
-    </text>
-    <path d="M20 150 Q40 160 60 150 Q80 140 100 150" stroke="#28a745" stroke-width="2" fill="none"/>
-    <text x="20" y="170" font-family="Arial, sans-serif" font-size="9" fill="#666">
+    </text><path fill="none" stroke="#28a745" stroke-width="2" d="M20 150q20 10 40 0t40 0"/><text x="20" y="170" fill="#666" font-family="Arial, sans-serif" font-size="9">
       Ola Nordmann
-    </text>
-    
-
-    <rect x="10" y="190" width="180" height="30" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
-    <text x="20" y="205" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#856404">
+    </text><rect width="180" height="30" x="10" y="190" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/><text x="20" y="205" fill="#856404" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
       DATO: 15.03.2024
-    </text>
-    <text x="20" y="215" font-family="Arial, sans-serif" font-size="9" fill="#856404">
+    </text><text x="20" y="215" fill="#856404" font-family="Arial, sans-serif" font-size="9">
       Attestert den
-    </text>
-    
-
-    <rect x="10" y="230" width="180" height="25" fill="#e7f3ff" stroke="#0066cc" stroke-width="1" rx="5"/>
-    <text x="20" y="245" font-family="Arial, sans-serif" font-size="9" fill="#0066cc">
+    </text><rect width="180" height="25" x="10" y="230" fill="#e7f3ff" stroke="#06c" rx="5"/><text x="20" y="245" fill="#06c" font-family="Arial, sans-serif" font-size="9">
       Merknad: Godkjent iht. budsjett
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 120)">
-    <rect x="0" y="0" width="200" height="80" fill="url(#requirementGradient)" rx="10" filter="url(#shadow)"/>
-    <circle cx="25" cy="25" r="15" fill="white"/>
-    <path d="M15 25 Q25 35 35 25" stroke="#28a745" stroke-width="3" fill="none"/>
-    <circle cx="35" cy="25" r="2" fill="#28a745"/>
-    
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 120)"><rect width="200" height="80" fill="url(#d)" filter="url(#b)" rx="10"/><circle cx="25" cy="25" r="15" fill="#fff"/><path fill="none" stroke="#28a745" stroke-width="3" d="M15 25q10 10 20 0"/><circle cx="35" cy="25" r="2" fill="#28a745"/><text x="50" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       SIGNATUR
-    </text>
-    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Attestantens signatur
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Eller digital godkjenning
-    </text>
-  </g>
-  
-
-  <g transform="translate(550, 120)">
-    <rect x="0" y="0" width="200" height="80" fill="url(#requirementGradient)" rx="10" filter="url(#shadow)"/>
-    <circle cx="25" cy="25" r="15" fill="white"/>
-    <rect x="18" y="18" width="14" height="14" fill="#28a745" rx="2"/>
-    <rect x="20" y="15" width="2" height="6" fill="white"/>
-    <rect x="28" y="15" width="2" height="6" fill="white"/>
-    <rect x="22" y="24" width="6" height="1" fill="white"/>
-    <rect x="22" y="27" width="6" height="1" fill="white"/>
-    
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(550 120)"><rect width="200" height="80" fill="url(#d)" filter="url(#b)" rx="10"/><circle cx="25" cy="25" r="15" fill="#fff"/><rect width="14" height="14" x="18" y="18" fill="#28a745" rx="2"/><path fill="#fff" d="M20 15h2v6h-2zM28 15h2v6h-2zM22 24h6v1h-6zM22 27h6v1h-6z"/><text x="50" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       DATO
-    </text>
-    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Dato for attestering
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Tidsstempel i system
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 220)">
-    <rect x="0" y="0" width="200" height="80" fill="url(#requirementGradient)" rx="10" filter="url(#shadow)"/>
-    <circle cx="25" cy="25" r="15" fill="white"/>
-    <rect x="18" y="18" width="14" height="14" fill="#28a745" rx="2"/>
-    <rect x="20" y="22" width="10" height="1" fill="white"/>
-    <rect x="20" y="25" width="8" height="1" fill="white"/>
-    <rect x="20" y="28" width="10" height="1" fill="white"/>
-    
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 220)"><rect width="200" height="80" fill="url(#d)" filter="url(#b)" rx="10"/><circle cx="25" cy="25" r="15" fill="#fff"/><rect width="14" height="14" x="18" y="18" fill="#28a745" rx="2"/><path fill="#fff" d="M20 22h10v1H20zM20 25h8v1h-8zM20 28h10v1H20z"/><text x="50" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       MERKNADER
-    </text>
-    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Eventuelle forbehold
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Spesielle kommentarer
-    </text>
-  </g>
-  
-
-  <g transform="translate(550, 220)">
-    <rect x="0" y="0" width="200" height="80" fill="url(#requirementGradient)" rx="10" filter="url(#shadow)"/>
-    <circle cx="25" cy="25" r="15" fill="white"/>
-    <rect x="18" y="18" width="14" height="14" fill="#28a745" rx="2"/>
-    <path d="M20 25 L30 25" stroke="white" stroke-width="2"/>
-    <path d="M27 22 L30 25 L27 28" stroke="white" stroke-width="2" fill="none"/>
-    
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(550 220)"><rect width="200" height="80" fill="url(#d)" filter="url(#b)" rx="10"/><circle cx="25" cy="25" r="15" fill="#fff"/><rect width="14" height="14" x="18" y="18" fill="#28a745" rx="2"/><path stroke="#fff" stroke-width="2" d="M20 25h10"/><path fill="none" stroke="#fff" stroke-width="2" d="m27 22 3 3-3 3"/><text x="50" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       REFERANSER
-    </text>
-    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Underliggende dokumenter
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Kontrakter og avtaler
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 350)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
+    </text></g><text y="20" fill="#06c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" transform="translate(50 350)">
       Dokumentasjonsformer:
-    </text>
-    
-
-    <g transform="translate(0, 40)">
-      <rect x="0" y="0" width="320" height="80" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
-      <text x="20" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0066cc">
+    </text><g transform="translate(50 390)"><rect width="320" height="80" fill="#fff" stroke="#06c" stroke-width="2" rx="8"/><text x="20" y="25" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         📄 Fysisk Dokumentasjon
-      </text>
-      <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text x="20" y="45" fill="#333" font-family="Arial, sans-serif" font-size="11">
         • Håndskreven signatur på papir
-      </text>
-      <text x="20" y="58" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text x="20" y="58" fill="#333" font-family="Arial, sans-serif" font-size="11">
         • Stempel med dato og navn
-      </text>
-      <text x="20" y="71" font-family="Arial, sans-serif" font-size="11" fill="#333">
+      </text><text x="20" y="71" fill="#333" font-family="Arial, sans-serif" font-size="11">
         • Fysisk arkivering av originaler
-      </text>
-    </g>
-    
-
-    <g transform="translate(340, 40)">
-      <rect x="0" y="0" width="320" height="80" fill="url(#digitalGradient)" stroke="#6f42c1" stroke-width="2" rx="8"/>
-      <text x="20" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text></g><g transform="translate(390 390)"><rect width="320" height="80" fill="url(#e)" stroke="#6f42c1" stroke-width="2" rx="8"/><text x="20" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         💻 Digital Dokumentasjon
-      </text>
-      <text x="20" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="20" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11">
         • Elektronisk signatur/godkjenning
-      </text>
-      <text x="20" y="58" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="20" y="58" fill="#fff" font-family="Arial, sans-serif" font-size="11">
         • Automatisk tidsstempel
-      </text>
-      <text x="20" y="71" font-family="Arial, sans-serif" font-size="11" fill="white">
+      </text><text x="20" y="71" fill="#fff" font-family="Arial, sans-serif" font-size="11">
         • Digital sporbarhet og logging
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 450)">
-    <rect x="0" y="0" width="700" height="30" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
-    <text x="350" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+      </text></g><g transform="translate(50 450)"><rect width="700" height="30" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/><text x="350" y="20" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       💡 Viktig: All attestering må dokumenteres for å oppfylle bokføringsloven og revisjonskrav
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

@@ -1,131 +1,59 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="formulaGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Beregning av Forsinkelsesrente
-  </text>
-  
-
-  <rect x="50" y="70" width="700" height="80" fill="url(#formulaGradient)" stroke="#20c997" stroke-width="2" rx="10"/>
-  <text x="400" y="100" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="700" height="80" x="50" y="70" fill="url(#b)" stroke="#20c997" stroke-width="2" rx="10"/><text x="400" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Forsinkelsesrente = (Hovedstol × Rentesats × Antall dager) ÷ 365
-  </text>
-  <text x="400" y="125" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">
+  </text><text x="400" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Rentesats = Norges Banks referanserente + 8% (B2B) eller + 5% (B2C)
-  </text>
-  
-
-  <text x="50" y="190" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+  </text><text x="50" y="190" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Komponenter i beregningen:
-  </text>
-  
-
-  <rect x="50" y="210" width="160" height="100" fill="white" stroke="#0066cc" stroke-width="2" rx="5"/>
-  <text x="130" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="160" height="100" x="50" y="210" fill="#fff" stroke="#06c" stroke-width="2" rx="5"/><text x="130" y="235" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Hovedstol
-  </text>
-  <text x="130" y="255" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="130" y="255" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Det opprinnelige
-  </text>
-  <text x="130" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="130" y="270" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     beløpet som
-  </text>
-  <text x="130" y="285" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="130" y="285" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     skal betales
-  </text>
-  
-
-  <rect x="230" y="210" width="160" height="100" fill="white" stroke="#28a745" stroke-width="2" rx="5"/>
-  <text x="310" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="160" height="100" x="230" y="210" fill="#fff" stroke="#28a745" stroke-width="2" rx="5"/><text x="310" y="235" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Rentesats
-  </text>
-  <text x="310" y="255" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="310" y="255" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Referanserente +
-  </text>
-  <text x="310" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="310" y="270" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     8% (B2B) eller
-  </text>
-  <text x="310" y="285" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="310" y="285" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     5% (B2C)
-  </text>
-  
-
-  <rect x="410" y="210" width="160" height="100" fill="white" stroke="#dc3545" stroke-width="2" rx="5"/>
-  <text x="490" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><rect width="160" height="100" x="410" y="210" fill="#fff" stroke="#dc3545" stroke-width="2" rx="5"/><text x="490" y="235" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Antall dager
-  </text>
-  <text x="490" y="255" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="490" y="255" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Fra forfallsdato
-  </text>
-  <text x="490" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="490" y="270" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     til betaling
-  </text>
-  <text x="490" y="285" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="490" y="285" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     skjer
-  </text>
-  
-
-  <rect x="590" y="210" width="160" height="100" fill="white" stroke="#6f42c1" stroke-width="2" rx="5"/>
-  <text x="670" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6f42c1">
+  </text><rect width="160" height="100" x="590" y="210" fill="#fff" stroke="#6f42c1" stroke-width="2" rx="5"/><text x="670" y="235" fill="#6f42c1" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ÷ 365
-  </text>
-  <text x="670" y="255" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="670" y="255" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Konverterer til
-  </text>
-  <text x="670" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="670" y="270" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     daglig rente
-  </text>
-  <text x="670" y="285" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+  </text><text x="670" y="285" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (365 dager/år)
-  </text>
-  
-
-  <rect x="50" y="340" width="700" height="130" fill="white" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="400" y="365" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><rect width="700" height="130" x="50" y="340" fill="#fff" stroke="#ffc107" stroke-width="2" rx="10"/><text x="400" y="365" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Eksempel: Beregning for 2024
-  </text>
-  
-
-  <text x="80" y="390" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><text x="80" y="390" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Hovedstol: 50 000 kr
-  </text>
-  <text x="80" y="410" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><text x="80" y="410" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Rentesats: 12,50% (4,50% + 8,00%)
-  </text>
-  <text x="80" y="430" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><text x="80" y="430" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Forsinkelse: 30 dager
-  </text>
-  
-
-  <text x="400" y="390" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><text x="400" y="390" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Beregning:
-  </text>
-  <text x="400" y="410" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><text x="400" y="410" fill="#333" font-family="Arial, sans-serif" font-size="14">
     (50 000 × 0,125 × 30) ÷ 365
-  </text>
-  <text x="400" y="430" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><text x="400" y="430" fill="#333" font-family="Arial, sans-serif" font-size="14">
     = 187 500 ÷ 365
-  </text>
-  
-
-  <rect x="580" y="375" width="140" height="70" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/>
-  <text x="650" y="400" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><rect width="140" height="70" x="580" y="375" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="5"/><text x="650" y="400" fill="#155724" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Resultat:
-  </text>
-  <text x="650" y="420" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="650" y="420" fill="#28a745" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     513 kr
-  </text>
-</svg>
+  </text></svg>

@@ -1,98 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.95" />
-      <stop offset="100%" style="stop-color:#f8fafc;stop-opacity:0.95" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff;stop-opacity:.95"/><stop offset="100%" style="stop-color:#f8fafc;stop-opacity:.95"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Hva er Kundereskontro?
-  </text>
-  
-
-  <rect x="300" y="100" width="200" height="120" rx="10" fill="url(#cardGradient)" stroke="#1e40af" stroke-width="2"/>
-  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
+  </text><rect width="200" height="120" x="300" y="100" fill="url(#b)" stroke="#1e40af" stroke-width="2" rx="10"/><text x="400" y="130" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     KUNDERESKONTRO
-  </text>
-  <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+  </text><text x="400" y="150" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Individuell kundeoppfølging
-  </text>
-  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+  </text><text x="400" y="170" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Detaljerte transaksjoner
-  </text>
-  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+  </text><text x="400" y="190" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Betalingshistorikk
-  </text>
-  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">
+  </text><text x="400" y="210" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kredittoppfølging
-  </text>
-  
-
-
-  <rect x="50" y="120" width="120" height="80" rx="8" fill="#e0f2fe" stroke="#0284c7" stroke-width="1"/>
-  <text x="110" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0284c7">
+  </text><rect width="120" height="80" x="50" y="120" fill="#e0f2fe" stroke="#0284c7" rx="8"/><text x="110" y="145" fill="#0284c7" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kunde A
-  </text>
-  <text x="110" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0369a1">
+  </text><text x="110" y="165" fill="#0369a1" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Saldo: 45 000 kr
-  </text>
-  <text x="110" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0369a1">
+  </text><text x="110" y="180" fill="#0369a1" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Forfall: 15 dager
-  </text>
-  
-
-  <rect x="630" y="120" width="120" height="80" rx="8" fill="#f0fdf4" stroke="#16a34a" stroke-width="1"/>
-  <text x="690" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#16a34a">
+  </text><rect width="120" height="80" x="630" y="120" fill="#f0fdf4" stroke="#16a34a" rx="8"/><text x="690" y="145" fill="#16a34a" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kunde B
-  </text>
-  <text x="690" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#15803d">
+  </text><text x="690" y="165" fill="#15803d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Saldo: 28 500 kr
-  </text>
-  <text x="690" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#15803d">
+  </text><text x="690" y="180" fill="#15803d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Betalt i tide
-  </text>
-  
-
-  <rect x="200" y="280" width="120" height="80" rx="8" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
-  <text x="260" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">
+  </text><rect width="120" height="80" x="200" y="280" fill="#fef3c7" stroke="#d97706" rx="8"/><text x="260" y="305" fill="#d97706" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kunde C
-  </text>
-  <text x="260" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#b45309">
+  </text><text x="260" y="325" fill="#b45309" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Saldo: 67 200 kr
-  </text>
-  <text x="260" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#b45309">
+  </text><text x="260" y="340" fill="#b45309" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Purring sendt
-  </text>
-  
-
-  <rect x="480" y="280" width="120" height="80" rx="8" fill="#fce7f3" stroke="#ec4899" stroke-width="1"/>
-  <text x="540" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ec4899">
+  </text><rect width="120" height="80" x="480" y="280" fill="#fce7f3" stroke="#ec4899" rx="8"/><text x="540" y="305" fill="#ec4899" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kunde D
-  </text>
-  <text x="540" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#be185d">
+  </text><text x="540" y="325" fill="#be185d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Saldo: 12 800 kr
-  </text>
-  <text x="540" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#be185d">
+  </text><text x="540" y="340" fill="#be185d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Ny kunde
-  </text>
-  
-
-  <line x1="170" y1="160" x2="300" y2="160" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="500" y1="160" x2="630" y2="160" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="320" y1="220" x2="260" y2="280" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="480" y1="220" x2="540" y2="280" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><path stroke="#64748b" stroke-dasharray="5,5" stroke-width="2" d="M170 160h130M500 160h130M320 220l-60 60M480 220l60 60"/><text x="400" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Detaljert oversikt • Automatisk avstemming • Effektiv oppfølging • Risikostyring
-  </text>
-</svg>
+  </text></svg>

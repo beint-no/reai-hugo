@@ -1,174 +1,45 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="futureGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#5a2d91;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blockchainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#6f42c1">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1"/><stop offset="100%" style="stop-color:#5a2d91;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#6f42c1" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fremtiden for Kontering
-  </text>
-  
-
-  <rect x="50" y="60" width="320" height="140" fill="#ffffff" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <rect x="60" y="70" width="300" height="30" fill="url(#aiGradient)" rx="4"/>
-  <text x="210" y="90" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="140" x="50" y="60" fill="#fff" stroke="#06c" stroke-width="2" rx="8"/><rect width="300" height="30" x="60" y="70" fill="url(#b)" rx="4"/><text x="210" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     KUNSTIG INTELLIGENS
-  </text>
-  
-
-  <circle cx="120" cy="140" r="30" fill="#e3f2fd" stroke="#0066cc" stroke-width="3"/>
-  <text x="120" y="150" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#0066cc">🧠</text>
-  
-
-  <rect x="170" y="120" width="180" height="70" fill="#f8f9fa" stroke="#0066cc" stroke-width="1" rx="4"/>
-  <text x="180" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">
+  </text><circle cx="120" cy="140" r="30" fill="#e3f2fd" stroke="#06c" stroke-width="3"/><text x="120" y="150" fill="#06c" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">🧠</text><rect width="180" height="70" x="170" y="120" fill="#f8f9fa" stroke="#06c" rx="4"/><text x="180" y="140" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Maskinlæring:
-  </text>
-  <text x="180" y="155" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="180" y="155" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Automatisk kategorisering
-  </text>
-  <text x="180" y="170" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="180" y="170" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Prediktiv analyse
-  </text>
-  <text x="180" y="185" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="180" y="185" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Anomalideteksjon
-  </text>
-  
-
-  <rect x="430" y="60" width="320" height="140" fill="#ffffff" stroke="#28a745" stroke-width="2" rx="8"/>
-  <rect x="440" y="70" width="300" height="30" fill="url(#blockchainGradient)" rx="4"/>
-  <text x="590" y="90" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="140" x="430" y="60" fill="#fff" stroke="#28a745" stroke-width="2" rx="8"/><rect width="300" height="30" x="440" y="70" fill="url(#c)" rx="4"/><text x="590" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     BLOCKCHAIN
-  </text>
-  
-
-  <rect x="460" y="120" width="40" height="40" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="4"/>
-  <text x="480" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">B1</text>
-  
-  <path d="M 510 140 L 530 140" stroke="#28a745" stroke-width="3" fill="none"/>
-  
-  <rect x="540" y="120" width="40" height="40" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="4"/>
-  <text x="560" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">B2</text>
-  
-  <path d="M 590 140 L 610 140" stroke="#28a745" stroke-width="3" fill="none"/>
-  
-  <rect x="620" y="120" width="40" height="40" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="4"/>
-  <text x="640" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">B3</text>
-  
-  <text x="590" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="40" height="40" x="460" y="120" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="4"/><text x="480" y="145" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">B1</text><path fill="none" stroke="#28a745" stroke-width="3" d="M510 140h20"/><rect width="40" height="40" x="540" y="120" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="4"/><text x="560" y="145" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">B2</text><path fill="none" stroke="#28a745" stroke-width="3" d="M590 140h20"/><rect width="40" height="40" x="620" y="120" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="4"/><text x="640" y="145" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">B3</text><text x="590" y="180" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Uforanderlig sporingssti
-  </text>
-  
-
-  <rect x="50" y="220" width="320" height="120" fill="#ffffff" stroke="#ffc107" stroke-width="2" rx="8"/>
-  <rect x="60" y="230" width="300" height="30" fill="#ffc107" rx="4"/>
-  <text x="210" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="black">
+  </text><rect width="320" height="120" x="50" y="220" fill="#fff" stroke="#ffc107" stroke-width="2" rx="8"/><rect width="300" height="30" x="60" y="230" fill="#ffc107" rx="4"/><text x="210" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     SANNTIDSBEHANDLING
-  </text>
-  
-
-  <circle cx="120" cy="290" r="25" fill="#fff8e1" stroke="#ffc107" stroke-width="3"/>
-  <text x="120" y="298" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#f57c00">⏱️</text>
-  
-
-  <rect x="160" y="270" width="190" height="60" fill="#f8f9fa" stroke="#ffc107" stroke-width="1" rx="4"/>
-  <text x="170" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">
+  </text><circle cx="120" cy="290" r="25" fill="#fff8e1" stroke="#ffc107" stroke-width="3"/><text x="120" y="298" fill="#f57c00" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">⏱️</text><rect width="190" height="60" x="160" y="270" fill="#f8f9fa" stroke="#ffc107" rx="4"/><text x="170" y="290" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Øyeblikkelig:
-  </text>
-  <text x="170" y="305" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="170" y="305" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kontering ved transaksjon
-  </text>
-  <text x="170" y="320" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="170" y="320" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Live rapporter og dashboards
-  </text>
-  
-
-  <rect x="430" y="220" width="320" height="120" fill="#ffffff" stroke="#dc3545" stroke-width="2" rx="8"/>
-  <rect x="440" y="230" width="300" height="30" fill="#dc3545" rx="4"/>
-  <text x="590" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="120" x="430" y="220" fill="#fff" stroke="#dc3545" stroke-width="2" rx="8"/><rect width="300" height="30" x="440" y="230" fill="#dc3545" rx="4"/><text x="590" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     API-INTEGRASJONER
-  </text>
-  
-
-  <circle cx="500" cy="290" r="20" fill="#fff5f5" stroke="#dc3545" stroke-width="2"/>
-  <text x="500" y="298" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">API</text>
-  
-  <circle cx="590" cy="270" r="15" fill="#fff5f5" stroke="#dc3545" stroke-width="1"/>
-  <text x="590" y="277" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#dc3545">Bank</text>
-  
-  <circle cx="650" cy="290" r="15" fill="#fff5f5" stroke="#dc3545" stroke-width="1"/>
-  <text x="650" y="297" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#dc3545">CRM</text>
-  
-  <circle cx="590" cy="310" r="15" fill="#fff5f5" stroke="#dc3545" stroke-width="1"/>
-  <text x="590" y="317" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#dc3545">ERP</text>
-  
-
-  <path d="M 520 290 L 575 275" stroke="#dc3545" stroke-width="2" fill="none"/>
-  <path d="M 520 290 L 635 290" stroke="#dc3545" stroke-width="2" fill="none"/>
-  <path d="M 520 290 L 575 305" stroke="#dc3545" stroke-width="2" fill="none"/>
-  
-
-  <rect x="100" y="360" width="600" height="120" fill="url(#futureGradient)" rx="10"/>
-  <text x="400" y="390" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="500" cy="290" r="20" fill="#fff5f5" stroke="#dc3545" stroke-width="2"/><text x="500" y="298" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">API</text><circle cx="590" cy="270" r="15" fill="#fff5f5" stroke="#dc3545"/><text x="590" y="277" fill="#dc3545" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Bank</text><circle cx="650" cy="290" r="15" fill="#fff5f5" stroke="#dc3545"/><text x="650" y="297" fill="#dc3545" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">CRM</text><circle cx="590" cy="310" r="15" fill="#fff5f5" stroke="#dc3545"/><text x="590" y="317" fill="#dc3545" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">ERP</text><path fill="none" stroke="#dc3545" stroke-width="2" d="m520 290 55-15M520 290h115M520 290l55 15"/><rect width="600" height="120" x="100" y="360" fill="url(#d)" rx="10"/><text x="400" y="390" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     FREMTIDENS MULIGHETER OG UTFORDRINGER
-  </text>
-  
-
-  <text x="200" y="415" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="200" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     MULIGHETER:
-  </text>
-  <text x="120" y="435" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="120" y="435" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Høyere nøyaktighet
-  </text>
-  <text x="120" y="450" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="120" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Reduserte kostnader
-  </text>
-  <text x="120" y="465" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="120" y="465" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Bedre compliance
-  </text>
-  
-
-  <text x="500" y="415" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="500" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     UTFORDRINGER:
-  </text>
-  <text x="420" y="435" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="420" y="435" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Kompetanseutvikling
-  </text>
-  <text x="420" y="450" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="420" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Cybersikkerhet
-  </text>
-  <text x="420" y="465" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="420" y="465" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     • Regelverksendringer
-  </text>
-  
-
-  <circle cx="30" cy="130" r="20" fill="#e3f2fd" stroke="#0066cc" stroke-width="2"/>
-  <text x="30" y="138" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#0066cc">🤖</text>
-  
-  <circle cx="770" cy="130" r="20" fill="#e8f5e8" stroke="#28a745" stroke-width="2"/>
-  <text x="770" y="138" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#28a745">⛓️</text>
-  
-  <circle cx="30" cy="280" r="20" fill="#fff8e1" stroke="#ffc107" stroke-width="2"/>
-  <text x="30" y="288" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#f57c00">⚡</text>
-  
-  <circle cx="770" cy="280" r="20" fill="#fff5f5" stroke="#dc3545" stroke-width="2"/>
-  <text x="770" y="288" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#dc3545">🔗</text>
-</svg>
+  </text><circle cx="30" cy="130" r="20" fill="#e3f2fd" stroke="#06c" stroke-width="2"/><text x="30" y="138" fill="#06c" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🤖</text><circle cx="770" cy="130" r="20" fill="#e8f5e8" stroke="#28a745" stroke-width="2"/><text x="770" y="138" fill="#28a745" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">⛓️</text><circle cx="30" cy="280" r="20" fill="#fff8e1" stroke="#ffc107" stroke-width="2"/><text x="30" y="288" fill="#f57c00" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">⚡</text><circle cx="770" cy="280" r="20" fill="#fff5f5" stroke="#dc3545" stroke-width="2"/><text x="770" y="288" fill="#dc3545" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🔗</text></svg>

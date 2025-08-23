@@ -1,161 +1,81 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1e40af;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#1e40af" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Enhetsregisteret - Informasjonsstruktur
-  </text>
-  
-
-  <rect x="50" y="70" width="700" height="480" fill="white" stroke="#3b82f6" stroke-width="3" rx="15"/>
-  
-
-  <rect x="50" y="70" width="700" height="60" fill="url(#headerGrad)" rx="15 15 0 0"/>
-  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="700" height="480" x="50" y="70" fill="#fff" stroke="#3b82f6" stroke-width="3" rx="15"/><rect width="700" height="60" x="50" y="70" fill="url(#a)" rx="15 15 0 0"/><text x="400" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     ENHETSREGISTERET - Virksomhetsnummer: 123 456 789
-  </text>
-  
-
-  <rect x="80" y="150" width="320" height="380" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" rx="8"/>
-  <text x="240" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
+  </text><rect width="320" height="380" x="80" y="150" fill="#f8fafc" stroke="#cbd5e1" rx="8"/><text x="240" y="175" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Grunnleggende Informasjon
-  </text>
-  
-  <text x="100" y="205" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="100" y="205" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Navn:
-  </text>
-  <text x="100" y="220" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="100" y="220" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     ABC Consulting AS
-  </text>
-  
-  <text x="100" y="245" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="100" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Organisasjonsform:
-  </text>
-  <text x="100" y="260" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="100" y="260" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Aksjeselskap (AS)
-  </text>
-  
-  <text x="100" y="285" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="100" y="285" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Forretningsadresse:
-  </text>
-  <text x="100" y="300" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="100" y="300" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Storgata 123
-  </text>
-  <text x="100" y="315" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="100" y="315" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     0101 Oslo
-  </text>
-  
-  <text x="100" y="340" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="100" y="340" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Postadresse:
-  </text>
-  <text x="100" y="355" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="100" y="355" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Postboks 456
-  </text>
-  <text x="100" y="370" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="100" y="370" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     0102 Oslo
-  </text>
-  
-  <text x="100" y="395" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="100" y="395" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Etablerings-/Registreringsdato:
-  </text>
-  <text x="100" y="410" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="100" y="410" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     15. januar 2020
-  </text>
-  
-  <text x="100" y="435" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="100" y="435" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Status:
-  </text>
-  <text x="100" y="450" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
+  </text><text x="100" y="450" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Aktiv
-  </text>
-  
-  <text x="100" y="475" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="100" y="475" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Tidligere navn:
-  </text>
-  <text x="100" y="490" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+  </text><text x="100" y="490" fill="#64748b" font-family="Arial, sans-serif" font-size="12">
     ABC Rådgivning AS (2020-2022)
-  </text>
-  <text x="100" y="505" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+  </text><text x="100" y="505" fill="#64748b" font-family="Arial, sans-serif" font-size="12">
     ABC Solutions AS (2018-2020)
-  </text>
-  
-
-  <rect x="420" y="150" width="310" height="380" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" rx="8"/>
-  <text x="575" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
+  </text><rect width="310" height="380" x="420" y="150" fill="#f8fafc" stroke="#cbd5e1" rx="8"/><text x="575" y="175" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Aktivitet og Tilleggsinformasjon
-  </text>
-  
-  <text x="440" y="205" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="440" y="205" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Næringskode (NACE):
-  </text>
-  <text x="440" y="220" font-family="Arial, monospace" font-size="12" fill="#374151">
+  </text><text x="440" y="220" fill="#374151" font-family="Arial, monospace" font-size="12">
     62.020 - Konsulentvirksomhet tilknyttet informasjonsteknologi
-  </text>
-  
-  <text x="440" y="245" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="440" y="245" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Institusjonell sektor:
-  </text>
-  <text x="440" y="260" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="440" y="260" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Ikke-finansielle foretak
-  </text>
-  
-  <text x="440" y="285" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="440" y="285" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Målform:
-  </text>
-  <text x="440" y="300" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="440" y="300" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Bokmål
-  </text>
-  
-  <text x="440" y="325" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="440" y="325" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Hjemmeside:
-  </text>
-  <text x="440" y="340" font-family="Arial, sans-serif" font-size="12" fill="#3b82f6" text-decoration="underline">
+  </text><text x="440" y="340" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12" text-decoration="underline">
     www.abcconsulting.no
-  </text>
-  
-  <text x="440" y="365" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="440" y="365" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     E-post:
-  </text>
-  <text x="440" y="380" font-family="Arial, sans-serif" font-size="12" fill="#3b82f6">
+  </text><text x="440" y="380" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12">
     post@abcconsulting.no
-  </text>
-  
-  <text x="440" y="405" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="440" y="405" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Telefon:
-  </text>
-  <text x="440" y="420" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><text x="440" y="420" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     +47 12 34 56 78
-  </text>
-  
-  <text x="440" y="445" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">
+  </text><text x="440" y="445" fill="#374151" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
     Registre (også registrert i):
-  </text>
-  <text x="440" y="460" font-family="Arial, sans-serif" font-size="12" fill="#059669">
+  </text><text x="440" y="460" fill="#059669" font-family="Arial, sans-serif" font-size="12">
     ✓ Foretaksregisteret
-  </text>
-  <text x="440" y="475" font-family="Arial, sans-serif" font-size="12" fill="#059669">
+  </text><text x="440" y="475" fill="#059669" font-family="Arial, sans-serif" font-size="12">
     ✓ MVA-registeret
-  </text>
-  <text x="440" y="490" font-family="Arial, sans-serif" font-size="12" fill="#059669">
+  </text><text x="440" y="490" fill="#059669" font-family="Arial, sans-serif" font-size="12">
     ✓ Arbeidsgiver-/arbeidstakerregisteret
-  </text>
-  <text x="440" y="505" font-family="Arial, sans-serif" font-size="12" fill="#059669">
+  </text><text x="440" y="505" fill="#059669" font-family="Arial, sans-serif" font-size="12">
     ✓ Regnskapsregisteret
-  </text>
-  
-
-  <rect x="80" y="555" width="640" height="40" fill="#dbeafe" stroke="#3b82f6" stroke-width="1" rx="5"/>
-  <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e40af">
+  </text><rect width="640" height="40" x="80" y="555" fill="#dbeafe" stroke="#3b82f6" rx="5"/><text x="400" y="575" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     <tspan font-weight="bold">Offentlig tilgjengelig:</tspan> All informasjon i Enhetsregisteret er fritt tilgjengelig for allmennheten
-  </text>
-  <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1e40af">
+  </text><text x="400" y="590" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     <tspan font-weight="bold">Oppdatering:</tspan> Informasjonen oppdateres kontinuerlig basert på meldinger fra virksomhetene
-  </text>
-</svg>
+  </text></svg>

@@ -1,162 +1,17 @@
-<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="primaryGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="booksGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="reportsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#2980b9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#c0392b;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#27ae60;stop-opacity:1"/><stop offset="100%" style="stop-color:#229954;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h700v500H0z"/><text x="350" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Dokumenttyper som må oppbevares
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <rect x="0" y="0" width="180" height="140" fill="url(#primaryGradient)" stroke="#2980b9" stroke-width="2" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 70)"><rect width="180" height="140" fill="url(#a)" stroke="#2980b9" stroke-width="2" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Primære dokumenter
-    </text>
-    
-
-    <g fill="white" font-family="Arial, sans-serif" font-size="11">
-      <rect x="10" y="35" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="45">Fakturaer (inn/ut)</text>
-      
-      <rect x="10" y="55" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="65">Kvitteringer</text>
-      
-      <rect x="10" y="75" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="85">Bankkontoutskrifter</text>
-      
-      <rect x="10" y="95" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="105">Lønnsbilag</text>
-      
-      <rect x="10" y="115" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="125">Kontrakter</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(260, 70)">
-    <rect x="0" y="0" width="180" height="140" fill="url(#booksGradient)" stroke="#c0392b" stroke-width="2" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><g fill="#fff" font-family="Arial, sans-serif" font-size="11"><path d="M10 35h15v12H10z" opacity=".8"/><text x="30" y="45">Fakturaer (inn/ut)</text><path d="M10 55h15v12H10z" opacity=".8"/><text x="30" y="65">Kvitteringer</text><path d="M10 75h15v12H10z" opacity=".8"/><text x="30" y="85">Bankkontoutskrifter</text><path d="M10 95h15v12H10z" opacity=".8"/><text x="30" y="105">Lønnsbilag</text><path d="M10 115h15v12H10z" opacity=".8"/><text x="30" y="125">Kontrakter</text></g></g><g transform="translate(260 70)"><rect width="180" height="140" fill="url(#b)" stroke="#c0392b" stroke-width="2" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Regnskapsbøker
-    </text>
-    
-
-    <g fill="white" font-family="Arial, sans-serif" font-size="11">
-      <rect x="10" y="35" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="45">Hovedbok</text>
-      
-      <rect x="10" y="55" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="65">Hjelpebøker</text>
-      
-      <rect x="10" y="75" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="85">Journaler</text>
-      
-      <rect x="10" y="95" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="105">Saldobalanse</text>
-      
-      <rect x="10" y="115" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="125">Systemlogger</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(470, 70)">
-    <rect x="0" y="0" width="180" height="140" fill="url(#reportsGradient)" stroke="#229954" stroke-width="2" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><g fill="#fff" font-family="Arial, sans-serif" font-size="11"><path d="M10 35h15v12H10z" opacity=".8"/><text x="30" y="45">Hovedbok</text><path d="M10 55h15v12H10z" opacity=".8"/><text x="30" y="65">Hjelpebøker</text><path d="M10 75h15v12H10z" opacity=".8"/><text x="30" y="85">Journaler</text><path d="M10 95h15v12H10z" opacity=".8"/><text x="30" y="105">Saldobalanse</text><path d="M10 115h15v12H10z" opacity=".8"/><text x="30" y="125">Systemlogger</text></g></g><g transform="translate(470 70)"><rect width="180" height="140" fill="url(#c)" stroke="#229954" stroke-width="2" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Rapporter &amp; Oppgaver
-    </text>
-    
-
-    <g fill="white" font-family="Arial, sans-serif" font-size="11">
-      <rect x="10" y="35" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="45">MVA-meldinger</text>
-      
-      <rect x="10" y="55" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="65">A-meldinger</text>
-      
-      <rect x="10" y="75" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="85">Årsregnskap</text>
-      
-      <rect x="10" y="95" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="105">Selvangivelse</text>
-      
-      <rect x="10" y="115" width="15" height="12" fill="white" opacity="0.8"/>
-      <text x="30" y="125">Næringsoppgave</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(100, 250)">
-    <text x="250" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    </text><g fill="#fff" font-family="Arial, sans-serif" font-size="11"><path d="M10 35h15v12H10z" opacity=".8"/><text x="30" y="45">MVA-meldinger</text><path d="M10 55h15v12H10z" opacity=".8"/><text x="30" y="65">A-meldinger</text><path d="M10 75h15v12H10z" opacity=".8"/><text x="30" y="85">Årsregnskap</text><path d="M10 95h15v12H10z" opacity=".8"/><text x="30" y="105">Selvangivelse</text><path d="M10 115h15v12H10z" opacity=".8"/><text x="30" y="125">Næringsoppgave</text></g></g><text x="250" y="20" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" transform="translate(100 250)">
       Oppbevaringsform
-    </text>
-    
-
-    <g transform="translate(50, 40)">
-      <rect x="0" y="0" width="180" height="100" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8" opacity="0.9"/>
-      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><g transform="translate(150 290)"><rect width="180" height="100" fill="#3498db" stroke="#2980b9" stroke-width="2" opacity=".9" rx="8"/><text x="90" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Digital oppbevaring
-      </text>
-      
-
-      <ellipse cx="45" cy="45" rx="12" ry="8" fill="white" opacity="0.8"/>
-      <ellipse cx="55" cy="40" rx="15" ry="10" fill="white" opacity="0.8"/>
-      <ellipse cx="65" cy="45" rx="12" ry="8" fill="white" opacity="0.8"/>
-      <rect x="33" y="45" width="44" height="8" fill="white" opacity="0.8"/>
-      
-      <text x="90" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Foretrukket metode</text>
-      <text x="90" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Krav til sikkerhet</text>
-    </g>
-    
-
-    <g transform="translate(270, 40)">
-      <rect x="0" y="0" width="180" height="100" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2" rx="8" opacity="0.9"/>
-      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text><ellipse cx="45" cy="45" fill="#fff" opacity=".8" rx="12" ry="8"/><ellipse cx="55" cy="40" fill="#fff" opacity=".8" rx="15" ry="10"/><ellipse cx="65" cy="45" fill="#fff" opacity=".8" rx="12" ry="8"/><path fill="#fff" d="M33 45h44v8H33z" opacity=".8"/><text x="90" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Foretrukket metode</text><text x="90" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Krav til sikkerhet</text></g><g transform="translate(370 290)"><rect width="180" height="100" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2" opacity=".9" rx="8"/><text x="90" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Fysisk oppbevaring
-      </text>
-      
-
-      <rect x="40" y="35" width="30" height="25" fill="white" opacity="0.8" stroke="#7f8c8d" stroke-width="1"/>
-      <rect x="42" y="40" width="26" height="3" fill="#7f8c8d"/>
-      <rect x="42" y="45" width="26" height="3" fill="#7f8c8d"/>
-      <rect x="42" y="50" width="26" height="3" fill="#7f8c8d"/>
-      <circle cx="65" cy="47" r="2" fill="#7f8c8d"/>
-      
-      <text x="90" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Brannsikkerhet</text>
-      <text x="90" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">Organisert arkiv</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(150, 380)">
-    <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+      </text><path fill="#fff" stroke="#7f8c8d" d="M40 35h30v25H40z" opacity=".8"/><path fill="#7f8c8d" d="M42 40h26v3H42zM42 45h26v3H42zM42 50h26v3H42z"/><circle cx="65" cy="47" r="2" fill="#7f8c8d"/><text x="90" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Brannsikkerhet</text><text x="90" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">Organisert arkiv</text></g><g fill="#2c3e50" font-family="Arial, sans-serif"><text x="200" y="20" font-size="16" font-weight="bold" text-anchor="middle" transform="translate(150 380)">
       Nøkkelkrav for oppbevaring
-    </text>
-    
-    <g font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
-      <circle cx="10" cy="40" r="5" fill="#27ae60"/>
-      <text x="25" y="45">Lesbarhet gjennom hele oppbevaringsperioden</text>
-      
-      <circle cx="10" cy="60" r="5" fill="#27ae60"/>
-      <text x="25" y="65">Beskyttelse mot endring og tap</text>
-      
-      <circle cx="10" cy="80" r="5" fill="#27ae60"/>
-      <text x="25" y="85">Rask tilgang for kontroll og revisjon</text>
-    </g>
-  </g>
-</svg>
+    </text><g font-size="12" transform="translate(150 380)"><circle cx="10" cy="40" r="5" fill="#27ae60"/><text x="25" y="45">Lesbarhet gjennom hele oppbevaringsperioden</text><circle cx="10" cy="60" r="5" fill="#27ae60"/><text x="25" y="65">Beskyttelse mot endring og tap</text><circle cx="10" cy="80" r="5" fill="#27ae60"/><text x="25" y="85">Rask tilgang for kontroll og revisjon</text></g></g></svg>

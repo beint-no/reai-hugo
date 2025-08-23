@@ -1,82 +1,37 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Beregning av Egenkapitalrentabilitet
-  </text>
-  
-
-  <rect x="50" y="80" width="700" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/>
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2e7d32">
+  </text><rect width="700" height="80" x="50" y="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/><text x="400" y="110" fill="#2e7d32" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     ROE = (Årsresultat / Gjennomsnittlig Egenkapital) × 100%
-  </text>
-  <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="400" y="140" fill="#424242" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Gjennomsnittlig Egenkapital = (Egenkapital begynnelse + Egenkapital slutt) / 2
-  </text>
-  
-
-  <rect x="50" y="200" width="300" height="180" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="8"/>
-  <text x="200" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f57c00">
+  </text><rect width="300" height="180" x="50" y="200" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="8"/><text x="200" y="225" fill="#f57c00" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Steg 1: Samle Data
-  </text>
-  <text x="70" y="250" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="70" y="250" fill="#424242" font-family="Arial, sans-serif" font-size="14">
     • Årsresultat etter skatt
-  </text>
-  <text x="70" y="270" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="70" y="270" fill="#424242" font-family="Arial, sans-serif" font-size="14">
     • Egenkapital ved årets start
-  </text>
-  <text x="70" y="290" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="70" y="290" fill="#424242" font-family="Arial, sans-serif" font-size="14">
     • Egenkapital ved årets slutt
-  </text>
-  <text x="70" y="320" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="320" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Fra resultatregnskap og balanse
-  </text>
-  <text x="70" y="340" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="340" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Bruk samme regnskapsperiode
-  </text>
-  <text x="70" y="360" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="360" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Sjekk for engangseffekter
-  </text>
-  
-
-  <rect x="450" y="200" width="300" height="180" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="8"/>
-  <text x="600" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
+  </text><rect width="300" height="180" x="450" y="200" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="8"/><text x="600" y="225" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Steg 2: Beregn ROE
-  </text>
-  <text x="470" y="250" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="470" y="250" fill="#424242" font-family="Arial, sans-serif" font-size="14">
     1. Beregn gjennomsnittlig egenkapital
-  </text>
-  <text x="470" y="270" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="470" y="270" fill="#424242" font-family="Arial, sans-serif" font-size="14">
     2. Del årsresultat på dette tallet
-  </text>
-  <text x="470" y="290" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="470" y="290" fill="#424242" font-family="Arial, sans-serif" font-size="14">
     3. Multipliser med 100 for prosent
-  </text>
-  <text x="470" y="320" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="470" y="320" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Eksempel: 3 200 000 / 19 750 000
-  </text>
-  <text x="470" y="340" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="470" y="340" fill="#666" font-family="Arial, sans-serif" font-size="12">
     = 0,162 × 100% = 16,2%
-  </text>
-  
-
-  <path d="M 350 290 L 450 290" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-  
-
-  <rect x="200" y="420" width="400" height="60" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="8"/>
-  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7b1fa2">
+  </text><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#a)" d="M350 290h100"/><rect width="400" height="60" x="200" y="420" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="8"/><text x="400" y="445" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Resultat: ROE viser avkastning på eiernes investering
-  </text>
-  <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#424242">
+  </text><text x="400" y="465" fill="#424242" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Sammenlign med bransjegjennomsnitt og tidligere år
-  </text>
-  
-
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

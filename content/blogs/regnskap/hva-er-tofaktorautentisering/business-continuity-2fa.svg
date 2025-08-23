@@ -1,182 +1,67 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="primaryGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="successGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="warningGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="dangerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#343a40">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#343a40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Business Continuity for 2FA Systems
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="120" rx="10" fill="#fff" stroke="#dee2e6" stroke-width="2"/>
-  <text x="70" y="85" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc3545">
+  </text><rect width="700" height="120" x="50" y="60" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="70" y="85" fill="#dc3545" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Crisis Scenario: Hovedkontor ødelegges av brann
-  </text>
-  <text x="70" y="110" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="110" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     • Kritisk: Månedsavslutning må fullføres innen 48 timer
-  </text>
-  <text x="70" y="130" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="130" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     • Utfordring: Ansatte kan ikke få tilgang til hovedkontoret
-  </text>
-  <text x="70" y="150" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="150" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     • Krav: Opprettholde sikkerhetsnivå under fjernarbeid
-  </text>
-  
-
-  <text x="50" y="220" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#343a40">
+  </text><text x="50" y="220" fill="#343a40" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Backup Autentiseringsmetoder
-  </text>
-  
-
-  <rect x="50" y="240" width="160" height="120" rx="8" fill="url(#successGradient)"/>
-  <text x="130" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+  </text><rect width="160" height="120" x="50" y="240" fill="url(#b)" rx="8"/><text x="130" y="265" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Recovery Codes
-  </text>
-  <text x="130" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="130" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Engangskoder
-  </text>
-  <text x="130" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="130" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Offline tilgjengelig
-  </text>
-  <text x="130" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="130" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Lagret sikkert
-  </text>
-  <text x="130" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="130" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Nødssituasjoner
-  </text>
-  
-
-  <rect x="230" y="240" width="160" height="120" rx="8" fill="url(#primaryGradient)"/>
-  <text x="310" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+  </text><rect width="160" height="120" x="230" y="240" fill="url(#c)" rx="8"/><text x="310" y="265" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Backup Hardware
-  </text>
-  <text x="310" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="310" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Ekstra nøkler
-  </text>
-  <text x="310" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="310" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Off-site lagring
-  </text>
-  <text x="310" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="310" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sikker distribusjon
-  </text>
-  <text x="310" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="310" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Rask aktivering
-  </text>
-  
-
-  <rect x="410" y="240" width="160" height="120" rx="8" fill="url(#warningGradient)"/>
-  <text x="490" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+  </text><rect width="160" height="120" x="410" y="240" fill="url(#d)" rx="8"/><text x="490" y="265" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Admin Override
-  </text>
-  <text x="490" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="490" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Manuell godkjenning
-  </text>
-  <text x="490" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="490" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kritiske frister
-  </text>
-  <text x="490" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="490" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Logging aktivert
-  </text>
-  <text x="490" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="490" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Midlertidig tilgang
-  </text>
-  
-
-  <rect x="590" y="240" width="160" height="120" rx="8" fill="url(#dangerGradient)"/>
-  <text x="670" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+  </text><rect width="160" height="120" x="590" y="240" fill="url(#e)" rx="8"/><text x="670" y="265" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Telefonbasert
-  </text>
-  <text x="670" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="670" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Manuell prosess
-  </text>
-  <text x="670" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="670" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Identitetssjekk
-  </text>
-  <text x="670" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="670" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Nødsprosedyre
-  </text>
-  <text x="670" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="670" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Siste utvei
-  </text>
-  
-
-  <text x="50" y="400" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#343a40">
+  </text><text x="50" y="400" fill="#343a40" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Løsningsflyt for Business Continuity
-  </text>
-  
-
-  <circle cx="100" cy="440" r="20" fill="url(#primaryGradient)"/>
-  <text x="100" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">1</text>
-  <text x="140" y="448" font-family="Arial, sans-serif" font-size="14" fill="#495057">Remote work aktivering</text>
-  
-
-  <circle cx="100" cy="480" r="20" fill="url(#primaryGradient)"/>
-  <text x="100" y="488" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">2</text>
-  <text x="140" y="488" font-family="Arial, sans-serif" font-size="14" fill="#495057">Mobile 2FA-enheter distribusjon</text>
-  
-
-  <circle cx="100" cy="520" r="20" fill="url(#primaryGradient)"/>
-  <text x="100" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">3</text>
-  <text x="140" y="528" font-family="Arial, sans-serif" font-size="14" fill="#495057">Cloud-baserte regnskapssystemer</text>
-  
-
-  <circle cx="100" cy="560" r="20" fill="url(#primaryGradient)"/>
-  <text x="100" y="568" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">4</text>
-  <text x="140" y="568" font-family="Arial, sans-serif" font-size="14" fill="#495057">Offline backup codes som fallback</text>
-  
-
-  <rect x="450" y="420" width="300" height="140" rx="8" fill="#fff" stroke="#28a745" stroke-width="2"/>
-  <text x="465" y="445" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
+  </text><circle cx="100" cy="440" r="20" fill="url(#c)"/><text x="100" y="448" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">1</text><text x="140" y="448" fill="#495057" font-family="Arial, sans-serif" font-size="14">Remote work aktivering</text><circle cx="100" cy="480" r="20" fill="url(#c)"/><text x="100" y="488" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">2</text><text x="140" y="488" fill="#495057" font-family="Arial, sans-serif" font-size="14">Mobile 2FA-enheter distribusjon</text><circle cx="100" cy="520" r="20" fill="url(#c)"/><text x="100" y="528" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">3</text><text x="140" y="528" fill="#495057" font-family="Arial, sans-serif" font-size="14">Cloud-baserte regnskapssystemer</text><circle cx="100" cy="560" r="20" fill="url(#c)"/><text x="100" y="568" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">4</text><text x="140" y="568" fill="#495057" font-family="Arial, sans-serif" font-size="14">Offline backup codes som fallback</text><rect width="300" height="140" x="450" y="420" fill="#fff" stroke="#28a745" stroke-width="2" rx="8"/><text x="465" y="445" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Kontinuitetsfordeler
-  </text>
-  <text x="465" y="470" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="465" y="470" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     ✓ Opprettholder sikkerhetsnivå
-  </text>
-  <text x="465" y="490" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="465" y="490" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     ✓ Minimum driftsavbrudd
-  </text>
-  <text x="465" y="510" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="465" y="510" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     ✓ Compliance opprettholdes
-  </text>
-  <text x="465" y="530" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="465" y="530" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     ✓ Kundetillit bevares
-  </text>
-  <text x="465" y="550" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="465" y="550" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     ✓ Regulatoriske krav overholdes
-  </text>
-  
-
-  <path d="M 200 440 L 430 440" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 200 480 L 430 480" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 200 520 L 430 520" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-  </defs>
-</svg>
+  </text><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#f)" d="M200 440h230"/><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#f)" d="M200 480h230"/><path fill="none" stroke="#6c757d" stroke-width="2" marker-end="url(#f)" d="M200 520h230"/><defs><marker id="f" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

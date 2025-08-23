@@ -1,245 +1,83 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="esgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="climateGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#607D8B;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#263238;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#607d8b;stop-opacity:1"/><stop offset="100%" style="stop-color:#263238;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fremtidige Trender innen Diskontering
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#esgGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="340" height="130" fill="url(#b)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       ESG-justering
-    </text>
-    
-
-    <circle cx="50" cy="70" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🌱</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="70" r="20" fill="#fff" opacity=".3"/><text x="50" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🌱</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       Miljø-, sosial- og styringsfaktorer
-    </text>
-    
-
-    <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • ESG-risiko integrert i diskonteringsrenter
-    </text>
-    <text x="90" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Bærekraftighetspremier og -rabatter
-    </text>
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Regulatoriske krav til ESG-rapportering
-    </text>
-    <text x="90" y="115" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Investorers økende fokus på bærekraft
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#climateGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(410 80)"><rect width="340" height="130" fill="url(#c)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Klimarisiko
-    </text>
-    
-
-    <circle cx="50" cy="70" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🌡️</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="70" r="20" fill="#fff" opacity=".3"/><text x="50" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🌡️</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       Klimarelaterte risikoer i verdsettelse
-    </text>
-    
-
-    <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Fysiske klimarisikoer (ekstremvær, havnivå)
-    </text>
-    <text x="90" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Overgangsrisiko (karbonprising, regulering)
-    </text>
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Scenariobaserte diskonteringsrenter
-    </text>
-    <text x="90" y="115" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Stranded assets og teknologiskifte
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 230)">
-    <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#aiGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 230)"><rect width="340" height="130" fill="url(#d)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Kunstig Intelligens
-    </text>
-    
-
-    <circle cx="50" cy="70" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🤖</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="70" r="20" fill="#fff" opacity=".3"/><text x="50" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🤖</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       Automatiserte diskonteringsberegninger
-    </text>
-    
-
-    <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Maskinlæring for risikoprediksjoner
-    </text>
-    <text x="90" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Automatisk justering av diskonteringsrenter
-    </text>
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Prediktive modeller for kontantstrømmer
-    </text>
-    <text x="90" y="115" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • AI-drevet scenarioanalyse
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 230)">
-    <rect x="0" y="0" width="340" height="130" rx="10" fill="url(#dataGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(410 230)"><rect width="340" height="130" fill="url(#e)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Sanntidsdata
-    </text>
-    
-
-    <circle cx="50" cy="70" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="77" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📡</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="50" cy="70" r="20" fill="#fff" opacity=".3"/><text x="50" y="77" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">📡</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       Dynamiske diskonteringsrenter
-    </text>
-    
-
-    <text x="90" y="70" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Kontinuerlig oppdatering av markedsdata
-    </text>
-    <text x="90" y="85" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Sanntids risikojusteringer
-    </text>
-    <text x="90" y="100" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Integrerte datakilder og API-er
-    </text>
-    <text x="90" y="115" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Automatisk rapportering og compliance
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 380)">
-    <rect x="0" y="0" width="700" height="140" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    </text></g><g transform="translate(50 380)"><rect width="700" height="140" fill="#fff" stroke="#ddd" stroke-width="2" rx="10"/><text x="350" y="25" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Implementeringstidslinje for Fremtidige Trender
-    </text>
-    
-
-    <line x1="80" y1="70" x2="670" y2="70" stroke="#ddd" stroke-width="2"/>
-    
-
-    <g transform="translate(80, 40)">
-      <circle cx="0" cy="30" r="8" fill="#4CAF50"/>
-      <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><path stroke="#ddd" stroke-width="2" d="M80 70h590"/><g transform="translate(80 40)"><circle cy="30" r="8" fill="#4caf50"/><text y="50" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2024-2025
-      </text>
-      <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text y="65" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         ESG-integrering
-      </text>
-      <text x="0" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text y="78" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         starter
-      </text>
-    </g>
-    
-
-    <g transform="translate(230, 40)">
-      <circle cx="0" cy="30" r="8" fill="#FF9800"/>
-      <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(230 40)"><circle cy="30" r="8" fill="#ff9800"/><text y="50" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2026-2027
-      </text>
-      <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text y="65" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Klimarisiko
-      </text>
-      <text x="0" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text y="78" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         standardiseres
-      </text>
-    </g>
-    
-
-    <g transform="translate(380, 40)">
-      <circle cx="0" cy="30" r="8" fill="#9C27B0"/>
-      <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(380 40)"><circle cy="30" r="8" fill="#9c27b0"/><text y="50" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2028-2029
-      </text>
-      <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text y="65" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         AI-verktøy
-      </text>
-      <text x="0" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text y="78" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         blir mainstream
-      </text>
-    </g>
-    
-
-    <g transform="translate(530, 40)">
-      <circle cx="0" cy="30" r="8" fill="#607D8B"/>
-      <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(530 40)"><circle cy="30" r="8" fill="#607d8b"/><text y="50" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2030+
-      </text>
-      <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text y="65" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Fullt integrerte
-      </text>
-      <text x="0" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text y="78" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         sanntidsløsninger
-      </text>
-    </g>
-    
-
-    <text x="80" y="105" font-family="Arial, sans-serif" font-size="11" fill="#4CAF50">Tidlig fase</text>
-    <text x="230" y="105" font-family="Arial, sans-serif" font-size="11" fill="#FF9800">Utvikling</text>
-    <text x="380" y="105" font-family="Arial, sans-serif" font-size="11" fill="#9C27B0">Implementering</text>
-    <text x="530" y="105" font-family="Arial, sans-serif" font-size="11" fill="#607D8B">Moden fase</text>
-  </g>
-  
-
-  <g transform="translate(50, 540)">
-    <rect x="0" y="0" width="700" height="50" rx="10" fill="#e3f2fd" stroke="#2196F3" stroke-width="2"/>
-    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976D2">
+      </text></g><text x="80" y="105" fill="#4caf50" font-family="Arial, sans-serif" font-size="11">Tidlig fase</text><text x="230" y="105" fill="#ff9800" font-family="Arial, sans-serif" font-size="11">Utvikling</text><text x="380" y="105" fill="#9c27b0" font-family="Arial, sans-serif" font-size="11">Implementering</text><text x="530" y="105" fill="#607d8b" font-family="Arial, sans-serif" font-size="11">Moden fase</text></g><g transform="translate(50 540)"><rect width="700" height="50" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="10"/><text x="350" y="20" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Implikasjoner for Regnskapsførere
-    </text>
-    
-    <text x="50" y="35" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    </text><text x="50" y="35" fill="#333" font-family="Arial, sans-serif" font-size="13">
       • Kontinuerlig oppdatering av kompetanse innen ESG og klimarisiko
-    </text>
-    <text x="450" y="35" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    </text><text x="450" y="35" fill="#333" font-family="Arial, sans-serif" font-size="13">
       • Investering i nye teknologier og verktøy
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

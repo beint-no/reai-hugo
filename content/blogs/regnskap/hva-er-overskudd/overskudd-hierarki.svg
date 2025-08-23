@@ -1,105 +1,39 @@
-<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="pyramidGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#155724;stop-opacity:0.9" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="600" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h600v400H0z"/><text x="300" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Overskuddshierarki
-  </text>
-  
-
-
-  <polygon points="100,80 500,80 480,120 120,120" fill="#007bff" stroke="#0056b3" stroke-width="2"/>
-  <text x="300" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><path fill="#007bff" stroke="#0056b3" stroke-width="2" d="M100 80h400l-20 40H120z"/><text x="300" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     BRUTTOOVERSKUDD
-  </text>
-  
-
-  <polygon points="120,120 480,120 460,160 140,160" fill="#28a745" stroke="#20c997" stroke-width="2"/>
-  <text x="300" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><path fill="#28a745" stroke="#20c997" stroke-width="2" d="M120 120h360l-20 40H140z"/><text x="300" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     DRIFTSOVERSKUDD
-  </text>
-  
-
-  <polygon points="140,160 460,160 440,200 160,200" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
-  <text x="300" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><path fill="#ffc107" stroke="#e0a800" stroke-width="2" d="M140 160h320l-20 40H160z"/><text x="300" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ORDINÆRT OVERSKUDD
-  </text>
-  
-
-  <polygon points="160,200 440,200 420,240 180,240" fill="#dc3545" stroke="#c82333" stroke-width="2"/>
-  <text x="300" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><path fill="#dc3545" stroke="#c82333" stroke-width="2" d="M160 200h280l-20 40H180z"/><text x="300" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ÅRSOVERSKUDD
-  </text>
-  
-
-  <text x="50" y="100" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="50" y="100" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Salg - Varekost
-  </text>
-  <text x="50" y="140" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="50" y="140" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     - Driftskost
-  </text>
-  <text x="50" y="180" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="50" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     ± Finansposter
-  </text>
-  <text x="50" y="220" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="50" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     - Skatt
-  </text>
-  
-
-  <text x="520" y="100" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="520" y="100" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     40-60%
-  </text>
-  <text x="520" y="140" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="520" y="140" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     20-40%
-  </text>
-  <text x="520" y="180" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="520" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     15-35%
-  </text>
-  <text x="520" y="220" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="520" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     10-25%
-  </text>
-  
-
-  <text x="300" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">
+  </text><text x="300" y="280" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Hver nivå representerer et mer raffinert mål på lønnsomhet
-  </text>
-  
-
-  <rect x="50" y="310" width="15" height="15" fill="#007bff"/>
-  <text x="75" y="322" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><path fill="#007bff" d="M50 310h15v15H50z"/><text x="75" y="322" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Bruttooverskudd - Kjerneaktivitet
-  </text>
-  
-  <rect x="250" y="310" width="15" height="15" fill="#28a745"/>
-  <text x="275" y="322" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><path fill="#28a745" d="M250 310h15v15h-15z"/><text x="275" y="322" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Driftsoverskudd - Operasjonell
-  </text>
-  
-  <rect x="50" y="335" width="15" height="15" fill="#ffc107"/>
-  <text x="75" y="347" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><path fill="#ffc107" d="M50 335h15v15H50z"/><text x="75" y="347" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Ordinært overskudd - Før skatt
-  </text>
-  
-  <rect x="250" y="335" width="15" height="15" fill="#dc3545"/>
-  <text x="275" y="347" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><path fill="#dc3545" d="M250 335h15v15h-15z"/><text x="275" y="347" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Årsoverskudd - Til eierne
-  </text>
-  
-
-  <polygon points="300,250 295,265 305,265" fill="#6c757d"/>
-  <text x="300" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><path fill="#6c757d" d="m300 250-5 15h10z"/><text x="300" y="280" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Disponering
-  </text>
-</svg>
+  </text></svg>

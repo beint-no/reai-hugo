@@ -1,247 +1,63 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="warningGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="challengeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#495057">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Utfordringer ved Egeninkasso
-  </text>
-  
-
-  <g transform="translate(350, 60)">
-    <polygon points="50,20 20,80 80,80" fill="#dc3545" stroke="#c82333" stroke-width="3"/>
-    <text x="50" y="70" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path fill="#dc3545" stroke="#c82333" stroke-width="3" d="m400 80-30 60h60z"/><text x="50" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" transform="translate(350 60)">
       !
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 150)">
-    <rect x="0" y="0" width="320" height="400" fill="white" stroke="#dc3545" stroke-width="2" rx="10"/>
-    <rect x="0" y="0" width="320" height="50" fill="url(#warningGradient)" rx="10"/>
-    <rect x="0" y="25" width="320" height="25" fill="url(#warningGradient)"/>
-    
-    <text x="160" y="32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    </text><g transform="translate(50 150)"><rect width="320" height="400" fill="#fff" stroke="#dc3545" stroke-width="2" rx="10"/><rect width="320" height="50" fill="url(#b)" rx="10"/><path fill="url(#b)" d="M0 25h320v25H0z"/><text x="160" y="32" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Juridiske Risikofaktorer
-    </text>
-    
-
-    <g transform="translate(20, 80)">
-      <rect x="0" y="0" width="280" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
-      
-
-      <g transform="translate(10, 15)">
-        <rect x="0" y="20" width="25" height="8" fill="#495057" rx="2"/>
-        <rect x="10" y="0" width="5" height="30" fill="#6c757d"/>
-        <circle cx="12.5" cy="5" r="3" fill="#495057"/>
-      </g>
-      
-      <text x="50" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+    </text><g transform="translate(20 80)"><rect width="280" height="60" fill="#f8d7da" stroke="#dc3545" rx="5"/><g transform="translate(10 15)"><rect width="25" height="8" y="20" fill="#495057" rx="2"/><path fill="#6c757d" d="M10 0h5v30h-5z"/><circle cx="12.5" cy="5" r="3" fill="#495057"/></g><text x="50" y="20" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Brudd på inkassoloven
-      </text>
-      <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="35" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Kan føre til bøter og erstatningsansvar
-      </text>
-      <text x="50" y="48" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="48" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Krever grundig kunnskap om lovverket
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 160)">
-      <rect x="0" y="0" width="280" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
-      
-
-      <g transform="translate(10, 15)">
-        <ellipse cx="15" cy="15" rx="12" ry="10" fill="#dc3545"/>
-        <polygon points="8,20 3,28 12,25" fill="#dc3545"/>
-        <text x="15" y="19" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+      </text></g><g transform="translate(20 160)"><rect width="280" height="60" fill="#f8d7da" stroke="#dc3545" rx="5"/><g transform="translate(10 15)"><ellipse cx="15" cy="15" fill="#dc3545" rx="12" ry="10"/><path fill="#dc3545" d="m8 20-5 8 9-3z"/><text x="15" y="19" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
           !
-        </text>
-      </g>
-      
-      <text x="50" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+        </text></g><text x="50" y="20" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Ulovlige trusler
-      </text>
-      <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="35" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Kan resultere i straffereaksjoner
-      </text>
-      <text x="50" y="48" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="48" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Må unngå truende eller krenkende språk
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 240)">
-      <rect x="0" y="0" width="280" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
-      
-
-      <g transform="translate(10, 15)">
-        <rect x="0" y="0" width="25" height="30" fill="#495057" rx="3"/>
-        <rect x="3" y="3" width="19" height="8" fill="#dc3545"/>
-        <line x1="8" y1="18" x2="17" y2="25" stroke="#dc3545" stroke-width="2"/>
-        <line x1="17" y1="18" x2="8" y2="25" stroke="#dc3545" stroke-width="2"/>
-      </g>
-      
-      <text x="50" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+      </text></g><g transform="translate(20 240)"><rect width="280" height="60" fill="#f8d7da" stroke="#dc3545" rx="5"/><g transform="translate(10 15)"><rect width="25" height="30" fill="#495057" rx="3"/><path fill="#dc3545" d="M3 3h19v8H3z"/><path stroke="#dc3545" stroke-width="2" d="m8 18 9 7M17 18l-9 7"/></g><text x="50" y="20" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Feil beregninger
-      </text>
-      <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="35" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Kan undergrave hele inkassokravet
-      </text>
-      <text x="50" y="48" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="48" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Krever nøyaktig beregning av renter og gebyrer
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 320)">
-      <rect x="0" y="0" width="280" height="60" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
-      
-
-      <g transform="translate(10, 15)">
-        <rect x="0" y="0" width="20" height="25" fill="#f8f9fa" stroke="#dc3545" stroke-width="2" stroke-dasharray="3,3" rx="2"/>
-        <text x="10" y="17" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#dc3545">
+      </text></g><g transform="translate(20 320)"><rect width="280" height="60" fill="#f8d7da" stroke="#dc3545" rx="5"/><g transform="translate(10 15)"><rect width="20" height="25" fill="#f8f9fa" stroke="#dc3545" stroke-dasharray="3,3" stroke-width="2" rx="2"/><text x="10" y="17" fill="#dc3545" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
           ?
-        </text>
-      </g>
-      
-      <text x="50" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#721c24">
+        </text></g><text x="50" y="20" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Manglende dokumentasjon
-      </text>
-      <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="35" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Svekker saken ved rettslig behandling
-      </text>
-      <text x="50" y="48" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="48" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         All kommunikasjon må arkiveres systematisk
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(430, 150)">
-    <rect x="0" y="0" width="320" height="400" fill="white" stroke="#ffc107" stroke-width="2" rx="10"/>
-    <rect x="0" y="0" width="320" height="50" fill="url(#challengeGradient)" rx="10"/>
-    <rect x="0" y="25" width="320" height="25" fill="url(#challengeGradient)"/>
-    
-    <text x="160" y="32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
+      </text></g></g><g transform="translate(430 150)"><rect width="320" height="400" fill="#fff" stroke="#ffc107" stroke-width="2" rx="10"/><rect width="320" height="50" fill="url(#c)" rx="10"/><path fill="url(#c)" d="M0 25h320v25H0z"/><text x="160" y="32" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Operasjonelle Utfordringer
-    </text>
-    
-
-    <g transform="translate(20, 80)">
-      <rect x="0" y="0" width="280" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
-      
-
-      <g transform="translate(10, 15)">
-        <circle cx="15" cy="15" r="12" fill="white" stroke="#ffc107" stroke-width="2"/>
-        <line x1="15" y1="15" x2="15" y2="8" stroke="#495057" stroke-width="2"/>
-        <line x1="15" y1="15" x2="20" y2="15" stroke="#495057" stroke-width="2"/>
-      </g>
-      
-      <text x="50" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+    </text><g transform="translate(20 80)"><rect width="280" height="60" fill="#fff3cd" stroke="#ffc107" rx="5"/><g stroke-width="2" transform="translate(10 15)"><circle cx="15" cy="15" r="12" fill="#fff" stroke="#ffc107"/><path stroke="#495057" d="M15 15V8M15 15h5"/></g><text x="50" y="20" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Betydelig tidsbruk
-      </text>
-      <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="35" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Krever dedikerte interne ressurser
-      </text>
-      <text x="50" y="48" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="48" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Kan påvirke andre forretningsaktiviteter
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 160)">
-      <rect x="0" y="0" width="280" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
-      
-
-      <g transform="translate(10, 15)">
-        <ellipse cx="15" cy="15" rx="12" ry="10" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
-        <circle cx="10" cy="12" r="2" fill="white"/>
-        <circle cx="20" cy="12" r="2" fill="white"/>
-        <path d="M 8 18 Q 15 22 22 18" stroke="white" stroke-width="2" fill="none"/>
-      </g>
-      
-      <text x="50" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+      </text></g><g transform="translate(20 160)"><rect width="280" height="60" fill="#fff3cd" stroke="#ffc107" rx="5"/><g transform="translate(10 15)"><ellipse cx="15" cy="15" fill="#ffc107" stroke="#e0a800" stroke-width="2" rx="12" ry="10"/><circle cx="10" cy="12" r="2" fill="#fff"/><circle cx="20" cy="12" r="2" fill="#fff"/><path fill="none" stroke="#fff" stroke-width="2" d="M8 18q7 4 14 0"/></g><text x="50" y="20" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Kompetansekrav
-      </text>
-      <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="35" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Krever juridisk og administrativ kunnskap
-      </text>
-      <text x="50" y="48" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="48" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Må investere i opplæring eller ekspertise
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 240)">
-      <rect x="0" y="0" width="280" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
-      
-
-      <g transform="translate(10, 15)">
-        <circle cx="8" cy="15" r="6" fill="#17a2b8" stroke="#138496" stroke-width="1"/>
-        <circle cx="22" cy="15" r="6" fill="#17a2b8" stroke="#138496" stroke-width="1"/>
-        <line x1="14" y1="15" x2="16" y2="15" stroke="#dc3545" stroke-width="3"/>
-        <line x1="14" y1="13" x2="16" y2="17" stroke="#dc3545" stroke-width="2"/>
-        <line x1="14" y1="17" x2="16" y2="13" stroke="#dc3545" stroke-width="2"/>
-      </g>
-      
-      <text x="50" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+      </text></g><g transform="translate(20 240)"><rect width="280" height="60" fill="#fff3cd" stroke="#ffc107" rx="5"/><g transform="translate(10 15)"><circle cx="8" cy="15" r="6" fill="#17a2b8" stroke="#138496"/><circle cx="22" cy="15" r="6" fill="#17a2b8" stroke="#138496"/><path stroke="#dc3545" stroke-width="3" d="M14 15h2"/><path stroke="#dc3545" stroke-width="2" d="m14 13 2 4M14 17l2-4"/></g><text x="50" y="20" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Påvirkning på kundeforhold
-      </text>
-      <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="35" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Kan skade langsiktige kundeforhold
-      </text>
-      <text x="50" y="48" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="48" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Krever balanse mellom fasthet og diplomati
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 320)">
-      <rect x="0" y="0" width="280" height="60" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
-      
-
-      <g transform="translate(10, 15)">
-        <rect x="0" y="20" width="25" height="10" fill="white" stroke="#ffc107" stroke-width="1"/>
-        <line x1="3" y1="27" x2="8" y2="23" stroke="#dc3545" stroke-width="2"/>
-        <line x1="8" y1="23" x2="13" y2="25" stroke="#dc3545" stroke-width="2"/>
-        <line x1="13" y1="25" x2="18" y2="27" stroke="#dc3545" stroke-width="2"/>
-        <line x1="18" y1="27" x2="22" y2="29" stroke="#dc3545" stroke-width="2"/>
-      </g>
-      
-      <text x="50" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+      </text></g><g transform="translate(20 320)"><rect width="280" height="60" fill="#fff3cd" stroke="#ffc107" rx="5"/><path fill="#fff" stroke="#ffc107" d="M10 35h25v10H10z"/><path stroke="#dc3545" stroke-width="2" d="m13 42 5-4M18 38l5 2M23 40l5 2M28 42l4 2"/><text x="50" y="20" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Variabel suksessrate
-      </text>
-      <text x="50" y="35" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="35" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Ofte lavere enn profesjonell inkasso
-      </text>
-      <text x="50" y="48" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="50" y="48" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         Avhenger av intern kompetanse og erfaring
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(100, 570)">
-    <rect x="0" y="0" width="600" height="25" fill="#d1ecf1" stroke="#17a2b8" stroke-width="1" rx="5"/>
-    <text x="300" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0c5460">
+      </text></g></g><g transform="translate(100 570)"><rect width="600" height="25" fill="#d1ecf1" stroke="#17a2b8" rx="5"/><text x="300" y="17" fill="#0c5460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       💡 Vurder profesjonell inkasso når egeninkasso ikke gir ønsket resultat
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

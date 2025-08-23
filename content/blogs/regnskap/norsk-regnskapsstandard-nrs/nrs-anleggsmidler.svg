@@ -1,186 +1,93 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="processGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f4fd;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d1e7dd;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="50" fill="url(#processGrad)"/>
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f4fd;stop-opacity:1"/><stop offset="100%" style="stop-color:#d1e7dd;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="url(#a)" d="M0 0h800v50H0z"/><text x="400" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     NRS 2: Anleggsmidler - Livssyklus
-  </text>
-  
-
-  
-
-  <rect x="50" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="120" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+  </text><rect width="140" height="120" x="50" y="80" fill="url(#b)" stroke="#06c" stroke-width="2" rx="8"/><text x="120" y="105" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     1. Anskaffelse
-  </text>
-  <text x="120" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="120" y="125" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Anskaffelseskost:
-  </text>
-  <text x="120" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="120" y="140" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Kjøpspris
-  </text>
-  <text x="120" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="120" y="152" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Installasjon
-  </text>
-  <text x="120" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="120" y="164" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Direkte kostnader
-  </text>
-  <text x="120" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0066cc">
+  </text><text x="120" y="185" fill="#06c" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Balanseføres
-  </text>
-  
-
-  <rect x="220" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="290" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+  </text><rect width="140" height="120" x="220" y="80" fill="url(#b)" stroke="#06c" stroke-width="2" rx="8"/><text x="290" y="105" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     2. Bruk &amp;
-  </text>
-  <text x="290" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+  </text><text x="290" y="120" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Avskrivning
-  </text>
-  <text x="290" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="290" y="140" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Systematisk avskrivning
-  </text>
-  <text x="290" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="290" y="152" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Over brukstid
-  </text>
-  <text x="290" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="290" y="164" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Lineær/degressiv
-  </text>
-  <text x="290" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0066cc">
+  </text><text x="290" y="185" fill="#06c" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Kostnadsføres
-  </text>
-  
-
-  <rect x="390" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="460" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+  </text><rect width="140" height="120" x="390" y="80" fill="url(#b)" stroke="#06c" stroke-width="2" rx="8"/><text x="460" y="105" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     3. Nedskrivning
-  </text>
-  <text x="460" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="460" y="125" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Ved verdifall:
-  </text>
-  <text x="460" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="460" y="140" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Test for verdifall
-  </text>
-  <text x="460" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="460" y="152" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Gjenvinnbart beløp
-  </text>
-  <text x="460" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="460" y="164" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Nedskrivning
-  </text>
-  <text x="460" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0066cc">
+  </text><text x="460" y="185" fill="#06c" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Kostnadsføres
-  </text>
-  
-
-  <rect x="560" y="80" width="140" height="120" fill="url(#boxGrad)" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="630" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+  </text><rect width="140" height="120" x="560" y="80" fill="url(#b)" stroke="#06c" stroke-width="2" rx="8"/><text x="630" y="105" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     4. Avhending
-  </text>
-  <text x="630" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="630" y="125" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Ved salg/utrangering:
-  </text>
-  <text x="630" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="630" y="140" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Salgssum
-  </text>
-  <text x="630" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="630" y="152" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Bokført verdi
-  </text>
-  <text x="630" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="630" y="164" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Gevinst/tap
-  </text>
-  <text x="630" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0066cc">
+  </text><text x="630" y="185" fill="#06c" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Resultatføres
-  </text>
-  
-
-  <polygon points="190,140 210,135 210,145" fill="#0066cc"/>
-  <polygon points="360,140 380,135 380,145" fill="#0066cc"/>
-  <polygon points="530,140 550,135 550,145" fill="#0066cc"/>
-  
-
-  <rect x="100" y="250" width="600" height="200" fill="white" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0066cc">
+  </text><path fill="#06c" d="m190 140 20-5v10zM360 140l20-5v10zM530 140l20-5v10z"/><rect width="600" height="200" x="100" y="250" fill="#fff" stroke="#06c" stroke-width="2" rx="8"/><text x="400" y="275" fill="#06c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Praktisk Eksempel: Maskin
-  </text>
-  
-
-  <text x="120" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="120" y="300" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Anskaffelse (År 1):
-  </text>
-  <text x="120" y="320" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="120" y="320" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Kjøpspris: 500 000 kr
-  </text>
-  <text x="120" y="335" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="120" y="335" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Installasjon: 50 000 kr
-  </text>
-  <text x="120" y="350" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">
+  </text><text x="120" y="350" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Anskaffelseskost: 550 000 kr
-  </text>
-  <text x="120" y="370" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="120" y="370" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Brukstid: 10 år
-  </text>
-  <text x="120" y="385" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="120" y="385" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Restverdi: 50 000 kr
-  </text>
-  
-
-  <text x="320" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="320" y="300" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Årlig Avskrivning:
-  </text>
-  <text x="320" y="320" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="320" y="320" fill="#666" font-family="Arial, sans-serif" font-size="12">
     (550 000 - 50 000) / 10
-  </text>
-  <text x="320" y="335" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">
+  </text><text x="320" y="335" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     = 50 000 kr/år
-  </text>
-  
-  <text x="320" y="360" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="320" y="360" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Bokført verdi (År 5):
-  </text>
-  <text x="320" y="375" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="320" y="375" fill="#666" font-family="Arial, sans-serif" font-size="12">
     550 000 - (5 × 50 000)
-  </text>
-  <text x="320" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">
+  </text><text x="320" y="390" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     = 300 000 kr
-  </text>
-  
-
-  <text x="520" y="300" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="520" y="300" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Salg (År 6):
-  </text>
-  <text x="520" y="320" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="520" y="320" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Salgssum: 320 000 kr
-  </text>
-  <text x="520" y="335" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="520" y="335" fill="#666" font-family="Arial, sans-serif" font-size="12">
     Bokført verdi: 250 000 kr
-  </text>
-  <text x="520" y="350" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0066cc">
+  </text><text x="520" y="350" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Gevinst: 70 000 kr
-  </text>
-  
-  <text x="520" y="375" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="520" y="375" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Regnskapsføring:
-  </text>
-  <text x="520" y="390" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="520" y="390" fill="#666" font-family="Arial, sans-serif" font-size="10">
     Dr. Bank 320 000
-  </text>
-  <text x="520" y="405" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="520" y="405" fill="#666" font-family="Arial, sans-serif" font-size="10">
     Cr. Maskin 250 000
-  </text>
-  <text x="520" y="420" font-family="Arial, sans-serif" font-size="10" fill="#666">
+  </text><text x="520" y="420" fill="#666" font-family="Arial, sans-serif" font-size="10">
     Cr. Gevinst 70 000
-  </text>
-</svg>
+  </text></svg>

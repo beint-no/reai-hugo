@@ -1,210 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="phoneGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e40af;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="35" fill="#1e40af" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Digitale Løsninger for Utleggshåndtering
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-
-    <rect x="0" y="0" width="120" height="200" rx="15" fill="url(#phoneGradient)" stroke="#1e40af" stroke-width="2"/>
-    <rect x="10" y="15" width="100" height="170" rx="8" fill="#f8fafc"/>
-    
-
-    <rect x="15" y="20" width="90" height="25" rx="3" fill="#3b82f6"/>
-    <text x="60" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><g transform="translate(50 70)"><rect width="120" height="200" fill="url(#b)" stroke="#1e40af" stroke-width="2" rx="15"/><rect width="100" height="170" x="10" y="15" fill="#f8fafc" rx="8"/><rect width="90" height="25" x="15" y="20" fill="#3b82f6" rx="3"/><text x="60" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       Utlegg App
-    </text>
-    
-
-    <rect x="25" y="55" width="30" height="20" rx="3" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1"/>
-    <circle cx="40" cy="65" r="5" fill="#64748b"/>
-    <text x="60" y="58" font-family="Arial, sans-serif" font-size="8" fill="#374151">Fotografer</text>
-    <text x="60" y="68" font-family="Arial, sans-serif" font-size="8" fill="#374151">kvittering</text>
-    
-
-    <rect x="20" y="85" width="80" height="8" rx="2" fill="#e2e8f0"/>
-    <text x="22" y="80" font-family="Arial, sans-serif" font-size="7" fill="#6b7280">Beløp</text>
-    
-    <rect x="20" y="105" width="80" height="8" rx="2" fill="#e2e8f0"/>
-    <text x="22" y="100" font-family="Arial, sans-serif" font-size="7" fill="#6b7280">Kategori</text>
-    
-    <rect x="20" y="125" width="80" height="15" rx="2" fill="#e2e8f0"/>
-    <text x="22" y="120" font-family="Arial, sans-serif" font-size="7" fill="#6b7280">Beskrivelse</text>
-    
-
-    <rect x="25" y="150" width="70" height="15" rx="3" fill="#10b981"/>
-    <text x="60" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="white">
+    </text><rect width="30" height="20" x="25" y="55" fill="#e2e8f0" stroke="#cbd5e1" rx="3"/><circle cx="40" cy="65" r="5" fill="#64748b"/><text x="60" y="58" fill="#374151" font-family="Arial, sans-serif" font-size="8">Fotografer</text><text x="60" y="68" fill="#374151" font-family="Arial, sans-serif" font-size="8">kvittering</text><rect width="80" height="8" x="20" y="85" fill="#e2e8f0" rx="2"/><text x="22" y="80" fill="#6b7280" font-family="Arial, sans-serif" font-size="7">Beløp</text><rect width="80" height="8" x="20" y="105" fill="#e2e8f0" rx="2"/><text x="22" y="100" fill="#6b7280" font-family="Arial, sans-serif" font-size="7">Kategori</text><rect width="80" height="15" x="20" y="125" fill="#e2e8f0" rx="2"/><text x="22" y="120" fill="#6b7280" font-family="Arial, sans-serif" font-size="7">Beskrivelse</text><rect width="70" height="15" x="25" y="150" fill="#10b981" rx="3"/><text x="60" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">
       Send inn
-    </text>
-    
-    <text x="60" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">
+    </text><text x="60" y="205" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Mobilapp
-    </text>
-  </g>
-  
-
-  <g transform="translate(200, 90)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151">
+    </text></g><g font-family="Arial, sans-serif"><text fill="#374151" font-size="16" font-weight="bold" transform="translate(200 90)">
       Hovedfunksjoner:
-    </text>
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">
+    </text><text y="20" fill="#4b5563" font-size="12" transform="translate(200 90)">
       • Fotografering og scanning av kvitteringer
-    </text>
-    <text x="0" y="37" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">
+    </text><text y="37" fill="#4b5563" font-size="12" transform="translate(200 90)">
       • OCR-teknologi for automatisk datauttak
-    </text>
-    <text x="0" y="54" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">
+    </text><text y="54" fill="#4b5563" font-size="12" transform="translate(200 90)">
       • GPS-basert lokasjonssporing
-    </text>
-    <text x="0" y="71" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">
+    </text><text y="71" fill="#4b5563" font-size="12" transform="translate(200 90)">
       • Offline-modus for registrering
-    </text>
-    <text x="0" y="88" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">
+    </text><text y="88" fill="#4b5563" font-size="12" transform="translate(200 90)">
       • Automatisk kategorisering med AI
-    </text>
-    <text x="0" y="105" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">
+    </text><text y="105" fill="#4b5563" font-size="12" transform="translate(200 90)">
       • Real-time synkronisering med ERP
-    </text>
-    <text x="0" y="122" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">
+    </text><text y="122" fill="#4b5563" font-size="12" transform="translate(200 90)">
       • Push-varsler for frister og godkjenninger
-    </text>
-    <text x="0" y="139" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">
+    </text><text y="139" fill="#4b5563" font-size="12" transform="translate(200 90)">
       • Støtte for multiple valutaer
-    </text>
-    <text x="0" y="156" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">
+    </text><text y="156" fill="#4b5563" font-size="12" transform="translate(200 90)">
       • Offline backup og automatisk synkronisering
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="320" height="180" rx="12" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
-    <text x="160" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
+    </text></g><g transform="translate(50 320)"><rect width="320" height="180" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="12"/><text x="160" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Automatisert Godkjenningsworkflow
-    </text>
-    
-
-    <g transform="translate(20, 40)">
-
-      <circle cx="30" cy="20" r="12" fill="#10b981"/>
-      <text x="30" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">1</text>
-      <text x="50" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Ansatt sender inn</text>
-      <text x="50" y="28" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Automatisk validering mot policy</text>
-      
-
-      <path d="M 50 35 L 50 45" stroke="#cbd5e1" stroke-width="2"/>
-      
-
-      <circle cx="30" cy="60" r="12" fill="#f59e0b"/>
-      <text x="30" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">2</text>
-      <text x="50" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Automatisk ruting</text>
-      <text x="50" y="68" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Sendes til riktig godkjenner basert på beløp/type</text>
-      
-
-      <path d="M 50 75 L 50 85" stroke="#cbd5e1" stroke-width="2"/>
-      
-
-      <circle cx="30" cy="100" r="12" fill="#8b5cf6"/>
-      <text x="30" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">3</text>
-      <text x="50" y="95" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Godkjenning &amp; bokføring</text>
-      <text x="50" y="108" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Automatisk overføring til regnskapssystem</text>
-      
-
-      <path d="M 50 115 L 50 125" stroke="#cbd5e1" stroke-width="2"/>
-      
-
-      <circle cx="30" cy="140" r="12" fill="#06b6d4"/>
-      <text x="30" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">4</text>
-      <text x="50" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#374151">Automatisk utbetaling</text>
-      <text x="50" y="148" font-family="Arial, sans-serif" font-size="9" fill="#6b7280">Refusjon til ansatt via lønn eller bankoverføring</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 320)">
-    <rect x="0" y="0" width="340" height="180" rx="12" fill="#ecfccb" stroke="#84cc16" stroke-width="2"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#365314">
+    </text><g transform="translate(20 40)"><circle cx="30" cy="20" r="12" fill="#10b981"/><text x="30" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">1</text><text x="50" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Ansatt sender inn</text><text x="50" y="28" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">Automatisk validering mot policy</text><path stroke="#cbd5e1" stroke-width="2" d="M50 35v10"/><circle cx="30" cy="60" r="12" fill="#f59e0b"/><text x="30" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">2</text><text x="50" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Automatisk ruting</text><text x="50" y="68" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">Sendes til riktig godkjenner basert på beløp/type</text><path stroke="#cbd5e1" stroke-width="2" d="M50 75v10"/><circle cx="30" cy="100" r="12" fill="#8b5cf6"/><text x="30" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">3</text><text x="50" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Godkjenning &amp; bokføring</text><text x="50" y="108" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">Automatisk overføring til regnskapssystem</text><path stroke="#cbd5e1" stroke-width="2" d="M50 115v10"/><circle cx="30" cy="140" r="12" fill="#06b6d4"/><text x="30" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">4</text><text x="50" y="135" fill="#374151" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Automatisk utbetaling</text><text x="50" y="148" fill="#6b7280" font-family="Arial, sans-serif" font-size="9">Refusjon til ansatt via lønn eller bankoverføring</text></g></g><g transform="translate(410 320)"><rect width="340" height="180" fill="#ecfccb" stroke="#84cc16" stroke-width="2" rx="12"/><text x="170" y="25" fill="#365314" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Integrasjonsfordeler
-    </text>
-    
-
-    <g transform="translate(20, 40)">
-
-      <rect x="0" y="0" width="130" height="60" rx="6" fill="#f0fdf4" stroke="#22c55e" stroke-width="1"/>
-      <text x="65" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#16a34a">
+    </text><g transform="translate(20 40)"><rect width="130" height="60" fill="#f0fdf4" stroke="#22c55e" rx="6"/><text x="65" y="15" fill="#16a34a" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         ERP-system
-      </text>
-      <text x="8" y="30" font-family="Arial, sans-serif" font-size="9" fill="#15803d">• Automatisk bokføring</text>
-      <text x="8" y="42" font-family="Arial, sans-serif" font-size="9" fill="#15803d">• Real-time oppdatering</text>
-      <text x="8" y="54" font-family="Arial, sans-serif" font-size="9" fill="#15803d">• Kontoplanintegrasjon</text>
-      
-
-      <rect x="150" y="0" width="130" height="60" rx="6" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
-      <text x="215" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d97706">
+      </text><text x="8" y="30" fill="#15803d" font-family="Arial, sans-serif" font-size="9">• Automatisk bokføring</text><text x="8" y="42" fill="#15803d" font-family="Arial, sans-serif" font-size="9">• Real-time oppdatering</text><text x="8" y="54" fill="#15803d" font-family="Arial, sans-serif" font-size="9">• Kontoplanintegrasjon</text><rect width="130" height="60" x="150" fill="#fef3c7" stroke="#f59e0b" rx="6"/><text x="215" y="15" fill="#d97706" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         HR-system
-      </text>
-      <text x="158" y="30" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Ansattdata</text>
-      <text x="158" y="42" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Lønnsintegrasjon</text>
-      <text x="158" y="54" font-family="Arial, sans-serif" font-size="9" fill="#b45309">• Organisasjonsstruktur</text>
-      
-
-      <rect x="0" y="75" width="130" height="60" rx="6" fill="#e0e7ff" stroke="#6366f1" stroke-width="1"/>
-      <text x="65" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4f46e5">
+      </text><text x="158" y="30" fill="#b45309" font-family="Arial, sans-serif" font-size="9">• Ansattdata</text><text x="158" y="42" fill="#b45309" font-family="Arial, sans-serif" font-size="9">• Lønnsintegrasjon</text><text x="158" y="54" fill="#b45309" font-family="Arial, sans-serif" font-size="9">• Organisasjonsstruktur</text><rect width="130" height="60" y="75" fill="#e0e7ff" stroke="#6366f1" rx="6"/><text x="65" y="90" fill="#4f46e5" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Bank API
-      </text>
-      <text x="8" y="105" font-family="Arial, sans-serif" font-size="9" fill="#4338ca">• Automatisk utbetaling</text>
-      <text x="8" y="117" font-family="Arial, sans-serif" font-size="9" fill="#4338ca">• Bankrekonsilierung</text>
-      <text x="8" y="129" font-family="Arial, sans-serif" font-size="9" fill="#4338ca">• Valutakurser</text>
-      
-
-      <rect x="150" y="75" width="130" height="60" rx="6" fill="#fce7f3" stroke="#ec4899" stroke-width="1"/>
-      <text x="215" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#db2777">
+      </text><text x="8" y="105" fill="#4338ca" font-family="Arial, sans-serif" font-size="9">• Automatisk utbetaling</text><text x="8" y="117" fill="#4338ca" font-family="Arial, sans-serif" font-size="9">• Bankrekonsilierung</text><text x="8" y="129" fill="#4338ca" font-family="Arial, sans-serif" font-size="9">• Valutakurser</text><rect width="130" height="60" x="150" y="75" fill="#fce7f3" stroke="#ec4899" rx="6"/><text x="215" y="90" fill="#db2777" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Analytics &amp; BI
-      </text>
-      <text x="158" y="105" font-family="Arial, sans-serif" font-size="9" fill="#be185d">• Kostnadsoversikt</text>
-      <text x="158" y="117" font-family="Arial, sans-serif" font-size="9" fill="#be185d">• Trendanalyse</text>
-      <text x="158" y="129" font-family="Arial, sans-serif" font-size="9" fill="#be185d">• KPI-dashboard</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 520)">
-    <rect x="0" y="0" width="700" height="60" rx="8" fill="#1e40af" opacity="0.1"/>
-    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+      </text><text x="158" y="105" fill="#be185d" font-family="Arial, sans-serif" font-size="9">• Kostnadsoversikt</text><text x="158" y="117" fill="#be185d" font-family="Arial, sans-serif" font-size="9">• Trendanalyse</text><text x="158" y="129" fill="#be185d" font-family="Arial, sans-serif" font-size="9">• KPI-dashboard</text></g></g><g transform="translate(50 520)"><rect width="700" height="60" fill="#1e40af" opacity=".1" rx="8"/><text x="350" y="20" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Gevinster ved Digital Utleggshåndtering
-    </text>
-    <text x="50" y="38" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="50" y="38" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Reduserte administrative kostnader (60-80%)
-    </text>
-    <text x="300" y="38" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="300" y="38" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Raskere behandlingstid (dager → timer)
-    </text>
-    <text x="550" y="38" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="550" y="38" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Bedre compliance og kontroll
-    </text>
-    <text x="50" y="53" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="50" y="53" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Økt ansatttilfredshet og produktivitet
-    </text>
-    <text x="300" y="53" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="300" y="53" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Real-time oversikt og rapportering
-    </text>
-    <text x="550" y="53" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="550" y="53" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Miljøvennlig (papirfri prosess)
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

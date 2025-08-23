@@ -1,153 +1,61 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#8e24aa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7b1fa2;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.2"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#8e24aa;stop-opacity:1"/><stop offset="100%" style="stop-color:#7b1fa2;stop-opacity:1"/></linearGradient><filter id="b" width="140%" height="140%" x="-20%" y="-20%"><feDropShadow dx="2" dy="2" flood-color="#000" flood-opacity=".2" stdDeviation="2"/></filter></defs><path fill="#f8f9fa" stroke="#dee2e6" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Skatteregler per Næring
-  </text>
-  
-
-  <rect x="250" y="90" width="300" height="100" fill="#e8eaf6" stroke="#3f51b5" stroke-width="3" rx="10" filter="url(#shadow)"/>
-  <text x="400" y="120" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#3f51b5">
+  </text><rect width="300" height="100" x="250" y="90" fill="#e8eaf6" stroke="#3f51b5" stroke-width="3" filter="url(#b)" rx="10"/><text x="400" y="120" fill="#3f51b5" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Ordinær Næringsskatt
-  </text>
-  <text x="400" y="140" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#3f51b5">
+  </text><text x="400" y="140" fill="#3f51b5" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     22% for alle selskaper
-  </text>
-  <text x="400" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#303f9f">
+  </text><text x="400" y="160" fill="#303f9f" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Gjelder alle næringer som grunnlag
-  </text>
-  <text x="400" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#303f9f">
+  </text><text x="400" y="175" fill="#303f9f" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     + Fradrag for driftskostnader og avskrivninger
-  </text>
-  
-
-  <rect x="50" y="220" width="320" height="320" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="8" filter="url(#shadow)"/>
-  <text x="210" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#d32f2f">
+  </text><rect width="320" height="320" x="50" y="220" fill="#ffebee" stroke="#d32f2f" stroke-width="2" filter="url(#b)" rx="8"/><text x="210" y="250" fill="#d32f2f" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Særskatter - Tilleggsskatter
-  </text>
-  
-
-  <rect x="70" y="270" width="280" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="1" rx="5"/>
-  <text x="90" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">
+  </text><rect width="280" height="60" x="70" y="270" fill="#fff3e0" stroke="#f57c00" rx="5"/><text x="90" y="290" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Grunnrenteskatt
-  </text>
-  <text x="90" y="305" font-family="Arial, sans-serif" font-size="11" fill="#ef6c00">
+  </text><text x="90" y="305" fill="#ef6c00" font-family="Arial, sans-serif" font-size="11">
     • Kraft- og petroleumssektoren
-  </text>
-  <text x="90" y="318" font-family="Arial, sans-serif" font-size="11" fill="#ef6c00">
+  </text><text x="90" y="318" fill="#ef6c00" font-family="Arial, sans-serif" font-size="11">
     • Ekstra skatt på særlig høy avkastning
-  </text>
-  
-
-  <rect x="70" y="340" width="280" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
-  <text x="90" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+  </text><rect width="280" height="60" x="70" y="340" fill="#e3f2fd" stroke="#1976d2" rx="5"/><text x="90" y="360" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Finansskatt
-  </text>
-  <text x="90" y="375" font-family="Arial, sans-serif" font-size="11" fill="#1565c0">
+  </text><text x="90" y="375" fill="#1565c0" font-family="Arial, sans-serif" font-size="11">
     • Finansinstitusjoner (banker, forsikring)
-  </text>
-  <text x="90" y="388" font-family="Arial, sans-serif" font-size="11" fill="#1565c0">
+  </text><text x="90" y="388" fill="#1565c0" font-family="Arial, sans-serif" font-size="11">
     • Skatt på lønn over visse grenser
-  </text>
-  
-
-  <rect x="70" y="410" width="280" height="60" fill="#e8f5e8" stroke="#388e3c" stroke-width="1" rx="5"/>
-  <text x="90" y="430" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#388e3c">
+  </text><rect width="280" height="60" x="70" y="410" fill="#e8f5e8" stroke="#388e3c" rx="5"/><text x="90" y="430" fill="#388e3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Miljøavgifter
-  </text>
-  <text x="90" y="445" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="90" y="445" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • Industri med miljøpåvirkning
-  </text>
-  <text x="90" y="458" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="90" y="458" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • CO2-avgift, NOx-avgift, etc.
-  </text>
-  
-
-  <rect x="70" y="480" width="280" height="50" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="5"/>
-  <text x="90" y="500" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9c27b0">
+  </text><rect width="280" height="50" x="70" y="480" fill="#f3e5f5" stroke="#9c27b0" rx="5"/><text x="90" y="500" fill="#9c27b0" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Tonnasjeskatteordningen
-  </text>
-  <text x="90" y="515" font-family="Arial, sans-serif" font-size="11" fill="#7b1fa2">
+  </text><text x="90" y="515" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11">
     • Sjøfart - alternativ til ordinær skatt
-  </text>
-  
-
-  <rect x="430" y="220" width="320" height="320" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8" filter="url(#shadow)"/>
-  <text x="590" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#388e3c">
+  </text><rect width="320" height="320" x="430" y="220" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" filter="url(#b)" rx="8"/><text x="590" y="250" fill="#388e3c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Spesielle Skattefradrag
-  </text>
-  
-
-  <rect x="450" y="270" width="280" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="1" rx="5"/>
-  <text x="470" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">
+  </text><rect width="280" height="60" x="450" y="270" fill="#fff3e0" stroke="#f57c00" rx="5"/><text x="470" y="290" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Jordbruksfradrag
-  </text>
-  <text x="470" y="305" font-family="Arial, sans-serif" font-size="11" fill="#ef6c00">
+  </text><text x="470" y="305" fill="#ef6c00" font-family="Arial, sans-serif" font-size="11">
     • Primærnæringer (jordbruk, skogbruk, fiske)
-  </text>
-  <text x="470" y="318" font-family="Arial, sans-serif" font-size="11" fill="#ef6c00">
+  </text><text x="470" y="318" fill="#ef6c00" font-family="Arial, sans-serif" font-size="11">
     • Reduserer skattbar inntekt betydelig
-  </text>
-  
-
-  <rect x="450" y="340" width="280" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
-  <text x="470" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+  </text><rect width="280" height="60" x="450" y="340" fill="#e3f2fd" stroke="#1976d2" rx="5"/><text x="470" y="360" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     SkatteFUNN-ordningen
-  </text>
-  <text x="470" y="375" font-family="Arial, sans-serif" font-size="11" fill="#1565c0">
+  </text><text x="470" y="375" fill="#1565c0" font-family="Arial, sans-serif" font-size="11">
     • Forskning og utvikling
-  </text>
-  <text x="470" y="388" font-family="Arial, sans-serif" font-size="11" fill="#1565c0">
+  </text><text x="470" y="388" fill="#1565c0" font-family="Arial, sans-serif" font-size="11">
     • Skattefradrag for FoU-kostnader
-  </text>
-  
-
-  <rect x="450" y="410" width="280" height="60" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="5"/>
-  <text x="470" y="430" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#9c27b0">
+  </text><rect width="280" height="60" x="450" y="410" fill="#f3e5f5" stroke="#9c27b0" rx="5"/><text x="470" y="430" fill="#9c27b0" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Investeringsincentiver
-  </text>
-  <text x="470" y="445" font-family="Arial, sans-serif" font-size="11" fill="#7b1fa2">
+  </text><text x="470" y="445" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11">
     • Spesielle avskrivningsregler
-  </text>
-  <text x="470" y="458" font-family="Arial, sans-serif" font-size="11" fill="#7b1fa2">
+  </text><text x="470" y="458" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="11">
     • Økt avskrivning første år
-  </text>
-  
-
-  <rect x="450" y="480" width="280" height="50" fill="#ffebee" stroke="#d32f2f" stroke-width="1" rx="5"/>
-  <text x="470" y="500" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">
+  </text><rect width="280" height="50" x="450" y="480" fill="#ffebee" stroke="#d32f2f" rx="5"/><text x="470" y="500" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Distriktsstøtte
-  </text>
-  <text x="470" y="515" font-family="Arial, sans-serif" font-size="11" fill="#c62828">
+  </text><text x="470" y="515" fill="#c62828" font-family="Arial, sans-serif" font-size="11">
     • Redusert arbeidsgiveravgift i visse områder
-  </text>
-  
-
-  <path d="M 250 140 L 200 200" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 550 140 L 600 200" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" font-style="italic" text-anchor="middle" fill="#666">
+  </text><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#c)" d="m250 140-50 60"/><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#c)" d="m550 140 50 60"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="580" fill="#666" font-family="Arial, sans-serif" font-size="12" font-style="italic" text-anchor="middle">
     Næringsspesifikasjon påvirker direkte hvilke skatteregler som gjelder for virksomheten
-  </text>
-</svg>
+  </text></svg>

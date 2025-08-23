@@ -1,297 +1,101 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="lawGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#fef2f2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fecaca;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="principleGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#f0f9ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#dbeafe;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="requirementGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#f0fdf4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#dcfce7;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#ffffff"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc2626;stop-opacity:1"/><stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fef2f2;stop-opacity:1"/><stop offset="100%" style="stop-color:#fecaca;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f0f9ff;stop-opacity:1"/><stop offset="100%" style="stop-color:#dbeafe;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f0fdf4;stop-opacity:1"/><stop offset="100%" style="stop-color:#dcfce7;stop-opacity:1"/></linearGradient></defs><path fill="#fff" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Norske Regnskapsregler for Imaterielle Eiendeler
-  </text>
-  
-
-  <g transform="translate(50, 100)">
-    
-
-    <g transform="translate(0, 0)">
-      <text x="350" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+  </text><text x="350" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" transform="translate(50 100)">
         Juridisk Rammeverk
-      </text>
-      
-
-      <g transform="translate(0, 40)">
-
-        <rect x="0" y="0" width="340" height="120" rx="10" fill="url(#lawGradient)" stroke="#dc2626" stroke-width="2"/>
-        
-        <text x="170" y="25" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      </text><g transform="translate(50 140)"><rect width="340" height="120" fill="url(#b)" stroke="#dc2626" stroke-width="2" rx="10"/><text x="170" y="25" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
           Regnskapsloven
-        </text>
-        
-        <g transform="translate(20, 40)">
-          <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+        </text><g fill="#374151" font-family="Arial, sans-serif" font-size="12"><text y="15" transform="translate(20 40)">
             <tspan font-weight="bold">§ 5-3:</tspan> Immaterielle eiendeler
-          </text>
-          <text x="0" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+          </text><text y="35" transform="translate(20 40)">
             <tspan font-weight="bold">§ 5-4:</tspan> Goodwill
-          </text>
-          <text x="0" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+          </text><text y="55" transform="translate(20 40)">
             <tspan font-weight="bold">§ 5-8:</tspan> Avskrivninger
-          </text>
-          <text x="0" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+          </text><text y="75" transform="translate(20 40)">
             <tspan font-weight="bold">§ 7-1:</tspan> Noteopplysninger
-          </text>
-        </g>
-        
-
-        <rect x="360" y="0" width="340" height="120" rx="10" fill="url(#principleGradient)" stroke="#3b82f6" stroke-width="2"/>
-        
-        <text x="530" y="25" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+          </text></g><rect width="340" height="120" x="360" fill="url(#c)" stroke="#3b82f6" stroke-width="2" rx="10"/><text x="530" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
           God Regnskapsskikk
-        </text>
-        
-        <g transform="translate(380, 40)">
-          <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+        </text><g fill="#374151" font-family="Arial, sans-serif" font-size="12"><text y="15" transform="translate(380 40)">
             • Norsk RegnskapsStiftelse (NRS)
-          </text>
-          <text x="0" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+          </text><text y="35" transform="translate(380 40)">
             • Regnskapsstandard for SMB
-          </text>
-          <text x="0" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+          </text><text y="55" transform="translate(380 40)">
             • Veiledninger og uttalelser
-          </text>
-          <text x="0" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="12">
+          </text><text y="75" transform="translate(380 40)">
             • Etablert praksis
-          </text>
-        </g>
-      </g>
-    </g>
-    
-
-    <g transform="translate(0, 180)">
-      <text x="350" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+          </text></g></g><text x="350" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" transform="translate(50 280)">
         Hovedprinsipper
-      </text>
-      
-
-      <g transform="translate(0, 40)">
-
-        <rect x="0" y="0" width="220" height="140" rx="10" fill="url(#requirementGradient)" stroke="#10b981" stroke-width="2"/>
-        
-        <text x="110" y="25" text-anchor="middle" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text><g transform="translate(50 320)"><rect width="220" height="140" fill="url(#d)" stroke="#10b981" stroke-width="2" rx="10"/><text x="110" y="25" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Forsiktighetsprinsippet
-        </text>
-        
-        <g transform="translate(15, 40)">
-          <circle cx="5" cy="5" r="3" fill="#059669"/>
-          <text x="15" y="10" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        </text><g transform="translate(15 40)"><circle cx="5" cy="5" r="3" fill="#059669"/><text x="15" y="10" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Konservativ verdsettelse
-          </text>
-          
-          <circle cx="5" cy="25" r="3" fill="#059669"/>
-          <text x="15" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="25" r="3" fill="#059669"/><text x="15" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Strenge innregningskriterier
-          </text>
-          
-          <circle cx="5" cy="45" r="3" fill="#059669"/>
-          <text x="15" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="45" r="3" fill="#059669"/><text x="15" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Rask nedskrivning ved tvil
-          </text>
-          
-          <circle cx="5" cy="65" r="3" fill="#059669"/>
-          <text x="15" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="65" r="3" fill="#059669"/><text x="15" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Begrensede oppskrivninger
-          </text>
-          
-          <circle cx="5" cy="85" r="3" fill="#059669"/>
-          <text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="85" r="3" fill="#059669"/><text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Dokumentasjonskrav
-          </text>
-        </g>
-        
-
-        <rect x="240" y="0" width="220" height="140" rx="10" fill="url(#principleGradient)" stroke="#3b82f6" stroke-width="2"/>
-        
-        <text x="350" y="25" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+          </text></g><rect width="220" height="140" x="240" fill="url(#c)" stroke="#3b82f6" stroke-width="2" rx="10"/><text x="350" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Sammenstillingsprinsippet
-        </text>
-        
-        <g transform="translate(255, 40)">
-          <circle cx="5" cy="5" r="3" fill="#1e40af"/>
-          <text x="15" y="10" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        </text><g transform="translate(255 40)"><circle cx="5" cy="5" r="3" fill="#1e40af"/><text x="15" y="10" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Kostnader matches mot inntekter
-          </text>
-          
-          <circle cx="5" cy="25" r="3" fill="#1e40af"/>
-          <text x="15" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="25" r="3" fill="#1e40af"/><text x="15" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Periodisering av amortisering
-          </text>
-          
-          <circle cx="5" cy="45" r="3" fill="#1e40af"/>
-          <text x="15" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="45" r="3" fill="#1e40af"/><text x="15" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Aktivering når fremtidige
-          </text>
-          <text x="15" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><text x="15" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             fordeler er sannsynlige
-          </text>
-          
-          <circle cx="5" cy="80" r="3" fill="#1e40af"/>
-          <text x="15" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="80" r="3" fill="#1e40af"/><text x="15" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Systematisk kostnadsfordeling
-          </text>
-        </g>
-        
-
-        <rect x="480" y="0" width="220" height="140" rx="10" fill="url(#lawGradient)" stroke="#dc2626" stroke-width="2"/>
-        
-        <text x="590" y="25" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+          </text></g><rect width="220" height="140" x="480" fill="url(#b)" stroke="#dc2626" stroke-width="2" rx="10"/><text x="590" y="25" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Konsistensprinsippet
-        </text>
-        
-        <g transform="translate(495, 40)">
-          <circle cx="5" cy="5" r="3" fill="#dc2626"/>
-          <text x="15" y="10" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        </text><g transform="translate(495 40)"><circle cx="5" cy="5" r="3" fill="#dc2626"/><text x="15" y="10" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Ensartet behandling over tid
-          </text>
-          
-          <circle cx="5" cy="25" r="3" fill="#dc2626"/>
-          <text x="15" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="25" r="3" fill="#dc2626"/><text x="15" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Samme verdsettelsesmetoder
-          </text>
-          
-          <circle cx="5" cy="45" r="3" fill="#dc2626"/>
-          <text x="15" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="45" r="3" fill="#dc2626"/><text x="15" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Sammenlignbare regnskaper
-          </text>
-          
-          <circle cx="5" cy="65" r="3" fill="#dc2626"/>
-          <text x="15" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="65" r="3" fill="#dc2626"/><text x="15" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Endringer må begrunnes
-          </text>
-          
-          <circle cx="5" cy="85" r="3" fill="#dc2626"/>
-          <text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><circle cx="5" cy="85" r="3" fill="#dc2626"/><text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">
             Noteopplysninger ved endring
-          </text>
-        </g>
-      </g>
-    </g>
-    
-
-    <g transform="translate(0, 360)">
-      <text x="350" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+          </text></g></g><text x="350" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" transform="translate(50 460)">
         Spesielle Krav for Imaterielle Eiendeler
-      </text>
-      
-
-      <g transform="translate(0, 40)">
-
-        <rect x="0" y="0" width="340" height="100" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-        
-        <text x="170" y="20" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text><g transform="translate(50 500)"><rect width="340" height="100" fill="#f8fafc" stroke="#e2e8f0" rx="8"/><text x="170" y="20" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Aktivering av Utviklingskostnader
-        </text>
-        
-        <g transform="translate(15, 30)">
-          <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        </text><g fill="#374151" font-family="Arial, sans-serif" font-size="11"><text y="15" transform="translate(15 30)">
             ✓ Teknisk gjennomførbarhet demonstrert
-          </text>
-          <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><text y="30" transform="translate(15 30)">
             ✓ Intensjon og evne til å fullføre
-          </text>
-          <text x="0" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><text y="45" transform="translate(15 30)">
             ✓ Sannsynlige fremtidige økonomiske fordeler
-          </text>
-          <text x="0" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><text y="60" transform="translate(15 30)">
             ✓ Tilstrekkelige ressurser til fullføring
-          </text>
-        </g>
-        
-
-        <rect x="360" y="0" width="340" height="100" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-        
-        <text x="530" y="20" text-anchor="middle" fill="#f59e0b" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+          </text></g><rect width="340" height="100" x="360" fill="#f8fafc" stroke="#e2e8f0" rx="8"/><text x="530" y="20" fill="#f59e0b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Goodwill-behandling
-        </text>
-        
-        <g transform="translate(375, 30)">
-          <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        </text><g fill="#374151" font-family="Arial, sans-serif" font-size="11"><text y="15" transform="translate(375 30)">
             • Maksimal amortiseringsperiode: 20 år
-          </text>
-          <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><text y="30" transform="translate(375 30)">
             • Lineær amortisering som hovedregel
-          </text>
-          <text x="0" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><text y="45" transform="translate(375 30)">
             • Årlig nedskrivningsvurdering
-          </text>
-          <text x="0" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+          </text><text y="60" transform="translate(375 30)">
             • Detaljerte noteopplysninger
-          </text>
-        </g>
-        
-
-        <rect x="0" y="120" width="700" height="80" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
-        
-        <text x="350" y="20" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+          </text></g><rect width="700" height="80" y="120" fill="#f1f5f9" stroke="#cbd5e1" rx="8"/><text x="350" y="20" fill="#475569" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Opplysningskrav i Noter
-        </text>
-        
-        <g transform="translate(30, 30)">
-          <g transform="translate(0, 0)">
-            <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+        </text><g fill="#374151" font-family="Arial, sans-serif" font-size="11"><text y="15" transform="translate(30 30)">
               • Anskaffelseskost og akkumulerte avskrivninger
-            </text>
-            <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            </text><text y="30" transform="translate(30 30)">
               • Avskrivningsmetoder og -perioder
-            </text>
-          </g>
-          
-          <g transform="translate(320, 0)">
-            <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            </text><text y="15" transform="translate(350 30)">
               • Nedskrivninger og reverseringer
-            </text>
-            <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+            </text><text y="30" transform="translate(350 30)">
               • Vesentlige endringer i regnskapsprinsipper
-            </text>
-          </g>
-        </g>
-      </g>
-    </g>
-    
-  </g>
-  
-
-  <g transform="translate(50, 520)">
-    <rect x="0" y="0" width="700" height="60" rx="8" fill="#fef7ff" stroke="#a855f7" stroke-width="1"/>
-    
-    <text x="350" y="20" text-anchor="middle" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+            </text></g></g><g transform="translate(50 520)"><rect width="700" height="60" fill="#fef7ff" stroke="#a855f7" rx="8"/><text x="350" y="20" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Hovedforskjeller fra IFRS
-    </text>
-    
-    <g transform="translate(30, 30)">
-      <text x="0" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><g fill="#374151" font-family="Arial, sans-serif" font-size="11"><text y="15" transform="translate(30 30)">
         • Goodwill amortiseres (IFRS: kun nedskrivningstesting) • Mer restriktiv aktivering av utviklingskostnader
-      </text>
-      <text x="0" y="30" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+      </text><text y="30" transform="translate(30 30)">
         • Ingen revaluering tillatt • Sterkere vekt på forsiktighetsprinsippet
-      </text>
-    </g>
-  </g>
-</svg>
+      </text></g></g></svg>

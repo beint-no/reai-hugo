@@ -1,153 +1,67 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#dc3545;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#495057">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="50%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#dc3545;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><text x="400" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Forfallsdato Tidslinje - Når Påløper Morarente?
-  </text>
-  
-
-  <rect x="100" y="100" width="600" height="20" fill="url(#timelineGradient)" rx="10"/>
-  
-
-
-  <circle cx="150" cy="110" r="8" fill="#007bff" stroke="white" stroke-width="2"/>
-  <line x1="150" y1="130" x2="150" y2="160" stroke="#007bff" stroke-width="2"/>
-  <rect x="100" y="165" width="100" height="50" fill="#e3f2fd" stroke="#007bff" stroke-width="1" rx="5"/>
-  <text x="150" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#007bff">
+  </text><rect width="600" height="20" x="100" y="100" fill="url(#b)" rx="10"/><circle cx="150" cy="110" r="8" fill="#007bff" stroke="#fff" stroke-width="2"/><path stroke="#007bff" stroke-width="2" d="M150 130v30"/><rect width="100" height="50" x="100" y="165" fill="#e3f2fd" stroke="#007bff" rx="5"/><text x="150" y="180" fill="#007bff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Faktura Sendt
-  </text>
-  <text x="150" y="195" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#007bff">
+  </text><text x="150" y="195" fill="#007bff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     1. januar
-  </text>
-  <text x="150" y="208" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#007bff">
+  </text><text x="150" y="208" fill="#007bff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Dag 0
-  </text>
-  
-
-  <circle cx="400" cy="110" r="10" fill="#ffc107" stroke="white" stroke-width="3"/>
-  <line x1="400" y1="130" x2="400" y2="160" stroke="#ffc107" stroke-width="3"/>
-  <rect x="350" y="165" width="100" height="50" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
-  <text x="400" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><circle cx="400" cy="110" r="10" fill="#ffc107" stroke="#fff" stroke-width="3"/><path stroke="#ffc107" stroke-width="3" d="M400 130v30"/><rect width="100" height="50" x="350" y="165" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/><text x="400" y="180" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Forfallsdato
-  </text>
-  <text x="400" y="195" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#856404">
+  </text><text x="400" y="195" fill="#856404" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     31. januar
-  </text>
-  <text x="400" y="208" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#856404">
+  </text><text x="400" y="208" fill="#856404" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Dag 30
-  </text>
-  
-
-  <circle cx="450" cy="110" r="8" fill="#dc3545" stroke="white" stroke-width="2"/>
-  <line x1="450" y1="130" x2="450" y2="160" stroke="#dc3545" stroke-width="2"/>
-  <rect x="400" y="165" width="100" height="50" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
-  <text x="450" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#721c24">
+  </text><circle cx="450" cy="110" r="8" fill="#dc3545" stroke="#fff" stroke-width="2"/><path stroke="#dc3545" stroke-width="2" d="M450 130v30"/><rect width="100" height="50" x="400" y="165" fill="#f8d7da" stroke="#dc3545" rx="5"/><text x="450" y="180" fill="#721c24" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Morarente
-  </text>
-  <text x="450" y="195" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">
+  </text><text x="450" y="195" fill="#721c24" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     1. februar
-  </text>
-  <text x="450" y="208" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#721c24">
+  </text><text x="450" y="208" fill="#721c24" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Dag 31+
-  </text>
-  
-
-  <circle cx="650" cy="110" r="8" fill="#28a745" stroke="white" stroke-width="2"/>
-  <line x1="650" y1="130" x2="650" y2="160" stroke="#28a745" stroke-width="2"/>
-  <rect x="600" y="165" width="100" height="50" fill="#d4edda" stroke="#28a745" stroke-width="1" rx="5"/>
-  <text x="650" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><circle cx="650" cy="110" r="8" fill="#28a745" stroke="#fff" stroke-width="2"/><path stroke="#28a745" stroke-width="2" d="M650 130v30"/><rect width="100" height="50" x="600" y="165" fill="#d4edda" stroke="#28a745" rx="5"/><text x="650" y="180" fill="#155724" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Betaling
-  </text>
-  <text x="650" y="195" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#155724">
+  </text><text x="650" y="195" fill="#155724" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     15. februar
-  </text>
-  <text x="650" y="208" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#155724">
+  </text><text x="650" y="208" fill="#155724" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Dag 45
-  </text>
-  
-
-  <rect x="150" y="85" width="250" height="15" fill="#28a745" fill-opacity="0.3" rx="3"/>
-  <text x="275" y="96" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><rect width="250" height="15" x="150" y="85" fill="#28a745" fill-opacity=".3" rx="3"/><text x="275" y="96" fill="#155724" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     BETALINGSFRIST (30 dager)
-  </text>
-  
-  <rect x="400" y="85" width="250" height="15" fill="#dc3545" fill-opacity="0.3" rx="3"/>
-  <text x="525" y="96" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#721c24">
+  </text><rect width="250" height="15" x="400" y="85" fill="#dc3545" fill-opacity=".3" rx="3"/><text x="525" y="96" fill="#721c24" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     MORARENTE PÅLØPER (15 dager)
-  </text>
-  
-
-  <rect x="50" y="250" width="200" height="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-  <text x="150" y="275" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><rect width="200" height="120" x="50" y="250" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/><text x="150" y="275" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Betalingsfrist
-  </text>
-  <text x="150" y="295" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1976d2">
+  </text><text x="150" y="295" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • 30 dager standard
-  </text>
-  <text x="150" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1976d2">
+  </text><text x="150" y="310" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Kan avtales kortere
-  </text>
-  <text x="150" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1976d2">
+  </text><text x="150" y="325" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Kontantsalg: 0 dager
-  </text>
-  <text x="150" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1976d2">
+  </text><text x="150" y="340" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Må spesifiseres klart
-  </text>
-  <text x="150" y="355" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1976d2">
+  </text><text x="150" y="355" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Helligdager forskyver ikke
-  </text>
-  
-  <rect x="300" y="250" width="200" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="400" y="275" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="200" height="120" x="300" y="250" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/><text x="400" y="275" fill="#856404" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Forfallsdato
-  </text>
-  <text x="400" y="295" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#856404">
+  </text><text x="400" y="295" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Siste dag for betaling
-  </text>
-  <text x="400" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#856404">
+  </text><text x="400" y="310" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Må være spesifisert
-  </text>
-  <text x="400" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#856404">
+  </text><text x="400" y="325" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Hvis ikke: 30 dager
-  </text>
-  <text x="400" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#856404">
+  </text><text x="400" y="340" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Kritisk tidspunkt
-  </text>
-  <text x="400" y="355" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#856404">
+  </text><text x="400" y="355" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Automatisk rentepåløp
-  </text>
-  
-  <rect x="550" y="250" width="200" height="120" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="650" y="275" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#721c24">
+  </text><rect width="200" height="120" x="550" y="250" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/><text x="650" y="275" fill="#721c24" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Morarente
-  </text>
-  <text x="650" y="295" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#721c24">
+  </text><text x="650" y="295" fill="#721c24" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Påløper automatisk
-  </text>
-  <text x="650" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#721c24">
+  </text><text x="650" y="310" fill="#721c24" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Fra dag etter forfall
-  </text>
-  <text x="650" y="325" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#721c24">
+  </text><text x="650" y="325" fill="#721c24" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Ingen påminnelse nødv.
-  </text>
-  <text x="650" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#721c24">
+  </text><text x="650" y="340" fill="#721c24" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Beregnes daglig
-  </text>
-  <text x="650" y="355" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#721c24">
+  </text><text x="650" y="355" fill="#721c24" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Til betaling skjer
-  </text>
-</svg>
+  </text></svg>

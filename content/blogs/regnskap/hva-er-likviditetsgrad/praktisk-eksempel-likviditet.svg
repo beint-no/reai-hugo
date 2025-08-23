@@ -1,148 +1,43 @@
-<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="assetGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3498DB;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2980B9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="liabilityGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#E74C3C;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#C0392B;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="resultGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#27AE60;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="900" height="600" fill="#F8F9FA"/>
-  
-
-  <text x="450" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#2980b9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#c0392b;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#27ae60;stop-opacity:1"/><stop offset="100%" style="stop-color:#229954;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h900v600H0z"/><text x="450" y="35" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Praktisk Eksempel: Eksempel AS
-  </text>
-  
-
-  <rect x="50" y="70" width="350" height="280" fill="url(#assetGrad)" rx="12"/>
-  <text x="225" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="350" height="280" x="50" y="70" fill="url(#a)" rx="12"/><text x="225" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     OMLØPSMIDLER
-  </text>
-  
-
-  <rect x="70" y="120" width="310" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
-  <text x="85" y="142" font-family="Arial, sans-serif" font-size="14" fill="white">Kontanter og bankinnskudd</text>
-  <text x="365" y="142" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">800.000</text>
-  
-  <rect x="70" y="165" width="310" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
-  <text x="85" y="187" font-family="Arial, sans-serif" font-size="14" fill="white">Kortsiktige investeringer</text>
-  <text x="365" y="187" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">200.000</text>
-  
-  <rect x="70" y="210" width="310" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
-  <text x="85" y="232" font-family="Arial, sans-serif" font-size="14" fill="white">Kundefordringer</text>
-  <text x="365" y="232" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">1.500.000</text>
-  
-  <rect x="70" y="255" width="310" height="35" fill="rgba(255,255,255,0.3)" rx="5"/>
-  <text x="85" y="277" font-family="Arial, sans-serif" font-size="14" fill="white">Varelager</text>
-  <text x="365" y="277" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">1.200.000</text>
-  
-  <rect x="70" y="300" width="310" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
-  <text x="85" y="322" font-family="Arial, sans-serif" font-size="14" fill="white">Andre kortsiktige fordringer</text>
-  <text x="365" y="322" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">300.000</text>
-  
-
-  <rect x="70" y="320" width="310" height="20" fill="rgba(255,255,255,0.4)" rx="3"/>
-  <text x="225" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="310" height="35" x="70" y="120" fill="rgba(255,255,255,0.2)" rx="5"/><text x="85" y="142" fill="#fff" font-family="Arial, sans-serif" font-size="14">Kontanter og bankinnskudd</text><text x="365" y="142" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">800.000</text><rect width="310" height="35" x="70" y="165" fill="rgba(255,255,255,0.2)" rx="5"/><text x="85" y="187" fill="#fff" font-family="Arial, sans-serif" font-size="14">Kortsiktige investeringer</text><text x="365" y="187" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">200.000</text><rect width="310" height="35" x="70" y="210" fill="rgba(255,255,255,0.2)" rx="5"/><text x="85" y="232" fill="#fff" font-family="Arial, sans-serif" font-size="14">Kundefordringer</text><text x="365" y="232" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">1.500.000</text><rect width="310" height="35" x="70" y="255" fill="rgba(255,255,255,0.3)" rx="5"/><text x="85" y="277" fill="#fff" font-family="Arial, sans-serif" font-size="14">Varelager</text><text x="365" y="277" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">1.200.000</text><rect width="310" height="35" x="70" y="300" fill="rgba(255,255,255,0.2)" rx="5"/><text x="85" y="322" fill="#fff" font-family="Arial, sans-serif" font-size="14">Andre kortsiktige fordringer</text><text x="365" y="322" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">300.000</text><rect width="310" height="20" x="70" y="320" fill="rgba(255,255,255,0.4)" rx="3"/><text x="225" y="335" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Sum: 4.000.000 NOK
-  </text>
-  
-
-  <rect x="500" y="70" width="350" height="280" fill="url(#liabilityGrad)" rx="12"/>
-  <text x="675" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="350" height="280" x="500" y="70" fill="url(#b)" rx="12"/><text x="675" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     KORTSIKTIG GJELD
-  </text>
-  
-
-  <rect x="520" y="120" width="310" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
-  <text x="535" y="142" font-family="Arial, sans-serif" font-size="14" fill="white">Leverandørgjeld</text>
-  <text x="815" y="142" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">1.200.000</text>
-  
-  <rect x="520" y="165" width="310" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
-  <text x="535" y="187" font-family="Arial, sans-serif" font-size="14" fill="white">Kortsiktig del av langsiktig gjeld</text>
-  <text x="815" y="187" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">500.000</text>
-  
-  <rect x="520" y="210" width="310" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
-  <text x="535" y="232" font-family="Arial, sans-serif" font-size="14" fill="white">Påløpte kostnader</text>
-  <text x="815" y="232" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">400.000</text>
-  
-  <rect x="520" y="255" width="310" height="35" fill="rgba(255,255,255,0.2)" rx="5"/>
-  <text x="535" y="277" font-family="Arial, sans-serif" font-size="14" fill="white">Annen kortsiktig gjeld</text>
-  <text x="815" y="277" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">300.000</text>
-  
-
-  <rect x="520" y="320" width="310" height="20" fill="rgba(255,255,255,0.4)" rx="3"/>
-  <text x="675" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="310" height="35" x="520" y="120" fill="rgba(255,255,255,0.2)" rx="5"/><text x="535" y="142" fill="#fff" font-family="Arial, sans-serif" font-size="14">Leverandørgjeld</text><text x="815" y="142" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">1.200.000</text><rect width="310" height="35" x="520" y="165" fill="rgba(255,255,255,0.2)" rx="5"/><text x="535" y="187" fill="#fff" font-family="Arial, sans-serif" font-size="14">Kortsiktig del av langsiktig gjeld</text><text x="815" y="187" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">500.000</text><rect width="310" height="35" x="520" y="210" fill="rgba(255,255,255,0.2)" rx="5"/><text x="535" y="232" fill="#fff" font-family="Arial, sans-serif" font-size="14">Påløpte kostnader</text><text x="815" y="232" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">400.000</text><rect width="310" height="35" x="520" y="255" fill="rgba(255,255,255,0.2)" rx="5"/><text x="535" y="277" fill="#fff" font-family="Arial, sans-serif" font-size="14">Annen kortsiktig gjeld</text><text x="815" y="277" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">300.000</text><rect width="310" height="20" x="520" y="320" fill="rgba(255,255,255,0.4)" rx="3"/><text x="675" y="335" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Sum: 2.400.000 NOK
-  </text>
-  
-
-  <rect x="100" y="380" width="700" height="180" fill="url(#resultGrad)" rx="12"/>
-  <text x="450" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="700" height="180" x="100" y="380" fill="url(#c)" rx="12"/><text x="450" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     BEREGNINGER
-  </text>
-  
-
-  <rect x="130" y="430" width="200" height="100" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="230" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="200" height="100" x="130" y="430" fill="rgba(255,255,255,0.2)" rx="8"/><text x="230" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Likviditetsgrad 1
-  </text>
-  <text x="230" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="230" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     4.000.000 ÷ 2.400.000
-  </text>
-  <text x="230" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="230" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     = 1,67
-  </text>
-  <text x="230" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="230" y="515" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (God betalingsevne)
-  </text>
-  
-
-  <rect x="350" y="430" width="200" height="100" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="450" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="200" height="100" x="350" y="430" fill="rgba(255,255,255,0.2)" rx="8"/><text x="450" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Likviditetsgrad 2
-  </text>
-  <text x="450" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="450" y="465" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (4.000.000 - 1.200.000)
-  </text>
-  <text x="450" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="450" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     ÷ 2.400.000
-  </text>
-  <text x="450" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="450" y="500" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     = 1,17
-  </text>
-  <text x="450" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="450" y="520" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (Akseptabel)
-  </text>
-  
-
-  <rect x="570" y="430" width="200" height="100" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="670" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="200" height="100" x="570" y="430" fill="rgba(255,255,255,0.2)" rx="8"/><text x="670" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kontantgrad
-  </text>
-  <text x="670" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="670" y="465" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (800.000 + 200.000)
-  </text>
-  <text x="670" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="670" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     ÷ 2.400.000
-  </text>
-  <text x="670" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="670" y="500" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     = 0,42
-  </text>
-  <text x="670" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="670" y="520" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (Moderat)
-  </text>
-  
-
-  <text x="450" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2C3E50">
+  </text><text x="450" y="580" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Konklusjon: Akseptabel likviditet, men avhengig av innkassering av kundefordringer
-  </text>
-</svg>
+  </text></svg>

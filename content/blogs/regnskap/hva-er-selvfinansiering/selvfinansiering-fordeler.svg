@@ -1,153 +1,55 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/><stop offset="100%" style="stop-color:#059669;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fordeler ved Selvfinansiering
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="320" height="120" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="10"/>
-    <circle cx="40" cy="40" r="25" fill="url(#greenGradient)"/>
-    <text x="40" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">₹</text>
-    
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#15803d">
+  </text><g transform="translate(50 80)"><rect width="320" height="120" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="10"/><circle cx="40" cy="40" r="25" fill="url(#b)"/><text x="40" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">₹</text><text x="80" y="30" fill="#15803d" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Finansiell Uavhengighet
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="12" fill="#166534">
+    </text><text x="80" y="50" fill="#166534" font-family="Arial, sans-serif" font-size="12">
       • Ingen avhengighet av eksterne långivere
-    </text>
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" fill="#166534">
+    </text><text x="80" y="70" fill="#166534" font-family="Arial, sans-serif" font-size="12">
       • Redusert eksponering for renteendringer
-    </text>
-    <text x="80" y="90" font-family="Arial, sans-serif" font-size="12" fill="#166534">
+    </text><text x="80" y="90" fill="#166534" font-family="Arial, sans-serif" font-size="12">
       • Frihet til å ta strategiske beslutninger
-    </text>
-  </g>
-  
-
-  <g transform="translate(430, 80)">
-    <rect x="0" y="0" width="320" height="120" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="10"/>
-    <circle cx="40" cy="40" r="25" fill="url(#blueGradient)"/>
-    <text x="40" y="45" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">%</text>
-    
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1d4ed8">
+    </text></g><g transform="translate(430 80)"><rect width="320" height="120" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="10"/><circle cx="40" cy="40" r="25" fill="url(#c)"/><text x="40" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">%</text><text x="80" y="30" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Kostnadsbesparelser
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="12" fill="#1e40af">
+    </text><text x="80" y="50" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">
       • Ingen rentekostnader på lån
-    </text>
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" fill="#1e40af">
+    </text><text x="80" y="70" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">
       • Reduserte finansieringsgebyrer
-    </text>
-    <text x="80" y="90" font-family="Arial, sans-serif" font-size="12" fill="#1e40af">
+    </text><text x="80" y="90" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">
       • Lavere totale kapitalkostnader
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 230)">
-    <rect x="0" y="0" width="320" height="120" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="10"/>
-    <circle cx="40" cy="40" r="25" fill="#f59e0b"/>
-    <text x="40" y="45" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">👑</text>
-    
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#d97706">
+    </text></g><g transform="translate(50 230)"><rect width="320" height="120" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="10"/><circle cx="40" cy="40" r="25" fill="#f59e0b"/><text x="40" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">👑</text><text x="80" y="30" fill="#d97706" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Eierrådighet
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="12" fill="#92400e">
+    </text><text x="80" y="50" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
       • Beholder full kontroll over bedriften
-    </text>
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" fill="#92400e">
+    </text><text x="80" y="70" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
       • Ingen utvanning av eierskap
-    </text>
-    <text x="80" y="90" font-family="Arial, sans-serif" font-size="12" fill="#92400e">
+    </text><text x="80" y="90" fill="#92400e" font-family="Arial, sans-serif" font-size="12">
       • Frihet fra lånevilkår og covenants
-    </text>
-  </g>
-  
-
-  <g transform="translate(430, 230)">
-    <rect x="0" y="0" width="320" height="120" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" rx="10"/>
-    <circle cx="40" cy="40" r="25" fill="#8b5cf6"/>
-    <text x="40" y="45" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">⚡</text>
-    
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#7c3aed">
+    </text></g><g transform="translate(430 230)"><rect width="320" height="120" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2" rx="10"/><circle cx="40" cy="40" r="25" fill="#8b5cf6"/><text x="40" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">⚡</text><text x="80" y="30" fill="#7c3aed" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Fleksibilitet
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="12" fill="#6d28d9">
+    </text><text x="80" y="50" fill="#6d28d9" font-family="Arial, sans-serif" font-size="12">
       • Rask tilgang til kapital ved behov
-    </text>
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" fill="#6d28d9">
+    </text><text x="80" y="70" fill="#6d28d9" font-family="Arial, sans-serif" font-size="12">
       • Enkle investeringsbeslutninger
-    </text>
-    <text x="80" y="90" font-family="Arial, sans-serif" font-size="12" fill="#6d28d9">
+    </text><text x="80" y="90" fill="#6d28d9" font-family="Arial, sans-serif" font-size="12">
       • Tilpasning til markedsendringer
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 380)">
-    <rect x="0" y="0" width="320" height="120" fill="#fed7d7" stroke="#f56565" stroke-width="2" rx="10"/>
-    <circle cx="40" cy="40" r="25" fill="#f56565"/>
-    <text x="40" y="45" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">🛡</text>
-    
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e53e3e">
+    </text></g><g transform="translate(50 380)"><rect width="320" height="120" fill="#fed7d7" stroke="#f56565" stroke-width="2" rx="10"/><circle cx="40" cy="40" r="25" fill="#f56565"/><text x="40" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">🛡</text><text x="80" y="30" fill="#e53e3e" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Risikohåndtering
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="12" fill="#c53030">
+    </text><text x="80" y="50" fill="#c53030" font-family="Arial, sans-serif" font-size="12">
       • Redusert finansiell risiko
-    </text>
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" fill="#c53030">
+    </text><text x="80" y="70" fill="#c53030" font-family="Arial, sans-serif" font-size="12">
       • Mindre sårbar for kriser
-    </text>
-    <text x="80" y="90" font-family="Arial, sans-serif" font-size="12" fill="#c53030">
+    </text><text x="80" y="90" fill="#c53030" font-family="Arial, sans-serif" font-size="12">
       • Sterkere kredittverdighet
-    </text>
-  </g>
-  
-
-  <g transform="translate(430, 380)">
-    <rect x="0" y="0" width="320" height="120" fill="#e6fffa" stroke="#38b2ac" stroke-width="2" rx="10"/>
-    <circle cx="40" cy="40" r="25" fill="#38b2ac"/>
-    <text x="40" y="45" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">📈</text>
-    
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c7a7b">
+    </text></g><g transform="translate(430 380)"><rect width="320" height="120" fill="#e6fffa" stroke="#38b2ac" stroke-width="2" rx="10"/><circle cx="40" cy="40" r="25" fill="#38b2ac"/><text x="40" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">📈</text><text x="80" y="30" fill="#2c7a7b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Langsiktige Fordeler
-    </text>
-    <text x="80" y="50" font-family="Arial, sans-serif" font-size="12" fill="#285e61">
+    </text><text x="80" y="50" fill="#285e61" font-family="Arial, sans-serif" font-size="12">
       • Bærekraftig vekst og utvikling
-    </text>
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" fill="#285e61">
+    </text><text x="80" y="70" fill="#285e61" font-family="Arial, sans-serif" font-size="12">
       • Økt egenkapitalandel over tid
-    </text>
-    <text x="80" y="90" font-family="Arial, sans-serif" font-size="12" fill="#285e61">
+    </text><text x="80" y="90" fill="#285e61" font-family="Arial, sans-serif" font-size="12">
       • Forbedret soliditet og stabilitet
-    </text>
-  </g>
-  
-
-  <rect x="150" y="530" width="500" height="50" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/>
-  <text x="400" y="550" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    </text></g><rect width="500" height="50" x="150" y="530" fill="#f1f5f9" stroke="#64748b" stroke-width="2" rx="10"/><text x="400" y="550" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Selvfinansiering skaper finansiell uavhengighet og langsiktig verdiskapning
-  </text>
-  <text x="400" y="570" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
+  </text><text x="400" y="570" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     gjennom reduserte kostnader, økt kontroll og forbedret risikoprofil
-  </text>
-</svg>
+  </text></svg>

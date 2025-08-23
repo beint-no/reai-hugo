@@ -1,61 +1,7 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="#ffffff"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2563eb;stop-opacity:1"/><stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient></defs><path fill="#fff" d="M0 0h800v400H0z"/><path fill="url(#a)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Hva er imaterielle rettigheter?
-  </text>
-  
-
-  <rect x="50" y="100" width="700" height="280" fill="url(#cardGradient)" stroke="#cbd5e1" stroke-width="2" rx="10"/>
-  
-
-
-  <circle cx="150" cy="160" r="25" fill="#10b981" stroke="#059669" stroke-width="2"/>
-  <text x="150" y="167" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">P</text>
-  <text x="150" y="200" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Patenter</text>
-  
-
-  <circle cx="280" cy="160" r="25" fill="#f59e0b" stroke="#d97706" stroke-width="2"/>
-  <text x="280" y="167" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">™</text>
-  <text x="280" y="200" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Varemerker</text>
-  
-
-  <circle cx="410" cy="160" r="25" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2"/>
-  <text x="410" y="167" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">©</text>
-  <text x="410" y="200" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Opphavsrett</text>
-  
-
-  <rect x="525" y="135" width="50" height="50" fill="#06b6d4" stroke="#0891b2" stroke-width="2" rx="5"/>
-  <text x="550" y="167" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">&lt;/&gt;</text>
-  <text x="550" y="200" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Programvare</text>
-  
-
-  <circle cx="650" cy="160" r="25" fill="#ef4444" stroke="#dc2626" stroke-width="2"/>
-  <text x="650" y="167" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">G</text>
-  <text x="650" y="200" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Goodwill</text>
-  
-
-  <text x="400" y="240" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+  </text><rect width="700" height="280" x="50" y="100" fill="url(#b)" stroke="#cbd5e1" stroke-width="2" rx="10"/><circle cx="150" cy="160" r="25" fill="#10b981" stroke="#059669" stroke-width="2"/><text x="150" y="167" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">P</text><text x="150" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Patenter</text><circle cx="280" cy="160" r="25" fill="#f59e0b" stroke="#d97706" stroke-width="2"/><text x="280" y="167" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">™</text><text x="280" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Varemerker</text><circle cx="410" cy="160" r="25" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2"/><text x="410" y="167" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">©</text><text x="410" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Opphavsrett</text><rect width="50" height="50" x="525" y="135" fill="#06b6d4" stroke="#0891b2" stroke-width="2" rx="5"/><text x="550" y="167" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">&lt;/&gt;</text><text x="550" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Programvare</text><circle cx="650" cy="160" r="25" fill="#ef4444" stroke="#dc2626" stroke-width="2"/><text x="650" y="167" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">G</text><text x="650" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Goodwill</text><text x="400" y="240" fill="#374151" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Ikke-fysiske eiendeler med økonomisk verdi
-  </text>
-  <text x="400" y="260" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="400" y="260" fill="#6b7280" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Intellektuell eiendom • Kontraktuelle rettigheter • Teknologi • Goodwill
-  </text>
-  
-
-  <rect x="50" y="360" width="700" height="4" fill="url(#headerGradient)" rx="2"/>
-</svg>
+  </text><rect width="700" height="4" x="50" y="360" fill="url(#a)" rx="2"/></svg>

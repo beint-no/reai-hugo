@@ -1,213 +1,71 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="systemGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="dataGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="aiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGrad)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1"/><stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Digitale Verktøy for Utrangeringsverdi
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <rect x="0" y="0" width="320" height="180" fill="url(#systemGrad)" rx="15"/>
-    <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 70)"><rect width="320" height="180" fill="url(#b)" rx="15"/><text x="160" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Regnskapssystem Integration
-    </text>
-    
-    <rect x="20" y="45" width="280" height="120" fill="white" rx="8"/>
-    
-
-    <rect x="30" y="55" width="40" height="25" rx="3" fill="#007bff"/>
-    <rect x="32" y="57" width="36" height="18" rx="2" fill="#e9ecef"/>
-    <rect x="45" y="82" width="10" height="8" rx="2" fill="#6c757d"/>
-    
-    <text x="85" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">
+    </text><rect width="280" height="120" x="20" y="45" fill="#fff" rx="8"/><rect width="40" height="25" x="30" y="55" fill="#007bff" rx="3"/><rect width="36" height="18" x="32" y="57" fill="#e9ecef" rx="2"/><rect width="10" height="8" x="45" y="82" fill="#6c757d" rx="2"/><text x="85" y="70" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Automatisk Beregning
-    </text>
-    <text x="85" y="85" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="85" y="85" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Forhåndsdefinerte avskrivningsregler
-    </text>
-    <text x="85" y="98" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="85" y="98" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Månedlige avsetninger
-    </text>
-    <text x="85" y="111" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="85" y="111" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Rapportering regnskaps- og skattemessig
-    </text>
-    
-    <text x="30" y="130" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#007bff">
+    </text><text x="30" y="130" fill="#007bff" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Funksjoner:
-    </text>
-    <text x="30" y="145" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="30" y="145" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       ✓ Automatisk oppdatering ved endringer
-    </text>
-    <text x="30" y="158" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="30" y="158" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       ✓ Varsler ved behov for revurdering
-    </text>
-  </g>
-  
-
-  <g transform="translate(430, 70)">
-    <rect x="0" y="0" width="320" height="180" fill="url(#dataGrad)" rx="15"/>
-    <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(430 70)"><rect width="320" height="180" fill="url(#c)" rx="15"/><text x="160" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Markedsdatabaser
-    </text>
-    
-    <rect x="20" y="45" width="280" height="120" fill="white" rx="8"/>
-    
-
-    <rect x="30" y="55" width="35" height="8" rx="4" fill="#28a745"/>
-    <rect x="30" y="65" width="35" height="8" rx="4" fill="#28a745"/>
-    <rect x="30" y="75" width="35" height="8" rx="4" fill="#28a745"/>
-    
-    <text x="80" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">
+    </text><rect width="280" height="120" x="20" y="45" fill="#fff" rx="8"/><rect width="35" height="8" x="30" y="55" fill="#28a745" rx="4"/><rect width="35" height="8" x="30" y="65" fill="#28a745" rx="4"/><rect width="35" height="8" x="30" y="75" fill="#28a745" rx="4"/><text x="80" y="70" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Historiske Salgsdata
-    </text>
-    <text x="80" y="85" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="80" y="85" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Sammenlignbare eiendeler
-    </text>
-    <text x="80" y="98" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="80" y="98" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Prisutviklingsindekser
-    </text>
-    <text x="80" y="111" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="80" y="111" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Geografiske variasjoner
-    </text>
-    
-    <text x="30" y="130" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#28a745">
+    </text><text x="30" y="130" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Datakilder:
-    </text>
-    <text x="30" y="145" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="30" y="145" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       ✓ Offentlige registre og auksjoner
-    </text>
-    <text x="30" y="158" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="30" y="158" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       ✓ Bransjespesifikke databaser
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 280)">
-    <rect x="0" y="0" width="320" height="180" fill="url(#aiGrad)" rx="15"/>
-    <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 280)"><rect width="320" height="180" fill="url(#d)" rx="15"/><text x="160" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       AI/ML Prediktive Modeller
-    </text>
-    
-    <rect x="20" y="45" width="280" height="120" fill="white" rx="8"/>
-    
-
-    <circle cx="47" cy="70" r="12" fill="#6f42c1"/>
-    <text x="47" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AI</text>
-    
-    <text x="70" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">
+    </text><rect width="280" height="120" x="20" y="45" fill="#fff" rx="8"/><circle cx="47" cy="70" r="12" fill="#6f42c1"/><text x="47" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">AI</text><text x="70" y="70" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Maskinlæring for Verdivurdering
-    </text>
-    <text x="70" y="85" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="70" y="85" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Analyse av verdimønstre
-    </text>
-    <text x="70" y="98" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="70" y="98" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Regresjon på tekniske/markedsfaktorer
-    </text>
-    <text x="70" y="111" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="70" y="111" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Scenarioanalyse for ulike utvikling
-    </text>
-    
-    <text x="30" y="130" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#6f42c1">
+    </text><text x="30" y="130" fill="#6f42c1" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Avanserte Funksjoner:
-    </text>
-    <text x="30" y="145" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="30" y="145" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       ✓ Kontinuerlig læring fra nye data
-    </text>
-    <text x="30" y="158" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="30" y="158" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       ✓ Usikkerhetsvurdering av estimater
-    </text>
-  </g>
-  
-
-  <g transform="translate(430, 280)">
-    <rect x="0" y="0" width="320" height="180" fill="#fd7e14" rx="15"/>
-    <text x="160" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(430 280)"><rect width="320" height="180" fill="#fd7e14" rx="15"/><text x="160" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Anleggsmiddelregister
-    </text>
-    
-    <rect x="20" y="45" width="280" height="120" fill="white" rx="8"/>
-    
-
-    <rect x="30" y="60" width="30" height="20" rx="3" fill="#fd7e14"/>
-    <rect x="35" y="55" width="20" height="8" rx="2" fill="#fd7e14"/>
-    <circle cx="55" cy="85" r="3" fill="#212529"/>
-    <circle cx="40" cy="85" r="3" fill="#212529"/>
-    
-    <text x="75" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">
+    </text><rect width="280" height="120" x="20" y="45" fill="#fff" rx="8"/><rect width="30" height="20" x="30" y="60" fill="#fd7e14" rx="3"/><rect width="20" height="8" x="35" y="55" fill="#fd7e14" rx="2"/><circle cx="55" cy="85" r="3" fill="#212529"/><circle cx="40" cy="85" r="3" fill="#212529"/><text x="75" y="70" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Komplett Eiendelssporing
-    </text>
-    <text x="75" y="85" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="75" y="85" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Unikt ID, beskrivelse, lokasjon
-    </text>
-    <text x="75" y="98" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="75" y="98" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Anskaffelseskost, avskrivningsmetode
-    </text>
-    <text x="75" y="111" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="75" y="111" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Vedlikeholdshistorikk og kostnader
-    </text>
-    
-    <text x="30" y="130" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#fd7e14">
+    </text><text x="30" y="130" fill="#fd7e14" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Sporing:
-    </text>
-    <text x="30" y="145" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="30" y="145" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       ✓ Avskrivningshistorikk og bokført verdi
-    </text>
-    <text x="30" y="158" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="30" y="158" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       ✓ Oppgraderinger og reparasjoner
-    </text>
-  </g>
-  
-
-  <g transform="translate(200, 490)">
-    <rect x="0" y="0" width="400" height="80" fill="white" stroke="#17a2b8" stroke-width="3" rx="15"/>
-    <text x="200" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#17a2b8">
+    </text></g><g transform="translate(200 490)"><rect width="400" height="80" fill="#fff" stroke="#17a2b8" stroke-width="3" rx="15"/><text x="200" y="25" fill="#17a2b8" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Integrert Arbeidsflyt
-    </text>
-    
-
-    <g transform="translate(20, 35)">
-      <rect x="0" y="0" width="80" height="20" fill="#e7f3ff" stroke="#007bff" rx="3"/>
-      <text x="40" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#007bff">Datainnsamling</text>
-      
-      <text x="90" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">→</text>
-      
-      <rect x="100" y="0" width="80" height="20" fill="#d4edda" stroke="#28a745" rx="3"/>
-      <text x="140" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#28a745">Analyse</text>
-      
-      <text x="190" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">→</text>
-      
-      <rect x="200" y="0" width="80" height="20" fill="#f8d7da" stroke="#dc3545" rx="3"/>
-      <text x="240" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#dc3545">Estimering</text>
-      
-      <text x="290" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">→</text>
-      
-      <rect x="300" y="0" width="80" height="20" fill="#fff3cd" stroke="#ffc107" rx="3"/>
-      <text x="340" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#856404">Implementering</text>
-    </g>
-    
-    <text x="200" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+    </text><g transform="translate(20 35)"><rect width="80" height="20" fill="#e7f3ff" stroke="#007bff" rx="3"/><text x="40" y="13" fill="#007bff" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Datainnsamling</text><text x="90" y="13" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">→</text><rect width="80" height="20" x="100" fill="#d4edda" stroke="#28a745" rx="3"/><text x="140" y="13" fill="#28a745" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Analyse</text><text x="190" y="13" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">→</text><rect width="80" height="20" x="200" fill="#f8d7da" stroke="#dc3545" rx="3"/><text x="240" y="13" fill="#dc3545" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Estimering</text><text x="290" y="13" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">→</text><rect width="80" height="20" x="300" fill="#fff3cd" stroke="#ffc107" rx="3"/><text x="340" y="13" fill="#856404" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Implementering</text></g><text x="200" y="65" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Automatisert prosess fra datainnhenting til regnskapsføring av utrangeringsverdi
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

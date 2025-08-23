@@ -1,190 +1,79 @@
-<svg width="600" height="700" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="600" height="700" fill="url(#bgGradient)" stroke="#cbd5e1" stroke-width="1"/>
-  
-
-  <rect x="50" y="30" width="500" height="50" rx="8" fill="url(#headerGradient)"/>
-  <text x="300" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="700"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#cbd5e1" d="M0 0h600v700H0z"/><rect width="500" height="50" x="50" y="30" fill="url(#b)" rx="8"/><text x="300" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     KONTANTSTRØMOPPSTILLING
-  </text>
-  <text x="300" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="300" y="68" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Struktur og Oppbygging
-  </text>
-  
-
-  <rect x="50" y="100" width="500" height="30" rx="4" fill="white" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="300" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+  </text><rect width="500" height="30" x="50" y="100" fill="#fff" stroke="#e2e8f0" rx="4"/><text x="300" y="120" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     [Bedriftsnavn] AS - For året som sluttet 31. desember 2024
-  </text>
-  
-
-  <g>
-    <rect x="50" y="150" width="500" height="30" rx="4" fill="#10b981" opacity="0.9"/>
-    <text x="70" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="500" height="30" x="50" y="150" fill="#10b981" opacity=".9" rx="4"/><text x="70" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       KONTANTSTRØM FRA DRIFTSAKTIVITETER
-    </text>
-    
-
-    <rect x="50" y="180" width="500" height="140" rx="4" fill="white" stroke="#10b981" stroke-width="1"/>
-    
-    <text x="70" y="200" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><rect width="500" height="140" x="50" y="180" fill="#fff" stroke="#10b981" rx="4"/><text x="70" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Kontanter mottatt fra kunder
-    </text>
-    <text x="480" y="200" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="200" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       2 500 000
-    </text>
-    
-    <text x="70" y="220" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="70" y="220" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Kontanter betalt til leverandører
-    </text>
-    <text x="480" y="220" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="220" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       (1 500 000)
-    </text>
-    
-    <text x="70" y="240" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="70" y="240" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Kontanter betalt til ansatte
-    </text>
-    <text x="480" y="240" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="240" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       (600 000)
-    </text>
-    
-    <text x="70" y="260" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="70" y="260" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Skatter betalt
-    </text>
-    <text x="480" y="260" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="260" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       (150 000)
-    </text>
-    
-    <text x="70" y="280" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="70" y="280" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Renter betalt
-    </text>
-    <text x="480" y="280" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="280" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       (50 000)
-    </text>
-    
-
-    <line x1="350" y1="290" x2="490" y2="290" stroke="#374151" stroke-width="1"/>
-    <text x="70" y="310" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
+    </text><path stroke="#374151" d="M350 290h140"/><text x="70" y="310" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Netto kontantstrøm fra driftsaktiviteter
-    </text>
-    <text x="480" y="310" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
+    </text><text x="480" y="310" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       200 000
-    </text>
-  </g>
-  
-
-  <g>
-    <rect x="50" y="340" width="500" height="30" rx="4" fill="#3b82f6" opacity="0.9"/>
-    <text x="70" y="360" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="500" height="30" x="50" y="340" fill="#3b82f6" opacity=".9" rx="4"/><text x="70" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       KONTANTSTRØM FRA INVESTERINGSAKTIVITETER
-    </text>
-    
-
-    <rect x="50" y="370" width="500" height="100" rx="4" fill="white" stroke="#3b82f6" stroke-width="1"/>
-    
-    <text x="70" y="390" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><rect width="500" height="100" x="50" y="370" fill="#fff" stroke="#3b82f6" rx="4"/><text x="70" y="390" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Kjøp av anleggsmidler
-    </text>
-    <text x="480" y="390" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="390" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       (300 000)
-    </text>
-    
-    <text x="70" y="410" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="70" y="410" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Salg av utstyr
-    </text>
-    <text x="480" y="410" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="410" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       50 000
-    </text>
-    
-    <text x="70" y="430" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="70" y="430" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Investeringer i aksjer
-    </text>
-    <text x="480" y="430" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="430" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       (100 000)
-    </text>
-    
-
-    <line x1="350" y1="440" x2="490" y2="440" stroke="#374151" stroke-width="1"/>
-    <text x="70" y="460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2563eb">
+    </text><path stroke="#374151" d="M350 440h140"/><text x="70" y="460" fill="#2563eb" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Netto kontantstrøm fra investeringsaktiviteter
-    </text>
-    <text x="480" y="460" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2563eb">
+    </text><text x="480" y="460" fill="#2563eb" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       (350 000)
-    </text>
-  </g>
-  
-
-  <g>
-    <rect x="50" y="490" width="500" height="30" rx="4" fill="#ef4444" opacity="0.9"/>
-    <text x="70" y="510" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="500" height="30" x="50" y="490" fill="#ef4444" opacity=".9" rx="4"/><text x="70" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       KONTANTSTRØM FRA FINANSIERINGSAKTIVITETER
-    </text>
-    
-
-    <rect x="50" y="520" width="500" height="100" rx="4" fill="white" stroke="#ef4444" stroke-width="1"/>
-    
-    <text x="70" y="540" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><rect width="500" height="100" x="50" y="520" fill="#fff" stroke="#ef4444" rx="4"/><text x="70" y="540" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Låneopptak
-    </text>
-    <text x="480" y="540" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="540" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       200 000
-    </text>
-    
-    <text x="70" y="560" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="70" y="560" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Nedbetaling av lån
-    </text>
-    <text x="480" y="560" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="560" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       (80 000)
-    </text>
-    
-    <text x="70" y="580" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="70" y="580" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Utbetalt utbytte
-    </text>
-    <text x="480" y="580" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="480" y="580" fill="#374151" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
       (50 000)
-    </text>
-    
-
-    <line x1="350" y1="590" x2="490" y2="590" stroke="#374151" stroke-width="1"/>
-    <text x="70" y="610" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
+    </text><path stroke="#374151" d="M350 590h140"/><text x="70" y="610" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Netto kontantstrøm fra finansieringsaktiviteter
-    </text>
-    <text x="480" y="610" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc2626">
+    </text><text x="480" y="610" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       70 000
-    </text>
-  </g>
-  
-
-  <g>
-    <rect x="50" y="640" width="500" height="50" rx="4" fill="#1e293b" opacity="0.9"/>
-    
-    <text x="70" y="660" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="500" height="50" x="50" y="640" fill="#1e293b" opacity=".9" rx="4"/><text x="70" y="660" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       NETTO ENDRING I KONTANTER OG BANKINNSKUDD
-    </text>
-    <text x="480" y="660" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="480" y="660" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       (80 000)
-    </text>
-    
-    <text x="70" y="680" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="680" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       Kontanter ved periodens begynnelse: 500 000
-    </text>
-    <line x1="350" y1="685" x2="490" y2="685" stroke="white" stroke-width="2"/>
-    <text x="70" y="705" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><path stroke="#fff" stroke-width="2" d="M350 685h140"/><text x="70" y="705" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Kontanter ved periodens slutt
-    </text>
-    <text x="480" y="705" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="480" y="705" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
       420 000
-    </text>
-  </g>
-</svg>
+    </text></svg>

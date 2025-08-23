@@ -1,161 +1,65 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="axisGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6c757d;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#495057;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fleksibilitet vs. Sikkerhet i arbeidsforhold
-  </text>
-  
-
-  <text x="400" y="55" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#6c757d">
+  </text><text x="400" y="55" fill="#6c757d" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Avveining mellom arbeidsgivers fleksibilitet og arbeidstakers sikkerhet
-  </text>
-  
-
-  <line x1="100" y1="100" x2="100" y2="500" stroke="#495057" stroke-width="3"/>
-  <text x="50" y="300" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057" transform="rotate(-90 50 300)">
+  </text><path stroke="#495057" stroke-width="3" d="M100 100v400"/><text x="50" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" transform="rotate(-90 50 300)">
     Sikkerhet for arbeidstaker
-  </text>
-  
-
-  <line x1="100" y1="500" x2="700" y2="500" stroke="#495057" stroke-width="3"/>
-  <text x="400" y="540" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><path stroke="#495057" stroke-width="3" d="M100 500h600"/><text x="400" y="540" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Fleksibilitet for arbeidsgiver
-  </text>
-  
-
-  <text x="90" y="110" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#6c757d">Høy</text>
-  <text x="90" y="495" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#6c757d">Lav</text>
-  <text x="110" y="515" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Lav</text>
-  <text x="690" y="515" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">Høy</text>
-  
-
-  <line x1="100" y1="200" x2="700" y2="200" stroke="#dee2e6" stroke-width="1" opacity="0.5"/>
-  <line x1="100" y1="300" x2="700" y2="300" stroke="#dee2e6" stroke-width="1" opacity="0.5"/>
-  <line x1="100" y1="400" x2="700" y2="400" stroke="#dee2e6" stroke-width="1" opacity="0.5"/>
-  <line x1="250" y1="100" x2="250" y2="500" stroke="#dee2e6" stroke-width="1" opacity="0.5"/>
-  <line x1="400" y1="100" x2="400" y2="500" stroke="#dee2e6" stroke-width="1" opacity="0.5"/>
-  <line x1="550" y1="100" x2="550" y2="500" stroke="#dee2e6" stroke-width="1" opacity="0.5"/>
-  
-
-  <circle cx="200" cy="150" r="25" fill="#28a745" opacity="0.8"/>
-  <text x="200" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="90" y="110" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">Høy</text><text x="90" y="495" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">Lav</text><text x="110" y="515" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">Lav</text><text x="690" y="515" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">Høy</text><path stroke="#dee2e6" d="M100 200h600M100 300h600M100 400h600M250 100v400M400 100v400M550 100v400" opacity=".5"/><circle cx="200" cy="150" r="25" fill="#28a745" opacity=".8"/><text x="200" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Fast
-  </text>
-  <text x="200" y="160" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="200" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     ansettelse
-  </text>
-  <text x="200" y="190" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">
+  </text><text x="200" y="190" fill="#28a745" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Høy sikkerhet
-  </text>
-  <text x="200" y="205" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#28a745">
+  </text><text x="200" y="205" fill="#28a745" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Lav fleksibilitet
-  </text>
-  
-
-  <circle cx="350" cy="250" r="25" fill="#ffc107" opacity="0.8"/>
-  <text x="350" y="245" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><circle cx="350" cy="250" r="25" fill="#ffc107" opacity=".8"/><text x="350" y="245" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Midlertidig
-  </text>
-  <text x="350" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="350" y="260" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     ansettelse
-  </text>
-  <text x="350" y="290" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#e0a800">
+  </text><text x="350" y="290" fill="#e0a800" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Middels sikkerhet
-  </text>
-  <text x="350" y="305" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#e0a800">
+  </text><text x="350" y="305" fill="#e0a800" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Middels fleksibilitet
-  </text>
-  
-
-  <circle cx="320" cy="220" r="20" fill="#17a2b8" opacity="0.8"/>
-  <text x="320" y="230" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="320" cy="220" r="20" fill="#17a2b8" opacity=".8"/><text x="320" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Vikariat
-  </text>
-  <text x="320" y="250" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#17a2b8">
+  </text><text x="320" y="250" fill="#17a2b8" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Tidsbegrenset
-  </text>
-  
-
-  <circle cx="500" cy="350" r="25" fill="#6f42c1" opacity="0.8"/>
-  <text x="500" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="500" cy="350" r="25" fill="#6f42c1" opacity=".8"/><text x="500" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Innleie
-  </text>
-  <text x="500" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6f42c1">
+  </text><text x="500" y="385" fill="#6f42c1" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Lav sikkerhet
-  </text>
-  <text x="500" y="400" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6f42c1">
+  </text><text x="500" y="400" fill="#6f42c1" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Høy fleksibilitet
-  </text>
-  
-
-  <circle cx="600" cy="450" r="25" fill="#dc3545" opacity="0.8"/>
-  <text x="600" y="445" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="600" cy="450" r="25" fill="#dc3545" opacity=".8"/><text x="600" y="445" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Selvstendig
-  </text>
-  <text x="600" y="460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="600" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     næringsdrivende
-  </text>
-  <text x="600" y="485" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#dc3545">
+  </text><text x="600" y="485" fill="#dc3545" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Ingen sikkerhet
-  </text>
-  <text x="600" y="500" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#dc3545">
+  </text><text x="600" y="500" fill="#dc3545" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Maksimal fleksibilitet
-  </text>
-  
-
-  <line x1="180" y1="170" x2="620" y2="430" stroke="#fd7e14" stroke-width="3" stroke-dasharray="5,5" opacity="0.7"/>
-  
-
-  <rect x="520" y="120" width="250" height="180" fill="white" stroke="#dee2e6" stroke-width="1" rx="5" opacity="0.95"/>
-  <text x="645" y="140" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><path stroke="#fd7e14" stroke-dasharray="5,5" stroke-width="3" d="m180 170 440 260" opacity=".7"/><rect width="250" height="180" x="520" y="120" fill="#fff" stroke="#dee2e6" opacity=".95" rx="5"/><text x="645" y="140" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Arbeidsgivers perspektiv
-  </text>
-  
-  <text x="530" y="165" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+  </text><text x="530" y="165" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Fast ansettelse:
-  </text>
-  <text x="540" y="180" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="540" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Forutsigbare kostnader
-  </text>
-  <text x="540" y="195" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="540" y="195" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Vanskelig å tilpasse bemanning
-  </text>
-  
-  <text x="530" y="215" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffc107">
+  </text><text x="530" y="215" fill="#ffc107" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Midlertidig/Innleie:
-  </text>
-  <text x="540" y="230" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="540" y="230" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Fleksibel bemanning
-  </text>
-  <text x="540" y="245" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="540" y="245" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Kan være dyrere per time
-  </text>
-  
-  <text x="530" y="265" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><text x="530" y="265" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Selvstendig:
-  </text>
-  <text x="540" y="280" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="540" y="280" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Maksimal fleksibilitet
-  </text>
-  <text x="540" y="295" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="540" y="295" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Risiko for omklassifisering
-  </text>
-  
-
-  <text x="400" y="570" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+  </text><text x="400" y="570" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Valg av arbeidsforholdstype krever balansering av fleksibilitet og sikkerhet
-  </text>
-</svg>
+  </text></svg>

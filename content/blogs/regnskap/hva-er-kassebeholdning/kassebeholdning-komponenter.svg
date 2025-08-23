@@ -1,171 +1,77 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="cashGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="bankGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1565C0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="investGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#F57C00;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#1565c0;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#f57c00;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Kassebeholdningens Komponenter
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="380" rx="15" fill="#fff" stroke="#ddd" stroke-width="2"/>
-  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+  </text><rect width="700" height="380" x="50" y="60" fill="#fff" stroke="#ddd" stroke-width="2" rx="15"/><text x="400" y="85" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     KASSEBEHOLDNING
-  </text>
-  
-
-  <rect x="80" y="120" width="200" height="280" rx="10" fill="url(#cashGrad)" stroke="#2E7D32" stroke-width="2"/>
-  <text x="180" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><rect width="200" height="280" x="80" y="120" fill="url(#a)" stroke="#2e7d32" stroke-width="2" rx="10"/><text x="180" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Kontanter i Kasse
-  </text>
-  
-
-  <rect x="100" y="160" width="160" height="60" rx="5" fill="#fff" opacity="0.9"/>
-  <text x="180" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><rect width="160" height="60" x="100" y="160" fill="#fff" opacity=".9" rx="5"/><text x="180" y="180" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Fysiske kontanter
-  </text>
-  <text x="180" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="180" y="195" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Sedler og mynter
-  </text>
-  <text x="180" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="180" y="210" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Butikkskuffer
-  </text>
-  
-  <rect x="100" y="230" width="160" height="60" rx="5" fill="#fff" opacity="0.9"/>
-  <text x="180" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><rect width="160" height="60" x="100" y="230" fill="#fff" opacity=".9" rx="5"/><text x="180" y="250" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Småkasse
-  </text>
-  <text x="180" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="180" y="265" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • 1 000 - 10 000 NOK
-  </text>
-  <text x="180" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="180" y="280" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Daglige småutgifter
-  </text>
-  
-  <text x="180" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+  </text><text x="180" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Høyest likviditet
-  </text>
-  <text x="180" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="180" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Umiddelbar tilgang
-  </text>
-  
-
-  <rect x="300" y="120" width="200" height="280" rx="10" fill="url(#bankGrad)" stroke="#1565C0" stroke-width="2"/>
-  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><rect width="200" height="280" x="300" y="120" fill="url(#b)" stroke="#1565c0" stroke-width="2" rx="10"/><text x="400" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Bankinnskudd
-  </text>
-  
-
-  <rect x="320" y="160" width="160" height="50" rx="5" fill="#fff" opacity="0.9"/>
-  <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><rect width="160" height="50" x="320" y="160" fill="#fff" opacity=".9" rx="5"/><text x="400" y="180" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Brukskontoer
-  </text>
-  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="400" y="195" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Daglig drift
-  </text>
-  <text x="400" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="400" y="205" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Lav rente
-  </text>
-  
-  <rect x="320" y="220" width="160" height="50" rx="5" fill="#fff" opacity="0.9"/>
-  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><rect width="160" height="50" x="320" y="220" fill="#fff" opacity=".9" rx="5"/><text x="400" y="240" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Sparekontoer
-  </text>
-  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="400" y="255" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Høyere rente
-  </text>
-  <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="400" y="265" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Oppsigelsesfrist
-  </text>
-  
-  <rect x="320" y="280" width="160" height="50" rx="5" fill="#fff" opacity="0.9"/>
-  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><rect width="160" height="50" x="320" y="280" fill="#fff" opacity=".9" rx="5"/><text x="400" y="300" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Høyrentekonto
-  </text>
-  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="400" y="315" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Konkurransedyktig rente
-  </text>
-  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="400" y="325" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Minimumsaldo
-  </text>
-  
-  <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+  </text><text x="400" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Høy likviditet
-  </text>
-  <text x="400" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="400" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Innskuddsgaranti
-  </text>
-  
-
-  <rect x="520" y="120" width="200" height="280" rx="10" fill="url(#investGrad)" stroke="#F57C00" stroke-width="2"/>
-  <text x="620" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><rect width="200" height="280" x="520" y="120" fill="url(#c)" stroke="#f57c00" stroke-width="2" rx="10"/><text x="620" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Kortsiktige
-  </text>
-  <text x="620" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">
+  </text><text x="620" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Investeringer
-  </text>
-  
-
-  <rect x="540" y="180" width="160" height="50" rx="5" fill="#fff" opacity="0.9"/>
-  <text x="620" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><rect width="160" height="50" x="540" y="180" fill="#fff" opacity=".9" rx="5"/><text x="620" y="200" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Pengemarkedsfond
-  </text>
-  <text x="620" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="620" y="215" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Daglig innløsning
-  </text>
-  <text x="620" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="620" y="225" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Lav risiko
-  </text>
-  
-  <rect x="540" y="240" width="160" height="50" rx="5" fill="#fff" opacity="0.9"/>
-  <text x="620" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><rect width="160" height="50" x="540" y="240" fill="#fff" opacity=".9" rx="5"/><text x="620" y="260" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Bankinnskuddsbevis
-  </text>
-  <text x="620" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="620" y="275" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • 1-12 måneder
-  </text>
-  <text x="620" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="620" y="285" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Fast rente
-  </text>
-  
-  <rect x="540" y="300" width="160" height="50" rx="5" fill="#fff" opacity="0.9"/>
-  <text x="620" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><rect width="160" height="50" x="540" y="300" fill="#fff" opacity=".9" rx="5"/><text x="620" y="320" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Statsobligasjoner
-  </text>
-  <text x="620" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="620" y="335" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Svært lav risiko
-  </text>
-  <text x="620" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="620" y="345" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • God likviditet
-  </text>
-  
-  <text x="620" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">
+  </text><text x="620" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Middels likviditet
-  </text>
-  <text x="620" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff">
+  </text><text x="620" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Høyere avkastning
-  </text>
-  
-
-  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="400" y="470" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Alle komponenter utgjør selskapets totale kassebeholdning
-  </text>
-  <text x="400" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="400" y="485" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Balanse mellom likviditet, sikkerhet og avkastning
-  </text>
-</svg>
+  </text></svg>

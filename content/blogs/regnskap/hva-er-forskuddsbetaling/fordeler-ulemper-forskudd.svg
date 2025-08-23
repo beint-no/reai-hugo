@@ -1,178 +1,65 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.2"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><filter id="b" width="120%" height="120%" x="-10%" y="-10%"><feDropShadow dx="2" dy="2" flood-color="#000" flood-opacity=".2" stdDeviation="3"/></filter></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fordeler og Ulemper ved Forskuddsbetaling
-  </text>
-  
-
-  <text x="200" y="100" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><text x="200" y="100" fill="#333" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     SELGER (LEVERANDØR)
-  </text>
-  
-
-  <rect x="50" y="120" width="300" height="200" fill="white" stroke="#28a745" stroke-width="2" rx="10" filter="url(#cardShadow)"/>
-  <rect x="50" y="120" width="300" height="40" fill="#28a745" rx="10"/>
-  <rect x="50" y="150" width="300" height="10" fill="#28a745"/>
-  <text x="200" y="145" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="200" x="50" y="120" fill="#fff" stroke="#28a745" stroke-width="2" filter="url(#b)" rx="10"/><rect width="300" height="40" x="50" y="120" fill="#28a745" rx="10"/><path fill="#28a745" d="M50 150h300v10H50z"/><text x="200" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FORDELER
-  </text>
-  
-
-  <circle cx="80" cy="185" r="8" fill="#28a745"/>
-  <text x="80" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  <text x="100" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="80" cy="185" r="8" fill="#28a745"/><text x="80" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="100" y="190" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Forbedret kontantstrøm
-  </text>
-  <text x="100" y="205" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="100" y="205" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Penger kommer inn før kostnader påløper
-  </text>
-  
-  <circle cx="80" cy="225" r="8" fill="#28a745"/>
-  <text x="80" y="230" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  <text x="100" y="230" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="80" cy="225" r="8" fill="#28a745"/><text x="80" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="100" y="230" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Redusert kredittrisiko
-  </text>
-  <text x="100" y="245" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="100" y="245" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Eliminerer risiko for tap på fordringer
-  </text>
-  
-  <circle cx="80" cy="265" r="8" fill="#28a745"/>
-  <text x="80" y="270" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  <text x="100" y="270" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="80" cy="265" r="8" fill="#28a745"/><text x="80" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="100" y="270" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Bedre planlegging
-  </text>
-  <text x="100" y="285" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="100" y="285" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Sikker inntekt gjør budsjettarbeid enklere
-  </text>
-  
-  <circle cx="80" cy="305" r="8" fill="#28a745"/>
-  <text x="80" y="310" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  <text x="100" y="310" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="80" cy="305" r="8" fill="#28a745"/><text x="80" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="100" y="310" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Lavere finansieringskostnader
-  </text>
-  
-
-  <rect x="450" y="120" width="300" height="200" fill="white" stroke="#dc3545" stroke-width="2" rx="10" filter="url(#cardShadow)"/>
-  <rect x="450" y="120" width="300" height="40" fill="#dc3545" rx="10"/>
-  <rect x="450" y="150" width="300" height="10" fill="#dc3545"/>
-  <text x="600" y="145" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="200" x="450" y="120" fill="#fff" stroke="#dc3545" stroke-width="2" filter="url(#b)" rx="10"/><rect width="300" height="40" x="450" y="120" fill="#dc3545" rx="10"/><path fill="#dc3545" d="M450 150h300v10H450z"/><text x="600" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ULEMPER
-  </text>
-  
-
-  <circle cx="480" cy="185" r="8" fill="#dc3545"/>
-  <text x="480" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✗</text>
-  <text x="500" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="480" cy="185" r="8" fill="#dc3545"/><text x="480" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✗</text><text x="500" y="190" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Leveringsforpliktelse
-  </text>
-  <text x="500" y="205" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="500" y="205" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Juridisk binding til å levere som avtalt
-  </text>
-  
-  <circle cx="480" cy="225" r="8" fill="#dc3545"/>
-  <text x="480" y="230" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✗</text>
-  <text x="500" y="230" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="480" cy="225" r="8" fill="#dc3545"/><text x="480" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✗</text><text x="500" y="230" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Regnskapsmessig kompleksitet
-  </text>
-  <text x="500" y="245" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="500" y="245" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Krever korrekt håndtering av forpliktelser
-  </text>
-  
-  <circle cx="480" cy="265" r="8" fill="#dc3545"/>
-  <text x="480" y="270" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✗</text>
-  <text x="500" y="270" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="480" cy="265" r="8" fill="#dc3545"/><text x="480" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✗</text><text x="500" y="270" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Høyere kundeforventninger
-  </text>
-  <text x="500" y="285" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="500" y="285" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Forventninger til service og kvalitet
-  </text>
-  
-
-  <text x="200" y="370" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><text x="200" y="370" fill="#333" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     KJØPER (KUNDE)
-  </text>
-  
-
-  <rect x="50" y="390" width="300" height="180" fill="white" stroke="#28a745" stroke-width="2" rx="10" filter="url(#cardShadow)"/>
-  <rect x="50" y="390" width="300" height="40" fill="#28a745" rx="10"/>
-  <rect x="50" y="420" width="300" height="10" fill="#28a745"/>
-  <text x="200" y="415" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="180" x="50" y="390" fill="#fff" stroke="#28a745" stroke-width="2" filter="url(#b)" rx="10"/><rect width="300" height="40" x="50" y="390" fill="#28a745" rx="10"/><path fill="#28a745" d="M50 420h300v10H50z"/><text x="200" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FORDELER
-  </text>
-  
-  <circle cx="80" cy="455" r="8" fill="#28a745"/>
-  <text x="80" y="460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  <text x="100" y="460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="80" cy="455" r="8" fill="#28a745"/><text x="80" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="100" y="460" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Rabatter og prisavslag
-  </text>
-  <text x="100" y="475" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="100" y="475" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Mange leverandører gir prisavslag
-  </text>
-  
-  <circle cx="80" cy="495" r="8" fill="#28a745"/>
-  <text x="80" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  <text x="100" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="80" cy="495" r="8" fill="#28a745"/><text x="80" y="500" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="100" y="500" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Sikret levering
-  </text>
-  <text x="100" y="515" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="100" y="515" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Garantert tilgang til varer/tjenester
-  </text>
-  
-  <circle cx="80" cy="535" r="8" fill="#28a745"/>
-  <text x="80" y="540" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✓</text>
-  <text x="100" y="540" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="80" cy="535" r="8" fill="#28a745"/><text x="80" y="540" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="100" y="540" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Budsjettforutsigbarhet
-  </text>
-  <text x="100" y="555" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="100" y="555" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Kostnader er fastlagt på forhånd
-  </text>
-  
-
-  <rect x="450" y="390" width="300" height="180" fill="white" stroke="#dc3545" stroke-width="2" rx="10" filter="url(#cardShadow)"/>
-  <rect x="450" y="390" width="300" height="40" fill="#dc3545" rx="10"/>
-  <rect x="450" y="420" width="300" height="10" fill="#dc3545"/>
-  <text x="600" y="415" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="180" x="450" y="390" fill="#fff" stroke="#dc3545" stroke-width="2" filter="url(#b)" rx="10"/><rect width="300" height="40" x="450" y="390" fill="#dc3545" rx="10"/><path fill="#dc3545" d="M450 420h300v10H450z"/><text x="600" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ULEMPER
-  </text>
-  
-  <circle cx="480" cy="455" r="8" fill="#dc3545"/>
-  <text x="480" y="460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✗</text>
-  <text x="500" y="460" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="480" cy="455" r="8" fill="#dc3545"/><text x="480" y="460" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✗</text><text x="500" y="460" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Kontantstrømbelastning
-  </text>
-  <text x="500" y="475" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="500" y="475" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Penger bindes opp før nytte realiseres
-  </text>
-  
-  <circle cx="480" cy="495" r="8" fill="#dc3545"/>
-  <text x="480" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✗</text>
-  <text x="500" y="500" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="480" cy="495" r="8" fill="#dc3545"/><text x="480" y="500" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✗</text><text x="500" y="500" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Leveringsrisiko
-  </text>
-  <text x="500" y="515" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="500" y="515" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Risiko for at leverandør ikke leverer
-  </text>
-  
-  <circle cx="480" cy="535" r="8" fill="#dc3545"/>
-  <text x="480" y="540" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">✗</text>
-  <text x="500" y="540" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><circle cx="480" cy="535" r="8" fill="#dc3545"/><text x="480" y="540" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✗</text><text x="500" y="540" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Begrenset fleksibilitet
-  </text>
-  <text x="500" y="555" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="500" y="555" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Vanskeligere å endre eller kansellere
-  </text>
-</svg>
+  </text></svg>

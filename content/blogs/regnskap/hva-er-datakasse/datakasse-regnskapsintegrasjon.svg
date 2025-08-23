@@ -1,139 +1,15 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Dataflyt fra Datakasse til Regnskap
-  </text>
-  
-
-  <g transform="translate(50, 100)">
-    <rect x="0" y="0" width="150" height="100" rx="10" fill="#34495e" stroke="#2c3e50" stroke-width="3"/>
-    <rect x="10" y="10" width="130" height="60" fill="#3498db"/>
-    <text x="75" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATAKASSE</text>
-    <text x="75" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Salg: 1.250,00 kr</text>
-    <text x="75" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">MVA: 250,00 kr</text>
-    
-
-    <rect x="20" y="80" width="110" height="15" rx="3" fill="#95a5a6"/>
-    
-
-    <g transform="translate(0, 120)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Transaksjonsdata:</text>
-      <text x="0" y="18" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Tidsstempel</text>
-      <text x="0" y="32" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Produktkoder</text>
-      <text x="0" y="46" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Beløp og MVA</text>
-      <text x="0" y="60" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Betalingsmetode</text>
-    </g>
-  </g>
-  
-
-  <g stroke="#e74c3c" stroke-width="4" fill="none" marker-end="url(#arrow)">
-    <defs>
-      <marker id="arrow" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto">
-        <polygon points="0 0, 12 4, 0 8" fill="#e74c3c"/>
-      </marker>
-    </defs>
-    <path d="M 200 150 L 280 150"/>
-  </g>
-  
-
-  <g transform="translate(290, 100)">
-    <rect x="0" y="0" width="150" height="100" rx="10" fill="#9b59b6" stroke="#8e44ad" stroke-width="3"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">DATABEHANDLING</text>
-    <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Automatisk kontering</text>
-    <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">MVA-beregning</text>
-    <text x="75" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Bilagsgenerering</text>
-    
-
-    <g transform="translate(0, 120)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Prosessering:</text>
-      <text x="0" y="18" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Validering av data</text>
-      <text x="0" y="32" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Kontokoding</text>
-      <text x="0" y="46" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Bilagsnummer</text>
-      <text x="0" y="60" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Formatering</text>
-    </g>
-  </g>
-  
-
-  <g stroke="#e74c3c" stroke-width="4" fill="none" marker-end="url(#arrow)">
-    <path d="M 440 150 L 520 150"/>
-  </g>
-  
-
-  <g transform="translate(530, 100)">
-    <rect x="0" y="0" width="150" height="100" rx="10" fill="#27ae60" stroke="#229954" stroke-width="3"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">REGNSKAPSSYSTEM</text>
-    <text x="75" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Automatisk bokføring</text>
-    <text x="75" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Bilagsarkivering</text>
-    <text x="75" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Rapportgenerering</text>
-    
-
-    <g transform="translate(0, 120)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">Regnskapsføring:</text>
-      <text x="0" y="18" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Journalføring</text>
-      <text x="0" y="32" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Hovedbok</text>
-      <text x="0" y="46" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• MVA-rapporter</text>
-      <text x="0" y="60" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Årsregnskap</text>
-    </g>
-  </g>
-  
-
-  <text x="240" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e74c3c">
+  </text><g transform="translate(50 100)"><rect width="150" height="100" fill="#34495e" stroke="#2c3e50" stroke-width="3" rx="10"/><path fill="#3498db" d="M10 10h130v60H10z"/><text x="75" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">DATAKASSE</text><text x="75" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Salg: 1.250,00 kr</text><text x="75" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">MVA: 250,00 kr</text><rect width="110" height="15" x="20" y="80" fill="#95a5a6" rx="3"/><g font-family="Arial, sans-serif"><text fill="#2c3e50" font-size="12" font-weight="bold" transform="translate(0 120)">Transaksjonsdata:</text><text y="18" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Tidsstempel</text><text y="32" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Produktkoder</text><text y="46" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Beløp og MVA</text><text y="60" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Betalingsmetode</text></g></g><g fill="none" stroke="#e74c3c" stroke-width="4" marker-end="url(#a)"><defs><marker id="a" markerHeight="8" markerWidth="12" orient="auto" refX="10" refY="4"><path fill="#e74c3c" d="m0 0 12 4L0 8z"/></marker></defs><path d="M200 150h80"/></g><g transform="translate(290 100)"><rect width="150" height="100" fill="#9b59b6" stroke="#8e44ad" stroke-width="3" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">DATABEHANDLING</text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Automatisk kontering</text><text x="75" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">MVA-beregning</text><text x="75" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Bilagsgenerering</text><g font-family="Arial, sans-serif"><text fill="#2c3e50" font-size="12" font-weight="bold" transform="translate(0 120)">Prosessering:</text><text y="18" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Validering av data</text><text y="32" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Kontokoding</text><text y="46" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Bilagsnummer</text><text y="60" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Formatering</text></g></g><path fill="none" stroke="#e74c3c" stroke-width="4" marker-end="url(#a)" d="M440 150h80"/><g transform="translate(530 100)"><rect width="150" height="100" fill="#27ae60" stroke="#229954" stroke-width="3" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">REGNSKAPSSYSTEM</text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Automatisk bokføring</text><text x="75" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Bilagsarkivering</text><text x="75" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Rapportgenerering</text><g font-family="Arial, sans-serif"><text fill="#2c3e50" font-size="12" font-weight="bold" transform="translate(0 120)">Regnskapsføring:</text><text y="18" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Journalføring</text><text y="32" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Hovedbok</text><text y="46" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• MVA-rapporter</text><text y="60" fill="#7f8c8d" font-size="10" transform="translate(0 120)">• Årsregnskap</text></g></g><text x="240" y="135" fill="#e74c3c" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Eksport
-  </text>
-  <text x="480" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e74c3c">
+  </text><text x="480" y="135" fill="#e74c3c" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Import
-  </text>
-  
-
-  <g transform="translate(50, 280)">
-    <rect x="0" y="0" width="300" height="180" rx="10" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><g transform="translate(50 280)"><rect width="300" height="180" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="150" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Eksempel Transaksjon
-    </text>
-    
-
-    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34495e">Fra Datakasse:</text>
-    <text x="20" y="70" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">Dato: 15.03.2024 14:32:15</text>
-    <text x="20" y="85" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">Vare: Kaffe - 2 stk à 25,00</text>
-    <text x="20" y="100" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">Totalt: 62,50 (inkl. 25% MVA)</text>
-    <text x="20" y="115" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">Betaling: Kontant</text>
-    
-
-    <text x="20" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#34495e">Til Regnskap:</text>
-    <text x="20" y="160" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">Bilag: 2024-001234</text>
-    <text x="20" y="175" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">Debet: Kasse 1910 - 62,50</text>
-    <text x="150" y="175" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">Kredit: Salg 3000 - 50,00</text>
-    <text x="150" y="190" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">Kredit: MVA 2700 - 12,50</text>
-  </g>
-  
-
-  <g transform="translate(400, 280)">
-    <rect x="0" y="0" width="350" height="180" rx="10" fill="#e8f5e8" stroke="#27ae60" stroke-width="2"/>
-    <text x="175" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    </text><text x="20" y="50" fill="#34495e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Fra Datakasse:</text><text x="20" y="70" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10">Dato: 15.03.2024 14:32:15</text><text x="20" y="85" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10">Vare: Kaffe - 2 stk à 25,00</text><text x="20" y="100" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10">Totalt: 62,50 (inkl. 25% MVA)</text><text x="20" y="115" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10">Betaling: Kontant</text><text x="20" y="140" fill="#34495e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Til Regnskap:</text><text x="20" y="160" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10">Bilag: 2024-001234</text><text x="20" y="175" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10">Debet: Kasse 1910 - 62,50</text><text x="150" y="175" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10">Kredit: Salg 3000 - 50,00</text><text x="150" y="190" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10">Kredit: MVA 2700 - 12,50</text></g><g transform="translate(400 280)"><rect width="350" height="180" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="10"/><text x="175" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Integrasjonsfordeler
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">Automatisering:</text>
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Eliminerer manuell dataregistrering</text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Reduserer feilrisiko betydelig</text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Sparer tid på regnskapsføring</text>
-      
-      <text x="0" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">Sanntidsoppdatering:</text>
-      <text x="0" y="95" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Øyeblikkelig tilgang til salgsdata</text>
-      <text x="0" y="110" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Oppdaterte finansielle rapporter</text>
-      <text x="0" y="125" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">• Bedre kontroll og oversikt</text>
-    </g>
-  </g>
-  
-
-  <text x="240" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+    </text><g font-family="Arial, sans-serif"><text fill="#27ae60" font-size="12" font-weight="bold" transform="translate(20 45)">Automatisering:</text><text y="20" fill="#7f8c8d" font-size="10" transform="translate(20 45)">• Eliminerer manuell dataregistrering</text><text y="35" fill="#7f8c8d" font-size="10" transform="translate(20 45)">• Reduserer feilrisiko betydelig</text><text y="50" fill="#7f8c8d" font-size="10" transform="translate(20 45)">• Sparer tid på regnskapsføring</text><text y="75" fill="#27ae60" font-size="12" font-weight="bold" transform="translate(20 45)">Sanntidsoppdatering:</text><text y="95" fill="#7f8c8d" font-size="10" transform="translate(20 45)">• Øyeblikkelig tilgang til salgsdata</text><text y="110" fill="#7f8c8d" font-size="10" transform="translate(20 45)">• Oppdaterte finansielle rapporter</text><text y="125" fill="#7f8c8d" font-size="10" transform="translate(20 45)">• Bedre kontroll og oversikt</text></g></g><text x="240" y="190" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     API / CSV / XML
-  </text>
-  <text x="480" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+  </text><text x="480" y="190" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Automatisk import
-  </text>
-</svg>
+  </text></svg>

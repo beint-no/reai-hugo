@@ -1,142 +1,59 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="finansGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="realGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Finanskapital vs. Realkapital
-  </text>
-  
-
-  <circle cx="400" cy="250" r="30" fill="#6c757d"/>
-  <text x="400" y="260" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="400" cy="250" r="30" fill="#6c757d"/><text x="400" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     VS
-  </text>
-  
-
-  <rect x="50" y="80" width="300" height="340" fill="white" stroke="#007bff" stroke-width="3" rx="15"/>
-  <rect x="50" y="80" width="300" height="50" fill="url(#finansGradient)" rx="15"/>
-  <rect x="50" y="115" width="300" height="15" fill="url(#finansGradient)"/>
-  
-  <text x="200" y="110" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="340" x="50" y="80" fill="#fff" stroke="#007bff" stroke-width="3" rx="15"/><rect width="300" height="50" x="50" y="80" fill="url(#b)" rx="15"/><path fill="url(#b)" d="M50 115h300v15H50z"/><text x="200" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     FINANSKAPITAL
-  </text>
-  
-
-  <circle cx="200" cy="170" r="25" fill="#007bff"/>
-  <text x="200" y="178" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="200" cy="170" r="25" fill="#007bff"/><text x="200" y="178" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     $
-  </text>
-  
-
-  <text x="70" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="70" y="220" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kjennetegn:
-  </text>
-  <text x="70" y="240" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="240" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Penger og finansielle instrumenter
-  </text>
-  <text x="70" y="255" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="255" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Høy til middels likviditet
-  </text>
-  <text x="70" y="270" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="270" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Markedsbasert verdiendring
-  </text>
-  <text x="70" y="285" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="285" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Fleksibel anvendelse
-  </text>
-  
-  <text x="70" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="70" y="310" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Eksempler:
-  </text>
-  <text x="70" y="330" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="330" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Kontanter og bankinnskudd
-  </text>
-  <text x="70" y="345" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="345" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Aksjer og obligasjoner
-  </text>
-  <text x="70" y="360" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="360" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Kundefordringer
-  </text>
-  <text x="70" y="375" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="70" y="375" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Finansielle investeringer
-  </text>
-  
-  <rect x="70" y="390" width="260" height="20" fill="#e3f2fd" stroke="#007bff" stroke-width="1" rx="3"/>
-  <text x="200" y="403" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#007bff">
+  </text><rect width="260" height="20" x="70" y="390" fill="#e3f2fd" stroke="#007bff" rx="3"/><text x="200" y="403" fill="#007bff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Finansiering og investeringer
-  </text>
-  
-
-  <rect x="450" y="80" width="300" height="340" fill="white" stroke="#28a745" stroke-width="3" rx="15"/>
-  <rect x="450" y="80" width="300" height="50" fill="url(#realGradient)" rx="15"/>
-  <rect x="450" y="115" width="300" height="15" fill="url(#realGradient)"/>
-  
-  <text x="600" y="110" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="340" x="450" y="80" fill="#fff" stroke="#28a745" stroke-width="3" rx="15"/><rect width="300" height="50" x="450" y="80" fill="url(#c)" rx="15"/><path fill="url(#c)" d="M450 115h300v15H450z"/><text x="600" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     REALKAPITAL
-  </text>
-  
-
-  <rect x="575" y="145" width="50" height="50" fill="#28a745" rx="5"/>
-  <text x="600" y="178" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="50" height="50" x="575" y="145" fill="#28a745" rx="5"/><text x="600" y="178" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     🏭
-  </text>
-  
-
-  <text x="470" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="470" y="220" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kjennetegn:
-  </text>
-  <text x="470" y="240" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="470" y="240" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Fysiske eiendeler og produksjonsmidler
-  </text>
-  <text x="470" y="255" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="470" y="255" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Lav til middels likviditet
-  </text>
-  <text x="470" y="270" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="470" y="270" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Avskrivning over tid
-  </text>
-  <text x="470" y="285" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="470" y="285" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Spesifikk anvendelse
-  </text>
-  
-  <text x="470" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="470" y="310" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Eksempler:
-  </text>
-  <text x="470" y="330" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="470" y="330" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Maskiner og utstyr
-  </text>
-  <text x="470" y="345" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="470" y="345" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Bygninger og eiendom
-  </text>
-  <text x="470" y="360" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="470" y="360" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Varelager
-  </text>
-  <text x="470" y="375" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="470" y="375" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Anleggsmidler
-  </text>
-  
-  <rect x="470" y="390" width="260" height="20" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="3"/>
-  <text x="600" y="403" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="260" height="20" x="470" y="390" fill="#e8f5e8" stroke="#28a745" rx="3"/><text x="600" y="403" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Produksjon og drift
-  </text>
-  
-
-  <rect x="100" y="450" width="600" height="30" fill="white" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="400" y="470" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#6c757d">
+  </text><rect width="600" height="30" x="100" y="450" fill="#fff" stroke="#6c757d" rx="5"/><text x="400" y="470" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Begge typer kapital er nødvendige for bedriftens drift og vekst
-  </text>
-</svg>
+  </text></svg>

@@ -1,237 +1,101 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f0f9ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e0f2fe;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f0f9ff;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="selectedGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dcfce7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#bbf7d0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0c4a6e">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f0f9ff;stop-opacity:1"/><stop offset="100%" style="stop-color:#e0f2fe;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff;stop-opacity:1"/><stop offset="100%" style="stop-color:#f0f9ff;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dcfce7;stop-opacity:1"/><stop offset="100%" style="stop-color:#bbf7d0;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Prosess for Valg av Leverandør
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#processGradient)" stroke="#0ea5e9" stroke-width="2"/>
-    <circle cx="20" cy="20" r="12" fill="#0ea5e9"/>
-    <text x="16" y="25" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">1</text>
-    <text x="40" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c4a6e">
+  </text><g transform="translate(50 80)"><rect width="140" height="100" fill="url(#b)" stroke="#0ea5e9" stroke-width="2" rx="10"/><circle cx="20" cy="20" r="12" fill="#0ea5e9"/><text x="16" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">1</text><text x="40" y="20" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Forespørsel
-    </text>
-    <text x="40" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c4a6e">
+    </text><text x="40" y="35" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       om Tilbud (RFP)
-    </text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Detaljert beskrivelse
-    </text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Krav og kriterier
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Tidsfrister
-    </text>
-  </g>
-  
-
-  <g transform="translate(230, 80)">
-    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#processGradient)" stroke="#0ea5e9" stroke-width="2"/>
-    <circle cx="20" cy="20" r="12" fill="#0ea5e9"/>
-    <text x="16" y="25" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">2</text>
-    <text x="40" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c4a6e">
+    </text></g><g transform="translate(230 80)"><rect width="140" height="100" fill="url(#b)" stroke="#0ea5e9" stroke-width="2" rx="10"/><circle cx="20" cy="20" r="12" fill="#0ea5e9"/><text x="16" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">2</text><text x="40" y="20" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Vurdering av
-    </text>
-    <text x="40" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c4a6e">
+    </text><text x="40" y="35" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Tilbud
-    </text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Faglig kompetanse
-    </text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Pris og betingelser
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Teknisk kapasitet
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#processGradient)" stroke="#0ea5e9" stroke-width="2"/>
-    <circle cx="20" cy="20" r="12" fill="#0ea5e9"/>
-    <text x="16" y="25" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">3</text>
-    <text x="40" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c4a6e">
+    </text></g><g transform="translate(410 80)"><rect width="140" height="100" fill="url(#b)" stroke="#0ea5e9" stroke-width="2" rx="10"/><circle cx="20" cy="20" r="12" fill="#0ea5e9"/><text x="16" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">3</text><text x="40" y="20" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Referanse-
-    </text>
-    <text x="40" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0c4a6e">
+    </text><text x="40" y="35" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       sjekk
-    </text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Eksisterende kunder
-    </text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Kvalitet og service
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Pålitelighet
-    </text>
-  </g>
-  
-
-  <g transform="translate(590, 80)">
-    <rect x="0" y="0" width="140" height="100" rx="10" fill="url(#selectedGradient)" stroke="#10b981" stroke-width="2"/>
-    <circle cx="20" cy="20" r="12" fill="#10b981"/>
-    <text x="16" y="25" font-family="Arial, sans-serif" font-size="10" fill="white" font-weight="bold">✓</text>
-    <text x="40" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#065f46">
+    </text></g><g transform="translate(590 80)"><rect width="140" height="100" fill="url(#c)" stroke="#10b981" stroke-width="2" rx="10"/><circle cx="20" cy="20" r="12" fill="#10b981"/><text x="16" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">✓</text><text x="40" y="20" fill="#065f46" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Endelig Valg
-    </text>
-    <text x="40" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#065f46">
+    </text><text x="40" y="35" fill="#065f46" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       av Leverandør
-    </text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Forhandlinger
-    </text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Kontraktsinngåelse
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="9" fill="#374151">
+    </text><text x="10" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="9">
       • Implementering
-    </text>
-  </g>
-  
-
-  <polygon points="200,130 220,125 220,135" fill="#64748b"/>
-  <line x1="190" y1="130" x2="220" y2="130" stroke="#64748b" stroke-width="2"/>
-  
-  <polygon points="380,130 400,125 400,135" fill="#64748b"/>
-  <line x1="370" y1="130" x2="400" y2="130" stroke="#64748b" stroke-width="2"/>
-  
-  <polygon points="560,130 580,125 580,135" fill="#64748b"/>
-  <line x1="550" y1="130" x2="580" y2="130" stroke="#64748b" stroke-width="2"/>
-  
-
-  <g transform="translate(50, 220)">
-    <rect x="0" y="0" width="340" height="160" rx="10" fill="url(#processGradient)" stroke="#3b82f6" stroke-width="2"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e40af">
+    </text></g><path fill="#64748b" d="m200 130 20-5v10z"/><path stroke="#64748b" stroke-width="2" d="M190 130h30"/><path fill="#64748b" d="m380 130 20-5v10z"/><path stroke="#64748b" stroke-width="2" d="M370 130h30"/><path fill="#64748b" d="m560 130 20-5v10z"/><path stroke="#64748b" stroke-width="2" d="M550 130h30"/><g transform="translate(50 220)"><rect width="340" height="160" fill="url(#b)" stroke="#3b82f6" stroke-width="2" rx="10"/><text x="170" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Evalueringskriterier
-    </text>
-    
-    <text x="15" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">
+    </text><text x="15" y="50" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Faglig Kompetanse:
-    </text>
-    <text x="15" y="65" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Erfaring innen relevant fagområde
-    </text>
-    <text x="15" y="80" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="80" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Sertifiseringer og kvalifikasjoner
-    </text>
-    
-    <text x="15" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">
+    </text><text x="15" y="100" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Økonomisk Soliditet:
-    </text>
-    <text x="15" y="115" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="115" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Finansiell stabilitet og lønnsomhet
-    </text>
-    <text x="15" y="130" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Forsikringsdekning for ansvar
-    </text>
-    <text x="15" y="145" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="145" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Langsiktig bærekraft
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 220)">
-    <rect x="0" y="0" width="340" height="160" rx="10" fill="url(#processGradient)" stroke="#8b5cf6" stroke-width="2"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#581c87">
+    </text></g><g transform="translate(410 220)"><rect width="340" height="160" fill="url(#b)" stroke="#8b5cf6" stroke-width="2" rx="10"/><text x="170" y="25" fill="#581c87" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Due Diligence Prosess
-    </text>
-    
-    <text x="15" y="50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#581c87">
+    </text><text x="15" y="50" fill="#581c87" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Dokumentgjennomgang:
-    </text>
-    <text x="15" y="65" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Selskapsstruktur og eierforhold
-    </text>
-    <text x="15" y="80" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="80" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Finansielle rapporter og nøkkeltall
-    </text>
-    
-    <text x="15" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#581c87">
+    </text><text x="15" y="100" fill="#581c87" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Stedlig Inspeksjon:
-    </text>
-    <text x="15" y="115" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="115" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Besøk hos leverandør
-    </text>
-    <text x="15" y="130" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Møte med nøkkelpersonell
-    </text>
-    <text x="15" y="145" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="145" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Vurdering av sikkerhetstiltak
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 400)">
-    <rect x="0" y="0" width="340" height="140" rx="10" fill="url(#processGradient)" stroke="#f59e0b" stroke-width="2"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">
+    </text></g><g transform="translate(50 400)"><rect width="340" height="140" fill="url(#b)" stroke="#f59e0b" stroke-width="2" rx="10"/><text x="170" y="25" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Teknisk Kapasitet
-    </text>
-    
-    <text x="15" y="50" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • IT-systemer og infrastruktur
-    </text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Integrasjonsmuligheter med eksisterende systemer
-    </text>
-    <text x="15" y="90" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Backup og sikkerhetssystemer
-    </text>
-    <text x="15" y="110" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Skalerbarhet ved endrede behov
-    </text>
-    <text x="15" y="130" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Compliance og kvalitetssystemer
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 400)">
-    <rect x="0" y="0" width="340" height="140" rx="10" fill="url(#processGradient)" stroke="#ef4444" stroke-width="2"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#991b1b">
+    </text></g><g transform="translate(410 400)"><rect width="340" height="140" fill="url(#b)" stroke="#ef4444" stroke-width="2" rx="10"/><text x="170" y="25" fill="#991b1b" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Referanser og Omdømme
-    </text>
-    
-    <text x="15" y="50" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Kundetilfredshetsundersøkelser
-    </text>
-    <text x="15" y="70" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Referansekunder i lignende bransjer
-    </text>
-    <text x="15" y="90" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Omdømme i markedet
-    </text>
-    <text x="15" y="110" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Klagehistorikk og konflikthåndtering
-    </text>
-    <text x="15" y="130" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+    </text><text x="15" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       • Erfaring med lignende oppdrag
-    </text>
-  </g>
-  
-
-  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
+    </text></g><text x="400" y="580" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Systematisk tilnærming sikrer valg av riktig leverandør for langsiktig suksess
-  </text>
-</svg>
+  </text></svg>

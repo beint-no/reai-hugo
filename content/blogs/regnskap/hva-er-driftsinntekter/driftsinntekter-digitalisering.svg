@@ -1,227 +1,61 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="digitalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="revenueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="futureGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Digitalisering av Driftsinntekter
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#revenueGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="340" height="200" fill="url(#a)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Nye Inntektsmodeller
-    </text>
-    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="170" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Digitale forretningsmodeller
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="140" height="60" opacity=".2" rx="5"/><text x="70" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Abonnementsmodeller
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Regelmessige betalinger</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Forutsigbare inntekter</text>
-      
-
-      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">• Regelmessige betalinger</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">• Forutsigbare inntekter</text><rect width="140" height="60" x="160" opacity=".2" rx="5"/><text x="230" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Freemium-modeller
-      </text>
-      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Gratis basisversjon</text>
-      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Betalt for premium</text>
-      
-
-      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="170" y="35" font-family="Arial, sans-serif" font-size="11">• Gratis basisversjon</text><text x="170" y="50" font-family="Arial, sans-serif" font-size="11">• Betalt for premium</text><rect width="140" height="60" y="75" opacity=".2" rx="5"/><text x="70" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Platform-økonomi
-      </text>
-      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Formidling mellom parter</text>
-      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Provisjonsbasert</text>
-      
-
-      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="110" font-family="Arial, sans-serif" font-size="11">• Formidling mellom parter</text><text x="10" y="125" font-family="Arial, sans-serif" font-size="11">• Provisjonsbasert</text><rect width="140" height="60" x="160" y="75" opacity=".2" rx="5"/><text x="230" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Data-monetisering
-      </text>
-      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Salg av data og innsikt</text>
-      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Analytiske tjenester</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#techGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="170" y="110" font-family="Arial, sans-serif" font-size="11">• Salg av data og innsikt</text><text x="170" y="125" font-family="Arial, sans-serif" font-size="11">• Analytiske tjenester</text></g></g><g transform="translate(410 80)"><rect width="340" height="200" fill="url(#b)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Teknologiske Løsninger
-    </text>
-    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="170" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Automatisering og integrasjon
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="140" height="60" opacity=".2" rx="5"/><text x="70" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Automatisert fakturering
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Reduserer manuelle feil</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Raskere prosessering</text>
-      
-
-      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">• Reduserer manuelle feil</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">• Raskere prosessering</text><rect width="140" height="60" x="160" opacity=".2" rx="5"/><text x="230" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Sanntidsrapportering
-      </text>
-      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Bedre oversikt</text>
-      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Raskere beslutninger</text>
-      
-
-      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="170" y="35" font-family="Arial, sans-serif" font-size="11">• Bedre oversikt</text><text x="170" y="50" font-family="Arial, sans-serif" font-size="11">• Raskere beslutninger</text><rect width="140" height="60" y="75" opacity=".2" rx="5"/><text x="70" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Integrerte systemer
-      </text>
-      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Salg, lager, regnskap</text>
-      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Sømløs dataflyt</text>
-      
-
-      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="110" font-family="Arial, sans-serif" font-size="11">• Salg, lager, regnskap</text><text x="10" y="125" font-family="Arial, sans-serif" font-size="11">• Sømløs dataflyt</text><rect width="140" height="60" x="160" y="75" opacity=".2" rx="5"/><text x="230" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         AI og maskinlæring
-      </text>
-      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Prediktiv analyse</text>
-      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Trendidentifikasjon</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 300)">
-    <rect x="0" y="0" width="700" height="120" rx="10" fill="url(#digitalGradient)" opacity="0.9"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="170" y="110" font-family="Arial, sans-serif" font-size="11">• Prediktiv analyse</text><text x="170" y="125" font-family="Arial, sans-serif" font-size="11">• Trendidentifikasjon</text></g></g><g transform="translate(50 300)"><rect width="700" height="120" fill="url(#c)" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Digital Transformasjonsprosess
-    </text>
-    
-
-    <g transform="translate(30, 45)">
-
-      <rect x="0" y="0" width="120" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="60" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(30 45)"><rect width="120" height="60" opacity=".2" rx="5"/><text x="60" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         1. Kartlegging
-      </text>
-      <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• Nåværende prosesser</text>
-      <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Identifiser behov</text>
-      
-
-      <polygon points="130,30 145,25 145,35" fill="white"/>
-      
-
-      <rect x="155" y="0" width="120" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="215" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="40" font-family="Arial, sans-serif" font-size="11">• Nåværende prosesser</text><text x="10" y="55" font-family="Arial, sans-serif" font-size="11">• Identifiser behov</text><path d="m130 30 15-5v10z"/><rect width="120" height="60" x="155" opacity=".2" rx="5"/><text x="215" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         2. Planlegging
-      </text>
-      <text x="165" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• Teknologivalg</text>
-      <text x="165" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Implementeringsplan</text>
-      
-
-      <polygon points="285,30 300,25 300,35" fill="white"/>
-      
-
-      <rect x="310" y="0" width="120" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="370" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="165" y="40" font-family="Arial, sans-serif" font-size="11">• Teknologivalg</text><text x="165" y="55" font-family="Arial, sans-serif" font-size="11">• Implementeringsplan</text><path d="m285 30 15-5v10z"/><rect width="120" height="60" x="310" opacity=".2" rx="5"/><text x="370" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         3. Implementering
-      </text>
-      <text x="320" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• Systeminstallasjon</text>
-      <text x="320" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Datamigrering</text>
-      
-
-      <polygon points="440,30 455,25 455,35" fill="white"/>
-      
-
-      <rect x="465" y="0" width="120" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="525" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="320" y="40" font-family="Arial, sans-serif" font-size="11">• Systeminstallasjon</text><text x="320" y="55" font-family="Arial, sans-serif" font-size="11">• Datamigrering</text><path d="m440 30 15-5v10z"/><rect width="120" height="60" x="465" opacity=".2" rx="5"/><text x="525" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         4. Optimalisering
-      </text>
-      <text x="475" y="40" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontinuerlig forbedring</text>
-      <text x="475" y="55" font-family="Arial, sans-serif" font-size="11" fill="white">• Ytelsesovervåking</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 440)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+      </text><text x="475" y="40" font-family="Arial, sans-serif" font-size="11">• Kontinuerlig forbedring</text><text x="475" y="55" font-family="Arial, sans-serif" font-size="11">• Ytelsesovervåking</text></g></g><text y="20" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" transform="translate(50 440)">
       Fordeler og Utfordringer ved Digitalisering
-    </text>
-    
-
-    <g transform="translate(0, 35)">
-      <rect x="0" y="0" width="330" height="100" rx="5" fill="#d4edda" stroke="#c3e6cb"/>
-      <text x="165" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#155724">
+    </text><g transform="translate(50 475)"><rect width="330" height="100" fill="#d4edda" stroke="#c3e6cb" rx="5"/><text x="165" y="20" fill="#155724" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         ✅ Fordeler
-      </text>
-      <text x="15" y="40" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+      </text><text x="15" y="40" fill="#155724" font-family="Arial, sans-serif" font-size="12">
         • Økt effektivitet og nøyaktighet
-      </text>
-      <text x="15" y="55" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+      </text><text x="15" y="55" fill="#155724" font-family="Arial, sans-serif" font-size="12">
         • Bedre innsikt og analyse
-      </text>
-      <text x="15" y="70" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+      </text><text x="15" y="70" fill="#155724" font-family="Arial, sans-serif" font-size="12">
         • Reduserte kostnader
-      </text>
-      <text x="15" y="85" font-family="Arial, sans-serif" font-size="12" fill="#155724">
+      </text><text x="15" y="85" fill="#155724" font-family="Arial, sans-serif" font-size="12">
         • Skalerbarhet og fleksibilitet
-      </text>
-    </g>
-    
-
-    <g transform="translate(370, 35)">
-      <rect x="0" y="0" width="330" height="100" rx="5" fill="#f8d7da" stroke="#f5c6cb"/>
-      <text x="165" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
+      </text></g><g transform="translate(420 475)"><rect width="330" height="100" fill="#f8d7da" stroke="#f5c6cb" rx="5"/><text x="165" y="20" fill="#721c24" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         ⚠️ Utfordringer
-      </text>
-      <text x="15" y="40" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+      </text><text x="15" y="40" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
         • Høye implementeringskostnader
-      </text>
-      <text x="15" y="55" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+      </text><text x="15" y="55" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
         • Behov for kompetanseutvikling
-      </text>
-      <text x="15" y="70" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+      </text><text x="15" y="70" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
         • Datasikkerhet og personvern
-      </text>
-      <text x="15" y="85" font-family="Arial, sans-serif" font-size="12" fill="#721c24">
+      </text><text x="15" y="85" fill="#721c24" font-family="Arial, sans-serif" font-size="12">
         • Endringsledelse og motstand
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 570)">
-    <rect x="0" y="0" width="700" height="25" rx="5" fill="url(#futureGradient)" opacity="0.9"/>
-    <text x="20" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text></g><g transform="translate(50 570)"><rect width="700" height="25" fill="url(#d)" opacity=".9" rx="5"/><text x="20" y="18" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       🚀 Fremtiden: Blockchain, IoT og avansert AI vil revolusjonere inntektshåndtering ytterligere
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

@@ -1,139 +1,19 @@
-<svg width="800" height="550" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="diffGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4f46e5;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="550" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
-  
-
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" 
-        text-anchor="middle" fill="url(#diffGradient)">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="550"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#6366f1;stop-opacity:1"/><stop offset="100%" style="stop-color:#4f46e5;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" stroke="#e2e8f0" stroke-width="2" d="M0 0h800v550H0z"/><text x="400" y="35" fill="url(#a)" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Forskjeller: Regnskapsmessig vs Skattemessig Avskrivning
-  </text>
-  
-
-  <rect x="50" y="70" width="700" height="280" fill="white" stroke="#e2e8f0" stroke-width="2"/>
-  
-
-  <rect x="50" y="70" width="700" height="40" fill="#6366f1" stroke="#4f46e5" stroke-width="1"/>
-  
-  <text x="200" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
-        text-anchor="middle" fill="white">Aspekt</text>
-  <text x="450" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
-        text-anchor="middle" fill="white">Regnskapsmessig</text>
-  <text x="650" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
-        text-anchor="middle" fill="white">Skattemessig</text>
-  
-
-  <line x1="350" y1="70" x2="350" y2="350" stroke="#e2e8f0" stroke-width="1"/>
-  <line x1="550" y1="70" x2="550" y2="350" stroke="#e2e8f0" stroke-width="1"/>
-  
-
-  <rect x="50" y="110" width="700" height="35" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="200" y="132" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
-        text-anchor="middle" fill="#4f46e5">Formål</text>
-  <text x="450" y="132" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Riktig resultatmåling</text>
-  <text x="650" y="132" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Skatteplanlegging</text>
-  
-
-  <rect x="50" y="145" width="700" height="35" fill="white" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="200" y="167" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
-        text-anchor="middle" fill="#4f46e5">Fleksibilitet</text>
-  <text x="450" y="167" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Kan tilpasses virksomheten</text>
-  <text x="650" y="167" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Faste lovbestemte regler</text>
-  
-
-  <rect x="50" y="180" width="700" height="35" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="200" y="202" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
-        text-anchor="middle" fill="#4f46e5">Avskrivningssats</text>
-  <text x="450" y="202" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Basert på faktisk brukstid</text>
-  <text x="650" y="202" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Maksimalsatser per gruppe</text>
-  
-
-  <rect x="50" y="215" width="700" height="35" fill="white" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="200" y="237" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
-        text-anchor="middle" fill="#4f46e5">Restverdi</text>
-  <text x="450" y="237" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Kan inkluderes i beregning</text>
-  <text x="650" y="237" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Ignoreres i beregninger</text>
-  
-
-  <rect x="50" y="250" width="700" height="35" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="200" y="272" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
-        text-anchor="middle" fill="#4f46e5">Behandling ved salg</text>
-  <text x="450" y="272" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Gevinst/tap mot bokført verdi</text>
-  <text x="650" y="272" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Salgspris trekkes fra saldo</text>
-  
-
-  <rect x="50" y="285" width="700" height="35" fill="white" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="200" y="307" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
-        text-anchor="middle" fill="#4f46e5">Periodisering</text>
-  <text x="450" y="307" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Kan gjøres månedlig</text>
-  <text x="650" y="307" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Typisk årlig beregning</text>
-  
-
-  <rect x="50" y="320" width="700" height="30" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="200" y="340" font-family="Arial, sans-serif" font-size="13" font-weight="bold" 
-        text-anchor="middle" fill="#4f46e5">Dokumentasjon</text>
-  <text x="450" y="340" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Interne retningslinjer</text>
-  <text x="650" y="340" font-family="Arial, sans-serif" font-size="12" 
-        text-anchor="middle" fill="#374151">Selvangivelse og skattemelding</text>
-  
-
-  <rect x="100" y="380" width="600" height="140" fill="#ede9fe" stroke="#6366f1" stroke-width="2" rx="8"/>
-  
-  <text x="400" y="405" font-family="Arial, sans-serif" font-size="18" font-weight="bold" 
-        text-anchor="middle" fill="#4f46e5">
+  </text><path fill="#fff" stroke="#e2e8f0" stroke-width="2" d="M50 70h700v280H50z"/><path fill="#6366f1" stroke="#4f46e5" d="M50 70h700v40H50z"/><text x="200" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Aspekt</text><text x="450" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Regnskapsmessig</text><text x="650" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Skattemessig</text><path stroke="#e2e8f0" d="M350 70v280M550 70v280"/><path fill="#f8fafc" stroke="#e2e8f0" d="M50 110h700v35H50z"/><text x="200" y="132" fill="#4f46e5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Formål</text><text x="450" y="132" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Riktig resultatmåling</text><text x="650" y="132" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Skatteplanlegging</text><path fill="#fff" stroke="#e2e8f0" d="M50 145h700v35H50z"/><text x="200" y="167" fill="#4f46e5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Fleksibilitet</text><text x="450" y="167" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Kan tilpasses virksomheten</text><text x="650" y="167" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Faste lovbestemte regler</text><path fill="#f8fafc" stroke="#e2e8f0" d="M50 180h700v35H50z"/><text x="200" y="202" fill="#4f46e5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Avskrivningssats</text><text x="450" y="202" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Basert på faktisk brukstid</text><text x="650" y="202" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Maksimalsatser per gruppe</text><path fill="#fff" stroke="#e2e8f0" d="M50 215h700v35H50z"/><text x="200" y="237" fill="#4f46e5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Restverdi</text><text x="450" y="237" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Kan inkluderes i beregning</text><text x="650" y="237" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Ignoreres i beregninger</text><path fill="#f8fafc" stroke="#e2e8f0" d="M50 250h700v35H50z"/><text x="200" y="272" fill="#4f46e5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Behandling ved salg</text><text x="450" y="272" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Gevinst/tap mot bokført verdi</text><text x="650" y="272" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Salgspris trekkes fra saldo</text><path fill="#fff" stroke="#e2e8f0" d="M50 285h700v35H50z"/><text x="200" y="307" fill="#4f46e5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Periodisering</text><text x="450" y="307" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Kan gjøres månedlig</text><text x="650" y="307" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Typisk årlig beregning</text><path fill="#f8fafc" stroke="#e2e8f0" d="M50 320h700v30H50z"/><text x="200" y="340" fill="#4f46e5" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Dokumentasjon</text><text x="450" y="340" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Interne retningslinjer</text><text x="650" y="340" fill="#374151" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Selvangivelse og skattemelding</text><rect width="600" height="140" x="100" y="380" fill="#ede9fe" stroke="#6366f1" stroke-width="2" rx="8"/><text x="400" y="405" fill="#4f46e5" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Konsekvenser: Utsatt Skatt
-  </text>
-  
-  <text x="120" y="430" font-family="Arial, sans-serif" font-size="14" font-weight="bold" 
-        fill="#374151">
+  </text><text x="120" y="430" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Midlertidige forskjeller skaper utsatt skatt:
-  </text>
-  
-
-  <rect x="140" y="445" width="250" height="60" fill="white" stroke="#a5b4fc" stroke-width="1" rx="5"/>
-  <text x="265" y="465" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
-        text-anchor="middle" fill="#dc2626">
+  </text><rect width="250" height="60" x="140" y="445" fill="#fff" stroke="#a5b4fc" rx="5"/><text x="265" y="465" fill="#dc2626" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Høyere skattemessig avskrivning
-  </text>
-  <text x="265" y="480" font-family="Arial, sans-serif" font-size="11" 
-        text-anchor="middle" fill="#6b7280">
+  </text><text x="265" y="480" fill="#6b7280" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     → Utsatt skattefordel
-  </text>
-  <text x="265" y="495" font-family="Arial, sans-serif" font-size="11" 
-        text-anchor="middle" fill="#6b7280">
+  </text><text x="265" y="495" fill="#6b7280" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (Lavere skatt nå, høyere senere)
-  </text>
-  
-  <rect x="410" y="445" width="250" height="60" fill="white" stroke="#a5b4fc" stroke-width="1" rx="5"/>
-  <text x="535" y="465" font-family="Arial, sans-serif" font-size="12" font-weight="bold" 
-        text-anchor="middle" fill="#059669">
+  </text><rect width="250" height="60" x="410" y="445" fill="#fff" stroke="#a5b4fc" rx="5"/><text x="535" y="465" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Høyere regnskapsmessig avskrivning
-  </text>
-  <text x="535" y="480" font-family="Arial, sans-serif" font-size="11" 
-        text-anchor="middle" fill="#6b7280">
+  </text><text x="535" y="480" fill="#6b7280" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     → Utsatt skattegjeld
-  </text>
-  <text x="535" y="495" font-family="Arial, sans-serif" font-size="11" 
-        text-anchor="middle" fill="#6b7280">
+  </text><text x="535" y="495" fill="#6b7280" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     (Høyere skatt nå, lavere senere)
-  </text>
-</svg>
+  </text></svg>

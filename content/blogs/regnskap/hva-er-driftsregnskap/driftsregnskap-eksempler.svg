@@ -1,223 +1,107 @@
-<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6d28d9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="retailGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:0.1" />
-    </linearGradient>
-    <linearGradient id="itGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#047857;stop-opacity:0.1" />
-    </linearGradient>
-    <linearGradient id="manufacturingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#d97706;stop-opacity:0.1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="800" fill="#f8fafc"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGrad)"/>
-  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1"/><stop offset="100%" style="stop-color:#6d28d9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:.1"/><stop offset="100%" style="stop-color:#1e40af;stop-opacity:.1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:.1"/><stop offset="100%" style="stop-color:#047857;stop-opacity:.1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f59e0b;stop-opacity:.1"/><stop offset="100%" style="stop-color:#d97706;stop-opacity:.1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v800H0z"/><path fill="url(#a)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Praktiske Eksempler - Driftsregnskap
-  </text>
-  
-
-  <g transform="translate(50, 100)">
-    <rect x="0" y="0" width="700" height="200" rx="10" fill="url(#retailGrad)" stroke="#3b82f6" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+  </text><g transform="translate(50 100)"><rect width="700" height="200" fill="url(#b)" stroke="#3b82f6" stroke-width="2" rx="10"/><text x="350" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Eksempel 1: Detaljhandel - Klesbutikk
-    </text>
-    
-
-    <rect x="30" y="40" width="300" height="140" rx="5" fill="white" stroke="#3b82f6"/>
-    <text x="180" y="60" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="300" height="140" x="30" y="40" fill="#fff" stroke="#3b82f6" rx="5"/><text x="180" y="60" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Driftsregnskap 2023 (NOK)
-    </text>
-    <text x="50" y="80" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="50" y="80" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       DRIFTSINNTEKTER:
-    </text>
-    <text x="50" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Salgsinntekt: 5 000 000
-    </text>
-    <text x="50" y="110" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="50" y="110" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       DRIFTSKOSTNADER:
-    </text>
-    <text x="50" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Varekostnad: 3 000 000
-    </text>
-    <text x="50" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Lønnskostnad: 1 200 000
-    </text>
-    <text x="50" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Husleie: 400 000
-    </text>
-    <text x="50" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Andre driftskostnader: 300 000
-    </text>
-    
-
-    <rect x="370" y="40" width="300" height="140" rx="5" fill="white" stroke="#3b82f6"/>
-    <text x="520" y="60" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="300" height="140" x="370" y="40" fill="#fff" stroke="#3b82f6" rx="5"/><text x="520" y="60" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Analyse og Nøkkeltall
-    </text>
-    <text x="390" y="80" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="390" y="80" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Driftsresultat: 100 000 kr
-    </text>
-    <text x="390" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Driftsmargin: 2,0%
-    </text>
-    <text x="390" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Varekostnad i %: 60,0%
-    </text>
-    <text x="390" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Lønnskostnad i %: 24,0%
-    </text>
-    <text x="390" y="140" fill="#d97706" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    </text><text x="390" y="140" fill="#d97706" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Vurdering: Typisk for detaljhandel
-    </text>
-    <text x="390" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="390" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       Lav margin, høy varekostnad
-    </text>
-    <text x="390" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="390" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       Fokus på lageromløp viktig
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="700" height="200" rx="10" fill="url(#itGrad)" stroke="#10b981" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(50 320)"><rect width="700" height="200" fill="url(#c)" stroke="#10b981" stroke-width="2" rx="10"/><text x="350" y="25" fill="#047857" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Eksempel 2: IT-Konsulentselskap
-    </text>
-    
-
-    <rect x="30" y="40" width="300" height="140" rx="5" fill="white" stroke="#10b981"/>
-    <text x="180" y="60" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="300" height="140" x="30" y="40" fill="#fff" stroke="#10b981" rx="5"/><text x="180" y="60" fill="#047857" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Driftsregnskap 2023 (NOK)
-    </text>
-    <text x="50" y="80" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="50" y="80" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       DRIFTSINNTEKTER:
-    </text>
-    <text x="50" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Konsulentinntekter: 8 000 000
-    </text>
-    <text x="50" y="110" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="50" y="110" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       DRIFTSKOSTNADER:
-    </text>
-    <text x="50" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Lønnskostnad: 5 500 000
-    </text>
-    <text x="50" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Kontorleie: 600 000
-    </text>
-    <text x="50" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       IT-utstyr (avskrivninger): 200 000
-    </text>
-    <text x="50" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Andre driftskostnader: 400 000
-    </text>
-    
-
-    <rect x="370" y="40" width="300" height="140" rx="5" fill="white" stroke="#10b981"/>
-    <text x="520" y="60" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="300" height="140" x="370" y="40" fill="#fff" stroke="#10b981" rx="5"/><text x="520" y="60" fill="#047857" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Analyse og Nøkkeltall
-    </text>
-    <text x="390" y="80" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="390" y="80" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Driftsresultat: 1 300 000 kr
-    </text>
-    <text x="390" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Driftsmargin: 16,25%
-    </text>
-    <text x="390" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Lønnsandel: 68,75%
-    </text>
-    <text x="390" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Lav varekostnad: 0%
-    </text>
-    <text x="390" y="140" fill="#059669" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    </text><text x="390" y="140" fill="#059669" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Vurdering: Bra for bransjen
-    </text>
-    <text x="390" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="390" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       Høy lønnsandel typisk
-    </text>
-    <text x="390" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="390" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       Fokus på produktivitet/ansatt
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 540)">
-    <rect x="0" y="0" width="700" height="200" rx="10" fill="url(#manufacturingGrad)" stroke="#f59e0b" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(50 540)"><rect width="700" height="200" fill="url(#d)" stroke="#f59e0b" stroke-width="2" rx="10"/><text x="350" y="25" fill="#d97706" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Eksempel 3: Produksjonsbedrift - Møbelprodusent
-    </text>
-    
-
-    <rect x="30" y="40" width="300" height="140" rx="5" fill="white" stroke="#f59e0b"/>
-    <text x="180" y="60" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="300" height="140" x="30" y="40" fill="#fff" stroke="#f59e0b" rx="5"/><text x="180" y="60" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Driftsregnskap 2023 (NOK)
-    </text>
-    <text x="50" y="80" fill="#d97706" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="50" y="80" fill="#d97706" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       DRIFTSINNTEKTER:
-    </text>
-    <text x="50" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Møbelsalg: 15 500 000
-    </text>
-    <text x="50" y="110" fill="#d97706" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="50" y="110" fill="#d97706" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       DRIFTSKOSTNADER:
-    </text>
-    <text x="50" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Treverk og materialer: 6 300 000
-    </text>
-    <text x="50" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Lønnskostnad: 3 990 000
-    </text>
-    <text x="50" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Avskrivninger: 1 000 000
-    </text>
-    <text x="50" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="50" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Andre driftskostnader: 850 000
-    </text>
-    
-
-    <rect x="370" y="40" width="300" height="140" rx="5" fill="white" stroke="#f59e0b"/>
-    <text x="520" y="60" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="300" height="140" x="370" y="40" fill="#fff" stroke="#f59e0b" rx="5"/><text x="520" y="60" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Analyse og Nøkkeltall
-    </text>
-    <text x="390" y="80" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="390" y="80" fill="#059669" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Driftsresultat: 3 360 000 kr
-    </text>
-    <text x="390" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Driftsmargin: 21,7%
-    </text>
-    <text x="390" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Varekostnad i %: 40,6%
-    </text>
-    <text x="390" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
+    </text><text x="390" y="125" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       Lønnskostnad i %: 25,7%
-    </text>
-    <text x="390" y="140" fill="#059669" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+    </text><text x="390" y="140" fill="#059669" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Vurdering: Meget bra resultat
-    </text>
-    <text x="390" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="390" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       Høye avskrivninger typisk
-    </text>
-    <text x="390" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+    </text><text x="390" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="10">
       Balansert kostnadsstruktur
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 760)">
-    <rect x="0" y="0" width="700" height="30" rx="5" fill="#1e293b" stroke="#334155"/>
-    <text x="350" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text></g><g transform="translate(50 760)"><rect width="700" height="30" fill="#1e293b" stroke="#334155" rx="5"/><text x="350" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Sammenligning: Detaljhandel 2% | IT-konsulent 16,25% | Produksjon 21,7% driftsmargin
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

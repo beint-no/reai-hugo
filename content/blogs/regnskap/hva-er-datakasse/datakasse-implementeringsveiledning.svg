@@ -1,224 +1,67 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="phaseGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="guideGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="successGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00BCD4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#006064;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#00bcd4;stop-opacity:1"/><stop offset="100%" style="stop-color:#006064;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Implementeringsveiledning for Datakasse
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-
-    <rect x="0" y="0" width="700" height="100" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
-    <rect x="0" y="0" width="700" height="35" rx="10" fill="url(#phaseGradient)"/>
-    <text x="350" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="700" height="100" fill="#fff" stroke="#ddd" rx="10"/><rect width="700" height="35" fill="url(#b)" rx="10"/><text x="350" y="22" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       📋 Fase 1: Forberedelse (Uke 1-2)
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><g font-family="Arial, sans-serif"><text y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 45)">
         1. Behovsanalyse og kravspesifikasjon
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="35" fill="#666" font-size="11" transform="translate(20 45)">
         • Kartlegg nåværende kassarutiner og utfordringer
-      </text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="50" fill="#666" font-size="11" transform="translate(20 45)">
         • Definer funksjonelle og tekniske krav til nytt system
-      </text>
-      
-      <text x="350" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><text x="350" y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 45)">
         2. Leverandørevaluering og tilbudsinnhenting
-      </text>
-      <text x="350" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="350" y="35" fill="#666" font-size="11" transform="translate(20 45)">
         • Sammenlign minst 3 leverandører og løsninger
-      </text>
-      <text x="350" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="350" y="50" fill="#666" font-size="11" transform="translate(20 45)">
         • Vurder total eierkostnad og integrasjonsmuligheter
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 200)">
-    <rect x="0" y="0" width="700" height="100" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
-    <rect x="0" y="0" width="700" height="35" rx="10" fill="url(#stepGradient)"/>
-    <text x="350" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(50 200)"><rect width="700" height="100" fill="#fff" stroke="#ddd" rx="10"/><rect width="700" height="35" fill="url(#c)" rx="10"/><text x="350" y="22" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       🔧 Fase 2: Installasjon (Uke 3-4)
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><g font-family="Arial, sans-serif"><text y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 45)">
         3. Maskinvareinstallasjon og nettverkstilkobling
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="35" fill="#666" font-size="11" transform="translate(20 45)">
         • Installer kassaterminaler, skrivere og betalingsterminaler
-      </text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="50" fill="#666" font-size="11" transform="translate(20 45)">
         • Sikre stabil internettforbindelse og backup-løsninger
-      </text>
-      
-      <text x="350" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><text x="350" y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 45)">
         4. Programvareinstallasjon og grunnkonfigurasjon
-      </text>
-      <text x="350" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="350" y="35" fill="#666" font-size="11" transform="translate(20 45)">
         • Installer kassaprogramvare og nødvendige oppdateringer
-      </text>
-      <text x="350" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="350" y="50" fill="#666" font-size="11" transform="translate(20 45)">
         • Konfigurer grunnleggende systeminnstillinger
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="700" height="100" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
-    <rect x="0" y="0" width="700" height="35" rx="10" fill="url(#guideGradient)"/>
-    <text x="350" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(50 320)"><rect width="700" height="100" fill="#fff" stroke="#ddd" rx="10"/><rect width="700" height="35" fill="url(#d)" rx="10"/><text x="350" y="22" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       ⚙️ Fase 3: Konfigurering og Testing (Uke 5-6)
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><g font-family="Arial, sans-serif"><text y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 45)">
         5. Detaljert systemkonfigurasjon
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="35" fill="#666" font-size="11" transform="translate(20 45)">
         • Sett opp produktkatalog med priser og MVA-satser
-      </text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="50" fill="#666" font-size="11" transform="translate(20 45)">
         • Konfigurer betalingsmetoder og kvitteringsoppsett
-      </text>
-      
-      <text x="350" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><text x="350" y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 45)">
         6. Integrasjonstesting med eksisterende systemer
-      </text>
-      <text x="350" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="350" y="35" fill="#666" font-size="11" transform="translate(20 45)">
         • Test integrasjon med regnskapssystem og lagersystem
-      </text>
-      <text x="350" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="350" y="50" fill="#666" font-size="11" transform="translate(20 45)">
         • Verifiser dataflyt og automatiske prosesser
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 440)">
-    <rect x="0" y="0" width="700" height="100" rx="10" fill="white" stroke="#ddd" stroke-width="1"/>
-    <rect x="0" y="0" width="700" height="35" rx="10" fill="url(#successGradient)"/>
-    <text x="350" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(50 440)"><rect width="700" height="100" fill="#fff" stroke="#ddd" rx="10"/><rect width="700" height="35" fill="url(#e)" rx="10"/><text x="350" y="22" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       👥 Fase 4: Opplæring og Produksjonssetting (Uke 7-9)
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><g font-family="Arial, sans-serif"><text y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 45)">
         7. Omfattende brukeropplæring
-      </text>
-      <text x="0" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="35" fill="#666" font-size="11" transform="translate(20 45)">
         • Tren alle kassapersonale i systemets funksjoner
-      </text>
-      <text x="0" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text y="50" fill="#666" font-size="11" transform="translate(20 45)">
         • Gjennomfør praktiske øvelser og scenariotrening
-      </text>
-      
-      <text x="350" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+      </text><text x="350" y="20" fill="#333" font-size="12" font-weight="bold" transform="translate(20 45)">
         8. Go-live og tett oppfølging
-      </text>
-      <text x="350" y="35" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="350" y="35" fill="#666" font-size="11" transform="translate(20 45)">
         • Start produksjonsdrift med begrenset funksjonalitet
-      </text>
-      <text x="350" y="50" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="350" y="50" fill="#666" font-size="11" transform="translate(20 45)">
         • Daglig oppfølging og finjustering første uken
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 560)">
-    <rect x="0" y="0" width="340" height="35" rx="5" fill="url(#phaseGradient)"/>
-    <text x="170" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(50 560)"><rect width="340" height="35" fill="url(#b)" rx="5"/><text x="170" y="22" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       ✅ Suksess-sjekkliste
-    </text>
-    
-    <rect x="410" y="0" width="340" height="35" rx="5" fill="url(#stepGradient)"/>
-    <text x="580" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="340" height="35" x="410" fill="url(#c)" rx="5"/><text x="580" y="22" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       ⚠️ Kritiske milepæler
-    </text>
-  </g>
-  
-
-  <g transform="translate(600, 80)">
-
-    <circle cx="50" cy="30" r="20" fill="url(#phaseGradient)"/>
-    <text x="50" y="37" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
-    <text x="50" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Forberedelse</text>
-    
-    <circle cx="50" cy="100" r="20" fill="url(#stepGradient)"/>
-    <text x="50" y="107" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
-    <text x="50" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Installasjon</text>
-    
-    <circle cx="50" cy="170" r="20" fill="url(#guideGradient)"/>
-    <text x="50" y="177" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
-    <text x="50" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Konfigurasjon</text>
-    
-    <circle cx="50" cy="240" r="20" fill="url(#successGradient)"/>
-    <text x="50" y="247" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4</text>
-    <text x="50" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">Opplæring</text>
-    
-
-    <line x1="50" y1="50" x2="50" y2="80" stroke="#ddd" stroke-width="3"/>
-    <line x1="50" y1="120" x2="50" y2="150" stroke="#ddd" stroke-width="3"/>
-    <line x1="50" y1="190" x2="50" y2="220" stroke="#ddd" stroke-width="3"/>
-    
-
-    <circle cx="50" cy="310" r="25" fill="url(#phaseGradient)"/>
-    <text x="50" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">✓</text>
-    <text x="50" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333">
+    </text></g><g transform="translate(600 80)"><circle cx="50" cy="30" r="20" fill="url(#b)"/><text x="50" y="37" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">1</text><text x="50" y="60" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Forberedelse</text><circle cx="50" cy="100" r="20" fill="url(#c)"/><text x="50" y="107" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">2</text><text x="50" y="130" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Installasjon</text><circle cx="50" cy="170" r="20" fill="url(#d)"/><text x="50" y="177" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">3</text><text x="50" y="200" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Konfigurasjon</text><circle cx="50" cy="240" r="20" fill="url(#e)"/><text x="50" y="247" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">4</text><text x="50" y="270" fill="#333" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Opplæring</text><path stroke="#ddd" stroke-width="3" d="M50 50v30M50 120v30M50 190v30"/><circle cx="50" cy="310" r="25" fill="url(#b)"/><text x="50" y="318" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">✓</text><text x="50" y="345" fill="#333" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       Vellykket
-    </text>
-    <text x="50" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333">
+    </text><text x="50" y="358" fill="#333" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       Implementering
-    </text>
-  </g>
-  
-
-  <g transform="translate(20, 80)">
-    <rect x="0" y="0" width="25" height="460" rx="5" fill="url(#phaseGradient)" opacity="0.3"/>
-    
-
-    <circle cx="12" cy="50" r="8" fill="url(#phaseGradient)"/>
-    <text x="12" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">💡</text>
-    
-    <circle cx="12" cy="170" r="8" fill="url(#stepGradient)"/>
-    <text x="12" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">🔧</text>
-    
-    <circle cx="12" cy="290" r="8" fill="url(#guideGradient)"/>
-    <text x="12" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">⚙️</text>
-    
-    <circle cx="12" cy="410" r="8" fill="url(#successGradient)"/>
-    <text x="12" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">👥</text>
-  </g>
-</svg>
+    </text></g><g transform="translate(20 80)"><rect width="25" height="460" fill="url(#b)" opacity=".3" rx="5"/><circle cx="12" cy="50" r="8" fill="url(#b)"/><text x="12" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">💡</text><circle cx="12" cy="170" r="8" fill="url(#c)"/><text x="12" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">🔧</text><circle cx="12" cy="290" r="8" fill="url(#d)"/><text x="12" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">⚙️</text><circle cx="12" cy="410" r="8" fill="url(#e)"/><text x="12" y="415" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">👥</text></g></svg>

@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
-  <g transform="translate(50,350)">
-
-    <line x1="0" y1="0" x2="500" y2="0" stroke="#000"/>
-    <line x1="0" y1="0" x2="0" y2="-300" stroke="#000"/>
-
-    <path d="M0,-250 L250,0 L500,0" fill="none" stroke="#007ACC" stroke-width="2"/>
-
-    <line x1="250" y1="0" x2="250" y2="-300" stroke="#FF0000" stroke-dasharray="5,5"/>
-
-    <text x="-40" y="-280" font-size="12" fill="#333" text-anchor="start">P/L</text>
-    <text x="260" y="15" font-size="12" fill="#333" text-anchor="middle">K</text>
-    <text x="500" y="15" font-size="12" fill="#333" text-anchor="end">S</text>
-    <text x="510" y="-250" font-size="12" fill="#333" text-anchor="start">K – S</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400"><path stroke="#000" d="M50 350h500M50 350V50"/><path fill="none" stroke="#007acc" stroke-width="2" d="m50 100 250 250h250"/><path stroke="red" stroke-dasharray="5,5" d="M300 350V50"/><text x="-40" y="-280" fill="#333" font-size="12" transform="translate(50 350)">P/L</text><text x="260" y="15" fill="#333" font-size="12" text-anchor="middle" transform="translate(50 350)">K</text><text x="500" y="15" fill="#333" font-size="12" text-anchor="end" transform="translate(50 350)">S</text><text x="510" y="-250" fill="#333" font-size="12" transform="translate(50 350)">K – S</text></svg>

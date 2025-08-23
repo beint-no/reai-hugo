@@ -1,125 +1,53 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="bruttoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="nettoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6610f2;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#6610f2;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Brutto i Regnskap
-  </text>
-  
-
-  <rect x="50" y="80" width="300" height="120" rx="10" fill="url(#bruttoGradient)" opacity="0.9"/>
-  <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="300" height="120" x="50" y="80" fill="url(#b)" opacity=".9" rx="10"/><text x="200" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     BRUTTO
-  </text>
-  <text x="200" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="200" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Totalbeløp før fradrag
-  </text>
-  <text x="200" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="200" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Bruttolønn: 50.000 kr
-  </text>
-  <text x="200" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="200" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Bruttoomsetning inkl. MVA
-  </text>
-  
-
-  <path d="M 370 140 L 420 140" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#dc3545">
+  </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="M370 140h50"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="120" fill="#dc3545" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     -
-  </text>
-  <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="400" y="140" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Fradrag
-  </text>
-  <text x="400" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><text x="400" y="155" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Skatt, MVA,
-  </text>
-  <text x="400" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6c757d">
+  </text><text x="400" y="170" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kostnader
-  </text>
-  
-
-  <rect x="450" y="80" width="300" height="120" rx="10" fill="url(#nettoGradient)" opacity="0.9"/>
-  <text x="600" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="300" height="120" x="450" y="80" fill="url(#d)" opacity=".9" rx="10"/><text x="600" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     NETTO
-  </text>
-  <text x="600" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="600" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Beløp etter fradrag
-  </text>
-  <text x="600" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Nettolønn: 38.000 kr
-  </text>
-  <text x="600" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Nettoomsetning ekskl. MVA
-  </text>
-  
-
-  <rect x="50" y="230" width="700" height="140" rx="10" fill="white" stroke="#dee2e6" stroke-width="2"/>
-  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
+  </text><rect width="700" height="140" x="50" y="230" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="400" y="255" fill="#495057" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Praktiske Eksempler
-  </text>
-  
-
-  <rect x="80" y="270" width="200" height="80" rx="5" fill="#f8f9fa" stroke="#dee2e6"/>
-  <text x="180" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="200" height="80" x="80" y="270" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="180" y="290" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Lønn
-  </text>
-  <text x="180" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="180" y="310" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Brutto: 50.000 kr
-  </text>
-  <text x="180" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="180" y="325" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     - Skatt: 12.000 kr
-  </text>
-  <text x="180" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057" font-weight="bold">
+  </text><text x="180" y="340" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     = Netto: 38.000 kr
-  </text>
-  
-  <rect x="300" y="270" width="200" height="80" rx="5" fill="#f8f9fa" stroke="#dee2e6"/>
-  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="200" height="80" x="300" y="270" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="400" y="290" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Omsetning
-  </text>
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="400" y="310" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Brutto: 125.000 kr
-  </text>
-  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="400" y="325" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     - MVA: 25.000 kr
-  </text>
-  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057" font-weight="bold">
+  </text><text x="400" y="340" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     = Netto: 100.000 kr
-  </text>
-  
-  <rect x="520" y="270" width="200" height="80" rx="5" fill="#f8f9fa" stroke="#dee2e6"/>
-  <text x="620" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="200" height="80" x="520" y="270" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="620" y="290" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fortjeneste
-  </text>
-  <text x="620" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="620" y="310" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Brutto: 400.000 kr
-  </text>
-  <text x="620" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">
+  </text><text x="620" y="325" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     - Kostnader: 150.000 kr
-  </text>
-  <text x="620" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057" font-weight="bold">
+  </text><text x="620" y="340" fill="#495057" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     = Netto: 250.000 kr
-  </text>
-</svg>
+  </text></svg>

@@ -1,182 +1,55 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="formulaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="exampleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="compoundGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Renteberegning for Bankinnskudd
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="700" height="80" rx="10" fill="url(#formulaGradient)" opacity="0.9"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="700" height="80" fill="url(#b)" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Enkel Renteformel
-    </text>
-    <text x="350" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    </text><text x="350" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       Renteinntekt = Hovedstol × Rentesats × Tid
-    </text>
-    <text x="350" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="350" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       (Tid angitt som brøkdel av år)
-    </text>
-  </g>
-  
-
-  <text x="50" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    </text></g><text x="50" y="200" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Eksempel på Renteberegning:
-  </text>
-  
-
-  <g transform="translate(50, 220)">
-    <rect x="0" y="0" width="200" height="120" rx="10" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976D2">
+  </text><g transform="translate(50 220)"><rect width="200" height="120" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="10"/><text x="100" y="25" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Inngangsdata
-    </text>
-    <circle cx="100" cy="50" r="15" fill="#2196F3" opacity="0.3"/>
-    <text x="100" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1976D2">💰</text>
-    
-    <text x="20" y="80" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    </text><circle cx="100" cy="50" r="15" fill="#2196f3" opacity=".3"/><text x="100" y="57" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">💰</text><text x="20" y="80" fill="#333" font-family="Arial, sans-serif" font-size="14">
       Hovedstol: 1.000.000 kr
-    </text>
-    <text x="20" y="100" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    </text><text x="20" y="100" fill="#333" font-family="Arial, sans-serif" font-size="14">
       Rentesats: 3% per år
-    </text>
-    <text x="20" y="120" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    </text><text x="20" y="120" fill="#333" font-family="Arial, sans-serif" font-size="14">
       Tid: 6 måneder (0,5 år)
-    </text>
-  </g>
-  
-
-  <g transform="translate(300, 220)">
-    <rect x="0" y="0" width="250" height="120" rx="10" fill="url(#exampleGradient)" opacity="0.9"/>
-    <text x="125" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(300 220)"><rect width="250" height="120" fill="url(#c)" opacity=".9" rx="10"/><text x="125" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Beregning
-    </text>
-    <circle cx="125" cy="50" r="15" fill="white" opacity="0.3"/>
-    <text x="125" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">🧮</text>
-    
-    <text x="20" y="80" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><circle cx="125" cy="50" r="15" fill="#fff" opacity=".3"/><text x="125" y="57" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🧮</text><text x="20" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       1.000.000 × 0,03 × 0,5
-    </text>
-    <text x="20" y="100" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="20" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       = 1.000.000 × 0,015
-    </text>
-    <text x="20" y="120" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="20" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="14">
       = 15.000 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(600, 220)">
-    <rect x="0" y="0" width="150" height="120" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
-    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+    </text></g><g transform="translate(600 220)"><rect width="150" height="120" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="75" y="25" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Resultat
-    </text>
-    <circle cx="75" cy="50" r="15" fill="#4CAF50" opacity="0.3"/>
-    <text x="75" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2E7D32">✅</text>
-    
-    <text x="75" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E7D32">
+    </text><circle cx="75" cy="50" r="15" fill="#4caf50" opacity=".3"/><text x="75" y="57" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">✅</text><text x="75" y="80" fill="#2e7d32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       15.000 kr
-    </text>
-    <text x="75" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="75" y="100" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Renteinntekt
-    </text>
-    <text x="75" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="75" y="115" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       for 6 måneder
-    </text>
-  </g>
-  
-
-  <text x="50" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    </text></g><text x="50" y="380" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Sammensatt Rente (Terminskudd):
-  </text>
-  
-
-  <g transform="translate(50, 400)">
-    <rect x="0" y="0" width="700" height="180" rx="10" fill="url(#compoundGradient)" opacity="0.9"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 400)"><rect width="700" height="180" fill="url(#d)" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Eksempel: 1.000.000 kr med 3% årlig rente
-    </text>
-    
-
-    <rect x="20" y="40" width="660" height="30" fill="white" opacity="0.2"/>
-    <text x="80" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><path fill="#fff" d="M20 40h660v30H20z" opacity=".2"/><text x="80" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       År
-    </text>
-    <text x="200" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="200" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Hovedstol (start)
-    </text>
-    <text x="350" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="350" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Rente (3%)
-    </text>
-    <text x="500" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="500" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Ny hovedstol
-    </text>
-    <text x="620" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><text x="620" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Total avkastning
-    </text>
-    
-
-    <rect x="20" y="70" width="660" height="25" fill="white" opacity="0.1"/>
-    <text x="80" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1</text>
-    <text x="200" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.000.000</text>
-    <text x="350" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">30.000</text>
-    <text x="500" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.030.000</text>
-    <text x="620" y="87" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">30.000</text>
-    
-
-    <text x="80" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">2</text>
-    <text x="200" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.030.000</text>
-    <text x="350" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">30.900</text>
-    <text x="500" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.060.900</text>
-    <text x="620" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">60.900</text>
-    
-
-    <rect x="20" y="120" width="660" height="25" fill="white" opacity="0.1"/>
-    <text x="80" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">3</text>
-    <text x="200" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.060.900</text>
-    <text x="350" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">31.827</text>
-    <text x="500" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">1.092.727</text>
-    <text x="620" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">92.727</text>
-    
-
-    <text x="350" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><path fill="#fff" d="M20 70h660v25H20z" opacity=".1"/><text x="80" y="87" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">1</text><text x="200" y="87" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">1.000.000</text><text x="350" y="87" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">30.000</text><text x="500" y="87" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">1.030.000</text><text x="620" y="87" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">30.000</text><text x="80" y="112" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">2</text><text x="200" y="112" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">1.030.000</text><text x="350" y="112" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">30.900</text><text x="500" y="112" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">1.060.900</text><text x="620" y="112" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">60.900</text><path fill="#fff" d="M20 120h660v25H20z" opacity=".1"/><text x="80" y="137" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">3</text><text x="200" y="137" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">1.060.900</text><text x="350" y="137" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">31.827</text><text x="500" y="137" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">1.092.727</text><text x="620" y="137" fill="#fff" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">92.727</text><text x="350" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Sammensatt rente gir høyere avkastning over tid
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 360)">
-    <rect x="0" y="0" width="300" height="30" rx="5" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
-    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+    </text></g><g transform="translate(50 360)"><rect width="300" height="30" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="5"/><text x="150" y="20" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Enkel rente: 90.000 kr (3 år)
-    </text>
-  </g>
-  
-  <g transform="translate(400, 360)">
-    <rect x="0" y="0" width="300" height="30" rx="5" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2"/>
-    <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
+    </text></g><g transform="translate(400 360)"><rect width="300" height="30" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="5"/><text x="150" y="20" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Sammensatt rente: 92.727 kr (3 år)
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

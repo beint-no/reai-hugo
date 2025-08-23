@@ -1,144 +1,69 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="calculationGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#28a745;stop-opacity:0.3" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.1"/><stop offset="100%" style="stop-color:#28a745;stop-opacity:.3"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Beregning av Inkassosalær
-  </text>
-  
-
-  <rect x="50" y="60" width="300" height="220" fill="url(#calculationGradient)" stroke="#28a745" stroke-width="2" rx="10"/>
-  <text x="200" y="85" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e7e34">
+  </text><rect width="300" height="220" x="50" y="60" fill="url(#b)" stroke="#28a745" stroke-width="2" rx="10"/><text x="200" y="85" fill="#1e7e34" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Eksempel 1: Liten fordring
-  </text>
-  
-  <text x="70" y="110" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="110" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Hovedstol: Kr 5 000
-  </text>
-  <text x="70" y="130" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="130" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Første inkassokrav: Kr 200
-  </text>
-  <text x="70" y="150" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="150" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Andre inkassokrav: Kr 400
-  </text>
-  <text x="70" y="170" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="170" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Forsinkelsesrenter (3 mnd): Kr 106
-  </text>
-  
-  <line x1="70" y1="185" x2="330" y2="185" stroke="#1e7e34" stroke-width="2"/>
-  <text x="70" y="205" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e7e34">
+  </text><path stroke="#1e7e34" stroke-width="2" d="M70 185h260"/><text x="70" y="205" fill="#1e7e34" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Totalt inkassosalær: Kr 706
-  </text>
-  <text x="70" y="225" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="70" y="225" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">
     (14,1% av hovedstol)
-  </text>
-  
-
-  <rect x="450" y="60" width="300" height="220" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="600" y="85" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="300" height="220" x="450" y="60" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/><text x="600" y="85" fill="#856404" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Eksempel 2: Middels fordring
-  </text>
-  
-  <text x="470" y="110" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="470" y="110" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Hovedstol: Kr 25 000
-  </text>
-  <text x="470" y="130" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="470" y="130" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Prosenthonorar (10%): Kr 2 500
-  </text>
-  <text x="470" y="150" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="470" y="150" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Inkassokrav: Kr 600
-  </text>
-  <text x="470" y="170" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="470" y="170" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Forsinkelsesrenter (6 mnd): Kr 1 063
-  </text>
-  
-  <line x1="470" y1="185" x2="730" y2="185" stroke="#856404" stroke-width="2"/>
-  <text x="470" y="205" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+  </text><path stroke="#856404" stroke-width="2" d="M470 185h260"/><text x="470" y="205" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Totalt inkassosalær: Kr 4 163
-  </text>
-  <text x="470" y="225" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="470" y="225" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">
     (16,7% av hovedstol)
-  </text>
-  
-
-  <rect x="50" y="300" width="300" height="220" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="200" y="325" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#721c24">
+  </text><rect width="300" height="220" x="50" y="300" fill="#f8d7da" stroke="#dc3545" stroke-width="2" rx="10"/><text x="200" y="325" fill="#721c24" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Eksempel 3: Stor fordring
-  </text>
-  
-  <text x="70" y="350" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="350" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Hovedstol: Kr 100 000
-  </text>
-  <text x="70" y="370" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="370" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Prosenthonorar (5%): Kr 5 000
-  </text>
-  <text x="70" y="390" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="390" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Inkassokrav: Kr 600
-  </text>
-  <text x="70" y="410" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="410" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Saksomkostninger: Kr 3 500
-  </text>
-  <text x="70" y="430" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+  </text><text x="70" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="14">
     Forsinkelsesrenter (12 mnd): Kr 8 500
-  </text>
-  
-  <line x1="70" y1="445" x2="330" y2="445" stroke="#721c24" stroke-width="2"/>
-  <text x="70" y="465" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#721c24">
+  </text><path stroke="#721c24" stroke-width="2" d="M70 445h260"/><text x="70" y="465" fill="#721c24" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Totalt inkassosalær: Kr 17 600
-  </text>
-  <text x="70" y="485" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="70" y="485" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">
     (17,6% av hovedstol)
-  </text>
-  
-
-  <rect x="450" y="300" width="300" height="220" fill="#e2e3f0" stroke="#6f42c1" stroke-width="2" rx="10"/>
-  <text x="600" y="325" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#5a32a3">
+  </text><rect width="300" height="220" x="450" y="300" fill="#e2e3f0" stroke="#6f42c1" stroke-width="2" rx="10"/><text x="600" y="325" fill="#5a32a3" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Beregningsformel
-  </text>
-  
-  <text x="470" y="355" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#5a32a3">
+  </text><text x="470" y="355" fill="#5a32a3" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Totalt inkassosalær =
-  </text>
-  <text x="470" y="380" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+  </text><text x="470" y="380" fill="#495057" font-family="Arial, sans-serif" font-size="13">
     + Faste gebyrer (Kr 200-400)
-  </text>
-  <text x="470" y="400" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+  </text><text x="470" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="13">
     + Prosenthonorar (5-15%)
-  </text>
-  <text x="470" y="420" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+  </text><text x="470" y="420" fill="#495057" font-family="Arial, sans-serif" font-size="13">
     + Forsinkelsesrenter (8,5% p.a.)
-  </text>
-  <text x="470" y="440" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+  </text><text x="470" y="440" fill="#495057" font-family="Arial, sans-serif" font-size="13">
     + Saksomkostninger (faktiske)
-  </text>
-  <text x="470" y="460" font-family="Arial, sans-serif" font-size="13" fill="#495057">
+  </text><text x="470" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="13">
     + Administrative kostnader
-  </text>
-  
-  <text x="470" y="490" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#6c757d">
+  </text><text x="470" y="490" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-style="italic">
     * Alle beløp er regulert av
-  </text>
-  <text x="470" y="505" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#6c757d">
+  </text><text x="470" y="505" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" font-style="italic">
     inkassoforskriften
-  </text>
-  
-
-  <text x="400" y="560" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+  </text><text x="400" y="560" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Forsinkelsesrenter beregnes fra forfallsdato til betaling
-  </text>
-  <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#6c757d">
+  </text><text x="400" y="580" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Satser gjelder for 2024 - kan endres årlig
-  </text>
-</svg>
+  </text></svg>

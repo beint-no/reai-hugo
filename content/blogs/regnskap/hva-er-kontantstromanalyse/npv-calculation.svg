@@ -1,143 +1,21 @@
-<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="positiveGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="negativeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8d7da;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f5c6cb;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="700" height="60" fill="url(#headerGradient)"/>
-  <text x="350" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8d7da;stop-opacity:1"/><stop offset="100%" style="stop-color:#f5c6cb;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h700v500H0z"/><path fill="url(#a)" d="M0 0h700v60H0z"/><text x="350" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Netto Nåverdi (NPV) Beregning
-  </text>
-  
-
-  <rect x="50" y="80" width="600" height="80" fill="white" stroke="#ced4da" stroke-width="2" rx="8"/>
-  <text x="350" y="105" text-anchor="middle" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+  </text><rect width="600" height="80" x="50" y="80" fill="#fff" stroke="#ced4da" stroke-width="2" rx="8"/><text x="350" y="105" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     NPV Formel
-  </text>
-  <text x="350" y="130" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="16">
+  </text><text x="350" y="130" fill="#495057" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     NPV = Σ (Kontantstrøm_t / (1 + r)^t) - Initial investering
-  </text>
-  <text x="350" y="150" text-anchor="middle" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="350" y="150" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     hvor r = diskonteringsrente og t = tidsperiode
-  </text>
-  
-
-  <text x="50" y="200" fill="#212529" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><text x="50" y="200" fill="#212529" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Eksempel: 5-års prosjekt med 10% diskonteringsrente
-  </text>
-  
-
-  <line x1="100" y1="240" x2="600" y2="240" stroke="#495057" stroke-width="2"/>
-  
-
-  <g>
-    <line x1="100" y1="230" x2="100" y2="250" stroke="#495057" stroke-width="2"/>
-    <text x="100" y="270" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">År 0</text>
-    <rect x="70" y="280" width="60" height="30" fill="url(#negativeGradient)" stroke="#dc3545" stroke-width="1" rx="4"/>
-    <text x="100" y="300" text-anchor="middle" fill="#dc3545" font-family="Arial, sans-serif" font-size="11" font-weight="bold">-500,000</text>
-  </g>
-  
-  <g>
-    <line x1="200" y1="230" x2="200" y2="250" stroke="#495057" stroke-width="2"/>
-    <text x="200" y="270" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">År 1</text>
-    <rect x="170" y="280" width="60" height="30" fill="url(#positiveGradient)" stroke="#28a745" stroke-width="1" rx="4"/>
-    <text x="200" y="300" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold">150,000</text>
-  </g>
-  
-  <g>
-    <line x1="300" y1="230" x2="300" y2="250" stroke="#495057" stroke-width="2"/>
-    <text x="300" y="270" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">År 2</text>
-    <rect x="270" y="280" width="60" height="30" fill="url(#positiveGradient)" stroke="#28a745" stroke-width="1" rx="4"/>
-    <text x="300" y="300" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold">180,000</text>
-  </g>
-  
-  <g>
-    <line x1="400" y1="230" x2="400" y2="250" stroke="#495057" stroke-width="2"/>
-    <text x="400" y="270" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">År 3</text>
-    <rect x="370" y="280" width="60" height="30" fill="url(#positiveGradient)" stroke="#28a745" stroke-width="1" rx="4"/>
-    <text x="400" y="300" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold">200,000</text>
-  </g>
-  
-  <g>
-    <line x1="500" y1="230" x2="500" y2="250" stroke="#495057" stroke-width="2"/>
-    <text x="500" y="270" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">År 4</text>
-    <rect x="470" y="280" width="60" height="30" fill="url(#positiveGradient)" stroke="#28a745" stroke-width="1" rx="4"/>
-    <text x="500" y="300" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold">220,000</text>
-  </g>
-  
-  <g>
-    <line x1="600" y1="230" x2="600" y2="250" stroke="#495057" stroke-width="2"/>
-    <text x="600" y="270" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">År 5</text>
-    <rect x="570" y="280" width="60" height="30" fill="url(#positiveGradient)" stroke="#28a745" stroke-width="1" rx="4"/>
-    <text x="600" y="300" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold">250,000</text>
-  </g>
-  
-
-  <rect x="50" y="330" width="600" height="140" fill="white" stroke="#ced4da" stroke-width="1" rx="5"/>
-  <text x="350" y="355" text-anchor="middle" fill="#212529" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><path stroke="#495057" stroke-width="2" d="M100 240h500M100 230v20"/><text x="100" y="270" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">År 0</text><rect width="60" height="30" x="70" y="280" fill="url(#b)" stroke="#dc3545" rx="4"/><text x="100" y="300" fill="#dc3545" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">-500,000</text><path stroke="#495057" stroke-width="2" d="M200 230v20"/><text x="200" y="270" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">År 1</text><rect width="60" height="30" x="170" y="280" fill="url(#c)" stroke="#28a745" rx="4"/><text x="200" y="300" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">150,000</text><path stroke="#495057" stroke-width="2" d="M300 230v20"/><text x="300" y="270" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">År 2</text><rect width="60" height="30" x="270" y="280" fill="url(#c)" stroke="#28a745" rx="4"/><text x="300" y="300" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">180,000</text><path stroke="#495057" stroke-width="2" d="M400 230v20"/><text x="400" y="270" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">År 3</text><rect width="60" height="30" x="370" y="280" fill="url(#c)" stroke="#28a745" rx="4"/><text x="400" y="300" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">200,000</text><path stroke="#495057" stroke-width="2" d="M500 230v20"/><text x="500" y="270" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">År 4</text><rect width="60" height="30" x="470" y="280" fill="url(#c)" stroke="#28a745" rx="4"/><text x="500" y="300" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">220,000</text><path stroke="#495057" stroke-width="2" d="M600 230v20"/><text x="600" y="270" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">År 5</text><rect width="60" height="30" x="570" y="280" fill="url(#c)" stroke="#28a745" rx="4"/><text x="600" y="300" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">250,000</text><rect width="600" height="140" x="50" y="330" fill="#fff" stroke="#ced4da" rx="5"/><text x="350" y="355" fill="#212529" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     NPV Beregning
-  </text>
-  
-
-  <text x="80" y="380" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">År</text>
-  <text x="150" y="380" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kontantstrøm</text>
-  <text x="280" y="380" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Diskonteringsfaktor</text>
-  <text x="450" y="380" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Nåverdi</text>
-  
-
-  <text x="80" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="11">0</text>
-  <text x="150" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="11">-500,000</text>
-  <text x="280" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="11">1.000</text>
-  <text x="450" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="11">-500,000</text>
-  
-  <text x="80" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="11">1</text>
-  <text x="150" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="11">150,000</text>
-  <text x="280" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="11">0.909</text>
-  <text x="450" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="11">136,350</text>
-  
-  <text x="80" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="11">2</text>
-  <text x="150" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="11">180,000</text>
-  <text x="280" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="11">0.826</text>
-  <text x="450" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="11">148,680</text>
-  
-  <text x="80" y="445" fill="#495057" font-family="Arial, sans-serif" font-size="11">3</text>
-  <text x="150" y="445" fill="#495057" font-family="Arial, sans-serif" font-size="11">200,000</text>
-  <text x="280" y="445" fill="#495057" font-family="Arial, sans-serif" font-size="11">0.751</text>
-  <text x="450" y="445" fill="#495057" font-family="Arial, sans-serif" font-size="11">150,200</text>
-  
-  <text x="80" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="11">4-5</text>
-  <text x="150" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="11">470,000</text>
-  <text x="280" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="11">0.683 &amp; 0.621</text>
-  <text x="450" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="11">305,230</text>
-  
-  <line x1="420" y1="465" x2="480" y2="465" stroke="#212529" stroke-width="2"/>
-  
-
-  <rect x="500" y="380" width="130" height="80" fill="url(#positiveGradient)" stroke="#28a745" stroke-width="2" rx="5"/>
-  <text x="565" y="405" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="80" y="380" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">År</text><text x="150" y="380" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Kontantstrøm</text><text x="280" y="380" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Diskonteringsfaktor</text><text x="450" y="380" fill="#424242" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Nåverdi</text><text x="80" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="11">0</text><text x="150" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="11">-500,000</text><text x="280" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="11">1.000</text><text x="450" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="11">-500,000</text><text x="80" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="11">1</text><text x="150" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="11">150,000</text><text x="280" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="11">0.909</text><text x="450" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="11">136,350</text><text x="80" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="11">2</text><text x="150" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="11">180,000</text><text x="280" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="11">0.826</text><text x="450" y="430" fill="#495057" font-family="Arial, sans-serif" font-size="11">148,680</text><text x="80" y="445" fill="#495057" font-family="Arial, sans-serif" font-size="11">3</text><text x="150" y="445" fill="#495057" font-family="Arial, sans-serif" font-size="11">200,000</text><text x="280" y="445" fill="#495057" font-family="Arial, sans-serif" font-size="11">0.751</text><text x="450" y="445" fill="#495057" font-family="Arial, sans-serif" font-size="11">150,200</text><text x="80" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="11">4-5</text><text x="150" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="11">470,000</text><text x="280" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="11">0.683 &amp; 0.621</text><text x="450" y="460" fill="#495057" font-family="Arial, sans-serif" font-size="11">305,230</text><path stroke="#212529" stroke-width="2" d="M420 465h60"/><rect width="130" height="80" x="500" y="380" fill="url(#c)" stroke="#28a745" stroke-width="2" rx="5"/><text x="565" y="405" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     NPV Resultat
-  </text>
-  <text x="565" y="430" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+  </text><text x="565" y="430" fill="#2e7d32" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     240,460
-  </text>
-  <text x="565" y="450" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="565" y="450" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Positiv NPV =
-  </text>
-  <text x="565" y="465" text-anchor="middle" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="565" y="465" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Lønnsom investering
-  </text>
-</svg>
+  </text></svg>

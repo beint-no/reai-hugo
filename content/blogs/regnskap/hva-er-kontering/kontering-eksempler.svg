@@ -1,116 +1,45 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="50" fill="url(#headerGradient)"/>
-  <text x="400" y="32" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v50H0z"/><text x="400" y="32" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Praktiske Konteringseksempler
-  </text>
-  
-
-  <rect x="50" y="70" width="700" height="140" fill="#ffffff" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="70" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0066cc">
+  </text><rect width="700" height="140" x="50" y="70" fill="#fff" stroke="#06c" stroke-width="2" rx="8"/><text x="70" y="95" fill="#06c" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Eksempel 1: Innkjøp av Kontormaterialer
-  </text>
-  <text x="70" y="115" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><text x="70" y="115" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Situasjon: Kjøp av kontormaterialer for 5 000 kr + 1 250 kr MVA = 6 250 kr totalt
-  </text>
-  
-
-  <rect x="80" y="130" width="640" height="70" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="4"/>
-  <text x="100" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><rect width="640" height="70" x="80" y="130" fill="#f8f9fa" stroke="#dee2e6" rx="4"/><text x="100" y="150" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kontering:
-  </text>
-  <text x="120" y="170" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="120" y="170" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Debet: 6300 Kontormaterialer        5 000 kr
-  </text>
-  <text x="120" y="185" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="120" y="185" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Debet: 2700 Inngående MVA          1 250 kr
-  </text>
-  <text x="450" y="170" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="450" y="170" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Kredit: 2400 Leverandørgjeld       6 250 kr
-  </text>
-  
-
-  <rect x="50" y="230" width="700" height="140" fill="#ffffff" stroke="#28a745" stroke-width="2" rx="8"/>
-  <text x="70" y="255" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#28a745">
+  </text><rect width="700" height="140" x="50" y="230" fill="#fff" stroke="#28a745" stroke-width="2" rx="8"/><text x="70" y="255" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Eksempel 2: Salg av Varer
-  </text>
-  <text x="70" y="275" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><text x="70" y="275" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Situasjon: Salg av varer for 10 000 kr + 2 500 kr MVA = 12 500 kr totalt
-  </text>
-  
-
-  <rect x="80" y="290" width="640" height="70" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="4"/>
-  <text x="100" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><rect width="640" height="70" x="80" y="290" fill="#f8f9fa" stroke="#dee2e6" rx="4"/><text x="100" y="310" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kontering:
-  </text>
-  <text x="120" y="330" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="120" y="330" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Debet: 1500 Kundefordringer       12 500 kr
-  </text>
-  <text x="450" y="330" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="450" y="330" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Kredit: 3000 Salgsinntekt         10 000 kr
-  </text>
-  <text x="450" y="345" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="450" y="345" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Kredit: 2700 Utgående MVA          2 500 kr
-  </text>
-  
-
-  <rect x="50" y="390" width="700" height="160" fill="#ffffff" stroke="#ffc107" stroke-width="2" rx="8"/>
-  <text x="70" y="415" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f57c00">
+  </text><rect width="700" height="160" x="50" y="390" fill="#fff" stroke="#ffc107" stroke-width="2" rx="8"/><text x="70" y="415" fill="#f57c00" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Eksempel 3: Lønnsutbetaling
-  </text>
-  <text x="70" y="435" font-family="Arial, sans-serif" font-size="14" fill="#333">
+  </text><text x="70" y="435" fill="#333" font-family="Arial, sans-serif" font-size="14">
     Situasjon: Lønn 50 000 kr, forskuddstrekk 12 000 kr, arbeidsgiveravgift 7 100 kr
-  </text>
-  
-
-  <rect x="80" y="450" width="640" height="90" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="4"/>
-  <text x="100" y="470" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><rect width="640" height="90" x="80" y="450" fill="#f8f9fa" stroke="#dee2e6" rx="4"/><text x="100" y="470" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Kontering:
-  </text>
-  <text x="120" y="490" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="120" y="490" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Debet: 5000 Lønnskostnad          50 000 kr
-  </text>
-  <text x="120" y="505" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="120" y="505" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Debet: 5400 Arbeidsgiveravgift     7 100 kr
-  </text>
-  <text x="120" y="520" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="120" y="520" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Kredit: 1920 Bank                 38 000 kr
-  </text>
-  
-  <text x="450" y="490" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="450" y="490" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Kredit: 2740 Forskuddstrekk       12 000 kr
-  </text>
-  <text x="450" y="505" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="450" y="505" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Kredit: 2750 Skyldig AGA           7 100 kr
-  </text>
-  
-
-  <rect x="200" y="560" width="400" height="30" fill="#e3f2fd" stroke="#0066cc" stroke-width="2" rx="8"/>
-  <text x="400" y="580" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="400" height="30" x="200" y="560" fill="#e3f2fd" stroke="#06c" stroke-width="2" rx="8"/><text x="400" y="580" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Viktig: Debet = Kredit (balanse må stemme)
-  </text>
-  
-
-  <circle cx="30" cy="150" r="15" fill="#0066cc"/>
-  <text x="30" y="158" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">1</text>
-  
-  <circle cx="30" cy="310" r="15" fill="#28a745"/>
-  <text x="30" y="318" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">2</text>
-  
-  <circle cx="30" cy="470" r="15" fill="#ffc107"/>
-  <text x="30" y="478" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="black">3</text>
-</svg>
+  </text><circle cx="30" cy="150" r="15" fill="#06c"/><text x="30" y="158" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">1</text><circle cx="30" cy="310" r="15" fill="#28a745"/><text x="30" y="318" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">2</text><circle cx="30" cy="470" r="15" fill="#ffc107"/><text x="30" y="478" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">3</text></svg>

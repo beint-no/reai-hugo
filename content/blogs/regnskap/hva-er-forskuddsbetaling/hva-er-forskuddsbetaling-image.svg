@@ -1,84 +1,25 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Hva er forskuddsbetaling?
-  </text>
-  
-
-  <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-
-  <text x="400" y="160" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><rect width="700" height="240" x="50" y="120" fill="#fff" stroke="#dee2e6" rx="10"/><text x="400" y="160" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Betaling på forhånd for varer eller tjenester
-  </text>
-  
-
-  <line x1="100" y1="220" x2="700" y2="220" stroke="#0066cc" stroke-width="3"/>
-  
-
-  <circle cx="200" cy="220" r="8" fill="#0066cc"/>
-  <circle cx="400" cy="220" r="8" fill="#28a745"/>
-  <circle cx="600" cy="220" r="8" fill="#dc3545"/>
-  
-
-  <text x="200" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><path stroke="#06c" stroke-width="3" d="M100 220h600"/><circle cx="200" cy="220" r="8" fill="#06c"/><circle cx="400" cy="220" r="8" fill="#28a745"/><circle cx="600" cy="220" r="8" fill="#dc3545"/><text x="200" y="250" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Forskudd
-  </text>
-  <text x="200" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="200" y="270" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Betaling
-  </text>
-  
-  <text x="400" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="400" y="250" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Produksjon
-  </text>
-  <text x="400" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="400" y="270" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Arbeid utføres
-  </text>
-  
-  <text x="600" y="250" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><text x="600" y="250" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Levering
-  </text>
-  <text x="600" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="600" y="270" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Vare/tjeneste
-  </text>
-  
-
-  <polygon points="190,210 210,210 200,200" fill="#0066cc"/>
-  <polygon points="390,210 410,210 400,200" fill="#28a745"/>
-  <polygon points="590,210 610,210 600,200" fill="#dc3545"/>
-  
-
-  <rect x="100" y="300" width="250" height="50" fill="#e8f4fd" stroke="#0066cc" stroke-width="1" rx="5"/>
-  <text x="225" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><path fill="#06c" d="M190 210h20l-10-10z"/><path fill="#28a745" d="M390 210h20l-10-10z"/><path fill="#dc3545" d="M590 210h20l-10-10z"/><rect width="250" height="50" x="100" y="300" fill="#e8f4fd" stroke="#06c" rx="5"/><text x="225" y="320" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Fordeler for selger:
-  </text>
-  <text x="225" y="335" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="225" y="335" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Bedre kontantstrøm
-  </text>
-  
-
-  <rect x="450" y="300" width="250" height="50" fill="#fdf2e8" stroke="#dc3545" stroke-width="1" rx="5"/>
-  <text x="575" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><rect width="250" height="50" x="450" y="300" fill="#fdf2e8" stroke="#dc3545" rx="5"/><text x="575" y="320" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Risiko for kjøper:
-  </text>
-  <text x="575" y="335" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#333">
+  </text><text x="575" y="335" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Leveringsrisiko
-  </text>
-</svg>
+  </text></svg>

@@ -1,146 +1,63 @@
-<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="500" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="350" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h700v500H0z"/><text x="350" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Minstefradrag Oversikt
-  </text>
-  
-
-  <rect x="250" y="80" width="200" height="80" fill="url(#blueGrad)" rx="10"/>
-  <text x="350" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="80" x="250" y="80" fill="url(#b)" rx="10"/><text x="350" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     MINSTEFRADRAG
-  </text>
-  <text x="350" y="130" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="350" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Standardisert fradrag
-  </text>
-  <text x="350" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="350" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     for alle skattytere
-  </text>
-  
-
-  <rect x="50" y="200" width="150" height="60" fill="#e3f2fd" stroke="#0066cc" stroke-width="2" rx="5"/>
-  <text x="125" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="150" height="60" x="50" y="200" fill="#e3f2fd" stroke="#06c" stroke-width="2" rx="5"/><text x="125" y="220" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     BRUTTOINNTEKT
-  </text>
-  <text x="125" y="240" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#0066cc">
+  </text><text x="125" y="240" fill="#06c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Lønn, pensjon,
-  </text>
-  <text x="125" y="255" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#0066cc">
+  </text><text x="125" y="255" fill="#06c" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     næringsinntekt
-  </text>
-  
-
-  <rect x="500" y="200" width="150" height="60" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/>
-  <text x="575" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="150" height="60" x="500" y="200" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/><text x="575" y="220" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     SKATTEPLIKTIG
-  </text>
-  <text x="575" y="235" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="575" y="235" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     INNTEKT
-  </text>
-  <text x="575" y="255" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#28a745">
+  </text><text x="575" y="255" fill="#28a745" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Etter fradrag
-  </text>
-  
-
-  <path d="M 200 230 L 240 230" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 460 230 L 500 230" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-  </defs>
-  
-
-  <rect x="250" y="200" width="200" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/>
-  <text x="350" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ff9800">
+  </text><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#c)" d="M200 230h40"/><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#c)" d="M460 230h40"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="200" height="60" x="250" y="200" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/><text x="350" y="220" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     MINSTEFRADRAG TREKKES FRA
-  </text>
-  <text x="350" y="240" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#ff9800">
+  </text><text x="350" y="240" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     46% av lønn (maks kr 104 850)
-  </text>
-  <text x="350" y="255" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#ff9800">
+  </text><text x="350" y="255" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     31% av pensjon (maks kr 90 800)
-  </text>
-  
-
-  <text x="350" y="320" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><text x="350" y="320" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Fordeler med Minstefradrag
-  </text>
-  
-
-  <rect x="50" y="340" width="130" height="80" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="115" y="360" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="130" height="80" x="50" y="340" fill="#fff" stroke="#dee2e6" rx="5"/><text x="115" y="360" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     AUTOMATISK
-  </text>
-  <text x="115" y="380" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="115" y="380" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Gis automatisk i
-  </text>
-  <text x="115" y="395" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="115" y="395" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     selvangivelsen
-  </text>
-  <text x="115" y="410" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="115" y="410" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     uten dokumentasjon
-  </text>
-  
-  <rect x="200" y="340" width="130" height="80" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="265" y="360" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="130" height="80" x="200" y="340" fill="#fff" stroke="#dee2e6" rx="5"/><text x="265" y="360" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     FORENKLET
-  </text>
-  <text x="265" y="380" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="265" y="380" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Ingen behov for
-  </text>
-  <text x="265" y="395" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="265" y="395" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     detaljert føring av
-  </text>
-  <text x="265" y="410" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="265" y="410" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     små utgifter
-  </text>
-  
-  <rect x="350" y="340" width="130" height="80" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="415" y="360" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="130" height="80" x="350" y="340" fill="#fff" stroke="#dee2e6" rx="5"/><text x="415" y="360" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     RETTFERDIG
-  </text>
-  <text x="415" y="380" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="415" y="380" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Alle får dekket
-  </text>
-  <text x="415" y="395" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="415" y="395" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     grunnleggende
-  </text>
-  <text x="415" y="410" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="415" y="410" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     arbeidskostnader
-  </text>
-  
-  <rect x="500" y="340" width="130" height="80" fill="white" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="565" y="360" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="130" height="80" x="500" y="340" fill="#fff" stroke="#dee2e6" rx="5"/><text x="565" y="360" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     BETYDELIG
-  </text>
-  <text x="565" y="380" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="565" y="380" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kan spare tusenvis
-  </text>
-  <text x="565" y="395" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="565" y="395" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     av kroner i skatt
-  </text>
-  <text x="565" y="410" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+  </text><text x="565" y="410" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     hvert år
-  </text>
-  
-
-  <text x="350" y="460" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="350" y="460" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Minstefradrag er en grunnleggende del av det norske skattesystemet
-  </text>
-</svg>
+  </text></svg>

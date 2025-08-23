@@ -1,227 +1,75 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="bankGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="apiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="accountingGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Digital Banking og Regnskapsintegrasjon
-  </text>
-  
-
-  <g transform="translate(50, 100)">
-    <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#bankGradient)" opacity="0.9"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 100)"><rect width="180" height="120" fill="url(#b)" opacity=".9" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Banksystem
-    </text>
-    <circle cx="90" cy="55" r="20" fill="white" opacity="0.3"/>
-    <text x="90" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white">🏦</text>
-    
-    <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><circle cx="90" cy="55" r="20" fill="#fff" opacity=".3"/><text x="90" y="63" fill="#fff" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🏦</text><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Sanntidsoppdateringer
-    </text>
-    <text x="90" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Automatisk kategorisering
-    </text>
-    <text x="90" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Mobil banking
-    </text>
-  </g>
-  
-
-  <g transform="translate(310, 100)">
-    <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#apiGradient)" opacity="0.9"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(310 100)"><rect width="180" height="120" fill="url(#c)" opacity=".9" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       API-integrasjon
-    </text>
-    <circle cx="90" cy="55" r="20" fill="white" opacity="0.3"/>
-    <text x="90" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white">🔗</text>
-    
-    <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><circle cx="90" cy="55" r="20" fill="#fff" opacity=".3"/><text x="90" y="63" fill="#fff" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">🔗</text><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Automatisk dataoverføring
-    </text>
-    <text x="90" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Sikker kommunikasjon
-    </text>
-    <text x="90" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Standardiserte formater
-    </text>
-  </g>
-  
-
-  <g transform="translate(570, 100)">
-    <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#accountingGradient)" opacity="0.9"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(570 100)"><rect width="180" height="120" fill="url(#d)" opacity=".9" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Regnskapssystem
-    </text>
-    <circle cx="90" cy="55" r="20" fill="white" opacity="0.3"/>
-    <text x="90" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white">📊</text>
-    
-    <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><circle cx="90" cy="55" r="20" fill="#fff" opacity=".3"/><text x="90" y="63" fill="#fff" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">📊</text><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Automatisk registrering
-    </text>
-    <text x="90" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Raskere avstemming
-    </text>
-    <text x="90" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Automatisk rapportering
-    </text>
-  </g>
-  
-
-  <path d="M 240 160 L 300 160" stroke="#333" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 500 160 L 560 160" stroke="#333" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <text x="270" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text></g><path fill="none" stroke="#333" stroke-width="3" marker-end="url(#e)" d="M240 160h60"/><path fill="none" stroke="#333" stroke-width="3" marker-end="url(#e)" d="M500 160h60"/><text x="270" y="150" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Transaksjonsdata
-  </text>
-  <text x="530" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><text x="530" y="150" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Strukturerte data
-  </text>
-  
-
-  <text x="50" y="270" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+  </text><text x="50" y="270" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Fordeler med Digital Integrasjon:
-  </text>
-  
-
-  <g transform="translate(50, 290)">
-    <rect x="0" y="0" width="160" height="80" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
-    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+  </text><g transform="translate(50 290)"><rect width="160" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="80" y="20" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Redusert manuelt arbeid
-    </text>
-    <circle cx="80" cy="45" r="12" fill="#4CAF50" opacity="0.3"/>
-    <text x="80" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2E7D32">⚡</text>
-    <text x="80" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><circle cx="80" cy="45" r="12" fill="#4caf50" opacity=".3"/><text x="80" y="51" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">⚡</text><text x="80" y="70" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Automatisk avstemming
-    </text>
-  </g>
-  
-
-  <g transform="translate(230, 290)">
-    <rect x="0" y="0" width="160" height="80" rx="10" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
-    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+    </text></g><g transform="translate(230 290)"><rect width="160" height="80" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" rx="10"/><text x="80" y="20" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Raskere registrering
-    </text>
-    <circle cx="80" cy="45" r="12" fill="#2196F3" opacity="0.3"/>
-    <text x="80" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976D2">🚀</text>
-    <text x="80" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><circle cx="80" cy="45" r="12" fill="#2196f3" opacity=".3"/><text x="80" y="51" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🚀</text><text x="80" y="70" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Sanntid transaksjoner
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 290)">
-    <rect x="0" y="0" width="160" height="80" rx="10" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
-    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
+    </text></g><g transform="translate(410 290)"><rect width="160" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/><text x="80" y="20" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Bedre kontroll
-    </text>
-    <circle cx="80" cy="45" r="12" fill="#FF9800" opacity="0.3"/>
-    <text x="80" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#F57C00">🎯</text>
-    <text x="80" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><circle cx="80" cy="45" r="12" fill="#ff9800" opacity=".3"/><text x="80" y="51" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🎯</text><text x="80" y="70" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Bedre oversikt
-    </text>
-  </g>
-  
-
-  <g transform="translate(590, 290)">
-    <rect x="0" y="0" width="160" height="80" rx="10" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2"/>
-    <text x="80" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
+    </text></g><g transform="translate(590 290)"><rect width="160" height="80" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="10"/><text x="80" y="20" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Automatisk rapportering
-    </text>
-    <circle cx="80" cy="45" r="12" fill="#9C27B0" opacity="0.3"/>
-    <text x="80" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7B1FA2">📈</text>
-    <text x="80" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><circle cx="80" cy="45" r="12" fill="#9c27b0" opacity=".3"/><text x="80" y="51" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">📈</text><text x="80" y="70" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Automatiske rapporter
-    </text>
-  </g>
-  
-
-  <text x="50" y="410" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    </text></g><text x="50" y="410" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Utfordringer og Løsninger:
-  </text>
-  
-
-  <g transform="translate(50, 430)">
-    <rect x="0" y="0" width="340" height="60" rx="10" fill="#FFEBEE" stroke="#F44336" stroke-width="2"/>
-    <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#D32F2F">
+  </text><g transform="translate(50 430)"><rect width="340" height="60" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="10"/><text x="20" y="20" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Utfordring: Systemintegrasjon og kompatibilitet
-    </text>
-    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="40" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Løsning: Standardiserte API-er og felles dataformater
-    </text>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Implementer gradvis integrasjon med testing
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 430)">
-    <rect x="0" y="0" width="340" height="60" rx="10" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
-    <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
+    </text></g><g transform="translate(410 430)"><rect width="340" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/><text x="20" y="20" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Utfordring: Datasikkerhet og personvern
-    </text>
-    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="40" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Løsning: Kryptering, to-faktor autentisering
-    </text>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Regelmessige sikkerhetsoppdateringer
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 510)">
-    <rect x="0" y="0" width="340" height="60" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
-    <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+    </text></g><g transform="translate(50 510)"><rect width="340" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="20" y="20" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Utfordring: Backup-rutiner ved systemfeil
-    </text>
-    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="40" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Løsning: Automatiske sikkerhetskopier
-    </text>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Redundante systemer og beredskapsplaner
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 510)">
-    <rect x="0" y="0" width="340" height="60" rx="10" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2"/>
-    <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
+    </text></g><g transform="translate(410 510)"><rect width="340" height="60" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="10"/><text x="20" y="20" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Utfordring: Kompetansekrav for personalet
-    </text>
-    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="40" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Løsning: Opplæringsprogrammer og støtte
-    </text>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Kontinuerlig kompetanseutvikling
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
-     refX="0" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#333" />
-    </marker>
-  </defs>
-</svg>
+    </text></g><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="0" refY="3.5"><path fill="#333" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

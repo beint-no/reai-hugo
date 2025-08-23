@@ -1,163 +1,49 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-
-    <linearGradient id="zone1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="zone2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#e8590c;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="zone3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="zone4" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#20c997;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#1aa179;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="zone5" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:.8"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:.8"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fd7e14;stop-opacity:.8"/><stop offset="100%" style="stop-color:#e8590c;stop-opacity:.8"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:.8"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#20c997;stop-opacity:.8"/><stop offset="100%" style="stop-color:#1aa179;stop-opacity:.8"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:.8"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Geografiske Soner for Arbeidsgiveravgift
-  </text>
-  
-
-  <g transform="translate(100, 80)">
-
-    <path d="M 200 50 L 280 40 L 320 60 L 300 90 L 250 85 L 200 75 Z" fill="url(#zone5)" stroke="#333" stroke-width="2"/>
-    <text x="260" y="70" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><g transform="translate(100 80)"><path fill="url(#b)" stroke="#333" stroke-width="2" d="m200 50 80-10 40 20-20 30-50-5-50-10Z"/><text x="260" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Sone 5: 0%
-    </text>
-    
-
-    <path d="M 180 75 L 250 85 L 300 90 L 290 130 L 240 125 L 180 115 Z" fill="url(#zone4)" stroke="#333" stroke-width="2"/>
-    <text x="240" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><path fill="url(#c)" stroke="#333" stroke-width="2" d="m180 75 70 10 50 5-10 40-50-5-60-10Z"/><text x="240" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Sone 4: 5,1%
-    </text>
-    
-
-    <path d="M 160 115 L 240 125 L 290 130 L 280 180 L 220 175 L 160 165 Z" fill="url(#zone3)" stroke="#333" stroke-width="2"/>
-    <text x="220" y="145" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><path fill="url(#d)" stroke="#333" stroke-width="2" d="m160 115 80 10 50 5-10 50-60-5-60-10Z"/><text x="220" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Sone 3: 6,4%
-    </text>
-    
-
-    <path d="M 140 165 L 220 175 L 280 180 L 270 280 L 200 275 L 140 265 Z" fill="url(#zone2)" stroke="#333" stroke-width="2"/>
-    <text x="200" y="220" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><path fill="url(#e)" stroke="#333" stroke-width="2" d="m140 165 80 10 60 5-10 100-70-5-60-10Z"/><text x="200" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Sone 2: 10,6%
-    </text>
-    
-
-    <ellipse cx="200" cy="320" rx="40" ry="25" fill="url(#zone1)" stroke="#333" stroke-width="2"/>
-    <text x="200" y="325" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><ellipse cx="200" cy="320" fill="url(#f)" stroke="#333" stroke-width="2" rx="40" ry="25"/><text x="200" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Sone 1: 14,1%
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 120)">
-    <rect x="0" y="0" width="300" height="280" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
-    <text x="150" y="25" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(450 120)"><rect width="300" height="280" fill="#fff" stroke="#06c" stroke-width="2" rx="10"/><text x="150" y="25" fill="#06c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Soneoversikt
-    </text>
-    
-
-    <g transform="translate(20, 45)">
-      <rect x="0" y="0" width="20" height="15" fill="url(#zone1)"/>
-      <text x="30" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path fill="url(#f)" d="M0 0h20v15H0z" transform="translate(20 45)"/><text x="30" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" transform="translate(20 45)">
         Sone 1 - 14,1%
-      </text>
-      <text x="30" y="28" fill="#666" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="30" y="28" fill="#666" font-family="Arial, sans-serif" font-size="12" transform="translate(20 45)">
         Oslo, Bærum, Asker
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 75)">
-      <rect x="0" y="0" width="20" height="15" fill="url(#zone2)"/>
-      <text x="30" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text><path fill="url(#e)" d="M0 0h20v15H0z" transform="translate(20 75)"/><text x="30" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" transform="translate(20 75)">
         Sone 2 - 10,6%
-      </text>
-      <text x="30" y="28" fill="#666" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="30" y="28" fill="#666" font-family="Arial, sans-serif" font-size="12" transform="translate(20 75)">
         Øvrige Østlandet, Vestlandet
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 105)">
-      <rect x="0" y="0" width="20" height="15" fill="url(#zone3)"/>
-      <text x="30" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text><path fill="url(#d)" d="M0 0h20v15H0z" transform="translate(20 105)"/><text x="30" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" transform="translate(20 105)">
         Sone 3 - 6,4%
-      </text>
-      <text x="30" y="28" fill="#666" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="30" y="28" fill="#666" font-family="Arial, sans-serif" font-size="12" transform="translate(20 105)">
         Trøndelag, Nord-Norge (deler)
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 135)">
-      <rect x="0" y="0" width="20" height="15" fill="url(#zone4)"/>
-      <text x="30" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text><path fill="url(#c)" d="M0 0h20v15H0z" transform="translate(20 135)"/><text x="30" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" transform="translate(20 135)">
         Sone 4 - 5,1%
-      </text>
-      <text x="30" y="28" fill="#666" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="30" y="28" fill="#666" font-family="Arial, sans-serif" font-size="12" transform="translate(20 135)">
         Nord-Norge (deler)
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 165)">
-      <rect x="0" y="0" width="20" height="15" fill="url(#zone5)"/>
-      <text x="30" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text><path fill="url(#b)" d="M0 0h20v15H0z" transform="translate(20 165)"/><text x="30" y="12" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" transform="translate(20 165)">
         Sone 5 - 0%
-      </text>
-      <text x="30" y="28" fill="#666" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="30" y="28" fill="#666" font-family="Arial, sans-serif" font-size="12" transform="translate(20 165)">
         Finnmark, Nord-Troms
-      </text>
-    </g>
-    
-
-    <g transform="translate(20, 210)">
-      <text x="0" y="15" fill="#0066cc" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text><g font-family="Arial, sans-serif"><text y="15" fill="#06c" font-size="14" font-weight="bold" transform="translate(20 210)">
         Viktig å merke seg:
-      </text>
-      <text x="0" y="35" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="35" fill="#333" font-size="12" transform="translate(20 210)">
         • Satsene gjelder per 2024
-      </text>
-      <text x="0" y="50" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="50" fill="#333" font-size="12" transform="translate(20 210)">
         • Geografisk differensiering
-      </text>
-      <text x="0" y="65" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="65" fill="#333" font-size="12" transform="translate(20 210)">
         • EU/EØS-godkjente satser
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 480)">
-    <rect x="0" y="0" width="700" height="80" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
-    <text x="20" y="25" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      </text></g></g><g transform="translate(50 480)"><rect width="700" height="80" fill="#fff" stroke="#28a745" stroke-width="2" rx="10"/><text x="20" y="25" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Distriktspolitisk virkemiddel:
-    </text>
-    <text x="20" y="45" fill="#333" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="20" y="45" fill="#333" font-family="Arial, sans-serif" font-size="14">
       De geografiske sonene er utformet for å stimulere næringsutvikling i distriktene.
-    </text>
-    <text x="20" y="65" fill="#333" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="20" y="65" fill="#333" font-family="Arial, sans-serif" font-size="14">
       Jo lenger nord og øst, desto lavere arbeidsgiveravgift - helt ned til 0% i Finnmark og Nord-Troms.
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

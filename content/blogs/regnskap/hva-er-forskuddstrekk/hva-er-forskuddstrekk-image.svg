@@ -1,131 +1,47 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="45" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Hva er Forskuddstrekk?
-  </text>
-  
-
-  <g transform="translate(50, 120)">
-
-    <rect x="0" y="0" width="200" height="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-    <text x="100" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><g transform="translate(50 120)"><rect width="200" height="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/><text x="100" y="30" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       ARBEIDSGIVER
-    </text>
-    <text x="100" y="55" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="100" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Beregner og trekker
-    </text>
-    <text x="100" y="75" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="100" y="75" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       skatt fra lønn
-    </text>
-    <text x="100" y="95" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="100" y="95" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Bruttolønn - Forskuddstrekk
-    </text>
-    <text x="100" y="110" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="100" y="110" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       = Nettolønn
-    </text>
-  </g>
-  
-
-  <g transform="translate(270, 160)">
-    <line x1="0" y1="20" x2="80" y2="20" stroke="#28a745" stroke-width="3" marker-end="url(#arrowhead)"/>
-    <text x="40" y="15" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#28a745">
+    </text></g><path stroke="#28a745" stroke-width="3" marker-end="url(#c)" d="M0 20h80" transform="translate(270 160)"/><text x="40" y="15" fill="#28a745" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="translate(270 160)">
       Nettolønn
-    </text>
-  </g>
-  
-
-  <g transform="translate(370, 120)">
-    <rect x="0" y="0" width="160" height="120" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10"/>
-    <text x="80" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
+    </text><g transform="translate(370 120)"><rect width="160" height="120" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10"/><text x="80" y="30" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       ANSATT
-    </text>
-    <text x="80" y="55" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="80" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Mottar nettolønn
-    </text>
-    <text x="80" y="75" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="80" y="75" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Skatt betalt
-    </text>
-    <text x="80" y="95" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="80" y="95" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       løpende gjennom
-    </text>
-    <text x="80" y="110" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="80" y="110" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       året
-    </text>
-  </g>
-  
-
-  <g transform="translate(150, 260)">
-    <line x1="0" y1="0" x2="0" y2="60" stroke="#dc3545" stroke-width="3" marker-end="url(#arrowhead2)"/>
-    <text x="-5" y="30" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#dc3545" transform="rotate(-90, -5, 30)">
+    </text></g><path stroke="#dc3545" stroke-width="3" marker-end="url(#d)" d="M0 0v60" transform="translate(150 260)"/><text x="-5" y="30" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="rotate(-90 200 85)">
       Forskuddstrekk
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="200" height="60" fill="#ffebee" stroke="#dc3545" stroke-width="2" rx="10"/>
-    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#dc3545">
+    </text><g transform="translate(50 320)"><rect width="200" height="60" fill="#ffebee" stroke="#dc3545" stroke-width="2" rx="10"/><text x="100" y="25" fill="#dc3545" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       SKATTEETATEN
-    </text>
-    <text x="100" y="45" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="100" y="45" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Mottar skattetrekk månedlig
-    </text>
-  </g>
-  
-
-  <g transform="translate(580, 120)">
-    <rect x="0" y="0" width="170" height="200" fill="#fff3cd" stroke="#856404" stroke-width="2" rx="10"/>
-    <text x="85" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
+    </text></g><g transform="translate(580 120)"><rect width="170" height="200" fill="#fff3cd" stroke="#856404" stroke-width="2" rx="10"/><text x="85" y="25" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       PROSESS
-    </text>
-    
-    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="10" y="50" fill="#333" font-family="Arial, sans-serif" font-size="11">
       1. Skattekort fra ansatt
-    </text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="10" y="70" fill="#333" font-family="Arial, sans-serif" font-size="11">
       2. Beregn trekkprosent
-    </text>
-    <text x="10" y="90" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="10" y="90" fill="#333" font-family="Arial, sans-serif" font-size="11">
       3. Trekk fra bruttolønn
-    </text>
-    <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="10" y="110" fill="#333" font-family="Arial, sans-serif" font-size="11">
       4. Utbetal nettolønn
-    </text>
-    <text x="10" y="130" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="10" y="130" fill="#333" font-family="Arial, sans-serif" font-size="11">
       5. Rapporter A-melding
-    </text>
-    <text x="10" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="10" y="150" fill="#333" font-family="Arial, sans-serif" font-size="11">
       6. Innbetal til Skatteetaten
-    </text>
-    <text x="10" y="170" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="10" y="170" fill="#333" font-family="Arial, sans-serif" font-size="11">
       7. Oppbevar dokumentasjon
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
-    </marker>
-  </defs>
-</svg>
+    </text></g><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#dc3545" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

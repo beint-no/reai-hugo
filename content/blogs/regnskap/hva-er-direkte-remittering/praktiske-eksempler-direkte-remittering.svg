@@ -1,197 +1,37 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="payrollGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="supplierGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="internationalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Praktiske Eksempler på Direkte Remittering
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="700" height="150" rx="10" fill="url(#payrollGradient)" opacity="0.9"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="700" height="150" fill="url(#b)" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       💼 Eksempel 1: Månedlig Lønnsutbetaling (50 ansatte)
-    </text>
-    
-
-    <g transform="translate(30, 45)">
-
-      <rect x="0" y="0" width="150" height="30" rx="3" fill="white" opacity="0.3"/>
-      <text x="75" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(30 45)"><rect width="150" height="30" opacity=".3" rx="3"/><text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Aspekt
-      </text>
-      
-      <rect x="160" y="0" width="200" height="30" rx="3" fill="white" opacity="0.3"/>
-      <text x="260" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="200" height="30" x="160" opacity=".3" rx="3"/><text x="260" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Tradisjonell Metode
-      </text>
-      
-      <rect x="370" y="0" width="200" height="30" rx="3" fill="white" opacity="0.3"/>
-      <text x="470" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="200" height="30" x="370" opacity=".3" rx="3"/><text x="470" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Direkte Remittering
-      </text>
-      
-      <rect x="580" y="0" width="120" height="30" rx="3" fill="white" opacity="0.3"/>
-      <text x="640" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><rect width="120" height="30" x="580" opacity=".3" rx="3"/><text x="640" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Besparelse
-      </text>
-      
-
-      <rect x="0" y="35" width="150" height="25" rx="3" fill="white" opacity="0.2"/>
-      <text x="10" y="52" font-family="Arial, sans-serif" font-size="11" fill="white">Tid brukt</text>
-      
-      <rect x="160" y="35" width="200" height="25" rx="3" fill="white" opacity="0.2"/>
-      <text x="170" y="52" font-family="Arial, sans-serif" font-size="11" fill="white">4-6 timer</text>
-      
-      <rect x="370" y="35" width="200" height="25" rx="3" fill="white" opacity="0.2"/>
-      <text x="380" y="52" font-family="Arial, sans-serif" font-size="11" fill="white">30 minutter</text>
-      
-      <rect x="580" y="35" width="120" height="25" rx="3" fill="white" opacity="0.2"/>
-      <text x="590" y="52" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">90% mindre</text>
-      
-
-      <rect x="0" y="65" width="150" height="25" rx="3" fill="white" opacity="0.2"/>
-      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">Kostnad per utbetaling</text>
-      
-      <rect x="160" y="65" width="200" height="25" rx="3" fill="white" opacity="0.2"/>
-      <text x="170" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">15-25 kr</text>
-      
-      <rect x="370" y="65" width="200" height="25" rx="3" fill="white" opacity="0.2"/>
-      <text x="380" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">2-5 kr</text>
-      
-      <rect x="580" y="65" width="120" height="25" rx="3" fill="white" opacity="0.2"/>
-      <text x="590" y="82" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">80% mindre</text>
-    </g>
-    
-
-    <rect x="250" y="120" width="200" height="25" rx="5" fill="white" opacity="0.4"/>
-    <text x="350" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text><rect width="150" height="25" y="35" opacity=".2" rx="3"/><text x="10" y="52" font-family="Arial, sans-serif" font-size="11">Tid brukt</text><rect width="200" height="25" x="160" y="35" opacity=".2" rx="3"/><text x="170" y="52" font-family="Arial, sans-serif" font-size="11">4-6 timer</text><rect width="200" height="25" x="370" y="35" opacity=".2" rx="3"/><text x="380" y="52" font-family="Arial, sans-serif" font-size="11">30 minutter</text><rect width="120" height="25" x="580" y="35" opacity=".2" rx="3"/><text x="590" y="52" font-family="Arial, sans-serif" font-size="11" font-weight="bold">90% mindre</text><rect width="150" height="25" y="65" opacity=".2" rx="3"/><text x="10" y="82" font-family="Arial, sans-serif" font-size="11">Kostnad per utbetaling</text><rect width="200" height="25" x="160" y="65" opacity=".2" rx="3"/><text x="170" y="82" font-family="Arial, sans-serif" font-size="11">15-25 kr</text><rect width="200" height="25" x="370" y="65" opacity=".2" rx="3"/><text x="380" y="82" font-family="Arial, sans-serif" font-size="11">2-5 kr</text><rect width="120" height="25" x="580" y="65" opacity=".2" rx="3"/><text x="590" y="82" font-family="Arial, sans-serif" font-size="11" font-weight="bold">80% mindre</text></g><rect width="200" height="25" x="250" y="120" fill="#fff" opacity=".4" rx="5"/><text x="350" y="137" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Årlig besparelse: 50-80k kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 250)">
-    <rect x="0" y="0" width="700" height="140" rx="10" fill="url(#supplierGradient)" opacity="0.9"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 250)"><rect width="700" height="140" fill="url(#c)" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       🏭 Eksempel 2: Leverandørbetaling (20 fakturaer)
-    </text>
-    
-
-    <g transform="translate(30, 45)">
-      <rect x="0" y="0" width="120" height="80" rx="5" fill="white" opacity="0.2"/>
-      <text x="60" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(30 45)"><rect width="120" height="80" opacity=".2" rx="5"/><text x="60" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         1. Attestering
-      </text>
-      <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Fakturaer godkjennes</text>
-      <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontroll av beløp</text>
-      <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Autorisasjon</text>
-      
-      <text x="135" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">→</text>
-      
-      <rect x="150" y="0" width="120" height="80" rx="5" fill="white" opacity="0.2"/>
-      <text x="210" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><text x="10" y="30" font-family="Arial, sans-serif" font-size="10">• Fakturaer godkjennes</text><text x="10" y="45" font-family="Arial, sans-serif" font-size="10">• Kontroll av beløp</text><text x="10" y="60" font-family="Arial, sans-serif" font-size="10">• Autorisasjon</text><text x="135" y="45" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">→</text><rect width="120" height="80" x="150" opacity=".2" rx="5"/><text x="210" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         2. Registrering
-      </text>
-      <text x="160" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Data i banksystem</text>
-      <text x="160" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Samlet oppdrag</text>
-      <text x="160" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Kvalitetskontroll</text>
-      
-      <text x="285" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">→</text>
-      
-      <rect x="300" y="0" width="120" height="80" rx="5" fill="white" opacity="0.2"/>
-      <text x="360" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><text x="160" y="30" font-family="Arial, sans-serif" font-size="10">• Data i banksystem</text><text x="160" y="45" font-family="Arial, sans-serif" font-size="10">• Samlet oppdrag</text><text x="160" y="60" font-family="Arial, sans-serif" font-size="10">• Kvalitetskontroll</text><text x="285" y="45" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">→</text><rect width="120" height="80" x="300" opacity=".2" rx="5"/><text x="360" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         3. Utførelse
-      </text>
-      <text x="310" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Alle betalinger</text>
-      <text x="310" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Samtidig utførelse</text>
-      <text x="310" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• På én dag</text>
-      
-      <text x="435" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">→</text>
-      
-      <rect x="450" y="0" width="120" height="80" rx="5" fill="white" opacity="0.2"/>
-      <text x="510" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><text x="310" y="30" font-family="Arial, sans-serif" font-size="10">• Alle betalinger</text><text x="310" y="45" font-family="Arial, sans-serif" font-size="10">• Samtidig utførelse</text><text x="310" y="60" font-family="Arial, sans-serif" font-size="10">• På én dag</text><text x="435" y="45" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">→</text><rect width="120" height="80" x="450" opacity=".2" rx="5"/><text x="510" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         4. Avstemming
-      </text>
-      <text x="460" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk</text>
-      <text x="460" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Mot bilag</text>
-      <text x="460" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Redusert arbeid</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 410)">
-    <rect x="0" y="0" width="700" height="140" rx="10" fill="url(#internationalGradient)" opacity="0.9"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="460" y="30" font-family="Arial, sans-serif" font-size="10">• Automatisk</text><text x="460" y="45" font-family="Arial, sans-serif" font-size="10">• Mot bilag</text><text x="460" y="60" font-family="Arial, sans-serif" font-size="10">• Redusert arbeid</text></g></g><g transform="translate(50 410)"><rect width="700" height="140" fill="url(#d)" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       🌍 Eksempel 3: Internasjonal Handel (Import fra Tyskland - €50,000)
-    </text>
-    
-
-    <g transform="translate(30, 45)">
-      <rect x="0" y="0" width="130" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="65" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(30 45)"><rect width="130" height="70" opacity=".2" rx="5"/><text x="65" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         Kontrakt
-      </text>
-      <text x="10" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Betalingsbetingelser</text>
-      <text x="10" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• SEPA-overføring</text>
-      <text x="10" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Valutakurs avtalt</text>
-      
-      <text x="145" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">→</text>
-      
-      <rect x="160" y="0" width="130" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="225" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><text x="10" y="30" font-family="Arial, sans-serif" font-size="10">• Betalingsbetingelser</text><text x="10" y="45" font-family="Arial, sans-serif" font-size="10">• SEPA-overføring</text><text x="10" y="60" font-family="Arial, sans-serif" font-size="10">• Valutakurs avtalt</text><text x="145" y="45" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">→</text><rect width="130" height="70" x="160" opacity=".2" rx="5"/><text x="225" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         Overføring
-      </text>
-      <text x="170" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Innen 1 virkedag</text>
-      <text x="170" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Lave kostnader</text>
-      <text x="170" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Transparent kurs</text>
-      
-      <text x="305" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">→</text>
-      
-      <rect x="320" y="0" width="130" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="385" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><text x="170" y="30" font-family="Arial, sans-serif" font-size="10">• Innen 1 virkedag</text><text x="170" y="45" font-family="Arial, sans-serif" font-size="10">• Lave kostnader</text><text x="170" y="60" font-family="Arial, sans-serif" font-size="10">• Transparent kurs</text><text x="305" y="45" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">→</text><rect width="130" height="70" x="320" opacity=".2" rx="5"/><text x="385" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         Bekreftelse
-      </text>
-      <text x="330" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Eksportør bekrefter</text>
-      <text x="330" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Mottak av betaling</text>
-      <text x="330" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Umiddelbar respons</text>
-      
-      <text x="465" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">→</text>
-      
-      <rect x="480" y="0" width="130" height="70" rx="5" fill="white" opacity="0.2"/>
-      <text x="545" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><text x="330" y="30" font-family="Arial, sans-serif" font-size="10">• Eksportør bekrefter</text><text x="330" y="45" font-family="Arial, sans-serif" font-size="10">• Mottak av betaling</text><text x="330" y="60" font-family="Arial, sans-serif" font-size="10">• Umiddelbar respons</text><text x="465" y="45" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">→</text><rect width="130" height="70" x="480" opacity=".2" rx="5"/><text x="545" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         Levering
-      </text>
-      <text x="490" y="30" font-family="Arial, sans-serif" font-size="10" fill="white">• Varer sendes</text>
-      <text x="490" y="45" font-family="Arial, sans-serif" font-size="10" fill="white">• Rask levering</text>
-      <text x="490" y="60" font-family="Arial, sans-serif" font-size="10" fill="white">• Bedre forhold</text>
-    </g>
-  </g>
-  
-
-  <rect x="50" y="570" width="700" height="25" rx="5" fill="#333" opacity="0.8"/>
-  <text x="400" y="587" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="490" y="30" font-family="Arial, sans-serif" font-size="10">• Varer sendes</text><text x="490" y="45" font-family="Arial, sans-serif" font-size="10">• Rask levering</text><text x="490" y="60" font-family="Arial, sans-serif" font-size="10">• Bedre forhold</text></g></g><rect width="700" height="25" x="50" y="570" fill="#333" opacity=".8" rx="5"/><text x="400" y="587" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Direkte remittering gir konkrete fordeler i alle typer betalingssituasjoner - fra lønn til internasjonal handel
-  </text>
-</svg>
+  </text></svg>

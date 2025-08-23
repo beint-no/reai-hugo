@@ -1,127 +1,43 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#F8FAFC"/>
-  
-
-  <rect x="50" y="30" width="700" height="60" fill="url(#headerGradient)" rx="8"/>
-  <text x="400" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4f46e5;stop-opacity:1"/><stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v500H0z"/><rect width="700" height="60" x="50" y="30" fill="url(#a)" rx="8"/><text x="400" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Nedskrivningsvurdering av Goodwill
-  </text>
-  <text x="400" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+  </text><text x="400" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Årlig test og beslutningsprosess
-  </text>
-  
-
-  <g transform="translate(100, 120)">
-
-    <rect x="200" y="0" width="200" height="60" fill="#10B981" rx="8"/>
-    <text x="300" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><g transform="translate(100 120)"><rect width="200" height="60" x="200" fill="#10b981" rx="8"/><text x="300" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Årlig nedskrivningstest
-    </text>
-    <text x="300" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="300" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       eller ved indikasjoner
-    </text>
-    
-
-    <path d="M 300 70 L 300 100" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
-    
-
-    <rect x="150" y="110" width="300" height="60" fill="#3B82F6" rx="8"/>
-    <text x="300" y="135" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path stroke="#374151" stroke-width="2" marker-end="url(#b)" d="M300 70v30"/><rect width="300" height="60" x="150" y="110" fill="#3b82f6" rx="8"/><text x="300" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Sammenlign bokført verdi med
-    </text>
-    <text x="300" y="155" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><text x="300" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       gjenvinnbar verdi
-    </text>
-    
-
-    <path d="M 300 180 L 300 210" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
-    
-
-    <polygon points="300,220 360,250 300,280 240,250" fill="#F59E0B"/>
-    <text x="300" y="245" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><path stroke="#374151" stroke-width="2" marker-end="url(#b)" d="M300 180v30"/><path fill="#f59e0b" d="m300 220 60 30-60 30-60-30z"/><text x="300" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Bokført &gt;
-    </text>
-    <text x="300" y="260" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="300" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Gjenvinnbar?
-    </text>
-    
-
-    <path d="M 240 250 L 120 250" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
-    <text x="180" y="240" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><path stroke="#374151" stroke-width="2" marker-end="url(#b)" d="M240 250H120"/><text x="180" y="240" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       NEI
-    </text>
-    
-
-    <path d="M 360 250 L 480 250" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
-    <text x="420" y="240" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><path stroke="#374151" stroke-width="2" marker-end="url(#b)" d="M360 250h120"/><text x="420" y="240" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       JA
-    </text>
-    
-
-    <rect x="20" y="220" width="120" height="60" fill="#10B981" rx="8"/>
-    <text x="80" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><rect width="120" height="60" x="20" y="220" fill="#10b981" rx="8"/><text x="80" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Ingen
-    </text>
-    <text x="80" y="255" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="80" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       nedskrivning
-    </text>
-    <text x="80" y="270" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="80" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       nødvendig
-    </text>
-    
-
-    <rect x="480" y="220" width="120" height="60" fill="#EF4444" rx="8"/>
-    <text x="540" y="240" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><rect width="120" height="60" x="480" y="220" fill="#ef4444" rx="8"/><text x="540" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Nedskrivning
-    </text>
-    <text x="540" y="255" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text><text x="540" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       må foretas
-    </text>
-    
-
-    <rect x="380" y="310" width="220" height="80" fill="#7C3AED" rx="8"/>
-    <text x="490" y="335" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="220" height="80" x="380" y="310" fill="#7c3aed" rx="8"/><text x="490" y="335" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Nedskrivningsbeløp =
-    </text>
-    <text x="490" y="355" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="490" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Bokført verdi -
-    </text>
-    <text x="490" y="375" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="490" y="375" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Gjenvinnbar verdi
-    </text>
-    
-
-    <path d="M 540 290 L 540 300" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <rect x="50" y="420" width="700" height="60" fill="white" stroke="#E5E7EB" stroke-width="2" rx="8"/>
-  <text x="70" y="440" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path stroke="#374151" stroke-width="2" marker-end="url(#b)" d="M540 290v10"/></g><rect width="700" height="60" x="50" y="420" fill="#fff" stroke="#e5e7eb" stroke-width="2" rx="8"/><text x="70" y="440" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Indikatorer på nedskrivning:
-  </text>
-  <text x="70" y="460" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="70" y="460" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
     • Betydelig fall i markedsverdi • Negative endringer i teknologi/marked • Økte renter
-  </text>
-  <text x="70" y="475" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="70" y="475" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
     • Bokført verdi overstiger markedsverdi • Dårligere økonomiske resultater enn forventet
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
-    </marker>
-  </defs>
-  
-
-  <circle cx="70" cy="110" r="15" fill="#4F46E5" opacity="0.1"/>
-  <circle cx="730" cy="110" r="20" fill="#10B981" opacity="0.1"/>
-</svg>
+  </text><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="10" refY="3.5"><path fill="#374151" d="m0 0 10 3.5L0 7z"/></marker></defs><circle cx="70" cy="110" r="15" fill="#4f46e5" opacity=".1"/><circle cx="730" cy="110" r="20" fill="#10b981" opacity=".1"/></svg>

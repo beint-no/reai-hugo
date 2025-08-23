@@ -1,157 +1,67 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1E40AF;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="accountGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
-    </linearGradient>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>
-    </marker>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#F8FAFC"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1E293B">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e40af;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/><stop offset="100%" style="stop-color:#047857;stop-opacity:1"/></linearGradient><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#64748b" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1e293b" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Regnskapsføring av Ansattutlegg - Prosess
-  </text>
-  
-
-  <rect x="50" y="70" width="180" height="120" rx="10" fill="url(#stepGradient)" stroke="#1E40AF" stroke-width="2"/>
-  <text x="140" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="180" height="120" x="50" y="70" fill="url(#a)" stroke="#1e40af" stroke-width="2" rx="10"/><text x="140" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Steg 1: Registrering
-  </text>
-  <text x="60" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="60" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Ansatt legger ut kostnad
-  </text>
-  <text x="60" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="60" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Samler kvitteringer
-  </text>
-  <text x="60" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="60" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Registrerer i system
-  </text>
-  <text x="60" y="160" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="60" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Sender til godkjenning
-  </text>
-  
-
-  <rect x="310" y="70" width="180" height="120" rx="10" fill="url(#stepGradient)" stroke="#1E40AF" stroke-width="2"/>
-  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="180" height="120" x="310" y="70" fill="url(#a)" stroke="#1e40af" stroke-width="2" rx="10"/><text x="400" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Steg 2: Godkjenning
-  </text>
-  <text x="320" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="320" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Leder kontrollerer
-  </text>
-  <text x="320" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="320" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Verifiserer dokumentasjon
-  </text>
-  <text x="320" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="320" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Kontrollerer beløp
-  </text>
-  <text x="320" y="160" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="320" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Godkjenner utlegg
-  </text>
-  
-
-  <rect x="570" y="70" width="180" height="120" rx="10" fill="url(#stepGradient)" stroke="#1E40AF" stroke-width="2"/>
-  <text x="660" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="180" height="120" x="570" y="70" fill="url(#a)" stroke="#1e40af" stroke-width="2" rx="10"/><text x="660" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Steg 3: Bokføring
-  </text>
-  <text x="580" y="115" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="580" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Periodisering
-  </text>
-  <text x="580" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="580" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Kontokoding
-  </text>
-  <text x="580" y="145" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="580" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Registrering i regnskap
-  </text>
-  <text x="580" y="160" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="580" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Gjeldsetablering
-  </text>
-  
-
-  <g stroke="#64748B" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
-    <path d="M 230 130 L 310 130"/>
-    <path d="M 490 130 L 570 130"/>
-  </g>
-  
-
-  <text x="50" y="240" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1E293B">
+  </text><g fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#b)"><path d="M230 130h80"/><path d="M490 130h80"/></g><text x="50" y="240" fill="#1e293b" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Regnskapsføring - Bilagsføring
-  </text>
-  
-
-  <rect x="50" y="260" width="700" height="80" rx="5" fill="#E2E8F0" stroke="#64748B" stroke-width="1"/>
-  <text x="70" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E293B">
+  </text><rect width="700" height="80" x="50" y="260" fill="#e2e8f0" stroke="#64748b" rx="5"/><text x="70" y="280" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Første registrering (periodisering av kostnad):
-  </text>
-  <rect x="80" y="295" width="300" height="35" rx="3" fill="url(#accountGradient)" stroke="#047857" stroke-width="1"/>
-  <text x="90" y="310" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><rect width="300" height="35" x="80" y="295" fill="url(#c)" stroke="#047857" rx="3"/><text x="90" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Debet: 6000-6999 Driftskostnader
-  </text>
-  <text x="90" y="325" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     (F.eks. 7140 Reise og opphold)
-  </text>
-  
-  <rect x="420" y="295" width="300" height="35" rx="3" fill="#DC2626" stroke="#B91C1C" stroke-width="1"/>
-  <text x="430" y="310" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><rect width="300" height="35" x="420" y="295" fill="#dc2626" stroke="#b91c1c" rx="3"/><text x="430" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Kredit: 1940 Utlegg til ansatte
-  </text>
-  <text x="430" y="325" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     (Opprettelse av gjeld)
-  </text>
-  
-
-  <rect x="50" y="360" width="700" height="80" rx="5" fill="#E2E8F0" stroke="#64748B" stroke-width="1"/>
-  <text x="70" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1E293B">
+  </text><rect width="700" height="80" x="50" y="360" fill="#e2e8f0" stroke="#64748b" rx="5"/><text x="70" y="380" fill="#1e293b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Refusjon til ansatt:
-  </text>
-  <rect x="80" y="395" width="300" height="35" rx="3" fill="#DC2626" stroke="#B91C1C" stroke-width="1"/>
-  <text x="90" y="410" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><rect width="300" height="35" x="80" y="395" fill="#dc2626" stroke="#b91c1c" rx="3"/><text x="90" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Debet: 1940 Utlegg til ansatte
-  </text>
-  <text x="90" y="425" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="425" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     (Nedbetaling av gjeld)
-  </text>
-  
-  <rect x="420" y="395" width="300" height="35" rx="3" fill="url(#accountGradient)" stroke="#047857" stroke-width="1"/>
-  <text x="430" y="410" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><rect width="300" height="35" x="420" y="395" fill="url(#c)" stroke="#047857" rx="3"/><text x="430" y="410" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Kredit: 1900 Bankkonto
-  </text>
-  <text x="430" y="425" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="425" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     (Utbetaling)
-  </text>
-  
-
-  <rect x="50" y="460" width="700" height="80" rx="5" fill="#FEF3C7" stroke="#F59E0B" stroke-width="1"/>
-  <text x="70" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400E">
+  </text><rect width="700" height="80" x="50" y="460" fill="#fef3c7" stroke="#f59e0b" rx="5"/><text x="70" y="480" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Alternativ: Avregning mot lønn:
-  </text>
-  <rect x="80" y="495" width="300" height="35" rx="3" fill="#DC2626" stroke="#B91C1C" stroke-width="1"/>
-  <text x="90" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><rect width="300" height="35" x="80" y="495" fill="#dc2626" stroke="#b91c1c" rx="3"/><text x="90" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Debet: 1940 Utlegg til ansatte
-  </text>
-  <text x="90" y="525" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="525" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     (Nedbetaling av gjeld)
-  </text>
-  
-  <rect x="420" y="495" width="300" height="35" rx="3" fill="#F59E0B" stroke="#D97706" stroke-width="1"/>
-  <text x="430" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><rect width="300" height="35" x="420" y="495" fill="#f59e0b" stroke="#d97706" rx="3"/><text x="430" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     Kredit: 5700 Personalomkostninger
-  </text>
-  <text x="430" y="525" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="525" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     (Lønnsavregning)
-  </text>
-  
-
-  <rect x="50" y="560" width="700" height="30" rx="5" fill="#FEE2E2" stroke="#DC2626" stroke-width="1"/>
-  <text x="60" y="580" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#DC2626">
+  </text><rect width="700" height="30" x="50" y="560" fill="#fee2e2" stroke="#dc2626" rx="5"/><text x="60" y="580" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Viktig: Kostnadene må periodiseres til korrekt regnskapsperiode uavhengig av når refusjon skjer!
-  </text>
-</svg>
+  </text></svg>

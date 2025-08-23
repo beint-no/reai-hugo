@@ -1,112 +1,37 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f1f5f9"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient></defs><path fill="#f1f5f9" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#1e40af" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Karakteristika ved Varige Driftsmidler
-  </text>
-  
-
-  <circle cx="400" cy="250" r="80" fill="#3b82f6" stroke="#1e40af" stroke-width="3"/>
-  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="250" r="80" fill="#3b82f6" stroke="#1e40af" stroke-width="3"/><text x="400" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     VARIGE
-  </text>
-  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="400" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     DRIFTSMIDLER
-  </text>
-  
-
-  <g transform="translate(100, 100)">
-    <rect x="0" y="0" width="180" height="80" fill="url(#cardGradient)" rx="8" stroke="#3b82f6" stroke-width="2"/>
-    <circle cx="25" cy="25" r="12" fill="#10b981"/>
-    <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">1</text>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+  </text><g transform="translate(100 100)"><rect width="180" height="80" fill="url(#a)" stroke="#3b82f6" stroke-width="2" rx="8"/><circle cx="25" cy="25" r="12" fill="#10b981"/><text x="25" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">1</text><text x="90" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Langsiktig karakter
-    </text>
-    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    </text><text x="90" y="45" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Holdes i flere år
-    </text>
-    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    </text><text x="90" y="60" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       (&gt; 1 regnskapsperiode)
-    </text>
-  </g>
-  
-
-  <g transform="translate(520, 100)">
-    <rect x="0" y="0" width="180" height="80" fill="url(#cardGradient)" rx="8" stroke="#3b82f6" stroke-width="2"/>
-    <circle cx="25" cy="25" r="12" fill="#f59e0b"/>
-    <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">2</text>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+    </text></g><g transform="translate(520 100)"><rect width="180" height="80" fill="url(#a)" stroke="#3b82f6" stroke-width="2" rx="8"/><circle cx="25" cy="25" r="12" fill="#f59e0b"/><text x="25" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">2</text><text x="90" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Produktiv bruk
-    </text>
-    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    </text><text x="90" y="45" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Bidrar til
-    </text>
-    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    </text><text x="90" y="60" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       inntektsgenerering
-    </text>
-  </g>
-  
-
-  <g transform="translate(100, 320)">
-    <rect x="0" y="0" width="180" height="80" fill="url(#cardGradient)" rx="8" stroke="#3b82f6" stroke-width="2"/>
-    <circle cx="25" cy="25" r="12" fill="#ef4444"/>
-    <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">3</text>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+    </text></g><g transform="translate(100 320)"><rect width="180" height="80" fill="url(#a)" stroke="#3b82f6" stroke-width="2" rx="8"/><circle cx="25" cy="25" r="12" fill="#ef4444"/><text x="25" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">3</text><text x="90" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Begrenset likviditet
-    </text>
-    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    </text><text x="90" y="45" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Ikke lett konverterbare
-    </text>
-    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    </text><text x="90" y="60" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       til kontanter
-    </text>
-  </g>
-  
-
-  <g transform="translate(520, 320)">
-    <rect x="0" y="0" width="180" height="80" fill="url(#cardGradient)" rx="8" stroke="#3b82f6" stroke-width="2"/>
-    <circle cx="25" cy="25" r="12" fill="#8b5cf6"/>
-    <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">4</text>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+    </text></g><g transform="translate(520 320)"><rect width="180" height="80" fill="url(#a)" stroke="#3b82f6" stroke-width="2" rx="8"/><circle cx="25" cy="25" r="12" fill="#8b5cf6"/><text x="25" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">4</text><text x="90" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Avskrivbare
-    </text>
-    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    </text><text x="90" y="45" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Verdi reduseres
-    </text>
-    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    </text><text x="90" y="60" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       systematisk over tid
-    </text>
-  </g>
-  
-
-  <g transform="translate(310, 420)">
-    <rect x="0" y="0" width="180" height="80" fill="url(#cardGradient)" rx="8" stroke="#3b82f6" stroke-width="2"/>
-    <circle cx="25" cy="25" r="12" fill="#06b6d4"/>
-    <text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">5</text>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">
+    </text></g><g transform="translate(310 420)"><rect width="180" height="80" fill="url(#a)" stroke="#3b82f6" stroke-width="2" rx="8"/><circle cx="25" cy="25" r="12" fill="#06b6d4"/><text x="25" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">5</text><text x="90" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Betydelig verdi
-    </text>
-    <text x="90" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    </text><text x="90" y="45" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Ofte store
-    </text>
-    <text x="90" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748b">
+    </text><text x="90" y="60" fill="#64748b" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       investeringer
-    </text>
-  </g>
-  
-
-  <line x1="320" y1="250" x2="280" y2="140" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="480" y1="250" x2="520" y2="140" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="320" y1="250" x2="280" y2="360" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="480" y1="250" x2="520" y2="360" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="400" y1="330" x2="400" y2="420" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5,5"/>
-</svg>
+    </text></g><path stroke="#94a3b8" stroke-dasharray="5,5" stroke-width="2" d="m320 250-40-110M480 250l40-110M320 250l-40 110M480 250l40 110M400 330v90"/></svg>

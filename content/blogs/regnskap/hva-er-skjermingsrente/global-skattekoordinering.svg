@@ -1,138 +1,49 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="pillarGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="coordinationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1e40af;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#10b981;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1"/><stop offset="100%" style="stop-color:#a855f7;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Global Skattekoordinering
-  </text>
-  <text x="400" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+  </text><text x="400" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Internasjonale initiativ for harmonisering av skattesystemer
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="url(#coordinationGradient)" opacity="0.9"/>
-  <text x="400" y="285" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><circle cx="400" cy="300" r="80" fill="url(#c)" opacity=".9"/><text x="400" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Global Tax
-  </text>
-  <text x="400" y="305" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="400" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Coordination
-  </text>
-  <text x="400" y="325" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="400" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Framework
-  </text>
-  
-
-  <rect x="50" y="150" width="160" height="100" rx="10" fill="url(#pillarGradient)" opacity="0.8"/>
-  <text x="130" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="160" height="100" x="50" y="150" fill="url(#d)" opacity=".8" rx="10"/><text x="130" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     OECD Pillar 1
-  </text>
-  <text x="130" y="200" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="130" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Unified Approach
-  </text>
-  <text x="130" y="220" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="130" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Digital Services Tax
-  </text>
-  
-
-  <rect x="590" y="150" width="160" height="100" rx="10" fill="url(#pillarGradient)" opacity="0.8"/>
-  <text x="670" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="160" height="100" x="590" y="150" fill="url(#d)" opacity=".8" rx="10"/><text x="670" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     OECD Pillar 2
-  </text>
-  <text x="670" y="200" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="670" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Global Minimum Tax
-  </text>
-  <text x="670" y="220" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="670" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     15% Base Rate
-  </text>
-  
-
-  <rect x="50" y="450" width="160" height="100" rx="10" fill="#1e40af" opacity="0.8"/>
-  <text x="130" y="480" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="160" height="100" x="50" y="450" fill="#1e40af" opacity=".8" rx="10"/><text x="130" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     EU Harmonisering
-  </text>
-  <text x="130" y="500" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="130" y="500" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     DEBRA Initiative
-  </text>
-  <text x="130" y="520" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="130" y="520" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Coordinated Rates
-  </text>
-  
-
-  <rect x="590" y="450" width="160" height="100" rx="10" fill="#dc2626" opacity="0.8"/>
-  <text x="670" y="480" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="160" height="100" x="590" y="450" fill="#dc2626" opacity=".8" rx="10"/><text x="670" y="480" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Bilaterale Avtaler
-  </text>
-  <text x="670" y="500" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="670" y="500" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Tax Treaties
-  </text>
-  <text x="670" y="520" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="670" y="520" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Double Tax Relief
-  </text>
-  
-
-  <rect x="280" y="110" width="240" height="80" rx="8" fill="white" stroke="#e2e8f0" stroke-width="2"/>
-  <text x="400" y="135" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="240" height="80" x="280" y="110" fill="#fff" stroke="#e2e8f0" stroke-width="2" rx="8"/><text x="400" y="135" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Sentrale Komponenter
-  </text>
-  <text x="400" y="155" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="400" y="155" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Harmoniserte risikofrie renter
-  </text>
-  <text x="400" y="175" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="400" y="175" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Standardiserte beregningsmetoder
-  </text>
-  
-
-  <rect x="280" y="410" width="240" height="80" rx="8" fill="white" stroke="#e2e8f0" stroke-width="2"/>
-  <text x="400" y="435" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="240" height="80" x="280" y="410" fill="#fff" stroke="#e2e8f0" stroke-width="2" rx="8"/><text x="400" y="435" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Implementeringstidslinje
-  </text>
-  <text x="400" y="455" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="400" y="455" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     EU-harmonisering: 2025-2028 (70%)
-  </text>
-  <text x="400" y="475" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="400" y="475" fill="#64748b" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Global standardisering: 2028-2032 (40%)
-  </text>
-  
-
-  <line x1="210" y1="200" x2="320" y2="250" stroke="#64748b" stroke-width="2" opacity="0.6"/>
-  <line x1="590" y1="200" x2="480" y2="250" stroke="#64748b" stroke-width="2" opacity="0.6"/>
-  <line x1="210" y1="500" x2="320" y2="350" stroke="#64748b" stroke-width="2" opacity="0.6"/>
-  <line x1="590" y1="500" x2="480" y2="350" stroke="#64748b" stroke-width="2" opacity="0.6"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
-    </marker>
-  </defs>
-  
-
-  <path d="M 130 270 Q 200 300 280 300" stroke="#7c3aed" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 670 270 Q 600 300 520 300" stroke="#7c3aed" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <text x="400" y="580" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="12" font-style="italic">
+  </text><path stroke="#64748b" stroke-width="2" d="m210 200 110 50M590 200l-110 50M210 500l110-150M590 500 480 350" opacity=".6"/><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#64748b" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="none" stroke="#7c3aed" stroke-width="3" marker-end="url(#e)" d="M130 270q70 30 150 30"/><path fill="none" stroke="#7c3aed" stroke-width="3" marker-end="url(#e)" d="M670 270q-70 30-150 30"/><text x="400" y="580" fill="#64748b" font-family="Arial, sans-serif" font-size="12" font-style="italic" text-anchor="middle">
     Multilateral koordinering av skjermingsrente-systemer og automatisk informasjonsutveksling
-  </text>
-</svg>
+  </text></svg>

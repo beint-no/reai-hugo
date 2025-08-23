@@ -1,180 +1,73 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="centerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="interneGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="eksterneGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e55a00;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1"/><stop offset="100%" style="stop-color:#e55a00;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Kilder til Finanskapital
-  </text>
-  
-
-  <circle cx="400" cy="300" r="60" fill="url(#centerGradient)" stroke="#003366" stroke-width="3"/>
-  <text x="400" y="295" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="400" cy="300" r="60" fill="url(#b)" stroke="#036" stroke-width="3"/><text x="400" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     FINANSKAPITAL
-  </text>
-  <text x="400" y="310" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="400" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     KILDER
-  </text>
-  
-
-  <rect x="50" y="100" width="300" height="350" fill="white" stroke="#28a745" stroke-width="3" rx="15"/>
-  <rect x="50" y="100" width="300" height="50" fill="url(#interneGradient)" rx="15"/>
-  <rect x="50" y="135" width="300" height="15" fill="url(#interneGradient)"/>
-  
-  <text x="200" y="130" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="350" x="50" y="100" fill="#fff" stroke="#28a745" stroke-width="3" rx="15"/><rect width="300" height="50" x="50" y="100" fill="url(#c)" rx="15"/><path fill="url(#c)" d="M50 135h300v15H50z"/><text x="200" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     INTERNE KILDER
-  </text>
-  
-
-  <circle cx="120" cy="200" r="20" fill="#28a745"/>
-  <text x="120" y="206" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="120" cy="200" r="20" fill="#28a745"/><text x="120" y="206" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     💰
-  </text>
-  <text x="160" y="190" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="160" y="190" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Overskudd fra drift
-  </text>
-  <text x="160" y="205" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="160" y="205" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Reinvestering av driftsresultat
-  </text>
-  <text x="160" y="218" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="160" y="218" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Akkumulert egenkapital
-  </text>
-  
-
-  <circle cx="120" cy="270" r="20" fill="#28a745"/>
-  <text x="120" y="276" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="120" cy="270" r="20" fill="#28a745"/><text x="120" y="276" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     📉
-  </text>
-  <text x="160" y="260" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="160" y="260" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Avskrivninger
-  </text>
-  <text x="160" y="275" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="160" y="275" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Frigjort kapital fra avskrivninger
-  </text>
-  <text x="160" y="288" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="160" y="288" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Ikke-kontant kostnad
-  </text>
-  
-
-  <circle cx="120" cy="340" r="20" fill="#28a745"/>
-  <text x="120" y="346" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="120" cy="340" r="20" fill="#28a745"/><text x="120" y="346" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     🏢
-  </text>
-  <text x="160" y="330" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+  </text><text x="160" y="330" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Salg av eiendeler
-  </text>
-  <text x="160" y="345" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="160" y="345" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Realisering av investeringer
-  </text>
-  <text x="160" y="358" font-family="Arial, sans-serif" font-size="11" fill="#666">
+  </text><text x="160" y="358" fill="#666" font-family="Arial, sans-serif" font-size="11">
     Omstrukturering av portefølje
-  </text>
-  
-  <rect x="70" y="380" width="260" height="25" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="5"/>
-  <text x="200" y="397" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="260" height="25" x="70" y="380" fill="#e8f5e8" stroke="#28a745" rx="5"/><text x="200" y="397" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Selvfinansiering - Ingen eksterne kostnader
-  </text>
-  
-
-  <rect x="450" y="100" width="300" height="350" fill="white" stroke="#fd7e14" stroke-width="3" rx="15"/>
-  <rect x="450" y="100" width="300" height="50" fill="url(#eksterneGradient)" rx="15"/>
-  <rect x="450" y="135" width="300" height="15" fill="url(#eksterneGradient)"/>
-  
-  <text x="600" y="130" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="350" x="450" y="100" fill="#fff" stroke="#fd7e14" stroke-width="3" rx="15"/><rect width="300" height="50" x="450" y="100" fill="url(#d)" rx="15"/><path fill="url(#d)" d="M450 135h300v15H450z"/><text x="600" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     EKSTERNE KILDER
-  </text>
-  
-
-  <text x="470" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fd7e14">
+  </text><text x="470" y="175" fill="#fd7e14" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Egenkapitalfinansiering:
-  </text>
-  
-  <circle cx="520" cy="200" r="15" fill="#007bff"/>
-  <text x="520" y="205" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="520" cy="200" r="15" fill="#007bff"/><text x="520" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     📈
-  </text>
-  <text x="550" y="195" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="550" y="195" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Kapitalforhøyelse
-  </text>
-  <text x="550" y="208" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="550" y="208" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Crowdfunding
-  </text>
-  
-  <circle cx="520" cy="235" r="15" fill="#6f42c1"/>
-  <text x="520" y="240" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="520" cy="235" r="15" fill="#6f42c1"/><text x="520" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     💼
-  </text>
-  <text x="550" y="230" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="550" y="230" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Venturekapital
-  </text>
-  <text x="550" y="243" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="550" y="243" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Private investorer
-  </text>
-  
-
-  <text x="470" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fd7e14">
+  </text><text x="470" y="275" fill="#fd7e14" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Fremmedkapitalfinansiering:
-  </text>
-  
-  <circle cx="520" cy="300" r="15" fill="#dc3545"/>
-  <text x="520" y="305" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="520" cy="300" r="15" fill="#dc3545"/><text x="520" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     🏦
-  </text>
-  <text x="550" y="295" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="550" y="295" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Banklån
-  </text>
-  <text x="550" y="308" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="550" y="308" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Obligasjoner
-  </text>
-  
-  <circle cx="520" cy="335" r="15" fill="#17a2b8"/>
-  <text x="520" y="340" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="520" cy="335" r="15" fill="#17a2b8"/><text x="520" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     📋
-  </text>
-  <text x="550" y="330" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="550" y="330" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Factoring
-  </text>
-  <text x="550" y="343" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><text x="550" y="343" fill="#666" font-family="Arial, sans-serif" font-size="12">
     • Leasing
-  </text>
-  
-  <rect x="470" y="365" width="260" height="25" fill="#fff3e0" stroke="#fd7e14" stroke-width="1" rx="5"/>
-  <text x="600" y="382" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#fd7e14">
+  </text><rect width="260" height="25" x="470" y="365" fill="#fff3e0" stroke="#fd7e14" rx="5"/><text x="600" y="382" fill="#fd7e14" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Ekstern finansiering - Kostnader og forpliktelser
-  </text>
-  
-
-  <line x1="350" y1="250" x2="360" y2="280" stroke="#28a745" stroke-width="3"/>
-  <line x1="450" y1="250" x2="440" y2="280" stroke="#fd7e14" stroke-width="3"/>
-  
-
-  <rect x="100" y="480" width="600" height="80" fill="white" stroke="#6c757d" stroke-width="2" rx="10"/>
-  <text x="400" y="505" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><path stroke="#28a745" stroke-width="3" d="m350 250 10 30"/><path stroke="#fd7e14" stroke-width="3" d="m450 250-10 30"/><rect width="600" height="80" x="100" y="480" fill="#fff" stroke="#6c757d" stroke-width="2" rx="10"/><text x="400" y="505" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Optimal Kapitalstruktur
-  </text>
-  <text x="400" y="525" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="400" y="525" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Bedrifter bør balansere interne og eksterne kilder for å optimalisere
-  </text>
-  <text x="400" y="540" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+  </text><text x="400" y="540" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     kapitalkostnader, risiko og finansiell fleksibilitet
-  </text>
-</svg>
+  </text></svg>

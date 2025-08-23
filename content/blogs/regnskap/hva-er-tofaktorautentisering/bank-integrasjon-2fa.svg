@@ -1,187 +1,83 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Bank Integrasjon med 2FA
-  </text>
-  
-
-  <rect x="50" y="80" width="180" height="120" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/>
-  <text x="140" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="180" height="120" x="50" y="80" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="10"/><text x="140" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Bank System
-  </text>
-  <text x="140" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="140" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Transaksjoner
-  </text>
-  <text x="140" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="140" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Kontantstrøm
-  </text>
-  <text x="140" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="140" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Bankavstemming
-  </text>
-  <text x="140" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="140" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Likviditet
-  </text>
-  
-
-  <rect x="300" y="80" width="200" height="120" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/>
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="200" height="120" x="300" y="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="10"/><text x="400" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     2FA Autentisering
-  </text>
-  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Strong Customer Authentication
-  </text>
-  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (SCA) - PSD2 Compliance
-  </text>
-  <text x="400" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • BankID • Vipps • Hardware tokens
-  </text>
-  
-
-  <rect x="570" y="80" width="180" height="120" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/>
-  <text x="660" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="180" height="120" x="570" y="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="10"/><text x="660" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Regnskapssystem
-  </text>
-  <text x="660" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="660" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Automatisk avstemming
-  </text>
-  <text x="660" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="660" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Digital signering
-  </text>
-  <text x="660" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="660" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Faktura håndtering
-  </text>
-  <text x="660" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="660" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Kontrakts-signering
-  </text>
-  
-
-  <path d="M 230 140 L 300 140" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 500 140 L 570 140" stroke="#2c3e50" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(50, 250)">
-
-    <rect x="0" y="0" width="120" height="80" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="8"/>
-    <text x="60" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><path fill="none" stroke="#2c3e50" stroke-width="3" marker-end="url(#a)" d="M230 140h70"/><path fill="none" stroke="#2c3e50" stroke-width="3" marker-end="url(#a)" d="M500 140h70"/><g transform="translate(50 250)"><rect width="120" height="80" fill="#1abc9c" stroke="#16a085" stroke-width="2" rx="8"/><text x="60" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       BankID
-    </text>
-    <text x="60" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="60" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Norsk standard
-    </text>
-    <text x="60" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="60" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Høy tillit
-    </text>
-    
-
-    <rect x="140" y="0" width="120" height="80" fill="#ff6b35" stroke="#e55a2b" stroke-width="2" rx="8"/>
-    <text x="200" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="120" height="80" x="140" fill="#ff6b35" stroke="#e55a2b" stroke-width="2" rx="8"/><text x="200" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Vipps
-    </text>
-    <text x="200" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="200" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Mobil løsning
-    </text>
-    <text x="200" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="200" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Rask betaling
-    </text>
-    
-
-    <rect x="280" y="0" width="120" height="80" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/>
-    <text x="340" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="120" height="80" x="280" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/><text x="340" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Hardware Token
-    </text>
-    <text x="340" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="340" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Fysisk sikkerhet
-    </text>
-    <text x="340" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="340" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Offline kapasitet
-    </text>
-    
-
-    <rect x="420" y="0" width="120" height="80" fill="#f39c12" stroke="#d68910" stroke-width="2" rx="8"/>
-    <text x="480" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="120" height="80" x="420" fill="#f39c12" stroke="#d68910" stroke-width="2" rx="8"/><text x="480" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       SMS Backup
-    </text>
-    <text x="480" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="480" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Nødløsning
-    </text>
-    <text x="480" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="480" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Fallback
-    </text>
-  </g>
-  
-
-  <rect x="50" y="370" width="700" height="100" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
-  <text x="400" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    </text></g><rect width="700" height="100" x="50" y="370" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="400" y="395" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Regulatorisk Compliance
-  </text>
-  
-
-  <g transform="translate(80, 405)">
-    <rect x="0" y="0" width="130" height="50" fill="#3498db" stroke="#2980b9" stroke-width="1" rx="5"/>
-    <text x="65" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><g transform="translate(80 405)"><rect width="130" height="50" fill="#3498db" stroke="#2980b9" rx="5"/><text x="65" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       PSD2 Directive
-    </text>
-    <text x="65" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="65" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Strong Customer Auth
-    </text>
-    
-    <rect x="150" y="0" width="130" height="50" fill="#e74c3c" stroke="#c0392b" stroke-width="1" rx="5"/>
-    <text x="215" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="130" height="50" x="150" fill="#e74c3c" stroke="#c0392b" rx="5"/><text x="215" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Open Banking
-    </text>
-    <text x="215" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="215" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       API Sikkerhet
-    </text>
-    
-    <rect x="300" y="0" width="130" height="50" fill="#27ae60" stroke="#229954" stroke-width="1" rx="5"/>
-    <text x="365" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="130" height="50" x="300" fill="#27ae60" stroke="#229954" rx="5"/><text x="365" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Norsk Banklov
-    </text>
-    <text x="365" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="365" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Lokal Compliance
-    </text>
-    
-    <rect x="450" y="0" width="130" height="50" fill="#9b59b6" stroke="#8e44ad" stroke-width="1" rx="5"/>
-    <text x="515" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><rect width="130" height="50" x="450" fill="#9b59b6" stroke="#8e44ad" rx="5"/><text x="515" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       GDPR
-    </text>
-    <text x="515" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="515" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Personvern
-    </text>
-  </g>
-  
-
-  <rect x="50" y="500" width="700" height="80" fill="#2c3e50" stroke="#1b2631" stroke-width="2" rx="10"/>
-  <text x="400" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><rect width="700" height="80" x="50" y="500" fill="#2c3e50" stroke="#1b2631" stroke-width="2" rx="10"/><text x="400" y="525" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Sikkerhetsforbedringer
-  </text>
-  <text x="200" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="200" y="545" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Redusert risiko for økonomisk kriminalitet
-  </text>
-  <text x="200" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="200" y="560" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Styrket kundetillit og omdømme
-  </text>
-  <text x="600" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="545" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Automatisert compliance-rapportering
-  </text>
-  <text x="600" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="560" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Robust audit trail for revisjon
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
-    </marker>
-  </defs>
-  
-
-  <path d="M 110 330 L 340 200" stroke="#95a5a6" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M 200 330 L 360 200" stroke="#95a5a6" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M 340 330 L 400 200" stroke="#95a5a6" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M 480 330 L 460 200" stroke="#95a5a6" stroke-width="2" fill="none" opacity="0.6"/>
-</svg>
+  </text><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2c3e50" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="none" stroke="#95a5a6" stroke-width="2" d="m110 330 230-130M200 330l160-130M340 330l60-130M480 330l-20-130" opacity=".6"/></svg>

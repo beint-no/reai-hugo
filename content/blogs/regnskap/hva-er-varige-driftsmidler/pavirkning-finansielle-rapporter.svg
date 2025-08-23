@@ -1,252 +1,93 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="balanceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="incomeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="cashflowGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fff3e0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffcc80;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow">
-      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="rgba(0,0,0,0.2)"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1"/><stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff3e0;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffcc80;stop-opacity:1"/></linearGradient><filter id="a"><feDropShadow dx="2" dy="2" flood-color="rgba(0,0,0,0.2)" stdDeviation="2"/></filter></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Påvirkning på Finansielle Rapporter
-  </text>
-  
-
-  <g transform="translate(350, 80)">
-    <circle cx="50" cy="50" r="45" fill="#4caf50" stroke="#2e7d32" stroke-width="2" filter="url(#shadow)"/>
-    <text x="50" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><g transform="translate(350 80)"><circle cx="50" cy="50" r="45" fill="#4caf50" stroke="#2e7d32" stroke-width="2" filter="url(#a)"/><text x="50" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       VARIGE
-    </text>
-    <text x="50" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="50" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       DRIFTS-
-    </text>
-    <text x="50" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="50" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       MIDLER
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 160)">
-    <rect x="0" y="0" width="200" height="160" fill="url(#balanceGradient)" stroke="#4caf50" stroke-width="2" rx="8" filter="url(#shadow)"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32">
+    </text></g><g transform="translate(50 160)"><rect width="200" height="160" fill="url(#b)" stroke="#4caf50" stroke-width="2" filter="url(#a)" rx="8"/><text x="100" y="25" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       BALANSEN
-    </text>
-    
-
-    <rect x="15" y="40" width="170" height="25" fill="#ffffff" stroke="#4caf50" stroke-width="1" rx="4"/>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    </text><rect width="170" height="25" x="15" y="40" fill="#fff" stroke="#4caf50" rx="4"/><text x="20" y="55" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
       Anleggsmidler
-    </text>
-    <text x="175" y="55" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32">
+    </text><text x="175" y="55" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end">
       (+)
-    </text>
-    
-    <rect x="15" y="70" width="170" height="25" fill="#ffffff" stroke="#4caf50" stroke-width="1" rx="4"/>
-    <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    </text><rect width="170" height="25" x="15" y="70" fill="#fff" stroke="#4caf50" rx="4"/><text x="20" y="85" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
       Akkumulerte avskrivninger
-    </text>
-    <text x="175" y="85" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32">
+    </text><text x="175" y="85" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end">
       (-)
-    </text>
-    
-    <rect x="15" y="100" width="170" height="25" fill="#ffffff" stroke="#4caf50" stroke-width="1" rx="4"/>
-    <text x="20" y="115" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+    </text><rect width="170" height="25" x="15" y="100" fill="#fff" stroke="#4caf50" rx="4"/><text x="20" y="115" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
       Totalkapital
-    </text>
-    <text x="175" y="115" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32">
+    </text><text x="175" y="115" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end">
       (↑)
-    </text>
-    
-    <text x="100" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="100" y="145" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Bokført verdi påvirker bedriftens størrelse
-    </text>
-  </g>
-  
-
-  <g transform="translate(300, 160)">
-    <rect x="0" y="0" width="200" height="160" fill="url(#incomeGradient)" stroke="#2196f3" stroke-width="2" rx="8" filter="url(#shadow)"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
+    </text></g><g transform="translate(300 160)"><rect width="200" height="160" fill="url(#c)" stroke="#2196f3" stroke-width="2" filter="url(#a)" rx="8"/><text x="100" y="25" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       RESULTATREGNSKAPET
-    </text>
-    
-
-    <rect x="15" y="40" width="170" height="25" fill="#ffffff" stroke="#2196f3" stroke-width="1" rx="4"/>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="11" fill="#1976d2">
+    </text><rect width="170" height="25" x="15" y="40" fill="#fff" stroke="#2196f3" rx="4"/><text x="20" y="55" fill="#1976d2" font-family="Arial, sans-serif" font-size="11">
       Avskrivninger
-    </text>
-    <text x="175" y="55" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1976d2">
+    </text><text x="175" y="55" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end">
       (-)
-    </text>
-    
-    <rect x="15" y="70" width="170" height="25" fill="#ffffff" stroke="#2196f3" stroke-width="1" rx="4"/>
-    <text x="20" y="85" font-family="Arial, sans-serif" font-size="11" fill="#1976d2">
+    </text><rect width="170" height="25" x="15" y="70" fill="#fff" stroke="#2196f3" rx="4"/><text x="20" y="85" fill="#1976d2" font-family="Arial, sans-serif" font-size="11">
       Vedlikeholdskostnader
-    </text>
-    <text x="175" y="85" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1976d2">
+    </text><text x="175" y="85" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end">
       (-)
-    </text>
-    
-    <rect x="15" y="100" width="170" height="25" fill="#ffffff" stroke="#2196f3" stroke-width="1" rx="4"/>
-    <text x="20" y="115" font-family="Arial, sans-serif" font-size="11" fill="#1976d2">
+    </text><rect width="170" height="25" x="15" y="100" fill="#fff" stroke="#2196f3" rx="4"/><text x="20" y="115" fill="#1976d2" font-family="Arial, sans-serif" font-size="11">
       Gevinst/tap ved salg
-    </text>
-    <text x="175" y="115" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1976d2">
+    </text><text x="175" y="115" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end">
       (±)
-    </text>
-    
-    <text x="100" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="100" y="145" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Årlige kostnader reduserer resultat
-    </text>
-  </g>
-  
-
-  <g transform="translate(550, 160)">
-    <rect x="0" y="0" width="200" height="160" fill="url(#cashflowGradient)" stroke="#ff9800" stroke-width="2" rx="8" filter="url(#shadow)"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f57c00">
+    </text></g><g transform="translate(550 160)"><rect width="200" height="160" fill="url(#d)" stroke="#ff9800" stroke-width="2" filter="url(#a)" rx="8"/><text x="100" y="25" fill="#f57c00" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       KONTANTSTRØM-
-    </text>
-    <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#f57c00">
+    </text><text x="100" y="40" fill="#f57c00" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       OPPSTILLINGEN
-    </text>
-    
-
-    <rect x="15" y="50" width="170" height="25" fill="#ffffff" stroke="#ff9800" stroke-width="1" rx="4"/>
-    <text x="20" y="65" font-family="Arial, sans-serif" font-size="11" fill="#f57c00">
+    </text><rect width="170" height="25" x="15" y="50" fill="#fff" stroke="#ff9800" rx="4"/><text x="20" y="65" fill="#f57c00" font-family="Arial, sans-serif" font-size="11">
       Investeringsaktiviteter
-    </text>
-    <text x="175" y="65" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f57c00">
+    </text><text x="175" y="65" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end">
       (±)
-    </text>
-    
-    <rect x="15" y="80" width="170" height="25" fill="#ffffff" stroke="#ff9800" stroke-width="1" rx="4"/>
-    <text x="20" y="95" font-family="Arial, sans-serif" font-size="11" fill="#f57c00">
+    </text><rect width="170" height="25" x="15" y="80" fill="#fff" stroke="#ff9800" rx="4"/><text x="20" y="95" fill="#f57c00" font-family="Arial, sans-serif" font-size="11">
       Kjøp av driftsmidler
-    </text>
-    <text x="175" y="95" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f57c00">
+    </text><text x="175" y="95" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end">
       (-)
-    </text>
-    
-    <rect x="15" y="110" width="170" height="25" fill="#ffffff" stroke="#ff9800" stroke-width="1" rx="4"/>
-    <text x="20" y="125" font-family="Arial, sans-serif" font-size="11" fill="#f57c00">
+    </text><rect width="170" height="25" x="15" y="110" fill="#fff" stroke="#ff9800" rx="4"/><text x="20" y="125" fill="#f57c00" font-family="Arial, sans-serif" font-size="11">
       Avskrivninger adderes
-    </text>
-    <text x="175" y="125" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f57c00">
+    </text><text x="175" y="125" fill="#f57c00" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end">
       (+)
-    </text>
-    
-    <text x="100" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    </text><text x="100" y="150" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Avskrivninger påvirker ikke kontantstrøm
-    </text>
-  </g>
-  
-
-  <g stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)">
-    <defs>
-      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-        <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-      </marker>
-    </defs>
-    
-
-    <path d="M 370 150 Q 320 180 250 200" stroke-dasharray="5,5"/>
-    
-
-    <path d="M 420 150 L 420 200" stroke-dasharray="5,5"/>
-    
-
-    <path d="M 470 150 Q 520 180 550 200" stroke-dasharray="5,5"/>
-  </g>
-  
-
-  <g transform="translate(50, 360)">
-    <rect x="0" y="0" width="700" height="120" fill="#f5f5f5" stroke="#ddd" stroke-width="1" rx="8"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+    </text></g><g fill="none" stroke="#666" stroke-width="2" marker-end="url(#e)"><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke-dasharray="5,5" d="M370 150q-50 30-120 50"/><path stroke-dasharray="5,5" d="M420 150v50"/><path stroke-dasharray="5,5" d="M470 150q50 30 80 50"/></g><g transform="translate(50 360)"><rect width="700" height="120" fill="#f5f5f5" stroke="#ddd" rx="8"/><text x="350" y="25" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Nøkkeltall og Analyse
-    </text>
-    
-
-    <g transform="translate(50, 40)">
-      <rect x="0" y="0" width="140" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="4"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+    </text><g transform="translate(50 40)"><rect width="140" height="60" fill="#e8f5e8" stroke="#4caf50" rx="4"/><text x="70" y="18" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Kapitalintensitet
-      </text>
-      <text x="70" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text x="70" y="35" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Driftsmidler ÷ Omsetning
-      </text>
-      <text x="70" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+      </text><text x="70" y="50" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Kapital per omsetningskrone
-      </text>
-    </g>
-    
-    <g transform="translate(210, 40)">
-      <rect x="0" y="0" width="140" height="60" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="4"/>
-      <text x="70" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+      </text></g><g transform="translate(210 40)"><rect width="140" height="60" fill="#e3f2fd" stroke="#2196f3" rx="4"/><text x="70" y="15" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Anleggsmiddel-
-      </text>
-      <text x="70" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">
+      </text><text x="70" y="28" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         omsetning
-      </text>
-      <text x="70" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text x="70" y="42" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Omsetning ÷ Driftsmidler
-      </text>
-      <text x="70" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+      </text><text x="70" y="55" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Effektivitet i bruk
-      </text>
-    </g>
-    
-    <g transform="translate(370, 40)">
-      <rect x="0" y="0" width="140" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="4"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">
+      </text></g><g transform="translate(370 40)"><rect width="140" height="60" fill="#fff3e0" stroke="#ff9800" rx="4"/><text x="70" y="18" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Investeringsrate
-      </text>
-      <text x="70" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text x="70" y="35" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Investeringer ÷ Avskrivninger
-      </text>
-      <text x="70" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+      </text><text x="70" y="50" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Vekst eller krymping
-      </text>
-    </g>
-    
-    <g transform="translate(530, 40)">
-      <rect x="0" y="0" width="140" height="60" fill="#fce4ec" stroke="#e91e63" stroke-width="1" rx="4"/>
-      <text x="70" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c2185b">
+      </text></g><g transform="translate(530 40)"><rect width="140" height="60" fill="#fce4ec" stroke="#e91e63" rx="4"/><text x="70" y="15" fill="#c2185b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Gjennomsnittlig
-      </text>
-      <text x="70" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#c2185b">
+      </text><text x="70" y="28" fill="#c2185b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         alder
-      </text>
-      <text x="70" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">
+      </text><text x="70" y="42" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
         Akkum. avskr. ÷ Årlige avskr.
-      </text>
-      <text x="70" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">
+      </text><text x="70" y="55" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
         Alder på driftsmidler
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 510)">
-    <rect x="0" y="0" width="700" height="70" fill="#f0f8ff" stroke="#2196f3" stroke-width="1" rx="8"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
+      </text></g></g><g transform="translate(50 510)"><rect width="700" height="70" fill="#f0f8ff" stroke="#2196f3" rx="8"/><text x="350" y="25" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Verdsettelsesformel
-    </text>
-    
-    <text x="350" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    </text><text x="350" y="50" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Bokført verdi = Anskaffelseskost - Akkumulerte avskrivninger - Nedskrivninger
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

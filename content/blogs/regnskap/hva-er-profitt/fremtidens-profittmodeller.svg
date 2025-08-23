@@ -1,271 +1,109 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
-  <defs>
-    <linearGradient id="traditional" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#E8EAF6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#5C6BC0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="digital" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#E3F2FD;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2196F3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="sustainability" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#E8F5E8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4CAF50;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="ai" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FFF3E0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FF9800;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8eaf6;stop-opacity:1"/><stop offset="100%" style="stop-color:#5c6bc0;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1"/><stop offset="100%" style="stop-color:#2196f3;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#4caf50;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff3e0;stop-opacity:1"/><stop offset="100%" style="stop-color:#ff9800;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Fremtidens Profittmodeller og Trends
-  </text>
-  
-
-  <path d="M50 100 L750 100" stroke="#2c3e50" stroke-width="3" marker-end="url(#arrowhead)"/>
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#2c3e50"/>
-    </marker>
-  </defs>
-  
-
-  <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><path stroke="#2c3e50" stroke-width="3" marker-end="url(#a)" d="M50 100h700"/><defs><marker id="a" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="8" refY="3"><path fill="#2c3e50" d="M0 0v6l9-3z"/></marker></defs><text x="100" y="90" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Tradisjonelle
-  </text>
-  <text x="300" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><text x="300" y="90" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Digitale
-  </text>
-  <text x="500" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><text x="500" y="90" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Bærekraftige
-  </text>
-  <text x="700" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><text x="700" y="90" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     AI-drevne
-  </text>
-  
-
-  <rect x="50" y="120" width="150" height="200" rx="15" fill="url(#traditional)" stroke="#5C6BC0" stroke-width="2"/>
-  <text x="125" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="200" x="50" y="120" fill="url(#b)" stroke="#5c6bc0" stroke-width="2" rx="15"/><text x="125" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     TRADISJONELLE
-  </text>
-  <text x="125" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="125" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Forretningsmodeller
-  </text>
-  
-
-  <rect x="70" y="180" width="110" height="20" rx="5" fill="#C5CAE9" stroke="#5C6BC0" stroke-width="1"/>
-  <text x="75" y="192" font-family="Arial, sans-serif" font-size="9" fill="#3F51B5">
+  </text><rect width="110" height="20" x="70" y="180" fill="#c5cae9" stroke="#5c6bc0" rx="5"/><text x="75" y="192" fill="#3f51b5" font-family="Arial, sans-serif" font-size="9">
     Enkelttransaksjoner
-  </text>
-  
-  <rect x="70" y="205" width="110" height="20" rx="5" fill="#C5CAE9" stroke="#5C6BC0" stroke-width="1"/>
-  <text x="75" y="217" font-family="Arial, sans-serif" font-size="9" fill="#3F51B5">
+  </text><rect width="110" height="20" x="70" y="205" fill="#c5cae9" stroke="#5c6bc0" rx="5"/><text x="75" y="217" fill="#3f51b5" font-family="Arial, sans-serif" font-size="9">
     Fysiske produkter
-  </text>
-  
-  <rect x="70" y="230" width="110" height="20" rx="5" fill="#C5CAE9" stroke="#5C6BC0" stroke-width="1"/>
-  <text x="75" y="242" font-family="Arial, sans-serif" font-size="9" fill="#3F51B5">
+  </text><rect width="110" height="20" x="70" y="230" fill="#c5cae9" stroke="#5c6bc0" rx="5"/><text x="75" y="242" fill="#3f51b5" font-family="Arial, sans-serif" font-size="9">
     Lineær verdikjede
-  </text>
-  
-  <rect x="70" y="255" width="110" height="20" rx="5" fill="#C5CAE9" stroke="#5C6BC0" stroke-width="1"/>
-  <text x="75" y="267" font-family="Arial, sans-serif" font-size="9" fill="#3F51B5">
+  </text><rect width="110" height="20" x="70" y="255" fill="#c5cae9" stroke="#5c6bc0" rx="5"/><text x="75" y="267" fill="#3f51b5" font-family="Arial, sans-serif" font-size="9">
     Eierskap-basert
-  </text>
-  
-  <rect x="70" y="280" width="110" height="20" rx="5" fill="#C5CAE9" stroke="#5C6BC0" stroke-width="1"/>
-  <text x="75" y="292" font-family="Arial, sans-serif" font-size="9" fill="#3F51B5">
+  </text><rect width="110" height="20" x="70" y="280" fill="#c5cae9" stroke="#5c6bc0" rx="5"/><text x="75" y="292" fill="#3f51b5" font-family="Arial, sans-serif" font-size="9">
     Margin: 5-15%
-  </text>
-  
-
-  <rect x="225" y="120" width="150" height="200" rx="15" fill="url(#digital)" stroke="#2196F3" stroke-width="2"/>
-  <text x="300" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="200" x="225" y="120" fill="url(#c)" stroke="#2196f3" stroke-width="2" rx="15"/><text x="300" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     DIGITALE
-  </text>
-  <text x="300" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="300" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Forretningsmodeller
-  </text>
-  
-
-  <rect x="245" y="180" width="110" height="20" rx="5" fill="#BBDEFB" stroke="#2196F3" stroke-width="1"/>
-  <text x="250" y="192" font-family="Arial, sans-serif" font-size="9" fill="#1565C0">
+  </text><rect width="110" height="20" x="245" y="180" fill="#bbdefb" stroke="#2196f3" rx="5"/><text x="250" y="192" fill="#1565c0" font-family="Arial, sans-serif" font-size="9">
     Abonnements (SaaS)
-  </text>
-  
-  <rect x="245" y="205" width="110" height="20" rx="5" fill="#BBDEFB" stroke="#2196F3" stroke-width="1"/>
-  <text x="250" y="217" font-family="Arial, sans-serif" font-size="9" fill="#1565C0">
+  </text><rect width="110" height="20" x="245" y="205" fill="#bbdefb" stroke="#2196f3" rx="5"/><text x="250" y="217" fill="#1565c0" font-family="Arial, sans-serif" font-size="9">
     Plattformøkonomi
-  </text>
-  
-  <rect x="245" y="230" width="110" height="20" rx="5" fill="#BBDEFB" stroke="#2196F3" stroke-width="1"/>
-  <text x="250" y="242" font-family="Arial, sans-serif" font-size="9" fill="#1565C0">
+  </text><rect width="110" height="20" x="245" y="230" fill="#bbdefb" stroke="#2196f3" rx="5"/><text x="250" y="242" fill="#1565c0" font-family="Arial, sans-serif" font-size="9">
     Nettverkseffekter
-  </text>
-  
-  <rect x="245" y="255" width="110" height="20" rx="5" fill="#BBDEFB" stroke="#2196F3" stroke-width="1"/>
-  <text x="250" y="267" font-family="Arial, sans-serif" font-size="9" fill="#1565C0">
+  </text><rect width="110" height="20" x="245" y="255" fill="#bbdefb" stroke="#2196f3" rx="5"/><text x="250" y="267" fill="#1565c0" font-family="Arial, sans-serif" font-size="9">
     Data-monetarisering
-  </text>
-  
-  <rect x="245" y="280" width="110" height="20" rx="5" fill="#BBDEFB" stroke="#2196F3" stroke-width="1"/>
-  <text x="250" y="292" font-family="Arial, sans-serif" font-size="9" fill="#1565C0">
+  </text><rect width="110" height="20" x="245" y="280" fill="#bbdefb" stroke="#2196f3" rx="5"/><text x="250" y="292" fill="#1565c0" font-family="Arial, sans-serif" font-size="9">
     Margin: 15-40%
-  </text>
-  
-
-  <rect x="400" y="120" width="150" height="200" rx="15" fill="url(#sustainability)" stroke="#4CAF50" stroke-width="2"/>
-  <text x="475" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="200" x="400" y="120" fill="url(#d)" stroke="#4caf50" stroke-width="2" rx="15"/><text x="475" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     BÆREKRAFTIGE
-  </text>
-  <text x="475" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="475" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Forretningsmodeller
-  </text>
-  
-
-  <rect x="420" y="180" width="110" height="20" rx="5" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
-  <text x="425" y="192" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><rect width="110" height="20" x="420" y="180" fill="#c8e6c9" stroke="#4caf50" rx="5"/><text x="425" y="192" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     Sirkulær økonomi
-  </text>
-  
-  <rect x="420" y="205" width="110" height="20" rx="5" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
-  <text x="425" y="217" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><rect width="110" height="20" x="420" y="205" fill="#c8e6c9" stroke="#4caf50" rx="5"/><text x="425" y="217" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     ESG-premium
-  </text>
-  
-  <rect x="420" y="230" width="110" height="20" rx="5" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
-  <text x="425" y="242" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><rect width="110" height="20" x="420" y="230" fill="#c8e6c9" stroke="#4caf50" rx="5"/><text x="425" y="242" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     Karbon-monetarisering
-  </text>
-  
-  <rect x="420" y="255" width="110" height="20" rx="5" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
-  <text x="425" y="267" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><rect width="110" height="20" x="420" y="255" fill="#c8e6c9" stroke="#4caf50" rx="5"/><text x="425" y="267" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     Purpose-driven
-  </text>
-  
-  <rect x="420" y="280" width="110" height="20" rx="5" fill="#C8E6C9" stroke="#4CAF50" stroke-width="1"/>
-  <text x="425" y="292" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><rect width="110" height="20" x="420" y="280" fill="#c8e6c9" stroke="#4caf50" rx="5"/><text x="425" y="292" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     Margin: 10-25%
-  </text>
-  
-
-  <rect x="575" y="120" width="150" height="200" rx="15" fill="url(#ai)" stroke="#FF9800" stroke-width="2"/>
-  <text x="650" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="150" height="200" x="575" y="120" fill="url(#e)" stroke="#ff9800" stroke-width="2" rx="15"/><text x="650" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     AI-DREVNE
-  </text>
-  <text x="650" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="650" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Forretningsmodeller
-  </text>
-  
-
-  <rect x="595" y="180" width="110" height="20" rx="5" fill="#FFE0B2" stroke="#FF9800" stroke-width="1"/>
-  <text x="600" y="192" font-family="Arial, sans-serif" font-size="9" fill="#E65100">
+  </text><rect width="110" height="20" x="595" y="180" fill="#ffe0b2" stroke="#ff9800" rx="5"/><text x="600" y="192" fill="#e65100" font-family="Arial, sans-serif" font-size="9">
     Automatiserte prosesser
-  </text>
-  
-  <rect x="595" y="205" width="110" height="20" rx="5" fill="#FFE0B2" stroke="#FF9800" stroke-width="1"/>
-  <text x="600" y="217" font-family="Arial, sans-serif" font-size="9" fill="#E65100">
+  </text><rect width="110" height="20" x="595" y="205" fill="#ffe0b2" stroke="#ff9800" rx="5"/><text x="600" y="217" fill="#e65100" font-family="Arial, sans-serif" font-size="9">
     Prediktive modeller
-  </text>
-  
-  <rect x="595" y="230" width="110" height="20" rx="5" fill="#FFE0B2" stroke="#FF9800" stroke-width="1"/>
-  <text x="600" y="242" font-family="Arial, sans-serif" font-size="9" fill="#E65100">
+  </text><rect width="110" height="20" x="595" y="230" fill="#ffe0b2" stroke="#ff9800" rx="5"/><text x="600" y="242" fill="#e65100" font-family="Arial, sans-serif" font-size="9">
     Personalisering
-  </text>
-  
-  <rect x="595" y="255" width="110" height="20" rx="5" fill="#FFE0B2" stroke="#FF9800" stroke-width="1"/>
-  <text x="600" y="267" font-family="Arial, sans-serif" font-size="9" fill="#E65100">
+  </text><rect width="110" height="20" x="595" y="255" fill="#ffe0b2" stroke="#ff9800" rx="5"/><text x="600" y="267" fill="#e65100" font-family="Arial, sans-serif" font-size="9">
     Minimal marginal kost.
-  </text>
-  
-  <rect x="595" y="280" width="110" height="20" rx="5" fill="#FFE0B2" stroke="#FF9800" stroke-width="1"/>
-  <text x="600" y="292" font-family="Arial, sans-serif" font-size="9" fill="#E65100">
+  </text><rect width="110" height="20" x="595" y="280" fill="#ffe0b2" stroke="#ff9800" rx="5"/><text x="600" y="292" fill="#e65100" font-family="Arial, sans-serif" font-size="9">
     Margin: 30-60%
-  </text>
-  
-
-  <rect x="50" y="340" width="700" height="240" rx="15" fill="#f0f8ff" stroke="#4169E1" stroke-width="2"/>
-  <text x="400" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4169E1">
+  </text><rect width="700" height="240" x="50" y="340" fill="#f0f8ff" stroke="#4169e1" stroke-width="2" rx="15"/><text x="400" y="365" fill="#4169e1" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Påvirkning på Profitabilitet og Konkurranseforhold
-  </text>
-  
-
-  <text x="70" y="390" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><text x="70" y="390" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Inntektstransformasjon:
-  </text>
-  
-  <rect x="70" y="400" width="320" height="60" rx="8" fill="#e8f5e8" stroke="#4CAF50" stroke-width="1"/>
-  <text x="80" y="415" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2E7D32">
+  </text><rect width="320" height="60" x="70" y="400" fill="#e8f5e8" stroke="#4caf50" rx="8"/><text x="80" y="415" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Fra engangssalg til repeterende inntekter
-  </text>
-  <text x="80" y="430" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><text x="80" y="430" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     • Abonnementsinntekter gir forutsigbar kontantstrøm
-  </text>
-  <text x="80" y="445" font-family="Arial, sans-serif" font-size="9" fill="#2E7D32">
+  </text><text x="80" y="445" fill="#2e7d32" font-family="Arial, sans-serif" font-size="9">
     • Høyere kundelivstidsverdi (Customer Lifetime Value)
-  </text>
-  
-
-  <rect x="410" y="400" width="320" height="60" rx="8" fill="#fff3e0" stroke="#FF9800" stroke-width="1"/>
-  <text x="420" y="415" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#E65100">
+  </text><rect width="320" height="60" x="410" y="400" fill="#fff3e0" stroke="#ff9800" rx="8"/><text x="420" y="415" fill="#e65100" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Fra variable til faste kostnader
-  </text>
-  <text x="420" y="430" font-family="Arial, sans-serif" font-size="9" fill="#E65100">
+  </text><text x="420" y="430" fill="#e65100" font-family="Arial, sans-serif" font-size="9">
     • Høye initialinvesteringer i teknologi
-  </text>
-  <text x="420" y="445" font-family="Arial, sans-serif" font-size="9" fill="#E65100">
+  </text><text x="420" y="445" fill="#e65100" font-family="Arial, sans-serif" font-size="9">
     • Lave marginale kostnader ved skalering
-  </text>
-  
-
-  <text x="70" y="485" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><text x="70" y="485" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Nye Konkurransedynamikker:
-  </text>
-  
-  <rect x="70" y="495" width="210" height="70" rx="8" fill="#e3f2fd" stroke="#2196F3" stroke-width="1"/>
-  <text x="80" y="510" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1565C0">
+  </text><rect width="210" height="70" x="70" y="495" fill="#e3f2fd" stroke="#2196f3" rx="8"/><text x="80" y="510" fill="#1565c0" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Vinneren tar alt
-  </text>
-  <text x="80" y="525" font-family="Arial, sans-serif" font-size="9" fill="#1565C0">
+  </text><text x="80" y="525" fill="#1565c0" font-family="Arial, sans-serif" font-size="9">
     • Nettverkseffekter skaper monopoler
-  </text>
-  <text x="80" y="540" font-family="Arial, sans-serif" font-size="9" fill="#1565C0">
+  </text><text x="80" y="540" fill="#1565c0" font-family="Arial, sans-serif" font-size="9">
     • Ekstreme profittmarginer for ledere
-  </text>
-  <text x="80" y="555" font-family="Arial, sans-serif" font-size="9" fill="#1565C0">
+  </text><text x="80" y="555" fill="#1565c0" font-family="Arial, sans-serif" font-size="9">
     • Marginalisering av tradisjonelle aktører
-  </text>
-  
-  <rect x="300" y="495" width="210" height="70" rx="8" fill="#f3e5f5" stroke="#9C27B0" stroke-width="1"/>
-  <text x="310" y="510" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7B1FA2">
+  </text><rect width="210" height="70" x="300" y="495" fill="#f3e5f5" stroke="#9c27b0" rx="8"/><text x="310" y="510" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Regulatorisk respons
-  </text>
-  <text x="310" y="525" font-family="Arial, sans-serif" font-size="9" fill="#7B1FA2">
+  </text><text x="310" y="525" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="9">
     • Antitrust og markedsmaktbegrensninger
-  </text>
-  <text x="310" y="540" font-family="Arial, sans-serif" font-size="9" fill="#7B1FA2">
+  </text><text x="310" y="540" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="9">
     • Beskatning av digitale tjenester
-  </text>
-  <text x="310" y="555" font-family="Arial, sans-serif" font-size="9" fill="#7B1FA2">
+  </text><text x="310" y="555" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="9">
     • ESG-krav og bærekraftsregulering
-  </text>
-  
-  <rect x="530" y="495" width="200" height="70" rx="8" fill="#ffebee" stroke="#F44336" stroke-width="1"/>
-  <text x="540" y="510" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#C62828">
+  </text><rect width="200" height="70" x="530" y="495" fill="#ffebee" stroke="#f44336" rx="8"/><text x="540" y="510" fill="#c62828" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Strategiske implikasjoner
-  </text>
-  <text x="540" y="525" font-family="Arial, sans-serif" font-size="9" fill="#C62828">
+  </text><text x="540" y="525" fill="#c62828" font-family="Arial, sans-serif" font-size="9">
     • Investere i transformasjon tidlig
-  </text>
-  <text x="540" y="540" font-family="Arial, sans-serif" font-size="9" fill="#C62828">
+  </text><text x="540" y="540" fill="#c62828" font-family="Arial, sans-serif" font-size="9">
     • Bygge digitale kapabiliteter
-  </text>
-  <text x="540" y="555" font-family="Arial, sans-serif" font-size="9" fill="#C62828">
+  </text><text x="540" y="555" fill="#c62828" font-family="Arial, sans-serif" font-size="9">
     • Omstille organisasjonen
-  </text>
-</svg>
+  </text></svg>

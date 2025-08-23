@@ -1,143 +1,57 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGrad)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Minstefradrag vs. Faktiske Utgifter
-  </text>
-  
-
-  <rect x="50" y="80" width="300" height="350" fill="url(#blueGrad)" rx="10"/>
-  <text x="200" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="350" x="50" y="80" fill="url(#b)" rx="10"/><text x="200" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     MINSTEFRADRAG
-  </text>
-  
-
-  <rect x="70" y="130" width="260" height="280" fill="white" rx="5"/>
-  
-  <text x="200" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="260" height="280" x="70" y="130" fill="#fff" rx="5"/><text x="200" y="160" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fordeler:
-  </text>
-  
-  <text x="80" y="185" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="80" y="185" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Automatisk utfylling
-  </text>
-  <text x="80" y="205" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="80" y="205" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Ingen dokumentasjon nødvendig
-  </text>
-  <text x="80" y="225" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="80" y="225" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Enkel og rask prosess
-  </text>
-  <text x="80" y="245" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="80" y="245" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Garantert fradrag
-  </text>
-  <text x="80" y="265" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="80" y="265" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Ingen risiko for feil
-  </text>
-  
-  <text x="200" y="295" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><text x="200" y="295" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ulemper:
-  </text>
-  
-  <text x="80" y="320" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="80" y="320" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Begrenset til maksimalbeløp
-  </text>
-  <text x="80" y="340" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="80" y="340" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Kan være lavere enn faktiske
-  </text>
-  <text x="80" y="360" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="80" y="360" fill="#333" font-family="Arial, sans-serif" font-size="12">
       utgifter
-  </text>
-  <text x="80" y="380" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="80" y="380" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Ingen fleksibilitet
-  </text>
-  
-
-  <rect x="450" y="80" width="300" height="350" fill="url(#greenGrad)" rx="10"/>
-  <text x="600" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="300" height="350" x="450" y="80" fill="url(#c)" rx="10"/><text x="600" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     FAKTISKE UTGIFTER
-  </text>
-  
-
-  <rect x="470" y="130" width="260" height="280" fill="white" rx="5"/>
-  
-  <text x="600" y="160" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="260" height="280" x="470" y="130" fill="#fff" rx="5"/><text x="600" y="160" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fordeler:
-  </text>
-  
-  <text x="480" y="185" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="480" y="185" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Kan gi høyere fradrag
-  </text>
-  <text x="480" y="205" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="480" y="205" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Reflekterer reelle kostnader
-  </text>
-  <text x="480" y="225" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="480" y="225" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Fleksibel tilnærming
-  </text>
-  <text x="480" y="245" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="480" y="245" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✓ Kan inkludere spesielle utgifter
-  </text>
-  
-  <text x="600" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><text x="600" y="275" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ulemper:
-  </text>
-  
-  <text x="480" y="300" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="480" y="300" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Krever full dokumentasjon
-  </text>
-  <text x="480" y="320" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="480" y="320" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Tidkrevende prosess
-  </text>
-  <text x="480" y="340" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="480" y="340" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Risiko for feil og avslag
-  </text>
-  <text x="480" y="360" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="480" y="360" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Må oppbevare alle bilag
-  </text>
-  <text x="480" y="380" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="480" y="380" fill="#333" font-family="Arial, sans-serif" font-size="12">
     ✗ Kan bli kontrollert
-  </text>
-  
-
-  <path d="M 360 255 L 440 255" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 440 255 L 360 255" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="1" refY="3.5" orient="auto">
-      <polygon points="10 0, 0 3.5, 10 7" fill="#666"/>
-    </marker>
-  </defs>
-  
-  <text x="400" y="245" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#666">
+  </text><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#d)" d="M360 255h80"/><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#e)" d="M440 255h-80"/><defs><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="1" refY="3.5"><path fill="#666" d="M10 0 0 3.5 10 7z"/></marker></defs><text x="400" y="245" fill="#666" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     VELG
-  </text>
-  <text x="400" y="275" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#666">
+  </text><text x="400" y="275" fill="#666" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     BESTE
-  </text>
-  
-
-  <rect x="100" y="450" width="600" height="40" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
-  <text x="400" y="470" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="600" height="40" x="100" y="450" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/><text x="400" y="470" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     💡 Anbefaling: Beregn begge alternativer og velg det som gir høyest fradrag
-  </text>
-</svg>
+  </text></svg>

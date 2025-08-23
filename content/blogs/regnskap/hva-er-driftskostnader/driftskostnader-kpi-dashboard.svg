@@ -1,313 +1,53 @@
-<svg width="800" height="700" viewBox="0 0 800 700" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="700" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="700" viewBox="0 0 800 700"><path fill="#f8f9fa" d="M0 0h800v700H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     KPI Dashboard - Driftskostnader
-  </text>
-  
-
-  <g transform="translate(40, 70)">
-    
-
-    <g transform="translate(0, 0)">
-      
-
-      <g transform="translate(0, 0)">
-        <rect x="0" y="0" width="170" height="120" fill="#ffffff" stroke="#3498db" stroke-width="3" rx="10"/>
-        <rect x="0" y="0" width="170" height="40" fill="#3498db" rx="10"/>
-        <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">
+  </text><g transform="translate(40 70)"><rect width="170" height="120" fill="#fff" stroke="#3498db" stroke-width="3" rx="10"/><rect width="170" height="40" fill="#3498db" rx="10"/><text x="85" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Driftskostnadsratio
-        </text>
-        
-
-        <g transform="translate(85, 80)">
-          <circle cx="0" cy="0" r="25" fill="none" stroke="#ecf0f1" stroke-width="8"/>
-          <circle cx="0" cy="0" r="25" fill="none" stroke="#e74c3c" stroke-width="8" 
-                  stroke-dasharray="110" stroke-dashoffset="32" transform="rotate(-90)"/>
-          <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">
+        </text><g transform="translate(85 80)"><circle r="25" fill="none" stroke="#ecf0f1" stroke-width="8"/><circle r="25" fill="none" stroke="#e74c3c" stroke-dasharray="110" stroke-dashoffset="32" stroke-width="8" transform="rotate(-90)"/><text y="5" fill="#e74c3c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
             68%
-          </text>
-        </g>
-        <text x="85" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
+          </text></g><text x="85" y="110" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
           av omsetning
-        </text>
-      </g>
-      
-
-      <g transform="translate(190, 0)">
-        <rect x="0" y="0" width="170" height="120" fill="#ffffff" stroke="#f39c12" stroke-width="3" rx="10"/>
-        <rect x="0" y="0" width="170" height="40" fill="#f39c12" rx="10"/>
-        <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">
+        </text></g><g transform="translate(230 70)"><rect width="170" height="120" fill="#fff" stroke="#f39c12" stroke-width="3" rx="10"/><rect width="170" height="40" fill="#f39c12" rx="10"/><text x="85" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Break-even Point
-        </text>
-        
-        <text x="85" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#f39c12">
+        </text><text x="85" y="70" fill="#f39c12" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
           1,667
-        </text>
-        <text x="85" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+        </text><text x="85" y="90" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
           enheter/måned
-        </text>
-        <text x="85" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">
+        </text><text x="85" y="110" fill="#27ae60" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
           ↗ +5% fra forrige måned
-        </text>
-      </g>
-      
-
-      <g transform="translate(380, 0)">
-        <rect x="0" y="0" width="170" height="120" fill="#ffffff" stroke="#9b59b6" stroke-width="3" rx="10"/>
-        <rect x="0" y="0" width="170" height="40" fill="#9b59b6" rx="10"/>
-        <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">
+        </text></g><g transform="translate(420 70)"><rect width="170" height="120" fill="#fff" stroke="#9b59b6" stroke-width="3" rx="10"/><rect width="170" height="40" fill="#9b59b6" rx="10"/><text x="85" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Kostnad per Ansatt
-        </text>
-        
-        <text x="85" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#9b59b6">
+        </text><text x="85" y="70" fill="#9b59b6" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
           45,000
-        </text>
-        <text x="85" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+        </text><text x="85" y="90" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
           kr/måned
-        </text>
-        <text x="85" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#e74c3c">
+        </text><text x="85" y="110" fill="#e74c3c" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
           ↗ +2% fra budsjett
-        </text>
-      </g>
-      
-
-      <g transform="translate(570, 0)">
-        <rect x="0" y="0" width="170" height="120" fill="#ffffff" stroke="#27ae60" stroke-width="3" rx="10"/>
-        <rect x="0" y="0" width="170" height="40" fill="#27ae60" rx="10"/>
-        <text x="85" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">
+        </text></g><g transform="translate(610 70)"><rect width="170" height="120" fill="#fff" stroke="#27ae60" stroke-width="3" rx="10"/><rect width="170" height="40" fill="#27ae60" rx="10"/><text x="85" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Dekningsbidrag
-        </text>
-        
-
-        <g transform="translate(20, 60)">
-          <rect x="0" y="0" width="130" height="20" fill="#ecf0f1" rx="10"/>
-          <rect x="0" y="0" width="42" height="20" fill="#27ae60" rx="10"/>
-          <text x="65" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+        </text><g transform="translate(20 60)"><rect width="130" height="20" fill="#ecf0f1" rx="10"/><rect width="42" height="20" fill="#27ae60" rx="10"/><text x="65" y="15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
             32%
-          </text>
-        </g>
-        <text x="85" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">
+          </text></g><text x="85" y="110" fill="#27ae60" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
           ↗ Forbedret med 3%
-        </text>
-      </g>
-    </g>
-    
-
-    <g transform="translate(0, 140)">
-      
-
-      <g transform="translate(0, 0)">
-        <rect x="0" y="0" width="360" height="180" fill="#ffffff" stroke="#bdc3c7" stroke-width="2" rx="10"/>
-        <text x="180" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+        </text></g><g transform="translate(40 210)"><rect width="360" height="180" fill="#fff" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="180" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
           Månedlig Kostnadstrend
-        </text>
-        
-
-        <g transform="translate(30, 50)">
-
-          <g stroke="#ecf0f1" stroke-width="1">
-            <line x1="0" y1="0" x2="300" y2="0"/>
-            <line x1="0" y1="30" x2="300" y2="30"/>
-            <line x1="0" y1="60" x2="300" y2="60"/>
-            <line x1="0" y1="90" x2="300" y2="90"/>
-          </g>
-          
-
-          <polyline points="0,70 50,65 100,68 150,72 200,70 250,75 300,78" 
-                    fill="none" stroke="#3498db" stroke-width="3"/>
-          
-
-          <circle cx="0" cy="70" r="4" fill="#3498db"/>
-          <circle cx="50" cy="65" r="4" fill="#3498db"/>
-          <circle cx="100" cy="68" r="4" fill="#3498db"/>
-          <circle cx="150" cy="72" r="4" fill="#3498db"/>
-          <circle cx="200" cy="70" r="4" fill="#3498db"/>
-          <circle cx="250" cy="75" r="4" fill="#3498db"/>
-          <circle cx="300" cy="78" r="4" fill="#e74c3c"/>
-          
-
-          <g transform="translate(0, 110)" font-family="Arial, sans-serif" font-size="10" fill="#7f8c8d">
-            <text x="0" y="0">Jan</text>
-            <text x="50" y="0">Feb</text>
-            <text x="100" y="0">Mar</text>
-            <text x="150" y="0">Apr</text>
-            <text x="200" y="0">Mai</text>
-            <text x="250" y="0">Jun</text>
-            <text x="300" y="0">Jul</text>
-          </g>
-        </g>
-        
-
-        <g transform="translate(280, 160)">
-          <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">↗ +4.2%</text>
-        </g>
-      </g>
-      
-
-      <g transform="translate(380, 0)">
-        <rect x="0" y="0" width="360" height="180" fill="#ffffff" stroke="#bdc3c7" stroke-width="2" rx="10"/>
-        <text x="180" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+        </text><g transform="translate(30 50)"><g stroke="#ecf0f1"><path d="M0 0h300M0 30h300M0 60h300M0 90h300"/></g><path fill="none" stroke="#3498db" stroke-width="3" d="m0 70 50-5 50 3 50 4 50-2 50 5 50 3"/><circle cy="70" r="4" fill="#3498db"/><circle cx="50" cy="65" r="4" fill="#3498db"/><circle cx="100" cy="68" r="4" fill="#3498db"/><circle cx="150" cy="72" r="4" fill="#3498db"/><circle cx="200" cy="70" r="4" fill="#3498db"/><circle cx="250" cy="75" r="4" fill="#3498db"/><circle cx="300" cy="78" r="4" fill="#e74c3c"/><g fill="#7f8c8d" font-family="Arial, sans-serif" font-size="10"><text transform="translate(0 110)">Jan</text><text x="50" transform="translate(0 110)">Feb</text><text x="100" transform="translate(0 110)">Mar</text><text x="150" transform="translate(0 110)">Apr</text><text x="200" transform="translate(0 110)">Mai</text><text x="250" transform="translate(0 110)">Jun</text><text x="300" transform="translate(0 110)">Jul</text></g></g><text fill="#e74c3c" font-family="Arial, sans-serif" font-size="12" transform="translate(280 160)">↗ +4.2%</text></g><g transform="translate(420 210)"><rect width="360" height="180" fill="#fff" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="180" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
           Kostnadsfordeling
-        </text>
-        
-
-        <g transform="translate(180, 110)">
-
-          <path d="M 0,-50 A 50,50 0 1,1 30,40 L 18,24 A 30,30 0 1,0 0,-30 Z" fill="#3498db"/>
-
-          <path d="M 30,40 A 50,50 0 0,1 -45,-20 L -27,-12 A 30,30 0 0,0 18,24 Z" fill="#e74c3c"/>
-
-          <path d="M -45,-20 A 50,50 0 0,1 0,-50 L 0,-30 A 30,30 0 0,0 -27,-12 Z" fill="#f39c12"/>
-          
-
-          <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+        </text><path fill="#3498db" d="M180 60a50 50 0 1 1 30 90l-12-16a30 30 0 1 0-18-54Z"/><path fill="#e74c3c" d="M210 150a50 50 0 0 1-75-60l18 8a30 30 0 0 0 45 36Z"/><path fill="#f39c12" d="M135 90a50 50 0 0 1 45-30v20a30 30 0 0 0-27 18Z"/><text y="-5" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(180 110)">
             Total
-          </text>
-          <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+          </text><text y="10" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="translate(180 110)">
             2.4M kr
-          </text>
-        </g>
-        
-
-        <g transform="translate(50, 150)">
-          <rect x="0" y="0" width="10" height="10" fill="#3498db"/>
-          <text x="15" y="8" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Faste 60%</text>
-          
-          <rect x="80" y="0" width="10" height="10" fill="#e74c3c"/>
-          <text x="95" y="8" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Variable 30%</text>
-          
-          <rect x="180" y="0" width="10" height="10" fill="#f39c12"/>
-          <text x="195" y="8" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Semi-var 10%</text>
-        </g>
-      </g>
-    </g>
-    
-
-    <g transform="translate(0, 340)">
-      
-
-      <g transform="translate(0, 0)">
-        <rect x="0" y="0" width="240" height="140" fill="#ffffff" stroke="#bdc3c7" stroke-width="2" rx="10"/>
-        <text x="120" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+          </text><path fill="#3498db" d="M50 150h10v10H50z"/><text x="15" y="8" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" transform="translate(50 150)">Faste 60%</text><path fill="#e74c3c" d="M130 150h10v10h-10z"/><text x="95" y="8" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" transform="translate(50 150)">Variable 30%</text><path fill="#f39c12" d="M230 150h10v10h-10z"/><text x="195" y="8" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" transform="translate(50 150)">Semi-var 10%</text></g><g transform="translate(40 410)"><rect width="240" height="140" fill="#fff" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="120" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
           Budsjettytelse
-        </text>
-        
-
-        <g transform="translate(40, 50)">
-
-          <rect x="0" y="20" width="30" height="40" fill="#95a5a6"/>
-          <rect x="5" y="18" width="30" height="42" fill="#e74c3c" opacity="0.8"/>
-          <text x="20" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Q1</text>
-          
-
-          <rect x="50" y="15" width="30" height="45" fill="#95a5a6"/>
-          <rect x="55" y="12" width="30" height="48" fill="#27ae60" opacity="0.8"/>
-          <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Q2</text>
-          
-
-          <rect x="100" y="25" width="30" height="35" fill="#95a5a6"/>
-          <rect x="105" y="22" width="30" height="38" fill="#e74c3c" opacity="0.8"/>
-          <text x="120" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Q3</text>
-          
-
-          <rect x="150" y="20" width="30" height="40" fill="#95a5a6"/>
-          <rect x="155" y="18" width="30" height="42" fill="#f39c12" opacity="0.8"/>
-          <text x="170" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Q4*</text>
-        </g>
-        
-
-        <g transform="translate(20, 110)">
-          <rect x="0" y="0" width="10" height="10" fill="#95a5a6"/>
-          <text x="15" y="8" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Budsjett</text>
-          
-          <rect x="80" y="0" width="10" height="10" fill="#e74c3c" opacity="0.8"/>
-          <text x="95" y="8" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Over budsjett</text>
-          
-          <rect x="180" y="0" width="10" height="10" fill="#27ae60" opacity="0.8"/>
-          <text x="195" y="8" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">Under budsjett</text>
-        </g>
-      </g>
-      
-
-      <g transform="translate(260, 0)">
-        <rect x="0" y="0" width="240" height="140" fill="#ffffff" stroke="#bdc3c7" stroke-width="2" rx="10"/>
-        <text x="120" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+        </text><path fill="#95a5a6" d="M40 70h30v40H40z"/><path fill="#e74c3c" d="M45 68h30v42H45z" opacity=".8"/><text x="20" y="75" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(40 50)">Q1</text><path fill="#95a5a6" d="M90 65h30v45H90z"/><path fill="#27ae60" d="M95 62h30v48H95z" opacity=".8"/><text x="70" y="75" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(40 50)">Q2</text><path fill="#95a5a6" d="M140 75h30v35h-30z"/><path fill="#e74c3c" d="M145 72h30v38h-30z" opacity=".8"/><text x="120" y="75" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(40 50)">Q3</text><path fill="#95a5a6" d="M190 70h30v40h-30z"/><path fill="#f39c12" d="M195 68h30v42h-30z" opacity=".8"/><text x="170" y="75" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(40 50)">Q4*</text><path fill="#95a5a6" d="M20 110h10v10H20z"/><text x="15" y="8" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" transform="translate(20 110)">Budsjett</text><path fill="#e74c3c" d="M100 110h10v10h-10z" opacity=".8"/><text x="95" y="8" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" transform="translate(20 110)">Over budsjett</text><path fill="#27ae60" d="M200 110h10v10h-10z" opacity=".8"/><text x="195" y="8" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" transform="translate(20 110)">Under budsjett</text></g><g transform="translate(300 410)"><rect width="240" height="140" fill="#fff" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="120" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
           Effektivitetsmål
-        </text>
-        
-
-        <g transform="translate(30, 45)">
-
-          <g transform="translate(0, 0)">
-            <circle cx="15" cy="15" r="12" fill="#27ae60"/>
-            <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">✓</text>
-            <text x="35" y="12" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Produktivitet</text>
-            <text x="35" y="25" font-family="Arial, sans-serif" font-size="10" fill="#27ae60">105% av mål</text>
-          </g>
-          
-
-          <g transform="translate(0, 40)">
-            <circle cx="15" cy="15" r="12" fill="#f39c12"/>
-            <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">!</text>
-            <text x="35" y="12" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">Kostnadskontroll</text>
-            <text x="35" y="25" font-family="Arial, sans-serif" font-size="10" fill="#f39c12">98% av mål</text>
-          </g>
-        </g>
-      </g>
-      
-
-      <g transform="translate(520, 0)">
-        <rect x="0" y="0" width="220" height="140" fill="#ffffff" stroke="#e74c3c" stroke-width="2" rx="10"/>
-        <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">
+        </text><g transform="translate(30 45)"><circle cx="15" cy="15" r="12" fill="#27ae60"/><text x="15" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">✓</text><text x="35" y="12" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Produktivitet</text><text x="35" y="25" fill="#27ae60" font-family="Arial, sans-serif" font-size="10">105% av mål</text></g><g transform="translate(30 85)"><circle cx="15" cy="15" r="12" fill="#f39c12"/><text x="15" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">!</text><text x="35" y="12" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">Kostnadskontroll</text><text x="35" y="25" fill="#f39c12" font-family="Arial, sans-serif" font-size="10">98% av mål</text></g></g><g transform="translate(560 410)"><rect width="220" height="140" fill="#fff" stroke="#e74c3c" stroke-width="2" rx="10"/><text x="110" y="25" fill="#e74c3c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
           Varsler
-        </text>
-        
-
-        <g transform="translate(20, 45)">
-          <g transform="translate(0, 0)">
-            <circle cx="10" cy="10" r="8" fill="#e74c3c"/>
-            <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">!</text>
-            <text x="25" y="8" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Overtidslønn over budsjett</text>
-            <text x="25" y="20" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">+15% i juli</text>
-          </g>
-          
-          <g transform="translate(0, 35)">
-            <circle cx="10" cy="10" r="8" fill="#f39c12"/>
-            <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">⚠</text>
-            <text x="25" y="8" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Energikostnader øker</text>
-            <text x="25" y="20" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">Trend siste 3 mnd</text>
-          </g>
-          
-          <g transform="translate(0, 70)">
-            <circle cx="10" cy="10" r="8" fill="#27ae60"/>
-            <text x="10" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">✓</text>
-            <text x="25" y="8" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">Markedsføring under budsjett</text>
-            <text x="25" y="20" font-family="Arial, sans-serif" font-size="9" fill="#7f8c8d">-8% YTD</text>
-          </g>
-        </g>
-      </g>
-    </g>
-    
-
-    <g transform="translate(0, 500)">
-      <rect x="0" y="0" width="740" height="80" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/>
-      <text x="370" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+        </text><g transform="translate(20 45)"><circle cx="10" cy="10" r="8" fill="#e74c3c"/><text x="10" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">!</text><text x="25" y="8" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Overtidslønn over budsjett</text><text x="25" y="20" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="9">+15% i juli</text></g><g transform="translate(20 80)"><circle cx="10" cy="10" r="8" fill="#f39c12"/><text x="10" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">⚠</text><text x="25" y="8" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Energikostnader øker</text><text x="25" y="20" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="9">Trend siste 3 mnd</text></g><g transform="translate(20 115)"><circle cx="10" cy="10" r="8" fill="#27ae60"/><text x="10" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="25" y="8" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">Markedsføring under budsjett</text><text x="25" y="20" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="9">-8% YTD</text></g></g><g transform="translate(40 570)"><rect width="740" height="80" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2" rx="10"/><text x="370" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
         Sammendrag - Juli 2024
-      </text>
-      
-      <g transform="translate(50, 40)">
-        <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      </text><g font-family="Arial, sans-serif" font-size="12"><text fill="#2c3e50" transform="translate(50 40)">
           <tspan font-weight="bold">Totale driftskostnader:</tspan> 2.4M kr (+4.2% fra juni) |
-          <tspan font-weight="bold" fill="#e74c3c"> Budsjettavvik:</tspan> +120k kr |
-          <tspan font-weight="bold" fill="#27ae60"> Besparelser:</tspan> 85k kr fra markedsføring
-        </text>
-        <text x="0" y="20" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">
+          <tspan fill="#e74c3c" font-weight="bold"> Budsjettavvik:</tspan> +120k kr |
+          <tspan fill="#27ae60" font-weight="bold"> Besparelser:</tspan> 85k kr fra markedsføring
+        </text><text y="20" fill="#7f8c8d" transform="translate(50 40)">
           Neste gjennomgang: 15. august | Ansvarlig: CFO | Status: Krever oppfølging på overtidskostnader
-        </text>
-      </g>
-    </g>
-  </g>
-</svg>
+        </text></g></g></svg>

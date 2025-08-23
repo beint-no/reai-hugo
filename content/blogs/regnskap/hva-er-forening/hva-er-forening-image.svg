@@ -1,125 +1,39 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Forening i Regnskap
-  </text>
-  
-
-  <text x="400" y="65" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#e6f3ff">
+  </text><text x="400" y="65" fill="#e6f3ff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Regnskapsføring for Foreninger og Organisasjoner
-  </text>
-  
-
-  <rect x="50" y="100" width="700" height="280" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  
-
-  <g transform="translate(80, 130)">
-
-    <circle cx="80" cy="40" r="30" fill="#28a745" opacity="0.2"/>
-    <circle cx="80" cy="40" r="20" fill="#28a745"/>
-    <text x="80" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="700" height="280" x="50" y="100" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><g transform="translate(80 130)"><circle cx="80" cy="40" r="30" fill="#28a745" opacity=".2"/><circle cx="80" cy="40" r="20" fill="#28a745"/><text x="80" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Ideell
-    </text>
-    <text x="80" y="85" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="80" y="85" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Ideelle foreninger
-    </text>
-  </g>
-  
-  <g transform="translate(230, 130)">
-
-    <circle cx="80" cy="40" r="30" fill="#007bff" opacity="0.2"/>
-    <circle cx="80" cy="40" r="20" fill="#007bff"/>
-    <text x="80" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><g transform="translate(230 130)"><circle cx="80" cy="40" r="30" fill="#007bff" opacity=".2"/><circle cx="80" cy="40" r="20" fill="#007bff"/><text x="80" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Økon
-    </text>
-    <text x="80" y="85" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="80" y="85" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Økonomiske foreninger
-    </text>
-  </g>
-  
-  <g transform="translate(380, 130)">
-
-    <circle cx="80" cy="40" r="30" fill="#ffc107" opacity="0.2"/>
-    <circle cx="80" cy="40" r="20" fill="#ffc107"/>
-    <text x="80" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><g transform="translate(380 130)"><circle cx="80" cy="40" r="30" fill="#ffc107" opacity=".2"/><circle cx="80" cy="40" r="20" fill="#ffc107"/><text x="80" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Int
-    </text>
-    <text x="80" y="85" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="80" y="85" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Interesseorganisasjoner
-    </text>
-  </g>
-  
-  <g transform="translate(530, 130)">
-
-    <circle cx="80" cy="40" r="30" fill="#dc3545" opacity="0.2"/>
-    <circle cx="80" cy="40" r="20" fill="#dc3545"/>
-    <text x="80" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text></g><g transform="translate(530 130)"><circle cx="80" cy="40" r="30" fill="#dc3545" opacity=".2"/><circle cx="80" cy="40" r="20" fill="#dc3545"/><text x="80" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Hobby
-    </text>
-    <text x="80" y="85" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">
+    </text><text x="80" y="85" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Hobbyforeninger
-    </text>
-  </g>
-  
-
-  <g transform="translate(80, 240)">
-    <rect x="0" y="0" width="150" height="60" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-    <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+    </text></g><g transform="translate(80 240)"><rect width="150" height="60" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="75" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Medlemskontingent
-    </text>
-    <text x="75" y="35" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    </text><text x="75" y="35" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Periodisering og
-    </text>
-    <text x="75" y="48" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    </text><text x="75" y="48" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       inntektsføring
-    </text>
-  </g>
-  
-  <g transform="translate(250, 240)">
-    <rect x="0" y="0" width="150" height="60" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-    <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+    </text></g><g transform="translate(250 240)"><rect width="150" height="60" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="75" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Tilskudd og Gaver
-    </text>
-    <text x="75" y="35" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    </text><text x="75" y="35" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Betingede og
-    </text>
-    <text x="75" y="48" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    </text><text x="75" y="48" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       ubetingede tilskudd
-    </text>
-  </g>
-  
-  <g transform="translate(420, 240)">
-    <rect x="0" y="0" width="150" height="60" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-    <text x="75" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#333">
+    </text></g><g transform="translate(420 240)"><rect width="150" height="60" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="75" y="20" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Frivillig Arbeid
-    </text>
-    <text x="75" y="35" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    </text><text x="75" y="35" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Verdisetting og
-    </text>
-    <text x="75" y="48" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#666">
+    </text><text x="75" y="48" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       regnskapsføring
-    </text>
-  </g>
-  
-
-  <line x1="155" y1="170" x2="155" y2="240" stroke="#dee2e6" stroke-width="2"/>
-  <line x1="325" y1="170" x2="325" y2="240" stroke="#dee2e6" stroke-width="2"/>
-  <line x1="495" y1="170" x2="495" y2="240" stroke="#dee2e6" stroke-width="2"/>
-</svg>
+    </text></g><path stroke="#dee2e6" stroke-width="2" d="M155 170v70M325 170v70M495 170v70"/></svg>

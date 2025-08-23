@@ -1,191 +1,35 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="operationalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="qualityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="standardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="automationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="controlGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#607D8B;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#263238;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Beste Praksis for Direkte Remittering
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="340" height="240" rx="10" fill="url(#operationalGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="340" height="240" fill="url(#b)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       📋 Operasjonelle Retningslinjer
-    </text>
-    
-    <g transform="translate(20, 45)">
-
-      <rect x="0" y="0" width="300" height="55" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="55" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Standardisering
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• Bruk konsistente betalingsformater</text>
-      <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">• Standardiser godkjennelsesprosedyrer</text>
-      
-
-      <rect x="0" y="65" width="300" height="55" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="83" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">• Bruk konsistente betalingsformater</text><text x="10" y="45" font-family="Arial, sans-serif" font-size="11">• Standardiser godkjennelsesprosedyrer</text><rect width="300" height="55" y="65" opacity=".2" rx="5"/><text x="10" y="83" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Automatisering
-      </text>
-      <text x="10" y="97" font-family="Arial, sans-serif" font-size="11" fill="white">• Automatiser rutinebetalinger</text>
-      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Bruk forhåndsdefinerte betalingsmaler</text>
-      
-
-      <rect x="0" y="130" width="300" height="55" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="148" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="97" font-family="Arial, sans-serif" font-size="11">• Automatiser rutinebetalinger</text><text x="10" y="110" font-family="Arial, sans-serif" font-size="11">• Bruk forhåndsdefinerte betalingsmaler</text><rect width="300" height="55" y="130" opacity=".2" rx="5"/><text x="10" y="148" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Kontroll
-      </text>
-      <text x="10" y="162" font-family="Arial, sans-serif" font-size="11" fill="white">• Daglig overvåking av transaksjoner</text>
-      <text x="10" y="175" font-family="Arial, sans-serif" font-size="11" fill="white">• Månedlig gjennomgang av prosedyrer</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="340" height="240" rx="10" fill="url(#qualityGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="10" y="162" font-family="Arial, sans-serif" font-size="11">• Daglig overvåking av transaksjoner</text><text x="10" y="175" font-family="Arial, sans-serif" font-size="11">• Månedlig gjennomgang av prosedyrer</text></g></g><g transform="translate(410 80)"><rect width="340" height="240" fill="url(#c)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       ✅ Kvalitetssikring
-    </text>
-    
-    <g transform="translate(20, 45)">
-
-      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="40" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Dobbeltsjekk
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• Alle kritiske opplysninger verifiseres</text>
-      
-
-      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">• Alle kritiske opplysninger verifiseres</text><rect width="300" height="40" y="50" opacity=".2" rx="5"/><text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Segregering
-      </text>
-      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">• Adskillelse av autorisasjon og utførelse</text>
-      
-
-      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="82" font-family="Arial, sans-serif" font-size="11">• Adskillelse av autorisasjon og utførelse</text><rect width="300" height="40" y="100" opacity=".2" rx="5"/><text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Dokumentasjon
-      </text>
-      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">• Komplett sporingslogg for alle transaksjoner</text>
-      
-
-      <rect x="0" y="150" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="168" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="132" font-family="Arial, sans-serif" font-size="11">• Komplett sporingslogg for alle transaksjoner</text><rect width="300" height="40" y="150" opacity=".2" rx="5"/><text x="10" y="168" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Backup
-      </text>
-      <text x="10" y="182" font-family="Arial, sans-serif" font-size="11" fill="white">• Alternative betalingsmetoder ved systemfeil</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 340)">
-    <rect x="0" y="0" width="700" height="200" rx="10" fill="url(#standardGradient)" opacity="0.9"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="10" y="182" font-family="Arial, sans-serif" font-size="11">• Alternative betalingsmetoder ved systemfeil</text></g></g><g transform="translate(50 340)"><rect width="700" height="200" fill="url(#d)" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       🏆 Rammeverk for Beste Praksis
-    </text>
-    
-
-    <g transform="translate(30, 50)">
-
-      <rect x="0" y="0" width="130" height="130" rx="5" fill="white" opacity="0.2"/>
-      <text x="65" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(30 50)"><rect width="130" height="130" opacity=".2" rx="5"/><text x="65" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         👥 Personer
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">Kompetanse og ansvar:</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Opplæring av personale</text>
-      <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Klare ansvarsområder</text>
-      <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Regelmessig kompetanseheving</text>
-      <text x="10" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Backup-personer</text>
-      <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Sertifiseringer</text>
-      <text x="10" y="125" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontinuerlig læring</text>
-      
-
-      <rect x="140" y="0" width="130" height="130" rx="5" fill="white" opacity="0.2"/>
-      <text x="205" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="10">Kompetanse og ansvar:</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="10">• Opplæring av personale</text><text x="10" y="65" font-family="Arial, sans-serif" font-size="10">• Klare ansvarsområder</text><text x="10" y="80" font-family="Arial, sans-serif" font-size="10">• Regelmessig kompetanseheving</text><text x="10" y="95" font-family="Arial, sans-serif" font-size="10">• Backup-personer</text><text x="10" y="110" font-family="Arial, sans-serif" font-size="10">• Sertifiseringer</text><text x="10" y="125" font-family="Arial, sans-serif" font-size="10">• Kontinuerlig læring</text><rect width="130" height="130" x="140" opacity=".2" rx="5"/><text x="205" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         ⚙️ Prosesser
-      </text>
-      <text x="150" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">Standardiserte arbeidsflyter:</text>
-      <text x="150" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Dokumenterte prosedyrer</text>
-      <text x="150" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontrollpunkter</text>
-      <text x="150" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Eskaleringsrutiner</text>
-      <text x="150" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Feilhåndtering</text>
-      <text x="150" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontinuerlig forbedring</text>
-      <text x="150" y="125" font-family="Arial, sans-serif" font-size="10" fill="white">• Regelmessig revisjon</text>
-      
-
-      <rect x="280" y="0" width="130" height="130" rx="5" fill="white" opacity="0.2"/>
-      <text x="345" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="150" y="35" font-family="Arial, sans-serif" font-size="10">Standardiserte arbeidsflyter:</text><text x="150" y="50" font-family="Arial, sans-serif" font-size="10">• Dokumenterte prosedyrer</text><text x="150" y="65" font-family="Arial, sans-serif" font-size="10">• Kontrollpunkter</text><text x="150" y="80" font-family="Arial, sans-serif" font-size="10">• Eskaleringsrutiner</text><text x="150" y="95" font-family="Arial, sans-serif" font-size="10">• Feilhåndtering</text><text x="150" y="110" font-family="Arial, sans-serif" font-size="10">• Kontinuerlig forbedring</text><text x="150" y="125" font-family="Arial, sans-serif" font-size="10">• Regelmessig revisjon</text><rect width="130" height="130" x="280" opacity=".2" rx="5"/><text x="345" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         💻 Teknologi
-      </text>
-      <text x="290" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">Robuste systemer:</text>
-      <text x="290" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Pålitelige plattformer</text>
-      <text x="290" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatiserte kontroller</text>
-      <text x="290" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Sanntidsovervåking</text>
-      <text x="290" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Backup-systemer</text>
-      <text x="290" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Sikkerhetskopier</text>
-      <text x="290" y="125" font-family="Arial, sans-serif" font-size="10" fill="white">• Regelmessige oppdateringer</text>
-      
-
-      <rect x="420" y="0" width="130" height="130" rx="5" fill="white" opacity="0.2"/>
-      <text x="485" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="290" y="35" font-family="Arial, sans-serif" font-size="10">Robuste systemer:</text><text x="290" y="50" font-family="Arial, sans-serif" font-size="10">• Pålitelige plattformer</text><text x="290" y="65" font-family="Arial, sans-serif" font-size="10">• Automatiserte kontroller</text><text x="290" y="80" font-family="Arial, sans-serif" font-size="10">• Sanntidsovervåking</text><text x="290" y="95" font-family="Arial, sans-serif" font-size="10">• Backup-systemer</text><text x="290" y="110" font-family="Arial, sans-serif" font-size="10">• Sikkerhetskopier</text><text x="290" y="125" font-family="Arial, sans-serif" font-size="10">• Regelmessige oppdateringer</text><rect width="130" height="130" x="420" opacity=".2" rx="5"/><text x="485" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         🏛️ Styring
-      </text>
-      <text x="430" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">Kontroll og overvåking:</text>
-      <text x="430" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Klare retningslinjer</text>
-      <text x="430" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Risikovurderinger</text>
-      <text x="430" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Compliance-overvåking</text>
-      <text x="430" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Rapporteringsrutiner</text>
-      <text x="430" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Revisjoner</text>
-      <text x="430" y="125" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontinuerlig forbedring</text>
-      
-
-      <rect x="560" y="0" width="110" height="130" rx="5" fill="white" opacity="0.2"/>
-      <text x="615" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="430" y="35" font-family="Arial, sans-serif" font-size="10">Kontroll og overvåking:</text><text x="430" y="50" font-family="Arial, sans-serif" font-size="10">• Klare retningslinjer</text><text x="430" y="65" font-family="Arial, sans-serif" font-size="10">• Risikovurderinger</text><text x="430" y="80" font-family="Arial, sans-serif" font-size="10">• Compliance-overvåking</text><text x="430" y="95" font-family="Arial, sans-serif" font-size="10">• Rapporteringsrutiner</text><text x="430" y="110" font-family="Arial, sans-serif" font-size="10">• Revisjoner</text><text x="430" y="125" font-family="Arial, sans-serif" font-size="10">• Kontinuerlig forbedring</text><rect width="110" height="130" x="560" opacity=".2" rx="5"/><text x="615" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         📊 Data
-      </text>
-      <text x="570" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">Informasjonsstyring:</text>
-      <text x="570" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Datakvalitet</text>
-      <text x="570" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Sikker lagring</text>
-      <text x="570" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Tilgangskontroll</text>
-      <text x="570" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Oppbevaringstid</text>
-      <text x="570" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Analyse og rapporter</text>
-      <text x="570" y="125" font-family="Arial, sans-serif" font-size="10" fill="white">• GDPR-compliance</text>
-    </g>
-  </g>
-  
-
-  <rect x="50" y="560" width="700" height="30" rx="5" fill="#333" opacity="0.8"/>
-  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="570" y="35" font-family="Arial, sans-serif" font-size="10">Informasjonsstyring:</text><text x="570" y="50" font-family="Arial, sans-serif" font-size="10">• Datakvalitet</text><text x="570" y="65" font-family="Arial, sans-serif" font-size="10">• Sikker lagring</text><text x="570" y="80" font-family="Arial, sans-serif" font-size="10">• Tilgangskontroll</text><text x="570" y="95" font-family="Arial, sans-serif" font-size="10">• Oppbevaringstid</text><text x="570" y="110" font-family="Arial, sans-serif" font-size="10">• Analyse og rapporter</text><text x="570" y="125" font-family="Arial, sans-serif" font-size="10">• GDPR-compliance</text></g></g><rect width="700" height="30" x="50" y="560" fill="#333" opacity=".8" rx="5"/><text x="400" y="580" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     🔑 Nøkkelfaktorer for suksess: Standardisering • Automatisering • Kontroll • Kontinuerlig forbedring
-  </text>
-</svg>
+  </text></svg>

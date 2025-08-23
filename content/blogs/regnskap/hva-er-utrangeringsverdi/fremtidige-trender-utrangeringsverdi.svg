@@ -1,193 +1,71 @@
-<svg width="800" height="550" viewBox="0 0 800 550" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="techGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="sustainGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="marketGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#17a2b8;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="550" fill="url(#bgGrad)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="550" viewBox="0 0 800 550"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1"/><stop offset="100%" style="stop-color:#e83e8c;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#17a2b8;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v550H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fremtidige Trender for Utrangeringsverdi
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <rect x="0" y="0" width="340" height="180" fill="url(#techGrad)" rx="15"/>
-    <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 70)"><rect width="340" height="180" fill="url(#b)" rx="15"/><text x="170" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Teknologiske Innovasjoner
-    </text>
-    
-    <rect x="20" y="45" width="300" height="120" fill="white" rx="8"/>
-    
-
-    <circle cx="47" cy="70" r="12" fill="#6f42c1"/>
-    <text x="47" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">AI</text>
-    
-    <text x="70" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6f42c1">
+    </text><rect width="300" height="120" x="20" y="45" fill="#fff" rx="8"/><circle cx="47" cy="70" r="12" fill="#6f42c1"/><text x="47" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">AI</text><text x="70" y="70" fill="#6f42c1" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       AI-baserte Modeller:
-    </text>
-    <text x="70" y="88" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="70" y="88" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Prediktiv analysering av markedstrender
-    </text>
-    <text x="70" y="101" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="70" y="101" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Sanntidsdata fra IoT-sensorer
-    </text>
-    <text x="70" y="114" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="70" y="114" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Automatisk justering av estimater
-    </text>
-    
-
-    <rect x="35" y="125" width="24" height="8" rx="4" fill="#6f42c1"/>
-    <circle cx="41" cy="129" r="2" fill="white"/>
-    <circle cx="47" cy="129" r="2" fill="white"/>
-    <circle cx="53" cy="129" r="2" fill="white"/>
-    
-    <text x="70" y="132" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#6f42c1">
+    </text><rect width="24" height="8" x="35" y="125" fill="#6f42c1" rx="4"/><circle cx="41" cy="129" r="2" fill="#fff"/><circle cx="47" cy="129" r="2" fill="#fff"/><circle cx="53" cy="129" r="2" fill="#fff"/><text x="70" y="132" fill="#6f42c1" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       IoT &amp; Prediktivt Vedlikehold:
-    </text>
-    <text x="70" y="148" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="70" y="148" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Kontinuerlig overvåking av eiendelstilstand
-    </text>
-    <text x="70" y="161" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="70" y="161" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Databaserte verdijusteringer
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 70)">
-    <rect x="0" y="0" width="340" height="180" fill="url(#sustainGrad)" rx="15"/>
-    <text x="170" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(410 70)"><rect width="340" height="180" fill="url(#c)" rx="15"/><text x="170" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Bærekraft og Miljø
-    </text>
-    
-    <rect x="20" y="45" width="300" height="120" fill="white" rx="8"/>
-    
-
-    <path d="M 30 60 Q 40 55 50 60 Q 60 65 50 70 Q 40 75 30 70 Q 20 65 30 60" fill="#28a745"/>
-    <polygon points="48,58 52,62 48,66" fill="white"/>
-    
-    <text x="65" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+    </text><rect width="300" height="120" x="20" y="45" fill="#fff" rx="8"/><path fill="#28a745" d="M30 60q10-5 20 0t0 10-20 0 0-10"/><path fill="#fff" d="m48 58 4 4-4 4z"/><text x="65" y="70" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Sirkulærøkonomi:
-    </text>
-    <text x="65" y="88" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="65" y="88" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Økt verdi av gjenbrukbare komponenter
-    </text>
-    <text x="65" y="101" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="65" y="101" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Karbonfotavtrykk påvirker verdivurdering
-    </text>
-    <text x="65" y="114" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="65" y="114" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Miljøreguleringer kan redusere verdier
-    </text>
-    
-
-    <circle cx="42" cy="135" r="8" fill="#28a745"/>
-    <path d="M 38 131 Q 42 127 46 131 Q 42 135 38 131" fill="white"/>
-    
-    <text x="60" y="132" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#28a745">
+    </text><circle cx="42" cy="135" r="8" fill="#28a745"/><path fill="#fff" d="M38 131q4-4 8 0-4 4-8 0"/><text x="60" y="132" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Miljøkrav:
-    </text>
-    <text x="60" y="148" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="60" y="148" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Strengere utslippsstandarder
-    </text>
-    <text x="60" y="161" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+    </text><text x="60" y="161" fill="#495057" font-family="Arial, sans-serif" font-size="10">
       • Forbud mot ikke-konforme eiendeler
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 280)">
-    <rect x="0" y="0" width="700" height="200" fill="url(#marketGrad)" rx="15"/>
-    <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 280)"><rect width="700" height="200" fill="url(#d)" rx="15"/><text x="350" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Markedsutvikling og Nye Forretningsmodeller
-    </text>
-    
-    <rect x="30" y="50" width="640" height="130" fill="white" rx="10"/>
-    
-
-    <g transform="translate(50, 70)">
-      <rect x="0" y="0" width="180" height="90" fill="#e7f3ff" stroke="#007bff" rx="8"/>
-      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#007bff">
+    </text><rect width="640" height="130" x="30" y="50" fill="#fff" rx="10"/><g transform="translate(50 70)"><rect width="180" height="90" fill="#e7f3ff" stroke="#007bff" rx="8"/><text x="90" y="20" fill="#007bff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Digitale Markedsplasser
-      </text>
-      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Økt transparens i prissetting
-      </text>
-      <text x="10" y="53" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="53" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Globale markeder for brukt utstyr
-      </text>
-      <text x="10" y="66" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="66" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Automatiserte verdivurderinger
-      </text>
-      <text x="10" y="79" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="79" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Reduserte transaksjonskostnader
-      </text>
-    </g>
-    
-
-    <g transform="translate(250, 70)">
-      <rect x="0" y="0" width="180" height="90" fill="#d4edda" stroke="#28a745" rx="8"/>
-      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+      </text></g><g transform="translate(250 70)"><rect width="180" height="90" fill="#d4edda" stroke="#28a745" rx="8"/><text x="90" y="20" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Delingsøkonomi
-      </text>
-      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Leasing-økonomi ekspanderer
-      </text>
-      <text x="10" y="53" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="53" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Redusert behov for eierskap
-      </text>
-      <text x="10" y="66" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="66" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Alt-som-en-tjeneste modeller
-      </text>
-      <text x="10" y="79" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="79" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Outsourcing av restverdirisiko
-      </text>
-    </g>
-    
-
-    <g transform="translate(450, 70)">
-      <rect x="0" y="0" width="180" height="90" fill="#fff3cd" stroke="#ffc107" rx="8"/>
-      <text x="90" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+      </text></g><g transform="translate(450 70)"><rect width="180" height="90" fill="#fff3cd" stroke="#ffc107" rx="8"/><text x="90" y="20" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Garantert Restverdi
-      </text>
-      <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Serviceavtaler inkluderer garanti
-      </text>
-      <text x="10" y="53" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="53" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Forsikringsløsninger for restverdi
-      </text>
-      <text x="10" y="66" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="66" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Overføring av verdirisiko
-      </text>
-      <text x="10" y="79" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+      </text><text x="10" y="79" fill="#495057" font-family="Arial, sans-serif" font-size="10">
         • Forutsigbare avskrivninger
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 500)">
-    <rect x="0" y="0" width="700" height="40" fill="#6f42c1" rx="10"/>
-    <text x="350" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text></g></g><g transform="translate(50 500)"><rect width="700" height="40" fill="#6f42c1" rx="10"/><text x="350" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Fremtidens Påvirkning på Regnskapsføring
-    </text>
-    <text x="350" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="350" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Mer presise estimater • Sanntidsoppdateringer • Redusert usikkerhet • Automatiserte justeringer
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

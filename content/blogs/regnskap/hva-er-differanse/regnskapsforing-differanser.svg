@@ -1,223 +1,89 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="budgetGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="taxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="reconciliationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regnskapsføring av Differanser
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    
-
-    <g transform="translate(0, 0)">
-      <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#budgetGradient)" opacity="0.9"/>
-      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="220" height="150" fill="url(#b)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
         Budsjettavvik
-      </text>
-      <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      </text><text x="110" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         Ikke direkte regnskapsført
-      </text>
-      
-
-      <g transform="translate(15, 60)">
-        <text x="0" y="15" font-family="Arial, sans-serif" font-size="12" fill="white">
+      </text><g fill="#fff" font-family="Arial, sans-serif" font-size="12"><text y="15" transform="translate(15 60)">
           • Rapporteres i styringssystem
-        </text>
-        <text x="0" y="30" font-family="Arial, sans-serif" font-size="12" fill="white">
+        </text><text y="30" transform="translate(15 60)">
           • Følges opp gjennom analyse
-        </text>
-        <text x="0" y="45" font-family="Arial, sans-serif" font-size="12" fill="white">
+        </text><text y="45" transform="translate(15 60)">
           • Grunnlag for korrigerende tiltak
-        </text>
-        <text x="0" y="60" font-family="Arial, sans-serif" font-size="12" fill="white">
+        </text><text y="60" transform="translate(15 60)">
           • Påvirker fremtidige budsjetter
-        </text>
-      </g>
-    </g>
-    
-
-    <g transform="translate(240, 0)">
-      <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#taxGradient)" opacity="0.9"/>
-      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+        </text></g></g><g transform="translate(290 80)"><rect width="220" height="150" fill="url(#c)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
         Skattemessige Differanser
-      </text>
-      <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      </text><text x="110" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         Regnskapsføres forskjellig
-      </text>
-      
-
-      <g transform="translate(15, 60)">
-        <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><g fill="#fff" font-family="Arial, sans-serif"><text y="15" font-size="11" font-weight="bold" transform="translate(15 60)">
           Midlertidige:
-        </text>
-        <text x="0" y="28" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="28" font-size="10" transform="translate(15 60)">
           Debet: Utsatt skattefordel
-        </text>
-        <text x="0" y="40" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="40" font-size="10" transform="translate(15 60)">
           Kredit: Skattekostnad
-        </text>
-        
-        <text x="0" y="60" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+        </text><text y="60" font-size="11" font-weight="bold" transform="translate(15 60)">
           Permanente:
-        </text>
-        <text x="0" y="73" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="73" font-size="10" transform="translate(15 60)">
           Kun påvirkning på skattekostnad
-        </text>
-      </g>
-    </g>
-    
-
-    <g transform="translate(480, 0)">
-      <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#reconciliationGradient)" opacity="0.9"/>
-      <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+        </text></g></g><g transform="translate(530 80)"><rect width="220" height="150" fill="url(#d)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
         Avstemmingsdifferanser
-      </text>
-      <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      </text><text x="110" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         Korrigerende posteringer
-      </text>
-      
-
-      <g transform="translate(15, 60)">
-        <text x="0" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><g fill="#fff" font-family="Arial, sans-serif"><text y="15" font-size="11" font-weight="bold" transform="translate(15 60)">
           Bankgebyr:
-        </text>
-        <text x="0" y="28" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="28" font-size="10" transform="translate(15 60)">
           Debet: Bankgebyrer
-        </text>
-        <text x="0" y="40" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="40" font-size="10" transform="translate(15 60)">
           Kredit: Bank
-        </text>
-        
-        <text x="0" y="60" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+        </text><text y="60" font-size="11" font-weight="bold" transform="translate(15 60)">
           Fakturafeil:
-        </text>
-        <text x="0" y="73" font-family="Arial, sans-serif" font-size="10" fill="white">
+        </text><text y="73" font-size="10" transform="translate(15 60)">
           Korreksjon av opprinnelig postering
-        </text>
-      </g>
-    </g>
-    
-
-    <g transform="translate(0, 180)">
-      <rect x="0" y="0" width="700" height="280" rx="10" fill="#6c757d" opacity="0.9"/>
-      <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+        </text></g></g><g transform="translate(50 260)"><rect width="700" height="280" fill="#6c757d" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
         Praktiske Regnskapsføringseksempler
-      </text>
-      
-
-      <g transform="translate(30, 50)">
-        <rect x="0" y="0" width="300" height="100" rx="5" fill="white" opacity="0.1"/>
-        <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+      </text><g fill="#fff" transform="translate(30 50)"><rect width="300" height="100" opacity=".1" rx="5"/><text x="150" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Midlertidig Skattemessig Differanse
-        </text>
-        <text x="10" y="40" font-family="Arial, sans-serif" font-size="12" fill="white">
+        </text><text x="10" y="40" font-family="Arial, sans-serif" font-size="12">
           Avskrivningsdifferanse: 50 000 kr
-        </text>
-        <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" fill="white">
+        </text><text x="10" y="55" font-family="Arial, sans-serif" font-size="12">
           Skattesats: 22%
-        </text>
-        <text x="10" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+        </text><text x="10" y="75" font-family="Arial, sans-serif" font-size="11">
           Debet: Utsatt skattefordel    11 000
-        </text>
-        <text x="10" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">
+        </text><text x="10" y="90" font-family="Arial, sans-serif" font-size="11">
           Kredit: Skattekostnad        11 000
-        </text>
-      </g>
-      
-
-      <g transform="translate(370, 50)">
-        <rect x="0" y="0" width="300" height="100" rx="5" fill="white" opacity="0.1"/>
-        <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        </text></g><g fill="#fff" transform="translate(370 50)"><rect width="300" height="100" opacity=".1" rx="5"/><text x="150" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Bankavstemming - Ikke Registrert Gebyr
-        </text>
-        <text x="10" y="40" font-family="Arial, sans-serif" font-size="12" fill="white">
+        </text><text x="10" y="40" font-family="Arial, sans-serif" font-size="12">
           Bankgebyr oppdaget ved avstemming: 1 500 kr
-        </text>
-        <text x="10" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">
+        </text><text x="10" y="60" font-family="Arial, sans-serif" font-size="11">
           Debet: Bankgebyrer           1 500
-        </text>
-        <text x="10" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+        </text><text x="10" y="75" font-family="Arial, sans-serif" font-size="11">
           Kredit: Bank                 1 500
-        </text>
-      </g>
-      
-
-      <g transform="translate(30, 170)">
-        <rect x="0" y="0" width="300" height="100" rx="5" fill="white" opacity="0.1"/>
-        <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        </text></g><g fill="#fff" transform="translate(30 170)"><rect width="300" height="100" opacity=".1" rx="5"/><text x="150" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Permanent Skattemessig Differanse
-        </text>
-        <text x="10" y="40" font-family="Arial, sans-serif" font-size="12" fill="white">
+        </text><text x="10" y="40" font-family="Arial, sans-serif" font-size="12">
           Representasjon over grensen: 10 000 kr
-        </text>
-        <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" fill="white">
+        </text><text x="10" y="55" font-family="Arial, sans-serif" font-size="12">
           Ikke fradragsberettiget
-        </text>
-        <text x="10" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+        </text><text x="10" y="75" font-family="Arial, sans-serif" font-size="11">
           Øker skattekostnad med: 2 200 kr
-        </text>
-        <text x="10" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">
+        </text><text x="10" y="90" font-family="Arial, sans-serif" font-size="11">
           (10 000 × 22% = 2 200)
-        </text>
-      </g>
-      
-
-      <g transform="translate(370, 170)">
-        <rect x="0" y="0" width="300" height="100" rx="5" fill="white" opacity="0.1"/>
-        <text x="150" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+        </text></g><g fill="#fff" transform="translate(370 170)"><rect width="300" height="100" opacity=".1" rx="5"/><text x="150" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           Leverandøravstemming - Prisdifferanse
-        </text>
-        <text x="10" y="40" font-family="Arial, sans-serif" font-size="12" fill="white">
+        </text><text x="10" y="40" font-family="Arial, sans-serif" font-size="12">
           Faktura 5% høyere enn bestilling
-        </text>
-        <text x="10" y="55" font-family="Arial, sans-serif" font-size="12" fill="white">
+        </text><text x="10" y="55" font-family="Arial, sans-serif" font-size="12">
           Opprinnelig: 20 000, Faktisk: 21 000
-        </text>
-        <text x="10" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+        </text><text x="10" y="75" font-family="Arial, sans-serif" font-size="11">
           Debet: Varekostnad           1 000
-        </text>
-        <text x="10" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">
+        </text><text x="10" y="90" font-family="Arial, sans-serif" font-size="11">
           Kredit: Leverandørgjeld      1 000
-        </text>
-      </g>
-    </g>
-    
-  </g>
-  
-
-  <g transform="translate(50, 490)">
-    <rect x="0" y="0" width="700" height="80" rx="10" fill="#e9ecef" stroke="#6c757d" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+        </text></g></g><g transform="translate(50 490)"><rect width="700" height="80" fill="#e9ecef" stroke="#6c757d" stroke-width="2" rx="10"/><text x="350" y="25" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Viktige Prinsipper for Regnskapsføring av Differanser
-    </text>
-    <text x="50" y="45" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="50" y="45" fill="#495057" font-family="Arial, sans-serif" font-size="12">
       • Budsjettavvik regnskapsføres ikke direkte, men følges opp gjennom rapportering og analyse
-    </text>
-    <text x="50" y="60" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="50" y="60" fill="#495057" font-family="Arial, sans-serif" font-size="12">
       • Skattemessige differanser krever vurdering av om de er midlertidige eller permanente
-    </text>
-  </g>
-  
-</svg>
+    </text></g></svg>

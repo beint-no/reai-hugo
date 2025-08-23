@@ -1,153 +1,31 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v60H0z"/><text x="400" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Skattemessig Behandling av Godtgjørelser
-  </text>
-  
-
-
-  <rect x="325" y="90" width="150" height="60" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
-  <text x="400" y="115" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0066cc">
+  </text><rect width="150" height="60" x="325" y="90" fill="#fff" stroke="#06c" stroke-width="2" rx="10"/><text x="400" y="115" fill="#06c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Godtgjørelse
-  </text>
-  <text x="400" y="135" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#0066cc">
+  </text><text x="400" y="135" fill="#06c" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     utbetalt
-  </text>
-  
-
-  <path d="M 400 150 L 400 180" stroke="#0066cc" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <polygon points="400,180 450,210 400,240 350,210" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
-  <text x="400" y="205" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><path fill="none" stroke="#06c" stroke-width="3" marker-end="url(#c)" d="M400 150v30"/><path fill="#ffc107" stroke="#e0a800" stroke-width="2" d="m400 180 50 30-50 30-50-30z"/><text x="400" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Dokumentert
-  </text>
-  <text x="400" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><text x="400" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     utgift?
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
-    </marker>
-    <marker id="greenArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-    <marker id="redArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#dc3545"/>
-    </marker>
-  </defs>
-  
-
-  <path d="M 450 210 L 550 210" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#greenArrow)"/>
-  <text x="500" y="205" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">JA</text>
-  
-
-  <path d="M 350 210 L 250 210" stroke="#dc3545" stroke-width="3" fill="none" marker-end="url(#redArrow)"/>
-  <text x="300" y="205" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">NEI</text>
-  
-
-  <rect x="550" y="180" width="200" height="120" fill="url(#greenGradient)" stroke="#1e7e34" stroke-width="2" rx="10"/>
-  <text x="650" y="205" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#06c" d="m0 0 10 3.5L0 7z"/></marker><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#dc3545" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="none" stroke="#28a745" stroke-width="3" marker-end="url(#d)" d="M450 210h100"/><text x="500" y="205" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold">JA</text><path fill="none" stroke="#dc3545" stroke-width="3" marker-end="url(#e)" d="M350 210H250"/><text x="300" y="205" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold">NEI</text><rect width="200" height="120" x="550" y="180" fill="url(#f)" stroke="#1e7e34" stroke-width="2" rx="10"/><text x="650" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     SKATTEFRI
-  </text>
-  <text x="650" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="650" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Godtgjørelse
-  </text>
-  
-
-  <circle cx="650" cy="250" r="15" fill="white"/>
-  <path d="M 642 250 L 648 256 L 658 244" stroke="#28a745" stroke-width="3" fill="none"/>
-  
-  <text x="570" y="285" font-family="Arial, sans-serif" font-size="11" fill="white">• Dekker faktiske utgifter</text>
-  <text x="570" y="295" font-family="Arial, sans-serif" font-size="11" fill="white">• Tilstrekkelig dokumentasjon</text>
-  
-
-  <rect x="50" y="180" width="200" height="120" fill="url(#redGradient)" stroke="#c82333" stroke-width="2" rx="10"/>
-  <text x="150" y="205" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="650" cy="250" r="15" fill="#fff"/><path fill="none" stroke="#28a745" stroke-width="3" d="m642 250 6 6 10-12"/><text x="570" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Dekker faktiske utgifter</text><text x="570" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Tilstrekkelig dokumentasjon</text><rect width="200" height="120" x="50" y="180" fill="url(#g)" stroke="#c82333" stroke-width="2" rx="10"/><text x="150" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     SKATTEPLIKTIG
-  </text>
-  <text x="150" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+  </text><text x="150" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Godtgjørelse
-  </text>
-  
-
-  <circle cx="150" cy="250" r="15" fill="white"/>
-  <path d="M 142 242 L 158 258 M 158 242 L 142 258" stroke="#dc3545" stroke-width="3"/>
-  
-  <text x="70" y="285" font-family="Arial, sans-serif" font-size="11" fill="white">• Mangler dokumentasjon</text>
-  <text x="70" y="295" font-family="Arial, sans-serif" font-size="11" fill="white">• Overstiger faktiske utgifter</text>
-  
-
-  <polygon points="400,340 450,370 400,400 350,370" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
-  <text x="400" y="365" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="150" cy="250" r="15" fill="#fff"/><path stroke="#dc3545" stroke-width="3" d="m142 242 16 16m0-16-16 16"/><text x="70" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Mangler dokumentasjon</text><text x="70" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Overstiger faktiske utgifter</text><path fill="#17a2b8" stroke="#138496" stroke-width="2" d="m400 340 50 30-50 30-50-30z"/><text x="400" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Innenfor
-  </text>
-  <text x="400" y="380" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="400" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     standardsats?
-  </text>
-  
-
-  <path d="M 650 300 L 650 340 L 450 340 L 450 370" stroke="#28a745" stroke-width="2" fill="none"/>
-  
-
-  <rect x="500" y="430" width="180" height="100" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
-  <text x="590" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><path fill="none" stroke="#28a745" stroke-width="2" d="M650 300v40H450v30"/><rect width="180" height="100" x="500" y="430" fill="#fff" stroke="#28a745" stroke-width="2" rx="8"/><text x="590" y="450" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Forenklet behandling
-  </text>
-  <text x="510" y="470" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Kjøregodtgjørelse: kr 4,35/km</text>
-  <text x="510" y="485" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Reisekost: Standardsatser</text>
-  <text x="510" y="500" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Telefon: Maksbeløp/mnd</text>
-  <text x="510" y="515" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Redusert dokumentasjon</text>
-  
-  <rect x="120" y="430" width="180" height="100" fill="white" stroke="#ffc107" stroke-width="2" rx="8"/>
-  <text x="210" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#e0a800">
+  </text><text x="510" y="470" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Kjøregodtgjørelse: kr 4,35/km</text><text x="510" y="485" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Reisekost: Standardsatser</text><text x="510" y="500" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Telefon: Maksbeløp/mnd</text><text x="510" y="515" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Redusert dokumentasjon</text><rect width="180" height="100" x="120" y="430" fill="#fff" stroke="#ffc107" stroke-width="2" rx="8"/><text x="210" y="450" fill="#e0a800" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Full dokumentasjon
-  </text>
-  <text x="130" y="470" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Alle kvitteringer påkrevd</text>
-  <text x="130" y="485" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Detaljert utleggsrapport</text>
-  <text x="130" y="500" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Godkjenning nødvendig</text>
-  <text x="130" y="515" font-family="Arial, sans-serif" font-size="11" fill="#495057">• Rimelighetsvurdering</text>
-  
-
-  <path d="M 450 370 L 590 370 L 590 430" stroke="#28a745" stroke-width="2" fill="none"/>
-  <text x="520" y="365" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#28a745">JA</text>
-  
-  <path d="M 350 370 L 210 370 L 210 430" stroke="#ffc107" stroke-width="2" fill="none"/>
-  <text x="280" y="365" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#e0a800">NEI</text>
-  
-
-  <rect x="50" y="550" width="700" height="40" fill="#e9ecef" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="400" y="570" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><text x="130" y="470" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Alle kvitteringer påkrevd</text><text x="130" y="485" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Detaljert utleggsrapport</text><text x="130" y="500" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Godkjenning nødvendig</text><text x="130" y="515" fill="#495057" font-family="Arial, sans-serif" font-size="11">• Rimelighetsvurdering</text><path fill="none" stroke="#28a745" stroke-width="2" d="M450 370h140v60"/><text x="520" y="365" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold">JA</text><path fill="none" stroke="#ffc107" stroke-width="2" d="M350 370H210v60"/><text x="280" y="365" fill="#e0a800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">NEI</text><rect width="700" height="40" x="50" y="550" fill="#e9ecef" stroke="#dee2e6" rx="5"/><text x="400" y="570" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Viktig: Alle godtgjørelser må være rimelige, nødvendige og relatert til arbeidsforhold
-  </text>
-  <text x="400" y="585" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#6c757d">
+  </text><text x="400" y="585" fill="#6c757d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Konsulter skatterådgiver ved tvil om skattemessig behandling
-  </text>
-</svg>
+  </text></svg>

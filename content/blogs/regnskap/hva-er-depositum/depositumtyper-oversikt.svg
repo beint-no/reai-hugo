@@ -1,185 +1,63 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="houseGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="contractGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="bankGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#2980b9;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#c0392b;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#27ae60;stop-opacity:1"/><stop offset="100%" style="stop-color:#229954;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Oversikt over Depositumtyper
-  </text>
-  
-
-  <circle cx="400" cy="250" r="60" fill="#f39c12" stroke="#e67e22" stroke-width="3"/>
-  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="250" r="60" fill="#f39c12" stroke="#e67e22" stroke-width="3"/><text x="400" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DEPOSITUM
-  </text>
-  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sikkerhet &amp;
-  </text>
-  <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Garanti
-  </text>
-  
-
-  <g>
-
-    <line x1="360" y1="210" x2="200" y2="120" stroke="#95a5a6" stroke-width="2"/>
-    
-
-    <rect x="50" y="70" width="300" height="100" rx="10" fill="url(#houseGradient)" stroke="#2980b9" stroke-width="2"/>
-    
-
-    <polygon points="80,90 100,70 120,90" fill="white"/>
-    <rect x="85" y="90" width="30" height="25" fill="white"/>
-    <rect x="92" y="100" width="8" height="15" fill="#3498db"/>
-    <rect x="105" y="95" width="6" height="6" fill="#3498db"/>
-    
-
-    <text x="140" y="90" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><path stroke="#95a5a6" stroke-width="2" d="m360 210-160-90"/><rect width="300" height="100" x="50" y="70" fill="url(#b)" stroke="#2980b9" stroke-width="2" rx="10"/><path fill="#fff" d="m80 90 20-20 20 20zM85 90h30v25H85z"/><path fill="#3498db" d="M92 100h8v15h-8zM105 95h6v6h-6z"/><text x="140" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Husleiedepositum
-    </text>
-    <text x="140" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="140" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Maks 6 mnd husleie (bolig)
-    </text>
-    <text x="140" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="140" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Renteplikt til markedsrente
-    </text>
-    <text x="140" y="140" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="140" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Egen bankkonto
-    </text>
-    <text x="140" y="155" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="140" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Tilbakebetaling innen 2 mnd
-    </text>
-  </g>
-  
-
-  <g>
-
-    <line x1="440" y1="210" x2="600" y2="120" stroke="#95a5a6" stroke-width="2"/>
-    
-
-    <rect x="450" y="70" width="300" height="100" rx="10" fill="url(#contractGradient)" stroke="#c0392b" stroke-width="2"/>
-    
-
-    <rect x="470" y="85" width="25" height="30" fill="white" rx="2"/>
-    <line x1="475" y1="95" x2="490" y2="95" stroke="#e74c3c" stroke-width="1"/>
-    <line x1="475" y1="100" x2="490" y2="100" stroke="#e74c3c" stroke-width="1"/>
-    <line x1="475" y1="105" x2="485" y2="105" stroke="#e74c3c" stroke-width="1"/>
-    
-
-    <text x="510" y="90" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><path stroke="#95a5a6" stroke-width="2" d="m440 210 160-90"/><rect width="300" height="100" x="450" y="70" fill="url(#c)" stroke="#c0392b" stroke-width="2" rx="10"/><rect width="25" height="30" x="470" y="85" fill="#fff" rx="2"/><path stroke="#e74c3c" d="M475 95h15M475 100h15M475 105h10"/><text x="510" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Kontraktsdepositum
-    </text>
-    <text x="510" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="510" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Byggekontrakter
-    </text>
-    <text x="510" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="510" y="125" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Leveransekontrakter
-    </text>
-    <text x="510" y="140" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="510" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Servicekontrakter
-    </text>
-    <text x="510" y="155" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="510" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Leasingkontrakter
-    </text>
-  </g>
-  
-
-  <g>
-
-    <line x1="400" y1="310" x2="400" y2="380" stroke="#95a5a6" stroke-width="2"/>
-    
-
-    <rect x="250" y="380" width="300" height="100" rx="10" fill="url(#bankGradient)" stroke="#229954" stroke-width="2"/>
-    
-
-    <rect x="270" y="395" width="30" height="20" fill="white"/>
-    <rect x="275" y="385" width="20" height="10" fill="white"/>
-    <rect x="278" y="400" width="3" height="10" fill="#27ae60"/>
-    <rect x="285" y="400" width="3" height="10" fill="#27ae60"/>
-    <rect x="292" y="400" width="3" height="10" fill="#27ae60"/>
-    
-
-    <text x="320" y="405" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><path stroke="#95a5a6" stroke-width="2" d="M400 310v70"/><rect width="300" height="100" x="250" y="380" fill="url(#d)" stroke="#229954" stroke-width="2" rx="10"/><path fill="#fff" d="M270 395h30v20h-30zM275 385h20v10h-20z"/><path fill="#27ae60" d="M278 400h3v10h-3zM285 400h3v10h-3zM292 400h3v10h-3z"/><text x="320" y="405" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Bankinnskudd som Depositum
-    </text>
-    <text x="320" y="425" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="320" y="425" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Kredittsikkerhet for lån
-    </text>
-    <text x="320" y="440" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="320" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Bankgaranti mot depositum
-    </text>
-    <text x="320" y="455" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="320" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Sikkerhet ved valutatransaksjoner
-    </text>
-    <text x="320" y="470" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="320" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Variabel rentebetingelser
-    </text>
-  </g>
-  
-
-  
-
-  <g>
-    <rect x="20" y="200" width="150" height="120" rx="8" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-    <text x="95" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    </text><rect width="150" height="120" x="20" y="200" fill="#fff" stroke="#bdc3c7" rx="8"/><text x="95" y="220" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Juridisk Regulering
-    </text>
-    <text x="30" y="240" font-family="Arial, sans-serif" font-size="9" fill="#34495e">
+    </text><text x="30" y="240" fill="#34495e" font-family="Arial, sans-serif" font-size="9">
       • Husleieloven
-    </text>
-    <text x="30" y="255" font-family="Arial, sans-serif" font-size="9" fill="#34495e">
+    </text><text x="30" y="255" fill="#34495e" font-family="Arial, sans-serif" font-size="9">
       • Avtaleloven
-    </text>
-    <text x="30" y="270" font-family="Arial, sans-serif" font-size="9" fill="#34495e">
+    </text><text x="30" y="270" fill="#34495e" font-family="Arial, sans-serif" font-size="9">
       • Finansavtaleloven
-    </text>
-    <text x="30" y="285" font-family="Arial, sans-serif" font-size="9" fill="#34495e">
+    </text><text x="30" y="285" fill="#34495e" font-family="Arial, sans-serif" font-size="9">
       • Forbrukerkjøpsloven
-    </text>
-    <text x="30" y="300" font-family="Arial, sans-serif" font-size="9" fill="#34495e">
+    </text><text x="30" y="300" fill="#34495e" font-family="Arial, sans-serif" font-size="9">
       • Kontraktsrett
-    </text>
-  </g>
-  
-
-  <g>
-    <rect x="630" y="200" width="150" height="120" rx="8" fill="white" stroke="#bdc3c7" stroke-width="1"/>
-    <text x="705" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+    </text><rect width="150" height="120" x="630" y="200" fill="#fff" stroke="#bdc3c7" rx="8"/><text x="705" y="220" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       Regnskapsføring
-    </text>
-    <text x="640" y="240" font-family="Arial, sans-serif" font-size="9" fill="#34495e">
+    </text><text x="640" y="240" fill="#34495e" font-family="Arial, sans-serif" font-size="9">
       Innskyter:
-    </text>
-    <text x="640" y="255" font-family="Arial, sans-serif" font-size="9" fill="#27ae60">
+    </text><text x="640" y="255" fill="#27ae60" font-family="Arial, sans-serif" font-size="9">
       • Eiendel i balansen
-    </text>
-    <text x="640" y="270" font-family="Arial, sans-serif" font-size="9" fill="#27ae60">
+    </text><text x="640" y="270" fill="#27ae60" font-family="Arial, sans-serif" font-size="9">
       • Renteinntekter
-    </text>
-    <text x="640" y="290" font-family="Arial, sans-serif" font-size="9" fill="#34495e">
+    </text><text x="640" y="290" fill="#34495e" font-family="Arial, sans-serif" font-size="9">
       Mottaker:
-    </text>
-    <text x="640" y="305" font-family="Arial, sans-serif" font-size="9" fill="#e74c3c">
+    </text><text x="640" y="305" fill="#e74c3c" font-family="Arial, sans-serif" font-size="9">
       • Gjeld i balansen
-    </text>
-  </g>
-</svg>
+    </text></svg>

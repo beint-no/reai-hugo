@@ -1,160 +1,59 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="morGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="datterGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="utenlandskGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#10b981;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc2626;stop-opacity:1"/><stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1"/><stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1"/></linearGradient><filter id="c"><feDropShadow dx="2" dy="2" flood-opacity=".3" stdDeviation="3"/></filter></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Konsern Skjermingsrapportering
-  </text>
-  
-
-  <rect x="300" y="80" width="200" height="80" rx="10" fill="url(#morGradient)" filter="url(#shadow)"/>
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="200" height="80" x="300" y="80" fill="url(#b)" filter="url(#c)" rx="10"/><text x="400" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Norsk Morselskap
-  </text>
-  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Full skjermingseffekt
-  </text>
-  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Koordinerer rapportering
-  </text>
-  
-
-  <rect x="100" y="220" width="160" height="80" rx="10" fill="url(#datterGradient)" filter="url(#shadow)"/>
-  <text x="180" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="80" x="100" y="220" fill="url(#d)" filter="url(#c)" rx="10"/><text x="180" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Norsk Datter
-  </text>
-  <text x="180" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="180" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Skjermingsfradrag
-  </text>
-  <text x="180" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="180" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Standard eliminering
-  </text>
-  
-
-  <rect x="540" y="220" width="160" height="80" rx="10" fill="url(#utenlandskGradient)" filter="url(#shadow)"/>
-  <text x="620" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="160" height="80" x="540" y="220" fill="url(#e)" filter="url(#c)" rx="10"/><text x="620" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Utenlandsk Datter
-  </text>
-  <text x="620" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="620" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Ingen skjermingsfradrag
-  </text>
-  <text x="620" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="620" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Separat behandling
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
-    </marker>
-  </defs>
-  
-
-  <line x1="350" y1="160" x2="220" y2="220" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <line x1="450" y1="160" x2="580" y2="220" stroke="#374151" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="50" y="350" width="700" height="180" rx="10" fill="#e5e7eb" stroke="#9ca3af" stroke-width="2"/>
-  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#374151">
+  </text><defs><marker id="f" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#374151" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke="#374151" stroke-width="2" marker-end="url(#f)" d="m350 160-130 60"/><path stroke="#374151" stroke-width="2" marker-end="url(#f)" d="m450 160 130 60"/><rect width="700" height="180" x="50" y="350" fill="#e5e7eb" stroke="#9ca3af" stroke-width="2" rx="10"/><text x="400" y="380" fill="#374151" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Konsern Konsolidering
-  </text>
-  
-
-  <g transform="translate(80, 400)">
-
-    <rect x="0" y="0" width="200" height="100" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
-    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400e">
+  </text><g transform="translate(80 400)"><rect width="200" height="100" fill="#fef3c7" stroke="#f59e0b" rx="5"/><text x="100" y="20" fill="#92400e" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Elimineringer
-    </text>
-    <text x="10" y="40" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    </text><text x="10" y="40" fill="#92400e" font-family="Arial, sans-serif" font-size="11">
       • Intern utbytte
-    </text>
-    <text x="10" y="55" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    </text><text x="10" y="55" fill="#92400e" font-family="Arial, sans-serif" font-size="11">
       • Skjermingseffekter
-    </text>
-    <text x="10" y="70" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    </text><text x="10" y="70" fill="#92400e" font-family="Arial, sans-serif" font-size="11">
       • Interne transaksjoner
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#92400e">
+    </text><text x="10" y="85" fill="#92400e" font-family="Arial, sans-serif" font-size="11">
       • Konsolidering
-    </text>
-    
-
-    <rect x="230" y="0" width="200" height="100" rx="5" fill="#ddd6fe" stroke="#7c3aed" stroke-width="1"/>
-    <text x="330" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#5b21b6">
+    </text><rect width="200" height="100" x="230" fill="#ddd6fe" stroke="#7c3aed" rx="5"/><text x="330" y="20" fill="#5b21b6" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Minority Interest
-    </text>
-    <text x="240" y="40" font-family="Arial, sans-serif" font-size="11" fill="#5b21b6">
+    </text><text x="240" y="40" fill="#5b21b6" font-family="Arial, sans-serif" font-size="11">
       • Fordeling av skattefordeler
-    </text>
-    <text x="240" y="55" font-family="Arial, sans-serif" font-size="11" fill="#5b21b6">
+    </text><text x="240" y="55" fill="#5b21b6" font-family="Arial, sans-serif" font-size="11">
       • Proporsjonale andeler
-    </text>
-    <text x="240" y="70" font-family="Arial, sans-serif" font-size="11" fill="#5b21b6">
+    </text><text x="240" y="70" fill="#5b21b6" font-family="Arial, sans-serif" font-size="11">
       • Separate beregninger
-    </text>
-    <text x="240" y="85" font-family="Arial, sans-serif" font-size="11" fill="#5b21b6">
+    </text><text x="240" y="85" fill="#5b21b6" font-family="Arial, sans-serif" font-size="11">
       • Kontrollallokering
-    </text>
-    
-
-    <rect x="460" y="0" width="200" height="100" rx="5" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
-    <text x="560" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#15803d">
+    </text><rect width="200" height="100" x="460" fill="#dcfce7" stroke="#16a34a" rx="5"/><text x="560" y="20" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Valutaomregning
-    </text>
-    <text x="470" y="40" font-family="Arial, sans-serif" font-size="11" fill="#15803d">
+    </text><text x="470" y="40" fill="#15803d" font-family="Arial, sans-serif" font-size="11">
       • Utenlandske datterselskaper
-    </text>
-    <text x="470" y="55" font-family="Arial, sans-serif" font-size="11" fill="#15803d">
+    </text><text x="470" y="55" fill="#15803d" font-family="Arial, sans-serif" font-size="11">
       • Ingen skjermingsfradrag
-    </text>
-    <text x="470" y="70" font-family="Arial, sans-serif" font-size="11" fill="#15803d">
+    </text><text x="470" y="70" fill="#15803d" font-family="Arial, sans-serif" font-size="11">
       • Omregningsjusteringer
-    </text>
-    <text x="470" y="85" font-family="Arial, sans-serif" font-size="11" fill="#15803d">
+    </text><text x="470" y="85" fill="#15803d" font-family="Arial, sans-serif" font-size="11">
       • Separate systemer
-    </text>
-  </g>
-  
-
-  <rect x="200" y="550" width="400" height="40" rx="20" fill="#1f2937" filter="url(#shadow)"/>
-  <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><rect width="400" height="40" x="200" y="550" fill="#1f2937" filter="url(#c)" rx="20"/><text x="400" y="575" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Koordinert konsernrapportering til skattemyndighetene
-  </text>
-  
-
-  <g transform="translate(20, 320)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+  </text><g font-family="Arial, sans-serif"><text fill="#374151" font-size="12" font-weight="bold" transform="translate(20 320)">
       Teknisk implementering:
-    </text>
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="10" fill="#6b7280">
+    </text><text y="20" fill="#6b7280" font-size="10" transform="translate(20 320)">
       • Automatiserte elimineringer • Segmentrapportering • Compliance-ready output
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

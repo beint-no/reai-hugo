@@ -1,182 +1,67 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="evaluationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d4edda;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="selectionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="monitoringGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fff8e1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffecb3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="developmentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e1bee7;stop-opacity:1" />
-    </linearGradient>
-    <marker id="processArrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#1976d2"/>
-    </marker>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1976d2">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#d4edda;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1"/><stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff8e1;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffecb3;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1"/><stop offset="100%" style="stop-color:#e1bee7;stop-opacity:1"/></linearGradient><marker id="b" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#1976d2" d="M0 0v6l9-3z"/></marker></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1976d2" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Leverandørstyringsprosess
-  </text>
-  
-
-  <rect x="50" y="70" width="320" height="200" fill="url(#evaluationGradient)" stroke="#28a745" stroke-width="3" rx="15"/>
-  <text x="210" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><rect width="320" height="200" x="50" y="70" fill="url(#a)" stroke="#28a745" stroke-width="3" rx="15"/><text x="210" y="100" fill="#155724" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     1. Leverandørvurdering
-  </text>
-  
-
-  <circle cx="210" cy="140" r="25" fill="#28a745" opacity="0.3"/>
-  <rect x="195" y="125" width="30" height="30" fill="none" stroke="#28a745" stroke-width="3"/>
-  <path d="M200 135 L205 140 L215 130" stroke="#28a745" stroke-width="3" fill="none"/>
-  
-  <text x="210" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><circle cx="210" cy="140" r="25" fill="#28a745" opacity=".3"/><path fill="none" stroke="#28a745" stroke-width="3" d="M195 125h30v30h-30z"/><path fill="none" stroke="#28a745" stroke-width="3" d="m200 135 5 5 10-10"/><text x="210" y="180" fill="#155724" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Vurderingskriterier:
-  </text>
-  <text x="70" y="200" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="200" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Kvalitet (30%) - Reklamasjoner, avvik
-  </text>
-  <text x="70" y="215" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="215" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Leveringspresisjon (25%) - On-time delivery
-  </text>
-  <text x="70" y="230" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="230" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Pris (20%) - Konkurransedyktighet
-  </text>
-  <text x="70" y="245" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="245" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Service (15%) - Responstid, support
-  </text>
-  <text x="70" y="260" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="260" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Bærekraft (10%) - Sertifiseringer
-  </text>
-  
-
-  <line x1="370" y1="170" x2="420" y2="170" stroke="#1976d2" stroke-width="3" marker-end="url(#processArrow)"/>
-  
-
-  <rect x="430" y="70" width="320" height="200" fill="url(#selectionGradient)" stroke="#007bff" stroke-width="3" rx="15"/>
-  <text x="590" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#004085">
+  </text><path stroke="#1976d2" stroke-width="3" marker-end="url(#b)" d="M370 170h50"/><rect width="320" height="200" x="430" y="70" fill="url(#c)" stroke="#007bff" stroke-width="3" rx="15"/><text x="590" y="100" fill="#004085" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     2. Leverandørvalg
-  </text>
-  
-
-  <circle cx="590" cy="140" r="25" fill="#007bff" opacity="0.3"/>
-  <circle cx="590" cy="140" r="15" fill="none" stroke="#007bff" stroke-width="3"/>
-  <circle cx="590" cy="140" r="8" fill="#007bff"/>
-  
-  <text x="590" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#004085">
+  </text><circle cx="590" cy="140" r="25" fill="#007bff" opacity=".3"/><circle cx="590" cy="140" r="15" fill="none" stroke="#007bff" stroke-width="3"/><circle cx="590" cy="140" r="8" fill="#007bff"/><text x="590" y="180" fill="#004085" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Utvalgsprosess:
-  </text>
-  <text x="450" y="200" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="200" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Prekvalifisering av leverandører
-  </text>
-  <text x="450" y="215" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="215" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Referansesjekk og due diligence
-  </text>
-  <text x="450" y="230" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="230" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Kontraktsforhandlinger
-  </text>
-  <text x="450" y="245" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="245" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Risikoevaluering
-  </text>
-  <text x="450" y="260" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="260" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Endelig leverandørvalg
-  </text>
-  
-
-  <line x1="590" y1="270" x2="590" y2="310" stroke="#1976d2" stroke-width="3" marker-end="url(#processArrow)"/>
-  
-
-  <rect x="430" y="320" width="320" height="200" fill="url(#monitoringGradient)" stroke="#ffc107" stroke-width="3" rx="15"/>
-  <text x="590" y="350" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><path stroke="#1976d2" stroke-width="3" marker-end="url(#b)" d="M590 270v40"/><rect width="320" height="200" x="430" y="320" fill="url(#d)" stroke="#ffc107" stroke-width="3" rx="15"/><text x="590" y="350" fill="#856404" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     3. Ytelsesovervåking
-  </text>
-  
-
-  <circle cx="590" cy="390" r="25" fill="#ffc107" opacity="0.3"/>
-  <rect x="575" y="375" width="30" height="30" fill="none" stroke="#ffc107" stroke-width="3"/>
-  <path d="M580 385 L600 385 M580 390 L600 390 M580 395 L600 395" stroke="#ffc107" stroke-width="2"/>
-  <circle cx="585" cy="380" r="2" fill="#ffc107"/>
-  
-  <text x="590" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><circle cx="590" cy="390" r="25" fill="#ffc107" opacity=".3"/><path fill="none" stroke="#ffc107" stroke-width="3" d="M575 375h30v30h-30z"/><path stroke="#ffc107" stroke-width="2" d="M580 385h20m-20 5h20m-20 5h20"/><circle cx="585" cy="380" r="2" fill="#ffc107"/><text x="590" y="430" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KPI-oppfølging:
-  </text>
-  <text x="450" y="450" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="450" y="450" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Regelmessige leverandørmøter
-  </text>
-  <text x="450" y="465" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="450" y="465" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Månedlig rapportering og scoring
-  </text>
-  <text x="450" y="480" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="450" y="480" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Avviksbehandling og korrigering
-  </text>
-  <text x="450" y="495" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="450" y="495" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Benchmarking mot andre leverandører
-  </text>
-  <text x="450" y="510" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="450" y="510" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Kontinuerlig forbedring
-  </text>
-  
-
-  <line x1="430" y1="420" x2="380" y2="420" stroke="#1976d2" stroke-width="3" marker-end="url(#processArrow)"/>
-  
-
-  <rect x="50" y="320" width="320" height="200" fill="url(#developmentGradient)" stroke="#9c27b0" stroke-width="3" rx="15"/>
-  <text x="210" y="350" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#4a148c">
+  </text><path stroke="#1976d2" stroke-width="3" marker-end="url(#b)" d="M430 420h-50"/><rect width="320" height="200" x="50" y="320" fill="url(#e)" stroke="#9c27b0" stroke-width="3" rx="15"/><text x="210" y="350" fill="#4a148c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     4. Leverandørutvikling
-  </text>
-  
-
-  <circle cx="210" cy="390" r="25" fill="#9c27b0" opacity="0.3"/>
-  <path d="M195 385 L210 375 L225 385 M195 395 L210 405 L225 395" stroke="#9c27b0" stroke-width="3" fill="none"/>
-  <circle cx="210" cy="390" r="5" fill="#9c27b0"/>
-  
-  <text x="210" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#4a148c">
+  </text><circle cx="210" cy="390" r="25" fill="#9c27b0" opacity=".3"/><path fill="none" stroke="#9c27b0" stroke-width="3" d="m195 385 15-10 15 10m-30 10 15 10 15-10"/><circle cx="210" cy="390" r="5" fill="#9c27b0"/><text x="210" y="430" fill="#4a148c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Utviklingsaktiviteter:
-  </text>
-  <text x="70" y="450" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+  </text><text x="70" y="450" fill="#4a148c" font-family="Arial, sans-serif" font-size="11">
     • Kompetanseutvikling og opplæring
-  </text>
-  <text x="70" y="465" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+  </text><text x="70" y="465" fill="#4a148c" font-family="Arial, sans-serif" font-size="11">
     • Prosessforbedring og innovasjon
-  </text>
-  <text x="70" y="480" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+  </text><text x="70" y="480" fill="#4a148c" font-family="Arial, sans-serif" font-size="11">
     • Teknologiintegrasjon
-  </text>
-  <text x="70" y="495" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+  </text><text x="70" y="495" fill="#4a148c" font-family="Arial, sans-serif" font-size="11">
     • Bærekraftsinitiativer
-  </text>
-  <text x="70" y="510" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+  </text><text x="70" y="510" fill="#4a148c" font-family="Arial, sans-serif" font-size="11">
     • Strategiske partnerskap
-  </text>
-  
-
-  <path d="M210 320 Q150 280 150 170 Q150 120 200 120" stroke="#1976d2" stroke-width="3" fill="none" marker-end="url(#processArrow)"/>
-  
-
-  <circle cx="400" cy="295" r="40" fill="white" stroke="#1976d2" stroke-width="3"/>
-  <text x="400" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><path fill="none" stroke="#1976d2" stroke-width="3" marker-end="url(#b)" d="M210 320q-60-40-60-150 0-50 50-50"/><circle cx="400" cy="295" r="40" fill="#fff" stroke="#1976d2" stroke-width="3"/><text x="400" y="290" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kontinuerlig
-  </text>
-  <text x="400" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><text x="400" y="305" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Forbedring
-  </text>
-  
-
-  <rect x="100" y="540" width="600" height="50" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="400" y="560" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="600" height="50" x="100" y="540" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/><text x="400" y="560" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Risikostyring og Beredskapsplaner
-  </text>
-  <text x="400" y="580" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#856404">
+  </text><text x="400" y="580" fill="#856404" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Identifisering av kritiske leverandører • Alternative leverandører • Kontingensplaner • Forsikring
-  </text>
-</svg>
+  </text></svg>

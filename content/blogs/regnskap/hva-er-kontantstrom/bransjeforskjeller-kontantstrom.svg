@@ -1,213 +1,91 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="retailGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#66BB6A;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="manufacturingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="servicesGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FFB74D;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="constructionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#BA68C8;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffb74d;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#ba68c8;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Bransjeforskjeller i Kontantstrøm
-  </text>
-  
-
-  <rect x="50" y="70" width="340" height="240" fill="url(#retailGradient)" rx="15" opacity="0.1"/>
-  <rect x="60" y="80" width="320" height="30" fill="url(#retailGradient)" rx="5"/>
-  <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="240" x="50" y="70" fill="url(#a)" opacity=".1" rx="15"/><rect width="320" height="30" x="60" y="80" fill="url(#a)" rx="5"/><text x="220" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DETALJHANDEL
-  </text>
-  
-
-  <text x="70" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+  </text><text x="70" y="130" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Karakteristika:
-  </text>
-  <text x="70" y="150" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="150" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Høy omsetningshastighet på varelager
-  </text>
-  <text x="70" y="165" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="165" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Sesongvariasjoner i kontantstrøm
-  </text>
-  <text x="70" y="180" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="180" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Kontantsalg gir umiddelbar innstrøm
-  </text>
-  <text x="70" y="195" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="195" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Relativt lav kapitalbinding
-  </text>
-  
-  <text x="70" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+  </text><text x="70" y="220" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Utfordringer:
-  </text>
-  <text x="70" y="240" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="240" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Lagerstyring og sesongplanlegging
-  </text>
-  <text x="70" y="255" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="255" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Håndtering av sesongtopper
-  </text>
-  <text x="70" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="270" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Konkurransepress på marginer
-  </text>
-  
-
-  <rect x="70" y="285" width="300" height="15" fill="#e8f5e8" rx="3"/>
-  <text x="220" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><rect width="300" height="15" x="70" y="285" fill="#e8f5e8" rx="3"/><text x="220" y="295" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kontantstrøm: Rask og forutsigbar
-  </text>
-  
-
-  <rect x="410" y="70" width="340" height="240" fill="url(#manufacturingGradient)" rx="15" opacity="0.1"/>
-  <rect x="420" y="80" width="320" height="30" fill="url(#manufacturingGradient)" rx="5"/>
-  <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="240" x="410" y="70" fill="url(#b)" opacity=".1" rx="15"/><rect width="320" height="30" x="420" y="80" fill="url(#b)" rx="5"/><text x="580" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     PRODUKSJON
-  </text>
-  
-
-  <text x="430" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565C0">
+  </text><text x="430" y="130" fill="#1565c0" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Karakteristika:
-  </text>
-  <text x="430" y="150" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="150" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Lange produksjonssykluser
-  </text>
-  <text x="430" y="165" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="165" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Store investeringer i maskiner/utstyr
-  </text>
-  <text x="430" y="180" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="180" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Arbeidskapitalintensiv drift
-  </text>
-  <text x="430" y="195" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="195" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Høy kapitalbinding i lager
-  </text>
-  
-  <text x="430" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1565C0">
+  </text><text x="430" y="220" fill="#1565c0" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Utfordringer:
-  </text>
-  <text x="430" y="240" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="240" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Balansere produksjon og etterspørsel
-  </text>
-  <text x="430" y="255" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="255" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Finansiere lange produksjonssykluser
-  </text>
-  <text x="430" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="270" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Håndtere store investeringer
-  </text>
-  
-
-  <rect x="430" y="285" width="300" height="15" fill="#e3f2fd" rx="3"/>
-  <text x="580" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1565C0">
+  </text><rect width="300" height="15" x="430" y="285" fill="#e3f2fd" rx="3"/><text x="580" y="295" fill="#1565c0" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kontantstrøm: Syklisk og kapitalintensiv
-  </text>
-  
-
-  <rect x="50" y="330" width="340" height="240" fill="url(#servicesGradient)" rx="15" opacity="0.1"/>
-  <rect x="60" y="340" width="320" height="30" fill="url(#servicesGradient)" rx="5"/>
-  <text x="220" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="240" x="50" y="330" fill="url(#c)" opacity=".1" rx="15"/><rect width="320" height="30" x="60" y="340" fill="url(#c)" rx="5"/><text x="220" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     TJENESTEYTING
-  </text>
-  
-
-  <text x="70" y="390" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E65100">
+  </text><text x="70" y="390" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Karakteristika:
-  </text>
-  <text x="70" y="410" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="410" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Lav kapitalbinding i varelager
-  </text>
-  <text x="70" y="425" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="425" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Høy andel faste kostnader (lønn)
-  </text>
-  <text x="70" y="440" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="440" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Variabel innstrøm avhengig av prosjekter
-  </text>
-  <text x="70" y="455" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="455" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Kunnskapsbasert verdiskaping
-  </text>
-  
-  <text x="70" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E65100">
+  </text><text x="70" y="480" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Utfordringer:
-  </text>
-  <text x="70" y="500" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="500" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Jevne ut kontantstrømvariasjoner
-  </text>
-  <text x="70" y="515" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="515" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Håndtere prosjektbaserte inntekter
-  </text>
-  <text x="70" y="530" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="530" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Sikre forutsigbar innstrøm
-  </text>
-  
-
-  <rect x="70" y="545" width="300" height="15" fill="#fff3e0" rx="3"/>
-  <text x="220" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#E65100">
+  </text><rect width="300" height="15" x="70" y="545" fill="#fff3e0" rx="3"/><text x="220" y="555" fill="#e65100" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kontantstrøm: Variabel og prosjektbasert
-  </text>
-  
-
-  <rect x="410" y="330" width="340" height="240" fill="url(#constructionGradient)" rx="15" opacity="0.1"/>
-  <rect x="420" y="340" width="320" height="30" fill="url(#constructionGradient)" rx="5"/>
-  <text x="580" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="240" x="410" y="330" fill="url(#d)" opacity=".1" rx="15"/><rect width="320" height="30" x="420" y="340" fill="url(#d)" rx="5"/><text x="580" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     BYGG OG ANLEGG
-  </text>
-  
-
-  <text x="430" y="390" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6A1B9A">
+  </text><text x="430" y="390" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Karakteristika:
-  </text>
-  <text x="430" y="410" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="410" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Prosjektbasert kontantstrøm
-  </text>
-  <text x="430" y="425" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="425" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Lange betalingsbetingelser fra kunder
-  </text>
-  <text x="430" y="440" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="440" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Avanse fra kunder (forskuddsbetaling)
-  </text>
-  <text x="430" y="455" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="455" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Store materialkostnader
-  </text>
-  
-  <text x="430" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6A1B9A">
+  </text><text x="430" y="480" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Utfordringer:
-  </text>
-  <text x="430" y="500" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="500" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Finansiere prosjekter før betaling
-  </text>
-  <text x="430" y="515" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="515" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Håndtere lange betalingsfrister
-  </text>
-  <text x="430" y="530" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="530" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Risikostyring i store prosjekter
-  </text>
-  
-
-  <rect x="430" y="545" width="300" height="15" fill="#f3e5f5" rx="3"/>
-  <text x="580" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6A1B9A">
+  </text><rect width="300" height="15" x="430" y="545" fill="#f3e5f5" rx="3"/><text x="580" y="555" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kontantstrøm: Ujevn og prosjektavhengig
-  </text>
-  
-
-  <circle cx="220" cy="50" r="12" fill="#4CAF50"/>
-  <text x="220" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏪</text>
-  
-  <circle cx="580" cy="50" r="12" fill="#2196F3"/>
-  <text x="580" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏭</text>
-  
-  <circle cx="220" cy="310" r="12" fill="#FF9800"/>
-  <text x="220" y="317" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">💼</text>
-  
-  <circle cx="580" cy="310" r="12" fill="#9C27B0"/>
-  <text x="580" y="317" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏗️</text>
-</svg>
+  </text><circle cx="220" cy="50" r="12" fill="#4caf50"/><text x="220" y="57" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🏪</text><circle cx="580" cy="50" r="12" fill="#2196f3"/><text x="580" y="57" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🏭</text><circle cx="220" cy="310" r="12" fill="#ff9800"/><text x="220" y="317" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">💼</text><circle cx="580" cy="310" r="12" fill="#9c27b0"/><text x="580" y="317" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🏗️</text></svg>

@@ -1,133 +1,51 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="companyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3f51b5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1a237e;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="revenueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="costGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff5722;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d84315;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="profitGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2196f3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1565c0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#companyGrad)"/>
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#3f51b5;stop-opacity:1"/><stop offset="100%" style="stop-color:#1a237e;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff5722;stop-opacity:1"/><stop offset="100%" style="stop-color:#d84315;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#1565c0;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v500H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Praktisk Eksempel: Møbelprodusent AS (2023)
-  </text>
-  
-
-  <rect x="50" y="80" width="700" height="50" fill="url(#revenueGrad)" rx="5"/>
-  <text x="70" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="50" x="50" y="80" fill="url(#b)" rx="5"/><text x="70" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Salgsinntekter 2023
-  </text>
-  <text x="730" y="110" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="730" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="end">
     10 000 000 kr
-  </text>
-  
-
-  <text x="400" y="160" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#666">
+  </text><text x="400" y="160" fill="#666" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     MINUS
-  </text>
-  
-
-  <text x="50" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+  </text><text x="50" y="190" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Varekostnader (detaljert):
-  </text>
-  
-
-  <rect x="50" y="200" width="350" height="40" fill="url(#costGrad)" rx="3"/>
-  <text x="70" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="350" height="40" x="50" y="200" fill="url(#c)" rx="3"/><text x="70" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Råvarer (tre, metall, tekstiler)
-  </text>
-  <text x="380" y="225" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="380" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">
     3 500 000 kr
-  </text>
-  
-
-  <rect x="420" y="200" width="330" height="40" fill="url(#costGrad)" rx="3"/>
-  <text x="440" y="220" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="330" height="40" x="420" y="200" fill="url(#c)" rx="3"/><text x="440" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Direkte arbeidskraft (produksjonslønn)
-  </text>
-  <text x="730" y="225" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="730" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">
     2 000 000 kr
-  </text>
-  
-
-  <rect x="50" y="250" width="350" height="40" fill="url(#costGrad)" rx="3"/>
-  <text x="70" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="350" height="40" x="50" y="250" fill="url(#c)" rx="3"/><text x="70" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Produksjonskostnader (maskiner, energi)
-  </text>
-  <text x="380" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="380" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end">
     1 500 000 kr
-  </text>
-  
-
-  <rect x="420" y="250" width="330" height="40" fill="#d32f2f" rx="3"/>
-  <text x="440" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="330" height="40" x="420" y="250" fill="#d32f2f" rx="3"/><text x="440" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     Totale varekostnader
-  </text>
-  <text x="730" y="275" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="730" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="end">
     7 000 000 kr
-  </text>
-  
-
-  <text x="400" y="320" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#666">
+  </text><text x="400" y="320" fill="#666" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     RESULTAT
-  </text>
-  
-
-  <rect x="50" y="340" width="700" height="60" fill="url(#profitGrad)" rx="5"/>
-  <text x="70" y="365" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="700" height="60" x="50" y="340" fill="url(#d)" rx="5"/><text x="70" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Bruttofortjeneste
-  </text>
-  <text x="70" y="385" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="70" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="14">
     10 000 000 - 7 000 000 =
-  </text>
-  <text x="730" y="375" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="end">
+  </text><text x="730" y="375" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="end">
     3 000 000 kr
-  </text>
-  
-
-  <rect x="200" y="420" width="400" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
-  <text x="400" y="440" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><rect width="400" height="60" x="200" y="420" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/><text x="400" y="440" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Bruttofortjenestemargin Beregning
-  </text>
-  <text x="400" y="460" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1976d2">
+  </text><text x="400" y="460" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     (3 000 000 / 10 000 000) × 100 = 30%
-  </text>
-  
-
-  <rect x="50" y="420" width="130" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="3"/>
-  <text x="115" y="440" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#e65100">
+  </text><rect width="130" height="60" x="50" y="420" fill="#fff3e0" stroke="#ff9800" rx="3"/><text x="115" y="440" fill="#e65100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Nøkkelinnsikt
-  </text>
-  <text x="115" y="455" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#bf360c">
+  </text><text x="115" y="455" fill="#bf360c" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     30% margin er
-  </text>
-  <text x="115" y="470" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#bf360c">
+  </text><text x="115" y="470" fill="#bf360c" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     solid for møbler
-  </text>
-  
-  <rect x="620" y="420" width="130" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="3"/>
-  <text x="685" y="440" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+  </text><rect width="130" height="60" x="620" y="420" fill="#e8f5e8" stroke="#4caf50" rx="3"/><text x="685" y="440" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Resultat
-  </text>
-  <text x="685" y="455" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1b5e20">
+  </text><text x="685" y="455" fill="#1b5e20" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     God lønnsomhet
-  </text>
-  <text x="685" y="470" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#1b5e20">
+  </text><text x="685" y="470" fill="#1b5e20" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     på kjernevirksomhet
-  </text>
-</svg>
+  </text></svg>

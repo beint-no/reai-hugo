@@ -1,138 +1,59 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="standardGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="specialGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8fafc"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#10b981;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fradrag for uføretrygdmottakere
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <text x="0" y="20" fill="#3b82f6" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+  </text><g transform="translate(50 70)"><text y="20" fill="#3b82f6" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
       Standardfradrag (alle skatteytere)
-    </text>
-    
-
-    <rect x="0" y="40" width="300" height="80" rx="8" fill="url(#standardGrad)" stroke="#3b82f6" stroke-width="2"/>
-    <text x="150" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><rect width="300" height="80" y="40" fill="url(#a)" stroke="#3b82f6" stroke-width="2" rx="8"/><text x="150" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Personfradrag
-    </text>
-    <text x="150" y="85" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    </text><text x="150" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       67.000 kr
-    </text>
-    <text x="150" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="150" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Standard for alle (2024)
-    </text>
-    
-
-    <rect x="0" y="140" width="300" height="80" rx="8" fill="url(#standardGrad)" stroke="#3b82f6" stroke-width="2"/>
-    <text x="150" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><rect width="300" height="80" y="140" fill="url(#a)" stroke="#3b82f6" stroke-width="2" rx="8"/><text x="150" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Minstefradrag
-    </text>
-    <text x="150" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    </text><text x="150" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       Min. 4.000 kr
-    </text>
-    <text x="150" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="150" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Som vanlig inntekt
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 70)">
-    <text x="0" y="20" fill="#059669" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    </text></g><g transform="translate(450 70)"><text y="20" fill="#059669" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
       Spesielle fradrag (uføretrygdmottakere)
-    </text>
-    
-
-    <rect x="0" y="40" width="300" height="80" rx="8" fill="url(#specialGrad)" stroke="#059669" stroke-width="2"/>
-    <text x="150" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><rect width="300" height="80" y="40" fill="url(#b)" stroke="#059669" stroke-width="2" rx="8"/><text x="150" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Uførefradrag
-    </text>
-    <text x="150" y="85" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    </text><text x="150" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       Inntil 19.000 kr
-    </text>
-    <text x="150" y="105" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="150" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Ved min. 2/3 uførhet
-    </text>
-    
-
-    <rect x="0" y="140" width="300" height="80" rx="8" fill="url(#specialGrad)" stroke="#059669" stroke-width="2"/>
-    <text x="150" y="165" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><rect width="300" height="80" y="140" fill="url(#b)" stroke="#059669" stroke-width="2" rx="8"/><text x="150" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Foreldrefradrag
-    </text>
-    <text x="150" y="185" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    </text><text x="150" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       25.000 kr
-    </text>
-    <text x="150" y="205" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="150" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Enslige forsørgere
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 280)">
-    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(50 280)"><text y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Beregningseksempel - Maksimale fradrag
-    </text>
-    
-    <rect x="0" y="40" width="700" height="160" rx="10" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
-    
-
-    <text x="20" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><rect width="700" height="160" y="40" fill="#e5e7eb" stroke="#9ca3af" rx="10"/><text x="20" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Inntekt og fradrag:
-    </text>
-    <text x="30" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="30" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       Uføretrygd: 300.000 kr
-    </text>
-    <text x="30" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="30" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       - Personfradrag: 67.000 kr
-    </text>
-    <text x="30" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="30" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       - Uførefradrag: 19.000 kr
-    </text>
-    <text x="30" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="30" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       - Minstefradrag: 4.000 kr
-    </text>
-    <text x="30" y="175" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><text x="30" y="175" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Skattbart beløp: 210.000 kr
-    </text>
-    
-
-    <text x="380" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><text x="380" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Skattebesparelse:
-    </text>
-    <text x="390" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="390" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       Totale fradrag: 90.000 kr
-    </text>
-    <text x="390" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="390" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       Skattebesparelse (22%): 19.800 kr
-    </text>
-    <text x="390" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="390" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       + Redusert trygdeavgift: 4.590 kr
-    </text>
-    <text x="390" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><text x="390" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Total årlig besparelse: 24.390 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 460)">
-    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text></g><g font-family="Arial, sans-serif"><text y="20" fill="#1f2937" font-size="16" font-weight="bold" transform="translate(50 460)">
       Uførefradrag etter uføregrad:
-    </text>
-    <text x="250" y="20" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="250" y="20" fill="#374151" font-size="14" transform="translate(50 460)">
       100% uførhet = 19.000 kr  |  80% uførhet = 15.200 kr  |  67% uførhet = 12.730 kr
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

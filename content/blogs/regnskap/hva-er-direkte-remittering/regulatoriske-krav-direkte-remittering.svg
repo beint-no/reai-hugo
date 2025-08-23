@@ -1,169 +1,35 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="norwegianGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="complianceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="euGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Regulatoriske Krav for Direkte Remittering
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#norwegianGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="340" height="220" fill="url(#b)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       🇳🇴 Norske Reguleringer
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="40" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Finanstilsynet
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• Overvåker betalingssystemer i Norge</text>
-      
-      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">• Overvåker betalingssystemer i Norge</text><rect width="300" height="40" y="50" opacity=".2" rx="5"/><text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Betalingstjenestedirektivet (PSD2)
-      </text>
-      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">• EU-regulering implementert i Norge</text>
-      
-      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="82" font-family="Arial, sans-serif" font-size="11">• EU-regulering implementert i Norge</text><rect width="300" height="40" y="100" opacity=".2" rx="5"/><text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Hvitvaskingsloven
-      </text>
-      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">• Krav til kundeidentifikasjon og overvåking</text>
-      
-      <rect x="0" y="150" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="168" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="132" font-family="Arial, sans-serif" font-size="11">• Krav til kundeidentifikasjon og overvåking</text><rect width="300" height="40" y="150" opacity=".2" rx="5"/><text x="10" y="168" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         Personvernforordningen (GDPR)
-      </text>
-      <text x="10" y="182" font-family="Arial, sans-serif" font-size="11" fill="white">• Beskyttelse av persondata i betalinger</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="340" height="220" rx="10" fill="url(#euGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="10" y="182" font-family="Arial, sans-serif" font-size="11">• Beskyttelse av persondata i betalinger</text></g></g><g transform="translate(410 80)"><rect width="340" height="220" fill="url(#c)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       🇪🇺 EU/EØS Regelverk
-    </text>
-    
-    <g transform="translate(20, 45)">
-      <rect x="0" y="0" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 45)"><rect width="300" height="40" opacity=".2" rx="5"/><text x="10" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         SEPA-reglement
-      </text>
-      <text x="10" y="32" font-family="Arial, sans-serif" font-size="11" fill="white">• Standarder for europeiske betalinger</text>
-      
-      <rect x="0" y="50" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="32" font-family="Arial, sans-serif" font-size="11">• Standarder for europeiske betalinger</text><rect width="300" height="40" y="50" opacity=".2" rx="5"/><text x="10" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         PSD2 - Strong Customer Authentication
-      </text>
-      <text x="10" y="82" font-family="Arial, sans-serif" font-size="11" fill="white">• Krav til sterk kundeautentisering</text>
-      
-      <rect x="0" y="100" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="82" font-family="Arial, sans-serif" font-size="11">• Krav til sterk kundeautentisering</text><rect width="300" height="40" y="100" opacity=".2" rx="5"/><text x="10" y="118" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         AMLD5 - Anti-Money Laundering
-      </text>
-      <text x="10" y="132" font-family="Arial, sans-serif" font-size="11" fill="white">• 5. hvitvaskingsdirektiv</text>
-      
-      <rect x="0" y="150" width="300" height="40" rx="5" fill="white" opacity="0.2"/>
-      <text x="10" y="168" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="132" font-family="Arial, sans-serif" font-size="11">• 5. hvitvaskingsdirektiv</text><rect width="300" height="40" y="150" opacity=".2" rx="5"/><text x="10" y="168" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
         SWIFT-standarder
-      </text>
-      <text x="10" y="182" font-family="Arial, sans-serif" font-size="11" fill="white">• Internasjonale meldingsstandarder</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <rect x="0" y="0" width="700" height="220" rx="10" fill="url(#complianceGradient)" opacity="0.9"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="10" y="182" font-family="Arial, sans-serif" font-size="11">• Internasjonale meldingsstandarder</text></g></g><g transform="translate(50 320)"><rect width="700" height="220" fill="url(#d)" opacity=".9" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       📋 Compliance-krav for Bedrifter
-    </text>
-    
-    <g transform="translate(30, 45)">
-
-      <rect x="0" y="0" width="160" height="150" rx="5" fill="white" opacity="0.2"/>
-      <text x="80" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(30 45)"><rect width="160" height="150" opacity=".2" rx="5"/><text x="80" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         KYC - Know Your Customer
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">Krav til identifikasjon:</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Verifisering av kundeidentitet</text>
-      <text x="10" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Dokumentasjon av eierskap</text>
-      <text x="10" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Risikovurdering av kunder</text>
-      <text x="10" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Kontinuerlig overvåking</text>
-      <text x="10" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Oppdatering av kundedata</text>
-      <text x="10" y="125" font-family="Arial, sans-serif" font-size="10" fill="white">• Rapportering til myndigheter</text>
-      <text x="10" y="140" font-family="Arial, sans-serif" font-size="10" fill="white">• Oppbevaring i 5 år</text>
-      
-
-      <rect x="170" y="0" width="160" height="150" rx="5" fill="white" opacity="0.2"/>
-      <text x="250" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="10">Krav til identifikasjon:</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="10">• Verifisering av kundeidentitet</text><text x="10" y="65" font-family="Arial, sans-serif" font-size="10">• Dokumentasjon av eierskap</text><text x="10" y="80" font-family="Arial, sans-serif" font-size="10">• Risikovurdering av kunder</text><text x="10" y="95" font-family="Arial, sans-serif" font-size="10">• Kontinuerlig overvåking</text><text x="10" y="110" font-family="Arial, sans-serif" font-size="10">• Oppdatering av kundedata</text><text x="10" y="125" font-family="Arial, sans-serif" font-size="10">• Rapportering til myndigheter</text><text x="10" y="140" font-family="Arial, sans-serif" font-size="10">• Oppbevaring i 5 år</text><rect width="160" height="150" x="170" opacity=".2" rx="5"/><text x="250" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         AML - Anti-Money Laundering
-      </text>
-      <text x="180" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">Overvåking av transaksjoner:</text>
-      <text x="180" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Mistenkelige transaksjoner</text>
-      <text x="180" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Uvanlige betalingsmønstre</text>
-      <text x="180" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Høyrisiko-jurisdiksjoner</text>
-      <text x="180" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Automatisk flagging</text>
-      <text x="180" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Rapportering til ØKOKRIM</text>
-      <text x="180" y="125" font-family="Arial, sans-serif" font-size="10" fill="white">• Intern rapportering</text>
-      <text x="180" y="140" font-family="Arial, sans-serif" font-size="10" fill="white">• Risikobasert tilnærming</text>
-      
-
-      <rect x="340" y="0" width="160" height="150" rx="5" fill="white" opacity="0.2"/>
-      <text x="420" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="180" y="35" font-family="Arial, sans-serif" font-size="10">Overvåking av transaksjoner:</text><text x="180" y="50" font-family="Arial, sans-serif" font-size="10">• Mistenkelige transaksjoner</text><text x="180" y="65" font-family="Arial, sans-serif" font-size="10">• Uvanlige betalingsmønstre</text><text x="180" y="80" font-family="Arial, sans-serif" font-size="10">• Høyrisiko-jurisdiksjoner</text><text x="180" y="95" font-family="Arial, sans-serif" font-size="10">• Automatisk flagging</text><text x="180" y="110" font-family="Arial, sans-serif" font-size="10">• Rapportering til ØKOKRIM</text><text x="180" y="125" font-family="Arial, sans-serif" font-size="10">• Intern rapportering</text><text x="180" y="140" font-family="Arial, sans-serif" font-size="10">• Risikobasert tilnærming</text><rect width="160" height="150" x="340" opacity=".2" rx="5"/><text x="420" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Rapportering
-      </text>
-      <text x="350" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">Obligatorisk rapportering:</text>
-      <text x="350" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Månedlige rapporter til bank</text>
-      <text x="350" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Årlige compliance-rapporter</text>
-      <text x="350" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Hendelsesrapportering</text>
-      <text x="350" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Revisjonsrapporter</text>
-      <text x="350" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Risikovurderinger</text>
-      <text x="350" y="125" font-family="Arial, sans-serif" font-size="10" fill="white">• Systemendringer</text>
-      <text x="350" y="140" font-family="Arial, sans-serif" font-size="10" fill="white">• Brudd på regelverk</text>
-      
-
-      <rect x="510" y="0" width="160" height="150" rx="5" fill="white" opacity="0.2"/>
-      <text x="590" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="350" y="35" font-family="Arial, sans-serif" font-size="10">Obligatorisk rapportering:</text><text x="350" y="50" font-family="Arial, sans-serif" font-size="10">• Månedlige rapporter til bank</text><text x="350" y="65" font-family="Arial, sans-serif" font-size="10">• Årlige compliance-rapporter</text><text x="350" y="80" font-family="Arial, sans-serif" font-size="10">• Hendelsesrapportering</text><text x="350" y="95" font-family="Arial, sans-serif" font-size="10">• Revisjonsrapporter</text><text x="350" y="110" font-family="Arial, sans-serif" font-size="10">• Risikovurderinger</text><text x="350" y="125" font-family="Arial, sans-serif" font-size="10">• Systemendringer</text><text x="350" y="140" font-family="Arial, sans-serif" font-size="10">• Brudd på regelverk</text><rect width="160" height="150" x="510" opacity=".2" rx="5"/><text x="590" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Dokumentasjon
-      </text>
-      <text x="520" y="35" font-family="Arial, sans-serif" font-size="10" fill="white">Oppbevaring av data:</text>
-      <text x="520" y="50" font-family="Arial, sans-serif" font-size="10" fill="white">• Alle transaksjonsdata</text>
-      <text x="520" y="65" font-family="Arial, sans-serif" font-size="10" fill="white">• Kundeidentifikasjon</text>
-      <text x="520" y="80" font-family="Arial, sans-serif" font-size="10" fill="white">• Autorisasjonslogger</text>
-      <text x="520" y="95" font-family="Arial, sans-serif" font-size="10" fill="white">• Kommunikasjon med banker</text>
-      <text x="520" y="110" font-family="Arial, sans-serif" font-size="10" fill="white">• Risikovurderinger</text>
-      <text x="520" y="125" font-family="Arial, sans-serif" font-size="10" fill="white">• Minimum 5 års oppbevaring</text>
-      <text x="520" y="140" font-family="Arial, sans-serif" font-size="10" fill="white">• Sikker lagring påkrevd</text>
-    </g>
-  </g>
-  
-
-  <rect x="50" y="560" width="700" height="30" rx="5" fill="#333" opacity="0.8"/>
-  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="520" y="35" font-family="Arial, sans-serif" font-size="10">Oppbevaring av data:</text><text x="520" y="50" font-family="Arial, sans-serif" font-size="10">• Alle transaksjonsdata</text><text x="520" y="65" font-family="Arial, sans-serif" font-size="10">• Kundeidentifikasjon</text><text x="520" y="80" font-family="Arial, sans-serif" font-size="10">• Autorisasjonslogger</text><text x="520" y="95" font-family="Arial, sans-serif" font-size="10">• Kommunikasjon med banker</text><text x="520" y="110" font-family="Arial, sans-serif" font-size="10">• Risikovurderinger</text><text x="520" y="125" font-family="Arial, sans-serif" font-size="10">• Minimum 5 års oppbevaring</text><text x="520" y="140" font-family="Arial, sans-serif" font-size="10">• Sikker lagring påkrevd</text></g></g><rect width="700" height="30" x="50" y="560" fill="#333" opacity=".8" rx="5"/><text x="400" y="580" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Overholdelse av regulatoriske krav er avgjørende for lovlig og sikker bruk av direkte remittering
-  </text>
-</svg>
+  </text></svg>

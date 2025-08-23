@@ -1,92 +1,23 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Hva er likviditetsbudsjett?
-  </text>
-  
-
-  <rect x="50" y="120" width="700" height="240" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
-  
-
-  <g transform="translate(100, 150)">
-
-    <rect x="0" y="0" width="120" height="60" fill="#28a745" rx="5"/>
-    <text x="60" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="700" height="240" x="50" y="120" fill="#fff" stroke="#dee2e6" rx="8"/><g transform="translate(100 150)"><rect width="120" height="60" fill="#28a745" rx="5"/><text x="60" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       INNBETALINGER
-    </text>
-    <text x="60" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    </text><text x="60" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Kontantinnstrøm
-    </text>
-    
-
-    <path d="M 130 30 L 170 30" stroke="#6c757d" stroke-width="3" marker-end="url(#arrowhead)"/>
-    
-
-    <rect x="180" y="0" width="120" height="60" fill="#007bff" rx="5"/>
-    <text x="240" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="M130 30h40"/><rect width="120" height="60" x="180" fill="#007bff" rx="5"/><text x="240" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       KONTANTBALANSE
-    </text>
-    <text x="240" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    </text><text x="240" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Likviditet
-    </text>
-    
-
-    <path d="M 310 30 L 350 30" stroke="#6c757d" stroke-width="3" marker-end="url(#arrowhead)"/>
-    
-
-    <rect x="360" y="0" width="120" height="60" fill="#dc3545" rx="5"/>
-    <text x="420" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+    </text><path stroke="#6c757d" stroke-width="3" marker-end="url(#c)" d="M310 30h40"/><rect width="120" height="60" x="360" fill="#dc3545" rx="5"/><text x="420" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       UTBETALINGER
-    </text>
-    <text x="420" y="40" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    </text><text x="420" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       Kontantutstrøm
-    </text>
-  </g>
-  
-
-  <g transform="translate(100, 240)">
-    <circle cx="60" cy="30" r="25" fill="#ffc107" stroke="#e0a800" stroke-width="2"/>
-    <text x="60" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#212529">
+    </text></g><g transform="translate(100 240)"><circle cx="60" cy="30" r="25" fill="#ffc107" stroke="#e0a800" stroke-width="2"/><text x="60" y="35" fill="#212529" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       PLANLEGGING
-    </text>
-    
-    <circle cx="240" cy="30" r="25" fill="#17a2b8" stroke="#138496" stroke-width="2"/>
-    <text x="240" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">
+    </text><circle cx="240" cy="30" r="25" fill="#17a2b8" stroke="#138496" stroke-width="2"/><text x="240" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       KONTROLL
-    </text>
-    
-    <circle cx="420" cy="30" r="25" fill="#6f42c1" stroke="#5a32a3" stroke-width="2"/>
-    <text x="420" y="35" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">
+    </text><circle cx="420" cy="30" r="25" fill="#6f42c1" stroke="#5a32a3" stroke-width="2"/><text x="420" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
       OPTIMERING
-    </text>
-  </g>
-  
-
-  <text x="400" y="385" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+    </text></g><text x="400" y="385" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Systematisk planlegging og styring av kontantstrømmer
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

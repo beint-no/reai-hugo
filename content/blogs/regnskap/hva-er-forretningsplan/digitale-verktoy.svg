@@ -1,168 +1,17 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Digitale Verktøy for Forretningsplanlegging
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="200" height="120" fill="#e8f5e8" stroke="#28a745" stroke-width="3" rx="10"/>
-    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><g transform="translate(50 80)"><rect width="200" height="120" fill="#e8f5e8" stroke="#28a745" stroke-width="3" rx="10"/><text x="100" y="25" fill="#155724" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       ERP-systemer
-    </text>
-    
-    <g transform="translate(15, 45)">
-      <circle cx="6" cy="6" r="4" fill="#28a745"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#155724">Integrert planlegging</text>
-    </g>
-    <g transform="translate(15, 65)">
-      <circle cx="6" cy="6" r="4" fill="#28a745"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#155724">Sanntidsrapportering</text>
-    </g>
-    <g transform="translate(15, 85)">
-      <circle cx="6" cy="6" r="4" fill="#28a745"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#155724">Automatisk oppdatering</text>
-    </g>
-    <g transform="translate(15, 105)">
-      <circle cx="6" cy="6" r="4" fill="#28a745"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#155724">Dashboard-visning</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(300, 80)">
-    <rect x="0" y="0" width="200" height="120" fill="#d1ecf1" stroke="#17a2b8" stroke-width="3" rx="10"/>
-    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0c5460">
+    </text><g transform="translate(15 45)"><circle cx="6" cy="6" r="4" fill="#28a745"/><text x="15" y="10" fill="#155724" font-family="Arial, sans-serif" font-size="10">Integrert planlegging</text></g><g transform="translate(15 65)"><circle cx="6" cy="6" r="4" fill="#28a745"/><text x="15" y="10" fill="#155724" font-family="Arial, sans-serif" font-size="10">Sanntidsrapportering</text></g><g transform="translate(15 85)"><circle cx="6" cy="6" r="4" fill="#28a745"/><text x="15" y="10" fill="#155724" font-family="Arial, sans-serif" font-size="10">Automatisk oppdatering</text></g><g transform="translate(15 105)"><circle cx="6" cy="6" r="4" fill="#28a745"/><text x="15" y="10" fill="#155724" font-family="Arial, sans-serif" font-size="10">Dashboard-visning</text></g></g><g transform="translate(300 80)"><rect width="200" height="120" fill="#d1ecf1" stroke="#17a2b8" stroke-width="3" rx="10"/><text x="100" y="25" fill="#0c5460" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Skybaserte Løsninger
-    </text>
-    
-    <g transform="translate(15, 45)">
-      <circle cx="6" cy="6" r="4" fill="#17a2b8"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">Tilgang overalt</text>
-    </g>
-    <g transform="translate(15, 65)">
-      <circle cx="6" cy="6" r="4" fill="#17a2b8"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">Samarbeid i sanntid</text>
-    </g>
-    <g transform="translate(15, 85)">
-      <circle cx="6" cy="6" r="4" fill="#17a2b8"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">Automatisk backup</text>
-    </g>
-    <g transform="translate(15, 105)">
-      <circle cx="6" cy="6" r="4" fill="#17a2b8"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#0c5460">Versjonskontroll</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(550, 80)">
-    <rect x="0" y="0" width="200" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="3" rx="10"/>
-    <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#856404">
+    </text><g transform="translate(15 45)"><circle cx="6" cy="6" r="4" fill="#17a2b8"/><text x="15" y="10" fill="#0c5460" font-family="Arial, sans-serif" font-size="10">Tilgang overalt</text></g><g transform="translate(15 65)"><circle cx="6" cy="6" r="4" fill="#17a2b8"/><text x="15" y="10" fill="#0c5460" font-family="Arial, sans-serif" font-size="10">Samarbeid i sanntid</text></g><g transform="translate(15 85)"><circle cx="6" cy="6" r="4" fill="#17a2b8"/><text x="15" y="10" fill="#0c5460" font-family="Arial, sans-serif" font-size="10">Automatisk backup</text></g><g transform="translate(15 105)"><circle cx="6" cy="6" r="4" fill="#17a2b8"/><text x="15" y="10" fill="#0c5460" font-family="Arial, sans-serif" font-size="10">Versjonskontroll</text></g></g><g transform="translate(550 80)"><rect width="200" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="3" rx="10"/><text x="100" y="25" fill="#856404" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       AI og Automatisering
-    </text>
-    
-    <g transform="translate(15, 45)">
-      <circle cx="6" cy="6" r="4" fill="#ffc107"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#856404">Prognoseverktøy</text>
-    </g>
-    <g transform="translate(15, 65)">
-      <circle cx="6" cy="6" r="4" fill="#ffc107"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#856404">Trendanalyse</text>
-    </g>
-    <g transform="translate(15, 85)">
-      <circle cx="6" cy="6" r="4" fill="#ffc107"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#856404">Scenariomodellering</text>
-    </g>
-    <g transform="translate(15, 105)">
-      <circle cx="6" cy="6" r="4" fill="#ffc107"/>
-      <text x="15" y="10" font-family="Arial, sans-serif" font-size="10" fill="#856404">Regnskapsautomatisering</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 240)">
-    <rect x="0" y="0" width="700" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-    <text x="350" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#212529">
+    </text><g transform="translate(15 45)"><circle cx="6" cy="6" r="4" fill="#ffc107"/><text x="15" y="10" fill="#856404" font-family="Arial, sans-serif" font-size="10">Prognoseverktøy</text></g><g transform="translate(15 65)"><circle cx="6" cy="6" r="4" fill="#ffc107"/><text x="15" y="10" fill="#856404" font-family="Arial, sans-serif" font-size="10">Trendanalyse</text></g><g transform="translate(15 85)"><circle cx="6" cy="6" r="4" fill="#ffc107"/><text x="15" y="10" fill="#856404" font-family="Arial, sans-serif" font-size="10">Scenariomodellering</text></g><g transform="translate(15 105)"><circle cx="6" cy="6" r="4" fill="#ffc107"/><text x="15" y="10" fill="#856404" font-family="Arial, sans-serif" font-size="10">Regnskapsautomatisering</text></g></g><g transform="translate(50 240)"><rect width="700" height="140" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="350" y="25" fill="#212529" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Integrert Digital Økosystem
-    </text>
-    
-
-    <g transform="translate(325, 60)">
-      <circle cx="25" cy="25" r="25" fill="#0066cc" stroke="#003366" stroke-width="2"/>
-      <text x="25" y="20" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="white">
+    </text><g transform="translate(325 60)"><circle cx="25" cy="25" r="25" fill="#06c" stroke="#036" stroke-width="2"/><text x="25" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">
         Digital
-      </text>
-      <text x="25" y="32" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="white">
+      </text><text x="25" y="32" fill="#fff" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">
         Platform
-      </text>
-    </g>
-    
-
-    <g transform="translate(100, 60)">
-      <rect x="0" y="0" width="80" height="30" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="5"/>
-      <text x="40" y="18" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#155724">Planlegging</text>
-    </g>
-    
-    <g transform="translate(220, 60)">
-      <rect x="0" y="0" width="80" height="30" fill="#d1ecf1" stroke="#17a2b8" stroke-width="1" rx="5"/>
-      <text x="40" y="18" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#0c5460">Regnskap</text>
-    </g>
-    
-    <g transform="translate(420, 60)">
-      <rect x="0" y="0" width="80" height="30" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
-      <text x="40" y="18" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#856404">Analyse</text>
-    </g>
-    
-    <g transform="translate(540, 60)">
-      <rect x="0" y="0" width="80" height="30" fill="#f8d7da" stroke="#dc3545" stroke-width="1" rx="5"/>
-      <text x="40" y="18" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#721c24">Rapportering</text>
-    </g>
-    
-
-    <line x1="180" y1="75" x2="300" y2="75" stroke="#6c757d" stroke-width="2"/>
-    <line x1="300" y1="75" x2="325" y2="75" stroke="#6c757d" stroke-width="2"/>
-    <line x1="375" y1="75" x2="420" y2="75" stroke="#6c757d" stroke-width="2"/>
-    <line x1="500" y1="75" x2="540" y2="75" stroke="#6c757d" stroke-width="2"/>
-    
-
-    <g transform="translate(50, 110)">
-      <text x="300" y="0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+      </text></g><g transform="translate(100 60)"><rect width="80" height="30" fill="#e8f5e8" stroke="#28a745" rx="5"/><text x="40" y="18" fill="#155724" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Planlegging</text></g><g transform="translate(220 60)"><rect width="80" height="30" fill="#d1ecf1" stroke="#17a2b8" rx="5"/><text x="40" y="18" fill="#0c5460" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Regnskap</text></g><g transform="translate(420 60)"><rect width="80" height="30" fill="#fff3cd" stroke="#ffc107" rx="5"/><text x="40" y="18" fill="#856404" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Analyse</text></g><g transform="translate(540 60)"><rect width="80" height="30" fill="#f8d7da" stroke="#dc3545" rx="5"/><text x="40" y="18" fill="#721c24" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">Rapportering</text></g><path stroke="#6c757d" stroke-width="2" d="M180 75h120M300 75h25M375 75h45M500 75h40"/><text x="300" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 110)">
         Fordeler ved Digital Integrasjon
-      </text>
-      
-      <g transform="translate(0, 20)">
-        <circle cx="8" cy="8" r="6" fill="#28a745"/>
-        <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
-        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#495057">Redusert manuelt arbeid</text>
-      </g>
-      
-      <g transform="translate(150, 20)">
-        <circle cx="8" cy="8" r="6" fill="#28a745"/>
-        <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
-        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#495057">Økt nøyaktighet</text>
-      </g>
-      
-      <g transform="translate(280, 20)">
-        <circle cx="8" cy="8" r="6" fill="#28a745"/>
-        <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
-        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#495057">Bedre beslutningsgrunnlag</text>
-      </g>
-      
-      <g transform="translate(450, 20)">
-        <circle cx="8" cy="8" r="6" fill="#28a745"/>
-        <path d="M5,8 L7,10 L11,6" stroke="white" stroke-width="1.5" fill="none"/>
-        <text x="20" y="12" font-family="Arial, sans-serif" font-size="10" fill="#495057">Raskere rapportering</text>
-      </g>
-    </g>
-  </g>
-</svg>
+      </text><g transform="translate(50 130)"><circle cx="8" cy="8" r="6" fill="#28a745"/><path fill="none" stroke="#fff" stroke-width="1.5" d="m5 8 2 2 4-4"/><text x="20" y="12" fill="#495057" font-family="Arial, sans-serif" font-size="10">Redusert manuelt arbeid</text></g><g transform="translate(200 130)"><circle cx="8" cy="8" r="6" fill="#28a745"/><path fill="none" stroke="#fff" stroke-width="1.5" d="m5 8 2 2 4-4"/><text x="20" y="12" fill="#495057" font-family="Arial, sans-serif" font-size="10">Økt nøyaktighet</text></g><g transform="translate(330 130)"><circle cx="8" cy="8" r="6" fill="#28a745"/><path fill="none" stroke="#fff" stroke-width="1.5" d="m5 8 2 2 4-4"/><text x="20" y="12" fill="#495057" font-family="Arial, sans-serif" font-size="10">Bedre beslutningsgrunnlag</text></g><g transform="translate(500 130)"><circle cx="8" cy="8" r="6" fill="#28a745"/><path fill="none" stroke="#fff" stroke-width="1.5" d="m5 8 2 2 4-4"/><text x="20" y="12" fill="#495057" font-family="Arial, sans-serif" font-size="10">Raskere rapportering</text></g></g></svg>

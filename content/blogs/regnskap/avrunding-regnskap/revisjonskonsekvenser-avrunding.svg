@@ -1,80 +1,35 @@
-<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="600" height="400" fill="#f8f9fa"/>
-  
-
-  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400"><path fill="#f8f9fa" d="M0 0h600v400H0z"/><text x="300" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Revisjonskonsekvenser av Avrunding
-  </text>
-  
-
-  <rect x="50" y="60" width="500" height="320" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
-  
-
-  <rect x="70" y="80" width="460" height="40" fill="#34495e"/>
-  <text x="300" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="500" height="320" x="50" y="60" fill="#fff" stroke="#2c3e50" stroke-width="2" rx="10"/><path fill="#34495e" d="M70 80h460v40H70z"/><text x="300" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     VESENTLIGHETSGRENSER FOR AVRUNDINGSDIFFERANSER
-  </text>
-  
-
-  <rect x="70" y="120" width="230" height="30" fill="#3498db" opacity="0.8"/>
-  <rect x="300" y="120" width="230" height="30" fill="#3498db" opacity="0.8"/>
-  <text x="185" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><path fill="#3498db" d="M70 120h230v30H70zM300 120h230v30H300z" opacity=".8"/><text x="185" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Vesentlighetsgrense
-  </text>
-  <text x="415" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="415" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Revisorens Handling
-  </text>
-  
-
-  <rect x="70" y="150" width="460" height="40" fill="#2ecc71" opacity="0.2"/>
-  <text x="90" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><path fill="#2ecc71" d="M70 150h460v40H70z" opacity=".2"/><text x="90" y="170" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Under 0,5% av omsetning
-  </text>
-  <text x="320" y="165" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="165" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✓ Akseptabel differanse
-  </text>
-  <text x="320" y="180" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="180" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✓ Ingen ytterligere tiltak
-  </text>
-  
-
-  <rect x="70" y="190" width="460" height="40" fill="#f39c12" opacity="0.2"/>
-  <text x="90" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><path fill="#f39c12" d="M70 190h460v40H70z" opacity=".2"/><text x="90" y="210" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     0,5-1% av omsetning
-  </text>
-  <text x="320" y="205" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="205" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ⚠ Nærmere vurdering påkrevd
-  </text>
-  <text x="320" y="220" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="220" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ⚠ Dokumenter årsak og vurdering
-  </text>
-  
-
-  <rect x="70" y="230" width="460" height="40" fill="#e74c3c" opacity="0.2"/>
-  <text x="90" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">
+  </text><path fill="#e74c3c" d="M70 230h460v40H70z" opacity=".2"/><text x="90" y="250" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Over 1% av omsetning
-  </text>
-  <text x="320" y="245" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="245" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✗ Krever justering
-  </text>
-  <text x="320" y="260" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="260" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     ✗ Kan påvirke revisjonsuttalelse
-  </text>
-  
-
-  <rect x="70" y="290" width="460" height="80" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1" rx="5"/>
-  <text x="300" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><rect width="460" height="80" x="70" y="290" fill="#ecf0f1" stroke="#bdc3c7" rx="5"/><text x="300" y="310" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     REVISORENS ANSVAR VED AVRUNDING
-  </text>
-  
-  <text x="90" y="330" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="90" y="330" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Kontrollere at avrundingsprinsipper er konsistente og korrekt anvendt
-  </text>
-  <text x="90" y="345" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="90" y="345" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Sikre at avrundingsdifferanser er innenfor vesentlighetsgrenser
-  </text>
-  <text x="90" y="360" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="90" y="360" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Vurdere om avrunding påvirker regnskapets rettvisende bilde
-  </text>
-</svg>
+  </text></svg>

@@ -1,169 +1,69 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="centerGrad" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </radialGradient>
-    <linearGradient id="smbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="konsernGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="ideellGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#17a2b8;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#138496;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="offentligGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:.8"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:.8"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#17a2b8;stop-opacity:.8"/><stop offset="100%" style="stop-color:#138496;stop-opacity:.8"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:.8"/><stop offset="100%" style="stop-color:#5a32a3;stop-opacity:.8"/></linearGradient><radialGradient id="a" cx="50%" cy="50%" r="50%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></radialGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     NRS Anvendelsesområde
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="url(#centerGrad)"/>
-  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="300" r="80" fill="url(#a)"/><text x="400" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     NRS
-  </text>
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#e9ecef">
+  </text><text x="400" y="310" fill="#e9ecef" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Norsk regnskaps-
-  </text>
-  <text x="400" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#e9ecef">
+  </text><text x="400" y="325" fill="#e9ecef" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     standard
-  </text>
-  
-
-  <ellipse cx="200" cy="150" rx="120" ry="80" fill="url(#smbGrad)" stroke="#28a745" stroke-width="2"/>
-  <text x="200" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><ellipse cx="200" cy="150" fill="url(#b)" stroke="#28a745" stroke-width="2" rx="120" ry="80"/><text x="200" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Små og mellomstore
-  </text>
-  <text x="200" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><text x="200" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     bedrifter (SMB)
-  </text>
-  <text x="200" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="200" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Ikke-børsnoterte
-  </text>
-  <text x="200" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="200" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Lokale virksomheter
-  </text>
-  
-
-  <ellipse cx="600" cy="150" rx="120" ry="80" fill="url(#konsernGrad)" stroke="#ffc107" stroke-width="2"/>
-  <text x="600" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><ellipse cx="600" cy="150" fill="url(#c)" stroke="#ffc107" stroke-width="2" rx="120" ry="80"/><text x="600" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Norske konsern
-  </text>
-  <text x="600" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Ikke pålagt IFRS
-  </text>
-  <text x="600" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Datterselskaper
-  </text>
-  <text x="600" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Morselskaper
-  </text>
-  
-
-  <ellipse cx="200" cy="450" rx="120" ry="80" fill="url(#ideellGrad)" stroke="#17a2b8" stroke-width="2"/>
-  <text x="200" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><ellipse cx="200" cy="450" fill="url(#d)" stroke="#17a2b8" stroke-width="2" rx="120" ry="80"/><text x="200" y="435" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Ideelle
-  </text>
-  <text x="200" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><text x="200" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     organisasjoner
-  </text>
-  <text x="200" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="200" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Stiftelser
-  </text>
-  <text x="200" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="200" y="490" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Foreninger
-  </text>
-  
-
-  <ellipse cx="600" cy="450" rx="120" ry="80" fill="url(#offentligGrad)" stroke="#6f42c1" stroke-width="2"/>
-  <text x="600" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><ellipse cx="600" cy="450" fill="url(#e)" stroke="#6f42c1" stroke-width="2" rx="120" ry="80"/><text x="600" y="435" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Offentlig sektor
-  </text>
-  <text x="600" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Kommunale foretak
-  </text>
-  <text x="600" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Fylkeskommunale
-  </text>
-  <text x="600" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="600" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Statsforetak
-  </text>
-  
-
-  <line x1="280" y1="200" x2="340" y2="250" stroke="#666" stroke-width="2"/>
-  <line x1="520" y1="200" x2="460" y2="250" stroke="#666" stroke-width="2"/>
-  <line x1="280" y1="400" x2="340" y2="350" stroke="#666" stroke-width="2"/>
-  <line x1="520" y1="400" x2="460" y2="350" stroke="#666" stroke-width="2"/>
-  
-
-  <rect x="50" y="50" width="200" height="120" fill="white" stroke="#28a745" stroke-width="2" rx="8"/>
-  <text x="150" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+  </text><path stroke="#666" stroke-width="2" d="m280 200 60 50M520 200l-60 50M280 400l60-50M520 400l-60-50"/><rect width="200" height="120" x="50" y="50" fill="#fff" stroke="#28a745" stroke-width="2" rx="8"/><text x="150" y="75" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Obligatorisk/Anbefalt
-  </text>
-  <text x="60" y="95" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="60" y="95" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • SMB (anbefalt)
-  </text>
-  <text x="60" y="110" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="60" y="110" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Ideelle organisasjoner
-  </text>
-  <text x="60" y="125" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="60" y="125" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Kommunale foretak
-  </text>
-  <text x="60" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="60" y="140" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Ikke-børsnoterte konsern
-  </text>
-  
-  <rect x="550" y="50" width="200" height="120" fill="white" stroke="#ffc107" stroke-width="2" rx="8"/>
-  <text x="650" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e0a800">
+  </text><rect width="200" height="120" x="550" y="50" fill="#fff" stroke="#ffc107" stroke-width="2" rx="8"/><text x="650" y="75" fill="#e0a800" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Valgfritt
-  </text>
-  <text x="560" y="95" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="560" y="95" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Store ikke-børsnoterte
-  </text>
-  <text x="560" y="110" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="560" y="110" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Datterselskaper av
-  </text>
-  <text x="560" y="125" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="560" y="125" fill="#333" font-family="Arial, sans-serif" font-size="12">
       utenlandske selskaper
-  </text>
-  <text x="560" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="560" y="140" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Mikrobedrifter
-  </text>
-  
-
-  <rect x="300" y="500" width="200" height="80" fill="white" stroke="#dc3545" stroke-width="2" rx="8"/>
-  <text x="400" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
+  </text><rect width="200" height="80" x="300" y="500" fill="#fff" stroke="#dc3545" stroke-width="2" rx="8"/><text x="400" y="525" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ikke tillatt
-  </text>
-  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="400" y="545" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Børsnoterte selskaper
-  </text>
-  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="400" y="560" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     (må bruke IFRS)
-  </text>
-  
-
-  <rect x="50" y="500" width="180" height="80" fill="#f0f0f0" stroke="#ccc" stroke-width="1" rx="4"/>
-  <text x="140" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+  </text><rect width="180" height="80" x="50" y="500" fill="#f0f0f0" stroke="#ccc" rx="4"/><text x="140" y="520" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Anvendelsesstatus
-  </text>
-  <circle cx="65" cy="535" r="5" fill="#28a745"/>
-  <text x="80" y="540" font-family="Arial, sans-serif" font-size="10" fill="#666">Obligatorisk/Anbefalt</text>
-  <circle cx="65" cy="550" r="5" fill="#ffc107"/>
-  <text x="80" y="555" font-family="Arial, sans-serif" font-size="10" fill="#666">Valgfritt</text>
-  <circle cx="65" cy="565" r="5" fill="#dc3545"/>
-  <text x="80" y="570" font-family="Arial, sans-serif" font-size="10" fill="#666">Ikke tillatt</text>
-</svg>
+  </text><circle cx="65" cy="535" r="5" fill="#28a745"/><text x="80" y="540" fill="#666" font-family="Arial, sans-serif" font-size="10">Obligatorisk/Anbefalt</text><circle cx="65" cy="550" r="5" fill="#ffc107"/><text x="80" y="555" fill="#666" font-family="Arial, sans-serif" font-size="10">Valgfritt</text><circle cx="65" cy="565" r="5" fill="#dc3545"/><text x="80" y="570" fill="#666" font-family="Arial, sans-serif" font-size="10">Ikke tillatt</text></svg>

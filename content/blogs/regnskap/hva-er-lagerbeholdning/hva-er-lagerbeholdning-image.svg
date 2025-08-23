@@ -1,96 +1,15 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="boxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:.8"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:.8"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v400H0z"/><text x="400" y="60" fill="#212529" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">
     Hva er lagerbeholdning?
-  </text>
-  
-
-  <g transform="translate(50, 100)">
-
-    <rect x="0" y="50" width="200" height="120" fill="#6c757d" stroke="#495057" stroke-width="2"/>
-    <polygon points="0,50 100,10 200,50" fill="#495057"/>
-    
-
-    <rect x="80" y="120" width="40" height="50" fill="#343a40"/>
-    
-
-    <rect x="20" y="80" width="25" height="20" fill="#adb5bd"/>
-    <rect x="155" y="80" width="25" height="20" fill="#adb5bd"/>
-  </g>
-  
-
-  <g transform="translate(300, 120)">
-
-    <rect x="0" y="60" width="40" height="30" fill="url(#boxGradient)" stroke="#0056b3" stroke-width="1"/>
-    <rect x="0" y="30" width="40" height="30" fill="url(#boxGradient)" stroke="#0056b3" stroke-width="1"/>
-    <rect x="0" y="0" width="40" height="30" fill="url(#boxGradient)" stroke="#0056b3" stroke-width="1"/>
-    
-
-    <rect x="60" y="45" width="40" height="30" fill="url(#boxGradient)" stroke="#0056b3" stroke-width="1"/>
-    <rect x="60" y="15" width="40" height="30" fill="url(#boxGradient)" stroke="#0056b3" stroke-width="1"/>
-    
-
-    <rect x="120" y="75" width="40" height="30" fill="url(#boxGradient)" stroke="#0056b3" stroke-width="1"/>
-    <rect x="120" y="45" width="40" height="30" fill="url(#boxGradient)" stroke="#0056b3" stroke-width="1"/>
-    <rect x="120" y="15" width="40" height="30" fill="url(#boxGradient)" stroke="#0056b3" stroke-width="1"/>
-  </g>
-  
-
-  <g transform="translate(550, 120)">
-
-    <rect x="0" y="0" width="180" height="120" fill="white" stroke="#dee2e6" stroke-width="2"/>
-    
-
-    <rect x="20" y="80" width="25" height="30" fill="#28a745"/>
-    <rect x="55" y="60" width="25" height="50" fill="#ffc107"/>
-    <rect x="90" y="40" width="25" height="70" fill="#dc3545"/>
-    <rect x="125" y="70" width="25" height="40" fill="#17a2b8"/>
-    
-
-    <text x="90" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><path fill="#6c757d" stroke="#495057" stroke-width="2" d="M50 150h200v120H50z"/><path fill="#495057" d="m50 150 100-40 100 40z"/><path fill="#343a40" d="M130 220h40v50h-40z"/><path fill="#adb5bd" d="M70 180h25v20H70zM205 180h25v20h-25z"/><g fill="url(#b)" stroke="#0056b3" transform="translate(300 120)"><path d="M0 60h40v30H0z"/><path d="M0 30h40v30H0z"/><path d="M0 0h40v30H0z"/><path d="M60 45h40v30H60z"/><path d="M60 15h40v30H60z"/><path d="M120 75h40v30h-40z"/><path d="M120 45h40v30h-40z"/><path d="M120 15h40v30h-40z"/></g><path fill="#fff" stroke="#dee2e6" stroke-width="2" d="M550 120h180v120H550z"/><path fill="#28a745" d="M570 200h25v30h-25z"/><path fill="#ffc107" d="M605 180h25v50h-25z"/><path fill="#dc3545" d="M640 160h25v70h-25z"/><path fill="#17a2b8" d="M675 190h25v40h-25z"/><text x="90" y="15" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="translate(550 120)">
       Lagerverdi
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 280)">
-    <circle cx="15" cy="15" r="8" fill="#28a745"/>
-    <text x="35" y="20" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+    </text><g transform="translate(50 280)"><circle cx="15" cy="15" r="8" fill="#28a745"/><text x="35" y="20" fill="#495057" font-family="Arial, sans-serif" font-size="14">
       Verdivurdering
-    </text>
-    
-    <circle cx="180" cy="15" r="8" fill="#ffc107"/>
-    <text x="200" y="20" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+    </text><circle cx="180" cy="15" r="8" fill="#ffc107"/><text x="200" y="20" fill="#495057" font-family="Arial, sans-serif" font-size="14">
       Lagerstyring
-    </text>
-    
-    <circle cx="320" cy="15" r="8" fill="#dc3545"/>
-    <text x="340" y="20" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+    </text><circle cx="320" cy="15" r="8" fill="#dc3545"/><text x="340" y="20" fill="#495057" font-family="Arial, sans-serif" font-size="14">
       Regnskapsføring
-    </text>
-    
-    <circle cx="480" cy="15" r="8" fill="#17a2b8"/>
-    <text x="500" y="20" font-family="Arial, sans-serif" font-size="14" fill="#495057">
+    </text><circle cx="480" cy="15" r="8" fill="#17a2b8"/><text x="500" y="20" fill="#495057" font-family="Arial, sans-serif" font-size="14">
       Optimalisering
-    </text>
-  </g>
-  
-
-  <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6c757d">
+    </text></g><text x="400" y="350" fill="#6c757d" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Komplett guide til lagerstyring og verdivurdering
-  </text>
-</svg>
+  </text></svg>

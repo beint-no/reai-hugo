@@ -1,251 +1,81 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="erpGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blockchainGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#495057">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1"/><stop offset="100%" style="stop-color:#5a32a3;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#495057" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Digitalisering og Fremtidige Trender
-  </text>
-  
-
-  <rect x="50" y="80" width="320" height="150" rx="15" fill="white" stroke="#007bff" stroke-width="3"/>
-  <rect x="50" y="80" width="320" height="50" rx="15" fill="url(#erpGradient)"/>
-  <text x="210" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="150" x="50" y="80" fill="#fff" stroke="#007bff" stroke-width="3" rx="15"/><rect width="320" height="50" x="50" y="80" fill="url(#b)" rx="15"/><text x="210" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Automatiserte ERP-systemer
-  </text>
-  
-
-  <rect x="80" y="140" width="50" height="30" rx="5" fill="#007bff"/>
-  <rect x="85" y="145" width="40" height="20" rx="3" fill="white"/>
-  <circle cx="90" cy="150" r="2" fill="#28a745"/>
-  <circle cx="95" cy="150" r="2" fill="#ffc107"/>
-  <circle cx="100" cy="150" r="2" fill="#dc3545"/>
-  <rect x="85" y="160" width="8" height="2" fill="#6c757d"/>
-  <rect x="95" y="160" width="12" height="2" fill="#6c757d"/>
-  <rect x="110" y="160" width="10" height="2" fill="#6c757d"/>
-  <rect x="85" y="165" width="15" height="2" fill="#6c757d"/>
-  
-  <text x="140" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="50" height="30" x="80" y="140" fill="#007bff" rx="5"/><rect width="40" height="20" x="85" y="145" fill="#fff" rx="3"/><circle cx="90" cy="150" r="2" fill="#28a745"/><circle cx="95" cy="150" r="2" fill="#ffc107"/><circle cx="100" cy="150" r="2" fill="#dc3545"/><path fill="#6c757d" d="M85 160h8v2h-8zM95 160h12v2H95zM110 160h10v2h-10zM85 165h15v2H85z"/><text x="140" y="150" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Moderne ERP-systemer tilbyr:
-  </text>
-  
-  <circle cx="70" cy="170" r="2" fill="#007bff"/>
-  <text x="80" y="175" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="70" cy="170" r="2" fill="#007bff"/><text x="80" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Automatisk beregning av forsinkelsesrenter
-  </text>
-  
-  <circle cx="70" cy="185" r="2" fill="#007bff"/>
-  <text x="80" y="190" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="70" cy="185" r="2" fill="#007bff"/><text x="80" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Integrert purring og oppfølging
-  </text>
-  
-  <circle cx="70" cy="200" r="2" fill="#007bff"/>
-  <text x="80" y="205" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="70" cy="200" r="2" fill="#007bff"/><text x="80" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Detaljerte rapporter over utestående
-  </text>
-  
-  <circle cx="70" cy="215" r="2" fill="#007bff"/>
-  <text x="80" y="220" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="70" cy="215" r="2" fill="#007bff"/><text x="80" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Prediktive analyser for betalingsatferd
-  </text>
-  
-
-  <rect x="430" y="80" width="320" height="150" rx="15" fill="white" stroke="#28a745" stroke-width="3"/>
-  <rect x="430" y="80" width="320" height="50" rx="15" fill="url(#aiGradient)"/>
-  <text x="590" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="150" x="430" y="80" fill="#fff" stroke="#28a745" stroke-width="3" rx="15"/><rect width="320" height="50" x="430" y="80" fill="url(#c)" rx="15"/><text x="590" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Kunstig Intelligens og ML
-  </text>
-  
-
-  <circle cx="480" cy="155" r="20" fill="#28a745"/>
-  <path d="M 470 145 Q 480 135 490 145 Q 485 150 490 155 Q 485 160 490 165 Q 480 175 470 165 Q 475 160 470 155 Q 475 150 470 145" 
-        stroke="white" stroke-width="2" fill="none"/>
-  <circle cx="475" cy="150" r="2" fill="white"/>
-  <circle cx="485" cy="150" r="2" fill="white"/>
-  <circle cx="475" cy="160" r="2" fill="white"/>
-  <circle cx="485" cy="160" r="2" fill="white"/>
-  
-  <text x="510" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><circle cx="480" cy="155" r="20" fill="#28a745"/><path fill="none" stroke="#fff" stroke-width="2" d="M470 145q10-10 20 0-5 5 0 10-5 5 0 10-10 10-20 0 5-5 0-10 5-5 0-10"/><circle cx="475" cy="150" r="2" fill="#fff"/><circle cx="485" cy="150" r="2" fill="#fff"/><circle cx="475" cy="160" r="2" fill="#fff"/><circle cx="485" cy="160" r="2" fill="#fff"/><text x="510" y="150" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     AI-drevne løsninger kan:
-  </text>
-  
-  <circle cx="450" cy="170" r="2" fill="#28a745"/>
-  <text x="460" y="175" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="450" cy="170" r="2" fill="#28a745"/><text x="460" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Predikere betalingsatferd og identifisere risiko
-  </text>
-  
-  <circle cx="450" cy="185" r="2" fill="#28a745"/>
-  <text x="460" y="190" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="450" cy="185" r="2" fill="#28a745"/><text x="460" y="190" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Optimalisere purrestrategier per kunde
-  </text>
-  
-  <circle cx="450" cy="200" r="2" fill="#28a745"/>
-  <text x="460" y="205" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="450" cy="200" r="2" fill="#28a745"/><text x="460" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Automatisere forhandlinger og betalingsplaner
-  </text>
-  
-  <circle cx="450" cy="215" r="2" fill="#28a745"/>
-  <text x="460" y="220" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="450" cy="215" r="2" fill="#28a745"/><text x="460" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Forbedre kredittvurdering med mer data
-  </text>
-  
-
-  <rect x="50" y="250" width="320" height="150" rx="15" fill="white" stroke="#6f42c1" stroke-width="3"/>
-  <rect x="50" y="250" width="320" height="50" rx="15" fill="url(#blockchainGradient)"/>
-  <text x="210" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="320" height="150" x="50" y="250" fill="#fff" stroke="#6f42c1" stroke-width="3" rx="15"/><rect width="320" height="50" x="50" y="250" fill="url(#d)" rx="15"/><text x="210" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Blockchain og Smart Contracts
-  </text>
-  
-
-  <rect x="80" y="310" width="15" height="15" rx="3" fill="#6f42c1"/>
-  <rect x="100" y="310" width="15" height="15" rx="3" fill="#6f42c1"/>
-  <rect x="120" y="310" width="15" height="15" rx="3" fill="#6f42c1"/>
-  <line x1="95" y1="317" x2="100" y2="317" stroke="#5a32a3" stroke-width="2"/>
-  <line x1="115" y1="317" x2="120" y2="317" stroke="#5a32a3" stroke-width="2"/>
-  
-  <text x="145" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><rect width="15" height="15" x="80" y="310" fill="#6f42c1" rx="3"/><rect width="15" height="15" x="100" y="310" fill="#6f42c1" rx="3"/><rect width="15" height="15" x="120" y="310" fill="#6f42c1" rx="3"/><path stroke="#5a32a3" stroke-width="2" d="M95 317h5M115 317h5"/><text x="145" y="320" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Fremtidige muligheter:
-  </text>
-  
-  <circle cx="70" cy="340" r="2" fill="#6f42c1"/>
-  <text x="80" y="345" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="70" cy="340" r="2" fill="#6f42c1"/><text x="80" y="345" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Automatiske betalinger via smart contracts
-  </text>
-  
-  <circle cx="70" cy="355" r="2" fill="#6f42c1"/>
-  <text x="80" y="360" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="70" cy="355" r="2" fill="#6f42c1"/><text x="80" y="360" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Transparent og uforanderlig rentekalkulator
-  </text>
-  
-  <circle cx="70" cy="370" r="2" fill="#6f42c1"/>
-  <text x="80" y="375" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="70" cy="370" r="2" fill="#6f42c1"/><text x="80" y="375" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Reduserte tvister om beregninger
-  </text>
-  
-  <circle cx="70" cy="385" r="2" fill="#6f42c1"/>
-  <text x="80" y="390" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="70" cy="385" r="2" fill="#6f42c1"/><text x="80" y="390" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Økt tillit gjennom verificerbar behandling
-  </text>
-  
-
-  <rect x="430" y="250" width="320" height="150" rx="15" fill="white" stroke="#ffc107" stroke-width="3"/>
-  <rect x="430" y="250" width="320" height="50" rx="15" fill="#ffc107"/>
-  <text x="590" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="320" height="150" x="430" y="250" fill="#fff" stroke="#ffc107" stroke-width="3" rx="15"/><rect width="320" height="50" x="430" y="250" fill="#ffc107" rx="15"/><text x="590" y="280" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Digitale Betalingsløsninger
-  </text>
-  
-
-  <rect x="470" y="310" width="25" height="40" rx="5" fill="#ffc107"/>
-  <rect x="475" y="315" width="15" height="25" rx="2" fill="white"/>
-  <circle cx="482" cy="345" r="3" fill="white"/>
-  <text x="482" y="327" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="25" height="40" x="470" y="310" fill="#ffc107" rx="5"/><rect width="15" height="25" x="475" y="315" fill="#fff" rx="2"/><circle cx="482" cy="345" r="3" fill="#fff"/><text x="482" y="327" fill="#495057" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle">
     PAY
-  </text>
-  
-  <text x="505" y="320" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="505" y="320" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Moderne betalingsmetoder:
-  </text>
-  
-  <circle cx="450" cy="340" r="2" fill="#ffc107"/>
-  <text x="460" y="345" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="450" cy="340" r="2" fill="#ffc107"/><text x="460" y="345" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Sanntids betalinger og notifikasjoner
-  </text>
-  
-  <circle cx="450" cy="355" r="2" fill="#ffc107"/>
-  <text x="460" y="360" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="450" cy="355" r="2" fill="#ffc107"/><text x="460" y="360" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Integrerte betalingsplaner og avdrag
-  </text>
-  
-  <circle cx="450" cy="370" r="2" fill="#ffc107"/>
-  <text x="460" y="375" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="450" cy="370" r="2" fill="#ffc107"/><text x="460" y="375" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Automatisk valutakonvertering
-  </text>
-  
-  <circle cx="450" cy="385" r="2" fill="#ffc107"/>
-  <text x="460" y="390" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><circle cx="450" cy="385" r="2" fill="#ffc107"/><text x="460" y="390" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Reduserte transaksjonskostnader
-  </text>
-  
-
-  <rect x="50" y="420" width="700" height="160" rx="15" fill="white" stroke="#17a2b8" stroke-width="3"/>
-  <rect x="50" y="420" width="700" height="50" rx="15" fill="#17a2b8"/>
-  <text x="400" y="450" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="700" height="160" x="50" y="420" fill="#fff" stroke="#17a2b8" stroke-width="3" rx="15"/><rect width="700" height="50" x="50" y="420" fill="#17a2b8" rx="15"/><text x="400" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Fremtidens Forsinkelsesgebyr-håndtering
-  </text>
-  
-
-  <line x1="100" y1="500" x2="700" y2="500" stroke="#17a2b8" stroke-width="3"/>
-  
-
-  <circle cx="150" cy="500" r="8" fill="#007bff"/>
-  <text x="150" y="485" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><path stroke="#17a2b8" stroke-width="3" d="M100 500h600"/><circle cx="150" cy="500" r="8" fill="#007bff"/><text x="150" y="485" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     2024-2025
-  </text>
-  <text x="150" y="520" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">
+  </text><text x="150" y="520" fill="#495057" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Utvidet ERP
-  </text>
-  <text x="150" y="535" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">
+  </text><text x="150" y="535" fill="#495057" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     integrasjon
-  </text>
-  
-
-  <circle cx="300" cy="500" r="8" fill="#28a745"/>
-  <text x="300" y="485" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><circle cx="300" cy="500" r="8" fill="#28a745"/><text x="300" y="485" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     2026-2027
-  </text>
-  <text x="300" y="520" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">
+  </text><text x="300" y="520" fill="#495057" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     AI-basert
-  </text>
-  <text x="300" y="535" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">
+  </text><text x="300" y="535" fill="#495057" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     risikovurdering
-  </text>
-  
-
-  <circle cx="450" cy="500" r="8" fill="#ffc107"/>
-  <text x="450" y="485" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><circle cx="450" cy="500" r="8" fill="#ffc107"/><text x="450" y="485" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     2028-2029
-  </text>
-  <text x="450" y="520" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">
+  </text><text x="450" y="520" fill="#495057" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Sanntids
-  </text>
-  <text x="450" y="535" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">
+  </text><text x="450" y="535" fill="#495057" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     betalinger
-  </text>
-  
-
-  <circle cx="600" cy="500" r="8" fill="#6f42c1"/>
-  <text x="600" y="485" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><circle cx="600" cy="500" r="8" fill="#6f42c1"/><text x="600" y="485" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     2030+
-  </text>
-  <text x="600" y="520" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">
+  </text><text x="600" y="520" fill="#495057" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Blockchain
-  </text>
-  <text x="600" y="535" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#495057">
+  </text><text x="600" y="535" fill="#495057" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     automatisering
-  </text>
-  
-
-  <rect x="100" y="550" width="600" height="25" rx="8" fill="#d4edda" stroke="#28a745" stroke-width="2"/>
-  <text x="400" y="567" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="600" height="25" x="100" y="550" fill="#d4edda" stroke="#28a745" stroke-width="2" rx="8"/><text x="400" y="567" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     🚀 Resultat: Reduserte kostnader, færre tvister, bedre kundeopplevelse og økt effektivitet
-  </text>
-</svg>
+  </text></svg>

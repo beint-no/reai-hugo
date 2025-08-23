@@ -1,118 +1,51 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#d32f2f;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c62828;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.2"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGrad)"/>
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#d32f2f;stop-opacity:1"/><stop offset="100%" style="stop-color:#c62828;stop-opacity:1"/></linearGradient><filter id="b" width="140%" height="140%" x="-20%" y="-20%"><feDropShadow dx="2" dy="2" flood-color="#000" flood-opacity=".2" stdDeviation="2"/></filter></defs><path fill="#f8f9fa" stroke="#dee2e6" d="M0 0h800v500H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     MVA-Satser per Næring
-  </text>
-  
-
-  <rect x="50" y="90" width="680" height="80" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="8" filter="url(#shadow)"/>
-  <text x="80" y="115" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#d32f2f">
+  </text><rect width="680" height="80" x="50" y="90" fill="#ffebee" stroke="#d32f2f" stroke-width="2" filter="url(#b)" rx="8"/><text x="80" y="115" fill="#d32f2f" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     25% MVA - Generell handel
-  </text>
-  <text x="80" y="135" font-family="Arial, sans-serif" font-size="12" fill="#c62828">
+  </text><text x="80" y="135" fill="#c62828" font-family="Arial, sans-serif" font-size="12">
     • De fleste varer og tjenester • Klær og elektronikk • Møbler og husholdningsartikler
-  </text>
-  <text x="80" y="150" font-family="Arial, sans-serif" font-size="12" fill="#c62828">
+  </text><text x="80" y="150" fill="#c62828" font-family="Arial, sans-serif" font-size="12">
     • Byggevarer • Biler og drivstoff • Reparasjonstjenester • Frisør og skjønnhet
-  </text>
-  
-
-  <rect x="50" y="190" width="680" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8" filter="url(#shadow)"/>
-  <text x="80" y="215" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f57c00">
+  </text><rect width="680" height="80" x="50" y="190" fill="#fff3e0" stroke="#f57c00" stroke-width="2" filter="url(#b)" rx="8"/><text x="80" y="215" fill="#f57c00" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     15% MVA - Matvarer
-  </text>
-  <text x="80" y="235" font-family="Arial, sans-serif" font-size="12" fill="#ef6c00">
+  </text><text x="80" y="235" fill="#ef6c00" font-family="Arial, sans-serif" font-size="12">
     • Dagligvarer og matvarer • Ikke-alkoholholdige drikkevarer • Frukt og grønnsaker
-  </text>
-  <text x="80" y="250" font-family="Arial, sans-serif" font-size="12" fill="#ef6c00">
+  </text><text x="80" y="250" fill="#ef6c00" font-family="Arial, sans-serif" font-size="12">
     • Kjøtt, fisk og meieriprodukter • Brød og bakevarer • Kaffe og te
-  </text>
-  
-
-  <rect x="50" y="290" width="680" height="120" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="8" filter="url(#shadow)"/>
-  <text x="80" y="315" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#388e3c">
+  </text><rect width="680" height="120" x="50" y="290" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" filter="url(#b)" rx="8"/><text x="80" y="315" fill="#388e3c" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     0% MVA - Fritatte tjenester og varer
-  </text>
-  
-
-  <text x="80" y="335" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+  </text><text x="80" y="335" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Transport:
-  </text>
-  <text x="80" y="350" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="80" y="350" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • Persontransport • Godstransport
-  </text>
-  
-  <text x="280" y="335" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+  </text><text x="280" y="335" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Finansielle tjenester:
-  </text>
-  <text x="280" y="350" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="280" y="350" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • Bank • Forsikring • Verdipapirer
-  </text>
-  
-  <text x="480" y="335" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+  </text><text x="480" y="335" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Helse &amp; utdanning:
-  </text>
-  <text x="480" y="350" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="480" y="350" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • Helsetjenester • Undervisning
-  </text>
-  
-  <text x="80" y="375" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+  </text><text x="80" y="375" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Kultur &amp; idrett:
-  </text>
-  <text x="80" y="390" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="80" y="390" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • Museer • Biblioteker • Idrettsarrangementer
-  </text>
-  
-  <text x="280" y="375" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+  </text><text x="280" y="375" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Eiendom:
-  </text>
-  <text x="280" y="390" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="280" y="390" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • Utleie av bolig • Salg av fast eiendom
-  </text>
-  
-  <text x="480" y="375" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e7d32">
+  </text><text x="480" y="375" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Medisiner:
-  </text>
-  <text x="480" y="390" font-family="Arial, sans-serif" font-size="11" fill="#2e7d32">
+  </text><text x="480" y="390" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11">
     • Reseptbelagte medisiner
-  </text>
-  
-
-  <rect x="50" y="430" width="680" height="50" fill="#e3f2fd" stroke="#1976d2" stroke-width="1" rx="5"/>
-  <text x="80" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+  </text><rect width="680" height="50" x="50" y="430" fill="#e3f2fd" stroke="#1976d2" rx="5"/><text x="80" y="450" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     MVA-Registrering og Rapportering
-  </text>
-  <text x="80" y="465" font-family="Arial, sans-serif" font-size="11" fill="#1565c0">
+  </text><text x="80" y="465" fill="#1565c0" font-family="Arial, sans-serif" font-size="11">
     Virksomheter må registrere seg i MVA-registeret basert på næring og levere MVA-melding regelmessig
-  </text>
-  
-
-  <circle cx="700" cy="130" r="25" fill="#d32f2f" stroke="white" stroke-width="3"/>
-  <text x="700" y="138" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="700" cy="130" r="25" fill="#d32f2f" stroke="#fff" stroke-width="3"/><text x="700" y="138" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     25%
-  </text>
-  
-  <circle cx="700" cy="230" r="25" fill="#f57c00" stroke="white" stroke-width="3"/>
-  <text x="700" y="238" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="700" cy="230" r="25" fill="#f57c00" stroke="#fff" stroke-width="3"/><text x="700" y="238" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     15%
-  </text>
-  
-  <circle cx="700" cy="350" r="25" fill="#388e3c" stroke="white" stroke-width="3"/>
-  <text x="700" y="358" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="700" cy="350" r="25" fill="#388e3c" stroke="#fff" stroke-width="3"/><text x="700" y="358" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     0%
-  </text>
-</svg>
+  </text></svg>

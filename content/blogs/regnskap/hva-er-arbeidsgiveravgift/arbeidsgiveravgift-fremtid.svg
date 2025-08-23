@@ -1,215 +1,83 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-
-    <linearGradient id="aiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#5a2d91;stop-opacity:0.9" />
-    </linearGradient>
-    <linearGradient id="automationGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:0.9" />
-    </linearGradient>
-    <linearGradient id="integrationGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.9" />
-    </linearGradient>
-    <linearGradient id="realtimeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.9" />
-    </linearGradient>
-    <linearGradient id="futureGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:0.9" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:.9"/><stop offset="100%" style="stop-color:#5a2d91;stop-opacity:.9"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:.9"/><stop offset="100%" style="stop-color:#049;stop-opacity:.9"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.9"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:.9"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:.9"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:.9"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:.9"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:.9"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Fremtidens Arbeidsgiveravgift - Digitalisering og Automatisering
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="150" height="100" fill="#6c757d" stroke="#333" stroke-width="2" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><g transform="translate(50 80)"><rect width="150" height="100" fill="#6c757d" stroke="#333" stroke-width="2" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       I DAG
-    </text>
-    <text x="75" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Manuell beregning
-    </text>
-    <text x="75" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="75" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Månedlig rapportering
-    </text>
-    <text x="75" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="75" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       A-melding system
-    </text>
-  </g>
-  
-
-  <g transform="translate(220, 120)">
-    <path d="M 0 10 L 60 10" stroke="#0066cc" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
-    <defs>
-      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-        <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc"/>
-      </marker>
-    </defs>
-    <text x="30" y="0" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+    </text></g><g transform="translate(220 120)"><path fill="none" stroke="#06c" stroke-width="4" marker-end="url(#b)" d="M0 10h60"/><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#06c" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="30" fill="#06c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       FREMTID
-    </text>
-  </g>
-  
-
-  <g transform="translate(300, 80)">
-    <rect x="0" y="0" width="150" height="100" fill="url(#futureGrad)" stroke="#333" stroke-width="2" rx="10"/>
-    <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text></g><g transform="translate(300 80)"><rect width="150" height="100" fill="url(#c)" stroke="#333" stroke-width="2" rx="10"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       FREMTID
-    </text>
-    <text x="75" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Automatisk beregning
-    </text>
-    <text x="75" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="75" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Sanntidsrapportering
-    </text>
-    <text x="75" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="75" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       AI-drevet kontroll
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 220)">
-    <rect x="0" y="0" width="700" height="280" fill="white" stroke="#0066cc" stroke-width="2" rx="10"/>
-    <text x="350" y="25" text-anchor="middle" fill="#0066cc" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(50 220)"><rect width="700" height="280" fill="#fff" stroke="#06c" stroke-width="2" rx="10"/><text x="350" y="25" fill="#06c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Teknologiske Utviklingstrekk
-    </text>
-    
-
-    <g transform="translate(30, 50)">
-      <rect x="0" y="0" width="300" height="100" fill="url(#automationGrad)" stroke="#333" stroke-width="2" rx="8"/>
-      <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><g transform="translate(30 50)"><rect width="300" height="100" fill="url(#d)" stroke="#333" stroke-width="2" rx="8"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
         🤖 Økt Automatisering
-      </text>
-      <text x="150" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Automatisk beregning av avgift
-      </text>
-      <text x="150" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Redusert manuelt arbeid
-      </text>
-      <text x="150" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Færre feil i beregninger
-      </text>
-      <text x="150" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Effektiv ressursbruk
-      </text>
-    </g>
-    
-
-    <g transform="translate(370, 50)">
-      <rect x="0" y="0" width="300" height="100" fill="url(#integrationGrad)" stroke="#333" stroke-width="2" rx="8"/>
-      <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      </text></g><g transform="translate(370 50)"><rect width="300" height="100" fill="url(#e)" stroke="#333" stroke-width="2" rx="8"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
         🔗 Bedre Integrasjon
-      </text>
-      <text x="150" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Sømløs kobling mellom systemer
-      </text>
-      <text x="150" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Lønnssystem ↔ Skatteetaten
-      </text>
-      <text x="150" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • API-basert datautveksling
-      </text>
-      <text x="150" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Standardiserte protokoller
-      </text>
-    </g>
-    
-
-    <g transform="translate(30, 170)">
-      <rect x="0" y="0" width="300" height="100" fill="url(#realtimeGrad)" stroke="#333" stroke-width="2" rx="8"/>
-      <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      </text></g><g transform="translate(30 170)"><rect width="300" height="100" fill="url(#f)" stroke="#333" stroke-width="2" rx="8"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
         ⚡ Sanntidsrapportering
-      </text>
-      <text x="150" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Kontinuerlig datastrøm
-      </text>
-      <text x="150" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Øyeblikkelig kontroll
-      </text>
-      <text x="150" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Proaktiv feildeteksjon
-      </text>
-      <text x="150" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Raskere korrigeringer
-      </text>
-    </g>
-    
-
-    <g transform="translate(370, 170)">
-      <rect x="0" y="0" width="300" height="100" fill="url(#aiGrad)" stroke="#333" stroke-width="2" rx="8"/>
-      <text x="150" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      </text></g><g transform="translate(370 170)"><rect width="300" height="100" fill="url(#g)" stroke="#333" stroke-width="2" rx="8"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
         🧠 AI-drevet Kontroll
-      </text>
-      <text x="150" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Intelligent anomalideteksjon
-      </text>
-      <text x="150" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Prediktiv analyse
-      </text>
-      <text x="150" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Automatisk regeloppdatering
-      </text>
-      <text x="150" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="150" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         • Personaliserte anbefalinger
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 520)">
-    <rect x="0" y="0" width="700" height="70" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10"/>
-    <text x="350" y="20" text-anchor="middle" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+      </text></g></g><g transform="translate(50 520)"><rect width="700" height="70" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="10"/><text x="350" y="20" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Fordeler for Bedrifter og Samfunn
-    </text>
-    
-    <g transform="translate(30, 30)">
-      <text x="0" y="15" fill="#333" font-family="Arial, sans-serif" font-size="12">
+    </text><g fill="#333" font-family="Arial, sans-serif" font-size="12"><text y="15" transform="translate(30 30)">
         ✅ <tspan font-weight="bold">Reduserte kostnader:</tspan> Mindre tid brukt på manuell håndtering
-      </text>
-      <text x="350" y="15" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="350" y="15" transform="translate(30 30)">
         ✅ <tspan font-weight="bold">Høyere nøyaktighet:</tspan> Færre feil og avvik
-      </text>
-      <text x="0" y="35" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      </text><text y="35" transform="translate(30 30)">
         ✅ <tspan font-weight="bold">Bedre compliance:</tspan> Automatisk overholdelse av regler
-      </text>
-      <text x="350" y="35" fill="#333" font-family="Arial, sans-serif" font-size="12">
+      </text><text x="350" y="35" transform="translate(30 30)">
         ✅ <tspan font-weight="bold">Økt transparens:</tspan> Bedre innsikt og kontroll
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(500, 80)">
-    <rect x="0" y="0" width="250" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/>
-    <text x="125" y="20" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text></g></g><g transform="translate(500 80)"><rect width="250" height="100" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="10"/><text x="125" y="20" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       📅 Tidshorisont
-    </text>
-    <text x="125" y="40" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="125" y="40" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       2025-2030: Gradvis innføring
-    </text>
-    <text x="125" y="55" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="125" y="55" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       2030+: Full digitalisering
-    </text>
-    <text x="125" y="75" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="125" y="75" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Avhenger av teknologiutvikling
-    </text>
-    <text x="125" y="90" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="125" y="90" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       og regulatoriske endringer
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

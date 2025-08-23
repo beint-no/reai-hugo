@@ -1,224 +1,97 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="processGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="paymentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8fafc"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1e40af;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#10b981;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     NAVs prosess for uføretrygd - utbetaling og skattetrekk
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-
-    <rect x="0" y="0" width="140" height="80" rx="8" fill="url(#processGrad)" stroke="#1e40af" stroke-width="2"/>
-    <text x="70" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><g transform="translate(50 70)"><rect width="140" height="80" fill="url(#a)" stroke="#1e40af" stroke-width="2" rx="8"/><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       1. Beregning
-    </text>
-    <text x="70" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Månedlig
-    </text>
-    <text x="70" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="70" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       uføretrygd
-    </text>
-    <text x="70" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="70" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       25.000 kr
-    </text>
-    
-
-    <path d="M150 40 L170 40" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    
-
-    <rect x="180" y="0" width="140" height="80" rx="8" fill="url(#processGrad)" stroke="#1e40af" stroke-width="2"/>
-    <text x="250" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path fill="none" stroke="#374151" stroke-width="2" marker-end="url(#b)" d="M150 40h20"/><rect width="140" height="80" x="180" fill="url(#a)" stroke="#1e40af" stroke-width="2" rx="8"/><text x="250" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       2. Skattetrekk
-    </text>
-    <text x="250" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="250" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Basert på
-    </text>
-    <text x="250" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="250" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       trekkort/22%
-    </text>
-    <text x="250" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="250" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       5.500 kr
-    </text>
-    
-
-    <path d="M330 40 L350 40" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    
-
-    <rect x="360" y="0" width="140" height="80" rx="8" fill="url(#paymentGrad)" stroke="#059669" stroke-width="2"/>
-    <text x="430" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path fill="none" stroke="#374151" stroke-width="2" marker-end="url(#b)" d="M330 40h20"/><rect width="140" height="80" x="360" fill="url(#c)" stroke="#059669" stroke-width="2" rx="8"/><text x="430" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       3. Utbetaling
-    </text>
-    <text x="430" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="430" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Netto til
-    </text>
-    <text x="430" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="430" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       mottaker
-    </text>
-    <text x="430" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="430" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       19.500 kr
-    </text>
-    
-
-    <path d="M510 40 L530 40" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    
-
-    <rect x="540" y="0" width="140" height="80" rx="8" fill="url(#processGrad)" stroke="#1e40af" stroke-width="2"/>
-    <text x="610" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><path fill="none" stroke="#374151" stroke-width="2" marker-end="url(#b)" d="M510 40h20"/><rect width="140" height="80" x="540" fill="url(#a)" stroke="#1e40af" stroke-width="2" rx="8"/><text x="610" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       4. Innbetaling
-    </text>
-    <text x="610" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="610" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Skatt til
-    </text>
-    <text x="610" y="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="610" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Skatteetaten
-    </text>
-    <text x="610" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="610" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       5.500 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 180)">
-    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(50 180)"><text y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       NAVs rapportering og dokumentasjon
-    </text>
-    
-
-    <rect x="0" y="40" width="200" height="100" rx="8" fill="#e0e7ff" stroke="#6366f1" stroke-width="2"/>
-    <text x="100" y="65" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><rect width="200" height="100" y="40" fill="#e0e7ff" stroke="#6366f1" stroke-width="2" rx="8"/><text x="100" y="65" fill="#4338ca" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       A-melding
-    </text>
-    <text x="100" y="85" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="100" y="85" fill="#4338ca" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Månedlig rapportering
-    </text>
-    <text x="100" y="100" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="100" y="100" fill="#4338ca" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       av uføretrygd og
-    </text>
-    <text x="100" y="115" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="100" y="115" fill="#4338ca" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       forskuddstrekk
-    </text>
-    <text x="100" y="130" text-anchor="middle" fill="#4338ca" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="100" y="130" fill="#4338ca" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       til Skatteetaten
-    </text>
-    
-
-    <rect x="250" y="40" width="200" height="100" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
-    <text x="350" y="65" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><rect width="200" height="100" x="250" y="40" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="8"/><text x="350" y="65" fill="#15803d" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Årsoppgave
-    </text>
-    <text x="350" y="85" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="350" y="85" fill="#15803d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Samlet oversikt
-    </text>
-    <text x="350" y="100" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="350" y="100" fill="#15803d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       over utbetalt
-    </text>
-    <text x="350" y="115" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="350" y="115" fill="#15803d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       uføretrygd og
-    </text>
-    <text x="350" y="130" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="350" y="130" fill="#15803d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       trukket skatt
-    </text>
-    
-
-    <rect x="500" y="40" width="200" height="100" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
-    <text x="600" y="65" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><rect width="200" height="100" x="500" y="40" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="8"/><text x="600" y="65" fill="#d97706" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Forhåndsutfylt
-    </text>
-    <text x="600" y="80" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><text x="600" y="80" fill="#d97706" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       selvangivelse
-    </text>
-    <text x="600" y="100" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="600" y="100" fill="#d97706" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Automatisk overføring
-    </text>
-    <text x="600" y="115" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="600" y="115" fill="#d97706" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       av uføretrygddata
-    </text>
-    <text x="600" y="130" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="600" y="130" fill="#d97706" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       til skattemeldingen
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 320)">
-    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(50 320)"><text y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Integrasjon med arbeidsgiver (ved gradert uføretrygd)
-    </text>
-    
-    <rect x="0" y="40" width="700" height="120" rx="8" fill="#f1f5f9" stroke="#64748b" stroke-width="1"/>
-    
-
-    <rect x="20" y="60" width="150" height="80" rx="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1"/>
-    <text x="95" y="80" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="700" height="120" y="40" fill="#f1f5f9" stroke="#64748b" rx="8"/><rect width="150" height="80" x="20" y="60" fill="#dbeafe" stroke="#3b82f6" rx="5"/><text x="95" y="80" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Arbeidsgiver
-    </text>
-    <text x="95" y="100" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="95" y="100" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Rapporterer lønn
-    </text>
-    <text x="95" y="115" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="95" y="115" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       i A-melding
-    </text>
-    <text x="95" y="130" text-anchor="middle" fill="#1e40af" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="95" y="130" fill="#1e40af" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       (50% stilling)
-    </text>
-    
-
-    <text x="200" y="105" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    </text><text x="200" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       +
-    </text>
-    
-
-    <rect x="230" y="60" width="150" height="80" rx="5" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
-    <text x="305" y="80" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="150" height="80" x="230" y="60" fill="#dcfce7" stroke="#16a34a" rx="5"/><text x="305" y="80" fill="#15803d" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       NAV
-    </text>
-    <text x="305" y="100" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="305" y="100" fill="#15803d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Rapporterer
-    </text>
-    <text x="305" y="115" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="305" y="115" fill="#15803d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       uføretrygd
-    </text>
-    <text x="305" y="130" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="305" y="130" fill="#15803d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       (50% uførhet)
-    </text>
-    
-
-    <text x="410" y="105" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    </text><text x="410" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       =
-    </text>
-    
-
-    <rect x="440" y="60" width="200" height="80" rx="5" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
-    <text x="540" y="80" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><rect width="200" height="80" x="440" y="60" fill="#fef3c7" stroke="#f59e0b" rx="5"/><text x="540" y="80" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Samlet inntekt
-    </text>
-    <text x="540" y="100" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="540" y="100" fill="#d97706" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       100% inntektsbasis
-    </text>
-    <text x="540" y="115" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="540" y="115" fill="#d97706" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       i skattemeldingen
-    </text>
-    <text x="540" y="130" text-anchor="middle" fill="#d97706" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="540" y="130" fill="#d97706" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       (automatisk)
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#374151"/>
-    </marker>
-  </defs>
-</svg>
+    </text></g><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#374151" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

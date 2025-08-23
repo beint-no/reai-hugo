@@ -1,163 +1,51 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     AI-Drevet Skatteoptimalisering
-  </text>
-  
-
-  <circle cx="400" cy="180" r="80" fill="#3b82f6" opacity="0.1"/>
-  <circle cx="400" cy="180" r="60" fill="#3b82f6" opacity="0.2"/>
-  <circle cx="400" cy="180" r="40" fill="#3b82f6" opacity="0.3"/>
-  
-
-  <path d="M 360 160 Q 360 140 380 140 L 420 140 Q 440 140 440 160 L 440 180 Q 440 200 420 200 L 380 200 Q 360 200 360 180 Z" fill="#3b82f6"/>
-  <circle cx="380" cy="165" r="3" fill="white"/>
-  <circle cx="400" cy="165" r="3" fill="white"/>
-  <circle cx="420" cy="165" r="3" fill="white"/>
-  <path d="M 370 185 Q 400 195 430 185" stroke="white" stroke-width="2" fill="none"/>
-  
-
-  
-
-  <g transform="translate(120, 80)">
-    <rect x="0" y="0" width="160" height="80" rx="8" fill="#10b981" opacity="0.1" stroke="#10b981" stroke-width="2"/>
-    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#059669">
+  </text><circle cx="400" cy="180" r="80" fill="#3b82f6" opacity=".1"/><circle cx="400" cy="180" r="60" fill="#3b82f6" opacity=".2"/><circle cx="400" cy="180" r="40" fill="#3b82f6" opacity=".3"/><path fill="#3b82f6" d="M360 160q0-20 20-20h40q20 0 20 20v20q0 20-20 20h-40q-20 0-20-20Z"/><circle cx="380" cy="165" r="3" fill="#fff"/><circle cx="400" cy="165" r="3" fill="#fff"/><circle cx="420" cy="165" r="3" fill="#fff"/><path fill="none" stroke="#fff" stroke-width="2" d="M370 185q30 10 60 0"/><g transform="translate(120 80)"><rect width="160" height="80" fill="#10b981" stroke="#10b981" stroke-width="2" opacity=".1" rx="8"/><text x="80" y="20" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Prediktiv Modellering
-    </text>
-    <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="#047857">
+    </text><text x="10" y="35" fill="#047857" font-family="Arial, sans-serif" font-size="11">
       • Forecasting av skjermingsrenter
-    </text>
-    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="#047857">
+    </text><text x="10" y="50" fill="#047857" font-family="Arial, sans-serif" font-size="11">
       • LSTM-algoritmer (85-90% nøyaktighet)
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="#047857">
+    </text><text x="10" y="65" fill="#047857" font-family="Arial, sans-serif" font-size="11">
       • Markedstrend-analyse
-    </text>
-  </g>
-  
-
-  <g transform="translate(520, 80)">
-    <rect x="0" y="0" width="160" height="80" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="2"/>
-    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#d97706">
+    </text></g><g transform="translate(520 80)"><rect width="160" height="80" fill="#f59e0b" stroke="#f59e0b" stroke-width="2" opacity=".1" rx="8"/><text x="80" y="20" fill="#d97706" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Portfolio Optimalisering
-    </text>
-    <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="#b45309">
+    </text><text x="10" y="35" fill="#b45309" font-family="Arial, sans-serif" font-size="11">
       • ML-basert allokering
-    </text>
-    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="#b45309">
+    </text><text x="10" y="50" fill="#b45309" font-family="Arial, sans-serif" font-size="11">
       • Random Forest (80-85% nøyaktighet)
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="#b45309">
+    </text><text x="10" y="65" fill="#b45309" font-family="Arial, sans-serif" font-size="11">
       • Automatisk rebalansering
-    </text>
-  </g>
-  
-
-  <g transform="translate(120, 280)">
-    <rect x="0" y="0" width="160" height="80" rx="8" fill="#8b5cf6" opacity="0.1" stroke="#8b5cf6" stroke-width="2"/>
-    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7c3aed">
+    </text></g><g transform="translate(120 280)"><rect width="160" height="80" fill="#8b5cf6" stroke="#8b5cf6" stroke-width="2" opacity=".1" rx="8"/><text x="80" y="20" fill="#7c3aed" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Pattern Recognition
-    </text>
-    <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="#6d28d9">
+    </text><text x="10" y="35" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       • Optimale handels-windows
-    </text>
-    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="#6d28d9">
+    </text><text x="10" y="50" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       • Markedsmønster-identifikasjon
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="#6d28d9">
+    </text><text x="10" y="65" fill="#6d28d9" font-family="Arial, sans-serif" font-size="11">
       • Timing-optimalisering
-    </text>
-  </g>
-  
-
-  <g transform="translate(520, 280)">
-    <rect x="0" y="0" width="160" height="80" rx="8" fill="#ef4444" opacity="0.1" stroke="#ef4444" stroke-width="2"/>
-    <text x="80" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">
+    </text></g><g transform="translate(520 280)"><rect width="160" height="80" fill="#ef4444" stroke="#ef4444" stroke-width="2" opacity=".1" rx="8"/><text x="80" y="20" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Risk Management
-    </text>
-    <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="#b91c1c">
+    </text><text x="10" y="35" fill="#b91c1c" font-family="Arial, sans-serif" font-size="11">
       • Automatisk risikodeteksjon
-    </text>
-    <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="#b91c1c">
+    </text><text x="10" y="50" fill="#b91c1c" font-family="Arial, sans-serif" font-size="11">
       • Neural Networks (90-95% nøyaktighet)
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="#b91c1c">
+    </text><text x="10" y="65" fill="#b91c1c" font-family="Arial, sans-serif" font-size="11">
       • Real-time mitigering
-    </text>
-  </g>
-  
-
-  <line x1="350" y1="140" x2="200" y2="120" stroke="#3b82f6" stroke-width="2" opacity="0.6"/>
-  <line x1="450" y1="140" x2="600" y2="120" stroke="#3b82f6" stroke-width="2" opacity="0.6"/>
-  <line x1="350" y1="220" x2="200" y2="320" stroke="#3b82f6" stroke-width="2" opacity="0.6"/>
-  <line x1="450" y1="220" x2="600" y2="320" stroke="#3b82f6" stroke-width="2" opacity="0.6"/>
-  
-
-  <g transform="translate(50, 420)">
-    <text x="350" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    </text></g><path stroke="#3b82f6" stroke-width="2" d="m350 140-150-20M450 140l150-20M350 220 200 320M450 220l150 100" opacity=".6"/><g transform="translate(50 420)"><text x="350" y="20" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       AI-Optimalisering Prosess
-    </text>
-    
-
-    <circle cx="80" cy="60" r="25" fill="#3b82f6"/>
-    <text x="80" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">1</text>
-    <text x="80" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
+    </text><circle cx="80" cy="60" r="25" fill="#3b82f6"/><text x="80" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">1</text><text x="80" y="90" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Data Innsamling
-    </text>
-    
-
-    <circle cx="240" cy="60" r="25" fill="#10b981"/>
-    <text x="240" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">2</text>
-    <text x="240" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
+    </text><circle cx="240" cy="60" r="25" fill="#10b981"/><text x="240" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">2</text><text x="240" y="90" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       ML-Analyse
-    </text>
-    
-
-    <circle cx="400" cy="60" r="25" fill="#f59e0b"/>
-    <text x="400" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">3</text>
-    <text x="400" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
+    </text><circle cx="400" cy="60" r="25" fill="#f59e0b"/><text x="400" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">3</text><text x="400" y="90" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Optimalisering
-    </text>
-    
-
-    <circle cx="560" cy="60" r="25" fill="#8b5cf6"/>
-    <text x="560" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">4</text>
-    <text x="560" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
+    </text><circle cx="560" cy="60" r="25" fill="#8b5cf6"/><text x="560" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">4</text><text x="560" y="90" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Implementering
-    </text>
-    
-
-    <circle cx="720" cy="60" r="25" fill="#ef4444"/>
-    <text x="720" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">5</text>
-    <text x="720" y="90" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
+    </text><circle cx="720" cy="60" r="25" fill="#ef4444"/><text x="720" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">5</text><text x="720" y="90" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Overvåkning
-    </text>
-    
-
-    <path d="M 105 60 L 215 60" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    <path d="M 265 60 L 375 60" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    <path d="M 425 60 L 535 60" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-    <path d="M 585 60 L 695 60" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(50, 540)">
-    <rect x="0" y="0" width="700" height="50" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
-    <text x="350" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">
+    </text><path fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#a)" d="M105 60h110"/><path fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#a)" d="M265 60h110"/><path fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#a)" d="M425 60h110"/><path fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#a)" d="M585 60h110"/></g><g transform="translate(50 540)"><rect width="700" height="50" fill="#f1f5f9" stroke="#cbd5e1" rx="8"/><text x="350" y="20" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Nøkkelfordeler: Økt presisjon • Automatisering • Kostnadsreduksjon • Compliance-sikring
-    </text>
-    <text x="350" y="35" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">
+    </text><text x="350" y="35" fill="#475569" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Etiske hensyn: Transparens • Fairness • Accountability • Privacy
-    </text>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
-    </marker>
-  </defs>
-</svg>
+    </text></g><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6b7280" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

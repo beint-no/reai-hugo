@@ -1,297 +1,99 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="realEstateGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="oilGasGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Bransjespesifikk Diskontering
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#realEstateGradient)" opacity="0.9"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="220" height="160" fill="url(#b)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Eiendom
-    </text>
-    
-
-    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🏢</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><circle cx="50" cy="60" r="20" fill="#fff" opacity=".3"/><text x="50" y="67" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🏢</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Kontantstrømmer:
-    </text>
-    <text x="90" y="65" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Leieintekter
-    </text>
-    <text x="90" y="78" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="78" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Driftskostnader
-    </text>
-    <text x="90" y="91" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="91" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Salgsverdi
-    </text>
-    
-
-    <rect x="20" y="105" width="180" height="20" rx="5" fill="white" opacity="0.2"/>
-    <text x="110" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="180" height="20" x="20" y="105" fill="#fff" opacity=".2" rx="5"/><text x="110" y="118" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Diskonteringsrente: 6-10%
-    </text>
-    
-
-    <text x="20" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="20" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Spesielle hensyn:
-    </text>
-    <text x="20" y="153" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="20" y="153" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       Inflasjonsjustering av leier, lokasjon
-    </text>
-  </g>
-  
-
-  <g transform="translate(290, 80)">
-    <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#oilGasGradient)" opacity="0.9"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(290 80)"><rect width="220" height="160" fill="url(#c)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Olje og Gass
-    </text>
-    
-
-    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">⛽</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><circle cx="50" cy="60" r="20" fill="#fff" opacity=".3"/><text x="50" y="67" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">⛽</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Kontantstrømmer:
-    </text>
-    <text x="90" y="65" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Produksjonsinntekter
-    </text>
-    <text x="90" y="78" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="78" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Driftskostnader
-    </text>
-    <text x="90" y="91" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="91" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Nedstengningskostnader
-    </text>
-    
-
-    <rect x="20" y="105" width="180" height="20" rx="5" fill="white" opacity="0.2"/>
-    <text x="110" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="180" height="20" x="20" y="105" fill="#fff" opacity=".2" rx="5"/><text x="110" y="118" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Diskonteringsrente: 10-15%
-    </text>
-    
-
-    <text x="20" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="20" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Spesielle hensyn:
-    </text>
-    <text x="20" y="153" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="20" y="153" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       Råvarepriser, reserveusikkerhet
-    </text>
-  </g>
-  
-
-  <g transform="translate(530, 80)">
-    <rect x="0" y="0" width="220" height="160" rx="10" fill="url(#techGradient)" opacity="0.9"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(530 80)"><rect width="220" height="160" fill="url(#d)" opacity=".9" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Teknologi
-    </text>
-    
-
-    <circle cx="50" cy="60" r="20" fill="white" opacity="0.3"/>
-    <text x="50" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💻</text>
-    
-
-    <text x="90" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><circle cx="50" cy="60" r="20" fill="#fff" opacity=".3"/><text x="50" y="67" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">💻</text><text x="90" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Kontantstrømmer:
-    </text>
-    <text x="90" y="65" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Negative i starten
-    </text>
-    <text x="90" y="78" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="78" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Høy vekst senere
-    </text>
-    <text x="90" y="91" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="91" fill="#fff" font-family="Arial, sans-serif" font-size="12">
       • Skaleringseffekter
-    </text>
-    
-
-    <rect x="20" y="105" width="180" height="20" rx="5" fill="white" opacity="0.2"/>
-    <text x="110" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text><rect width="180" height="20" x="20" y="105" fill="#fff" opacity=".2" rx="5"/><text x="110" y="118" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Diskonteringsrente: 12-20%
-    </text>
-    
-
-    <text x="20" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text x="20" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Spesielle hensyn:
-    </text>
-    <text x="20" y="153" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="20" y="153" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       Rask teknologisk utvikling
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 260)">
-    <rect x="0" y="0" width="700" height="180" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    </text></g><g transform="translate(50 260)"><rect width="700" height="180" fill="#fff" stroke="#ddd" stroke-width="2" rx="10"/><text x="350" y="25" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Andre Bransjer og Deres Diskonteringskarakteristikker
-    </text>
-    
-
-    <g transform="translate(50, 40)">
-      <circle cx="20" cy="20" r="15" fill="#607D8B" opacity="0.8"/>
-      <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏭</text>
-      <text x="50" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+    </text><g transform="translate(50 40)"><circle cx="20" cy="20" r="15" fill="#607d8b" opacity=".8"/><text x="20" y="26" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🏭</text><text x="50" y="18" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Produksjon
-      </text>
-      <text x="50" y="32" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      </text><text x="50" y="32" fill="#666" font-family="Arial, sans-serif" font-size="12">
         8-12% | Kapitalintensive, konjunkturavhengige
-      </text>
-    </g>
-    
-
-    <g transform="translate(350, 40)">
-      <circle cx="20" cy="20" r="15" fill="#795548" opacity="0.8"/>
-      <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🛍️</text>
-      <text x="50" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(350 40)"><circle cx="20" cy="20" r="15" fill="#795548" opacity=".8"/><text x="20" y="26" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🛍️</text><text x="50" y="18" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Detaljhandel
-      </text>
-      <text x="50" y="32" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      </text><text x="50" y="32" fill="#666" font-family="Arial, sans-serif" font-size="12">
         7-11% | Sesongvariasjoner, lagerrisiko
-      </text>
-    </g>
-    
-
-    <g transform="translate(50, 80)">
-      <circle cx="20" cy="20" r="15" fill="#E91E63" opacity="0.8"/>
-      <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏥</text>
-      <text x="50" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(50 80)"><circle cx="20" cy="20" r="15" fill="#e91e63" opacity=".8"/><text x="20" y="26" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🏥</text><text x="50" y="18" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Helsevesen
-      </text>
-      <text x="50" y="32" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      </text><text x="50" y="32" fill="#666" font-family="Arial, sans-serif" font-size="12">
         6-9% | Regulatorisk risiko, demografiske trender
-      </text>
-    </g>
-    
-
-    <g transform="translate(350, 80)">
-      <circle cx="20" cy="20" r="15" fill="#3F51B5" opacity="0.8"/>
-      <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🏦</text>
-      <text x="50" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(350 80)"><circle cx="20" cy="20" r="15" fill="#3f51b5" opacity=".8"/><text x="20" y="26" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🏦</text><text x="50" y="18" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Finansielle tjenester
-      </text>
-      <text x="50" y="32" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      </text><text x="50" y="32" fill="#666" font-family="Arial, sans-serif" font-size="12">
         8-14% | Renterisiko, kredittrisiko, regulering
-      </text>
-    </g>
-    
-
-    <g transform="translate(50, 120)">
-      <circle cx="20" cy="20" r="15" fill="#009688" opacity="0.8"/>
-      <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">⚡</text>
-      <text x="50" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(50 120)"><circle cx="20" cy="20" r="15" fill="#009688" opacity=".8"/><text x="20" y="26" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">⚡</text><text x="50" y="18" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Forsyning
-      </text>
-      <text x="50" y="32" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      </text><text x="50" y="32" fill="#666" font-family="Arial, sans-serif" font-size="12">
         5-8% | Stabile kontantstrømmer, regulerte priser
-      </text>
-    </g>
-    
-
-    <g transform="translate(350, 120)">
-      <circle cx="20" cy="20" r="15" fill="#8BC34A" opacity="0.8"/>
-      <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">🌾</text>
-      <text x="50" y="18" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(350 120)"><circle cx="20" cy="20" r="15" fill="#8bc34a" opacity=".8"/><text x="20" y="26" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">🌾</text><text x="50" y="18" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
         Landbruk
-      </text>
-      <text x="50" y="32" font-family="Arial, sans-serif" font-size="12" fill="#666">
+      </text><text x="50" y="32" fill="#666" font-family="Arial, sans-serif" font-size="12">
         9-13% | Værrisiko, råvarepriser, subsidier
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 460)">
-    <rect x="0" y="0" width="700" height="120" rx="10" fill="#f3e5f5" stroke="#9C27B0" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#6A1B9A">
+      </text></g></g><g transform="translate(50 460)"><rect width="700" height="120" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="10"/><text x="350" y="25" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Nøkkelfaktorer for Bransjespesifikk Diskontering
-    </text>
-    
-
-    <g transform="translate(50, 40)">
-      <circle cx="15" cy="15" r="12" fill="#9C27B0" opacity="0.8"/>
-      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">1</text>
-      <text x="40" y="12" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">
+    </text><g transform="translate(50 40)"><circle cx="15" cy="15" r="12" fill="#9c27b0" opacity=".8"/><text x="15" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">1</text><text x="40" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
         Volatilitet
-      </text>
-      <text x="40" y="26" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="40" y="26" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Høyere volatilitet → høyere diskonteringsrente
-      </text>
-    </g>
-    
-
-    <g transform="translate(250, 40)">
-      <circle cx="15" cy="15" r="12" fill="#9C27B0" opacity="0.8"/>
-      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">2</text>
-      <text x="40" y="12" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(250 40)"><circle cx="15" cy="15" r="12" fill="#9c27b0" opacity=".8"/><text x="15" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">2</text><text x="40" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
         Regulering
-      </text>
-      <text x="40" y="26" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="40" y="26" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Regulerte bransjer har ofte lavere renter
-      </text>
-    </g>
-    
-
-    <g transform="translate(450, 40)">
-      <circle cx="15" cy="15" r="12" fill="#9C27B0" opacity="0.8"/>
-      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">3</text>
-      <text x="40" y="12" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(450 40)"><circle cx="15" cy="15" r="12" fill="#9c27b0" opacity=".8"/><text x="15" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">3</text><text x="40" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
         Kapitalintensitet
-      </text>
-      <text x="40" y="26" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="40" y="26" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Høye investeringskrav påvirker risiko
-      </text>
-    </g>
-    
-
-    <g transform="translate(150, 80)">
-      <circle cx="15" cy="15" r="12" fill="#9C27B0" opacity="0.8"/>
-      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">4</text>
-      <text x="40" y="12" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(150 80)"><circle cx="15" cy="15" r="12" fill="#9c27b0" opacity=".8"/><text x="15" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">4</text><text x="40" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
         Konjunkturavhengighet
-      </text>
-      <text x="40" y="26" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="40" y="26" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Sykliske bransjer krever høyere premier
-      </text>
-    </g>
-    
-
-    <g transform="translate(350, 80)">
-      <circle cx="15" cy="15" r="12" fill="#9C27B0" opacity="0.8"/>
-      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">5</text>
-      <text x="40" y="12" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#333">
+      </text></g><g transform="translate(350 80)"><circle cx="15" cy="15" r="12" fill="#9c27b0" opacity=".8"/><text x="15" y="20" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">5</text><text x="40" y="12" fill="#333" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
         Teknologisk endring
-      </text>
-      <text x="40" y="26" font-family="Arial, sans-serif" font-size="11" fill="#666">
+      </text><text x="40" y="26" fill="#666" font-family="Arial, sans-serif" font-size="11">
         Rask utvikling øker usikkerhet og renter
-      </text>
-    </g>
-  </g>
-</svg>
+      </text></g></g></svg>

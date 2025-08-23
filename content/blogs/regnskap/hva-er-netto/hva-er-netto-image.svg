@@ -1,97 +1,41 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Hva er Netto i Regnskap?
-  </text>
-  
-
-  <rect x="50" y="100" width="700" height="250" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-
-  <rect x="70" y="120" width="660" height="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
-  <text x="400" y="140" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><rect width="700" height="250" x="50" y="100" fill="#fff" stroke="#dee2e6" rx="10"/><rect width="660" height="60" x="70" y="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/><text x="400" y="140" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Netto = Beløp etter fradrag av skatter, avgifter og kostnader
-  </text>
-  <text x="400" y="165" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="14">
+  </text><text x="400" y="165" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Den faktiske eller reelle verdien som gjenstår
-  </text>
-  
-
-  <text x="90" y="210" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><text x="90" y="210" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Eksempler på nettobegreper:
-  </text>
-  
-
-  <rect x="90" y="220" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1" rx="5"/>
-  <text x="165" y="240" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="150" height="80" x="90" y="220" fill="#fff3e0" stroke="#ff9800" rx="5"/><text x="165" y="240" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Nettolønn
-  </text>
-  <text x="165" y="255" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="165" y="255" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Lønn etter
-  </text>
-  <text x="165" y="270" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="165" y="270" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     skattetrekk
-  </text>
-  <text x="165" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="165" y="285" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     og avgifter
-  </text>
-  
-  <rect x="260" y="220" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
-  <text x="335" y="240" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="150" height="80" x="260" y="220" fill="#e8f5e8" stroke="#4caf50" rx="5"/><text x="335" y="240" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Nettoomsetning
-  </text>
-  <text x="335" y="255" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="335" y="255" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Salg etter MVA,
-  </text>
-  <text x="335" y="270" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="335" y="270" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     rabatter og
-  </text>
-  <text x="335" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="335" y="285" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     returvarer
-  </text>
-  
-  <rect x="430" y="220" width="150" height="80" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1" rx="5"/>
-  <text x="505" y="240" text-anchor="middle" fill="#9c27b0" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="150" height="80" x="430" y="220" fill="#f3e5f5" stroke="#9c27b0" rx="5"/><text x="505" y="240" fill="#9c27b0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Nettoresultat
-  </text>
-  <text x="505" y="255" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="505" y="255" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Resultat etter
-  </text>
-  <text x="505" y="270" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="505" y="270" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     alle kostnader
-  </text>
-  <text x="505" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="505" y="285" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     og skatter
-  </text>
-  
-  <rect x="600" y="220" width="130" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1" rx="5"/>
-  <text x="665" y="240" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="130" height="80" x="600" y="220" fill="#ffebee" stroke="#f44336" rx="5"/><text x="665" y="240" fill="#f44336" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Netto formue
-  </text>
-  <text x="665" y="255" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="665" y="255" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Eiendeler
-  </text>
-  <text x="665" y="270" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="665" y="270" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     minus gjeld
-  </text>
-  
-
-  <text x="400" y="380" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="400" y="380" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Netto gir et realistisk bilde av den faktiske økonomiske verdien
-  </text>
-</svg>
+  </text></svg>

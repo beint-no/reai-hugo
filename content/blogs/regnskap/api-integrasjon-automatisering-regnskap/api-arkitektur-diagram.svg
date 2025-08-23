@@ -1,136 +1,39 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="layerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="securityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:1"/></linearGradient><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     API Arkitektur Diagram
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="60" rx="10" fill="url(#layerGradient)" stroke="#0056b3" stroke-width="2"/>
-  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="60" x="50" y="60" fill="url(#b)" stroke="#0056b3" stroke-width="2" rx="10"/><text x="400" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     PRESENTASJONSLAG
-  </text>
-  <text x="400" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Web Interface • Mobile App • Desktop Client
-  </text>
-  
-
-  <rect x="50" y="140" width="700" height="60" rx="10" fill="url(#securityGradient)" stroke="#e0a800" stroke-width="2"/>
-  <text x="400" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#212529">
+  </text><rect width="700" height="60" x="50" y="140" fill="url(#c)" stroke="#e0a800" stroke-width="2" rx="10"/><text x="400" y="165" fill="#212529" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     API GATEWAY
-  </text>
-  <text x="400" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#212529">
+  </text><text x="400" y="185" fill="#212529" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Autentisering • Rate Limiting • Load Balancing • Logging
-  </text>
-  
-
-  <rect x="50" y="220" width="700" height="80" rx="10" fill="url(#layerGradient)" stroke="#0056b3" stroke-width="2"/>
-  <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="80" x="50" y="220" fill="url(#b)" stroke="#0056b3" stroke-width="2" rx="10"/><text x="400" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FORRETNINGSLOGIKK
-  </text>
-  
-
-  <rect x="80" y="260" width="120" height="30" rx="5" fill="white" stroke="#0056b3" stroke-width="1"/>
-  <text x="140" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0056b3">
+  </text><rect width="120" height="30" x="80" y="260" fill="#fff" stroke="#0056b3" rx="5"/><text x="140" y="280" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Regnskap Service
-  </text>
-  
-  <rect x="220" y="260" width="120" height="30" rx="5" fill="white" stroke="#0056b3" stroke-width="1"/>
-  <text x="280" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0056b3">
+  </text><rect width="120" height="30" x="220" y="260" fill="#fff" stroke="#0056b3" rx="5"/><text x="280" y="280" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Faktura Service
-  </text>
-  
-  <rect x="360" y="260" width="120" height="30" rx="5" fill="white" stroke="#0056b3" stroke-width="1"/>
-  <text x="420" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0056b3">
+  </text><rect width="120" height="30" x="360" y="260" fill="#fff" stroke="#0056b3" rx="5"/><text x="420" y="280" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Bank Service
-  </text>
-  
-  <rect x="500" y="260" width="120" height="30" rx="5" fill="white" stroke="#0056b3" stroke-width="1"/>
-  <text x="560" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0056b3">
+  </text><rect width="120" height="30" x="500" y="260" fill="#fff" stroke="#0056b3" rx="5"/><text x="560" y="280" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Lønn Service
-  </text>
-  
-  <rect x="640" y="260" width="120" height="30" rx="5" fill="white" stroke="#0056b3" stroke-width="1"/>
-  <text x="700" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0056b3">
+  </text><rect width="120" height="30" x="640" y="260" fill="#fff" stroke="#0056b3" rx="5"/><text x="700" y="280" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Rapport Service
-  </text>
-  
-
-  <rect x="50" y="320" width="700" height="60" rx="10" fill="url(#dataGradient)" stroke="#1e7e34" stroke-width="2"/>
-  <text x="400" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="60" x="50" y="320" fill="url(#d)" stroke="#1e7e34" stroke-width="2" rx="10"/><text x="400" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DATATILGANGSLAG
-  </text>
-  <text x="400" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="365" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     ORM • Database Connections • Caching • Data Validation
-  </text>
-  
-
-  <rect x="50" y="400" width="700" height="60" rx="10" fill="#6c757d" stroke="#495057" stroke-width="2"/>
-  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="60" x="50" y="400" fill="#6c757d" stroke="#495057" stroke-width="2" rx="10"/><text x="400" y="425" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DATABASE
-  </text>
-  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="445" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     PostgreSQL • MongoDB • Redis Cache • File Storage
-  </text>
-  
-
-  <rect x="50" y="480" width="150" height="15" rx="5" fill="#dc3545" stroke="#c82333" stroke-width="1"/>
-  <text x="125" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><rect width="150" height="15" x="50" y="480" fill="#dc3545" stroke="#c82333" rx="5"/><text x="125" y="492" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Bank API
-  </text>
-  
-  <rect x="220" y="480" width="150" height="15" rx="5" fill="#dc3545" stroke="#c82333" stroke-width="1"/>
-  <text x="295" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><rect width="150" height="15" x="220" y="480" fill="#dc3545" stroke="#c82333" rx="5"/><text x="295" y="492" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     ERP API
-  </text>
-  
-  <rect x="390" y="480" width="150" height="15" rx="5" fill="#dc3545" stroke="#c82333" stroke-width="1"/>
-  <text x="465" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><rect width="150" height="15" x="390" y="480" fill="#dc3545" stroke="#c82333" rx="5"/><text x="465" y="492" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Altinn API
-  </text>
-  
-  <rect x="560" y="480" width="150" height="15" rx="5" fill="#dc3545" stroke="#c82333" stroke-width="1"/>
-  <text x="635" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><rect width="150" height="15" x="560" y="480" fill="#dc3545" stroke="#c82333" rx="5"/><text x="635" y="492" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     eFaktura API
-  </text>
-  
-
-  <defs>
-    <marker id="arrowDown" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-  </defs>
-  
-
-  <line x1="400" y1="120" x2="400" y2="140" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowDown)"/>
-  <line x1="400" y1="200" x2="400" y2="220" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowDown)"/>
-  <line x1="400" y1="300" x2="400" y2="320" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowDown)"/>
-  <line x1="400" y1="380" x2="400" y2="400" stroke="#6c757d" stroke-width="2" marker-end="url(#arrowDown)"/>
-  
-
-  <line x1="125" y1="460" x2="125" y2="480" stroke="#dc3545" stroke-width="1" marker-end="url(#arrowDown)"/>
-  <line x1="295" y1="460" x2="295" y2="480" stroke="#dc3545" stroke-width="1" marker-end="url(#arrowDown)"/>
-  <line x1="465" y1="460" x2="465" y2="480" stroke="#dc3545" stroke-width="1" marker-end="url(#arrowDown)"/>
-  <line x1="635" y1="460" x2="635" y2="480" stroke="#dc3545" stroke-width="1" marker-end="url(#arrowDown)"/>
-</svg>
+  </text><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs><path stroke="#6c757d" stroke-width="2" marker-end="url(#e)" d="M400 120v20"/><path stroke="#6c757d" stroke-width="2" marker-end="url(#e)" d="M400 200v20"/><path stroke="#6c757d" stroke-width="2" marker-end="url(#e)" d="M400 300v20"/><path stroke="#6c757d" stroke-width="2" marker-end="url(#e)" d="M400 380v20"/><path stroke="#dc3545" marker-end="url(#e)" d="M125 460v20"/><path stroke="#dc3545" marker-end="url(#e)" d="M295 460v20"/><path stroke="#dc3545" marker-end="url(#e)" d="M465 460v20"/><path stroke="#dc3545" marker-end="url(#e)" d="M635 460v20"/></svg>

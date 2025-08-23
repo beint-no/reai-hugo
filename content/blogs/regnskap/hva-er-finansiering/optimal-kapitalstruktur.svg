@@ -1,123 +1,29 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Optimal Kapitalstruktur
-  </text>
-  
-
-  <rect x="100" y="80" width="600" height="320" fill="white" stroke="#dee2e6" stroke-width="2" rx="5"/>
-  
-
-  <line x1="120" y1="100" x2="120" y2="380" stroke="#333" stroke-width="2"/>
-  
-
-  <line x1="120" y1="380" x2="680" y2="380" stroke="#333" stroke-width="2"/>
-  
-
-  <text x="50" y="240" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333" transform="rotate(-90, 50, 240)">
+  </text><rect width="600" height="320" x="100" y="80" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="5"/><path stroke="#333" stroke-width="2" d="M120 100v280M120 380h560"/><text x="50" y="240" fill="#333" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" transform="rotate(-90 50 240)">
     Bedriftsverdi / Kapitalkostnad
-  </text>
-  
-
-  <text x="400" y="420" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">
+  </text><text x="400" y="420" fill="#333" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Gjeldsgrad (Gjeld / Total Kapital)
-  </text>
-  
-
-  <text x="120" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">0%</text>
-  <text x="260" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">25%</text>
-  <text x="400" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">50%</text>
-  <text x="540" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">75%</text>
-  <text x="680" y="395" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">100%</text>
-  
-
-  <line x1="260" y1="100" x2="260" y2="380" stroke="#e0e0e0" stroke-width="1"/>
-  <line x1="400" y1="100" x2="400" y2="380" stroke="#e0e0e0" stroke-width="1"/>
-  <line x1="540" y1="100" x2="540" y2="380" stroke="#e0e0e0" stroke-width="1"/>
-  <line x1="680" y1="100" x2="680" y2="380" stroke="#e0e0e0" stroke-width="1"/>
-  
-
-  <path d="M 120 300 Q 200 180 300 160 Q 400 150 500 160 Q 600 180 680 300" 
-        stroke="#4caf50" stroke-width="4" fill="none"/>
-  
-
-  <path d="M 120 200 Q 200 320 300 340 Q 400 350 500 340 Q 600 320 680 200" 
-        stroke="#f44336" stroke-width="4" fill="none"/>
-  
-
-  <circle cx="400" cy="150" r="8" fill="#ff9800" stroke="white" stroke-width="3"/>
-  <text x="400" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ff9800">
+  </text><text x="120" y="395" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">0%</text><text x="260" y="395" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">25%</text><text x="400" y="395" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">50%</text><text x="540" y="395" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">75%</text><text x="680" y="395" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">100%</text><path stroke="#e0e0e0" d="M260 100v280M400 100v280M540 100v280M680 100v280"/><path fill="none" stroke="#4caf50" stroke-width="4" d="M120 300q80-120 180-140 100-10 200 0 100 20 180 140"/><path fill="none" stroke="#f44336" stroke-width="4" d="M120 200q80 120 180 140 100 10 200 0 100-20 180-140"/><circle cx="400" cy="150" r="8" fill="#ff9800" stroke="#fff" stroke-width="3"/><text x="400" y="135" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Optimal punkt
-  </text>
-  
-
-  <line x1="400" y1="150" x2="400" y2="380" stroke="#ff9800" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <rect x="500" y="100" width="180" height="80" fill="white" stroke="#ccc" stroke-width="1" rx="5"/>
-  <text x="590" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">
+  </text><path stroke="#ff9800" stroke-dasharray="5,5" stroke-width="2" d="M400 150v230"/><rect width="180" height="80" x="500" y="100" fill="#fff" stroke="#ccc" rx="5"/><text x="590" y="120" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Forklaring
-  </text>
-  
-  <line x1="520" y1="135" x2="540" y2="135" stroke="#4caf50" stroke-width="3"/>
-  <text x="550" y="140" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><path stroke="#4caf50" stroke-width="3" d="M520 135h20"/><text x="550" y="140" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Bedriftsverdi
-  </text>
-  
-  <line x1="520" y1="155" x2="540" y2="155" stroke="#f44336" stroke-width="3"/>
-  <text x="550" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><path stroke="#f44336" stroke-width="3" d="M520 155h20"/><text x="550" y="160" fill="#333" font-family="Arial, sans-serif" font-size="12">
     WACC
-  </text>
-  
-  <circle cx="530" cy="170" r="4" fill="#ff9800"/>
-  <text x="550" y="175" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><circle cx="530" cy="170" r="4" fill="#ff9800"/><text x="550" y="175" fill="#333" font-family="Arial, sans-serif" font-size="12">
     Optimalt punkt
-  </text>
-  
-
-  <rect x="50" y="430" width="340" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="5"/>
-  <text x="220" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+  </text><rect width="340" height="60" x="50" y="430" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="5"/><text x="220" y="450" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fordeler ved Gjeld (Skattefordeler)
-  </text>
-  <text x="70" y="470" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="470" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Rentefradrag reduserer skattekostnad
-  </text>
-  <text x="70" y="485" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="485" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Lavere kapitalkostnad enn egenkapital
-  </text>
-  
-  <rect x="410" y="430" width="340" height="60" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="5"/>
-  <text x="580" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c62828">
+  </text><rect width="340" height="60" x="410" y="430" fill="#ffebee" stroke="#f44336" stroke-width="2" rx="5"/><text x="580" y="450" fill="#c62828" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kostnader ved Gjeld (Finansiell risiko)
-  </text>
-  <text x="430" y="470" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="470" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Økt konkursrisiko og finansielle problemer
-  </text>
-  <text x="430" y="485" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="485" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Høyere rentekrav fra långivere
-  </text>
-  
-
-  <path d="M 220 430 Q 300 350 380 170" stroke="#4caf50" stroke-width="2" fill="none" marker-end="url(#arrowGreen)"/>
-  <path d="M 580 430 Q 500 350 420 170" stroke="#f44336" stroke-width="2" fill="none" marker-end="url(#arrowRed)"/>
-  
-
-  <defs>
-    <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#4caf50"/>
-    </marker>
-    <marker id="arrowRed" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#f44336"/>
-    </marker>
-  </defs>
-</svg>
+  </text><path fill="none" stroke="#4caf50" stroke-width="2" marker-end="url(#b)" d="M220 430q80-80 160-260"/><path fill="none" stroke="#f44336" stroke-width="2" marker-end="url(#c)" d="M580 430q-80-80-160-260"/><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#4caf50" d="m0 0 10 3.5L0 7z"/></marker><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#f44336" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

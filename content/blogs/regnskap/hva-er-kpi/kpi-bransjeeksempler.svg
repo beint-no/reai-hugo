@@ -1,148 +1,37 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgBransje" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgBransje)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="#343a40"/>
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="#343a40" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     KPI Bransjeeksempler
-  </text>
-  
-
-  <rect x="50" y="80" width="220" height="180" fill="white" stroke="#28a745" stroke-width="3" rx="10"/>
-  <rect x="50" y="80" width="220" height="40" fill="#28a745" rx="10"/>
-  <text x="160" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="220" height="180" x="50" y="80" fill="#fff" stroke="#28a745" stroke-width="3" rx="10"/><rect width="220" height="40" x="50" y="80" fill="#28a745" rx="10"/><text x="160" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     DETALJHANDEL
-  </text>
-  
-  <text x="160" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><text x="160" y="135" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Viktige KPI-er:
-  </text>
-  
-  <circle cx="70" cy="155" r="3" fill="#28a745"/>
-  <text x="80" y="160" font-family="Arial, sans-serif" font-size="11" fill="#495057">Salg per kvadratmeter</text>
-  
-  <circle cx="70" cy="175" r="3" fill="#28a745"/>
-  <text x="80" y="180" font-family="Arial, sans-serif" font-size="11" fill="#495057">Gjennomsnittlig transaksjon</text>
-  
-  <circle cx="70" cy="195" r="3" fill="#28a745"/>
-  <text x="80" y="200" font-family="Arial, sans-serif" font-size="11" fill="#495057">Lageromløpshastighet</text>
-  
-  <circle cx="70" cy="215" r="3" fill="#28a745"/>
-  <text x="80" y="220" font-family="Arial, sans-serif" font-size="11" fill="#495057">Bruttomargin per kategori</text>
-  
-  <rect x="70" y="235" width="180" height="20" fill="#e8f5e8" rx="3"/>
-  <text x="160" y="248" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#1e7e34">
+  </text><circle cx="70" cy="155" r="3" fill="#28a745"/><text x="80" y="160" fill="#495057" font-family="Arial, sans-serif" font-size="11">Salg per kvadratmeter</text><circle cx="70" cy="175" r="3" fill="#28a745"/><text x="80" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="11">Gjennomsnittlig transaksjon</text><circle cx="70" cy="195" r="3" fill="#28a745"/><text x="80" y="200" fill="#495057" font-family="Arial, sans-serif" font-size="11">Lageromløpshastighet</text><circle cx="70" cy="215" r="3" fill="#28a745"/><text x="80" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="11">Bruttomargin per kategori</text><rect width="180" height="20" x="70" y="235" fill="#e8f5e8" rx="3"/><text x="160" y="248" fill="#1e7e34" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Resultat: +15% lønnsomhet
-  </text>
-  
-
-  <rect x="290" y="80" width="220" height="180" fill="white" stroke="#007bff" stroke-width="3" rx="10"/>
-  <rect x="290" y="80" width="220" height="40" fill="#007bff" rx="10"/>
-  <text x="400" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="220" height="180" x="290" y="80" fill="#fff" stroke="#007bff" stroke-width="3" rx="10"/><rect width="220" height="40" x="290" y="80" fill="#007bff" rx="10"/><text x="400" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     PRODUKSJON
-  </text>
-  
-  <text x="400" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><text x="400" y="135" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Viktige KPI-er:
-  </text>
-  
-  <circle cx="310" cy="155" r="3" fill="#007bff"/>
-  <text x="320" y="160" font-family="Arial, sans-serif" font-size="11" fill="#495057">Overall Equipment Effectiveness</text>
-  
-  <circle cx="310" cy="175" r="3" fill="#007bff"/>
-  <text x="320" y="180" font-family="Arial, sans-serif" font-size="11" fill="#495057">Produksjonskostnad per enhet</text>
-  
-  <circle cx="310" cy="195" r="3" fill="#007bff"/>
-  <text x="320" y="200" font-family="Arial, sans-serif" font-size="11" fill="#495057">First Pass Yield (kvalitet)</text>
-  
-  <circle cx="310" cy="215" r="3" fill="#007bff"/>
-  <text x="320" y="220" font-family="Arial, sans-serif" font-size="11" fill="#495057">Leveringspresisjon</text>
-  
-  <rect x="310" y="235" width="180" height="20" fill="#e3f2fd" rx="3"/>
-  <text x="400" y="248" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#0056b3">
+  </text><circle cx="310" cy="155" r="3" fill="#007bff"/><text x="320" y="160" fill="#495057" font-family="Arial, sans-serif" font-size="11">Overall Equipment Effectiveness</text><circle cx="310" cy="175" r="3" fill="#007bff"/><text x="320" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="11">Produksjonskostnad per enhet</text><circle cx="310" cy="195" r="3" fill="#007bff"/><text x="320" y="200" fill="#495057" font-family="Arial, sans-serif" font-size="11">First Pass Yield (kvalitet)</text><circle cx="310" cy="215" r="3" fill="#007bff"/><text x="320" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="11">Leveringspresisjon</text><rect width="180" height="20" x="310" y="235" fill="#e3f2fd" rx="3"/><text x="400" y="248" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Mål: OEE &gt; 85%
-  </text>
-  
-
-  <rect x="530" y="80" width="220" height="180" fill="white" stroke="#ffc107" stroke-width="3" rx="10"/>
-  <rect x="530" y="80" width="220" height="40" fill="#ffc107" rx="10"/>
-  <text x="640" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="220" height="180" x="530" y="80" fill="#fff" stroke="#ffc107" stroke-width="3" rx="10"/><rect width="220" height="40" x="530" y="80" fill="#ffc107" rx="10"/><text x="640" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     TJENESTER
-  </text>
-  
-  <text x="640" y="135" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><text x="640" y="135" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Viktige KPI-er:
-  </text>
-  
-  <circle cx="550" cy="155" r="3" fill="#ffc107"/>
-  <text x="560" y="160" font-family="Arial, sans-serif" font-size="11" fill="#495057">Faktureringsgrad</text>
-  
-  <circle cx="550" cy="175" r="3" fill="#ffc107"/>
-  <text x="560" y="180" font-family="Arial, sans-serif" font-size="11" fill="#495057">Kundetilfredshetsscore (NPS)</text>
-  
-  <circle cx="550" cy="195" r="3" fill="#ffc107"/>
-  <text x="560" y="200" font-family="Arial, sans-serif" font-size="11" fill="#495057">Gjennomsnittlig prosjektmargin</text>
-  
-  <circle cx="550" cy="215" r="3" fill="#ffc107"/>
-  <text x="560" y="220" font-family="Arial, sans-serif" font-size="11" fill="#495057">Ansatturnover</text>
-  
-  <rect x="550" y="235" width="180" height="20" fill="#fff3cd" rx="3"/>
-  <text x="640" y="248" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><circle cx="550" cy="155" r="3" fill="#ffc107"/><text x="560" y="160" fill="#495057" font-family="Arial, sans-serif" font-size="11">Faktureringsgrad</text><circle cx="550" cy="175" r="3" fill="#ffc107"/><text x="560" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="11">Kundetilfredshetsscore (NPS)</text><circle cx="550" cy="195" r="3" fill="#ffc107"/><text x="560" y="200" fill="#495057" font-family="Arial, sans-serif" font-size="11">Gjennomsnittlig prosjektmargin</text><circle cx="550" cy="215" r="3" fill="#ffc107"/><text x="560" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="11">Ansatturnover</text><rect width="180" height="20" x="550" y="235" fill="#fff3cd" rx="3"/><text x="640" y="248" fill="#856404" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     Fokus: Kundetilfredshet &amp; margin
-  </text>
-  
-
-  <rect x="50" y="280" width="700" height="180" fill="white" stroke="#6c757d" stroke-width="2" rx="10"/>
-  <text x="400" y="305" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="700" height="180" x="50" y="280" fill="#fff" stroke="#6c757d" stroke-width="2" rx="10"/><text x="400" y="305" fill="#495057" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Suksesshistorier fra Norske Bedrifter
-  </text>
-  
-
-  <rect x="70" y="320" width="200" height="120" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="5"/>
-  <text x="170" y="340" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e7e34">
+  </text><rect width="200" height="120" x="70" y="320" fill="#e8f5e8" stroke="#28a745" rx="5"/><text x="170" y="340" fill="#1e7e34" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Klesbutikkjede
-  </text>
-  <text x="80" y="360" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Implementerte KPI-system</text>
-  <text x="80" y="375" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Fokus på lageromløp</text>
-  <text x="80" y="390" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Optimaliserte produktmiks</text>
-  <text x="170" y="415" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><text x="80" y="360" fill="#495057" font-family="Arial, sans-serif" font-size="10">• Implementerte KPI-system</text><text x="80" y="375" fill="#495057" font-family="Arial, sans-serif" font-size="10">• Fokus på lageromløp</text><text x="80" y="390" fill="#495057" font-family="Arial, sans-serif" font-size="10">• Optimaliserte produktmiks</text><text x="170" y="415" fill="#28a745" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Resultat: +15% lønnsomhet
-  </text>
-  
-
-  <rect x="300" y="320" width="200" height="120" fill="#e3f2fd" stroke="#007bff" stroke-width="1" rx="5"/>
-  <text x="400" y="340" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0056b3">
+  </text><rect width="200" height="120" x="300" y="320" fill="#e3f2fd" stroke="#007bff" rx="5"/><text x="400" y="340" fill="#0056b3" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Industriselskap
-  </text>
-  <text x="310" y="360" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Innførte OEE-måling</text>
-  <text x="310" y="375" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Daglig rapportering</text>
-  <text x="310" y="390" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Forbedret vedlikehold</text>
-  <text x="400" y="415" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#007bff">
+  </text><text x="310" y="360" fill="#495057" font-family="Arial, sans-serif" font-size="10">• Innførte OEE-måling</text><text x="310" y="375" fill="#495057" font-family="Arial, sans-serif" font-size="10">• Daglig rapportering</text><text x="310" y="390" fill="#495057" font-family="Arial, sans-serif" font-size="10">• Forbedret vedlikehold</text><text x="400" y="415" fill="#007bff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Resultat: OEE fra 72% til 89%
-  </text>
-  
-
-  <rect x="530" y="320" width="200" height="120" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
-  <text x="630" y="340" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="200" height="120" x="530" y="320" fill="#fff3cd" stroke="#ffc107" rx="5"/><text x="630" y="340" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Konsulentselskap
-  </text>
-  <text x="540" y="360" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Måler faktureringsgrad</text>
-  <text x="540" y="375" font-family="Arial, sans-serif" font-size="10" fill="#495057">• NPS-undersøkelser</text>
-  <text x="540" y="390" font-family="Arial, sans-serif" font-size="10" fill="#495057">• Prosjektmargin-fokus</text>
-  <text x="630" y="415" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#ffc107">
+  </text><text x="540" y="360" fill="#495057" font-family="Arial, sans-serif" font-size="10">• Måler faktureringsgrad</text><text x="540" y="375" fill="#495057" font-family="Arial, sans-serif" font-size="10">• NPS-undersøkelser</text><text x="540" y="390" fill="#495057" font-family="Arial, sans-serif" font-size="10">• Prosjektmargin-fokus</text><text x="630" y="415" fill="#ffc107" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Resultat: +25% margin
-  </text>
-  
-
-  <text x="400" y="480" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+  </text><text x="400" y="480" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Ulike bransjer krever tilpassede KPI-er for optimal prestasjonsmåling
-  </text>
-</svg>
+  </text></svg>

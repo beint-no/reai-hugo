@@ -1,120 +1,49 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="70" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v70H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Lovlige grunnlag for midlertidig ansettelse
-  </text>
-  
-
-  <text x="400" y="90" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#495057">
+  </text><text x="400" y="90" fill="#495057" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
     Arbeidsmiljøloven § 14-9 - Unntak fra hovedregelen om fast ansettelse
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="#ffc107" stroke="#e0a800" stroke-width="3"/>
-  <text x="400" y="290" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><circle cx="400" cy="300" r="80" fill="#ffc107" stroke="#e0a800" stroke-width="3"/><text x="400" y="290" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Midlertidig
-  </text>
-  <text x="400" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="400" y="310" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ansettelse
-  </text>
-  
-
-  <rect x="50" y="150" width="200" height="100" fill="#28a745" rx="8" opacity="0.9"/>
-  <text x="150" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="100" x="50" y="150" fill="#28a745" opacity=".9" rx="8"/><text x="150" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Arbeid av midlertidig
-  </text>
-  <text x="150" y="195" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="150" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     karakter
-  </text>
-  <text x="60" y="220" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="60" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Prosjektarbeid
-  </text>
-  <text x="60" y="235" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="60" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Sesongarbeid
-  </text>
-  
-
-  <rect x="550" y="150" width="200" height="100" fill="#17a2b8" rx="8" opacity="0.9"/>
-  <text x="650" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="100" x="550" y="150" fill="#17a2b8" opacity=".9" rx="8"/><text x="650" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Vikariat
-  </text>
-  <text x="560" y="210" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="560" y="210" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Fødselspermisjon
-  </text>
-  <text x="560" y="225" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="560" y="225" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Sykefravær
-  </text>
-  <text x="560" y="240" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="560" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Utdanningspermisjon
-  </text>
-  
-
-  <rect x="50" y="450" width="200" height="100" fill="#6f42c1" rx="8" opacity="0.9"/>
-  <text x="150" y="485" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="100" x="50" y="450" fill="#6f42c1" opacity=".9" rx="8"/><text x="150" y="485" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Prøvetid
-  </text>
-  <text x="60" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="60" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Maksimalt 6 måneder
-  </text>
-  <text x="60" y="525" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="60" y="525" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Kun ved første gangs
-  </text>
-  <text x="60" y="540" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="60" y="540" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       ansettelse
-  </text>
-  
-
-  <rect x="550" y="450" width="200" height="100" fill="#dc3545" rx="8" opacity="0.9"/>
-  <text x="650" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="200" height="100" x="550" y="450" fill="#dc3545" opacity=".9" rx="8"/><text x="650" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Særlige tilfeller
-  </text>
-  <text x="650" y="495" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="650" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     (AML § 14-9 f)
-  </text>
-  <text x="560" y="520" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="560" y="520" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Arbeidstakers særlige
-  </text>
-  <text x="560" y="535" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="560" y="535" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       kvalifikasjoner
-  </text>
-  
-
-  <line x1="250" y1="200" x2="330" y2="250" stroke="#6c757d" stroke-width="2"/>
-  <line x1="550" y1="200" x2="470" y2="250" stroke="#6c757d" stroke-width="2"/>
-  <line x1="250" y1="500" x2="330" y2="350" stroke="#6c757d" stroke-width="2"/>
-  <line x1="550" y1="500" x2="470" y2="350" stroke="#6c757d" stroke-width="2"/>
-  
-
-  <rect x="300" y="380" width="200" height="60" fill="#fd7e14" rx="5" opacity="0.9"/>
-  <text x="400" y="400" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">
+  </text><path stroke="#6c757d" stroke-width="2" d="m250 200 80 50M550 200l-80 50M250 500l80-150M550 500l-80-150"/><rect width="200" height="60" x="300" y="380" fill="#fd7e14" opacity=".9" rx="5"/><text x="400" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     VIKTIG!
-  </text>
-  <text x="400" y="420" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+  </text><text x="400" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Blir automatisk fast etter 4 år
-  </text>
-  <text x="400" y="435" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+  </text><text x="400" y="435" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     eller ved brudd på reglene
-  </text>
-  
-
-  <text x="400" y="580" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+  </text><text x="400" y="580" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Alle andre ansettelser må være faste - dette er hovedregelen i arbeidsmiljøloven
-  </text>
-</svg>
+  </text></svg>

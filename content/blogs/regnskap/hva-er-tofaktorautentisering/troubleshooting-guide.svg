@@ -1,193 +1,37 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="problemGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffebee;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffcdd2;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1976d2">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffebee;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffcdd2;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#c8e6c9;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1976d2" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     2FA Troubleshooting Guide
-  </text>
-  
-
-  <g transform="translate(50, 60)">
-
-    <rect x="0" y="0" width="300" height="40" rx="8" fill="#f44336" opacity="0.9"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 60)"><rect width="300" height="40" fill="#f44336" opacity=".9" rx="8"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Common Problems
-    </text>
-    
-
-    <rect x="0" y="50" width="300" height="80" rx="8" fill="url(#problemGradient)" stroke="#f44336" stroke-width="2"/>
-    <circle cx="25" cy="70" r="8" fill="#f44336"/>
-    <text x="25" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
-    <text x="45" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">TOTP Time Skew</text>
-    <text x="45" y="95" font-family="Arial, sans-serif" font-size="12" fill="#666">
-      <tspan x="45" dy="0">"Invalid code" errors</tspan>
+    </text><rect width="300" height="80" y="50" fill="url(#b)" stroke="#f44336" stroke-width="2" rx="8"/><circle cx="25" cy="70" r="8" fill="#f44336"/><text x="25" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">!</text><text x="45" y="75" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold">TOTP Time Skew</text><text x="45" y="95" fill="#666" font-family="Arial, sans-serif" font-size="12">
+      <tspan x="45" dy="0">&quot;Invalid code&quot; errors</tspan>
       <tspan x="45" dy="15">Device time not synced</tspan>
-    </text>
-    
-
-    <rect x="0" y="140" width="300" height="80" rx="8" fill="url(#problemGradient)" stroke="#f44336" stroke-width="2"/>
-    <circle cx="25" cy="160" r="8" fill="#f44336"/>
-    <text x="25" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
-    <text x="45" y="165" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">SMS Delays</text>
-    <text x="45" y="185" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><rect width="300" height="80" y="140" fill="url(#b)" stroke="#f44336" stroke-width="2" rx="8"/><circle cx="25" cy="160" r="8" fill="#f44336"/><text x="25" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">!</text><text x="45" y="165" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold">SMS Delays</text><text x="45" y="185" fill="#666" font-family="Arial, sans-serif" font-size="12">
       <tspan x="45" dy="0">Codes arrive too late</tspan>
       <tspan x="45" dy="15">Network congestion</tspan>
-    </text>
-    
-
-    <rect x="0" y="230" width="300" height="80" rx="8" fill="url(#problemGradient)" stroke="#f44336" stroke-width="2"/>
-    <circle cx="25" cy="250" r="8" fill="#f44336"/>
-    <text x="25" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
-    <text x="45" y="255" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">Hardware Key Issues</text>
-    <text x="45" y="275" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><rect width="300" height="80" y="230" fill="url(#b)" stroke="#f44336" stroke-width="2" rx="8"/><circle cx="25" cy="250" r="8" fill="#f44336"/><text x="25" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">!</text><text x="45" y="255" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Hardware Key Issues</text><text x="45" y="275" fill="#666" font-family="Arial, sans-serif" font-size="12">
       <tspan x="45" dy="0">USB device not detected</tspan>
       <tspan x="45" dy="15">Browser compatibility</tspan>
-    </text>
-    
-
-    <rect x="0" y="320" width="300" height="80" rx="8" fill="url(#problemGradient)" stroke="#f44336" stroke-width="2"/>
-    <circle cx="25" cy="340" r="8" fill="#f44336"/>
-    <text x="25" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
-    <text x="45" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">User Challenges</text>
-    <text x="45" y="365" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><rect width="300" height="80" y="320" fill="url(#b)" stroke="#f44336" stroke-width="2" rx="8"/><circle cx="25" cy="340" r="8" fill="#f44336"/><text x="25" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">!</text><text x="45" y="345" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold">User Challenges</text><text x="45" y="365" fill="#666" font-family="Arial, sans-serif" font-size="12">
       <tspan x="45" dy="0">Forgotten device</tspan>
       <tspan x="45" dy="15">Technology anxiety</tspan>
-    </text>
-  </g>
-  
-
-  <path d="M 370 280 L 410 280" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-  </defs>
-  
-
-  <g transform="translate(450, 60)">
-
-    <rect x="0" y="0" width="300" height="40" rx="8" fill="#4caf50" opacity="0.9"/>
-    <text x="150" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#c)" d="M370 280h40"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs><g transform="translate(450 60)"><rect width="300" height="40" fill="#4caf50" opacity=".9" rx="8"/><text x="150" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Solutions
-    </text>
-    
-
-    <rect x="0" y="50" width="300" height="80" rx="8" fill="url(#solutionGradient)" stroke="#4caf50" stroke-width="2"/>
-    <circle cx="25" cy="70" r="8" fill="#4caf50"/>
-    <text x="25" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✓</text>
-    <text x="45" y="75" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">NTP Synchronization</text>
-    <text x="45" y="95" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><rect width="300" height="80" y="50" fill="url(#d)" stroke="#4caf50" stroke-width="2" rx="8"/><circle cx="25" cy="70" r="8" fill="#4caf50"/><text x="25" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="45" y="75" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">NTP Synchronization</text><text x="45" y="95" fill="#666" font-family="Arial, sans-serif" font-size="12">
       <tspan x="45" dy="0">Sync device time with NTP server</tspan>
       <tspan x="45" dy="15">Automatic time correction</tspan>
-    </text>
-    
-
-    <rect x="0" y="140" width="300" height="80" rx="8" fill="url(#solutionGradient)" stroke="#4caf50" stroke-width="2"/>
-    <circle cx="25" cy="160" r="8" fill="#4caf50"/>
-    <text x="25" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✓</text>
-    <text x="45" y="165" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">Alternative Methods</text>
-    <text x="45" y="185" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><rect width="300" height="80" y="140" fill="url(#d)" stroke="#4caf50" stroke-width="2" rx="8"/><circle cx="25" cy="160" r="8" fill="#4caf50"/><text x="25" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="45" y="165" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Alternative Methods</text><text x="45" y="185" fill="#666" font-family="Arial, sans-serif" font-size="12">
       <tspan x="45" dy="0">Switch to authenticator app</tspan>
       <tspan x="45" dy="15">Email backup codes</tspan>
-    </text>
-    
-
-    <rect x="0" y="230" width="300" height="80" rx="8" fill="url(#solutionGradient)" stroke="#4caf50" stroke-width="2"/>
-    <circle cx="25" cy="250" r="8" fill="#4caf50"/>
-    <text x="25" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✓</text>
-    <text x="45" y="255" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">Driver Updates</text>
-    <text x="45" y="275" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><rect width="300" height="80" y="230" fill="url(#d)" stroke="#4caf50" stroke-width="2" rx="8"/><circle cx="25" cy="250" r="8" fill="#4caf50"/><text x="25" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="45" y="255" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Driver Updates</text><text x="45" y="275" fill="#666" font-family="Arial, sans-serif" font-size="12">
       <tspan x="45" dy="0">Update USB drivers</tspan>
       <tspan x="45" dy="15">Check browser compatibility</tspan>
-    </text>
-    
-
-    <rect x="0" y="320" width="300" height="80" rx="8" fill="url(#solutionGradient)" stroke="#4caf50" stroke-width="2"/>
-    <circle cx="25" cy="340" r="8" fill="#4caf50"/>
-    <text x="25" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✓</text>
-    <text x="45" y="345" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2e7d32">Support &amp; Training</text>
-    <text x="45" y="365" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    </text><rect width="300" height="80" y="320" fill="url(#d)" stroke="#4caf50" stroke-width="2" rx="8"/><circle cx="25" cy="340" r="8" fill="#4caf50"/><text x="25" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓</text><text x="45" y="345" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Support &amp; Training</text><text x="45" y="365" fill="#666" font-family="Arial, sans-serif" font-size="12">
       <tspan x="45" dy="0">Recovery codes &amp; admin reset</tspan>
       <tspan x="45" dy="15">Extra support &amp; training</tspan>
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 420)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
+    </text></g><g transform="translate(50 420)"><text y="20" fill="#1976d2" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Support Process Flow
-    </text>
-    
-
-    <rect x="0" y="30" width="120" height="50" rx="8" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/>
-    <text x="60" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1976d2">User Reports</text>
-    <text x="60" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976d2">Issue</text>
-    
-
-    <path d="M 130 55 L 150 55" stroke="#1976d2" stroke-width="2" fill="none" marker-end="url(#arrowhead2)"/>
-    <defs>
-      <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-        <polygon points="0 0, 10 3.5, 0 7" fill="#1976d2"/>
-      </marker>
-    </defs>
-    
-
-    <rect x="160" y="30" width="120" height="50" rx="8" fill="#fff3e0" stroke="#f57c00" stroke-width="2"/>
-    <text x="220" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f57c00">Diagnose</text>
-    <text x="220" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f57c00">Problem</text>
-    
-
-    <path d="M 290 55 L 310 55" stroke="#f57c00" stroke-width="2" fill="none" marker-end="url(#arrowhead3)"/>
-    <defs>
-      <marker id="arrowhead3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-        <polygon points="0 0, 10 3.5, 0 7" fill="#f57c00"/>
-      </marker>
-    </defs>
-    
-
-    <rect x="320" y="30" width="120" height="50" rx="8" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
-    <text x="380" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7b1fa2">Apply</text>
-    <text x="380" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7b1fa2">Solution</text>
-    
-
-    <path d="M 450 55 L 470 55" stroke="#7b1fa2" stroke-width="2" fill="none" marker-end="url(#arrowhead4)"/>
-    <defs>
-      <marker id="arrowhead4" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-        <polygon points="0 0, 10 3.5, 0 7" fill="#7b1fa2"/>
-      </marker>
-    </defs>
-    
-
-    <rect x="480" y="30" width="120" height="50" rx="8" fill="#e8f5e8" stroke="#4caf50" stroke-width="2"/>
-    <text x="540" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4caf50">Verify</text>
-    <text x="540" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4caf50">Resolution</text>
-  </g>
-  
-
-  <g transform="translate(50, 520)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#d32f2f">
+    </text><rect width="120" height="50" y="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="8"/><text x="60" y="50" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">User Reports</text><text x="60" y="65" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Issue</text><path fill="none" stroke="#1976d2" stroke-width="2" marker-end="url(#e)" d="M130 55h20"/><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#1976d2" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="120" height="50" x="160" y="30" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="8"/><text x="220" y="50" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Diagnose</text><text x="220" y="65" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Problem</text><path fill="none" stroke="#f57c00" stroke-width="2" marker-end="url(#f)" d="M290 55h20"/><defs><marker id="f" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#f57c00" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="120" height="50" x="320" y="30" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="8"/><text x="380" y="50" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Apply</text><text x="380" y="65" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Solution</text><path fill="none" stroke="#7b1fa2" stroke-width="2" marker-end="url(#g)" d="M450 55h20"/><defs><marker id="g" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#7b1fa2" d="m0 0 10 3.5L0 7z"/></marker></defs><rect width="120" height="50" x="480" y="30" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="8"/><text x="540" y="50" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Verify</text><text x="540" y="65" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Resolution</text></g><g transform="translate(50 520)"><text y="20" fill="#d32f2f" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
       Emergency Procedures
-    </text>
-    
-    <rect x="0" y="30" width="700" height="40" rx="8" fill="#ffebee" stroke="#d32f2f" stroke-width="2"/>
-    <text x="20" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#d32f2f">
+    </text><rect width="700" height="40" y="30" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="8"/><text x="20" y="50" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Critical System Access: Use backup codes → Admin override → Manual verification
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

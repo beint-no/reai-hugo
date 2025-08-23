@@ -1,67 +1,7 @@
-<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#34495e;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="400" height="200" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="200" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="url(#textGradient)">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1"/><stop offset="100%" style="stop-color:#34495e;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h400v200H0z"/><text x="200" y="40" fill="url(#b)" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Hva er GTIN/EAN?
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-
-    <rect x="0" y="0" width="2" height="40" fill="#000"/>
-    <rect x="4" y="0" width="1" height="40" fill="#000"/>
-    <rect x="7" y="0" width="3" height="40" fill="#000"/>
-    <rect x="12" y="0" width="1" height="40" fill="#000"/>
-    <rect x="15" y="0" width="2" height="40" fill="#000"/>
-    <rect x="19" y="0" width="1" height="40" fill="#000"/>
-    <rect x="22" y="0" width="3" height="40" fill="#000"/>
-    <rect x="27" y="0" width="1" height="40" fill="#000"/>
-    <rect x="30" y="0" width="2" height="40" fill="#000"/>
-    <rect x="34" y="0" width="1" height="40" fill="#000"/>
-    <rect x="37" y="0" width="3" height="40" fill="#000"/>
-    <rect x="42" y="0" width="2" height="40" fill="#000"/>
-    <rect x="46" y="0" width="1" height="40" fill="#000"/>
-    <rect x="49" y="0" width="2" height="40" fill="#000"/>
-    <rect x="53" y="0" width="3" height="40" fill="#000"/>
-    <rect x="58" y="0" width="1" height="40" fill="#000"/>
-    <rect x="61" y="0" width="2" height="40" fill="#000"/>
-    <rect x="65" y="0" width="1" height="40" fill="#000"/>
-    <rect x="68" y="0" width="3" height="40" fill="#000"/>
-    <rect x="73" y="0" width="2" height="40" fill="#000"/>
-    
-
-    <text x="37" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+  </text><path d="M50 70h2v40h-2zM54 70h1v40h-1zM57 70h3v40h-3zM62 70h1v40h-1zM65 70h2v40h-2zM69 70h1v40h-1zM72 70h3v40h-3zM77 70h1v40h-1zM80 70h2v40h-2zM84 70h1v40h-1zM87 70h3v40h-3zM92 70h2v40h-2zM96 70h1v40h-1zM99 70h2v40h-2zM103 70h3v40h-3zM108 70h1v40h-1zM111 70h2v40h-2zM115 70h1v40h-1zM118 70h3v40h-3zM123 70h2v40h-2z"/><text x="37" y="55" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="translate(50 70)">
       7035620012345
-    </text>
-  </g>
-  
-
-  <g transform="translate(280, 80)">
-    <circle cx="30" cy="20" r="18" fill="none" stroke="#3498db" stroke-width="2"/>
-    <path d="M15 20 Q30 10 45 20 Q30 30 15 20" fill="none" stroke="#3498db" stroke-width="1.5"/>
-    <path d="M30 5 L30 35 M15 12 L45 28 M15 28 L45 12" stroke="#3498db" stroke-width="1"/>
-  </g>
-  
-
-  <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6c757d">
+    </text><g stroke="#3498db" transform="translate(280 80)"><circle cx="30" cy="20" r="18" fill="none" stroke-width="2"/><path fill="none" stroke-width="1.5" d="M15 20q15-10 30 0-15 10-30 0"/><path d="M30 5v30M15 12l30 16m-30 0 30-16"/></g><text x="200" y="160" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Globale Produktkoder i Regnskap
-  </text>
-  
-
-  <circle cx="30" cy="30" r="3" fill="#e74c3c" opacity="0.7"/>
-  <circle cx="370" cy="170" r="4" fill="#27ae60" opacity="0.7"/>
-  <rect x="20" y="170" width="6" height="6" fill="#f39c12" opacity="0.7" transform="rotate(45 23 173)"/>
-</svg>
+  </text><circle cx="30" cy="30" r="3" fill="#e74c3c" opacity=".7"/><circle cx="370" cy="170" r="4" fill="#27ae60" opacity=".7"/><path fill="#f39c12" d="M23 168.757 27.243 173 23 177.243 18.757 173z" opacity=".7"/></svg>

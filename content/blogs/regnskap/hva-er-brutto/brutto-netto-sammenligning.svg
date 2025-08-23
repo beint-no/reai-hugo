@@ -1,186 +1,79 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="bruttoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.9" />
-    </linearGradient>
-    <linearGradient id="nettoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#6610f2;stop-opacity:0.9" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.9"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:.9"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:.9"/><stop offset="100%" style="stop-color:#6610f2;stop-opacity:.9"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Brutto vs. Netto Sammenligning
-  </text>
-  
-
-  <rect x="50" y="60" width="150" height="40" rx="5" fill="#495057"/>
-  <text x="125" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="150" height="40" x="50" y="60" fill="#495057" rx="5"/><text x="125" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Område
-  </text>
-  
-  <rect x="220" y="60" width="180" height="40" rx="5" fill="url(#bruttoGradient)"/>
-  <text x="310" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="180" height="40" x="220" y="60" fill="url(#b)" rx="5"/><text x="310" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     BRUTTO
-  </text>
-  
-  <rect x="420" y="60" width="180" height="40" rx="5" fill="url(#nettoGradient)"/>
-  <text x="510" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="180" height="40" x="420" y="60" fill="url(#c)" rx="5"/><text x="510" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     NETTO
-  </text>
-  
-  <rect x="620" y="60" width="130" height="40" rx="5" fill="#6c757d"/>
-  <text x="685" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="130" height="40" x="620" y="60" fill="#6c757d" rx="5"/><text x="685" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Forskjell
-  </text>
-  
-
-  <rect x="50" y="120" width="150" height="60" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
-  <text x="125" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="150" height="60" x="50" y="120" fill="#fff" stroke="#dee2e6" rx="5"/><text x="125" y="140" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Lønn
-  </text>
-  <text x="125" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="125" y="160" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Månedlig utbetaling
-  </text>
-  
-  <rect x="220" y="120" width="180" height="60" rx="5" fill="url(#bruttoGradient)" opacity="0.8"/>
-  <text x="310" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="60" x="220" y="120" fill="url(#b)" opacity=".8" rx="5"/><text x="310" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Før skattetrekk
-  </text>
-  <text x="310" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="310" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     50.000 kr
-  </text>
-  
-  <rect x="420" y="120" width="180" height="60" rx="5" fill="url(#nettoGradient)" opacity="0.8"/>
-  <text x="510" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="60" x="420" y="120" fill="url(#c)" opacity=".8" rx="5"/><text x="510" y="140" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Etter skattetrekk
-  </text>
-  <text x="510" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="510" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     38.000 kr
-  </text>
-  
-  <rect x="620" y="120" width="130" height="60" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
-  <text x="685" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><rect width="130" height="60" x="620" y="120" fill="#fff" stroke="#dee2e6" rx="5"/><text x="685" y="145" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Skatt og avgifter
-  </text>
-  <text x="685" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="685" y="165" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     12.000 kr
-  </text>
-  
-
-  <rect x="50" y="200" width="150" height="60" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
-  <text x="125" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="150" height="60" x="50" y="200" fill="#fff" stroke="#dee2e6" rx="5"/><text x="125" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Omsetning
-  </text>
-  <text x="125" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="125" y="240" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Salgsinntekter
-  </text>
-  
-  <rect x="220" y="200" width="180" height="60" rx="5" fill="url(#bruttoGradient)" opacity="0.8"/>
-  <text x="310" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="60" x="220" y="200" fill="url(#b)" opacity=".8" rx="5"/><text x="310" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Inkl. MVA
-  </text>
-  <text x="310" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="310" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     1.250.000 kr
-  </text>
-  
-  <rect x="420" y="200" width="180" height="60" rx="5" fill="url(#nettoGradient)" opacity="0.8"/>
-  <text x="510" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="60" x="420" y="200" fill="url(#c)" opacity=".8" rx="5"/><text x="510" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Ekskl. MVA
-  </text>
-  <text x="510" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="510" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     1.000.000 kr
-  </text>
-  
-  <rect x="620" y="200" width="130" height="60" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
-  <text x="685" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><rect width="130" height="60" x="620" y="200" fill="#fff" stroke="#dee2e6" rx="5"/><text x="685" y="225" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Merverdiavgift
-  </text>
-  <text x="685" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="685" y="245" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     250.000 kr
-  </text>
-  
-
-  <rect x="50" y="280" width="150" height="60" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
-  <text x="125" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="150" height="60" x="50" y="280" fill="#fff" stroke="#dee2e6" rx="5"/><text x="125" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fortjeneste
-  </text>
-  <text x="125" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="125" y="320" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Resultat
-  </text>
-  
-  <rect x="220" y="280" width="180" height="60" rx="5" fill="url(#bruttoGradient)" opacity="0.8"/>
-  <text x="310" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="60" x="220" y="280" fill="url(#b)" opacity=".8" rx="5"/><text x="310" y="300" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Før driftskostnader
-  </text>
-  <text x="310" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="310" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     400.000 kr
-  </text>
-  
-  <rect x="420" y="280" width="180" height="60" rx="5" fill="url(#nettoGradient)" opacity="0.8"/>
-  <text x="510" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="60" x="420" y="280" fill="url(#c)" opacity=".8" rx="5"/><text x="510" y="300" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Etter alle kostnader
-  </text>
-  <text x="510" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="510" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     250.000 kr
-  </text>
-  
-  <rect x="620" y="280" width="130" height="60" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
-  <text x="685" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><rect width="130" height="60" x="620" y="280" fill="#fff" stroke="#dee2e6" rx="5"/><text x="685" y="305" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Driftskostnader
-  </text>
-  <text x="685" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="685" y="325" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     150.000 kr
-  </text>
-  
-
-  <rect x="50" y="360" width="150" height="60" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
-  <text x="125" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="150" height="60" x="50" y="360" fill="#fff" stroke="#dee2e6" rx="5"/><text x="125" y="380" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Investering
-  </text>
-  <text x="125" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="125" y="400" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Anleggsmidler
-  </text>
-  
-  <rect x="220" y="360" width="180" height="60" rx="5" fill="url(#bruttoGradient)" opacity="0.8"/>
-  <text x="310" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="60" x="220" y="360" fill="url(#b)" opacity=".8" rx="5"/><text x="310" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Før avskrivninger
-  </text>
-  <text x="310" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="310" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     500.000 kr
-  </text>
-  
-  <rect x="420" y="360" width="180" height="60" rx="5" fill="url(#nettoGradient)" opacity="0.8"/>
-  <text x="510" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="180" height="60" x="420" y="360" fill="url(#c)" opacity=".8" rx="5"/><text x="510" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Etter avskrivninger
-  </text>
-  <text x="510" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="510" y="400" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     350.000 kr
-  </text>
-  
-  <rect x="620" y="360" width="130" height="60" rx="5" fill="white" stroke="#dee2e6" stroke-width="1"/>
-  <text x="685" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><rect width="130" height="60" x="620" y="360" fill="#fff" stroke="#dee2e6" rx="5"/><text x="685" y="385" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Verdiforringelse
-  </text>
-  <text x="685" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="685" y="405" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     150.000 kr
-  </text>
-  
-
-  <rect x="100" y="440" width="600" height="40" rx="5" fill="white" stroke="#28a745" stroke-width="2"/>
-  <text x="400" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+  </text><rect width="600" height="40" x="100" y="440" fill="#fff" stroke="#28a745" stroke-width="2" rx="5"/><text x="400" y="455" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Hovedprinsipp: Brutto = Totalbeløp før fradrag | Netto = Beløp etter fradrag
-  </text>
-  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="400" y="470" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Forskjellen representerer kostnader, avgifter eller verdiforringelse
-  </text>
-</svg>
+  </text></svg>

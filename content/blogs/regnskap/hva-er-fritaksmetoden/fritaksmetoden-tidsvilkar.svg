@@ -1,95 +1,31 @@
-<svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="timeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#28a745;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="300" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="50%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#28a745;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v300H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Tidsvilkåret - Minimum 2 År Eierskap
-  </text>
-  
-
-  <rect x="100" y="80" width="600" height="40" fill="url(#timeGradient)" rx="20" stroke="#6c757d" stroke-width="2"/>
-  
-
-  <circle cx="100" cy="100" r="8" fill="#dc3545" stroke="white" stroke-width="2"/>
-  <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#dc3545">
+  </text><rect width="600" height="40" x="100" y="80" fill="url(#b)" stroke="#6c757d" stroke-width="2" rx="20"/><circle cx="100" cy="100" r="8" fill="#dc3545" stroke="#fff" stroke-width="2"/><text x="100" y="70" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kjøp
-  </text>
-  <text x="100" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">
+  </text><text x="100" y="140" fill="#dc3545" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Ervervsdag
-  </text>
-  
-  <circle cx="400" cy="100" r="8" fill="#ffc107" stroke="white" stroke-width="2"/>
-  <text x="400" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+  </text><circle cx="400" cy="100" r="8" fill="#ffc107" stroke="#fff" stroke-width="2"/><text x="400" y="70" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     2 År
-  </text>
-  <text x="400" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="400" y="140" fill="#856404" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Minimum eiertid
-  </text>
-  
-  <circle cx="700" cy="100" r="8" fill="#28a745" stroke="white" stroke-width="2"/>
-  <text x="700" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#28a745">
+  </text><circle cx="700" cy="100" r="8" fill="#28a745" stroke="#fff" stroke-width="2"/><text x="700" y="70" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Utbytte/Salg
-  </text>
-  <text x="700" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#28a745">
+  </text><text x="700" y="140" fill="#28a745" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Fritaksmetoden gjelder
-  </text>
-  
-
-  <rect x="100" y="160" width="300" height="50" fill="#ffebee" stroke="#dc3545" stroke-width="2" rx="5"/>
-  <text x="250" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc3545">
+  </text><rect width="300" height="50" x="100" y="160" fill="#ffebee" stroke="#dc3545" stroke-width="2" rx="5"/><text x="250" y="180" fill="#dc3545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     0-2 År
-  </text>
-  <text x="250" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#dc3545">
+  </text><text x="250" y="195" fill="#dc3545" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Fritaksmetoden gjelder IKKE
-  </text>
-  <text x="250" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#dc3545">
+  </text><text x="250" y="205" fill="#dc3545" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     (Full skatteplikt)
-  </text>
-  
-  <rect x="400" y="160" width="300" height="50" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/>
-  <text x="550" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+  </text><rect width="300" height="50" x="400" y="160" fill="#e8f5e8" stroke="#28a745" stroke-width="2" rx="5"/><text x="550" y="180" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ≥2 År
-  </text>
-  <text x="550" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#28a745">
+  </text><text x="550" y="195" fill="#28a745" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Fritaksmetoden gjelder
-  </text>
-  <text x="550" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#28a745">
+  </text><text x="550" y="205" fill="#28a745" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     (97% skattefritt)
-  </text>
-  
-
-  <rect x="50" y="230" width="700" height="50" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/>
-  <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+  </text><rect width="700" height="50" x="50" y="230" fill="#fff3cd" stroke="#ffc107" stroke-width="2" rx="5"/><text x="400" y="250" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Viktig: Sammenhengende eierskap kreves
-  </text>
-  <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#856404">
+  </text><text x="400" y="265" fill="#856404" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Eierskapet må være kontinuerlig fra ervervsdag til utdelingsdag/salgsdag
-  </text>
-  
-
-  <path d="M 100 120 L 400 120" stroke="#6c757d" stroke-width="2" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="5,5"/>
-  <path d="M 400 120 L 700 120" stroke="#28a745" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d"/>
-    </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#28a745"/>
-    </marker>
-  </defs>
-</svg>
+  </text><path fill="none" stroke="#6c757d" stroke-dasharray="5,5" stroke-width="2" marker-end="url(#c)" d="M100 120h300"/><path fill="none" stroke="#28a745" stroke-width="3" marker-end="url(#d)" d="M400 120h300"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#28a745" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

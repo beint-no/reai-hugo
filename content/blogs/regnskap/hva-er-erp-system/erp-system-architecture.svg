@@ -1,155 +1,69 @@
-<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     ERP-systemets Kjernearkitektur
-  </text>
-  
-
-  <rect x="300" y="400" width="200" height="60" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="8"/>
-  <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="200" height="60" x="300" y="400" fill="#34495e" stroke="#2c3e50" stroke-width="2" rx="8"/><text x="400" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Sentral Database
-  </text>
-  <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ecf0f1">
+  </text><text x="400" y="440" fill="#ecf0f1" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Felles datamodell
-  </text>
-  <text x="400" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ecf0f1">
+  </text><text x="400" y="455" fill="#ecf0f1" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Sanntidsdata
-  </text>
-  
-
-  <rect x="250" y="300" width="300" height="60" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/>
-  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="300" height="60" x="250" y="300" fill="#3498db" stroke="#2980b9" stroke-width="2" rx="8"/><text x="400" y="320" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Forretningslogikk
-  </text>
-  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Prosessregler og arbeidsflyter
-  </text>
-  <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Integrasjonsmotor
-  </text>
-  
-
-  <rect x="50" y="180" width="120" height="80" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/>
-  <text x="110" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="80" x="50" y="180" fill="#e74c3c" stroke="#c0392b" stroke-width="2" rx="8"/><text x="110" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Økonomi
-  </text>
-  <text x="110" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="110" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Hovedbok
-  </text>
-  <text x="110" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="110" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Debitor/Kreditor
-  </text>
-  <text x="110" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="110" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Anleggsmidler
-  </text>
-  
-  <rect x="200" y="180" width="120" height="80" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/>
-  <text x="260" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="80" x="200" y="180" fill="#27ae60" stroke="#229954" stroke-width="2" rx="8"/><text x="260" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Salg/CRM
-  </text>
-  <text x="260" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="260" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Kundestyring
-  </text>
-  <text x="260" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="260" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Ordrebehandling
-  </text>
-  <text x="260" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="260" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Fakturering
-  </text>
-  
-  <rect x="350" y="180" width="120" height="80" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/>
-  <text x="410" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="80" x="350" y="180" fill="#f39c12" stroke="#e67e22" stroke-width="2" rx="8"/><text x="410" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Produksjon
-  </text>
-  <text x="410" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="410" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Planlegging
-  </text>
-  <text x="410" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="410" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Lagerstyring
-  </text>
-  <text x="410" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="410" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Kvalitetskontroll
-  </text>
-  
-  <rect x="500" y="180" width="120" height="80" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/>
-  <text x="560" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="80" x="500" y="180" fill="#9b59b6" stroke="#8e44ad" stroke-width="2" rx="8"/><text x="560" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Personal
-  </text>
-  <text x="560" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="560" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Lønnskjøring
-  </text>
-  <text x="560" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="560" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Fravær
-  </text>
-  <text x="560" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="560" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Kompetanse
-  </text>
-  
-  <rect x="630" y="180" width="120" height="80" fill="#e67e22" stroke="#d35400" stroke-width="2" rx="8"/>
-  <text x="690" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><rect width="120" height="80" x="630" y="180" fill="#e67e22" stroke="#d35400" stroke-width="2" rx="8"/><text x="690" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Innkjøp
-  </text>
-  <text x="690" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="690" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Bestillinger
-  </text>
-  <text x="690" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="690" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Leverandører
-  </text>
-  <text x="690" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+  </text><text x="690" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     • Kontrakter
-  </text>
-  
-
-  <rect x="200" y="80" width="400" height="60" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2" rx="8"/>
-  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="400" height="60" x="200" y="80" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2" rx="8"/><text x="400" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Brukergrensesnitt
-  </text>
-  <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="400" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Web • Mobile • Desktop • API
-  </text>
-  
-
-
-  <line x1="110" y1="260" x2="350" y2="300" stroke="#7f8c8d" stroke-width="2"/>
-  <line x1="260" y1="260" x2="380" y2="300" stroke="#7f8c8d" stroke-width="2"/>
-  <line x1="410" y1="260" x2="400" y2="300" stroke="#7f8c8d" stroke-width="2"/>
-  <line x1="560" y1="260" x2="420" y2="300" stroke="#7f8c8d" stroke-width="2"/>
-  <line x1="690" y1="260" x2="450" y2="300" stroke="#7f8c8d" stroke-width="2"/>
-  
-
-  <line x1="400" y1="360" x2="400" y2="400" stroke="#7f8c8d" stroke-width="3"/>
-  
-
-  <line x1="400" y1="140" x2="400" y2="300" stroke="#7f8c8d" stroke-width="3"/>
-  
-
-  <polygon points="395,290 400,280 405,290" fill="#7f8c8d"/>
-  <polygon points="395,390 400,380 405,390" fill="#7f8c8d"/>
-  
-
-  <circle cx="100" cy="330" r="15" fill="#16a085" stroke="#138d75" stroke-width="2"/>
-  <text x="100" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><path stroke="#7f8c8d" stroke-width="2" d="m110 260 240 40M260 260l120 40M410 260l-10 40M560 260l-140 40M690 260l-240 40"/><path stroke="#7f8c8d" stroke-width="3" d="M400 360v40M400 140v160"/><path fill="#7f8c8d" d="m395 290 5-10 5 10zM395 390l5-10 5 10z"/><circle cx="100" cy="330" r="15" fill="#16a085" stroke="#138d75" stroke-width="2"/><text x="100" y="335" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     API
-  </text>
-  <text x="100" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="100" y="355" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Eksterne
-  </text>
-  <text x="100" y="368" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="100" y="368" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     systemer
-  </text>
-  
-  <circle cx="700" cy="330" r="15" fill="#16a085" stroke="#138d75" stroke-width="2"/>
-  <text x="700" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><circle cx="700" cy="330" r="15" fill="#16a085" stroke="#138d75" stroke-width="2"/><text x="700" y="335" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     API
-  </text>
-  <text x="700" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="700" y="355" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Tredjeparter
-  </text>
-  
-
-  <line x1="115" y1="330" x2="250" y2="330" stroke="#16a085" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="685" y1="330" x2="550" y2="330" stroke="#16a085" stroke-width="2" stroke-dasharray="5,5"/>
-</svg>
+  </text><path stroke="#16a085" stroke-dasharray="5,5" stroke-width="2" d="M115 330h135M685 330H550"/></svg>

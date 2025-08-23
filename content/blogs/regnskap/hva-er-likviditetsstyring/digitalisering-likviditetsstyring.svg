@@ -1,167 +1,77 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">
     Digitalisering av Likviditetsstyring
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-
-    <rect x="0" y="0" width="220" height="120" rx="10" fill="url(#techGradient)" stroke="#004499" stroke-width="2"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="220" height="120" fill="url(#b)" stroke="#049" stroke-width="2" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       AI &amp; Maskinlæring
-    </text>
-    <text x="110" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="110" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Automatiserte prognoser
-    </text>
-    <text x="110" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="110" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Mønstergjenkjenning
-    </text>
-    <text x="110" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="110" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Prediktiv analyse
-    </text>
-    <text x="110" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="110" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Anomalideteksjon
-    </text>
-    
-
-    <rect x="240" y="0" width="220" height="120" rx="10" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><rect width="220" height="120" x="240" fill="#28a745" stroke="#1e7e34" stroke-width="2" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Sanntidssystemer
-    </text>
-    <text x="350" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="350" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Live kontantstrømdata
-    </text>
-    <text x="350" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="350" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Automatisk rapportering
-    </text>
-    <text x="350" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="350" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Dashboard overvåking
-    </text>
-    <text x="350" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="350" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Varslingssystemer
-    </text>
-    
-
-    <rect x="480" y="0" width="220" height="120" rx="10" fill="#fd7e14" stroke="#e55a00" stroke-width="2"/>
-    <text x="590" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><rect width="220" height="120" x="480" fill="#fd7e14" stroke="#e55a00" stroke-width="2" rx="10"/><text x="590" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Automatisering
-    </text>
-    <text x="590" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="590" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Elektroniske betalinger
-    </text>
-    <text x="590" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="590" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Avtalegiro systemer
-    </text>
-    <text x="590" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="590" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Automatisk fakturering
-    </text>
-    <text x="590" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="590" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       • Betalingsrutiner
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 220)">
-    <rect x="0" y="0" width="700" height="200" rx="15" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
-    <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    </text></g><g transform="translate(50 220)"><rect width="700" height="200" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="15"/><text x="350" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       Fordeler med Digital Likviditetsstyring
-    </text>
-    
-
-    <g transform="translate(30, 50)">
-      <rect x="0" y="0" width="200" height="120" rx="8" fill="#e8f5e8" stroke="#28a745" stroke-width="1"/>
-      <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#28a745">
+    </text><g transform="translate(30 50)"><rect width="200" height="120" fill="#e8f5e8" stroke="#28a745" rx="8"/><text x="100" y="20" fill="#28a745" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Økt Effektivitet
-      </text>
-      <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="45" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Redusert manuelt arbeid
-      </text>
-      <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="60" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Raskere prosessering
-      </text>
-      <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="75" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Automatiserte rutiner
-      </text>
-      <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="90" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • 24/7 overvåking
-      </text>
-      <text x="100" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Skalerbarhet
-      </text>
-    </g>
-    
-
-    <g transform="translate(250, 50)">
-      <rect x="0" y="0" width="200" height="120" rx="8" fill="#e3f2fd" stroke="#2196f3" stroke-width="1"/>
-      <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2196f3">
+      </text></g><g transform="translate(250 50)"><rect width="200" height="120" fill="#e3f2fd" stroke="#2196f3" rx="8"/><text x="100" y="20" fill="#2196f3" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Forbedret Nøyaktighet
-      </text>
-      <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="45" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Reduserte menneskelige feil
-      </text>
-      <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="60" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Konsistente beregninger
-      </text>
-      <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="75" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Validering av data
-      </text>
-      <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="90" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Kvalitetskontroll
-      </text>
-      <text x="100" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Sporbarhet
-      </text>
-    </g>
-    
-
-    <g transform="translate(470, 50)">
-      <rect x="0" y="0" width="200" height="120" rx="8" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
-      <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ff9800">
+      </text></g><g transform="translate(470 50)"><rect width="200" height="120" fill="#fff3e0" stroke="#ff9800" rx="8"/><text x="100" y="20" fill="#ff9800" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Bedre Innsikt
-      </text>
-      <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="45" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Avanserte analyser
-      </text>
-      <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="60" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Trendidentifikasjon
-      </text>
-      <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="75" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Scenariomodellering
-      </text>
-      <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="90" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Benchmarking
-      </text>
-      <text x="100" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+      </text><text x="100" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Prediktive modeller
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 440)">
-    <text x="0" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+      </text></g></g><g font-family="Arial, sans-serif"><text y="20" fill="#2c3e50" font-size="18" font-weight="bold" transform="translate(50 440)">
       Implementeringssteg for Digital Likviditetsstyring:
-    </text>
-    <text x="0" y="45" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text y="45" fill="#495057" font-size="12" transform="translate(50 440)">
       1. Behovsanalyse og systemvalg • 2. Dataintegrasjon og API-tilkoblinger • 3. Automatisering av rutiner
-    </text>
-    <text x="400" y="45" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+    </text><text x="400" y="45" fill="#495057" font-size="12" transform="translate(50 440)">
       4. Opplæring og testing • 5. Gradvis utrulling • 6. Kontinuerlig optimalisering
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

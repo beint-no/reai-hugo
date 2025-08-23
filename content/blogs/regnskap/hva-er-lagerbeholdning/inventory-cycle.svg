@@ -1,195 +1,51 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="cycleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="orderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="receiveGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="storeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="sellGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:.8"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:.8"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:.8"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:.8"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:.8"/><stop offset="100%" style="stop-color:#5a32a3;stop-opacity:.8"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:.8"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:.8"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Lagerstyringssyklus
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="url(#cycleGradient)" stroke="#0056b3" stroke-width="3"/>
-  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="300" r="80" fill="url(#a)" stroke="#0056b3" stroke-width="3"/><text x="400" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     LAGER-
-  </text>
-  <text x="400" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="400" y="315" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     STYRING
-  </text>
-  
-
-  <g transform="translate(150, 100)">
-    <circle cx="0" cy="0" r="60" fill="url(#orderGradient)" stroke="#1e7e34" stroke-width="2"/>
-    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><g transform="translate(150 100)"><circle r="60" fill="url(#b)" stroke="#1e7e34" stroke-width="2"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       1. PLANLEGGING
-    </text>
-    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       &amp; BESTILLING
-    </text>
-    
-
-    <g transform="translate(-20, 25)">
-      <rect x="0" y="0" width="15" height="10" fill="white" opacity="0.8"/>
-      <rect x="20" y="0" width="15" height="10" fill="white" opacity="0.8"/>
-      <text x="17" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">EOQ</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(650, 100)">
-    <circle cx="0" cy="0" r="60" fill="url(#receiveGradient)" stroke="#e0a800" stroke-width="2"/>
-    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff"><path d="M-20 25h15v10h-15zM0 25h15v10H0z" opacity=".8"/><text x="17" y="20" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" transform="translate(-20 25)">EOQ</text></g></g><g transform="translate(650 100)"><circle r="60" fill="url(#c)" stroke="#e0a800" stroke-width="2"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       2. MOTTAK
-    </text>
-    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       &amp; KONTROLL
-    </text>
-    
-
-    <g transform="translate(-15, 25)">
-      <rect x="0" y="0" width="12" height="12" fill="white" opacity="0.8"/>
-      <rect x="18" y="0" width="12" height="12" fill="white" opacity="0.8"/>
-      <text x="15" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">✓</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(650, 500)">
-    <circle cx="0" cy="0" r="60" fill="url(#storeGradient)" stroke="#5a32a3" stroke-width="2"/>
-    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff"><path d="M-15 25h12v12h-12zM3 25h12v12H3z" opacity=".8"/><text x="15" y="20" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" transform="translate(-15 25)">✓</text></g></g><g transform="translate(650 500)"><circle r="60" fill="url(#d)" stroke="#5a32a3" stroke-width="2"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       3. LAGRING
-    </text>
-    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       &amp; ORGANISERING
-    </text>
-    
-
-    <g transform="translate(-15, 25)">
-      <rect x="0" y="0" width="10" height="8" fill="white" opacity="0.8"/>
-      <rect x="12" y="0" width="10" height="8" fill="white" opacity="0.8"/>
-      <rect x="24" y="0" width="10" height="8" fill="white" opacity="0.8"/>
-      <text x="17" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">ABC</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(150, 500)">
-    <circle cx="0" cy="0" r="60" fill="url(#sellGradient)" stroke="#c82333" stroke-width="2"/>
-    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff"><path d="M-15 25h10v8h-10zM-3 25H7v8H-3zM9 25h10v8H9z" opacity=".8"/><text x="17" y="18" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" transform="translate(-15 25)">ABC</text></g></g><g transform="translate(150 500)"><circle r="60" fill="url(#e)" stroke="#c82333" stroke-width="2"/><text y="-10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       4. SALG
-    </text>
-    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><text y="10" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       &amp; UTLEVERING
-    </text>
-    
-
-    <g transform="translate(-10, 25)">
-      <circle cx="5" cy="5" r="4" fill="white" opacity="0.8"/>
-      <circle cx="15" cy="5" r="4" fill="white" opacity="0.8"/>
-      <text x="10" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">FIFO</text>
-    </g>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowCycle" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-    </marker>
-  </defs>
-  
-
-  <path d="M 210 130 Q 400 80 590 130" stroke="#495057" stroke-width="3" fill="none" marker-end="url(#arrowCycle)"/>
-  
-
-  <path d="M 650 160 Q 700 300 650 440" stroke="#495057" stroke-width="3" fill="none" marker-end="url(#arrowCycle)"/>
-  
-
-  <path d="M 590 500 Q 400 550 210 500" stroke="#495057" stroke-width="3" fill="none" marker-end="url(#arrowCycle)"/>
-  
-
-  <path d="M 150 440 Q 100 300 150 160" stroke="#495057" stroke-width="3" fill="none" marker-end="url(#arrowCycle)"/>
-  
-
-  <g transform="translate(50, 280)">
-    <rect x="0" y="0" width="200" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+    </text><g fill="#fff" transform="translate(-10 25)"><circle cx="5" cy="5" r="4" opacity=".8"/><circle cx="15" cy="5" r="4" opacity=".8"/><text x="10" y="20" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">FIFO</text></g></g><defs><marker id="f" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="none" stroke="#495057" stroke-width="3" marker-end="url(#f)" d="M210 130q190-50 380 0"/><path fill="none" stroke="#495057" stroke-width="3" marker-end="url(#f)" d="M650 160q50 140 0 280"/><path fill="none" stroke="#495057" stroke-width="3" marker-end="url(#f)" d="M590 500q-190 50-380 0"/><path fill="none" stroke="#495057" stroke-width="3" marker-end="url(#f)" d="M150 440q-50-140 0-280"/><g transform="translate(50 280)"><rect width="200" height="140" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="100" y="20" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Nøkkeltall (KPI)
-    </text>
-    
-    <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="45" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Lageromsetningshastighet
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="65" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Gjennomsnittlig lagertid
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="85" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Servicenivå (%)
-    </text>
-    <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Lagerkostnad som % av omsetning
-    </text>
-    <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="125" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Svinn og foreldelse (%)
-    </text>
-  </g>
-  
-
-  <g transform="translate(550, 280)">
-    <rect x="0" y="0" width="200" height="140" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-    <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#495057">
+    </text></g><g transform="translate(550 280)"><rect width="200" height="140" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="100" y="20" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Teknologistøtte
-    </text>
-    
-    <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="45" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • ERP-systemer
-    </text>
-    <text x="10" y="65" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="65" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • Strekkodescanning
-    </text>
-    <text x="10" y="85" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="85" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • RFID-teknologi
-    </text>
-    <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="105" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • AI-prognoser
-    </text>
-    <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+    </text><text x="10" y="125" fill="#495057" font-family="Arial, sans-serif" font-size="11">
       • IoT-sensorer
-    </text>
-  </g>
-  
-
-  <g transform="translate(280, 50)">
-    <text x="120" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    </text></g><text x="120" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="translate(280 50)">
       Kontinuerlig forbedring og optimalisering
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 570)">
-    <text x="350" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+    </text><text x="350" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="translate(50 570)">
       Effektiv lagerstyring krever balanse mellom tilgjengelighet, kostnader og kvalitet
-    </text>
-  </g>
-</svg>
+    </text></svg>

@@ -1,108 +1,37 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="errorGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.9" />
-    </linearGradient>
-    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:0.9" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:.8"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:.9"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:.9"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Vanlige Feil og Løsninger - Omvendt Avgiftsplikt
-  </text>
-  
-
-  <rect x="50" y="70" width="700" height="100" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  
-
-  <rect x="70" y="90" width="300" height="60" fill="url(#errorGradient)" rx="5"/>
-  <text x="90" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="100" x="50" y="70" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><rect width="300" height="60" x="70" y="90" fill="url(#b)" rx="5"/><text x="90" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     ❌ FEIL 1: Glemmer å beregne MVA
-  </text>
-  <text x="90" y="130" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="90" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Kjøper tjenester fra utlandet uten å beregne norsk MVA
-  </text>
-  
-
-  <rect x="400" y="90" width="320" height="60" fill="url(#solutionGradient)" rx="5"/>
-  <text x="420" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="320" height="60" x="400" y="90" fill="url(#c)" rx="5"/><text x="420" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     ✅ LØSNING: Etabler rutiner
-  </text>
-  <text x="420" y="130" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="420" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Sjekk alle utenlandske fakturaer systematisk
-  </text>
-  
-
-  <rect x="50" y="190" width="700" height="100" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  
-  <rect x="70" y="210" width="300" height="60" fill="url(#errorGradient)" rx="5"/>
-  <text x="90" y="230" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="100" x="50" y="190" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><rect width="300" height="60" x="70" y="210" fill="url(#b)" rx="5"/><text x="90" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     ❌ FEIL 2: Bruker feil MVA-sats
-  </text>
-  <text x="90" y="250" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="90" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Bruker 15% eller 12% i stedet for 25% på tjenester
-  </text>
-  
-  <rect x="400" y="210" width="320" height="60" fill="url(#solutionGradient)" rx="5"/>
-  <text x="420" y="230" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="320" height="60" x="400" y="210" fill="url(#c)" rx="5"/><text x="420" y="230" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     ✅ LØSNING: Lær satsene
-  </text>
-  <text x="420" y="250" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="420" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Tjenester fra utlandet = vanligvis 25% MVA
-  </text>
-  
-
-  <rect x="50" y="310" width="700" height="100" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  
-  <rect x="70" y="330" width="300" height="60" fill="url(#errorGradient)" rx="5"/>
-  <text x="90" y="350" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="100" x="50" y="310" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><rect width="300" height="60" x="70" y="330" fill="url(#b)" rx="5"/><text x="90" y="350" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     ❌ FEIL 3: Feil i MVA-melding
-  </text>
-  <text x="90" y="370" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="90" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Rapporterer ikke i kode 81 eller glemmer inngående MVA
-  </text>
-  
-  <rect x="400" y="330" width="320" height="60" fill="url(#solutionGradient)" rx="5"/>
-  <text x="420" y="350" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="320" height="60" x="400" y="330" fill="url(#c)" rx="5"/><text x="420" y="350" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     ✅ LØSNING: Bruk riktige koder
-  </text>
-  <text x="420" y="370" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="420" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Kode 81 for utgående + vanlig kode for inngående
-  </text>
-  
-
-  <rect x="50" y="430" width="700" height="100" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  
-  <rect x="70" y="450" width="300" height="60" fill="url(#errorGradient)" rx="5"/>
-  <text x="90" y="470" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="700" height="100" x="50" y="430" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><rect width="300" height="60" x="70" y="450" fill="url(#b)" rx="5"/><text x="90" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     ❌ FEIL 4: Manglende dokumentasjon
-  </text>
-  <text x="90" y="490" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="90" y="490" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Kan ikke bevise leverandørens utenlandske status
-  </text>
-  
-  <rect x="400" y="450" width="320" height="60" fill="url(#solutionGradient)" rx="5"/>
-  <text x="420" y="470" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="320" height="60" x="400" y="450" fill="url(#c)" rx="5"/><text x="420" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     ✅ LØSNING: Dokumenter alt
-  </text>
-  <text x="420" y="490" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="420" y="490" fill="#fff" font-family="Arial, sans-serif" font-size="12">
     Lagre fakturaer, kontrakter og leverandørinfo
-  </text>
-  
-
-  <rect x="100" y="550" width="600" height="40" fill="#fff3cd" stroke="#ffeaa7" stroke-width="1" rx="5"/>
-  <text x="400" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+  </text><rect width="600" height="40" x="100" y="550" fill="#fff3cd" stroke="#ffeaa7" rx="5"/><text x="400" y="575" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ⚠️ Konsekvenser: Tilleggsskatt 20% + forsinkelsesrente + mulig kontrollavgift
-  </text>
-</svg>
+  </text></svg>

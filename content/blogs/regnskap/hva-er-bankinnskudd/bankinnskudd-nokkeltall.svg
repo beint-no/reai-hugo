@@ -1,262 +1,109 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="liquidityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="cashGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="returnGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="currencyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#607D8B;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#263238;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#607d8b;stop-opacity:1"/><stop offset="100%" style="stop-color:#263238;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Nøkkeltall for Bankinnskudd Analyse
-  </text>
-  
-
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#liquidityGradient)" opacity="0.9"/>
-    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="160" height="140" fill="url(#b)" opacity=".9" rx="10"/><text x="80" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Likviditetsgrad 1
-    </text>
-    <circle cx="80" cy="55" r="18" fill="white" opacity="0.3"/>
-    <text x="80" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💧</text>
-    
-    <text x="80" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    </text><circle cx="80" cy="55" r="18" fill="#fff" opacity=".3"/><text x="80" y="63" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">💧</text><text x="80" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       2.1
-    </text>
-    <text x="80" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="80" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Omløpsmidler /
-    </text>
-    <text x="80" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="80" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Kortsiktig gjeld
-    </text>
-    <text x="80" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="80" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       ✅ God betalingsevne
-    </text>
-  </g>
-  
-
-  <g transform="translate(230, 80)">
-    <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#cashGradient)" opacity="0.9"/>
-    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(230 80)"><rect width="160" height="140" fill="url(#c)" opacity=".9" rx="10"/><text x="80" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Kontantandel
-    </text>
-    <circle cx="80" cy="55" r="18" fill="white" opacity="0.3"/>
-    <text x="80" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">💰</text>
-    
-    <text x="80" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    </text><circle cx="80" cy="55" r="18" fill="#fff" opacity=".3"/><text x="80" y="63" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">💰</text><text x="80" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       15.2%
-    </text>
-    <text x="80" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="80" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Bank /
-    </text>
-    <text x="80" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="80" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Totale eiendeler
-    </text>
-    <text x="80" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="80" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       📊 Likviditetsnivå
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#returnGradient)" opacity="0.9"/>
-    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(410 80)"><rect width="160" height="140" fill="url(#d)" opacity=".9" rx="10"/><text x="80" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Renteavkastning
-    </text>
-    <circle cx="80" cy="55" r="18" fill="white" opacity="0.3"/>
-    <text x="80" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">📈</text>
-    
-    <text x="80" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    </text><circle cx="80" cy="55" r="18" fill="#fff" opacity=".3"/><text x="80" y="63" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">📈</text><text x="80" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       2.8%
-    </text>
-    <text x="80" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="80" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Renteinntekter /
-    </text>
-    <text x="80" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="80" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Gj.snitt bankinnskudd
-    </text>
-    <text x="80" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="80" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       💡 Avkastningseffektivitet
-    </text>
-  </g>
-  
-
-  <g transform="translate(590, 80)">
-    <rect x="0" y="0" width="160" height="140" rx="10" fill="url(#currencyGradient)" opacity="0.9"/>
-    <text x="80" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(590 80)"><rect width="160" height="140" fill="url(#e)" opacity=".9" rx="10"/><text x="80" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Valutaeksponering
-    </text>
-    <circle cx="80" cy="55" r="18" fill="white" opacity="0.3"/>
-    <text x="80" y="63" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="white">🌍</text>
-    
-    <text x="80" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    </text><circle cx="80" cy="55" r="18" fill="#fff" opacity=".3"/><text x="80" y="63" fill="#fff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🌍</text><text x="80" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       12.5%
-    </text>
-    <text x="80" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="80" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Valutainnskudd /
-    </text>
-    <text x="80" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="80" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Totale bankinnskudd
-    </text>
-    <text x="80" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="80" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       ⚠️ Valutarisiko
-    </text>
-  </g>
-  
-
-  <text x="50" y="260" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    </text></g><text x="50" y="260" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Detaljert Nøkkeltallanalyse:
-  </text>
-  
-
-  <g transform="translate(50, 280)">
-    <rect x="0" y="0" width="700" height="200" rx="10" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
-    
-
-    <rect x="10" y="10" width="680" height="30" fill="#E3F2FD"/>
-    <text x="80" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+  </text><g transform="translate(50 280)"><rect width="700" height="200" fill="#fff" stroke="#ddd" stroke-width="2" rx="10"/><path fill="#e3f2fd" d="M10 10h680v30H10z"/><text x="80" y="30" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Nøkkeltall
-    </text>
-    <text x="220" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+    </text><text x="220" y="30" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Formel
-    </text>
-    <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+    </text><text x="400" y="30" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Verdi
-    </text>
-    <text x="550" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+    </text><text x="550" y="30" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Betydning
-    </text>
-    
-
-    <rect x="10" y="40" width="680" height="35" fill="#F8F9FA"/>
-    <text x="20" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><path fill="#f8f9fa" d="M10 40h680v35H10z"/><text x="20" y="60" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Likviditetsgrad 1
-    </text>
-    <text x="160" y="60" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="160" y="60" fill="#333" font-family="Arial, sans-serif" font-size="11">
       Omløpsmidler / Kortsiktig gjeld
-    </text>
-    <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+    </text><text x="400" y="60" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       2.1
-    </text>
-    <text x="480" y="60" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="480" y="60" fill="#333" font-family="Arial, sans-serif" font-size="11">
       God betalingsevne
-    </text>
-    
-
-    <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><text x="20" y="90" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Kontantandel
-    </text>
-    <text x="160" y="90" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="160" y="90" fill="#333" font-family="Arial, sans-serif" font-size="11">
       Bank / Totale eiendeler
-    </text>
-    <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F57C00">
+    </text><text x="400" y="90" fill="#f57c00" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       15.2%
-    </text>
-    <text x="480" y="90" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="480" y="90" fill="#333" font-family="Arial, sans-serif" font-size="11">
       Moderat likviditetsnivå
-    </text>
-    
-
-    <rect x="10" y="100" width="680" height="35" fill="#F8F9FA"/>
-    <text x="20" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><path fill="#f8f9fa" d="M10 100h680v35H10z"/><text x="20" y="120" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Renteavkastning
-    </text>
-    <text x="160" y="120" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="160" y="120" fill="#333" font-family="Arial, sans-serif" font-size="11">
       Renteinntekter / Gj.snitt bankinnskudd
-    </text>
-    <text x="400" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7B1FA2">
+    </text><text x="400" y="120" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       2.8%
-    </text>
-    <text x="480" y="120" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="480" y="120" fill="#333" font-family="Arial, sans-serif" font-size="11">
       Tilfredsstillende avkastning
-    </text>
-    
-
-    <text x="20" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    </text><text x="20" y="150" fill="#333" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Valutaeksponering
-    </text>
-    <text x="160" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="160" y="150" fill="#333" font-family="Arial, sans-serif" font-size="11">
       Valutainnskudd / Totale bankinnskudd
-    </text>
-    <text x="400" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#455A64">
+    </text><text x="400" y="150" fill="#455a64" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
       12.5%
-    </text>
-    <text x="480" y="150" font-family="Arial, sans-serif" font-size="11" fill="#333">
+    </text><text x="480" y="150" fill="#333" font-family="Arial, sans-serif" font-size="11">
       Moderat valutarisiko
-    </text>
-    
-
-    <text x="20" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#D32F2F">
+    </text><text x="20" y="180" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
       Bransjebenchmark:
-    </text>
-    <text x="160" y="180" font-family="Arial, sans-serif" font-size="11" fill="#666">
+    </text><text x="160" y="180" fill="#666" font-family="Arial, sans-serif" font-size="11">
       Likviditetsgrad: 1.5-2.5 • Kontantandel: 10-20% • Renteavkastning: 2-4%
-    </text>
-  </g>
-  
-
-  <text x="50" y="510" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    </text></g><text x="50" y="510" fill="#333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Trendanalyse og Anbefalinger:
-  </text>
-  
-
-  <g transform="translate(50, 530)">
-    <rect x="0" y="0" width="220" height="60" rx="10" fill="#E8F5E8" stroke="#4CAF50" stroke-width="2"/>
-    <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32">
+  </text><g transform="translate(50 530)"><rect width="220" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="110" y="20" fill="#2e7d32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Positiv utvikling
-    </text>
-    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="40" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Likviditetsgrad økt med 0.3 siste år
-    </text>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Renteavkastning stabil på 2.8%
-    </text>
-  </g>
-  
-  <g transform="translate(290, 530)">
-    <rect x="0" y="0" width="220" height="60" rx="10" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
-    <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F57C00">
+    </text></g><g transform="translate(290 530)"><rect width="220" height="60" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/><text x="110" y="20" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Områder for forbedring
-    </text>
-    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="40" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Vurder økt renteavkastning
-    </text>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Diversifiser valutaeksponering
-    </text>
-  </g>
-  
-  <g transform="translate(530, 530)">
-    <rect x="0" y="0" width="220" height="60" rx="10" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2"/>
-    <text x="110" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B1FA2">
+    </text></g><g transform="translate(530 530)"><rect width="220" height="60" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="10"/><text x="110" y="20" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Strategiske tiltak
-    </text>
-    <text x="20" y="40" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="40" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Implementer automatisk likviditetsstyring
-    </text>
-    <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    </text><text x="20" y="55" fill="#333" font-family="Arial, sans-serif" font-size="12">
       Månedlig nøkkeltalloppfølging
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

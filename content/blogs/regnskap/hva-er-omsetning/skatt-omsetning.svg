@@ -1,175 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e8f2ff;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="taxGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ff8e8e;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="mvaGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4ecdc4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6ee5dd;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="auditGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#45b7d1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#67c5e0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9ff;stop-opacity:1"/><stop offset="100%" style="stop-color:#e8f2ff;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1"/><stop offset="100%" style="stop-color:#ff8e8e;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4ecdc4;stop-opacity:1"/><stop offset="100%" style="stop-color:#6ee5dd;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#45b7d1;stop-opacity:1"/><stop offset="100%" style="stop-color:#67c5e0;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Skatt og Omsetning
-  </text>
-  
-
-  <g transform="translate(350, 80)">
-    <rect x="0" y="40" width="100" height="80" fill="#34495e" rx="5"/>
-    <rect x="10" y="50" width="15" height="15" fill="#f39c12"/>
-    <rect x="30" y="50" width="15" height="15" fill="#f39c12"/>
-    <rect x="55" y="50" width="15" height="15" fill="#f39c12"/>
-    <rect x="75" y="50" width="15" height="15" fill="#f39c12"/>
-    <rect x="10" y="70" width="15" height="15" fill="#f39c12"/>
-    <rect x="30" y="70" width="15" height="15" fill="#f39c12"/>
-    <rect x="55" y="70" width="15" height="15" fill="#f39c12"/>
-    <rect x="75" y="70" width="15" height="15" fill="#f39c12"/>
-    <rect x="10" y="90" width="15" height="15" fill="#f39c12"/>
-    <rect x="30" y="90" width="15" height="15" fill="#f39c12"/>
-    <rect x="55" y="90" width="15" height="15" fill="#f39c12"/>
-    <rect x="75" y="90" width="15" height="15" fill="#f39c12"/>
-    <polygon points="0,40 50,10 100,40" fill="#e74c3c"/>
-    <text x="50" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><g transform="translate(350 80)"><rect width="100" height="80" y="40" fill="#34495e" rx="5"/><path fill="#f39c12" d="M10 50h15v15H10zM30 50h15v15H30zM55 50h15v15H55zM75 50h15v15H75zM10 70h15v15H10zM30 70h15v15H30zM55 70h15v15H55zM75 70h15v15H75zM10 90h15v15H10zM30 90h15v15H30zM55 90h15v15H55zM75 90h15v15H75z"/><path fill="#e74c3c" d="m0 40 50-30 50 30z"/><text x="50" y="140" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Skatteetaten
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 200)">
-    <rect x="0" y="0" width="200" height="100" fill="url(#mvaGradient)" rx="10"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 200)"><rect width="200" height="100" fill="url(#b)" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       MVA-registrering
-    </text>
-    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    </text><text x="100" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       50 000 kr
-    </text>
-    <text x="100" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="100" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Omsetningsgrense
-    </text>
-    <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="100" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       per 12 måneder
-    </text>
-  </g>
-  
-
-  <g transform="translate(300, 200)">
-    <rect x="0" y="0" width="200" height="100" fill="url(#taxGradient)" rx="10"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(300 200)"><rect width="200" height="100" fill="url(#c)" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Regnskapsplikt
-    </text>
-    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    </text><text x="100" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       5 000 000 kr
-    </text>
-    <text x="100" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="100" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Revidert regnskap
-    </text>
-    <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="100" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       kreves
-    </text>
-  </g>
-  
-
-  <g transform="translate(550, 200)">
-    <rect x="0" y="0" width="200" height="100" fill="url(#auditGradient)" rx="10"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(550 200)"><rect width="200" height="100" fill="url(#d)" rx="10"/><text x="100" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Forenklingsregel
-    </text>
-    <text x="100" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    </text><text x="100" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
       140 000 kr
-    </text>
-    <text x="100" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="100" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Kontantprinsipp
-    </text>
-    <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="100" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       tillatt
-    </text>
-  </g>
-  
-
-  <path d="M 250 250 L 300 250" stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 500 250 L 550 250" stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#7f8c8d"/>
-    </marker>
-  </defs>
-  
-
-  <g transform="translate(100, 350)">
-    <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    </text></g><path fill="none" stroke="#7f8c8d" stroke-width="3" marker-end="url(#e)" d="M250 250h50"/><path fill="none" stroke="#7f8c8d" stroke-width="3" marker-end="url(#e)" d="M500 250h50"/><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#7f8c8d" d="m0 0 10 3.5L0 7z"/></marker></defs><text fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" transform="translate(100 350)">
       Skattemessige konsekvenser:
-    </text>
-    
-
-    <g transform="translate(0, 30)">
-      <circle cx="10" cy="10" r="8" fill="#27ae60"/>
-      <path d="M 6 10 L 9 13 L 15 7" stroke="white" stroke-width="2" fill="none"/>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+    </text><g transform="translate(100 380)"><circle cx="10" cy="10" r="8" fill="#27ae60"/><path fill="none" stroke="#fff" stroke-width="2" d="m6 10 3 3 6-6"/><text x="25" y="15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
         MVA-plikt ved omsetning over 50 000 kr
-      </text>
-    </g>
-    
-    <g transform="translate(0, 60)">
-      <circle cx="10" cy="10" r="8" fill="#27ae60"/>
-      <path d="M 6 10 L 9 13 L 15 7" stroke="white" stroke-width="2" fill="none"/>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+      </text></g><g transform="translate(100 410)"><circle cx="10" cy="10" r="8" fill="#27ae60"/><path fill="none" stroke="#fff" stroke-width="2" d="m6 10 3 3 6-6"/><text x="25" y="15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
         Bokføringsplikt for all omsetning
-      </text>
-    </g>
-    
-    <g transform="translate(0, 90)">
-      <circle cx="10" cy="10" r="8" fill="#27ae60"/>
-      <path d="M 6 10 L 9 13 L 15 7" stroke="white" stroke-width="2" fill="none"/>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+      </text></g><g transform="translate(100 440)"><circle cx="10" cy="10" r="8" fill="#27ae60"/><path fill="none" stroke="#fff" stroke-width="2" d="m6 10 3 3 6-6"/><text x="25" y="15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
         Revisjonsplikt ved høy omsetning (AS)
-      </text>
-    </g>
-    
-    <g transform="translate(0, 120)">
-      <circle cx="10" cy="10" r="8" fill="#27ae60"/>
-      <path d="M 6 10 L 9 13 L 15 7" stroke="white" stroke-width="2" fill="none"/>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+      </text></g><g transform="translate(100 470)"><circle cx="10" cy="10" r="8" fill="#27ae60"/><path fill="none" stroke="#fff" stroke-width="2" d="m6 10 3 3 6-6"/><text x="25" y="15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14">
         Påvirker arbeidsgiveravgift
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(550, 380)">
-    <rect x="0" y="0" width="60" height="80" fill="#34495e" rx="5"/>
-    <rect x="5" y="5" width="50" height="15" fill="#2ecc71"/>
-    <rect x="10" y="25" width="8" height="8" fill="#95a5a6"/>
-    <rect x="22" y="25" width="8" height="8" fill="#95a5a6"/>
-    <rect x="34" y="25" width="8" height="8" fill="#95a5a6"/>
-    <rect x="46" y="25" width="8" height="8" fill="#95a5a6"/>
-    <rect x="10" y="37" width="8" height="8" fill="#95a5a6"/>
-    <rect x="22" y="37" width="8" height="8" fill="#95a5a6"/>
-    <rect x="34" y="37" width="8" height="8" fill="#95a5a6"/>
-    <rect x="46" y="37" width="8" height="8" fill="#95a5a6"/>
-    <rect x="10" y="49" width="8" height="8" fill="#95a5a6"/>
-    <rect x="22" y="49" width="8" height="8" fill="#95a5a6"/>
-    <rect x="34" y="49" width="8" height="8" fill="#95a5a6"/>
-    <rect x="46" y="49" width="8" height="8" fill="#95a5a6"/>
-    <rect x="10" y="61" width="20" height="8" fill="#e74c3c"/>
-    <rect x="34" y="61" width="8" height="8" fill="#95a5a6"/>
-    <rect x="46" y="61" width="8" height="8" fill="#95a5a6"/>
-    <text x="30" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      </text></g><g transform="translate(550 380)"><rect width="60" height="80" fill="#34495e" rx="5"/><path fill="#2ecc71" d="M5 5h50v15H5z"/><path fill="#95a5a6" d="M10 25h8v8h-8zM22 25h8v8h-8zM34 25h8v8h-8zM46 25h8v8h-8zM10 37h8v8h-8zM22 37h8v8h-8zM34 37h8v8h-8zM46 37h8v8h-8zM10 49h8v8h-8zM22 49h8v8h-8zM34 49h8v8h-8zM46 49h8v8h-8z"/><path fill="#e74c3c" d="M10 61h20v8H10z"/><path fill="#95a5a6" d="M34 61h8v8h-8zM46 61h8v8h-8z"/><text x="30" y="95" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Skatteberegning
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

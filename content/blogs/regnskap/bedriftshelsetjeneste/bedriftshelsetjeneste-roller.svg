@@ -1,15 +1,1 @@
-<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#333"/>
-    </marker>
-  </defs>
-  <rect x="20" y="60" width="160" height="60" fill="#e0e0e0" stroke="#333"/>
-  <text x="100" y="95" text-anchor="middle" font-size="14" font-family="Arial, sans-serif">Bedrift</text>
-  <rect x="220" y="60" width="160" height="60" fill="#e0e0e0" stroke="#333"/>
-  <text x="300" y="95" text-anchor="middle" font-size="14" font-family="Arial, sans-serif">Bedriftshelsetjeneste</text>
-  <rect x="420" y="60" width="160" height="60" fill="#e0e0e0" stroke="#333"/>
-  <text x="500" y="95" text-anchor="middle" font-size="14" font-family="Arial, sans-serif">Ansatte</text>
-  <line x1="180" y1="90" x2="220" y2="90" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <line x1="380" y1="90" x2="420" y2="90" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200"><defs><marker id="a" markerHeight="10" markerWidth="10" orient="auto" refX="5" refY="5"><path fill="#333" d="m0 0 10 5-10 5Z"/></marker></defs><path fill="#e0e0e0" stroke="#333" d="M20 60h160v60H20z"/><text x="100" y="95" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Bedrift</text><path fill="#e0e0e0" stroke="#333" d="M220 60h160v60H220z"/><text x="300" y="95" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Bedriftshelsetjeneste</text><path fill="#e0e0e0" stroke="#333" d="M420 60h160v60H420z"/><text x="500" y="95" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Ansatte</text><path stroke="#333" stroke-width="2" marker-end="url(#a)" d="M180 90h40"/><path stroke="#333" stroke-width="2" marker-end="url(#a)" d="M380 90h40"/></svg>

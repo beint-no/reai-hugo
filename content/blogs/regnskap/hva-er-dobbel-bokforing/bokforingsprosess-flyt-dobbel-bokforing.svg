@@ -1,189 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="stepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
-    </linearGradient>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b" />
-    </marker>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/><stop offset="100%" style="stop-color:#059669;stop-opacity:1"/></linearGradient><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#64748b" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Bokføringsprosess - Flyt i Dobbel Bokføring
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#stepGradient)" stroke="#1e40af" stroke-width="2"/>
-    <circle cx="20" cy="20" r="12" fill="white"/>
-    <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">1</text>
-    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="140" height="80" fill="url(#b)" stroke="#1e40af" stroke-width="2" rx="10"/><circle cx="20" cy="20" r="12" fill="#fff"/><text x="20" y="26" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">1</text><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Journalføring
-    </text>
-    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Transaksjoner registreres
-    </text>
-    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       kronologisk i journalen
-    </text>
-    <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="70" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       (med bilag)
-    </text>
-  </g>
-  
-
-  <line x1="190" y1="120" x2="240" y2="120" stroke="#64748b" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(250, 80)">
-    <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#stepGradient)" stroke="#1e40af" stroke-width="2"/>
-    <circle cx="20" cy="20" r="12" fill="white"/>
-    <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">2</text>
-    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><path stroke="#64748b" stroke-width="3" marker-end="url(#c)" d="M190 120h50"/><g transform="translate(250 80)"><rect width="140" height="80" fill="url(#b)" stroke="#1e40af" stroke-width="2" rx="10"/><circle cx="20" cy="20" r="12" fill="#fff"/><text x="20" y="26" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">2</text><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Postering
-    </text>
-    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Journalposter overføres
-    </text>
-    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       til hovedboken
-    </text>
-    <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="70" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       (kontovis gruppering)
-    </text>
-  </g>
-  
-
-  <line x1="390" y1="120" x2="440" y2="120" stroke="#64748b" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(450, 80)">
-    <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#stepGradient)" stroke="#1e40af" stroke-width="2"/>
-    <circle cx="20" cy="20" r="12" fill="white"/>
-    <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e40af">3</text>
-    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><path stroke="#64748b" stroke-width="3" marker-end="url(#c)" d="M390 120h50"/><g transform="translate(450 80)"><rect width="140" height="80" fill="url(#b)" stroke="#1e40af" stroke-width="2" rx="10"/><circle cx="20" cy="20" r="12" fill="#fff"/><text x="20" y="26" fill="#1e40af" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">3</text><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Prøvebalanse
-    </text>
-    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Kontroll av at
-    </text>
-    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       debet = kredit
-    </text>
-    <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="70" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       (balansekontroll)
-    </text>
-  </g>
-  
-
-  <line x1="520" y1="160" x2="520" y2="210" stroke="#64748b" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(450, 220)">
-    <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#processGradient)" stroke="#059669" stroke-width="2"/>
-    <circle cx="20" cy="20" r="12" fill="white"/>
-    <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#059669">4</text>
-    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><path stroke="#64748b" stroke-width="3" marker-end="url(#c)" d="M520 160v50"/><g transform="translate(450 220)"><rect width="140" height="80" fill="url(#d)" stroke="#059669" stroke-width="2" rx="10"/><circle cx="20" cy="20" r="12" fill="#fff"/><text x="20" y="26" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">4</text><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Justeringsposter
-    </text>
-    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Periodisering og
-    </text>
-    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       korrigeringer
-    </text>
-    <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="70" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       (påløpte poster)
-    </text>
-  </g>
-  
-
-  <line x1="450" y1="260" x2="390" y2="260" stroke="#64748b" stroke-width="3" marker-end="url(#arrowhead)"/>
-  
-
-  <g transform="translate(250, 220)">
-    <rect x="0" y="0" width="140" height="80" rx="10" fill="url(#processGradient)" stroke="#059669" stroke-width="2"/>
-    <circle cx="20" cy="20" r="12" fill="white"/>
-    <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#059669">5</text>
-    <text x="70" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><path stroke="#64748b" stroke-width="3" marker-end="url(#c)" d="M450 260h-60"/><g transform="translate(250 220)"><rect width="140" height="80" fill="url(#d)" stroke="#059669" stroke-width="2" rx="10"/><circle cx="20" cy="20" r="12" fill="#fff"/><text x="20" y="26" fill="#059669" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">5</text><text x="70" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Avslutningsposter
-    </text>
-    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       Overføring til balanse
-    </text>
-    <text x="70" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="70" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       og resultatregnskap
-    </text>
-    <text x="70" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">
+    </text><text x="70" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
       (årsavslutning)
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 350)">
-    <rect x="0" y="0" width="200" height="120" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400e">
+    </text></g><g transform="translate(50 350)"><rect width="200" height="120" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="10"/><text x="100" y="25" fill="#92400e" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Støttedokumenter
-    </text>
-    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#92400e">• Bilag og fakturaer</text>
-    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="#92400e">• Bankkontoutskrifter</text>
-    <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" fill="#92400e">• Lønnsslipp og timeregistrering</text>
-    <text x="20" y="110" font-family="Arial, sans-serif" font-size="12" fill="#92400e">• Kontrakter og avtaler</text>
-  </g>
-  
-
-  <g transform="translate(300, 350)">
-    <rect x="0" y="0" width="200" height="120" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1d4ed8">
+    </text><text x="20" y="50" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Bilag og fakturaer</text><text x="20" y="70" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Bankkontoutskrifter</text><text x="20" y="90" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Lønnsslipp og timeregistrering</text><text x="20" y="110" fill="#92400e" font-family="Arial, sans-serif" font-size="12">• Kontrakter og avtaler</text></g><g transform="translate(300 350)"><rect width="200" height="120" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="10"/><text x="100" y="25" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Kontrollmekanismer
-    </text>
-    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#1d4ed8">• Automatisk balansekontroll</text>
-    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="#1d4ed8">• Fullstendig sporbarhet</text>
-    <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" fill="#1d4ed8">• Dobbel registrering</text>
-    <text x="20" y="110" font-family="Arial, sans-serif" font-size="12" fill="#1d4ed8">• Systematisk oppbygning</text>
-  </g>
-  
-
-  <g transform="translate(550, 350)">
-    <rect x="0" y="0" width="200" height="120" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
-    <text x="100" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#15803d">
+    </text><text x="20" y="50" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="12">• Automatisk balansekontroll</text><text x="20" y="70" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="12">• Fullstendig sporbarhet</text><text x="20" y="90" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="12">• Dobbel registrering</text><text x="20" y="110" fill="#1d4ed8" font-family="Arial, sans-serif" font-size="12">• Systematisk oppbygning</text></g><g transform="translate(550 350)"><rect width="200" height="120" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="10"/><text x="100" y="25" fill="#15803d" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Sluttrapporter
-    </text>
-    <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#15803d">• Balanse</text>
-    <text x="20" y="70" font-family="Arial, sans-serif" font-size="12" fill="#15803d">• Resultatregnskap</text>
-    <text x="20" y="90" font-family="Arial, sans-serif" font-size="12" fill="#15803d">• Kontantstrømoppstilling</text>
-    <text x="20" y="110" font-family="Arial, sans-serif" font-size="12" fill="#15803d">• Noter til regnskapet</text>
-  </g>
-  
-
-  <line x1="150" y1="300" x2="150" y2="350" stroke="#f59e0b" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="400" y1="300" x2="400" y2="350" stroke="#3b82f6" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="650" y1="300" x2="650" y2="350" stroke="#16a34a" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">
+    </text><text x="20" y="50" fill="#15803d" font-family="Arial, sans-serif" font-size="12">• Balanse</text><text x="20" y="70" fill="#15803d" font-family="Arial, sans-serif" font-size="12">• Resultatregnskap</text><text x="20" y="90" fill="#15803d" font-family="Arial, sans-serif" font-size="12">• Kontantstrømoppstilling</text><text x="20" y="110" fill="#15803d" font-family="Arial, sans-serif" font-size="12">• Noter til regnskapet</text></g><path stroke="#f59e0b" stroke-dasharray="5,5" stroke-width="2" d="M150 300v50"/><path stroke="#3b82f6" stroke-dasharray="5,5" stroke-width="2" d="M400 300v50"/><path stroke="#16a34a" stroke-dasharray="5,5" stroke-width="2" d="M650 300v50"/><text x="400" y="520" fill="#1e293b" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Kontinuerlig prosess som sikrer nøyaktig og komplett regnskapsføring
-  </text>
-  
-
-  <g transform="translate(50, 500)">
-    <rect x="0" y="0" width="20" height="15" fill="url(#stepGradient)"/>
-    <text x="30" y="12" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Grunnleggende trinn</text>
-    
-    <rect x="150" y="0" width="20" height="15" fill="url(#processGradient)"/>
-    <text x="180" y="12" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Periodiske justeringer</text>
-  </g>
-</svg>
+  </text><path fill="url(#b)" d="M0 0h20v15H0z" transform="translate(50 500)"/><text x="30" y="12" fill="#64748b" font-family="Arial, sans-serif" font-size="12" transform="translate(50 500)">Grunnleggende trinn</text><path fill="url(#d)" d="M150 0h20v15h-20z" transform="translate(50 500)"/><text x="180" y="12" fill="#64748b" font-family="Arial, sans-serif" font-size="12" transform="translate(50 500)">Periodiske justeringer</text></svg>

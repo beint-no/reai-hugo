@@ -1,138 +1,51 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  <text x="400" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Folketrygden - Norges Nasjonale Trygdesystem
-  </text>
-  
-
-  <rect x="50" y="120" width="700" height="420" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  
-
-  <rect x="350" y="150" width="100" height="60" fill="#ed2939"/>
-  <rect x="350" y="150" width="100" height="20" fill="white"/>
-  <rect x="350" y="190" width="100" height="20" fill="white"/>
-  <rect x="350" y="150" width="20" height="60" fill="white"/>
-  <rect x="430" y="150" width="20" height="60" fill="white"/>
-  <rect x="350" y="150" width="20" height="20" fill="#002868"/>
-  <rect x="430" y="150" width="20" height="20" fill="#002868"/>
-  <rect x="350" y="190" width="20" height="20" fill="#002868"/>
-  <rect x="430" y="190" width="20" height="20" fill="#002868"/>
-  
-
-  <rect x="80" y="250" width="140" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
-  <text x="150" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+  </text><rect width="700" height="420" x="50" y="120" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><path fill="#ed2939" d="M350 150h100v60H350z"/><path fill="#fff" d="M350 150h100v20H350zM350 190h100v20H350z"/><path fill="#fff" d="M350 150h20v60h-20zM430 150h20v60h-20z"/><path fill="#002868" d="M350 150h20v20h-20zM430 150h20v20h-20zM350 190h20v20h-20zM430 190h20v20h-20z"/><rect width="140" height="80" x="80" y="250" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/><text x="150" y="275" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Alderspensjon
-  </text>
-  <text x="150" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="150" y="295" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Garantipensjon
-  </text>
-  <text x="150" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="150" y="310" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Inntektspensjon
-  </text>
-  <text x="150" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="150" y="325" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Tilleggspensjon
-  </text>
-  
-  <rect x="250" y="250" width="140" height="80" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="5"/>
-  <text x="320" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7b1fa2">
+  </text><rect width="140" height="80" x="250" y="250" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="5"/><text x="320" y="275" fill="#7b1fa2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Sykepenger
-  </text>
-  <text x="320" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="320" y="295" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Arbeidsgiverperiode
-  </text>
-  <text x="320" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="320" y="310" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     NAV-periode
-  </text>
-  <text x="320" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="320" y="325" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Refusjoner
-  </text>
-  
-  <rect x="420" y="250" width="140" height="80" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="5"/>
-  <text x="490" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#388e3c">
+  </text><rect width="140" height="80" x="420" y="250" fill="#e8f5e8" stroke="#388e3c" stroke-width="2" rx="5"/><text x="490" y="275" fill="#388e3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Dagpenger
-  </text>
-  <text x="490" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="490" y="295" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Arbeidsledighet
-  </text>
-  <text x="490" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="490" y="310" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     62,4% av grunnlag
-  </text>
-  <text x="490" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="490" y="325" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Opptil 104 uker
-  </text>
-  
-  <rect x="590" y="250" width="140" height="80" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
-  <text x="660" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57c00">
+  </text><rect width="140" height="80" x="590" y="250" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/><text x="660" y="275" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Uføretrygd
-  </text>
-  <text x="660" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="660" y="295" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Min 50% uførhet
-  </text>
-  <text x="660" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="660" y="310" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Varig nedsatt
-  </text>
-  <text x="660" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="660" y="325" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     arbeidsevne
-  </text>
-  
-
-  <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">
+  </text><text x="400" y="370" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Finansiering
-  </text>
-  
-  <rect x="150" y="390" width="120" height="50" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="5"/>
-  <text x="210" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#d32f2f">
+  </text><rect width="120" height="50" x="150" y="390" fill="#ffebee" stroke="#d32f2f" stroke-width="2" rx="5"/><text x="210" y="410" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Trygdeavgift
-  </text>
-  <text x="210" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="210" y="425" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Fra arbeidstakere
-  </text>
-  
-  <rect x="290" y="390" width="120" height="50" fill="#e1f5fe" stroke="#0277bd" stroke-width="2" rx="5"/>
-  <text x="350" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0277bd">
+  </text><rect width="120" height="50" x="290" y="390" fill="#e1f5fe" stroke="#0277bd" stroke-width="2" rx="5"/><text x="350" y="410" fill="#0277bd" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Arbeidsgiveravgift
-  </text>
-  <text x="350" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="350" y="425" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Fra arbeidsgivere
-  </text>
-  
-  <rect x="430" y="390" width="120" height="50" fill="#f1f8e9" stroke="#558b2f" stroke-width="2" rx="5"/>
-  <text x="490" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#558b2f">
+  </text><rect width="120" height="50" x="430" y="390" fill="#f1f8e9" stroke="#558b2f" stroke-width="2" rx="5"/><text x="490" y="410" fill="#558b2f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Statlige tilskudd
-  </text>
-  <text x="490" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="490" y="425" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Fra statsbudsjettet
-  </text>
-  
-
-  <path d="M 210 390 L 210 360 L 400 360 L 400 340" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 350 390 L 350 360 L 400 360" stroke="#666" stroke-width="2" fill="none"/>
-  <path d="M 490 390 L 490 360 L 400 360" stroke="#666" stroke-width="2" fill="none"/>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+  </text><path fill="none" stroke="#666" stroke-width="2" marker-end="url(#c)" d="M210 390v-30h190v-20"/><path fill="none" stroke="#666" stroke-width="2" d="M350 390v-30h50M490 390v-30h-90"/><defs><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#666" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="570" fill="#666" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Universell dekning for alle som bor eller arbeider i Norge
-  </text>
-</svg>
+  </text></svg>

@@ -1,190 +1,85 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="challengeGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="solutionGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#20c997;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:.8"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:.8"/><stop offset="100%" style="stop-color:#20c997;stop-opacity:.8"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Utfordringer og Fallgruver ved Inntektshåndtering
-  </text>
-  
-
-  <rect x="50" y="80" width="340" height="120" fill="url(#challengeGradient)" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="220" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="340" height="120" x="50" y="80" fill="url(#b)" stroke="#dc3545" stroke-width="2" rx="10"/><text x="220" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     KOMPLEKSE KONTRAKTER
-  </text>
-  
-  <rect x="70" y="130" width="300" height="60" fill="white" fill-opacity="0.9" rx="5"/>
-  <text x="80" y="150" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">
+  </text><rect width="300" height="60" x="70" y="130" fill="#fff" fill-opacity=".9" rx="5"/><text x="80" y="150" fill="#dc3545" font-family="Arial, sans-serif" font-size="11">
     Utfordringer:
-  </text>
-  <text x="80" y="165" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="165" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Flere ytelsesforpliktelser i samme kontrakt
-  </text>
-  <text x="80" y="180" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="180" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Variable vederlagskomponenter og bonuser
-  </text>
-  
-
-  <rect x="410" y="80" width="340" height="120" fill="url(#challengeGradient)" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="580" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="340" height="120" x="410" y="80" fill="url(#b)" stroke="#dc3545" stroke-width="2" rx="10"/><text x="580" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     TEKNOLOGISKE ENDRINGER
-  </text>
-  
-  <rect x="430" y="130" width="300" height="60" fill="white" fill-opacity="0.9" rx="5"/>
-  <text x="440" y="150" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">
+  </text><rect width="300" height="60" x="430" y="130" fill="#fff" fill-opacity=".9" rx="5"/><text x="440" y="150" fill="#dc3545" font-family="Arial, sans-serif" font-size="11">
     Utfordringer:
-  </text>
-  <text x="440" y="165" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="440" y="165" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Nye forretningsmodeller (SaaS, platform-økonomi)
-  </text>
-  <text x="440" y="180" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="440" y="180" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Digitale tjenester og abonnementsmodeller
-  </text>
-  
-
-  <rect x="50" y="220" width="340" height="120" fill="url(#challengeGradient)" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="220" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="340" height="120" x="50" y="220" fill="url(#b)" stroke="#dc3545" stroke-width="2" rx="10"/><text x="220" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     INTERNASJONALE TRANSAKSJONER
-  </text>
-  
-  <rect x="70" y="270" width="300" height="60" fill="white" fill-opacity="0.9" rx="5"/>
-  <text x="80" y="290" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">
+  </text><rect width="300" height="60" x="70" y="270" fill="#fff" fill-opacity=".9" rx="5"/><text x="80" y="290" fill="#dc3545" font-family="Arial, sans-serif" font-size="11">
     Utfordringer:
-  </text>
-  <text x="80" y="305" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="305" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Valutarisiko og kurssvingninger
-  </text>
-  <text x="80" y="320" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="320" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Ulike regnskapsstandarder mellom land
-  </text>
-  
-
-  <rect x="410" y="220" width="340" height="120" fill="url(#challengeGradient)" stroke="#dc3545" stroke-width="2" rx="10"/>
-  <text x="580" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="340" height="120" x="410" y="220" fill="url(#b)" stroke="#dc3545" stroke-width="2" rx="10"/><text x="580" y="250" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     REGULATORISKE KRAV
-  </text>
-  
-  <rect x="430" y="270" width="300" height="60" fill="white" fill-opacity="0.9" rx="5"/>
-  <text x="440" y="290" font-family="Arial, sans-serif" font-size="11" fill="#dc3545">
+  </text><rect width="300" height="60" x="430" y="270" fill="#fff" fill-opacity=".9" rx="5"/><text x="440" y="290" fill="#dc3545" font-family="Arial, sans-serif" font-size="11">
     Utfordringer:
-  </text>
-  <text x="440" y="305" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="440" y="305" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Endringer i regnskapsstandarder (IFRS 15)
-  </text>
-  <text x="440" y="320" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="440" y="320" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Nye skattebestemmelser og rapporteringskrav
-  </text>
-  
-
-  <rect x="50" y="360" width="700" height="220" fill="url(#solutionGradient)" stroke="#28a745" stroke-width="2" rx="10"/>
-  <text x="400" y="390" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="700" height="220" x="50" y="360" fill="url(#c)" stroke="#28a745" stroke-width="2" rx="10"/><text x="400" y="390" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     BEST PRACTICES - LØSNINGER OG ANBEFALINGER
-  </text>
-  
-
-  <rect x="70" y="410" width="150" height="80" fill="white" fill-opacity="0.9" rx="5"/>
-  <text x="145" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="150" height="80" x="70" y="410" fill="#fff" fill-opacity=".9" rx="5"/><text x="145" y="430" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     DOKUMENTASJON
-  </text>
-  <text x="80" y="450" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="450" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Grundig dokumentasjon
-  </text>
-  <text x="80" y="465" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="465" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Alle transaksjoner
-  </text>
-  <text x="80" y="480" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="480" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kontraktsvilkår
-  </text>
-  
-  <rect x="240" y="410" width="150" height="80" fill="white" fill-opacity="0.9" rx="5"/>
-  <text x="315" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="150" height="80" x="240" y="410" fill="#fff" fill-opacity=".9" rx="5"/><text x="315" y="430" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     SYSTEMER
-  </text>
-  <text x="250" y="450" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="250" y="450" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Robuste regnskapssystemer
-  </text>
-  <text x="250" y="465" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="250" y="465" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Automatisering
-  </text>
-  <text x="250" y="480" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="250" y="480" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Integrasjoner
-  </text>
-  
-  <rect x="410" y="410" width="150" height="80" fill="white" fill-opacity="0.9" rx="5"/>
-  <text x="485" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="150" height="80" x="410" y="410" fill="#fff" fill-opacity=".9" rx="5"/><text x="485" y="430" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KOMPETANSE
-  </text>
-  <text x="420" y="450" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="420" y="450" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Oppdatert kunnskap
-  </text>
-  <text x="420" y="465" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="420" y="465" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Regelverksendringer
-  </text>
-  <text x="420" y="480" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="420" y="480" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kontinuerlig læring
-  </text>
-  
-  <rect x="580" y="410" width="150" height="80" fill="white" fill-opacity="0.9" rx="5"/>
-  <text x="655" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="150" height="80" x="580" y="410" fill="#fff" fill-opacity=".9" rx="5"/><text x="655" y="430" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KONTROLL
-  </text>
-  <text x="590" y="450" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="590" y="450" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Internkontrollrutiner
-  </text>
-  <text x="590" y="465" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="590" y="465" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Regelmessig gjennomgang
-  </text>
-  <text x="590" y="480" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="590" y="480" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Kvalitetssikring
-  </text>
-  
-
-  <rect x="70" y="510" width="320" height="60" fill="white" fill-opacity="0.9" rx="5"/>
-  <text x="230" y="530" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="320" height="60" x="70" y="510" fill="#fff" fill-opacity=".9" rx="5"/><text x="230" y="530" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     REVISJON OG OVERVÅKING
-  </text>
-  <text x="80" y="550" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="550" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Regelmessig gjennomgang av inntektsføringspraksis
-  </text>
-  <text x="80" y="565" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="80" y="565" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Månedlige analyser og trendovervåking
-  </text>
-  
-  <rect x="410" y="510" width="320" height="60" fill="white" fill-opacity="0.9" rx="5"/>
-  <text x="570" y="530" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="320" height="60" x="410" y="510" fill="#fff" fill-opacity=".9" rx="5"/><text x="570" y="530" fill="#28a745" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KONSISTENT TILNÆRMING
-  </text>
-  <text x="420" y="550" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="420" y="550" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Bruk samme prinsipper over tid for sammenlignbarhet
-  </text>
-  <text x="420" y="565" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="420" y="565" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Dokumenter endringer i regnskapsprinsipper
-  </text>
-  
-
-  <circle cx="100" cy="60" r="20" fill="#dc3545" opacity="0.1"/>
-  <text x="100" y="68" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#dc3545">
+  </text><circle cx="100" cy="60" r="20" fill="#dc3545" opacity=".1"/><text x="100" y="68" fill="#dc3545" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ⚠
-  </text>
-  
-
-  <circle cx="700" cy="60" r="20" fill="#28a745" opacity="0.1"/>
-  <text x="700" y="68" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><circle cx="700" cy="60" r="20" fill="#28a745" opacity=".1"/><text x="700" y="68" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ✓
-  </text>
-</svg>
+  </text></svg>

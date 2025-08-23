@@ -1,180 +1,73 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#495057"/>
-    </marker>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#495057" d="m0 0 10 3.5L0 7z"/></marker></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Investeringsselskapets Rolle i Finansmarkedet
-  </text>
-  
-
-  <rect x="50" y="60" width="700" height="380" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-  <text x="400" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1976d2">
+  </text><rect width="700" height="380" x="50" y="60" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/><text x="400" y="85" fill="#1976d2" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Finansmarkedet
-  </text>
-  
-
-  <rect x="80" y="110" width="150" height="60" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/>
-  <text x="155" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e65100">
+  </text><rect width="150" height="60" x="80" y="110" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="5"/><text x="155" y="135" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Finanstilsynet
-  </text>
-  <text x="155" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e65100">
+  </text><text x="155" y="155" fill="#e65100" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Regulering &amp; Tilsyn
-  </text>
-  
-
-  <rect x="300" y="200" width="200" height="100" fill="#e8f5e8" stroke="#2e7d32" stroke-width="3" rx="10"/>
-  <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1b5e20">
+  </text><rect width="200" height="100" x="300" y="200" fill="#e8f5e8" stroke="#2e7d32" stroke-width="3" rx="10"/><text x="400" y="225" fill="#1b5e20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Investeringsselskap
-  </text>
-  <text x="400" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2e7d32">
+  </text><text x="400" y="245" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Profesjonell Forvaltning
-  </text>
-  <text x="400" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2e7d32">
+  </text><text x="400" y="265" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Risikostyring
-  </text>
-  <text x="400" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2e7d32">
+  </text><text x="400" y="285" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Porteføljeoptimalisering
-  </text>
-  
-
-  <rect x="80" y="200" width="120" height="80" fill="#fff8e1" stroke="#f9a825" stroke-width="2" rx="5"/>
-  <text x="140" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f57f17">
+  </text><rect width="120" height="80" x="80" y="200" fill="#fff8e1" stroke="#f9a825" stroke-width="2" rx="5"/><text x="140" y="220" fill="#f57f17" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Privatinvestorer
-  </text>
-  <circle cx="110" cy="240" r="8" fill="#ffc107"/>
-  <circle cx="140" cy="240" r="8" fill="#ffc107"/>
-  <circle cx="170" cy="240" r="8" fill="#ffc107"/>
-  <text x="140" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f57f17">
+  </text><circle cx="110" cy="240" r="8" fill="#ffc107"/><circle cx="140" cy="240" r="8" fill="#ffc107"/><circle cx="170" cy="240" r="8" fill="#ffc107"/><text x="140" y="265" fill="#f57f17" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Små beløp
-  </text>
-  
-
-  <rect x="80" y="320" width="120" height="80" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="5"/>
-  <text x="140" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4a148c">
+  </text><rect width="120" height="80" x="80" y="320" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2" rx="5"/><text x="140" y="340" fill="#4a148c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Institusjonelle
-  </text>
-  <text x="140" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6a1b9a">
+  </text><text x="140" y="355" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Pensjonsfond
-  </text>
-  <text x="140" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6a1b9a">
+  </text><text x="140" y="370" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Forsikring
-  </text>
-  <text x="140" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6a1b9a">
+  </text><text x="140" y="385" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Store beløp
-  </text>
-  
-
-
-  <rect x="580" y="140" width="100" height="50" fill="#ffebee" stroke="#c62828" stroke-width="2" rx="5"/>
-  <text x="630" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#b71c1c">
+  </text><rect width="100" height="50" x="580" y="140" fill="#ffebee" stroke="#c62828" stroke-width="2" rx="5"/><text x="630" y="160" fill="#b71c1c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Aksjemarked
-  </text>
-  <text x="630" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#c62828">
+  </text><text x="630" y="175" fill="#c62828" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Børsnoterte selskaper
-  </text>
-  
-
-  <rect x="580" y="210" width="100" height="50" fill="#e1f5fe" stroke="#0277bd" stroke-width="2" rx="5"/>
-  <text x="630" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#01579b">
+  </text><rect width="100" height="50" x="580" y="210" fill="#e1f5fe" stroke="#0277bd" stroke-width="2" rx="5"/><text x="630" y="230" fill="#01579b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Obligasjoner
-  </text>
-  <text x="630" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0277bd">
+  </text><text x="630" y="245" fill="#0277bd" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Stats- &amp; selskapsoblig.
-  </text>
-  
-
-  <rect x="580" y="280" width="100" height="50" fill="#f1f8e9" stroke="#558b2f" stroke-width="2" rx="5"/>
-  <text x="630" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#33691e">
+  </text><rect width="100" height="50" x="580" y="280" fill="#f1f8e9" stroke="#558b2f" stroke-width="2" rx="5"/><text x="630" y="300" fill="#33691e" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Eiendom
-  </text>
-  <text x="630" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#558b2f">
+  </text><text x="630" y="315" fill="#558b2f" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Næringseiendom
-  </text>
-  
-
-  <rect x="580" y="350" width="100" height="50" fill="#fce4ec" stroke="#ad1457" stroke-width="2" rx="5"/>
-  <text x="630" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#880e4f">
+  </text><rect width="100" height="50" x="580" y="350" fill="#fce4ec" stroke="#ad1457" stroke-width="2" rx="5"/><text x="630" y="370" fill="#880e4f" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Alternative
-  </text>
-  <text x="630" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#ad1457">
+  </text><text x="630" y="385" fill="#ad1457" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Råvarer, Hedge
-  </text>
-  
-
-  <path d="M 200 240 L 300 240" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <path d="M 200 360 L 300 280" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 500 220 L 580 165" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <path d="M 500 235 L 580 235" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <path d="M 500 260 L 580 305" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  <path d="M 500 280 L 580 375" stroke="#495057" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-
-  <path d="M 230 140 L 350 200" stroke="#f57c00" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#arrowhead)"/>
-  
-
-  <text x="250" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M200 240h100"/><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="m200 360 100-80"/><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="m500 220 80-55"/><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="M500 235h80"/><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="m500 260 80 45"/><path stroke="#495057" stroke-width="2" marker-end="url(#b)" d="m500 280 80 95"/><path stroke="#f57c00" stroke-dasharray="5,5" stroke-width="2" marker-end="url(#b)" d="m230 140 120 60"/><text x="250" y="225" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kapital
-  </text>
-  <text x="250" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="250" y="310" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Kapital
-  </text>
-  <text x="540" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="540" y="180" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Investering
-  </text>
-  <text x="540" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="540" y="220" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Investering
-  </text>
-  <text x="540" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="540" y="290" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Investering
-  </text>
-  <text x="540" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="540" y="360" fill="#495057" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Investering
-  </text>
-  
-
-  <path d="M 300 260 L 200 260" stroke="#28a745" stroke-width="2" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
-  <path d="M 300 300 L 200 380" stroke="#28a745" stroke-width="2" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
-  
-  <text x="250" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#28a745">
+  </text><path stroke="#28a745" stroke-dasharray="3,3" stroke-width="2" marker-end="url(#b)" d="M300 260H200"/><path stroke="#28a745" stroke-dasharray="3,3" stroke-width="2" marker-end="url(#b)" d="m300 300-100 80"/><text x="250" y="275" fill="#28a745" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Avkastning
-  </text>
-  <text x="250" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#28a745">
+  </text><text x="250" y="350" fill="#28a745" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Avkastning
-  </text>
-  
-
-  <rect x="300" y="330" width="200" height="90" fill="#fff" stroke="#6c757d" stroke-width="1" rx="5"/>
-  <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#212529">
+  </text><rect width="200" height="90" x="300" y="330" fill="#fff" stroke="#6c757d" rx="5"/><text x="400" y="350" fill="#212529" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Nøkkelfordeler
-  </text>
-  <text x="310" y="370" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="310" y="370" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Diversifisering av portefølje
-  </text>
-  <text x="310" y="385" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="310" y="385" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Profesjonell risikostyring
-  </text>
-  <text x="310" y="400" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="310" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Tilgang til ekspertise
-  </text>
-  <text x="310" y="415" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="310" y="415" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Stordriftsfordeler
-  </text>
-  
-
-  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6c757d">
+  </text><text x="400" y="470" fill="#6c757d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Investeringsselskaper fungerer som mellomledd mellom investorer og finansmarkeder
-  </text>
-</svg>
+  </text></svg>

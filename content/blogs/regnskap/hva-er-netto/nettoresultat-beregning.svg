@@ -1,144 +1,45 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="positiveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="negativeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c62828;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#f44336;stop-opacity:1"/><stop offset="100%" style="stop-color:#c62828;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="url(#b)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Beregning av Nettoresultat fra Bruttoinntekter
-  </text>
-  
-
-  <rect x="50" y="80" width="700" height="380" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-
-  <rect x="100" y="110" width="200" height="50" fill="url(#positiveGradient)" rx="5"/>
-  <text x="200" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="700" height="380" x="50" y="80" fill="#fff" stroke="#dee2e6" rx="10"/><rect width="200" height="50" x="100" y="110" fill="url(#c)" rx="5"/><text x="200" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Bruttoinntekter
-  </text>
-  <text x="200" y="150" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="200" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     2.000.000 kr
-  </text>
-  
-
-  <polygon points="200,170 190,185 210,185" fill="#666"/>
-  <line x1="200" y1="170" x2="200" y2="185" stroke="#666" stroke-width="2"/>
-  
-
-  <rect x="100" y="195" width="200" height="50" fill="url(#negativeGradient)" rx="5"/>
-  <text x="200" y="215" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><path fill="#666" d="m200 170-10 15h20z"/><path stroke="#666" stroke-width="2" d="M200 170v15"/><rect width="200" height="50" x="100" y="195" fill="url(#d)" rx="5"/><text x="200" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     - Driftskostnader
-  </text>
-  <text x="200" y="235" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="200" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     1.200.000 kr
-  </text>
-  
-
-  <polygon points="200,255 190,270 210,270" fill="#666"/>
-  <line x1="200" y1="255" x2="200" y2="270" stroke="#666" stroke-width="2"/>
-  
-
-  <rect x="100" y="280" width="200" height="40" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/>
-  <text x="200" y="295" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path fill="#666" d="m200 255-10 15h20z"/><path stroke="#666" stroke-width="2" d="M200 255v15"/><rect width="200" height="40" x="100" y="280" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="5"/><text x="200" y="295" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     = Driftsresultat
-  </text>
-  <text x="200" y="310" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="200" y="310" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     800.000 kr
-  </text>
-  
-
-  <polygon points="310,300 325,290 325,310" fill="#666"/>
-  <line x1="310" y1="300" x2="325" y2="300" stroke="#666" stroke-width="2"/>
-  
-
-  <rect x="340" y="280" width="180" height="40" fill="url(#negativeGradient)" rx="5"/>
-  <text x="430" y="295" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path fill="#666" d="m310 300 15-10v20z"/><path stroke="#666" stroke-width="2" d="M310 300h15"/><rect width="180" height="40" x="340" y="280" fill="url(#d)" rx="5"/><text x="430" y="295" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     - Finanskostnader
-  </text>
-  <text x="430" y="310" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="430" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     100.000 kr
-  </text>
-  
-
-  <polygon points="530,300 545,290 545,310" fill="#666"/>
-  <line x1="530" y1="300" x2="545" y2="300" stroke="#666" stroke-width="2"/>
-  
-
-  <rect x="560" y="280" width="180" height="40" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/>
-  <text x="650" y="295" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path fill="#666" d="m530 300 15-10v20z"/><path stroke="#666" stroke-width="2" d="M530 300h15"/><rect width="180" height="40" x="560" y="280" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="5"/><text x="650" y="295" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     = Resultat før skatt
-  </text>
-  <text x="650" y="310" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="650" y="310" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     700.000 kr
-  </text>
-  
-
-  <polygon points="650,330 640,345 660,345" fill="#666"/>
-  <line x1="650" y1="330" x2="650" y2="345" stroke="#666" stroke-width="2"/>
-  
-
-  <rect x="560" y="355" width="180" height="40" fill="url(#negativeGradient)" rx="5"/>
-  <text x="650" y="370" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path fill="#666" d="m650 330-10 15h20z"/><path stroke="#666" stroke-width="2" d="M650 330v15"/><rect width="180" height="40" x="560" y="355" fill="url(#d)" rx="5"/><text x="650" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     - Skatter
-  </text>
-  <text x="650" y="385" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="650" y="385" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     140.000 kr
-  </text>
-  
-
-  <polygon points="650,405 640,420 660,420" fill="#666"/>
-  <line x1="650" y1="405" x2="650" y2="420" stroke="#666" stroke-width="2"/>
-  
-
-  <rect x="500" y="430" width="300" height="60" fill="#e8f5e8" stroke="#4caf50" stroke-width="3" rx="10"/>
-  <text x="650" y="450" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><path fill="#666" d="m650 405-10 15h20z"/><path stroke="#666" stroke-width="2" d="M650 405v15"/><rect width="300" height="60" x="500" y="430" fill="#e8f5e8" stroke="#4caf50" stroke-width="3" rx="10"/><text x="650" y="450" fill="#4caf50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     NETTORESULTAT
-  </text>
-  <text x="650" y="470" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+  </text><text x="650" y="470" fill="#4caf50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     560.000 kr
-  </text>
-  <text x="650" y="485" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="10">
+  </text><text x="650" y="485" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Det endelige resultatet etter alle fradrag
-  </text>
-  
-
-  <rect x="100" y="340" width="380" height="110" fill="#f5f5f5" stroke="#999" stroke-width="1" rx="5"/>
-  <text x="290" y="360" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="380" height="110" x="100" y="340" fill="#f5f5f5" stroke="#999" rx="5"/><text x="290" y="360" fill="#333" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Forklaring av fradragene:
-  </text>
-  
-  <text x="120" y="380" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="120" y="380" fill="#666" font-family="Arial, sans-serif" font-size="11">
     • Driftskostnader: Lønn, husleie, materialer, markedsføring
-  </text>
-  <text x="120" y="395" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="120" y="395" fill="#666" font-family="Arial, sans-serif" font-size="11">
     • Finanskostnader: Renter på lån, bankgebyrer, valutakostnader
-  </text>
-  <text x="120" y="410" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="120" y="410" fill="#666" font-family="Arial, sans-serif" font-size="11">
     • Skatter: Selskapsskatt (22% av overskudd over 2 mill. kr)
-  </text>
-  <text x="120" y="425" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="120" y="425" fill="#666" font-family="Arial, sans-serif" font-size="11">
     • Nettoresultat: Det som gjenstår til eierne/reinvestering
-  </text>
-  <text x="120" y="440" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="120" y="440" fill="#666" font-family="Arial, sans-serif" font-size="11">
     • Netto margin: 560.000 ÷ 2.000.000 = 28%
-  </text>
-</svg>
+  </text></svg>

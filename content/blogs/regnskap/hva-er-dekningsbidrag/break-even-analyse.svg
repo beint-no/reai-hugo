@@ -1,85 +1,9 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Break-Even Analyse
-  </text>
-  
-
-  <rect x="100" y="80" width="600" height="400" fill="white" stroke="#bdc3c7" stroke-width="2"/>
-  
-
-  <line x1="100" y1="80" x2="100" y2="480" stroke="#2c3e50" stroke-width="2"/>
-  
-
-  <line x1="100" y1="480" x2="700" y2="480" stroke="#2c3e50" stroke-width="2"/>
-  
-
-  <text x="90" y="485" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">0</text>
-  <text x="90" y="430" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">150.000</text>
-  <text x="90" y="380" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">300.000</text>
-  <text x="90" y="330" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">450.000</text>
-  <text x="90" y="280" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">600.000</text>
-  <text x="90" y="230" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">750.000</text>
-  
-
-  <text x="100" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">0</text>
-  <text x="250" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">100</text>
-  <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">200</text>
-  <text x="550" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">300</text>
-  <text x="700" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">400</text>
-  
-
-  <line x1="100" y1="420" x2="700" y2="420" stroke="#e74c3c" stroke-width="3" stroke-dasharray="5,5"/>
-  <text x="720" y="425" font-family="Arial, sans-serif" font-size="14" fill="#e74c3c">Faste kostnader (180.000 kr)</text>
-  
-
-  <line x1="100" y1="420" x2="700" y2="200" stroke="#f39c12" stroke-width="3"/>
-  <text x="720" y="205" font-family="Arial, sans-serif" font-size="14" fill="#f39c12">Totale kostnader</text>
-  
-
-  <line x1="100" y1="480" x2="700" y2="80" stroke="#3498db" stroke-width="3"/>
-  <text x="720" y="85" font-family="Arial, sans-serif" font-size="14" fill="#3498db">Salgsinntekter</text>
-  
-
-  <circle cx="550" cy="320" r="8" fill="#27ae60" stroke="white" stroke-width="3"/>
-  <text x="570" y="315" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">Break-even punkt</text>
-  <text x="570" y="330" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">300 enheter</text>
-  <text x="570" y="345" font-family="Arial, sans-serif" font-size="12" fill="#27ae60">450.000 kr</text>
-  
-
-  <line x1="550" y1="320" x2="550" y2="480" stroke="#27ae60" stroke-width="2" stroke-dasharray="3,3"/>
-  
-
-  <line x1="100" y1="320" x2="550" y2="320" stroke="#27ae60" stroke-width="2" stroke-dasharray="3,3"/>
-  
-
-  <polygon points="100,480 100,420 550,320 550,480" fill="#e74c3c" fill-opacity="0.2"/>
-  <text x="300" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#e74c3c">UNDERSKUDD</text>
-  
-
-  <polygon points="550,320 550,480 700,480 700,200" fill="#27ae60" fill-opacity="0.2"/>
-  <text x="625" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#27ae60">OVERSKUDD</text>
-  
-
-  <circle cx="400" cy="380" r="6" fill="#e74c3c" stroke="white" stroke-width="2"/>
-  <text x="420" y="375" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">Nåværende situasjon</text>
-  <text x="420" y="390" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">200 enheter</text>
-  <text x="420" y="405" font-family="Arial, sans-serif" font-size="12" fill="#e74c3c">-60.000 kr underskudd</text>
-  
-
-  <text x="400" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><path fill="#fff" stroke="#bdc3c7" stroke-width="2" d="M100 80h600v400H100z"/><path stroke="#2c3e50" stroke-width="2" d="M100 80v400M100 480h600"/><text x="90" y="485" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">0</text><text x="90" y="430" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">150.000</text><text x="90" y="380" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">300.000</text><text x="90" y="330" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">450.000</text><text x="90" y="280" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">600.000</text><text x="90" y="230" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="end">750.000</text><text x="100" y="500" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">0</text><text x="250" y="500" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">100</text><text x="400" y="500" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">200</text><text x="550" y="500" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">300</text><text x="700" y="500" fill="#7f8c8d" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">400</text><path stroke="#e74c3c" stroke-dasharray="5,5" stroke-width="3" d="M100 420h600"/><text x="720" y="425" fill="#e74c3c" font-family="Arial, sans-serif" font-size="14">Faste kostnader (180.000 kr)</text><path stroke="#f39c12" stroke-width="3" d="m100 420 600-220"/><text x="720" y="205" fill="#f39c12" font-family="Arial, sans-serif" font-size="14">Totale kostnader</text><path stroke="#3498db" stroke-width="3" d="M100 480 700 80"/><text x="720" y="85" fill="#3498db" font-family="Arial, sans-serif" font-size="14">Salgsinntekter</text><circle cx="550" cy="320" r="8" fill="#27ae60" stroke="#fff" stroke-width="3"/><text x="570" y="315" fill="#27ae60" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Break-even punkt</text><text x="570" y="330" fill="#27ae60" font-family="Arial, sans-serif" font-size="12">300 enheter</text><text x="570" y="345" fill="#27ae60" font-family="Arial, sans-serif" font-size="12">450.000 kr</text><path stroke="#27ae60" stroke-dasharray="3,3" stroke-width="2" d="M550 320v160M100 320h450"/><path fill="#e74c3c" fill-opacity=".2" d="M100 480v-60l450-100v160z"/><text x="300" y="450" fill="#e74c3c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">UNDERSKUDD</text><path fill="#27ae60" fill-opacity=".2" d="M550 320v160h150V200z"/><text x="625" y="400" fill="#27ae60" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">OVERSKUDD</text><circle cx="400" cy="380" r="6" fill="#e74c3c" stroke="#fff" stroke-width="2"/><text x="420" y="375" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12">Nåværende situasjon</text><text x="420" y="390" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12">200 enheter</text><text x="420" y="405" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12">-60.000 kr underskudd</text><text x="400" y="530" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Antall enheter (stoler)
-  </text>
-  
-  <text x="50" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50" transform="rotate(-90 50 280)">
+  </text><text x="50" y="280" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" transform="rotate(-90 50 280)">
     Kroner
-  </text>
-  
-
-  <text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50">
+  </text><text x="400" y="570" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Må øke salget fra 200 til 300 enheter (+100 stoler) for å oppnå break-even
-  </text>
-</svg>
+  </text></svg>

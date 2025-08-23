@@ -1,99 +1,33 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="400" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  
-
-  <text x="400" y="45" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v400H0z"/><path fill="url(#b)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">
     Arbeidsforholdstype
-  </text>
-  
-
-  <text x="400" y="110" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#495057">
+  </text><text x="400" y="110" fill="#495057" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">
     Juridiske og praktiske rammer for arbeidsforhold i Norge
-  </text>
-  
-
-
-  <rect x="50" y="150" width="140" height="80" fill="#28a745" rx="8" opacity="0.9"/>
-  <text x="120" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="140" height="80" x="50" y="150" fill="#28a745" opacity=".9" rx="8"/><text x="120" y="175" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Fast
-  </text>
-  <text x="120" y="195" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="120" y="195" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ansettelse
-  </text>
-  <text x="120" y="215" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+  </text><text x="120" y="215" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Hovedregel
-  </text>
-  
-
-  <rect x="210" y="150" width="140" height="80" fill="#ffc107" rx="8" opacity="0.9"/>
-  <text x="280" y="175" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><rect width="140" height="80" x="210" y="150" fill="#ffc107" opacity=".9" rx="8"/><text x="280" y="175" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Midlertidig
-  </text>
-  <text x="280" y="195" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
+  </text><text x="280" y="195" fill="#212529" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Ansettelse
-  </text>
-  <text x="280" y="215" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#212529">
+  </text><text x="280" y="215" fill="#212529" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Spesielle tilfeller
-  </text>
-  
-
-  <rect x="370" y="150" width="140" height="80" fill="#17a2b8" rx="8" opacity="0.9"/>
-  <text x="440" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="140" height="80" x="370" y="150" fill="#17a2b8" opacity=".9" rx="8"/><text x="440" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Vikariat
-  </text>
-  <text x="440" y="205" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+  </text><text x="440" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Erstatter andre
-  </text>
-  
-
-  <rect x="530" y="150" width="140" height="80" fill="#6f42c1" rx="8" opacity="0.9"/>
-  <text x="600" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="140" height="80" x="530" y="150" fill="#6f42c1" opacity=".9" rx="8"/><text x="600" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Innleie
-  </text>
-  <text x="600" y="205" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+  </text><text x="600" y="205" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Via byrå
-  </text>
-  
-
-  <rect x="290" y="260" width="220" height="80" fill="#dc3545" rx="8" opacity="0.9"/>
-  <text x="400" y="285" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="220" height="80" x="290" y="260" fill="#dc3545" opacity=".9" rx="8"/><text x="400" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Selvstendig
-  </text>
-  <text x="400" y="305" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">
+  </text><text x="400" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Næringsdrivende
-  </text>
-  <text x="400" y="325" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+  </text><text x="400" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Ikke arbeidsforhold
-  </text>
-  
-
-  <line x1="120" y1="230" x2="120" y2="250" stroke="#6c757d" stroke-width="2"/>
-  <line x1="280" y1="230" x2="280" y2="250" stroke="#6c757d" stroke-width="2"/>
-  <line x1="440" y1="230" x2="440" y2="250" stroke="#6c757d" stroke-width="2"/>
-  <line x1="600" y1="230" x2="600" y2="250" stroke="#6c757d" stroke-width="2"/>
-  
-  <line x1="120" y1="250" x2="290" y2="250" stroke="#6c757d" stroke-width="2"/>
-  <line x1="280" y1="250" x2="290" y2="250" stroke="#6c757d" stroke-width="2"/>
-  <line x1="440" y1="250" x2="510" y2="250" stroke="#6c757d" stroke-width="2"/>
-  <line x1="600" y1="250" x2="510" y2="250" stroke="#6c757d" stroke-width="2"/>
-  
-
-  <text x="400" y="370" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+  </text><path stroke="#6c757d" stroke-width="2" d="M120 230v20M280 230v20M440 230v20M600 230v20M120 250h170M280 250h10M440 250h70M600 250h-90"/><text x="400" y="370" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Regulert av arbeidsmiljøloven og skattelovgivning
-  </text>
-</svg>
+  </text></svg>

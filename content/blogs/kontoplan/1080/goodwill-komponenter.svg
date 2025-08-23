@@ -1,156 +1,63 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#F8FAFC"/>
-  
-
-  <rect x="50" y="30" width="700" height="60" fill="url(#headerGradient)" rx="8"/>
-  <text x="400" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4f46e5;stop-opacity:1"/><stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><rect width="700" height="60" x="50" y="30" fill="url(#a)" rx="8"/><text x="400" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Komponenter som inngår i Goodwill
-  </text>
-  <text x="400" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+  </text><text x="400" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Identifiserbare og ikke-identifiserbare faktorer
-  </text>
-  
-
-  <rect x="50" y="120" width="340" height="440" fill="white" stroke="#E5E7EB" stroke-width="2" rx="8"/>
-  
-
-  <rect x="60" y="130" width="320" height="40" fill="#10B981" rx="5"/>
-  <text x="220" y="155" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><rect width="340" height="440" x="50" y="120" fill="#fff" stroke="#e5e7eb" stroke-width="2" rx="8"/><rect width="320" height="40" x="60" y="130" fill="#10b981" rx="5"/><text x="220" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Identifiserbare faktorer
-  </text>
-  
-
-  <g transform="translate(80, 190)">
-
-    <circle cx="10" cy="10" r="6" fill="#3B82F6"/>
-    <text x="25" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><g transform="translate(80 190)"><circle cx="10" cy="10" r="6" fill="#3b82f6"/><text x="25" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Kunderelasjoner
-    </text>
-    <text x="25" y="35" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="35" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       Etablerte kundeforhold som genererer
-    </text>
-    <text x="25" y="50" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="50" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       fremtidige inntekter
-    </text>
-    
-
-    <circle cx="10" cy="80" r="6" fill="#8B5CF6"/>
-    <text x="25" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><circle cx="10" cy="80" r="6" fill="#8b5cf6"/><text x="25" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Leverandørrelasjoner
-    </text>
-    <text x="25" y="105" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="105" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       Fordelaktige avtaler og etablerte
-    </text>
-    <text x="25" y="120" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="120" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       leverandørkjeder
-    </text>
-    
-
-    <circle cx="10" cy="150" r="6" fill="#F59E0B"/>
-    <text x="25" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><circle cx="10" cy="150" r="6" fill="#f59e0b"/><text x="25" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Medarbeiderlojalitet
-    </text>
-    <text x="25" y="175" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="175" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       Kvalifisert arbeidskraft og
-    </text>
-    <text x="25" y="190" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="190" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       etablerte team
-    </text>
-    
-
-    <circle cx="10" cy="220" r="6" fill="#EF4444"/>
-    <text x="25" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><circle cx="10" cy="220" r="6" fill="#ef4444"/><text x="25" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Markedsposisjon
-    </text>
-    <text x="25" y="245" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="245" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       Markedsandeler og
-    </text>
-    <text x="25" y="260" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="260" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       konkurransefordeler
-    </text>
-    
-
-    <circle cx="10" cy="290" r="6" fill="#06B6D4"/>
-    <text x="25" y="295" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><circle cx="10" cy="290" r="6" fill="#06b6d4"/><text x="25" y="295" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Synergier
-    </text>
-    <text x="25" y="315" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="315" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       Kostnadsbesparelser og
-    </text>
-    <text x="25" y="330" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="330" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       inntektsøkninger
-    </text>
-  </g>
-  
-
-  <rect x="410" y="120" width="340" height="440" fill="white" stroke="#E5E7EB" stroke-width="2" rx="8"/>
-  
-
-  <rect x="420" y="130" width="320" height="40" fill="#7C3AED" rx="5"/>
-  <text x="580" y="155" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text></g><rect width="340" height="440" x="410" y="120" fill="#fff" stroke="#e5e7eb" stroke-width="2" rx="8"/><rect width="320" height="40" x="420" y="130" fill="#7c3aed" rx="5"/><text x="580" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Ikke-identifiserbare faktorer
-  </text>
-  
-
-  <g transform="translate(440, 190)">
-
-    <circle cx="10" cy="10" r="6" fill="#EC4899"/>
-    <text x="25" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><g transform="translate(440 190)"><circle cx="10" cy="10" r="6" fill="#ec4899"/><text x="25" y="15" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Renommé og omdømme
-    </text>
-    <text x="25" y="35" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="35" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       Merkevarekapital og tillit
-    </text>
-    <text x="25" y="50" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="50" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       i markedet
-    </text>
-    
-
-    <circle cx="10" cy="80" r="6" fill="#14B8A6"/>
-    <text x="25" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><circle cx="10" cy="80" r="6" fill="#14b8a6"/><text x="25" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Organisasjonskultur
-    </text>
-    <text x="25" y="105" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="105" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       Etablerte prosesser og
-    </text>
-    <text x="25" y="120" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="120" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       arbeidsmetoder
-    </text>
-    
-
-    <circle cx="10" cy="150" r="6" fill="#F97316"/>
-    <text x="25" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><circle cx="10" cy="150" r="6" fill="#f97316"/><text x="25" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Innovasjonskapasitet
-    </text>
-    <text x="25" y="175" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="175" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       Evne til utvikling og
-    </text>
-    <text x="25" y="190" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="190" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       tilpasning
-    </text>
-    
-
-    <circle cx="10" cy="220" r="6" fill="#84CC16"/>
-    <text x="25" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><circle cx="10" cy="220" r="6" fill="#84cc16"/><text x="25" y="225" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Ledelseskvalitet
-    </text>
-    <text x="25" y="245" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="245" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       Kompetanse og erfaring
-    </text>
-    <text x="25" y="260" fill="#6B7280" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="25" y="260" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">
       i ledergruppen
-    </text>
-  </g>
-  
-
-  <circle cx="70" cy="580" r="15" fill="#4F46E5" opacity="0.1"/>
-  <circle cx="730" cy="580" r="20" fill="#10B981" opacity="0.1"/>
-</svg>
+    </text></g><circle cx="70" cy="580" r="15" fill="#4f46e5" opacity=".1"/><circle cx="730" cy="580" r="20" fill="#10b981" opacity=".1"/></svg>

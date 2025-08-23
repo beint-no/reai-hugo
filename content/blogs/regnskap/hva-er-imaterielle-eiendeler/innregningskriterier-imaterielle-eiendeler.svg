@@ -1,273 +1,91 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="criteriaGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ecfdf5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d1fae5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="processGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="warningGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#fef2f2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fecaca;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#ffffff"/>
-  
-
-  <rect x="0" y="0" width="800" height="80" fill="url(#headerGradient)"/>
-  <text x="400" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#10b981;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ecfdf5;stop-opacity:1"/><stop offset="100%" style="stop-color:#d1fae5;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fef2f2;stop-opacity:1"/><stop offset="100%" style="stop-color:#fecaca;stop-opacity:1"/></linearGradient></defs><path fill="#fff" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v80H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Innregningskriterier for Imaterielle Eiendeler
-  </text>
-  
-
-  <g transform="translate(50, 100)">
-    
-
-    <g transform="translate(0, 0)">
-      <text x="350" y="20" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+  </text><text x="350" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" transform="translate(50 100)">
         Beslutningsflyt for Innregning
-      </text>
-      
-
-      <g transform="translate(300, 40)">
-        <ellipse cx="50" cy="25" rx="50" ry="25" fill="#10b981" stroke="white" stroke-width="2"/>
-        <text x="50" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      </text><g transform="translate(350 140)"><ellipse cx="50" cy="25" fill="#10b981" stroke="#fff" stroke-width="2" rx="50" ry="25"/><text x="50" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
           Immateriell
-        </text>
-        <text x="50" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+        </text><text x="50" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
           Ressurs
-        </text>
-      </g>
-      
-
-      <path d="M 350 90 L 350 120" stroke="#374151" stroke-width="3" marker-end="url(#arrowGray)"/>
-      
-
-      <g transform="translate(275, 130)">
-        <polygon points="75,0 150,37.5 75,75 0,37.5" fill="#3b82f6" stroke="white" stroke-width="2"/>
-        <text x="75" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+        </text></g><path stroke="#374151" stroke-width="3" marker-end="url(#b)" d="M350 90v30" transform="translate(50 100)"/><path fill="#3b82f6" stroke="#fff" stroke-width="2" d="m400 230 75 37.5-75 37.5-75-37.5z"/><text x="75" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" transform="translate(325 230)">
           Identifiserbar?
-        </text>
-        <text x="75" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+        </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(325 230)">
           (Separerbar eller
-        </text>
-        <text x="75" y="58" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+        </text><text x="75" y="58" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(325 230)">
           kontraktuell)
-        </text>
-      </g>
-      
-
-      <path d="M 275 167.5 L 150 167.5 L 150 250" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowRed)"/>
-      <text x="200" y="160" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        </text><path stroke="#dc2626" stroke-width="2" marker-end="url(#c)" d="M275 167.5H150V250" transform="translate(50 100)"/><text x="200" y="160" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" transform="translate(50 100)">
         NEI
-      </text>
-      
-
-      <path d="M 350 205 L 350 230" stroke="#10b981" stroke-width="2" marker-end="url(#arrowGreen)"/>
-      <text x="365" y="220" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+      </text><path stroke="#10b981" stroke-width="2" marker-end="url(#d)" d="M350 205v25" transform="translate(50 100)"/><text x="365" y="220" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold" transform="translate(50 100)">
         JA
-      </text>
-      
-
-      <g transform="translate(275, 240)">
-        <polygon points="75,0 150,37.5 75,75 0,37.5" fill="#3b82f6" stroke="white" stroke-width="2"/>
-        <text x="75" y="30" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+      </text><path fill="#3b82f6" stroke="#fff" stroke-width="2" d="m400 340 75 37.5-75 37.5-75-37.5z"/><text x="75" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" transform="translate(325 340)">
           Kontrollerbar?
-        </text>
-        <text x="75" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+        </text><text x="75" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(325 340)">
           (Kan begrense
-        </text>
-        <text x="75" y="58" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+        </text><text x="75" y="58" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(325 340)">
           andres tilgang)
-        </text>
-      </g>
-      
-
-      <path d="M 275 277.5 L 150 277.5" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowRed)"/>
-      <text x="200" y="270" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        </text><path stroke="#dc2626" stroke-width="2" marker-end="url(#c)" d="M275 277.5H150" transform="translate(50 100)"/><text x="200" y="270" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" transform="translate(50 100)">
         NEI
-      </text>
-      
-
-      <path d="M 350 315 L 350 340" stroke="#10b981" stroke-width="2" marker-end="url(#arrowGreen)"/>
-      <text x="365" y="330" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+      </text><path stroke="#10b981" stroke-width="2" marker-end="url(#d)" d="M350 315v25" transform="translate(50 100)"/><text x="365" y="330" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold" transform="translate(50 100)">
         JA
-      </text>
-      
-
-      <g transform="translate(275, 350)">
-        <polygon points="75,0 150,37.5 75,75 0,37.5" fill="#3b82f6" stroke="white" stroke-width="2"/>
-        <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+      </text><path fill="#3b82f6" stroke="#fff" stroke-width="2" d="m400 450 75 37.5-75 37.5-75-37.5z"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" transform="translate(325 450)">
           Fremtidige
-        </text>
-        <text x="75" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+        </text><text x="75" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" transform="translate(325 450)">
           fordeler?
-        </text>
-        <text x="75" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+        </text><text x="75" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(325 450)">
           (Sannsynlige inntekter)
-        </text>
-      </g>
-      
-
-      <path d="M 275 387.5 L 150 387.5" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowRed)"/>
-      <text x="200" y="380" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        </text><path stroke="#dc2626" stroke-width="2" marker-end="url(#c)" d="M275 387.5H150" transform="translate(50 100)"/><text x="200" y="380" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" transform="translate(50 100)">
         NEI
-      </text>
-      
-
-      <path d="M 350 425 L 350 450" stroke="#10b981" stroke-width="2" marker-end="url(#arrowGreen)"/>
-      <text x="365" y="440" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+      </text><path stroke="#10b981" stroke-width="2" marker-end="url(#d)" d="M350 425v25" transform="translate(50 100)"/><text x="365" y="440" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold" transform="translate(50 100)">
         JA
-      </text>
-      
-
-      <g transform="translate(275, 460)">
-        <polygon points="75,0 150,37.5 75,75 0,37.5" fill="#3b82f6" stroke="white" stroke-width="2"/>
-        <text x="75" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+      </text><path fill="#3b82f6" stroke="#fff" stroke-width="2" d="m400 560 75 37.5-75 37.5-75-37.5z"/><text x="75" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" transform="translate(325 560)">
           Pålitelig
-        </text>
-        <text x="75" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+        </text><text x="75" y="40" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" transform="translate(325 560)">
           måling?
-        </text>
-        <text x="75" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10">
+        </text><text x="75" y="55" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" transform="translate(325 560)">
           (Kostnad kan måles)
-        </text>
-      </g>
-      
-
-      <path d="M 275 497.5 L 150 497.5" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowRed)"/>
-      <text x="200" y="490" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+        </text><path stroke="#dc2626" stroke-width="2" marker-end="url(#c)" d="M275 497.5H150" transform="translate(50 100)"/><text x="200" y="490" fill="#dc2626" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" transform="translate(50 100)">
         NEI
-      </text>
-      
-
-      <path d="M 425 497.5 L 550 497.5 L 550 450" stroke="#10b981" stroke-width="2" marker-end="url(#arrowGreen)"/>
-      <text x="500" y="490" text-anchor="middle" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
+      </text><path stroke="#10b981" stroke-width="2" marker-end="url(#d)" d="M425 497.5h125V450" transform="translate(50 100)"/><text x="500" y="490" fill="#10b981" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" transform="translate(50 100)">
         JA
-      </text>
-      
-
-      <g transform="translate(75, 250)">
-        <rect x="0" y="0" width="150" height="80" rx="10" fill="url(#warningGradient)" stroke="#dc2626" stroke-width="2"/>
-        <text x="75" y="25" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+      </text><g transform="translate(125 350)"><rect width="150" height="80" fill="url(#e)" stroke="#dc2626" stroke-width="2" rx="10"/><text x="75" y="25" fill="#dc2626" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           IKKE INNREGN
-        </text>
-        <text x="75" y="45" text-anchor="middle" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="75" y="45" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
           Kostnadsføres direkte
-        </text>
-        <text x="75" y="60" text-anchor="middle" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="75" y="60" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
           eller behandles som
-        </text>
-        <text x="75" y="75" text-anchor="middle" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="75" y="75" fill="#7f1d1d" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
           goodwill
-        </text>
-      </g>
-      
-
-      <g transform="translate(475, 370)">
-        <rect x="0" y="0" width="150" height="80" rx="10" fill="url(#criteriaGradient)" stroke="#10b981" stroke-width="2"/>
-        <text x="75" y="25" text-anchor="middle" fill="#10b981" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+        </text></g><g transform="translate(525 470)"><rect width="150" height="80" fill="url(#f)" stroke="#10b981" stroke-width="2" rx="10"/><text x="75" y="25" fill="#10b981" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           INNREGN SOM
-        </text>
-        <text x="75" y="40" text-anchor="middle" fill="#10b981" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+        </text><text x="75" y="40" fill="#10b981" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
           EIENDEL
-        </text>
-        <text x="75" y="60" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="75" y="60" fill="#047857" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
           Aktiveres i balansen
-        </text>
-        <text x="75" y="75" text-anchor="middle" fill="#047857" font-family="Arial, sans-serif" font-size="11">
+        </text><text x="75" y="75" fill="#047857" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
           og amortiseres
-        </text>
-      </g>
-    </g>
-    
-  </g>
-  
-
-  <g transform="translate(50, 100)">
-    <g transform="translate(0, 450)">
-      <rect x="0" y="0" width="700" height="120" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
-      
-      <text x="350" y="25" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+        </text></g><g transform="translate(50 550)"><rect width="700" height="120" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2" rx="10"/><text x="350" y="25" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
         Detaljerte Innregningskriterier
-      </text>
-      
-
-      <g transform="translate(30, 40)">
-
-        <g transform="translate(0, 0)">
-          <rect x="0" y="0" width="150" height="60" rx="5" fill="white" stroke="#e2e8f0" stroke-width="1"/>
-          <text x="75" y="20" text-anchor="middle" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+      </text><g transform="translate(30 40)"><rect width="150" height="60" fill="#fff" stroke="#e2e8f0" rx="5"/><text x="75" y="20" fill="#3b82f6" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
             Identifiserbarhet
-          </text>
-          <text x="75" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+          </text><text x="75" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
             • Separerbar fra bedriften
-          </text>
-          <text x="75" y="48" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+          </text><text x="75" y="48" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
             • Oppstår fra rettigheter
-          </text>
-        </g>
-        
-        <g transform="translate(170, 0)">
-          <rect x="0" y="0" width="150" height="60" rx="5" fill="white" stroke="#e2e8f0" stroke-width="1"/>
-          <text x="75" y="20" text-anchor="middle" fill="#10b981" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+          </text></g><g transform="translate(200 40)"><rect width="150" height="60" fill="#fff" stroke="#e2e8f0" rx="5"/><text x="75" y="20" fill="#10b981" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
             Kontroll
-          </text>
-          <text x="75" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+          </text><text x="75" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
             • Kan begrense tilgang
-          </text>
-          <text x="75" y="48" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+          </text><text x="75" y="48" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
             • Juridisk eller faktisk
-          </text>
-        </g>
-        
-        <g transform="translate(340, 0)">
-          <rect x="0" y="0" width="150" height="60" rx="5" fill="white" stroke="#e2e8f0" stroke-width="1"/>
-          <text x="75" y="20" text-anchor="middle" fill="#f59e0b" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+          </text></g><g transform="translate(370 40)"><rect width="150" height="60" fill="#fff" stroke="#e2e8f0" rx="5"/><text x="75" y="20" fill="#f59e0b" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
             Fremtidige Fordeler
-          </text>
-          <text x="75" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+          </text><text x="75" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
             • Sannsynlige inntekter
-          </text>
-          <text x="75" y="48" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+          </text><text x="75" y="48" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
             • Kostnadsbesparelser
-          </text>
-        </g>
-        
-        <g transform="translate(510, 0)">
-          <rect x="0" y="0" width="150" height="60" rx="5" fill="white" stroke="#e2e8f0" stroke-width="1"/>
-          <text x="75" y="20" text-anchor="middle" fill="#ec4899" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+          </text></g><g transform="translate(540 40)"><rect width="150" height="60" fill="#fff" stroke="#e2e8f0" rx="5"/><text x="75" y="20" fill="#ec4899" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
             Pålitelig Måling
-          </text>
-          <text x="75" y="35" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+          </text><text x="75" y="35" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
             • Kostnad kan måles
-          </text>
-          <text x="75" y="48" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="10">
+          </text><text x="75" y="48" fill="#374151" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
             • Objektiv verdsettelse
-          </text>
-        </g>
-      </g>
-    </g>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowGray" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0,0 0,6 9,3" fill="#374151"/>
-    </marker>
-    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0,0 0,6 9,3" fill="#10b981"/>
-    </marker>
-    <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0,0 0,6 9,3" fill="#dc2626"/>
-    </marker>
-  </defs>
-</svg>
+          </text></g></g><defs><marker id="b" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#374151" d="M0 0v6l9-3z"/></marker><marker id="d" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#10b981" d="M0 0v6l9-3z"/></marker><marker id="c" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3"><path fill="#dc2626" d="M0 0v6l9-3z"/></marker></defs></svg>

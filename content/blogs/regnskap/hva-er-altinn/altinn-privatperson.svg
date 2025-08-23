@@ -1,212 +1,51 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="taxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="messagesGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="authorizationGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E65100;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="publicGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4A148C;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#1b5e20;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#e65100;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#4a148c;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Altinn Privatpersontjenester
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#taxGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="340" height="200" fill="url(#a)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Skattetjenester
-    </text>
-    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="170" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Personlig skatterapportering
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="140" height="60" opacity=".2" rx="5"/><text x="70" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Skattemelding
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Årlig inntektsrapport</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Formuesoppgave</text>
-      
-
-      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">• Årlig inntektsrapport</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">• Formuesoppgave</text><rect width="140" height="60" x="160" opacity=".2" rx="5"/><text x="230" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Skatteoppgjør
-      </text>
-      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Beregnet skatt</text>
-      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Tilbakebetaling</text>
-      
-
-      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="170" y="35" font-family="Arial, sans-serif" font-size="11">• Beregnet skatt</text><text x="170" y="50" font-family="Arial, sans-serif" font-size="11">• Tilbakebetaling</text><rect width="140" height="60" y="75" opacity=".2" rx="5"/><text x="70" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Skattekort
-      </text>
-      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Elektronisk skattekort</text>
-      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Endring av trekk</text>
-      
-
-      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="110" font-family="Arial, sans-serif" font-size="11">• Elektronisk skattekort</text><text x="10" y="125" font-family="Arial, sans-serif" font-size="11">• Endring av trekk</text><rect width="140" height="60" x="160" y="75" opacity=".2" rx="5"/><text x="230" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Fradrag og tillegg
-      </text>
-      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Reisefradrag</text>
-      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Renteutgifter</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 80)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#messagesGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="170" y="110" font-family="Arial, sans-serif" font-size="11">• Reisefradrag</text><text x="170" y="125" font-family="Arial, sans-serif" font-size="11">• Renteutgifter</text></g></g><g transform="translate(410 80)"><rect width="340" height="200" fill="url(#b)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Digital Postboks
-    </text>
-    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="170" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Meldinger fra det offentlige
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="140" height="60" opacity=".2" rx="5"/><text x="70" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Skatteetaten
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Skatteoppgjør</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Vedtak og pålegg</text>
-      
-
-      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">• Skatteoppgjør</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">• Vedtak og pålegg</text><rect width="140" height="60" x="160" opacity=".2" rx="5"/><text x="230" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         NAV
-      </text>
-      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Ytelsesvedtak</text>
-      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Pensjonsinfo</text>
-      
-
-      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="170" y="35" font-family="Arial, sans-serif" font-size="11">• Ytelsesvedtak</text><text x="170" y="50" font-family="Arial, sans-serif" font-size="11">• Pensjonsinfo</text><rect width="140" height="60" y="75" opacity=".2" rx="5"/><text x="70" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Folkeregisteret
-      </text>
-      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Adresseendringer</text>
-      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Personopplysninger</text>
-      
-
-      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="110" font-family="Arial, sans-serif" font-size="11">• Adresseendringer</text><text x="10" y="125" font-family="Arial, sans-serif" font-size="11">• Personopplysninger</text><rect width="140" height="60" x="160" y="75" opacity=".2" rx="5"/><text x="230" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Påminnelser
-      </text>
-      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Frister og deadlines</text>
-      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Viktige meldinger</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(50, 300)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#authorizationGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="170" y="110" font-family="Arial, sans-serif" font-size="11">• Frister og deadlines</text><text x="170" y="125" font-family="Arial, sans-serif" font-size="11">• Viktige meldinger</text></g></g><g transform="translate(50 300)"><rect width="340" height="200" fill="url(#c)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Fullmakter
-    </text>
-    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="170" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Gi andre tilgang på dine vegne
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="140" height="60" opacity=".2" rx="5"/><text x="70" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Personlig fullmakt
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Familie og venner</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Begrenset tilgang</text>
-      
-
-      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">• Familie og venner</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">• Begrenset tilgang</text><rect width="140" height="60" x="160" opacity=".2" rx="5"/><text x="230" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Profesjonell hjelp
-      </text>
-      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Regnskapsfører</text>
-      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Skatterådgiver</text>
-      
-
-      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="170" y="35" font-family="Arial, sans-serif" font-size="11">• Regnskapsfører</text><text x="170" y="50" font-family="Arial, sans-serif" font-size="11">• Skatterådgiver</text><rect width="140" height="60" y="75" opacity=".2" rx="5"/><text x="70" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Midlertidig tilgang
-      </text>
-      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Tidsbegrenset</text>
-      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Spesifikke oppgaver</text>
-      
-
-      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="110" font-family="Arial, sans-serif" font-size="11">• Tidsbegrenset</text><text x="10" y="125" font-family="Arial, sans-serif" font-size="11">• Spesifikke oppgaver</text><rect width="140" height="60" x="160" y="75" opacity=".2" rx="5"/><text x="230" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Administrasjon
-      </text>
-      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Trekke tilbake</text>
-      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Overvåke bruk</text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(410, 300)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#publicGradient)" opacity="0.9"/>
-    <text x="170" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+      </text><text x="170" y="110" font-family="Arial, sans-serif" font-size="11">• Trekke tilbake</text><text x="170" y="125" font-family="Arial, sans-serif" font-size="11">• Overvåke bruk</text></g></g><g transform="translate(410 300)"><rect width="340" height="200" fill="url(#d)" opacity=".9" rx="10"/><text x="170" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Offentlige Tjenester
-    </text>
-    <text x="170" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="170" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Kontakt med offentlige etater
-    </text>
-    
-
-    <g transform="translate(20, 65)">
-
-      <rect x="0" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+    </text><g fill="#fff" transform="translate(20 65)"><rect width="140" height="60" opacity=".2" rx="5"/><text x="70" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         NAV-tjenester
-      </text>
-      <text x="10" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Søknad om ytelser</text>
-      <text x="10" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Meldekort</text>
-      
-
-      <rect x="160" y="0" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="35" font-family="Arial, sans-serif" font-size="11">• Søknad om ytelser</text><text x="10" y="50" font-family="Arial, sans-serif" font-size="11">• Meldekort</text><rect width="140" height="60" x="160" opacity=".2" rx="5"/><text x="230" y="18" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Folkeregisteret
-      </text>
-      <text x="170" y="35" font-family="Arial, sans-serif" font-size="11" fill="white">• Adresseendring</text>
-      <text x="170" y="50" font-family="Arial, sans-serif" font-size="11" fill="white">• Personopplysninger</text>
-      
-
-      <rect x="0" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="70" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="170" y="35" font-family="Arial, sans-serif" font-size="11">• Adresseendring</text><text x="170" y="50" font-family="Arial, sans-serif" font-size="11">• Personopplysninger</text><rect width="140" height="60" y="75" opacity=".2" rx="5"/><text x="70" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Helsetjenester
-      </text>
-      <text x="10" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Helsejournal</text>
-      <text x="10" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Fastlegevalg</text>
-      
-
-      <rect x="160" y="75" width="140" height="60" rx="5" fill="white" opacity="0.2"/>
-      <text x="230" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      </text><text x="10" y="110" font-family="Arial, sans-serif" font-size="11">• Helsejournal</text><text x="10" y="125" font-family="Arial, sans-serif" font-size="11">• Fastlegevalg</text><rect width="140" height="60" x="160" y="75" opacity=".2" rx="5"/><text x="230" y="93" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
         Kommunale tjenester
-      </text>
-      <text x="170" y="110" font-family="Arial, sans-serif" font-size="11" fill="white">• Søknader</text>
-      <text x="170" y="125" font-family="Arial, sans-serif" font-size="11" fill="white">• Tillatelser</text>
-    </g>
-  </g>
-</svg>
+      </text><text x="170" y="110" font-family="Arial, sans-serif" font-size="11">• Søknader</text><text x="170" y="125" font-family="Arial, sans-serif" font-size="11">• Tillatelser</text></g></g></svg>

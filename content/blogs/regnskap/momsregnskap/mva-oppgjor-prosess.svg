@@ -1,170 +1,73 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     MVA-oppgjør og Rapporteringsprosess
-  </text>
-  
-
-  <rect x="50" y="70" width="150" height="100" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/>
-  <text x="125" y="95" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="150" height="100" x="50" y="70" fill="#e3f2fd" stroke="#1976d2" stroke-width="2" rx="10"/><text x="125" y="95" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     1. Månedlig
-  </text>
-  <text x="125" y="110" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="125" y="110" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Avstemming
-  </text>
-  <text x="125" y="130" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="125" y="130" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Kontroller alle
-  </text>
-  <text x="125" y="145" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="125" y="145" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     MVA-transaksjoner
-  </text>
-  <text x="125" y="160" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="125" y="160" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Avstem kontoer
-  </text>
-  
-
-  <path d="M 210 120 L 240 120" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
-  
-
-  <rect x="250" y="70" width="150" height="100" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/>
-  <text x="325" y="95" text-anchor="middle" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#b)" d="M210 120h30"/><rect width="150" height="100" x="250" y="70" fill="#fff3e0" stroke="#f57c00" stroke-width="2" rx="10"/><text x="325" y="95" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     2. Beregn
-  </text>
-  <text x="325" y="110" text-anchor="middle" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="325" y="110" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Netto MVA
-  </text>
-  <text x="325" y="130" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="325" y="130" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Utgående MVA
-  </text>
-  <text x="325" y="145" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="325" y="145" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     - Inngående MVA
-  </text>
-  <text x="325" y="160" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="325" y="160" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     = Netto MVA
-  </text>
-  
-
-  <path d="M 410 120 L 440 120" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
-  
-
-  <rect x="450" y="70" width="150" height="100" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/>
-  <text x="525" y="95" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#b)" d="M410 120h30"/><rect width="150" height="100" x="450" y="70" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="525" y="95" fill="#4caf50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     3. Utarbeid
-  </text>
-  <text x="525" y="110" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="525" y="110" fill="#4caf50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     MVA-oppgave
-  </text>
-  <text x="525" y="130" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="525" y="130" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Fyll ut skjema
-  </text>
-  <text x="525" y="145" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="525" y="145" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Kontroller tall
-  </text>
-  <text x="525" y="160" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="525" y="160" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Kvalitetssikre
-  </text>
-  
-
-  <path d="M 525 180 L 525 210" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
-  
-
-  <rect x="450" y="220" width="150" height="100" fill="#fce4ec" stroke="#e91e63" stroke-width="2" rx="10"/>
-  <text x="525" y="245" text-anchor="middle" fill="#e91e63" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#b)" d="M525 180v30"/><rect width="150" height="100" x="450" y="220" fill="#fce4ec" stroke="#e91e63" stroke-width="2" rx="10"/><text x="525" y="245" fill="#e91e63" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     4. Lever til
-  </text>
-  <text x="525" y="260" text-anchor="middle" fill="#e91e63" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="525" y="260" fill="#e91e63" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Skatteetaten
-  </text>
-  <text x="525" y="280" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="525" y="280" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Via Altinn
-  </text>
-  <text x="525" y="295" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="525" y="295" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Innen fristen
-  </text>
-  <text x="525" y="310" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="525" y="310" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Elektronisk
-  </text>
-  
-
-  <path d="M 440 270 L 410 270" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
-  
-
-  <rect x="250" y="220" width="150" height="100" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="10"/>
-  <text x="325" y="245" text-anchor="middle" fill="#9c27b0" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#b)" d="M440 270h-30"/><rect width="150" height="100" x="250" y="220" fill="#f3e5f5" stroke="#9c27b0" stroke-width="2" rx="10"/><text x="325" y="245" fill="#9c27b0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     5. Betaling
-  </text>
-  <text x="325" y="260" text-anchor="middle" fill="#9c27b0" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="325" y="260" fill="#9c27b0" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     av MVA
-  </text>
-  <text x="325" y="280" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="325" y="280" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Samme frist
-  </text>
-  <text x="325" y="295" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="325" y="295" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Automatisk trekk
-  </text>
-  <text x="325" y="310" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="325" y="310" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • eller manuelt
-  </text>
-  
-
-  <path d="M 240 270 L 210 270" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
-  
-
-  <rect x="50" y="220" width="150" height="100" fill="#fff8e1" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="125" y="245" text-anchor="middle" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#b)" d="M240 270h-30"/><rect width="150" height="100" x="50" y="220" fill="#fff8e1" stroke="#ffc107" stroke-width="2" rx="10"/><text x="125" y="245" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     6. Arkivering
-  </text>
-  <text x="125" y="260" text-anchor="middle" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><text x="125" y="260" fill="#f57c00" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     &amp; Dokumentasjon
-  </text>
-  <text x="125" y="280" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="125" y="280" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Lagre kvittering
-  </text>
-  <text x="125" y="295" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="125" y="295" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Arkiver bilag
-  </text>
-  <text x="125" y="310" text-anchor="middle" fill="#333" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="125" y="310" fill="#333" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     • Oppdater regnskap
-  </text>
-  
-
-  <path d="M 125 210 L 125 180" stroke="#666" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
-  
-
-  <rect x="250" y="350" width="300" height="80" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="10"/>
-  <text x="400" y="375" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+  </text><path fill="none" stroke="#666" stroke-width="3" marker-end="url(#b)" d="M125 210v-30"/><rect width="300" height="80" x="250" y="350" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="10"/><text x="400" y="375" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Rapporteringsfrister
-  </text>
-  <text x="400" y="395" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="400" y="395" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Månedlig: 10. i måneden etter (over 5 mill. kr)
-  </text>
-  <text x="400" y="410" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="400" y="410" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Hver 2. måned: 10. i måneden etter (1-5 mill. kr)
-  </text>
-  <text x="400" y="425" text-anchor="middle" fill="#495057" font-family="Arial, sans-serif" font-size="12">
+  </text><text x="400" y="425" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Årlig: 31. januar (under 1 mill. kr)
-  </text>
-  
-
-  <rect x="100" y="450" width="600" height="30" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
-  <text x="400" y="470" text-anchor="middle" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="600" height="30" x="100" y="450" fill="#fff3cd" stroke="#ffc107" rx="5"/><text x="400" y="470" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     ⚠️ Forsinkelsesgebyr ved for sen levering eller betaling
-  </text>
-  
-
-  <defs>
-    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
-      <polygon points="0 0, 8 3, 0 6" fill="#666"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="b" markerHeight="6" markerWidth="8" orient="auto" refX="7" refY="3"><path fill="#666" d="m0 0 8 3-8 3z"/></marker></defs></svg>

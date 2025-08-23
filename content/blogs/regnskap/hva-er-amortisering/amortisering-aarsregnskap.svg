@@ -1,223 +1,99 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="incomeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="balanceGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffc107;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e0a800;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="50" fill="url(#headerGradient)"/>
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#007bff;stop-opacity:1"/><stop offset="100%" style="stop-color:#0056b3;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ffc107;stop-opacity:1"/><stop offset="100%" style="stop-color:#e0a800;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h800v600H0z"/><path fill="url(#a)" d="M0 0h800v50H0z"/><text x="400" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Amortisering i Årsregnskapet
-  </text>
-  
-
-  <rect x="50" y="70" width="340" height="240" fill="url(#incomeGradient)" rx="15"/>
-  <text x="220" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="340" height="240" x="50" y="70" fill="url(#b)" rx="15"/><text x="220" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     RESULTATREGNSKAP
-  </text>
-  
-  <rect x="70" y="110" width="300" height="180" fill="white" rx="10"/>
-  
-
-  <text x="220" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="300" height="180" x="70" y="110" fill="#fff" rx="10"/><text x="220" y="130" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Påvirkning på Resultat
-  </text>
-  
-
-  <text x="85" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="85" y="155" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Driftsinntekter:
-  </text>
-  <text x="345" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#495057">
+  </text><text x="345" y="155" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="end">
     5 000 000
-  </text>
-  
-  <text x="85" y="175" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="85" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Varekostnad:
-  </text>
-  <text x="345" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#495057">
+  </text><text x="345" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="end">
     (2 000 000)
-  </text>
-  
-  <text x="85" y="195" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="85" y="195" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Lønnskostnader:
-  </text>
-  <text x="345" y="195" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#495057">
+  </text><text x="345" y="195" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="end">
     (1 500 000)
-  </text>
-  
-
-  <rect x="80" y="205" width="270" height="20" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="3"/>
-  <text x="85" y="218" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#856404">
+  </text><rect width="270" height="20" x="80" y="205" fill="#fff3cd" stroke="#ffc107" rx="3"/><text x="85" y="218" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Amortiseringskostnader:
-  </text>
-  <text x="345" y="218" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#856404">
+  </text><text x="345" y="218" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
     (300 000)
-  </text>
-  
-  <text x="85" y="238" font-family="Arial, sans-serif" font-size="12" fill="#495057">
+  </text><text x="85" y="238" fill="#495057" font-family="Arial, sans-serif" font-size="12">
     Andre driftskostnader:
-  </text>
-  <text x="345" y="238" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#495057">
+  </text><text x="345" y="238" fill="#495057" font-family="Arial, sans-serif" font-size="12" text-anchor="end">
     (500 000)
-  </text>
-  
-  <line x1="85" y1="245" x2="345" y2="245" stroke="#495057" stroke-width="1"/>
-  <text x="85" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><path stroke="#495057" d="M85 245h260"/><text x="85" y="260" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Driftsresultat:
-  </text>
-  <text x="345" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#495057">
+  </text><text x="345" y="260" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
     700 000
-  </text>
-  
-  <text x="220" y="280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d" font-style="italic">
+  </text><text x="220" y="280" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" font-style="italic" text-anchor="middle">
     Amortisering reduserer driftsresultatet
-  </text>
-  
-
-  <rect x="410" y="70" width="340" height="240" fill="url(#balanceGradient)" rx="15"/>
-  <text x="580" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="340" height="240" x="410" y="70" fill="url(#c)" rx="15"/><text x="580" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     BALANSE
-  </text>
-  
-  <rect x="430" y="110" width="300" height="180" fill="white" rx="10"/>
-  
-
-  <text x="580" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="300" height="180" x="430" y="110" fill="#fff" rx="10"/><text x="580" y="130" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Eiendeler (utdrag)
-  </text>
-  
-
-  <text x="445" y="155" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="445" y="155" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Anleggsmidler:
-  </text>
-  
-  <text x="455" y="175" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="455" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Varige driftsmidler:
-  </text>
-  <text x="705" y="175" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#495057">
+  </text><text x="705" y="175" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
     2 500 000
-  </text>
-  
-
-  <rect x="450" y="185" width="270" height="35" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="3"/>
-  <text x="455" y="198" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2e7d32">
+  </text><rect width="270" height="35" x="450" y="185" fill="#e8f5e8" stroke="#28a745" rx="3"/><text x="455" y="198" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Immaterielle eiendeler:
-  </text>
-  <text x="465" y="212" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="465" y="212" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     Kostpris: 1 000 000
-  </text>
-  <text x="705" y="198" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end" fill="#2e7d32">
+  </text><text x="705" y="198" fill="#2e7d32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="end">
     700 000
-  </text>
-  <text x="705" y="212" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#6c757d">
+  </text><text x="705" y="212" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" text-anchor="end">
     Akk. amort: (300 000)
-  </text>
-  
-  <text x="455" y="235" font-family="Arial, sans-serif" font-size="11" fill="#495057">
+  </text><text x="455" y="235" fill="#495057" font-family="Arial, sans-serif" font-size="11">
     Finansielle anleggsmidler:
-  </text>
-  <text x="705" y="235" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#495057">
+  </text><text x="705" y="235" fill="#495057" font-family="Arial, sans-serif" font-size="11" text-anchor="end">
     500 000
-  </text>
-  
-  <line x1="455" y1="245" x2="705" y2="245" stroke="#495057" stroke-width="1"/>
-  <text x="455" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><path stroke="#495057" d="M455 245h250"/><text x="455" y="260" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Sum anleggsmidler:
-  </text>
-  <text x="705" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end" fill="#495057">
+  </text><text x="705" y="260" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="end">
     3 700 000
-  </text>
-  
-  <text x="580" y="280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6c757d" font-style="italic">
+  </text><text x="580" y="280" fill="#6c757d" font-family="Arial, sans-serif" font-size="10" font-style="italic" text-anchor="middle">
     Netto bokført verdi vises i balansen
-  </text>
-  
-
-  <rect x="50" y="330" width="700" height="120" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  <text x="400" y="355" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="700" height="120" x="50" y="330" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="400" y="355" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Noter til Regnskapet
-  </text>
-  
-
-  <rect x="70" y="370" width="320" height="60" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="230" y="385" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="320" height="60" x="70" y="370" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="230" y="385" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Note X: Immaterielle eiendeler
-  </text>
-  <text x="80" y="400" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="80" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Anskaffelseskost 1. januar: 1 000 000 kr
-  </text>
-  <text x="80" y="412" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="80" y="412" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Årets amortisering: 300 000 kr
-  </text>
-  <text x="80" y="424" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="80" y="424" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Bokført verdi 31. desember: 700 000 kr
-  </text>
-  
-
-  <rect x="410" y="370" width="320" height="60" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="570" y="385" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="320" height="60" x="410" y="370" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="570" y="385" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Regnskapsprinsipp
-  </text>
-  <text x="420" y="400" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="420" y="400" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Lineær amortisering over eiendelens levetid
-  </text>
-  <text x="420" y="412" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="420" y="412" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Vurdert for verdifall årlig
-  </text>
-  <text x="420" y="424" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="420" y="424" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Følger god regnskapsskikk
-  </text>
-  
-
-  <rect x="50" y="470" width="700" height="110" fill="white" stroke="#dee2e6" stroke-width="2" rx="10"/>
-  <text x="400" y="495" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><rect width="700" height="110" x="50" y="470" fill="#fff" stroke="#dee2e6" stroke-width="2" rx="10"/><text x="400" y="495" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Påvirkning på Nøkkeltall
-  </text>
-  
-
-  <rect x="80" y="510" width="200" height="50" fill="#e3f2fd" stroke="#2196f3" stroke-width="1" rx="5"/>
-  <text x="180" y="525" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1976d2">
+  </text><rect width="200" height="50" x="80" y="510" fill="#e3f2fd" stroke="#2196f3" rx="5"/><text x="180" y="525" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Lønnsomhet
-  </text>
-  <text x="90" y="540" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="90" y="540" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Reduserer driftsmargin
-  </text>
-  <text x="90" y="552" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="90" y="552" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Påvirker totalrentabilitet
-  </text>
-  
-  <rect x="300" y="510" width="200" height="50" fill="#fff3cd" stroke="#ffc107" stroke-width="1" rx="5"/>
-  <text x="400" y="525" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="200" height="50" x="300" y="510" fill="#fff3cd" stroke="#ffc107" rx="5"/><text x="400" y="525" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Soliditet
-  </text>
-  <text x="310" y="540" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="310" y="540" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Reduserer egenkapitalandel
-  </text>
-  <text x="310" y="552" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="310" y="552" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Påvirker balansens størrelse
-  </text>
-  
-  <rect x="520" y="510" width="200" height="50" fill="#e8f5e8" stroke="#4caf50" stroke-width="1" rx="5"/>
-  <text x="620" y="525" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2e7d32">
+  </text><rect width="200" height="50" x="520" y="510" fill="#e8f5e8" stroke="#4caf50" rx="5"/><text x="620" y="525" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Skattemessig
-  </text>
-  <text x="530" y="540" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="530" y="540" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Fradragsberettiget kostnad
-  </text>
-  <text x="530" y="552" font-family="Arial, sans-serif" font-size="10" fill="#495057">
+  </text><text x="530" y="552" fill="#495057" font-family="Arial, sans-serif" font-size="10">
     • Reduserer skattbar inntekt
-  </text>
-</svg>
+  </text></svg>

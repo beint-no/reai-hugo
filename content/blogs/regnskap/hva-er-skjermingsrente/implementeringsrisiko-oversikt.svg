@@ -1,263 +1,101 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:0.3" />
-    </linearGradient>
-    <linearGradient id="calcGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ea580c;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#ea580c;stop-opacity:0.3" />
-    </linearGradient>
-    <linearGradient id="reportGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ca8a04;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#ca8a04;stop-opacity:0.3" />
-    </linearGradient>
-    <linearGradient id="complianceGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#16a34a;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#16a34a;stop-opacity:0.3" />
-    </linearGradient>
-    <filter id="shadow">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.1"/>
-    </filter>
-  </defs>
-  
-
-  <rect width="1000" height="600" fill="#f8fafc"/>
-  
-
-  <rect x="0" y="0" width="1000" height="60" fill="url(#headerGradient)"/>
-  <text x="500" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc2626;stop-opacity:.1"/><stop offset="100%" style="stop-color:#dc2626;stop-opacity:.3"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ea580c;stop-opacity:.1"/><stop offset="100%" style="stop-color:#ea580c;stop-opacity:.3"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ca8a04;stop-opacity:.1"/><stop offset="100%" style="stop-color:#ca8a04;stop-opacity:.3"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#16a34a;stop-opacity:.1"/><stop offset="100%" style="stop-color:#16a34a;stop-opacity:.3"/></linearGradient><filter id="b"><feDropShadow dx="2" dy="2" flood-color="#000" flood-opacity=".1" stdDeviation="3"/></filter></defs><path fill="#f8fafc" d="M0 0h1000v600H0z"/><path fill="url(#a)" d="M0 0h1000v60H0z"/><text x="500" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Implementeringsrisiko Oversikt - Skjermingsrente Systemer
-  </text>
-  
-
-  
-
-  <g filter="url(#shadow)">
-    <rect x="50" y="100" width="200" height="120" fill="url(#dataGradient)" stroke="#dc2626" stroke-width="2" rx="8"/>
-    <text x="150" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#dc2626" text-anchor="middle">
+  </text><g filter="url(#b)"><rect width="200" height="120" x="50" y="100" fill="url(#c)" stroke="#dc2626" stroke-width="2" rx="8"/><text x="150" y="120" fill="#dc2626" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       DATARISIKO
-    </text>
-    <text x="60" y="140" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="60" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Feil transaksjonsdata
-    </text>
-    <text x="60" y="155" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="60" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Manglende data
-    </text>
-    <text x="60" y="170" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="60" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Korrupsjon av data
-    </text>
-    <text x="60" y="185" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="60" y="185" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Integrasjonsfeil
-    </text>
-    <text x="60" y="205" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc2626">
+    </text><text x="60" y="205" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Sannsynlighet: LAV
-    </text>
-    <text x="60" y="215" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc2626">
+    </text><text x="60" y="215" fill="#dc2626" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Konsekvens: HØY
-    </text>
-  </g>
-  
-
-  <g filter="url(#shadow)">
-    <rect x="275" y="100" width="200" height="120" fill="url(#calcGradient)" stroke="#ea580c" stroke-width="2" rx="8"/>
-    <text x="375" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ea580c" text-anchor="middle">
+    </text></g><g filter="url(#b)"><rect width="200" height="120" x="275" y="100" fill="url(#d)" stroke="#ea580c" stroke-width="2" rx="8"/><text x="375" y="120" fill="#ea580c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       BEREGNINGSRISIKO
-    </text>
-    <text x="285" y="140" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="285" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Algoritmer feil
-    </text>
-    <text x="285" y="155" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="285" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Implementeringsfeil
-    </text>
-    <text x="285" y="170" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="285" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Rundingsfeil
-    </text>
-    <text x="285" y="185" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="285" y="185" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Tidsberegningsfeil
-    </text>
-    <text x="285" y="205" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ea580c">
+    </text><text x="285" y="205" fill="#ea580c" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Sannsynlighet: MEDIUM
-    </text>
-    <text x="285" y="215" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ea580c">
+    </text><text x="285" y="215" fill="#ea580c" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Konsekvens: HØY
-    </text>
-  </g>
-  
-
-  <g filter="url(#shadow)">
-    <rect x="500" y="100" width="200" height="120" fill="url(#reportGradient)" stroke="#ca8a04" stroke-width="2" rx="8"/>
-    <text x="600" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ca8a04" text-anchor="middle">
+    </text></g><g filter="url(#b)"><rect width="200" height="120" x="500" y="100" fill="url(#e)" stroke="#ca8a04" stroke-width="2" rx="8"/><text x="600" y="120" fill="#ca8a04" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       RAPPORTERINGSRISIKO
-    </text>
-    <text x="510" y="140" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="510" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Manglende rapporter
-    </text>
-    <text x="510" y="155" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="510" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Feil i rapporter
-    </text>
-    <text x="510" y="170" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="510" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Timing-problemer
-    </text>
-    <text x="510" y="185" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="510" y="185" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Format-feil
-    </text>
-    <text x="510" y="205" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ca8a04">
+    </text><text x="510" y="205" fill="#ca8a04" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Sannsynlighet: LAV
-    </text>
-    <text x="510" y="215" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ca8a04">
+    </text><text x="510" y="215" fill="#ca8a04" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Konsekvens: MEDIUM
-    </text>
-  </g>
-  
-
-  <g filter="url(#shadow)">
-    <rect x="725" y="100" width="200" height="120" fill="url(#complianceGradient)" stroke="#16a34a" stroke-width="2" rx="8"/>
-    <text x="825" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#16a34a" text-anchor="middle">
+    </text></g><g filter="url(#b)"><rect width="200" height="120" x="725" y="100" fill="url(#f)" stroke="#16a34a" stroke-width="2" rx="8"/><text x="825" y="120" fill="#16a34a" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       COMPLIANCE-RISIKO
-    </text>
-    <text x="735" y="140" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="735" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Regulatoriske brudd
-    </text>
-    <text x="735" y="155" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="735" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Lovkrav ikke oppfylt
-    </text>
-    <text x="735" y="170" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="735" y="170" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Dokumentasjonsfeil
-    </text>
-    <text x="735" y="185" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="735" y="185" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Audit-problemer
-    </text>
-    <text x="735" y="205" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#16a34a">
+    </text><text x="735" y="205" fill="#16a34a" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Sannsynlighet: MEDIUM
-    </text>
-    <text x="735" y="215" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#16a34a">
+    </text><text x="735" y="215" fill="#16a34a" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
       Konsekvens: HØY
-    </text>
-  </g>
-  
-
-  <text x="50" y="270" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e3a8a">
+    </text></g><text x="50" y="270" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Risikomatriks og Mitigering
-  </text>
-  
-
-  <rect x="50" y="290" width="500" height="200" fill="white" stroke="#374151" stroke-width="1"/>
-  
-
-  <text x="80" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+  </text><path fill="#fff" stroke="#374151" d="M50 290h500v200H50z"/><text x="80" y="305" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Risiko
-  </text>
-  <text x="180" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+  </text><text x="180" y="305" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Sannsynlighet
-  </text>
-  <text x="280" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+  </text><text x="280" y="305" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Konsekvens
-  </text>
-  <text x="380" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+  </text><text x="380" y="305" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Risikoscore
-  </text>
-  <text x="480" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#374151">
+  </text><text x="480" y="305" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Mitigering
-  </text>
-  
-
-  <line x1="50" y1="310" x2="550" y2="310" stroke="#374151" stroke-width="1"/>
-  <line x1="170" y1="290" x2="170" y2="490" stroke="#374151" stroke-width="1"/>
-  <line x1="270" y1="290" x2="270" y2="490" stroke="#374151" stroke-width="1"/>
-  <line x1="370" y1="290" x2="370" y2="490" stroke="#374151" stroke-width="1"/>
-  <line x1="470" y1="290" x2="470" y2="490" stroke="#374151" stroke-width="1"/>
-  
-
-  <text x="60" y="330" font-family="Arial, sans-serif" font-size="11" fill="#374151">Data corruption</text>
-  <text x="180" y="330" font-family="Arial, sans-serif" font-size="11" fill="#374151">Lav</text>
-  <text x="280" y="330" font-family="Arial, sans-serif" font-size="11" fill="#374151">Høy</text>
-  <text x="380" y="330" font-family="Arial, sans-serif" font-size="11" fill="#ca8a04">Medium</text>
-  <text x="480" y="330" font-family="Arial, sans-serif" font-size="11" fill="#374151">Backup + validation</text>
-  
-  <text x="60" y="350" font-family="Arial, sans-serif" font-size="11" fill="#374151">Calculation errors</text>
-  <text x="180" y="350" font-family="Arial, sans-serif" font-size="11" fill="#374151">Medium</text>
-  <text x="280" y="350" font-family="Arial, sans-serif" font-size="11" fill="#374151">Høy</text>
-  <text x="380" y="350" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">Høy</text>
-  <text x="480" y="350" font-family="Arial, sans-serif" font-size="11" fill="#374151">Dual control + testing</text>
-  
-  <text x="60" y="370" font-family="Arial, sans-serif" font-size="11" fill="#374151">Reporting failures</text>
-  <text x="180" y="370" font-family="Arial, sans-serif" font-size="11" fill="#374151">Lav</text>
-  <text x="280" y="370" font-family="Arial, sans-serif" font-size="11" fill="#374151">Medium</text>
-  <text x="380" y="370" font-family="Arial, sans-serif" font-size="11" fill="#16a34a">Lav</text>
-  <text x="480" y="370" font-family="Arial, sans-serif" font-size="11" fill="#374151">Automated checks</text>
-  
-  <text x="60" y="390" font-family="Arial, sans-serif" font-size="11" fill="#374151">Regulatory changes</text>
-  <text x="180" y="390" font-family="Arial, sans-serif" font-size="11" fill="#374151">Medium</text>
-  <text x="280" y="390" font-family="Arial, sans-serif" font-size="11" fill="#374151">Høy</text>
-  <text x="380" y="390" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">Høy</text>
-  <text x="480" y="390" font-family="Arial, sans-serif" font-size="11" fill="#374151">Monitoring + flexibility</text>
-  
-
-  <text x="600" y="270" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e3a8a">
+  </text><path stroke="#374151" d="M50 310h500M170 290v200M270 290v200M370 290v200M470 290v200"/><text x="60" y="330" fill="#374151" font-family="Arial, sans-serif" font-size="11">Data corruption</text><text x="180" y="330" fill="#374151" font-family="Arial, sans-serif" font-size="11">Lav</text><text x="280" y="330" fill="#374151" font-family="Arial, sans-serif" font-size="11">Høy</text><text x="380" y="330" fill="#ca8a04" font-family="Arial, sans-serif" font-size="11">Medium</text><text x="480" y="330" fill="#374151" font-family="Arial, sans-serif" font-size="11">Backup + validation</text><text x="60" y="350" fill="#374151" font-family="Arial, sans-serif" font-size="11">Calculation errors</text><text x="180" y="350" fill="#374151" font-family="Arial, sans-serif" font-size="11">Medium</text><text x="280" y="350" fill="#374151" font-family="Arial, sans-serif" font-size="11">Høy</text><text x="380" y="350" fill="#dc2626" font-family="Arial, sans-serif" font-size="11">Høy</text><text x="480" y="350" fill="#374151" font-family="Arial, sans-serif" font-size="11">Dual control + testing</text><text x="60" y="370" fill="#374151" font-family="Arial, sans-serif" font-size="11">Reporting failures</text><text x="180" y="370" fill="#374151" font-family="Arial, sans-serif" font-size="11">Lav</text><text x="280" y="370" fill="#374151" font-family="Arial, sans-serif" font-size="11">Medium</text><text x="380" y="370" fill="#16a34a" font-family="Arial, sans-serif" font-size="11">Lav</text><text x="480" y="370" fill="#374151" font-family="Arial, sans-serif" font-size="11">Automated checks</text><text x="60" y="390" fill="#374151" font-family="Arial, sans-serif" font-size="11">Regulatory changes</text><text x="180" y="390" fill="#374151" font-family="Arial, sans-serif" font-size="11">Medium</text><text x="280" y="390" fill="#374151" font-family="Arial, sans-serif" font-size="11">Høy</text><text x="380" y="390" fill="#dc2626" font-family="Arial, sans-serif" font-size="11">Høy</text><text x="480" y="390" fill="#374151" font-family="Arial, sans-serif" font-size="11">Monitoring + flexibility</text><text x="600" y="270" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
     Operasjonelle Kontroller
-  </text>
-  
-  <g filter="url(#shadow)">
-    <rect x="600" y="290" width="350" height="200" fill="white" stroke="#374151" stroke-width="1" rx="8"/>
-    
-    <text x="620" y="310" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e3a8a">
+  </text><g filter="url(#b)"><rect width="350" height="200" x="600" y="290" fill="#fff" stroke="#374151" rx="8"/><text x="620" y="310" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Daglige kontroller:
-    </text>
-    <text x="630" y="330" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="630" y="330" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Automatisert datavalidering og backup
-    </text>
-    <text x="630" y="345" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="630" y="345" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Systemovervåkning og feildeteksjon
-    </text>
-    
-    <text x="620" y="370" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e3a8a">
+    </text><text x="620" y="370" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Ukentlige kontroller:
-    </text>
-    <text x="630" y="390" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="630" y="390" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Beregningsverifikasjon og unntaksrapportering
-    </text>
-    <text x="630" y="405" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="630" y="405" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Nøyaktighetstesting av algoritmer
-    </text>
-    
-    <text x="620" y="430" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e3a8a">
+    </text><text x="620" y="430" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       Månedlige kontroller:
-    </text>
-    <text x="630" y="450" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="630" y="450" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Omfattende avstemming og nøyaktighetstesting
-    </text>
-    <text x="630" y="465" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+    </text><text x="630" y="465" fill="#374151" font-family="Arial, sans-serif" font-size="12">
       • Compliance-review og dokumentasjon
-    </text>
-  </g>
-  
-
-  <text x="50" y="530" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e3a8a">
+    </text></g><text x="50" y="530" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Risikoscore Forklaring:
-  </text>
-  
-  <circle cx="80" cy="550" r="8" fill="#16a34a"/>
-  <text x="95" y="555" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><circle cx="80" cy="550" r="8" fill="#16a34a"/><text x="95" y="555" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Lav risiko - Akseptabel med standardkontroller
-  </text>
-  
-  <circle cx="320" cy="550" r="8" fill="#ca8a04"/>
-  <text x="335" y="555" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><circle cx="320" cy="550" r="8" fill="#ca8a04"/><text x="335" y="555" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Medium risiko - Krever økte kontroller
-  </text>
-  
-  <circle cx="580" cy="550" r="8" fill="#dc2626"/>
-  <text x="595" y="555" font-family="Arial, sans-serif" font-size="12" fill="#374151">
+  </text><circle cx="580" cy="550" r="8" fill="#dc2626"/><text x="595" y="555" fill="#374151" font-family="Arial, sans-serif" font-size="12">
     Høy risiko - Krever umiddelbar oppmerksomhet
-  </text>
-  
-
-  <text x="500" y="590" font-family="Arial, sans-serif" font-size="10" fill="#6b7280" text-anchor="middle">
+  </text><text x="500" y="590" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Implementeringsrisiko krever systematisk tilnærming med robuste kontroller og kontinuerlig overvåkning
-  </text>
-</svg>
+  </text></svg>

@@ -1,188 +1,73 @@
-<svg width="800" height="650" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="preventiveGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ecfdf5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d1fae5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="handlingGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fde68a;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="strategyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#e0e7ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c7d2fe;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="650" fill="#f8fafc"/>
-  
-
-  <rect x="0" y="0" width="800" height="70" fill="url(#headerGrad)"/>
-  <text x="400" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="650"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#10b981;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ecfdf5;stop-opacity:1"/><stop offset="100%" style="stop-color:#d1fae5;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fef3c7;stop-opacity:1"/><stop offset="100%" style="stop-color:#fde68a;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e0e7ff;stop-opacity:1"/><stop offset="100%" style="stop-color:#c7d2fe;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v650H0z"/><path fill="url(#a)" d="M0 0h800v70H0z"/><text x="400" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Beste Praksis for Inkassovirksomhet
-  </text>
-  
-
-  <circle cx="400" cy="120" r="30" fill="#059669" stroke="#047857" stroke-width="3"/>
-  <text x="400" y="130" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">
+  </text><circle cx="400" cy="120" r="30" fill="#059669" stroke="#047857" stroke-width="3"/><text x="400" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     ✓
-  </text>
-  
-
-  <rect x="50" y="180" width="340" height="200" rx="12" fill="url(#preventiveGrad)" stroke="#059669" stroke-width="2"/>
-  
-
-  <rect x="60" y="190" width="320" height="35" rx="8" fill="#059669"/>
-  <text x="220" y="212" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="340" height="200" x="50" y="180" fill="url(#b)" stroke="#059669" stroke-width="2" rx="12"/><rect width="320" height="35" x="60" y="190" fill="#059669" rx="8"/><text x="220" y="212" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Forebyggende Tiltak
-  </text>
-  
-
-  <rect x="70" y="240" width="300" height="125" rx="6" fill="#ffffff" stroke="#059669" stroke-width="1"/>
-  <text x="80" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#047857">
+  </text><rect width="300" height="125" x="70" y="240" fill="#fff" stroke="#059669" rx="6"/><text x="80" y="260" fill="#047857" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Før Inkasso Blir Nødvendig:
-  </text>
-  
-  <text x="80" y="280" font-family="Arial, sans-serif" font-size="11" fill="#065f46">
+  </text><text x="80" y="280" fill="#065f46" font-family="Arial, sans-serif" font-size="11">
     • Tydelige avtaler og betalingsbetingelser
-  </text>
-  <text x="80" y="295" font-family="Arial, sans-serif" font-size="11" fill="#065f46">
+  </text><text x="80" y="295" fill="#065f46" font-family="Arial, sans-serif" font-size="11">
     • Korrekt fakturering med alle nødvendige opplysninger
-  </text>
-  <text x="80" y="310" font-family="Arial, sans-serif" font-size="11" fill="#065f46">
+  </text><text x="80" y="310" fill="#065f46" font-family="Arial, sans-serif" font-size="11">
     • Systematisk oppfølging av forfalte fordringer
-  </text>
-  <text x="80" y="325" font-family="Arial, sans-serif" font-size="11" fill="#065f46">
+  </text><text x="80" y="325" fill="#065f46" font-family="Arial, sans-serif" font-size="11">
     • Vurdering av kunders betalingsevne før kreditt
-  </text>
-  <text x="80" y="340" font-family="Arial, sans-serif" font-size="11" fill="#065f46">
+  </text><text x="80" y="340" fill="#065f46" font-family="Arial, sans-serif" font-size="11">
     • Etablering av gode kundeforhold og kommunikasjon
-  </text>
-  <text x="80" y="355" font-family="Arial, sans-serif" font-size="11" fill="#065f46">
+  </text><text x="80" y="355" fill="#065f46" font-family="Arial, sans-serif" font-size="11">
     • Regelmessig gjennomgang av kundeportefølje
-  </text>
-  
-
-  <rect x="410" y="180" width="340" height="200" rx="12" fill="url(#handlingGrad)" stroke="#d97706" stroke-width="2"/>
-  
-
-  <rect x="420" y="190" width="320" height="35" rx="8" fill="#d97706"/>
-  <text x="580" y="212" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="340" height="200" x="410" y="180" fill="url(#c)" stroke="#d97706" stroke-width="2" rx="12"/><rect width="320" height="35" x="420" y="190" fill="#d97706" rx="8"/><text x="580" y="212" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Inkassohåndtering
-  </text>
-  
-
-  <rect x="430" y="240" width="300" height="125" rx="6" fill="#ffffff" stroke="#d97706" stroke-width="1"/>
-  <text x="440" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">
+  </text><rect width="300" height="125" x="430" y="240" fill="#fff" stroke="#d97706" rx="6"/><text x="440" y="260" fill="#92400e" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Under Inkassoprosessen:
-  </text>
-  
-  <text x="440" y="280" font-family="Arial, sans-serif" font-size="11" fill="#a16207">
+  </text><text x="440" y="280" fill="#a16207" font-family="Arial, sans-serif" font-size="11">
     • Fullstendig dokumentasjon av alle aktiviteter
-  </text>
-  <text x="440" y="295" font-family="Arial, sans-serif" font-size="11" fill="#a16207">
+  </text><text x="440" y="295" fill="#a16207" font-family="Arial, sans-serif" font-size="11">
     • Respektfull og profesjonell kommunikasjon
-  </text>
-  <text x="440" y="310" font-family="Arial, sans-serif" font-size="11" fill="#a16207">
+  </text><text x="440" y="310" fill="#a16207" font-family="Arial, sans-serif" font-size="11">
     • Overholdelse av alle lovpålagte frister
-  </text>
-  <text x="440" y="325" font-family="Arial, sans-serif" font-size="11" fill="#a16207">
+  </text><text x="440" y="325" fill="#a16207" font-family="Arial, sans-serif" font-size="11">
     • Kontinuerlig opplæring av ansatte
-  </text>
-  <text x="440" y="340" font-family="Arial, sans-serif" font-size="11" fill="#a16207">
+  </text><text x="440" y="340" fill="#a16207" font-family="Arial, sans-serif" font-size="11">
     • Regelmessig oppdatering på regelendringer
-  </text>
-  <text x="440" y="355" font-family="Arial, sans-serif" font-size="11" fill="#a16207">
+  </text><text x="440" y="355" fill="#a16207" font-family="Arial, sans-serif" font-size="11">
     • Etablering av klare interne prosedyrer
-  </text>
-  
-
-  <rect x="50" y="400" width="700" height="220" rx="12" fill="url(#strategyGrad)" stroke="#4f46e5" stroke-width="2"/>
-  
-
-  <rect x="60" y="410" width="680" height="35" rx="8" fill="#4f46e5"/>
-  <text x="400" y="432" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">
+  </text><rect width="700" height="220" x="50" y="400" fill="url(#d)" stroke="#4f46e5" stroke-width="2" rx="12"/><rect width="680" height="35" x="60" y="410" fill="#4f46e5" rx="8"/><text x="400" y="432" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Valg av Inkassostrategi
-  </text>
-  
-
-  <rect x="70" y="460" width="320" height="145" rx="6" fill="#ffffff" stroke="#4f46e5" stroke-width="1"/>
-  <text x="230" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#3730a3">
+  </text><rect width="320" height="145" x="70" y="460" fill="#fff" stroke="#4f46e5" rx="6"/><text x="230" y="480" fill="#3730a3" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Egeninkasso Egner Seg Når:
-  </text>
-  
-  <text x="80" y="500" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="80" y="500" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Bedriften har juridisk kompetanse internt
-  </text>
-  <text x="80" y="515" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="80" y="515" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Inkassovolumene er moderate og håndterbare
-  </text>
-  <text x="80" y="530" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="80" y="530" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Det er viktig å bevare kundeforholdet
-  </text>
-  <text x="80" y="545" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="80" y="545" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Bedriften ønsker full kontroll over prosessen
-  </text>
-  <text x="80" y="560" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="80" y="560" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Kostnadskontroll er kritisk for virksomheten
-  </text>
-  <text x="80" y="575" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="80" y="575" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Bedriften har ressurser til oppfølging
-  </text>
-  <text x="80" y="590" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="80" y="590" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Enkle og standardiserte fordringer
-  </text>
-  
-  <rect x="410" y="460" width="320" height="145" rx="6" fill="#ffffff" stroke="#4f46e5" stroke-width="1"/>
-  <text x="570" y="480" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#3730a3">
+  </text><rect width="320" height="145" x="410" y="460" fill="#fff" stroke="#4f46e5" rx="6"/><text x="570" y="480" fill="#3730a3" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Profesjonell Inkasso Egner Seg Når:
-  </text>
-  
-  <text x="420" y="500" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="420" y="500" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Store inkassovolumer som krever spesialisering
-  </text>
-  <text x="420" y="515" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="420" y="515" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Mangel på intern juridisk kompetanse
-  </text>
-  <text x="420" y="530" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="420" y="530" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Behov for høy suksessrate og effektivitet
-  </text>
-  <text x="420" y="545" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="420" y="545" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Ønske om å skjerme kundeforholdet
-  </text>
-  <text x="420" y="560" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="420" y="560" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Komplekse eller tvistige fordringer
-  </text>
-  <text x="420" y="575" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="420" y="575" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Begrensede interne ressurser
-  </text>
-  <text x="420" y="590" font-family="Arial, sans-serif" font-size="11" fill="#4338ca">
+  </text><text x="420" y="590" fill="#4338ca" font-family="Arial, sans-serif" font-size="11">
     • Behov for profesjonell ekspertise
-  </text>
-  
-
-  <rect x="100" y="630" width="600" height="15" rx="4" fill="#dcfce7"/>
-  <text x="400" y="642" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#15803d">
+  </text><rect width="600" height="15" x="100" y="630" fill="#dcfce7" rx="4"/><text x="400" y="642" fill="#15803d" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Suksessfaktorer: Kunnskap • Systematikk • Respekt • Dokumentasjon • Kontinuerlig forbedring
-  </text>
-  
-
-  <line x1="370" y1="140" x2="220" y2="180" stroke="#059669" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="430" y1="140" x2="580" y2="180" stroke="#d97706" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="400" y1="150" x2="400" y2="400" stroke="#4f46e5" stroke-width="2" stroke-dasharray="3,3"/>
-  
-
-  <circle cx="100" cy="210" r="10" fill="#059669"/>
-  <text x="100" y="216" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">P</text>
-  
-  <circle cx="700" cy="210" r="10" fill="#d97706"/>
-  <text x="700" y="216" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">H</text>
-  
-  <circle cx="100" cy="430" r="10" fill="#4f46e5"/>
-  <text x="100" y="436" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">S</text>
-</svg>
+  </text><path stroke="#059669" stroke-dasharray="5,5" stroke-width="2" d="m370 140-150 40"/><path stroke="#d97706" stroke-dasharray="5,5" stroke-width="2" d="m430 140 150 40"/><path stroke="#4f46e5" stroke-dasharray="3,3" stroke-width="2" d="M400 150v250"/><circle cx="100" cy="210" r="10" fill="#059669"/><text x="100" y="216" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">P</text><circle cx="700" cy="210" r="10" fill="#d97706"/><text x="700" y="216" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">H</text><circle cx="100" cy="430" r="10" fill="#4f46e5"/><text x="100" y="436" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">S</text></svg>

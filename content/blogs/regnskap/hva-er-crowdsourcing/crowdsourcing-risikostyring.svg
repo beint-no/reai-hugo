@@ -1,136 +1,17 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="financialGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#dc3545;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c82333;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="operationalGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e55a00;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="regulatoryGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#5a32a3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="reputationGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#20c997;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#17a085;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#dc3545;stop-opacity:1"/><stop offset="100%" style="stop-color:#c82333;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1"/><stop offset="100%" style="stop-color:#e55a00;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#6f42c1;stop-opacity:1"/><stop offset="100%" style="stop-color:#5a32a3;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#20c997;stop-opacity:1"/><stop offset="100%" style="stop-color:#17a085;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Risikostyring i Crowdsourcing
-  </text>
-  
-
-  <circle cx="400" cy="150" r="60" fill="#ffc107" stroke="#e0a800" stroke-width="3"/>
-  <text x="400" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="150" r="60" fill="#ffc107" stroke="#e0a800" stroke-width="3"/><text x="400" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     RISIKO-
-  </text>
-  <text x="400" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="400" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     STYRING
-  </text>
-  
-
-  <rect x="50" y="250" width="320" height="140" rx="15" fill="url(#financialGradient)" stroke="#c82333" stroke-width="2"/>
-  <text x="210" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><rect width="320" height="140" x="50" y="250" fill="url(#b)" stroke="#c82333" stroke-width="2" rx="15"/><text x="210" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Finansiell Risiko
-  </text>
-  
-  <text x="70" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Risikoer:</text>
-  <text x="70" y="325" font-family="Arial, sans-serif" font-size="11" fill="white">• Ikke oppnåelse av finansieringsmål</text>
-  <text x="70" y="340" font-family="Arial, sans-serif" font-size="11" fill="white">• Høyere kostnader enn forventet</text>
-  <text x="70" y="355" font-family="Arial, sans-serif" font-size="11" fill="white">• Valutarisiko ved internasjonale kampanjer</text>
-  
-  <text x="210" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Tiltak:</text>
-  <text x="210" y="325" font-family="Arial, sans-serif" font-size="11" fill="white">• Realistisk målsetting</text>
-  <text x="210" y="340" font-family="Arial, sans-serif" font-size="11" fill="white">• Kontingensreserver</text>
-  <text x="210" y="355" font-family="Arial, sans-serif" font-size="11" fill="white">• Diversifiserte kilder</text>
-  <text x="210" y="370" font-family="Arial, sans-serif" font-size="11" fill="white">• Valutasikring</text>
-  
-
-  <rect x="430" y="250" width="320" height="140" rx="15" fill="url(#operationalGradient)" stroke="#e55a00" stroke-width="2"/>
-  <text x="590" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="70" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Risikoer:</text><text x="70" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Ikke oppnåelse av finansieringsmål</text><text x="70" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Høyere kostnader enn forventet</text><text x="70" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Valutarisiko ved internasjonale kampanjer</text><text x="210" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Tiltak:</text><text x="210" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Realistisk målsetting</text><text x="210" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Kontingensreserver</text><text x="210" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Diversifiserte kilder</text><text x="210" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Valutasikring</text><rect width="320" height="140" x="430" y="250" fill="url(#c)" stroke="#e55a00" stroke-width="2" rx="15"/><text x="590" y="280" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Operasjonell Risiko
-  </text>
-  
-  <text x="450" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Risikoer:</text>
-  <text x="450" y="325" font-family="Arial, sans-serif" font-size="11" fill="white">• Leveringsproblemer</text>
-  <text x="450" y="340" font-family="Arial, sans-serif" font-size="11" fill="white">• Kvalitetsavvik</text>
-  <text x="450" y="355" font-family="Arial, sans-serif" font-size="11" fill="white">• Tekniske utfordringer</text>
-  
-  <text x="590" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Tiltak:</text>
-  <text x="590" y="325" font-family="Arial, sans-serif" font-size="11" fill="white">• Grundig planlegging</text>
-  <text x="590" y="340" font-family="Arial, sans-serif" font-size="11" fill="white">• Kvalitetskontroll</text>
-  <text x="590" y="355" font-family="Arial, sans-serif" font-size="11" fill="white">• Backup-løsninger</text>
-  <text x="590" y="370" font-family="Arial, sans-serif" font-size="11" fill="white">• Løpende oppfølging</text>
-  
-
-  <rect x="50" y="420" width="320" height="140" rx="15" fill="url(#regulatoryGradient)" stroke="#5a32a3" stroke-width="2"/>
-  <text x="210" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="450" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Risikoer:</text><text x="450" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Leveringsproblemer</text><text x="450" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Kvalitetsavvik</text><text x="450" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Tekniske utfordringer</text><text x="590" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Tiltak:</text><text x="590" y="325" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Grundig planlegging</text><text x="590" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Kvalitetskontroll</text><text x="590" y="355" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Backup-løsninger</text><text x="590" y="370" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Løpende oppfølging</text><rect width="320" height="140" x="50" y="420" fill="url(#d)" stroke="#5a32a3" stroke-width="2" rx="15"/><text x="210" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Regulatorisk Risiko
-  </text>
-  
-  <text x="70" y="475" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Risikoer:</text>
-  <text x="70" y="495" font-family="Arial, sans-serif" font-size="11" fill="white">• Endringer i lovgivning</text>
-  <text x="70" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">• Skattemessige konsekvenser</text>
-  <text x="70" y="525" font-family="Arial, sans-serif" font-size="11" fill="white">• Compliance-brudd</text>
-  
-  <text x="210" y="475" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Tiltak:</text>
-  <text x="210" y="495" font-family="Arial, sans-serif" font-size="11" fill="white">• Juridisk rådgivning</text>
-  <text x="210" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">• Løpende overvåking</text>
-  <text x="210" y="525" font-family="Arial, sans-serif" font-size="11" fill="white">• Dokumentasjon</text>
-  <text x="210" y="540" font-family="Arial, sans-serif" font-size="11" fill="white">• Compliance-program</text>
-  
-
-  <rect x="430" y="420" width="320" height="140" rx="15" fill="url(#reputationGradient)" stroke="#17a085" stroke-width="2"/>
-  <text x="590" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  </text><text x="70" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Risikoer:</text><text x="70" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Endringer i lovgivning</text><text x="70" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Skattemessige konsekvenser</text><text x="70" y="525" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Compliance-brudd</text><text x="210" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Tiltak:</text><text x="210" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Juridisk rådgivning</text><text x="210" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Løpende overvåking</text><text x="210" y="525" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Dokumentasjon</text><text x="210" y="540" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Compliance-program</text><rect width="320" height="140" x="430" y="420" fill="url(#e)" stroke="#17a085" stroke-width="2" rx="15"/><text x="590" y="450" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Omdømmerisiko
-  </text>
-  
-  <text x="450" y="475" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Risikoer:</text>
-  <text x="450" y="495" font-family="Arial, sans-serif" font-size="11" fill="white">• Negative opplevelser</text>
-  <text x="450" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">• Sosiale medier-kritikk</text>
-  <text x="450" y="525" font-family="Arial, sans-serif" font-size="11" fill="white">• Mislykkede kampanjer</text>
-  
-  <text x="590" y="475" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">Tiltak:</text>
-  <text x="590" y="495" font-family="Arial, sans-serif" font-size="11" fill="white">• Transparent kommunikasjon</text>
-  <text x="590" y="510" font-family="Arial, sans-serif" font-size="11" fill="white">• Proaktiv kundeservice</text>
-  <text x="590" y="525" font-family="Arial, sans-serif" font-size="11" fill="white">• Krisehåndtering</text>
-  <text x="590" y="540" font-family="Arial, sans-serif" font-size="11" fill="white">• Omdømmemonitorering</text>
-  
-
-  <path d="M 360 120 L 210 250" stroke="#6c757d" stroke-width="2" fill="none"/>
-  <path d="M 440 120 L 590 250" stroke="#6c757d" stroke-width="2" fill="none"/>
-  <path d="M 360 180 L 210 420" stroke="#6c757d" stroke-width="2" fill="none"/>
-  <path d="M 440 180 L 590 420" stroke="#6c757d" stroke-width="2" fill="none"/>
-  
-
-  <circle cx="100" cy="270" r="8" fill="#dc3545"/>
-  <text x="115" y="275" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">HØY</text>
-  
-  <circle cx="480" cy="270" r="8" fill="#fd7e14"/>
-  <text x="495" y="275" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">MEDIUM</text>
-  
-  <circle cx="100" cy="440" r="8" fill="#6f42c1"/>
-  <text x="115" y="445" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">MEDIUM</text>
-  
-  <circle cx="480" cy="440" r="8" fill="#20c997"/>
-  <text x="495" y="445" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">VARIABEL</text>
-  
-
-  <rect x="50" y="580" width="700" height="15" fill="none"/>
-  
-
-  <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#495057">
+  </text><text x="450" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Risikoer:</text><text x="450" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Negative opplevelser</text><text x="450" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Sosiale medier-kritikk</text><text x="450" y="525" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Mislykkede kampanjer</text><text x="590" y="475" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Tiltak:</text><text x="590" y="495" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Transparent kommunikasjon</text><text x="590" y="510" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Proaktiv kundeservice</text><text x="590" y="525" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Krisehåndtering</text><text x="590" y="540" fill="#fff" font-family="Arial, sans-serif" font-size="11">• Omdømmemonitorering</text><path fill="none" stroke="#6c757d" stroke-width="2" d="M360 120 210 250M440 120l150 130M360 180 210 420M440 180l150 240"/><circle cx="100" cy="270" r="8" fill="#dc3545"/><text x="115" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">HØY</text><circle cx="480" cy="270" r="8" fill="#fd7e14"/><text x="495" y="275" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">MEDIUM</text><circle cx="100" cy="440" r="8" fill="#6f42c1"/><text x="115" y="445" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">MEDIUM</text><circle cx="480" cy="440" r="8" fill="#20c997"/><text x="495" y="445" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">VARIABEL</text><path fill="none" d="M50 580h700v15H50z"/><text x="400" y="585" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Nøkkelfaktorer for vellykket risikostyring: Grundig planlegging • Kontinuerlig overvåking • Fleksible tiltak • Transparent kommunikasjon
-  </text>
-</svg>
+  </text></svg>

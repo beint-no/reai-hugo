@@ -1,187 +1,73 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="legalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f1f5f9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="scaleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1"/><stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff;stop-opacity:1"/><stop offset="100%" style="stop-color:#f1f5f9;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#1e293b" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Juridiske Aspekter ved Utkontraktering
-  </text>
-  
-
-  <g transform="translate(350, 70)">
-
-    <rect x="45" y="60" width="10" height="40" fill="#92400e"/>
-
-    <rect x="20" y="55" width="60" height="4" fill="#92400e"/>
-
-    <circle cx="30" cy="65" r="15" fill="none" stroke="#92400e" stroke-width="2"/>
-    <line x1="15" y1="65" x2="45" y2="65" stroke="#92400e" stroke-width="2"/>
-
-    <circle cx="70" cy="65" r="15" fill="none" stroke="#92400e" stroke-width="2"/>
-    <line x1="55" y1="65" x2="85" y2="65" stroke="#92400e" stroke-width="2"/>
-
-    <line x1="30" y1="59" x2="30" y2="65" stroke="#92400e" stroke-width="1"/>
-    <line x1="70" y1="59" x2="70" y2="65" stroke="#92400e" stroke-width="1"/>
-  </g>
-  
-
-  <g transform="translate(50, 150)">
-    <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#legalGradient)" stroke="#3b82f6" stroke-width="2"/>
-    <circle cx="25" cy="25" r="15" fill="#3b82f6"/>
-    <text x="18" y="30" font-family="Arial, sans-serif" font-size="14" fill="white" font-weight="bold">📋</text>
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
+  </text><g transform="translate(350 70)"><path fill="#92400e" d="M45 60h10v40H45zM20 55h60v4H20z"/><circle cx="30" cy="65" r="15" fill="none" stroke="#92400e" stroke-width="2"/><path stroke="#92400e" stroke-width="2" d="M15 65h30"/><circle cx="70" cy="65" r="15" fill="none" stroke="#92400e" stroke-width="2"/><path stroke="#92400e" stroke-width="2" d="M55 65h30"/><path stroke="#92400e" d="M30 59v6M70 59v6"/></g><g transform="translate(50 150)"><rect width="340" height="180" fill="url(#b)" stroke="#3b82f6" stroke-width="2" rx="10"/><circle cx="25" cy="25" r="15" fill="#3b82f6"/><text x="18" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">📋</text><text x="50" y="25" fill="#1e40af" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Kontraktsrett
-    </text>
-    
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e40af">
+    </text><text x="15" y="55" fill="#1e40af" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Avtalefrihet:
-    </text>
-    <text x="15" y="75" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Partene kan i utgangspunktet avtale fritt
-    </text>
-    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Begrensninger i avtaleloven og andre lover
-    </text>
-    <text x="15" y="105" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Urimelige avtalevilkår kan settes til side
-    </text>
-    
-    <text x="15" y="130" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e40af">
+    </text><text x="15" y="130" fill="#1e40af" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Kontraktsbrudd:
-    </text>
-    <text x="15" y="150" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Mislighold når leverandør ikke oppfyller
-    </text>
-    <text x="15" y="165" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="165" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Erstatning for tap som følge av brudd
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 150)">
-    <rect x="0" y="0" width="340" height="180" rx="10" fill="url(#legalGradient)" stroke="#10b981" stroke-width="2"/>
-    <circle cx="25" cy="25" r="15" fill="#10b981"/>
-    <text x="18" y="30" font-family="Arial, sans-serif" font-size="14" fill="white" font-weight="bold">👥</text>
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#065f46">
+    </text></g><g transform="translate(410 150)"><rect width="340" height="180" fill="url(#b)" stroke="#10b981" stroke-width="2" rx="10"/><circle cx="25" cy="25" r="15" fill="#10b981"/><text x="18" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">👥</text><text x="50" y="25" fill="#065f46" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Arbeidsrett
-    </text>
-    
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#065f46">
+    </text><text x="15" y="55" fill="#065f46" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Virksomhetsoverdragelse:
-    </text>
-    <text x="15" y="75" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Arbeidsmiljøloven kap. 16 gjelder
-    </text>
-    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Rettigheter følger med til ny arbeidsgiver
-    </text>
-    <text x="15" y="105" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Informasjons- og drøftingsplikt
-    </text>
-    
-    <text x="15" y="130" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#065f46">
+    </text><text x="15" y="130" fill="#065f46" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Innleie vs. Utkontraktering:
-    </text>
-    <text x="15" y="150" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="150" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Instruksjonsrett - hvem styrer arbeidet?
-    </text>
-    <text x="15" y="165" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="165" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Økonomisk risiko - hvem bærer risikoen?
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 350)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#legalGradient)" stroke="#8b5cf6" stroke-width="2"/>
-    <circle cx="25" cy="25" r="15" fill="#8b5cf6"/>
-    <text x="18" y="30" font-family="Arial, sans-serif" font-size="14" fill="white" font-weight="bold">🔐</text>
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#581c87">
+    </text></g><g transform="translate(50 350)"><rect width="340" height="200" fill="url(#b)" stroke="#8b5cf6" stroke-width="2" rx="10"/><circle cx="25" cy="25" r="15" fill="#8b5cf6"/><text x="18" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">🔐</text><text x="50" y="25" fill="#581c87" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Personvern (GDPR)
-    </text>
-    
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#581c87">
+    </text><text x="15" y="55" fill="#581c87" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Databehandleravtale:
-    </text>
-    <text x="15" y="75" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Behandlingsansvarlig vs. databehandler
-    </text>
-    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Skriftlig avtale som regulerer behandlingen
-    </text>
-    <text x="15" y="105" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="105" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Instrukser for hvordan data skal behandles
-    </text>
-    <text x="15" y="120" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="120" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Sikkerhetstiltak for å beskytte data
-    </text>
-    
-    <text x="15" y="145" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#581c87">
+    </text><text x="15" y="145" fill="#581c87" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
       Overføring til Tredjeland:
-    </text>
-    <text x="15" y="165" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="165" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Adequacy decisions - tilstrekkelig beskyttelse
-    </text>
-    <text x="15" y="180" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Standard contractual clauses (SCC)
-    </text>
-    <text x="15" y="195" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="195" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Risikovurdering av overføring
-    </text>
-  </g>
-  
-
-  <g transform="translate(410, 350)">
-    <rect x="0" y="0" width="340" height="200" rx="10" fill="url(#legalGradient)" stroke="#f59e0b" stroke-width="2"/>
-    <circle cx="25" cy="25" r="15" fill="#f59e0b"/>
-    <text x="18" y="30" font-family="Arial, sans-serif" font-size="14" fill="white" font-weight="bold">📝</text>
-    <text x="50" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#92400e">
+    </text></g><g transform="translate(410 350)"><rect width="340" height="200" fill="url(#b)" stroke="#f59e0b" stroke-width="2" rx="10"/><circle cx="25" cy="25" r="15" fill="#f59e0b"/><text x="18" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">📝</text><text x="50" y="25" fill="#92400e" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Viktige Kontraktselementer
-    </text>
-    
-    <text x="15" y="55" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="55" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Tjenestebeskrivelse - detaljert oppgavebeskrivelse
-    </text>
-    <text x="15" y="75" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="75" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Servicenivå (SLA - Service Level Agreement)
-    </text>
-    <text x="15" y="95" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="95" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Prising og betalingsbetingelser
-    </text>
-    <text x="15" y="115" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="115" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Konfidensialitetsklausuler
-    </text>
-    <text x="15" y="135" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="135" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Ansvar og erstatning
-    </text>
-    <text x="15" y="155" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="155" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Oppsigelsesbestemmelser
-    </text>
-    <text x="15" y="175" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="175" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Jurisdiksjon og lovvalg
-    </text>
-    <text x="15" y="195" font-family="Arial, sans-serif" font-size="11" fill="#374151">
+    </text><text x="15" y="195" fill="#374151" font-family="Arial, sans-serif" font-size="11">
       • Immaterielle rettigheter og underleverandører
-    </text>
-  </g>
-  
-
-  <line x1="380" y1="140" x2="220" y2="145" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="420" y1="140" x2="580" y2="145" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="380" y1="140" x2="220" y2="345" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="420" y1="140" x2="580" y2="345" stroke="#64748b" stroke-width="1" stroke-dasharray="3,3"/>
-</svg>
+    </text></g><path stroke="#64748b" stroke-dasharray="3,3" d="m380 140-160 5M420 140l160 5M380 140 220 345M420 140l160 205"/></svg>

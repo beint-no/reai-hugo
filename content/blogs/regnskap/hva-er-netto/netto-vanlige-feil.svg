@@ -1,352 +1,177 @@
-<svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="errorGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f44336;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c62828;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="correctGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4caf50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="700" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="url(#headerGradient)"/>
-  <text x="400" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="22" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="700"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#2e7d32;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v700H0z"/><path fill="url(#b)" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Vanlige Feil ved Bruk av Nettobegreper
-  </text>
-  
-
-  <rect x="30" y="80" width="740" height="580" fill="white" stroke="#dee2e6" stroke-width="1" rx="10"/>
-  
-
-  <rect x="50" y="100" width="150" height="30" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
-  <text x="125" y="120" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><rect width="740" height="580" x="30" y="80" fill="#fff" stroke="#dee2e6" rx="10"/><path fill="#ffebee" stroke="#f44336" d="M50 100h150v30H50z"/><text x="125" y="120" fill="#f44336" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     VANLIGE FEIL
-  </text>
-  
-  <rect x="220" y="100" width="150" height="30" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-  <text x="295" y="120" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path fill="#e8f5e8" stroke="#4caf50" d="M220 100h150v30H220z"/><text x="295" y="120" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     RIKTIG PRAKSIS
-  </text>
-  
-  <rect x="390" y="100" width="150" height="30" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <text x="465" y="120" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M390 100h150v30H390z"/><text x="465" y="120" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     KONSEKVENSER
-  </text>
-  
-  <rect x="560" y="100" width="150" height="30" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
-  <text x="635" y="120" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
+  </text><path fill="#fff3e0" stroke="#ff9800" d="M560 100h150v30H560z"/><text x="635" y="120" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     LØSNING
-  </text>
-  
-
-  <rect x="50" y="140" width="150" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
-  <text x="125" y="160" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#ffebee" stroke="#f44336" d="M50 140h150v80H50z"/><text x="125" y="160" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Forveksling av
-  </text>
-  <text x="125" y="175" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="125" y="175" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     brutto og netto
-  </text>
-  <text x="125" y="195" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="125" y="195" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Rapporterer brutto
-  </text>
-  <text x="125" y="210" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="125" y="210" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     som netto
-  </text>
-  
-  <rect x="220" y="140" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-  <text x="295" y="160" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e8f5e8" stroke="#4caf50" d="M220 140h150v80H220z"/><text x="295" y="160" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Konsistent
-  </text>
-  <text x="295" y="175" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="295" y="175" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     terminologi
-  </text>
-  <text x="295" y="195" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="295" y="195" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Klar definisjon av
-  </text>
-  <text x="295" y="210" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="295" y="210" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     alle begreper
-  </text>
-  
-  <rect x="390" y="140" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <text x="465" y="160" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M390 140h150v80H390z"/><text x="465" y="160" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Feil beslutninger
-  </text>
-  <text x="465" y="180" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="180" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Misvisende
-  </text>
-  <text x="465" y="195" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="195" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     økonomiske
-  </text>
-  <text x="465" y="210" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="210" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     analyser
-  </text>
-  
-  <rect x="560" y="140" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
-  <text x="635" y="160" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#fff3e0" stroke="#ff9800" d="M560 140h150v80H560z"/><text x="635" y="160" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Standardiserte
-  </text>
-  <text x="635" y="175" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="635" y="175" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     definisjoner
-  </text>
-  <text x="635" y="195" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="195" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Bruk samme
-  </text>
-  <text x="635" y="210" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="210" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     definisjoner
-  </text>
-  
-
-  <rect x="50" y="230" width="150" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
-  <text x="125" y="250" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#ffebee" stroke="#f44336" d="M50 230h150v80H50z"/><text x="125" y="250" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Manglende
-  </text>
-  <text x="125" y="265" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="125" y="265" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     fradrag
-  </text>
-  <text x="125" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="125" y="285" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Glemmer relevante
-  </text>
-  <text x="125" y="300" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="125" y="300" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     kostnader
-  </text>
-  
-  <rect x="220" y="230" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-  <text x="295" y="250" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e8f5e8" stroke="#4caf50" d="M220 230h150v80H220z"/><text x="295" y="250" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Komplett
-  </text>
-  <text x="295" y="265" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="295" y="265" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     sjekkliste
-  </text>
-  <text x="295" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="295" y="285" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Alle fradrag
-  </text>
-  <text x="295" y="300" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="295" y="300" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     dokumentert
-  </text>
-  
-  <rect x="390" y="230" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <text x="465" y="250" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M390 230h150v80H390z"/><text x="465" y="250" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     For høye
-  </text>
-  <text x="465" y="265" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="465" y="265" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     nettotall
-  </text>
-  <text x="465" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="285" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Overvurdert
-  </text>
-  <text x="465" y="300" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="300" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     lønnsomhet
-  </text>
-  
-  <rect x="560" y="230" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
-  <text x="635" y="250" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#fff3e0" stroke="#ff9800" d="M560 230h150v80H560z"/><text x="635" y="250" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Systematisk
-  </text>
-  <text x="635" y="265" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="635" y="265" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     gjennomgang
-  </text>
-  <text x="635" y="285" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="285" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Dobbeltsjekk
-  </text>
-  <text x="635" y="300" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="300" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     alle poster
-  </text>
-  
-
-  <rect x="50" y="320" width="150" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
-  <text x="125" y="340" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#ffebee" stroke="#f44336" d="M50 320h150v80H50z"/><text x="125" y="340" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Feil MVA-
-  </text>
-  <text x="125" y="355" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="125" y="355" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     behandling
-  </text>
-  <text x="125" y="375" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="125" y="375" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Inkluderer MVA
-  </text>
-  <text x="125" y="390" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="125" y="390" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     i nettotall
-  </text>
-  
-  <rect x="220" y="320" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-  <text x="295" y="340" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e8f5e8" stroke="#4caf50" d="M220 320h150v80H220z"/><text x="295" y="340" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Korrekt MVA-
-  </text>
-  <text x="295" y="355" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="295" y="355" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     håndtering
-  </text>
-  <text x="295" y="375" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="295" y="375" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     MVA behandles
-  </text>
-  <text x="295" y="390" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="295" y="390" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     separat
-  </text>
-  
-  <rect x="390" y="320" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <text x="465" y="340" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M390 320h150v80H390z"/><text x="465" y="340" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Feil omsetning
-  </text>
-  <text x="465" y="360" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="360" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Misvisende
-  </text>
-  <text x="465" y="375" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="375" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     salgstall
-  </text>
-  <text x="465" y="390" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="390" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     og marginer
-  </text>
-  
-  <rect x="560" y="320" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
-  <text x="635" y="340" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#fff3e0" stroke="#ff9800" d="M560 320h150v80H560z"/><text x="635" y="340" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     MVA-kunnskap
-  </text>
-  <text x="635" y="360" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="360" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Forstå MVA-
-  </text>
-  <text x="635" y="375" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="375" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     reglene
-  </text>
-  <text x="635" y="390" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="390" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     grundig
-  </text>
-  
-
-  <rect x="50" y="410" width="150" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
-  <text x="125" y="430" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#ffebee" stroke="#f44336" d="M50 410h150v80H50z"/><text x="125" y="430" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Inkorrekt
-  </text>
-  <text x="125" y="445" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="125" y="445" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     skatteberegning
-  </text>
-  <text x="125" y="465" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="125" y="465" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Feil skattetrekk
-  </text>
-  <text x="125" y="480" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="125" y="480" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     i lønnsberegning
-  </text>
-  
-  <rect x="220" y="410" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-  <text x="295" y="430" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e8f5e8" stroke="#4caf50" d="M220 410h150v80H220z"/><text x="295" y="430" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Oppdaterte
-  </text>
-  <text x="295" y="445" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="295" y="445" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     skattetabeller
-  </text>
-  <text x="295" y="465" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="295" y="465" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Bruk gjeldende
-  </text>
-  <text x="295" y="480" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="295" y="480" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     satser
-  </text>
-  
-  <rect x="390" y="410" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <text x="465" y="430" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M390 410h150v80H390z"/><text x="465" y="430" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Feil nettolønn
-  </text>
-  <text x="465" y="450" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="450" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Problemer med
-  </text>
-  <text x="465" y="465" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="465" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     lønnsutbetaling
-  </text>
-  <text x="465" y="480" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="480" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     og rapportering
-  </text>
-  
-  <rect x="560" y="410" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
-  <text x="635" y="430" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#fff3e0" stroke="#ff9800" d="M560 410h150v80H560z"/><text x="635" y="430" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Automatiserte
-  </text>
-  <text x="635" y="445" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="635" y="445" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     systemer
-  </text>
-  <text x="635" y="465" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="465" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Bruk lønnssystem
-  </text>
-  <text x="635" y="480" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="480" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     med oppdateringer
-  </text>
-  
-
-  <rect x="50" y="500" width="150" height="80" fill="#ffebee" stroke="#f44336" stroke-width="1"/>
-  <text x="125" y="520" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#ffebee" stroke="#f44336" d="M50 500h150v80H50z"/><text x="125" y="520" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Manglende
-  </text>
-  <text x="125" y="535" text-anchor="middle" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="125" y="535" fill="#f44336" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     periodisering
-  </text>
-  <text x="125" y="555" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="125" y="555" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Feil tidsperiode
-  </text>
-  <text x="125" y="570" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="125" y="570" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     for kostnader
-  </text>
-  
-  <rect x="220" y="500" width="150" height="80" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-  <text x="295" y="520" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e8f5e8" stroke="#4caf50" d="M220 500h150v80H220z"/><text x="295" y="520" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Korrekt
-  </text>
-  <text x="295" y="535" text-anchor="middle" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="295" y="535" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     periodisering
-  </text>
-  <text x="295" y="555" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="295" y="555" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Kostnader i rett
-  </text>
-  <text x="295" y="570" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="295" y="570" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     periode
-  </text>
-  
-  <rect x="390" y="500" width="150" height="80" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-  <text x="465" y="520" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#e3f2fd" stroke="#1976d2" d="M390 500h150v80H390z"/><text x="465" y="520" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Feil
-  </text>
-  <text x="465" y="535" text-anchor="middle" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="465" y="535" fill="#1976d2" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     periodetall
-  </text>
-  <text x="465" y="555" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="555" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Misvisende
-  </text>
-  <text x="465" y="570" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="465" y="570" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     resultater
-  </text>
-  
-  <rect x="560" y="500" width="150" height="80" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
-  <text x="635" y="520" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><path fill="#fff3e0" stroke="#ff9800" d="M560 500h150v80H560z"/><text x="635" y="520" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Regnskaps-
-  </text>
-  <text x="635" y="535" text-anchor="middle" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
+  </text><text x="635" y="535" fill="#ff9800" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     prinsipper
-  </text>
-  <text x="635" y="555" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="555" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Følg god
-  </text>
-  <text x="635" y="570" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="9">
+  </text><text x="635" y="570" fill="#666" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     regnskapsskikk
-  </text>
-  
-
-  <rect x="50" y="600" width="660" height="50" fill="url(#correctGradient)" rx="10"/>
-  <text x="380" y="620" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+  </text><rect width="660" height="50" x="50" y="600" fill="url(#c)" rx="10"/><text x="380" y="620" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Beste Praksis for Nettobegreper
-  </text>
-  <text x="380" y="640" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="380" y="640" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Konsistens • Dokumentasjon • Oppdatert kunnskap • Systematisk kontroll
-  </text>
-  
-
-  <text x="400" y="680" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="11">
+  </text><text x="400" y="680" fill="#666" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
     Unngå vanlige feil ved å følge etablerte prosedyrer og holde seg oppdatert på regelverket
-  </text>
-</svg>
+  </text></svg>

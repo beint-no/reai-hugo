@@ -1,211 +1,89 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#28a745;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e55a00;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#28a745;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e7e34;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#06c;stop-opacity:1"/><stop offset="100%" style="stop-color:#049;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fd7e14;stop-opacity:1"/><stop offset="100%" style="stop-color:#e55a00;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">
     Kontantstrømoppstilling og Likviditetsstyring
-  </text>
-  
-
-  <g transform="translate(50, 80)">
-    <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#greenGradient)" stroke="#1e7e34" stroke-width="2"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 80)"><rect width="220" height="150" fill="url(#b)" stroke="#1e7e34" stroke-width="2" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Driftsmessige
-    </text>
-    <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><text x="110" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Kontantstrømmer
-    </text>
-    <text x="110" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="110" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Positive strømmer:
-    </text>
-    <text x="110" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="110" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Innbetalinger fra kunder
-    </text>
-    <text x="110" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="110" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Renteinntekter
-    </text>
-    <text x="110" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="110" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Negative strømmer:
-    </text>
-    <text x="110" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="110" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Betalinger til leverandører
-    </text>
-  </g>
-  
-
-  <g transform="translate(290, 80)">
-    <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#blueGradient)" stroke="#004499" stroke-width="2"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(290 80)"><rect width="220" height="150" fill="url(#c)" stroke="#049" stroke-width="2" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Investeringsmessige
-    </text>
-    <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><text x="110" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Kontantstrømmer
-    </text>
-    <text x="110" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="110" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Positive strømmer:
-    </text>
-    <text x="110" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="110" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Salg av anleggsmidler
-    </text>
-    <text x="110" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="110" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Utbytte fra investeringer
-    </text>
-    <text x="110" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="110" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Negative strømmer:
-    </text>
-    <text x="110" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="110" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Kjøp av maskiner/utstyr
-    </text>
-  </g>
-  
-
-  <g transform="translate(530, 80)">
-    <rect x="0" y="0" width="220" height="150" rx="10" fill="url(#orangeGradient)" stroke="#e55a00" stroke-width="2"/>
-    <text x="110" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(530 80)"><rect width="220" height="150" fill="url(#d)" stroke="#e55a00" stroke-width="2" rx="10"/><text x="110" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Finansieringsmessige
-    </text>
-    <text x="110" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text><text x="110" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Kontantstrømmer
-    </text>
-    <text x="110" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="110" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Positive strømmer:
-    </text>
-    <text x="110" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="110" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Lånopptak
-    </text>
-    <text x="110" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="110" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Egenkapitaltilførsel
-    </text>
-    <text x="110" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="110" y="120" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Negative strømmer:
-    </text>
-    <text x="110" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="110" y="135" fill="#fff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
       • Tilbakebetaling av lån
-    </text>
-  </g>
-  
-
-  <g transform="translate(300, 260)">
-    <rect x="0" y="0" width="200" height="80" rx="10" fill="#6c757d" stroke="#495057" stroke-width="2"/>
-    <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(300 260)"><rect width="200" height="80" fill="#6c757d" stroke="#495057" stroke-width="2" rx="10"/><text x="100" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Netto Kontantstrøm
-    </text>
-    <text x="100" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="100" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Sum av alle kontantstrømmer
-    </text>
-    <text x="100" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="100" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Endring i kontantbeholdning
-    </text>
-  </g>
-  
-
-  <g stroke="#2c3e50" stroke-width="2" fill="none">
-    <path d="M 160 230 L 350 260" marker-end="url(#arrowhead)"/>
-    <path d="M 400 230 L 400 260" marker-end="url(#arrowhead)"/>
-    <path d="M 640 230 L 450 260" marker-end="url(#arrowhead)"/>
-  </g>
-  
-
-  <g transform="translate(50, 370)">
-    <rect x="0" y="0" width="700" height="200" rx="15" fill="#f8f9fa" stroke="#6c757d" stroke-width="2"/>
-    <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+    </text></g><g fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#e)"><path d="m160 230 190 30"/><path d="M400 230v30"/><path d="m640 230-190 30"/></g><g transform="translate(50 370)"><rect width="700" height="200" fill="#f8f9fa" stroke="#6c757d" stroke-width="2" rx="15"/><text x="350" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
       Integrasjon med Likviditetsstyring
-    </text>
-    
-
-    <g transform="translate(30, 50)">
-      <rect x="0" y="0" width="200" height="120" rx="8" fill="#e3f2fd" stroke="#1976d2" stroke-width="1"/>
-      <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976d2">
+    </text><g transform="translate(30 50)"><rect width="200" height="120" fill="#e3f2fd" stroke="#1976d2" rx="8"/><text x="100" y="20" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Planlegging
-      </text>
-      <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="40" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Prognostisering av
-      </text>
-      <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="55" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         kontantstrømmer
-      </text>
-      <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="70" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Scenarioanalyser
-      </text>
-      <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="85" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Budsjettsammenligning
-      </text>
-      <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="100" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Timing av betalinger
-      </text>
-    </g>
-    
-
-    <g transform="translate(250, 50)">
-      <rect x="0" y="0" width="200" height="120" rx="8" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
-      <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4caf50">
+      </text></g><g transform="translate(250 50)"><rect width="200" height="120" fill="#e8f5e8" stroke="#4caf50" rx="8"/><text x="100" y="20" fill="#4caf50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Overvåking
-      </text>
-      <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="40" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Daglig oppfølging av
-      </text>
-      <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="55" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         kontantstrømmer
-      </text>
-      <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="70" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Avviksanalyse
-      </text>
-      <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="85" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Trendidentifikasjon
-      </text>
-      <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="100" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Rapportering
-      </text>
-    </g>
-    
-
-    <g transform="translate(470, 50)">
-      <rect x="0" y="0" width="200" height="120" rx="8" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
-      <text x="100" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ff9800">
+      </text></g><g transform="translate(470 50)"><rect width="200" height="120" fill="#fff3e0" stroke="#ff9800" rx="8"/><text x="100" y="20" fill="#ff9800" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
         Kontroll
-      </text>
-      <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="40" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Optimalisering av
-      </text>
-      <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="55" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         betalingstidspunkter
-      </text>
-      <text x="100" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="70" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Arbeidskapitalstyring
-      </text>
-      <text x="100" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="85" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Finansieringsstrategier
-      </text>
-      <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#424242">
+      </text><text x="100" y="100" fill="#424242" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
         • Risikohåndtering
-      </text>
-    </g>
-  </g>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
-    </marker>
-  </defs>
-</svg>
+      </text></g></g><defs><marker id="e" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2c3e50" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

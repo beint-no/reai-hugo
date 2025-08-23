@@ -1,145 +1,53 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="customsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d4edda;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="currencyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="complianceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fff8e1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffecb3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="logisticsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e1bee7;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1976d2">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#d4edda;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1"/><stop offset="100%" style="stop-color:#bbdefb;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#fff8e1;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffecb3;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f3e5f5;stop-opacity:1"/><stop offset="100%" style="stop-color:#e1bee7;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="30" fill="#1976d2" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Internasjonale Anskaffelser
-  </text>
-  
-
-  <rect x="50" y="70" width="320" height="180" fill="url(#customsGradient)" stroke="#28a745" stroke-width="3" rx="15"/>
-  <text x="210" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><rect width="320" height="180" x="50" y="70" fill="url(#a)" stroke="#28a745" stroke-width="3" rx="15"/><text x="210" y="100" fill="#155724" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Toll og Avgifter
-  </text>
-  
-
-  <circle cx="210" cy="140" r="25" fill="#28a745" opacity="0.3"/>
-  <rect x="195" y="125" width="30" height="30" fill="none" stroke="#28a745" stroke-width="3"/>
-  <path d="M200 135 L220 135 M205 130 L215 130 M205 140 L215 140" stroke="#28a745" stroke-width="2"/>
-  <text x="210" y="145" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#28a745">TOLL</text>
-  
-  <text x="210" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#155724">
+  </text><circle cx="210" cy="140" r="25" fill="#28a745" opacity=".3"/><path fill="none" stroke="#28a745" stroke-width="3" d="M195 125h30v30h-30z"/><path stroke="#28a745" stroke-width="2" d="M200 135h20m-15-5h10m-10 10h10"/><text x="210" y="145" fill="#28a745" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">TOLL</text><text x="210" y="180" fill="#155724" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Viktige elementer:
-  </text>
-  <text x="70" y="200" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="200" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Tollsatser og preferanseavtaler
-  </text>
-  <text x="70" y="215" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="215" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Merverdiavgift ved import
-  </text>
-  <text x="70" y="230" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="230" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Særavgifter på spesifikke varer
-  </text>
-  <text x="70" y="245" font-family="Arial, sans-serif" font-size="11" fill="#155724">
+  </text><text x="70" y="245" fill="#155724" font-family="Arial, sans-serif" font-size="11">
     • Dokumentasjon og deklarering
-  </text>
-  
-
-  <rect x="430" y="70" width="320" height="180" fill="url(#currencyGradient)" stroke="#007bff" stroke-width="3" rx="15"/>
-  <text x="590" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#004085">
+  </text><rect width="320" height="180" x="430" y="70" fill="url(#b)" stroke="#007bff" stroke-width="3" rx="15"/><text x="590" y="100" fill="#004085" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Valutarisiko
-  </text>
-  
-
-  <circle cx="590" cy="140" r="25" fill="#007bff" opacity="0.3"/>
-  <circle cx="590" cy="140" r="15" fill="none" stroke="#007bff" stroke-width="3"/>
-  <text x="590" y="145" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#007bff">€$</text>
-  
-  <text x="590" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#004085">
+  </text><circle cx="590" cy="140" r="25" fill="#007bff" opacity=".3"/><circle cx="590" cy="140" r="15" fill="none" stroke="#007bff" stroke-width="3"/><text x="590" y="145" fill="#007bff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">€$</text><text x="590" y="180" fill="#004085" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Risikostyring:
-  </text>
-  <text x="450" y="200" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="200" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Kurssikring av store kontrakter
-  </text>
-  <text x="450" y="215" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="215" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Valutaklausuler i avtaler
-  </text>
-  <text x="450" y="230" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="230" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Regnskapsmessig behandling
-  </text>
-  <text x="450" y="245" font-family="Arial, sans-serif" font-size="11" fill="#004085">
+  </text><text x="450" y="245" fill="#004085" font-family="Arial, sans-serif" font-size="11">
     • Rapportering til Altinn
-  </text>
-  
-
-  <rect x="50" y="280" width="320" height="180" fill="url(#complianceGradient)" stroke="#ffc107" stroke-width="3" rx="15"/>
-  <text x="210" y="310" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><rect width="320" height="180" x="50" y="280" fill="url(#c)" stroke="#ffc107" stroke-width="3" rx="15"/><text x="210" y="310" fill="#856404" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Compliance og Lovverk
-  </text>
-  
-
-  <circle cx="210" cy="350" r="25" fill="#ffc107" opacity="0.3"/>
-  <rect x="195" y="335" width="30" height="30" fill="none" stroke="#ffc107" stroke-width="3"/>
-  <text x="210" y="355" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffc107">§</text>
-  
-  <text x="210" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#856404">
+  </text><circle cx="210" cy="350" r="25" fill="#ffc107" opacity=".3"/><path fill="none" stroke="#ffc107" stroke-width="3" d="M195 335h30v30h-30z"/><text x="210" y="355" fill="#ffc107" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">§</text><text x="210" y="390" fill="#856404" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Krav og regelverk:
-  </text>
-  <text x="70" y="410" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="70" y="410" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Internasjonale handelsklausuler (Incoterms)
-  </text>
-  <text x="70" y="425" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="70" y="425" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • GDPR og databehandleravtaler
-  </text>
-  <text x="70" y="440" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="70" y="440" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Sanksjonslovgivning og embargolister
-  </text>
-  <text x="70" y="455" font-family="Arial, sans-serif" font-size="11" fill="#856404">
+  </text><text x="70" y="455" fill="#856404" font-family="Arial, sans-serif" font-size="11">
     • Opprinnelsesregler og sertifisering
-  </text>
-  
-
-  <rect x="430" y="280" width="320" height="180" fill="url(#logisticsGradient)" stroke="#9c27b0" stroke-width="3" rx="15"/>
-  <text x="590" y="310" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#4a148c">
+  </text><rect width="320" height="180" x="430" y="280" fill="url(#d)" stroke="#9c27b0" stroke-width="3" rx="15"/><text x="590" y="310" fill="#4a148c" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Logistikk og Dokumentasjon
-  </text>
-  
-
-  <circle cx="590" cy="350" r="25" fill="#9c27b0" opacity="0.3"/>
-  <rect x="575" y="335" width="30" height="30" fill="none" stroke="#9c27b0" stroke-width="3"/>
-  <path d="M580 345 L600 345 M585 340 L595 340 M585 350 L595 350" stroke="#9c27b0" stroke-width="2"/>
-  <circle cx="582" cy="355" r="2" fill="#9c27b0"/>
-  <circle cx="598" cy="355" r="2" fill="#9c27b0"/>
-  
-  <text x="590" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#4a148c">
+  </text><circle cx="590" cy="350" r="25" fill="#9c27b0" opacity=".3"/><path fill="none" stroke="#9c27b0" stroke-width="3" d="M575 335h30v30h-30z"/><path stroke="#9c27b0" stroke-width="2" d="M580 345h20m-15-5h10m-10 10h10"/><circle cx="582" cy="355" r="2" fill="#9c27b0"/><circle cx="598" cy="355" r="2" fill="#9c27b0"/><text x="590" y="390" fill="#4a148c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Kritiske dokumenter:
-  </text>
-  <text x="450" y="410" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+  </text><text x="450" y="410" fill="#4a148c" font-family="Arial, sans-serif" font-size="11">
     • Handelsfakturaer og pakkelister
-  </text>
-  <text x="450" y="425" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+  </text><text x="450" y="425" fill="#4a148c" font-family="Arial, sans-serif" font-size="11">
     • Opprinnelsessertifikater
-  </text>
-  <text x="450" y="440" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+  </text><text x="450" y="440" fill="#4a148c" font-family="Arial, sans-serif" font-size="11">
     • Transportdokumenter (B/L, AWB)
-  </text>
-  <text x="450" y="455" font-family="Arial, sans-serif" font-size="11" fill="#4a148c">
+  </text><text x="450" y="455" fill="#4a148c" font-family="Arial, sans-serif" font-size="11">
     • Forsikringsdokumenter
-  </text>
-  
-
-  <rect x="100" y="480" width="600" height="15" fill="#e9ecef" stroke="#6c757d" stroke-width="1"/>
-  <text x="400" y="492" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><path fill="#e9ecef" stroke="#6c757d" d="M100 480h600v15H100z"/><text x="400" y="492" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Internasjonale anskaffelser krever grundig planlegging og ekspertise innen handel og logistikk
-  </text>
-</svg>
+  </text></svg>

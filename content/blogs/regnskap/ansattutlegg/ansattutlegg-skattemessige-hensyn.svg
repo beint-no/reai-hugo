@@ -1,208 +1,98 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="deductibleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="nonDeductibleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#EF4444;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#DC2626;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="mvaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1E40AF;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#F8FAFC"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1E293B">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#10b981;stop-opacity:1"/><stop offset="100%" style="stop-color:#047857;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ef4444;stop-opacity:1"/><stop offset="100%" style="stop-color:#dc2626;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"/><stop offset="100%" style="stop-color:#1e40af;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1e293b" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Skattemessige Hensyn ved Ansattutlegg
-  </text>
-  
-
-  <rect x="50" y="60" width="340" height="220" rx="10" fill="url(#deductibleGradient)" stroke="#047857" stroke-width="2"/>
-  <text x="220" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="220" x="50" y="60" fill="url(#a)" stroke="#047857" stroke-width="2" rx="10"/><text x="220" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Fradragsberettigede Utlegg
-  </text>
-  
-
-  <text x="70" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="70" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Krav som må oppfylles:
-  </text>
-  <text x="70" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="70" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     ✓ Nødvendige for virksomheten
-  </text>
-  <text x="70" y="150" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="70" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     ✓ Tilstrekkelig dokumentasjon
-  </text>
-  <text x="70" y="170" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="70" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     ✓ Autorisert gjennom godkjenning
-  </text>
-  <text x="70" y="190" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="70" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     ✓ Rimelige i forhold til formålet
-  </text>
-  
-
-  <text x="70" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="70" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Eksempler:
-  </text>
-  <text x="70" y="240" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="70" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Nødvendige forretningsreiser
-  </text>
-  <text x="70" y="255" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="70" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Kontormateriell og verktøy
-  </text>
-  <text x="70" y="270" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="70" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Faglig kursing og opplæring
-  </text>
-  
-
-  <rect x="410" y="60" width="340" height="220" rx="10" fill="url(#nonDeductibleGradient)" stroke="#DC2626" stroke-width="2"/>
-  <text x="580" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="220" x="410" y="60" fill="url(#b)" stroke="#dc2626" stroke-width="2" rx="10"/><text x="580" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Ikke-fradragsberettigede Utlegg
-  </text>
-  
-
-  <text x="430" y="110" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="430" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Årsaker til fradragsbortfall:
-  </text>
-  <text x="430" y="130" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     ✗ Private kostnader
-  </text>
-  <text x="430" y="150" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     ✗ Overdreven representasjon
-  </text>
-  <text x="430" y="170" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="170" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     ✗ Manglende dokumentasjon
-  </text>
-  <text x="430" y="190" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="190" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     ✗ Personlige goder
-  </text>
-  
-
-  <text x="430" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+  </text><text x="430" y="220" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Eksempler:
-  </text>
-  <text x="430" y="240" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Familiebesøk under reise
-  </text>
-  <text x="430" y="255" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="255" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Dyre gaver til kunder
-  </text>
-  <text x="430" y="270" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="430" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Utlegg uten kvittering
-  </text>
-  
-
-  <rect x="50" y="320" width="700" height="30" rx="5" fill="url(#mvaGradient)" stroke="#1E40AF" stroke-width="2"/>
-  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="700" height="30" x="50" y="320" fill="url(#c)" stroke="#1e40af" stroke-width="2" rx="5"/><text x="400" y="340" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Merverdiavgift (MVA) - Behandling av Ansattutlegg
-  </text>
-  
-
-  <rect x="50" y="370" width="700" height="160" rx="5" fill="white" stroke="#CBD5E1" stroke-width="1"/>
-  
-
-  <rect x="50" y="370" width="700" height="30" rx="5" fill="#E2E8F0" stroke="#CBD5E1" stroke-width="1"/>
-  <text x="120" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1E293B">
+  </text><rect width="700" height="160" x="50" y="370" fill="#fff" stroke="#cbd5e1" rx="5"/><rect width="700" height="30" x="50" y="370" fill="#e2e8f0" stroke="#cbd5e1" rx="5"/><text x="120" y="390" fill="#1e293b" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Utgiftstype
-  </text>
-  <text x="250" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1E293B">
+  </text><text x="250" y="390" fill="#1e293b" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     MVA-sats
-  </text>
-  <text x="380" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1E293B">
+  </text><text x="380" y="390" fill="#1e293b" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Fradragsrett
-  </text>
-  <text x="550" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1E293B">
+  </text><text x="550" y="390" fill="#1e293b" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
     Spesielle regler
-  </text>
-  
-
-
-  <rect x="50" y="400" width="700" height="25" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-  <text x="70" y="417" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><path fill="#f8fafc" stroke="#e2e8f0" d="M50 400h700v25H50z"/><text x="70" y="417" fill="#1e293b" font-family="Arial, sans-serif" font-size="10">
     Reiseutlegg
-  </text>
-  <text x="250" y="417" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><text x="250" y="417" fill="#1e293b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     25%
-  </text>
-  <text x="380" y="417" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+  </text><text x="380" y="417" fill="#059669" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Ja
-  </text>
-  <text x="460" y="417" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><text x="460" y="417" fill="#1e293b" font-family="Arial, sans-serif" font-size="10">
     Kun med dokumentasjon
-  </text>
-  
-
-  <rect x="50" y="425" width="700" height="25" fill="white" stroke="#E2E8F0" stroke-width="1"/>
-  <text x="70" y="442" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><path fill="#fff" stroke="#e2e8f0" d="M50 425h700v25H50z"/><text x="70" y="442" fill="#1e293b" font-family="Arial, sans-serif" font-size="10">
     Representasjon
-  </text>
-  <text x="250" y="442" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><text x="250" y="442" fill="#1e293b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     25%
-  </text>
-  <text x="380" y="442" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#D97706">
+  </text><text x="380" y="442" fill="#d97706" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Begrenset
-  </text>
-  <text x="460" y="442" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><text x="460" y="442" fill="#1e293b" font-family="Arial, sans-serif" font-size="10">
     50% av MVA fradragsberettiget
-  </text>
-  
-
-  <rect x="50" y="450" width="700" height="25" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-  <text x="70" y="467" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><path fill="#f8fafc" stroke="#e2e8f0" d="M50 450h700v25H50z"/><text x="70" y="467" fill="#1e293b" font-family="Arial, sans-serif" font-size="10">
     Kontorutstyr
-  </text>
-  <text x="250" y="467" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><text x="250" y="467" fill="#1e293b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     25%
-  </text>
-  <text x="380" y="467" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#059669">
+  </text><text x="380" y="467" fill="#059669" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Ja
-  </text>
-  <text x="460" y="467" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><text x="460" y="467" fill="#1e293b" font-family="Arial, sans-serif" font-size="10">
     Vanlige regler
-  </text>
-  
-
-  <rect x="50" y="475" width="700" height="25" fill="white" stroke="#E2E8F0" stroke-width="1"/>
-  <text x="70" y="492" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><path fill="#fff" stroke="#e2e8f0" d="M50 475h700v25H50z"/><text x="70" y="492" fill="#1e293b" font-family="Arial, sans-serif" font-size="10">
     Kjøregodtgjørelse
-  </text>
-  <text x="250" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><text x="250" y="492" fill="#1e293b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Ingen MVA
-  </text>
-  <text x="380" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6B7280">
+  </text><text x="380" y="492" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Ikke relevant
-  </text>
-  <text x="460" y="492" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><text x="460" y="492" fill="#1e293b" font-family="Arial, sans-serif" font-size="10">
     Statlig sats (kr 4,10/km)
-  </text>
-  
-
-  <rect x="50" y="500" width="700" height="25" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-  <text x="70" y="517" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><path fill="#f8fafc" stroke="#e2e8f0" d="M50 500h700v25H50z"/><text x="70" y="517" fill="#1e293b" font-family="Arial, sans-serif" font-size="10">
     Kursing/opplæring
-  </text>
-  <text x="250" y="517" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><text x="250" y="517" fill="#1e293b" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Fritatt
-  </text>
-  <text x="380" y="517" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6B7280">
+  </text><text x="380" y="517" fill="#6b7280" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Ikke relevant
-  </text>
-  <text x="460" y="517" font-family="Arial, sans-serif" font-size="10" fill="#1E293B">
+  </text><text x="460" y="517" fill="#1e293b" font-family="Arial, sans-serif" font-size="10">
     Undervisning fritatt for MVA
-  </text>
-  
-
-  <rect x="50" y="550" width="700" height="40" rx="5" fill="#FEF3C7" stroke="#F59E0B" stroke-width="2"/>
-  <text x="60" y="570" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400E">
+  </text><rect width="700" height="40" x="50" y="550" fill="#fef3c7" stroke="#f59e0b" stroke-width="2" rx="5"/><text x="60" y="570" fill="#92400e" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Viktige merknader:
-  </text>
-  <text x="60" y="585" font-family="Arial, sans-serif" font-size="10" fill="#92400E">
+  </text><text x="60" y="585" fill="#92400e" font-family="Arial, sans-serif" font-size="10">
     • Dokumentasjon er avgjørende for MVA-fradrag • Representasjon har særregler (50% begrensning)
     • Kjøregodtgjørelse følger statlige satser • Konsulter skatteetaten ved tvil
-  </text>
-</svg>
+  </text></svg>

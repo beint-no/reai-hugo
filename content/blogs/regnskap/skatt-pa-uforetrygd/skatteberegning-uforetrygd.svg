@@ -1,151 +1,63 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="calcGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="resultGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8fafc"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1e40af;stop-opacity:1"/><stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#059669;stop-opacity:1"/><stop offset="100%" style="stop-color:#10b981;stop-opacity:1"/></linearGradient></defs><path fill="#f8fafc" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Skatteberegning på uføretrygd - Detaljert eksempel
-  </text>
-  
-
-  <g transform="translate(50, 70)">
-    <rect x="0" y="0" width="300" height="150" rx="10" fill="#e5e7eb" stroke="#9ca3af" stroke-width="2"/>
-    <text x="150" y="25" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+  </text><g transform="translate(50 70)"><rect width="300" height="150" fill="#e5e7eb" stroke="#9ca3af" stroke-width="2" rx="10"/><text x="150" y="25" fill="#374151" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Grunnlagsinformasjon
-    </text>
-    <text x="20" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="20" y="50" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       Årlig uføretrygd: 300.000 kr
-    </text>
-    <text x="20" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="20" y="70" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       Uføregrad: 100%
-    </text>
-    <text x="20" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="20" y="90" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       Alder: 45 år
-    </text>
-    <text x="20" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="20" y="110" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       Sivilstand: Gift
-    </text>
-    <text x="20" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="20" y="130" fill="#374151" font-family="Arial, sans-serif" font-size="14">
       Bostedskommune: Oslo
-    </text>
-  </g>
-  
-
-  <g transform="translate(400, 70)">
-    <rect x="0" y="0" width="350" height="200" rx="10" fill="url(#calcGrad)" stroke="#1e40af" stroke-width="2"/>
-    <text x="175" y="25" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><g transform="translate(400 70)"><rect width="350" height="200" fill="url(#a)" stroke="#1e40af" stroke-width="2" rx="10"/><text x="175" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Beregningssteg
-    </text>
-    
-
-    <text x="20" y="50" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><text x="20" y="50" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       1. Trygdeavgift:
-    </text>
-    <text x="30" y="70" fill="white" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="30" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="13">
       300.000 kr × 5,1% = 15.300 kr
-    </text>
-    
-
-    <text x="20" y="95" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><text x="20" y="95" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       2. Skattegrunnlag:
-    </text>
-    <text x="30" y="115" fill="white" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="30" y="115" fill="#fff" font-family="Arial, sans-serif" font-size="13">
       Uføretrygd: 300.000 kr
-    </text>
-    <text x="30" y="130" fill="white" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="30" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="13">
       - Personfradrag: 67.000 kr
-    </text>
-    <text x="30" y="145" fill="white" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="30" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="13">
       - Uførefradrag: 19.000 kr
-    </text>
-    <text x="30" y="160" fill="white" font-family="Arial, sans-serif" font-size="13">
+    </text><text x="30" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="13">
       = Skattbart beløp: 214.000 kr
-    </text>
-    
-
-    <text x="20" y="185" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
+    </text><text x="20" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
       3. Ordinær skatt: 214.000 × 22% = 47.080 kr
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 300)">
-    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text></g><text y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold" transform="translate(50 300)">
       Skattefordeling
-    </text>
-    
-
-    <rect x="0" y="40" width="300" height="30" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
-    <text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><path fill="#e5e7eb" stroke="#9ca3af" d="M50 340h300v30H50z"/><text x="10" y="60" fill="#374151" font-family="Arial, sans-serif" font-size="14" transform="translate(50 300)">
       Brutto uføretrygd: 300.000 kr
-    </text>
-    
-
-    <rect x="0" y="80" width="45" height="30" fill="#dc2626"/>
-    <text x="50" y="100" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><path fill="#dc2626" d="M50 380h45v30H50z"/><text x="50" y="100" fill="#374151" font-family="Arial, sans-serif" font-size="13" transform="translate(50 300)">
       Trygdeavgift: 15.300 kr (5,1%)
-    </text>
-    
-    <rect x="0" y="120" width="141" height="30" fill="#ef4444"/>
-    <text x="150" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><path fill="#ef4444" d="M50 420h141v30H50z"/><text x="150" y="140" fill="#374151" font-family="Arial, sans-serif" font-size="13" transform="translate(50 300)">
       Ordinær skatt: 47.080 kr (15,7%)
-    </text>
-    
-    <rect x="0" y="160" width="714" height="30" fill="#10b981"/>
-    <text x="360" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="13">
+    </text><path fill="#10b981" d="M50 460h714v30H50z"/><text x="360" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="13" transform="translate(50 300)">
       Netto utbetaling: 237.620 kr (79,2%)
-    </text>
-  </g>
-  
-
-  <g transform="translate(450, 300)">
-    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    </text><g transform="translate(450 300)"><text y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
       Månedlig oversikt
-    </text>
-    
-    <rect x="0" y="40" width="300" height="140" rx="8" fill="url(#resultGrad)" stroke="#059669" stroke-width="2"/>
-    <text x="150" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><rect width="300" height="140" y="40" fill="url(#b)" stroke="#059669" stroke-width="2" rx="8"/><text x="150" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Månedlig utbetaling
-    </text>
-    <text x="150" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="150" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Brutto: 25.000 kr
-    </text>
-    <text x="150" y="110" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="150" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       Forskuddstrekk: 5.198 kr
-    </text>
-    <text x="150" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text><text x="150" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Netto: 19.802 kr
-    </text>
-    <text x="150" y="155" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12">
+    </text><text x="150" y="155" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       (Utbetales av NAV)
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 480)">
-    <text x="0" y="20" fill="#1f2937" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </text></g><g font-family="Arial, sans-serif"><text y="20" fill="#1f2937" font-size="16" font-weight="bold" transform="translate(50 480)">
       Sammenligning med tilsvarende lønn:
-    </text>
-    
-    <text x="20" y="45" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="20" y="45" fill="#374151" font-size="14" transform="translate(50 480)">
       • Lønn 300.000 kr: Trygdeavgift 24.600 kr (8,2%) = 9.300 kr mer i avgift
-    </text>
-    <text x="20" y="65" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="20" y="65" fill="#374151" font-size="14" transform="translate(50 480)">
       • Uføretrygd gir lavere trygdeavgift: Besparelse 9.300 kr/år
-    </text>
-    <text x="20" y="85" fill="#374151" font-family="Arial, sans-serif" font-size="14">
+    </text><text x="20" y="85" fill="#374151" font-size="14" transform="translate(50 480)">
       • Uførefradrag reduserer skattegrunnlag med 19.000 kr
-    </text>
-  </g>
-</svg>
+    </text></g></svg>

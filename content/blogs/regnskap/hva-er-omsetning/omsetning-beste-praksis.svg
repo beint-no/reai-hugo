@@ -1,231 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8fffe;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e8f5f3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="dailyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1abc9c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#48c9b0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="docGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#5dade2;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="reconcileGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#e67e22;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f39c12;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="controlGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#bb8fce;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="helpGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ec7063;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8fffe;stop-opacity:1"/><stop offset="100%" style="stop-color:#e8f5f3;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1abc9c;stop-opacity:1"/><stop offset="100%" style="stop-color:#48c9b0;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#3498db;stop-opacity:1"/><stop offset="100%" style="stop-color:#5dade2;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e67e22;stop-opacity:1"/><stop offset="100%" style="stop-color:#f39c12;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1"/><stop offset="100%" style="stop-color:#bb8fce;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#ec7063;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Omsetning - Beste Praksis
-  </text>
-  
-
-  <g transform="translate(350, 70)">
-    <circle cx="50" cy="50" r="35" fill="#27ae60" stroke="#229954" stroke-width="3"/>
-    <path d="M 35 50 L 45 60 L 65 40" stroke="white" stroke-width="4" fill="none"/>
-    <text x="50" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><g transform="translate(350 70)"><circle cx="50" cy="50" r="35" fill="#27ae60" stroke="#229954" stroke-width="3"/><path fill="none" stroke="#fff" stroke-width="4" d="m35 50 10 10 20-20"/><text x="50" y="100" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Kvalitetssikring
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 150)">
-    <rect x="0" y="0" width="180" height="120" fill="url(#dailyGradient)" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 150)"><rect width="180" height="120" fill="url(#b)" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Daglig registrering
-    </text>
-    
-
-    <g transform="translate(70, 35)">
-      <rect x="0" y="5" width="40" height="35" fill="white" rx="3"/>
-      <rect x="0" y="5" width="40" height="10" fill="#1abc9c"/>
-      <rect x="5" y="0" width="3" height="15" fill="#34495e"/>
-      <rect x="32" y="0" width="3" height="15" fill="#34495e"/>
-      <line x1="8" y1="20" x2="32" y2="20" stroke="#1abc9c" stroke-width="1"/>
-      <line x1="8" y1="25" x2="32" y2="25" stroke="#1abc9c" stroke-width="1"/>
-      <line x1="8" y1="30" x2="32" y2="30" stroke="#1abc9c" stroke-width="1"/>
-      <line x1="8" y1="35" x2="32" y2="35" stroke="#1abc9c" stroke-width="1"/>
-    </g>
-    
-    <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><g transform="translate(70 35)"><rect width="40" height="35" y="5" fill="#fff" rx="3"/><path fill="#1abc9c" d="M0 5h40v10H0z"/><path fill="#34495e" d="M5 0h3v15H5zM32 0h3v15h-3z"/><path stroke="#1abc9c" d="M8 20h24M8 25h24M8 30h24M8 35h24"/></g><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Registrer salg løpende
-    </text>
-    <text x="90" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Ikke vent til månedslutt
-    </text>
-  </g>
-  
-
-  <g transform="translate(280, 150)">
-    <rect x="0" y="0" width="180" height="120" fill="url(#docGradient)" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(280 150)"><rect width="180" height="120" fill="url(#c)" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Dokumentasjon
-    </text>
-    
-
-    <g transform="translate(70, 35)">
-      <rect x="5" y="5" width="30" height="35" fill="white" rx="2"/>
-      <rect x="3" y="3" width="30" height="35" fill="#ecf0f1" rx="2"/>
-      <rect x="0" y="0" width="30" height="35" fill="white" rx="2"/>
-      <line x1="5" y1="8" x2="25" y2="8" stroke="#3498db" stroke-width="1"/>
-      <line x1="5" y1="13" x2="25" y2="13" stroke="#3498db" stroke-width="1"/>
-      <line x1="5" y1="18" x2="25" y2="18" stroke="#3498db" stroke-width="1"/>
-      <line x1="5" y1="23" x2="25" y2="23" stroke="#3498db" stroke-width="1"/>
-      <line x1="5" y1="28" x2="25" y2="28" stroke="#3498db" stroke-width="1"/>
-    </g>
-    
-    <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><g transform="translate(70 35)"><rect width="30" height="35" x="5" y="5" fill="#fff" rx="2"/><rect width="30" height="35" x="3" y="3" fill="#ecf0f1" rx="2"/><rect width="30" height="35" fill="#fff" rx="2"/><path stroke="#3498db" d="M5 8h20M5 13h20M5 18h20M5 23h20M5 28h20"/></g><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Oppbevar alle fakturaer
-    </text>
-    <text x="90" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       og kvitteringer
-    </text>
-  </g>
-  
-
-  <g transform="translate(510, 150)">
-    <rect x="0" y="0" width="180" height="120" fill="url(#reconcileGradient)" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(510 150)"><rect width="180" height="120" fill="url(#d)" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Avstemming
-    </text>
-    
-
-    <g transform="translate(65, 35)">
-      <line x1="25" y1="10" x2="25" y2="40" stroke="white" stroke-width="3"/>
-      <line x1="10" y1="20" x2="40" y2="20" stroke="white" stroke-width="2"/>
-      <rect x="5" y="15" width="10" height="8" fill="white"/>
-      <rect x="35" y="15" width="10" height="8" fill="white"/>
-      <line x1="10" y1="15" x2="10" y2="12" stroke="white" stroke-width="1"/>
-      <line x1="40" y1="15" x2="40" y2="12" stroke="white" stroke-width="1"/>
-    </g>
-    
-    <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><path stroke="#fff" stroke-width="3" d="M90 45v30"/><path stroke="#fff" stroke-width="2" d="M75 55h30"/><path fill="#fff" d="M70 50h10v8H70zM100 50h10v8h-10z"/><path stroke="#fff" d="M75 50v-3M105 50v-3"/><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Avstem omsetning mot
-    </text>
-    <text x="90" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       bankinnskudd
-    </text>
-  </g>
-  
-
-  <g transform="translate(165, 300)">
-    <rect x="0" y="0" width="180" height="120" fill="url(#controlGradient)" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(165 300)"><rect width="180" height="120" fill="url(#e)" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Periodisk kontroll
-    </text>
-    
-
-    <g transform="translate(70, 35)">
-      <circle cx="18" cy="18" r="12" fill="none" stroke="white" stroke-width="3"/>
-      <line x1="28" y1="28" x2="38" y2="38" stroke="white" stroke-width="3"/>
-      <text x="18" y="23" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><g transform="translate(70 35)"><circle cx="18" cy="18" r="12" fill="none" stroke="#fff" stroke-width="3"/><path stroke="#fff" stroke-width="3" d="m28 28 10 10"/><text x="18" y="23" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
         ✓
-      </text>
-    </g>
-    
-    <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+      </text></g><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Gjennomgå rapporter
-    </text>
-    <text x="90" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       månedlig
-    </text>
-  </g>
-  
-
-  <g transform="translate(395, 300)">
-    <rect x="0" y="0" width="180" height="120" fill="url(#helpGradient)" rx="10"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(395 300)"><rect width="180" height="120" fill="url(#f)" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       Profesjonell hjelp
-    </text>
-    
-
-    <g transform="translate(70, 35)">
-      <circle cx="20" cy="15" r="8" fill="white"/>
-      <rect x="15" y="23" width="10" height="15" fill="white"/>
-      <rect x="12" y="30" width="16" height="8" fill="white"/>
-      <rect x="10" y="35" width="5" height="8" fill="#34495e"/>
-      <rect x="25" y="35" width="5" height="8" fill="#34495e"/>
-    </g>
-    
-    <text x="90" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><g transform="translate(70 35)"><circle cx="20" cy="15" r="8" fill="#fff"/><path fill="#fff" d="M15 23h10v15H15z"/><path fill="#fff" d="M12 30h16v8H12z"/><path fill="#34495e" d="M10 35h5v8h-5zM25 35h5v8h-5z"/></g><text x="90" y="85" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Bruk regnskapsfører
-    </text>
-    <text x="90" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="90" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       ved behov
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 450)">
-    <rect x="0" y="0" width="700" height="120" fill="#34495e" rx="10"/>
-    <text x="350" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 450)"><rect width="700" height="120" fill="#34495e" rx="10"/><text x="350" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
       Vanlige feil å unngå:
-    </text>
-    
-
-    <g transform="translate(50, 40)">
-      <circle cx="10" cy="10" r="8" fill="#e74c3c"/>
-      <text x="10" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✗</text>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><g transform="translate(50 40)"><circle cx="10" cy="10" r="8" fill="#e74c3c"/><text x="10" y="14" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✗</text><text x="25" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="14">
         Glemme MVA i omsetningsberegning
-      </text>
-    </g>
-    
-    <g transform="translate(350, 40)">
-      <circle cx="10" cy="10" r="8" fill="#e74c3c"/>
-      <text x="10" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✗</text>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="14" fill="white">
+      </text></g><g transform="translate(350 40)"><circle cx="10" cy="10" r="8" fill="#e74c3c"/><text x="10" y="14" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✗</text><text x="25" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="14">
         Feil periodisering av salg
-      </text>
-    </g>
-    
-    <g transform="translate(50, 70)">
-      <circle cx="10" cy="10" r="8" fill="#e74c3c"/>
-      <text x="10" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✗</text>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="14" fill="white">
+      </text></g><g transform="translate(50 70)"><circle cx="10" cy="10" r="8" fill="#e74c3c"/><text x="10" y="14" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✗</text><text x="25" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="14">
         Manglende dokumentasjon
-      </text>
-    </g>
-    
-    <g transform="translate(350, 70)">
-      <circle cx="10" cy="10" r="8" fill="#e74c3c"/>
-      <text x="10" y="14" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">✗</text>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="14" fill="white">
+      </text></g><g transform="translate(350 70)"><circle cx="10" cy="10" r="8" fill="#e74c3c"/><text x="10" y="14" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✗</text><text x="25" y="15" fill="#fff" font-family="Arial, sans-serif" font-size="14">
         Blande omsetning med andre inntekter
-      </text>
-    </g>
-  </g>
-  
-
-  <path d="M 380 120 L 140 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
-  <path d="M 400 120 L 370 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
-  <path d="M 420 120 L 600 150" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
-  <path d="M 380 130 L 255 300" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
-  <path d="M 420 130 L 485 300" stroke="#bdc3c7" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
-  
-
-  <g transform="translate(20, 20)">
-    <circle cx="15" cy="15" r="12" fill="#27ae60"/>
-    <path d="M 9 15 L 13 19 L 21 11" stroke="white" stroke-width="2" fill="none"/>
-  </g>
-  
-  <g transform="translate(750, 20)">
-    <circle cx="15" cy="15" r="12" fill="#27ae60"/>
-    <path d="M 9 15 L 13 19 L 21 11" stroke="white" stroke-width="2" fill="none"/>
-  </g>
-</svg>
+      </text></g></g><path fill="none" stroke="#bdc3c7" stroke-dasharray="3,3" stroke-width="2" d="m380 120-240 30M400 120l-30 30M420 120l180 30M380 130 255 300M420 130l65 170"/><g transform="translate(20 20)"><circle cx="15" cy="15" r="12" fill="#27ae60"/><path fill="none" stroke="#fff" stroke-width="2" d="m9 15 4 4 8-8"/></g><g transform="translate(750 20)"><circle cx="15" cy="15" r="12" fill="#27ae60"/><path fill="none" stroke="#fff" stroke-width="2" d="m9 15 4 4 8-8"/></g></svg>

@@ -1,129 +1,41 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="purposeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4dabf7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1c7ed6;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="accuracyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#51cf66;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#37b24d;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="fraudGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ff8cc8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e64980;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="liquidityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffd43b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fab005;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="complianceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#9775fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7950f2;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgGradient)"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#212529">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4dabf7;stop-opacity:1"/><stop offset="100%" style="stop-color:#1c7ed6;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#51cf66;stop-opacity:1"/><stop offset="100%" style="stop-color:#37b24d;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff8cc8;stop-opacity:1"/><stop offset="100%" style="stop-color:#e64980;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ffd43b;stop-opacity:1"/><stop offset="100%" style="stop-color:#fab005;stop-opacity:1"/></linearGradient><linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#9775fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#7950f2;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#212529" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">
     Formålet med Bankavstemming
-  </text>
-  
-
-  <circle cx="400" cy="250" r="80" fill="url(#purposeGradient)" stroke="#1864ab" stroke-width="3"/>
-  <text x="400" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="250" r="80" fill="url(#b)" stroke="#1864ab" stroke-width="3"/><text x="400" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     BANK-
-  </text>
-  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><text x="400" y="260" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     AVSTEMMING
-  </text>
-  
-
-  <circle cx="200" cy="150" r="60" fill="url(#accuracyGradient)" stroke="#2f9e44" stroke-width="2"/>
-  <text x="200" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="200" cy="150" r="60" fill="url(#c)" stroke="#2f9e44" stroke-width="2"/><text x="200" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     SIKRE
-  </text>
-  <text x="200" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="200" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     NØYAKTIGHET
-  </text>
-  
-
-  <rect x="80" y="80" width="240" height="50" rx="10" fill="rgba(51, 207, 102, 0.1)" stroke="#51cf66" stroke-width="1"/>
-  <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2f9e44">
+  </text><rect width="240" height="50" x="80" y="80" fill="rgba(51, 207, 102, 0.1)" stroke="#51cf66" rx="10"/><text x="200" y="100" fill="#2f9e44" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Identifisere og korrigere feil
-  </text>
-  <text x="200" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2f9e44">
+  </text><text x="200" y="115" fill="#2f9e44" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Sikre korrekt regnskapsføring
-  </text>
-  
-
-  <circle cx="600" cy="150" r="60" fill="url(#fraudGradient)" stroke="#e64980" stroke-width="2"/>
-  <text x="600" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="600" cy="150" r="60" fill="url(#d)" stroke="#e64980" stroke-width="2"/><text x="600" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     OPPDAGE
-  </text>
-  <text x="600" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="600" y="160" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     SVINDEL
-  </text>
-  
-
-  <rect x="480" y="80" width="240" height="50" rx="10" fill="rgba(255, 140, 200, 0.1)" stroke="#ff8cc8" stroke-width="1"/>
-  <text x="600" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e64980">
+  </text><rect width="240" height="50" x="480" y="80" fill="rgba(255, 140, 200, 0.1)" stroke="#ff8cc8" rx="10"/><text x="600" y="100" fill="#e64980" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Avdekke uautoriserte transaksjoner
-  </text>
-  <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e64980">
+  </text><text x="600" y="115" fill="#e64980" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Identifisere manipulasjon
-  </text>
-  
-
-  <circle cx="200" cy="350" r="60" fill="url(#liquidityGradient)" stroke="#fab005" stroke-width="2"/>
-  <text x="200" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="200" cy="350" r="60" fill="url(#e)" stroke="#fab005" stroke-width="2"/><text x="200" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     KONTROLLERE
-  </text>
-  <text x="200" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="200" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     LIKVIDITET
-  </text>
-  
-
-  <rect x="80" y="370" width="240" height="50" rx="10" fill="rgba(255, 212, 59, 0.1)" stroke="#ffd43b" stroke-width="1"/>
-  <text x="200" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fab005">
+  </text><rect width="240" height="50" x="80" y="370" fill="rgba(255, 212, 59, 0.1)" stroke="#ffd43b" rx="10"/><text x="200" y="390" fill="#fab005" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Oversikt over kontantbeholdning
-  </text>
-  <text x="200" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fab005">
+  </text><text x="200" y="405" fill="#fab005" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Bedre likviditetsstyring
-  </text>
-  
-
-  <circle cx="600" cy="350" r="60" fill="url(#complianceGradient)" stroke="#7950f2" stroke-width="2"/>
-  <text x="600" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><circle cx="600" cy="350" r="60" fill="url(#f)" stroke="#7950f2" stroke-width="2"/><text x="600" y="345" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     OVERHOLDE
-  </text>
-  <text x="600" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><text x="600" y="360" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     REGELVERK
-  </text>
-  
-
-  <rect x="480" y="370" width="240" height="50" rx="10" fill="rgba(151, 117, 250, 0.1)" stroke="#9775fa" stroke-width="1"/>
-  <text x="600" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7950f2">
+  </text><rect width="240" height="50" x="480" y="370" fill="rgba(151, 117, 250, 0.1)" stroke="#9775fa" rx="10"/><text x="600" y="390" fill="#7950f2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Krav til internkontroll
-  </text>
-  <text x="600" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7950f2">
+  </text><text x="600" y="405" fill="#7950f2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Regnskapslovgivning
-  </text>
-  
-
-  <line x1="280" y1="190" x2="340" y2="220" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="520" y1="190" x2="460" y2="220" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="280" y1="310" x2="340" y2="280" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
-  <line x1="520" y1="310" x2="460" y2="280" stroke="#6c757d" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <rect x="250" y="450" width="300" height="30" rx="15" fill="#495057" stroke="#343a40" stroke-width="1"/>
-  <text x="400" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><path stroke="#6c757d" stroke-dasharray="5,5" stroke-width="2" d="m280 190 60 30M520 190l-60 30M280 310l60-30M520 310l-60-30"/><rect width="300" height="30" x="250" y="450" fill="#495057" stroke="#343a40" rx="15"/><text x="400" y="470" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Grunnlag for pålitelig regnskapsføring
-  </text>
-</svg>
+  </text></svg>

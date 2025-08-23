@@ -1,171 +1,79 @@
-<svg width="600" height="450" viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="600" height="450" fill="#f8f9fa"/>
-  
-
-  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450"><path fill="#f8f9fa" d="M0 0h600v450H0z"/><text x="300" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Praktiske Eksempler på Avvikshåndtering
-  </text>
-  
-
-  <rect x="50" y="60" width="250" height="160" fill="white" stroke="#3498db" stroke-width="2" rx="10"/>
-  <rect x="50" y="60" width="250" height="30" fill="#3498db" rx="10 10 0 0"/>
-  <text x="175" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="250" height="160" x="50" y="60" fill="#fff" stroke="#3498db" stroke-width="2" rx="10"/><rect width="250" height="30" x="50" y="60" fill="#3498db" rx="10 10 0 0"/><text x="175" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Eksempel 1: Bankavstemming
-  </text>
-  
-  <text x="60" y="105" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+  </text><text x="60" y="105" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Situasjon:
-  </text>
-  <text x="60" y="120" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="60" y="120" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     Banksaldo stemmer ikke med bokført saldo
-  </text>
-  <text x="60" y="135" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="60" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     Avvik: 15.000 kr
-  </text>
-  
-  <text x="60" y="155" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+  </text><text x="60" y="155" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Løsning:
-  </text>
-  <text x="60" y="170" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="60" y="170" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     1. Identifisering: Månedlig avstemming
-  </text>
-  <text x="60" y="185" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="60" y="185" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     2. Analyse: Gjennomgang av transaksjoner
-  </text>
-  <text x="60" y="200" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="60" y="200" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     3. Funn: Dobbeltregistrering av betaling
-  </text>
-  <text x="60" y="215" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="60" y="215" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     4. Korreksjon: Reversering av duplikat
-  </text>
-  
-
-  <rect x="320" y="60" width="250" height="160" fill="white" stroke="#e74c3c" stroke-width="2" rx="10"/>
-  <rect x="320" y="60" width="250" height="30" fill="#e74c3c" rx="10 10 0 0"/>
-  <text x="445" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="250" height="160" x="320" y="60" fill="#fff" stroke="#e74c3c" stroke-width="2" rx="10"/><rect width="250" height="30" x="320" y="60" fill="#e74c3c" rx="10 10 0 0"/><text x="445" y="80" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Eksempel 2: Budsjettavvik
-  </text>
-  
-  <text x="330" y="105" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+  </text><text x="330" y="105" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Situasjon:
-  </text>
-  <text x="330" y="120" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="330" y="120" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     Lønnskostnader 20% høyere enn budsjett
-  </text>
-  <text x="330" y="135" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="330" y="135" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     Avvik: 150.000 kr
-  </text>
-  
-  <text x="330" y="155" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+  </text><text x="330" y="155" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Løsning:
-  </text>
-  <text x="330" y="170" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="330" y="170" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     1. Identifisering: Månedlig budsjettrapport
-  </text>
-  <text x="330" y="185" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="330" y="185" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     2. Analyse: Detaljert lønnsgjennomgang
-  </text>
-  <text x="330" y="200" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="330" y="200" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     3. Funn: Overtid og ny ansatt
-  </text>
-  <text x="330" y="215" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="330" y="215" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     4. Korreksjon: Oppdatert budsjett
-  </text>
-  
-
-  <rect x="50" y="250" width="500" height="180" fill="white" stroke="#2c3e50" stroke-width="2" rx="10"/>
-  <text x="300" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><rect width="500" height="180" x="50" y="250" fill="#fff" stroke="#2c3e50" stroke-width="2" rx="10"/><text x="300" y="270" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Standardprosess for Avvikshåndtering
-  </text>
-  
-
-  <rect x="70" y="290" width="80" height="40" fill="#3498db" opacity="0.8" rx="5"/>
-  <text x="110" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><rect width="80" height="40" x="70" y="290" fill="#3498db" opacity=".8" rx="5"/><text x="110" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     1. OPPDAGELSE
-  </text>
-  <text x="110" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+  </text><text x="110" y="318" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Identifiser avvik
-  </text>
-  
-
-  <rect x="170" y="290" width="80" height="40" fill="#f39c12" opacity="0.8" rx="5"/>
-  <text x="210" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><rect width="80" height="40" x="170" y="290" fill="#f39c12" opacity=".8" rx="5"/><text x="210" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     2. VURDERING
-  </text>
-  <text x="210" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+  </text><text x="210" y="318" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Klassifiser alvor
-  </text>
-  
-
-  <rect x="270" y="290" width="80" height="40" fill="#e74c3c" opacity="0.8" rx="5"/>
-  <text x="310" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><rect width="80" height="40" x="270" y="290" fill="#e74c3c" opacity=".8" rx="5"/><text x="310" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     3. ANALYSE
-  </text>
-  <text x="310" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+  </text><text x="310" y="318" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Finn årsak
-  </text>
-  
-
-  <rect x="370" y="290" width="80" height="40" fill="#27ae60" opacity="0.8" rx="5"/>
-  <text x="410" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><rect width="80" height="40" x="370" y="290" fill="#27ae60" opacity=".8" rx="5"/><text x="410" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     4. HANDLING
-  </text>
-  <text x="410" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+  </text><text x="410" y="318" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Korriger feil
-  </text>
-  
-
-  <rect x="470" y="290" width="80" height="40" fill="#9b59b6" opacity="0.8" rx="5"/>
-  <text x="510" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">
+  </text><rect width="80" height="40" x="470" y="290" fill="#9b59b6" opacity=".8" rx="5"/><text x="510" y="305" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">
     5. OPPFØLGING
-  </text>
-  <text x="510" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">
+  </text><text x="510" y="318" fill="#fff" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">
     Forebygg gjentakelse
-  </text>
-  
-
-  <path d="M 150 310 L 165 310" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 250 310 L 265 310" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 350 310 L 365 310" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  <path d="M 450 310 L 465 310" stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <text x="70" y="350" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2c3e50">
+  </text><path fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#a)" d="M150 310h15"/><path fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#a)" d="M250 310h15"/><path fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#a)" d="M350 310h15"/><path fill="none" stroke="#2c3e50" stroke-width="2" marker-end="url(#a)" d="M450 310h15"/><text x="70" y="350" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10" font-weight="bold">
     Tidsramme:
-  </text>
-  <text x="110" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="110" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Umiddelbart
-  </text>
-  <text x="210" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="210" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     1-2 timer
-  </text>
-  <text x="310" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="310" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     1-3 dager
-  </text>
-  <text x="410" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="410" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     1-5 dager
-  </text>
-  <text x="510" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50">
+  </text><text x="510" y="365" fill="#2c3e50" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Kontinuerlig
-  </text>
-  
-
-  <text x="300" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><text x="300" y="395" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Suksessfaktorer
-  </text>
-  
-  <text x="70" y="415" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="70" y="415" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Rask identifisering og respons
-  </text>
-  <text x="320" y="415" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+  </text><text x="320" y="415" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11">
     • Grundig dokumentasjon og analyse
-  </text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2c3e50"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2c3e50" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

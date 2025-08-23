@@ -1,183 +1,49 @@
-<svg width="700" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="gtin8Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="gtin12Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#f39c12;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#e67e22;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="gtin13Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#229954;stop-opacity:0.8" />
-    </linearGradient>
-    <linearGradient id="gtin14Gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="700" height="400" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <text x="350" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="400"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e74c3c;stop-opacity:.8"/><stop offset="100%" style="stop-color:#c0392b;stop-opacity:.8"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#f39c12;stop-opacity:.8"/><stop offset="100%" style="stop-color:#e67e22;stop-opacity:.8"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#27ae60;stop-opacity:.8"/><stop offset="100%" style="stop-color:#229954;stop-opacity:.8"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#9b59b6;stop-opacity:.8"/><stop offset="100%" style="stop-color:#8e44ad;stop-opacity:.8"/></linearGradient></defs><path fill="#f8f9fa" stroke="#dee2e6" stroke-width="2" d="M0 0h700v400H0z"/><text x="350" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     GTIN Formater og Anvendelse
-  </text>
-  
-
-  <g transform="translate(50, 60)">
-    <rect x="0" y="0" width="280" height="70" fill="url(#gtin8Gradient)" stroke="#c0392b" stroke-width="2" rx="5"/>
-    <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><g transform="translate(50 60)"><rect width="280" height="70" fill="url(#a)" stroke="#c0392b" stroke-width="2" rx="5"/><text x="140" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       GTIN-8
-    </text>
-    <text x="140" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="140" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       8 siffer - Små produkter
-    </text>
-    <text x="140" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="140" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Eksempel: 12345678
-    </text>
-  </g>
-  
-
-  <g transform="translate(370, 60)">
-    <rect x="0" y="0" width="280" height="70" fill="url(#gtin12Gradient)" stroke="#e67e22" stroke-width="2" rx="5"/>
-    <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(370 60)"><rect width="280" height="70" fill="url(#b)" stroke="#e67e22" stroke-width="2" rx="5"/><text x="140" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       GTIN-12 (UPC-A)
-    </text>
-    <text x="140" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="140" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       12 siffer - Nordamerikanske produkter
-    </text>
-    <text x="140" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="140" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Eksempel: 123456789012
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 150)">
-    <rect x="0" y="0" width="280" height="70" fill="url(#gtin13Gradient)" stroke="#229954" stroke-width="2" rx="5"/>
-    <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(50 150)"><rect width="280" height="70" fill="url(#c)" stroke="#229954" stroke-width="2" rx="5"/><text x="140" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       GTIN-13 (EAN-13)
-    </text>
-    <text x="140" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="140" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       13 siffer - Europeiske og globale produkter
-    </text>
-    <text x="140" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="140" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Eksempel: 7035620012345
-    </text>
-  </g>
-  
-
-  <g transform="translate(370, 150)">
-    <rect x="0" y="0" width="280" height="70" fill="url(#gtin14Gradient)" stroke="#8e44ad" stroke-width="2" rx="5"/>
-    <text x="140" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+    </text></g><g transform="translate(370 150)"><rect width="280" height="70" fill="url(#d)" stroke="#8e44ad" stroke-width="2" rx="5"/><text x="140" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
       GTIN-14
-    </text>
-    <text x="140" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    </text><text x="140" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
       14 siffer - Logistiske enheter
-    </text>
-    <text x="140" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    </text><text x="140" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
       Eksempel: 12345678901234
-    </text>
-  </g>
-  
-
-  <g transform="translate(50, 250)">
-    <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+    </text></g><text x="300" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" transform="translate(50 250)">
       Praktiske Anvendelser
-    </text>
-    
-
-    <g transform="translate(0, 30)">
-      <circle cx="10" cy="10" r="8" fill="#e74c3c"/>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+    </text><g transform="translate(50 280)"><circle cx="10" cy="10" r="8" fill="#e74c3c"/><text x="25" y="15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
         <tspan font-weight="bold">GTIN-8:</tspan> Leppestift, små kosmetikkprodukter, medisiner i små pakninger
-      </text>
-    </g>
-    
-
-    <g transform="translate(0, 55)">
-      <circle cx="10" cy="10" r="8" fill="#f39c12"/>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      </text></g><g transform="translate(50 305)"><circle cx="10" cy="10" r="8" fill="#f39c12"/><text x="25" y="15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
         <tspan font-weight="bold">GTIN-12:</tspan> Amerikanske produkter, import fra USA og Canada
-      </text>
-    </g>
-    
-
-    <g transform="translate(0, 80)">
-      <circle cx="10" cy="10" r="8" fill="#27ae60"/>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      </text></g><g transform="translate(50 330)"><circle cx="10" cy="10" r="8" fill="#27ae60"/><text x="25" y="15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
         <tspan font-weight="bold">GTIN-13:</tspan> Standard for europeiske produkter, mest brukt i Norge
-      </text>
-    </g>
-    
-
-    <g transform="translate(0, 105)">
-      <circle cx="10" cy="10" r="8" fill="#9b59b6"/>
-      <text x="25" y="15" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      </text></g><g transform="translate(50 355)"><circle cx="10" cy="10" r="8" fill="#9b59b6"/><text x="25" y="15" fill="#2c3e50" font-family="Arial, sans-serif" font-size="12">
         <tspan font-weight="bold">GTIN-14:</tspan> Multipakker, pallelaster, logistiske enheter
-      </text>
-    </g>
-  </g>
-  
-
-  <g transform="translate(400, 280)">
-    <text x="100" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+      </text></g><g transform="translate(400 280)"><text x="100" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Størrelsessammenligning
-    </text>
-    
-
-    <rect x="0" y="15" width="60" height="8" fill="#e74c3c" rx="2"/>
-    <text x="65" y="22" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">GTIN-8</text>
-    
-
-    <rect x="0" y="30" width="90" height="8" fill="#f39c12" rx="2"/>
-    <text x="95" y="37" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">GTIN-12</text>
-    
-
-    <rect x="0" y="45" width="100" height="8" fill="#27ae60" rx="2"/>
-    <text x="105" y="52" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">GTIN-13</text>
-    
-
-    <rect x="0" y="60" width="110" height="8" fill="#9b59b6" rx="2"/>
-    <text x="115" y="67" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">GTIN-14</text>
-  </g>
-  
-
-  <g transform="translate(50, 350)">
-    <text x="300" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+    </text><rect width="60" height="8" y="15" fill="#e74c3c" rx="2"/><text x="65" y="22" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">GTIN-8</text><rect width="90" height="8" y="30" fill="#f39c12" rx="2"/><text x="95" y="37" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">GTIN-12</text><rect width="100" height="8" y="45" fill="#27ae60" rx="2"/><text x="105" y="52" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">GTIN-13</text><rect width="110" height="8" y="60" fill="#9b59b6" rx="2"/><text x="115" y="67" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">GTIN-14</text></g><text x="300" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" transform="translate(50 350)">
       Regional Fordeling
-    </text>
-    
-    <g transform="translate(0, 15)">
-
-      <rect x="0" y="0" width="120" height="20" fill="#27ae60" opacity="0.7" rx="3"/>
-      <text x="60" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+    </text><g transform="translate(50 365)"><rect width="120" height="20" fill="#27ae60" opacity=".7" rx="3"/><text x="60" y="13" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         Europa: GTIN-13
-      </text>
-      
-
-      <rect x="130" y="0" width="120" height="20" fill="#f39c12" opacity="0.7" rx="3"/>
-      <text x="190" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><rect width="120" height="20" x="130" fill="#f39c12" opacity=".7" rx="3"/><text x="190" y="13" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         N-Amerika: GTIN-12
-      </text>
-      
-
-      <rect x="260" y="0" width="120" height="20" fill="#e74c3c" opacity="0.7" rx="3"/>
-      <text x="320" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><rect width="120" height="20" x="260" fill="#e74c3c" opacity=".7" rx="3"/><text x="320" y="13" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         Små prod.: GTIN-8
-      </text>
-      
-
-      <rect x="390" y="0" width="120" height="20" fill="#9b59b6" opacity="0.7" rx="3"/>
-      <text x="450" y="13" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white">
+      </text><rect width="120" height="20" x="390" fill="#9b59b6" opacity=".7" rx="3"/><text x="450" y="13" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">
         Logistikk: GTIN-14
-      </text>
-    </g>
-  </g>
-</svg>
+      </text></g></svg>

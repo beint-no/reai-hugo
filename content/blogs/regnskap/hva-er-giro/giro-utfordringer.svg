@@ -1,127 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-  <defs>
-    <linearGradient id="challengeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ee5a52;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4ecdc4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#44a08d;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="regGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#feca57;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ff9ff3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="marketGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#48dbfb;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0abde3;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1"/><stop offset="100%" style="stop-color:#ee5a52;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#4ecdc4;stop-opacity:1"/><stop offset="100%" style="stop-color:#44a08d;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#feca57;stop-opacity:1"/><stop offset="100%" style="stop-color:#ff9ff3;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#48dbfb;stop-opacity:1"/><stop offset="100%" style="stop-color:#0abde3;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Utfordringer med Giro-systemet
-  </text>
-  
-
-  <circle cx="400" cy="300" r="80" fill="url(#challengeGradient)" opacity="0.8"/>
-  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><circle cx="400" cy="300" r="80" fill="url(#a)" opacity=".8"/><text x="400" y="290" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     GIRO
-  </text>
-  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+  </text><text x="400" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     UTFORDRINGER
-  </text>
-  
-
-  <g transform="translate(150, 150)">
-    <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#techGradient)" opacity="0.9"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><g transform="translate(150 150)"><rect width="180" height="120" fill="url(#b)" opacity=".9" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Tekniske Utfordringer
-    </text>
-    <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Systemintegrasjon
-    </text>
-    <text x="10" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Skalering av volum
-    </text>
-    <text x="10" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Cybersikkerhet
-    </text>
-    <text x="10" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Høy oppetid
-    </text>
-    <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Standardisering
-    </text>
-  </g>
-  
-
-  <g transform="translate(470, 150)">
-    <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#regGradient)" opacity="0.9"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(470 150)"><rect width="180" height="120" fill="url(#c)" opacity=".9" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Regulatoriske Utfordringer
-    </text>
-    <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Compliance-krav
-    </text>
-    <text x="10" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Personvernlovgivning
-    </text>
-    <text x="10" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Internasjonale regler
-    </text>
-    <text x="10" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Rapporteringskrav
-    </text>
-    <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Regelverksendringer
-    </text>
-  </g>
-  
-
-  <g transform="translate(310, 430)">
-    <rect x="0" y="0" width="180" height="120" rx="10" fill="url(#marketGradient)" opacity="0.9"/>
-    <text x="90" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    </text></g><g transform="translate(310 430)"><rect width="180" height="120" fill="url(#d)" opacity=".9" rx="10"/><text x="90" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
       Markedsmessige Utfordringer
-    </text>
-    <text x="10" y="45" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="45" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Ny konkurranse
-    </text>
-    <text x="10" y="60" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="60" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Kundeforventninger
-    </text>
-    <text x="10" y="75" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="75" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Kostnadspress
-    </text>
-    <text x="10" y="90" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Rask innovasjon
-    </text>
-    <text x="10" y="105" font-family="Arial, sans-serif" font-size="11" fill="white">
+    </text><text x="10" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="11">
       • Teknologisk utvikling
-    </text>
-  </g>
-  
-
-  <line x1="330" y1="210" x2="370" y2="250" stroke="#34495e" stroke-width="2" opacity="0.6"/>
-  <line x1="470" y1="210" x2="430" y2="250" stroke="#34495e" stroke-width="2" opacity="0.6"/>
-  <line x1="400" y1="350" x2="400" y2="430" stroke="#34495e" stroke-width="2" opacity="0.6"/>
-  
-
-  <g transform="translate(120, 120)">
-    <polygon points="15,5 25,20 5,20" fill="#e74c3c"/>
-    <text x="15" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
-  </g>
-  
-  <g transform="translate(660, 120)">
-    <polygon points="15,5 25,20 5,20" fill="#e74c3c"/>
-    <text x="15" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
-  </g>
-  
-  <g transform="translate(500, 400)">
-    <polygon points="15,5 25,20 5,20" fill="#e74c3c"/>
-    <text x="15" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">!</text>
-  </g>
-</svg>
+    </text></g><path stroke="#34495e" stroke-width="2" d="m330 210 40 40M470 210l-40 40M400 350v80" opacity=".6"/><path fill="#e74c3c" d="m135 125 10 15h-20z"/><text x="15" y="17" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" transform="translate(120 120)">!</text><path fill="#e74c3c" d="m675 125 10 15h-20z"/><text x="15" y="17" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" transform="translate(660 120)">!</text><path fill="#e74c3c" d="m515 405 10 15h-20z"/><text x="15" y="17" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" transform="translate(500 400)">!</text></svg>

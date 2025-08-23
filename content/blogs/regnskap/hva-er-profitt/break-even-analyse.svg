@@ -1,232 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
-  <defs>
-    <linearGradient id="profitGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#E8F5E8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4CAF50;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="lossGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FFEBEE;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#F44336;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#e8f5e8;stop-opacity:1"/><stop offset="100%" style="stop-color:#4caf50;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ffebee;stop-opacity:1"/><stop offset="100%" style="stop-color:#f44336;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="25" fill="#2c3e50" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">
     Break-Even Analyse
-  </text>
-  
-
-  <rect x="80" y="50" width="500" height="300" fill="white" stroke="#ddd" stroke-width="1"/>
-  
-
-  <g stroke="#eee" stroke-width="1">
-
-    <line x1="80" y1="100" x2="580" y2="100"/>
-    <line x1="80" y1="150" x2="580" y2="150"/>
-    <line x1="80" y1="200" x2="580" y2="200"/>
-    <line x1="80" y1="250" x2="580" y2="250"/>
-    <line x1="80" y1="300" x2="580" y2="300"/>
-    
-
-    <line x1="130" y1="50" x2="130" y2="350"/>
-    <line x1="230" y1="50" x2="230" y2="350"/>
-    <line x1="330" y1="50" x2="330" y2="350"/>
-    <line x1="430" y1="50" x2="430" y2="350"/>
-    <line x1="530" y1="50" x2="530" y2="350"/>
-  </g>
-  
-
-  <line x1="80" y1="350" x2="580" y2="350" stroke="#333" stroke-width="2"/>
-  <line x1="80" y1="50" x2="80" y2="350" stroke="#333" stroke-width="2"/>
-  
-
-  <text x="330" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><path fill="#fff" stroke="#ddd" d="M80 50h500v300H80z"/><g stroke="#eee"><path d="M80 100h500M80 150h500M80 200h500M80 250h500M80 300h500M130 50v300M230 50v300M330 50v300M430 50v300M530 50v300"/></g><path stroke="#333" stroke-width="2" d="M80 350h500M80 50v300"/><text x="330" y="375" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Antall enheter
-  </text>
-  <text x="25" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333" transform="rotate(-90 25 200)">
+  </text><text x="25" y="200" fill="#333" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" transform="rotate(-90 25 200)">
     Kroner (1000)
-  </text>
-  
-
-  <text x="80" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">0</text>
-  <text x="180" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">2000</text>
-  <text x="280" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">4000</text>
-  <text x="380" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">6000</text>
-  <text x="480" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">8000</text>
-  <text x="580" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#666">10000</text>
-  
-  <text x="75" y="355" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">0</text>
-  <text x="75" y="305" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">500</text>
-  <text x="75" y="255" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">1000</text>
-  <text x="75" y="205" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">1500</text>
-  <text x="75" y="155" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">2000</text>
-  <text x="75" y="105" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">2500</text>
-  <text x="75" y="55" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#666">3000</text>
-  
-
-  <line x1="80" y1="250" x2="580" y2="250" stroke="#FF9800" stroke-width="3"/>
-  
-
-  <line x1="80" y1="250" x2="580" y2="50" stroke="#F44336" stroke-width="3"/>
-  
-
-  <line x1="80" y1="350" x2="580" y2="50" stroke="#4CAF50" stroke-width="3"/>
-  
-
-  <circle cx="330" cy="150" r="6" fill="#2196F3" stroke="white" stroke-width="2"/>
-  
-
-  <line x1="330" y1="150" x2="330" y2="350" stroke="#2196F3" stroke-width="2" stroke-dasharray="5,5"/>
-  
-
-  <path d="M330,150 L580,50 L580,350 L330,350 Z" fill="url(#profitGradient)" fill-opacity="0.3"/>
-  
-
-  <path d="M80,250 L330,150 L330,350 L80,350 Z" fill="url(#lossGradient)" fill-opacity="0.3"/>
-  
-
-  <text x="500" y="40" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#4CAF50">
+  </text><text x="80" y="365" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">0</text><text x="180" y="365" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">2000</text><text x="280" y="365" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">4000</text><text x="380" y="365" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">6000</text><text x="480" y="365" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">8000</text><text x="580" y="365" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">10000</text><text x="75" y="355" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="end">0</text><text x="75" y="305" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="end">500</text><text x="75" y="255" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="end">1000</text><text x="75" y="205" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="end">1500</text><text x="75" y="155" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="end">2000</text><text x="75" y="105" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="end">2500</text><text x="75" y="55" fill="#666" font-family="Arial, sans-serif" font-size="10" text-anchor="end">3000</text><path stroke="#ff9800" stroke-width="3" d="M80 250h500"/><path stroke="#f44336" stroke-width="3" d="M80 250 580 50"/><path stroke="#4caf50" stroke-width="3" d="M80 350 580 50"/><circle cx="330" cy="150" r="6" fill="#2196f3" stroke="#fff" stroke-width="2"/><path stroke="#2196f3" stroke-dasharray="5,5" stroke-width="2" d="M330 150v200"/><path fill="url(#a)" fill-opacity=".3" d="M330 150 580 50v300H330Z"/><path fill="url(#b)" fill-opacity=".3" d="m80 250 250-100v200H80Z"/><text x="500" y="40" fill="#4caf50" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Totale inntekter
-  </text>
-  <text x="500" y="60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#F44336">
+  </text><text x="500" y="60" fill="#f44336" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Totale kostnader
-  </text>
-  <text x="500" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FF9800">
+  </text><text x="500" y="260" fill="#ff9800" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Faste kostnader
-  </text>
-  
-
-  <text x="340" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2196F3">
+  </text><text x="340" y="140" fill="#2196f3" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Break-even punkt
-  </text>
-  <text x="340" y="130" font-family="Arial, sans-serif" font-size="10" fill="#2196F3">
+  </text><text x="340" y="130" fill="#2196f3" font-family="Arial, sans-serif" font-size="10">
     5000 enheter
-  </text>
-  
-
-  <text x="450" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4CAF50">
+  </text><text x="450" y="120" fill="#4caf50" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     PROFITT
-  </text>
-  <text x="200" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F44336">
+  </text><text x="200" y="280" fill="#f44336" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     TAP
-  </text>
-  
-
-  <rect x="600" y="50" width="180" height="300" rx="10" fill="#f8f9fa" stroke="#ddd" stroke-width="2"/>
-  <text x="690" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">
+  </text><rect width="180" height="300" x="600" y="50" fill="#f8f9fa" stroke="#ddd" stroke-width="2" rx="10"/><text x="690" y="75" fill="#2c3e50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Break-Even Beregning
-  </text>
-  
-
-  <text x="620" y="100" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+  </text><text x="620" y="100" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Grunnlagsdata:
-  </text>
-  <text x="620" y="115" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="620" y="115" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     Salgspris per enhet: 300 kr
-  </text>
-  <text x="620" y="130" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="620" y="130" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     Variable kostnader: 100 kr
-  </text>
-  <text x="620" y="145" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="620" y="145" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     Faste kostnader: 1.000.000 kr
-  </text>
-  
-
-  <line x1="620" y1="155" x2="760" y2="155" stroke="#ddd" stroke-width="1"/>
-  <text x="620" y="175" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2c3e50">
+  </text><path stroke="#ddd" d="M620 155h140"/><text x="620" y="175" fill="#2c3e50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Bidragsmargin per enhet:
-  </text>
-  <text x="620" y="190" font-family="Arial, sans-serif" font-size="10" fill="#2c3e50">
+  </text><text x="620" y="190" fill="#2c3e50" font-family="Arial, sans-serif" font-size="10">
     300 - 100 = 200 kr
-  </text>
-  
-  <text x="620" y="210" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2196F3">
+  </text><text x="620" y="210" fill="#2196f3" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Break-even (enheter):
-  </text>
-  <text x="620" y="225" font-family="Arial, sans-serif" font-size="10" fill="#2196F3">
+  </text><text x="620" y="225" fill="#2196f3" font-family="Arial, sans-serif" font-size="10">
     1.000.000 ÷ 200 = 5.000
-  </text>
-  
-  <text x="620" y="245" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2196F3">
+  </text><text x="620" y="245" fill="#2196f3" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Break-even (kroner):
-  </text>
-  <text x="620" y="260" font-family="Arial, sans-serif" font-size="10" fill="#2196F3">
+  </text><text x="620" y="260" fill="#2196f3" font-family="Arial, sans-serif" font-size="10">
     5.000 × 300 = 1.500.000
-  </text>
-  
-
-  <line x1="620" y1="275" x2="760" y2="275" stroke="#ddd" stroke-width="1"/>
-  <text x="620" y="295" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#4CAF50">
+  </text><path stroke="#ddd" d="M620 275h140"/><text x="620" y="295" fill="#4caf50" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Sikkerhetsmargin:
-  </text>
-  <text x="620" y="310" font-family="Arial, sans-serif" font-size="10" fill="#4CAF50">
+  </text><text x="620" y="310" fill="#4caf50" font-family="Arial, sans-serif" font-size="10">
     Ved salg 7.000 enheter:
-  </text>
-  <text x="620" y="325" font-family="Arial, sans-serif" font-size="10" fill="#4CAF50">
+  </text><text x="620" y="325" fill="#4caf50" font-family="Arial, sans-serif" font-size="10">
     (7.000 - 5.000) ÷ 7.000 = 28.6%
-  </text>
-  
-
-  <rect x="80" y="380" width="700" height="180" rx="10" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2"/>
-  <text x="430" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+  </text><rect width="700" height="180" x="80" y="380" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="430" y="405" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Nøkkelinnsikter fra Break-Even Analyse
-  </text>
-  
-
-  <text x="100" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><text x="100" y="430" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Risikostyring:
-  </text>
-  <text x="110" y="445" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="110" y="445" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Må selge minimum 5.000 enheter
-  </text>
-  <text x="110" y="460" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="110" y="460" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Ved færre salg = tap
-  </text>
-  <text x="110" y="475" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="110" y="475" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Sikkerhetsmargin bør være &gt; 20%
-  </text>
-  <text x="110" y="490" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="110" y="490" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Overvåk salgsutvikling nøye
-  </text>
-  
-  <text x="320" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><text x="320" y="430" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Prissetting:
-  </text>
-  <text x="330" y="445" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="330" y="445" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Høyere pris = lavere break-even
-  </text>
-  <text x="330" y="460" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="330" y="460" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • 10% prisøkning → 17% lavere BE
-  </text>
-  <text x="330" y="475" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="330" y="475" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Vurder premium strategi
-  </text>
-  <text x="330" y="490" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="330" y="490" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Test markedets pristoleranse
-  </text>
-  
-  <text x="540" y="430" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32">
+  </text><text x="540" y="430" fill="#2e7d32" font-family="Arial, sans-serif" font-size="12" font-weight="bold">
     Kostnadsoptimalisering:
-  </text>
-  <text x="550" y="445" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="550" y="445" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Reduser faste kostnader når mulig
-  </text>
-  <text x="550" y="460" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="550" y="460" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Automatiser for lavere variable kost.
-  </text>
-  <text x="550" y="475" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="550" y="475" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Forhandle bedre innkjøpspriser
-  </text>
-  <text x="550" y="490" font-family="Arial, sans-serif" font-size="10" fill="#2E7D32">
+  </text><text x="550" y="490" fill="#2e7d32" font-family="Arial, sans-serif" font-size="10">
     • Øk operasjonell effektivitet
-  </text>
-  
-
-  <rect x="200" y="520" width="400" height="30" rx="5" fill="#2196F3" stroke="#1565C0" stroke-width="2"/>
-  <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="400" height="30" x="200" y="520" fill="#2196f3" stroke="#1565c0" stroke-width="2" rx="5"/><text x="400" y="540" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Break-Even Formel: Faste Kostnader ÷ (Salgspris - Variable Kostnader)
-  </text>
-</svg>
+  </text></svg>

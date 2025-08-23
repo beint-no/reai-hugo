@@ -1,180 +1,79 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="800" height="500" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><path fill="#f8f9fa" d="M0 0h800v500H0z"/><text x="400" y="40" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Leasing Regnskapsføring (IFRS 16)
-  </text>
-  
-
-  <rect x="50" y="70" width="700" height="400" fill="white" stroke="#e1e8ed" stroke-width="2" rx="10"/>
-  
-
-  <text x="400" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#495057">
+  </text><rect width="700" height="400" x="50" y="70" fill="#fff" stroke="#e1e8ed" stroke-width="2" rx="10"/><text x="400" y="110" fill="#495057" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
     Leasingavtalens Livssyklus
-  </text>
-  
-
-  <line x1="100" y1="150" x2="700" y2="150" stroke="#3498db" stroke-width="3"/>
-  
-
-  <circle cx="150" cy="150" r="8" fill="#e74c3c"/>
-  <circle cx="350" cy="150" r="8" fill="#f39c12"/>
-  <circle cx="550" cy="150" r="8" fill="#27ae60"/>
-  <circle cx="650" cy="150" r="8" fill="#9b59b6"/>
-  
-
-  <text x="150" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#e74c3c">
+  </text><path stroke="#3498db" stroke-width="3" d="M100 150h600"/><circle cx="150" cy="150" r="8" fill="#e74c3c"/><circle cx="350" cy="150" r="8" fill="#f39c12"/><circle cx="550" cy="150" r="8" fill="#27ae60"/><circle cx="650" cy="150" r="8" fill="#9b59b6"/><text x="150" y="135" fill="#e74c3c" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Oppstart
-  </text>
-  <text x="350" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f39c12">
+  </text><text x="350" y="135" fill="#f39c12" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Løpende
-  </text>
-  <text x="550" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#27ae60">
+  </text><text x="550" y="135" fill="#27ae60" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Betaling
-  </text>
-  <text x="650" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#9b59b6">
+  </text><text x="650" y="135" fill="#9b59b6" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Avslutning
-  </text>
-  
-
-  <rect x="80" y="180" width="140" height="120" fill="#ffebee" stroke="#e74c3c" stroke-width="2" rx="5"/>
-  <text x="150" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
+  </text><rect width="140" height="120" x="80" y="180" fill="#ffebee" stroke="#e74c3c" stroke-width="2" rx="5"/><text x="150" y="205" fill="#e74c3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Oppstart Leasing
-  </text>
-  <text x="90" y="225" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">
+  </text><text x="90" y="225" fill="#333" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Regnskapsføring:
-  </text>
-  <text x="90" y="245" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="90" y="245" fill="#333" font-family="Arial, sans-serif" font-size="10">
     Debet: Bruksretteiendel
-  </text>
-  <text x="90" y="260" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="90" y="260" fill="#333" font-family="Arial, sans-serif" font-size="10">
     Kredit: Leasingforpliktelse
-  </text>
-  <text x="90" y="280" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="90" y="280" fill="#333" font-family="Arial, sans-serif" font-size="10">
     Beløp: Nåverdi av
-  </text>
-  <text x="90" y="295" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="90" y="295" fill="#333" font-family="Arial, sans-serif" font-size="10">
     fremtidige leasingbetalinger
-  </text>
-  
-
-  <rect x="280" y="180" width="140" height="120" fill="#fff3cd" stroke="#f39c12" stroke-width="2" rx="5"/>
-  <text x="350" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#856404">
+  </text><rect width="140" height="120" x="280" y="180" fill="#fff3cd" stroke="#f39c12" stroke-width="2" rx="5"/><text x="350" y="205" fill="#856404" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Løpende Måling
-  </text>
-  <text x="290" y="225" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">
+  </text><text x="290" y="225" fill="#333" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Månedlig:
-  </text>
-  <text x="290" y="245" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="290" y="245" fill="#333" font-family="Arial, sans-serif" font-size="10">
     1. Avskrivning av
-  </text>
-  <text x="290" y="260" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="290" y="260" fill="#333" font-family="Arial, sans-serif" font-size="10">
     bruksretteiendel
-  </text>
-  <text x="290" y="280" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="290" y="280" fill="#333" font-family="Arial, sans-serif" font-size="10">
     2. Rentekostnad på
-  </text>
-  <text x="290" y="295" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="290" y="295" fill="#333" font-family="Arial, sans-serif" font-size="10">
     leasingforpliktelse
-  </text>
-  
-
-  <rect x="480" y="180" width="140" height="120" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="5"/>
-  <text x="550" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
+  </text><rect width="140" height="120" x="480" y="180" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="5"/><text x="550" y="205" fill="#27ae60" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Leasingbetaling
-  </text>
-  <text x="490" y="225" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">
+  </text><text x="490" y="225" fill="#333" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Regnskapsføring:
-  </text>
-  <text x="490" y="245" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="490" y="245" fill="#333" font-family="Arial, sans-serif" font-size="10">
     Debet: Leasingforpliktelse
-  </text>
-  <text x="490" y="260" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="490" y="260" fill="#333" font-family="Arial, sans-serif" font-size="10">
     Kredit: Bank
-  </text>
-  <text x="490" y="280" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="490" y="280" fill="#333" font-family="Arial, sans-serif" font-size="10">
     Reduserer gjeld med
-  </text>
-  <text x="490" y="295" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="490" y="295" fill="#333" font-family="Arial, sans-serif" font-size="10">
     betalingsbeløp
-  </text>
-  
-
-  <rect x="580" y="180" width="140" height="120" fill="#f3e5f5" stroke="#9b59b6" stroke-width="2" rx="5"/>
-  <text x="650" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6a1b9a">
+  </text><rect width="140" height="120" x="580" y="180" fill="#f3e5f5" stroke="#9b59b6" stroke-width="2" rx="5"/><text x="650" y="205" fill="#6a1b9a" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Avslutning
-  </text>
-  <text x="590" y="225" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#333">
+  </text><text x="590" y="225" fill="#333" font-family="Arial, sans-serif" font-size="11" font-weight="bold">
     Ved utløp:
-  </text>
-  <text x="590" y="245" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="590" y="245" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Bruksretteiendel = 0
-  </text>
-  <text x="590" y="260" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="590" y="260" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Leasingforpliktelse = 0
-  </text>
-  <text x="590" y="280" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="590" y="280" fill="#333" font-family="Arial, sans-serif" font-size="10">
     • Eventuell kjøpsopsjon
-  </text>
-  <text x="590" y="295" font-family="Arial, sans-serif" font-size="10" fill="#333">
+  </text><text x="590" y="295" fill="#333" font-family="Arial, sans-serif" font-size="10">
     eller tilbakelevering
-  </text>
-  
-
-  <rect x="100" y="330" width="600" height="120" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="5"/>
-  <text x="400" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#495057">
+  </text><rect width="600" height="120" x="100" y="330" fill="#f8f9fa" stroke="#dee2e6" rx="5"/><text x="400" y="355" fill="#495057" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Påvirkning på Balansen
-  </text>
-  
-
-  <text x="120" y="380" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
+  </text><text x="120" y="380" fill="#27ae60" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     EIENDELER (Aktiva)
-  </text>
-  <text x="130" y="400" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="130" y="400" fill="#333" font-family="Arial, sans-serif" font-size="12">
     + Bruksretteiendel
-  </text>
-  <text x="130" y="415" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="130" y="415" fill="#333" font-family="Arial, sans-serif" font-size="12">
     - Akkumulerte avskrivninger
-  </text>
-  <text x="130" y="430" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="130" y="430" fill="#333" font-family="Arial, sans-serif" font-size="12">
     = Netto bruksretteiendel
-  </text>
-  
-
-  <text x="450" y="380" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
+  </text><text x="450" y="380" fill="#e74c3c" font-family="Arial, sans-serif" font-size="14" font-weight="bold">
     GJELD &amp; EGENKAPITAL
-  </text>
-  <text x="460" y="400" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="460" y="400" fill="#333" font-family="Arial, sans-serif" font-size="12">
     + Kortsiktig leasingforpliktelse
-  </text>
-  <text x="460" y="415" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="460" y="415" fill="#333" font-family="Arial, sans-serif" font-size="12">
     + Langsiktig leasingforpliktelse
-  </text>
-  <text x="460" y="430" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="460" y="430" fill="#333" font-family="Arial, sans-serif" font-size="12">
     = Total leasingforpliktelse
-  </text>
-  
-
-  <path d="M 150 170 L 150 180" stroke="#e74c3c" stroke-width="2" fill="none" marker-end="url(#arrowhead1)"/>
-  <path d="M 350 170 L 350 180" stroke="#f39c12" stroke-width="2" fill="none" marker-end="url(#arrowhead2)"/>
-  <path d="M 550 170 L 550 180" stroke="#27ae60" stroke-width="2" fill="none" marker-end="url(#arrowhead3)"/>
-  <path d="M 650 170 L 650 180" stroke="#9b59b6" stroke-width="2" fill="none" marker-end="url(#arrowhead4)"/>
-  
-
-  <defs>
-    <marker id="arrowhead1" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
-    </marker>
-    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#f39c12"/>
-    </marker>
-    <marker id="arrowhead3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#27ae60"/>
-    </marker>
-    <marker id="arrowhead4" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#9b59b6"/>
-    </marker>
-  </defs>
-</svg>
+  </text><path fill="none" stroke="#e74c3c" stroke-width="2" marker-end="url(#a)" d="M150 170v10"/><path fill="none" stroke="#f39c12" stroke-width="2" marker-end="url(#b)" d="M350 170v10"/><path fill="none" stroke="#27ae60" stroke-width="2" marker-end="url(#c)" d="M550 170v10"/><path fill="none" stroke="#9b59b6" stroke-width="2" marker-end="url(#d)" d="M650 170v10"/><defs><marker id="a" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#e74c3c" d="m0 0 10 3.5L0 7z"/></marker><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#f39c12" d="m0 0 10 3.5L0 7z"/></marker><marker id="c" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#27ae60" d="m0 0 10 3.5L0 7z"/></marker><marker id="d" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#9b59b6" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

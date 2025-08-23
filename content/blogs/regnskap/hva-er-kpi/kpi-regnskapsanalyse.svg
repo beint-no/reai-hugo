@@ -1,185 +1,47 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgAnalyse" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="chartGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#007bff;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#0056b3;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="500" fill="url(#bgAnalyse)" stroke="#dee2e6" stroke-width="2"/>
-  
-
-  <rect x="0" y="0" width="800" height="60" fill="#343a40"/>
-  <text x="400" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/><stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1"/></linearGradient></defs><path fill="url(#a)" stroke="#dee2e6" stroke-width="2" d="M0 0h800v500H0z"/><path fill="#343a40" d="M0 0h800v60H0z"/><text x="400" y="35" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     KPI-er i Regnskapsanalyse
-  </text>
-  
-
-  <rect x="50" y="80" width="200" height="150" fill="white" stroke="#28a745" stroke-width="2" rx="10"/>
-  <text x="150" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#28a745">
+  </text><rect width="200" height="150" x="50" y="80" fill="#fff" stroke="#28a745" stroke-width="2" rx="10"/><text x="150" y="105" fill="#28a745" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     FINANSREGNSKAP
-  </text>
-  
-
-  <rect x="70" y="120" width="160" height="25" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="3"/>
-  <text x="150" y="137" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e7e34">
+  </text><rect width="160" height="25" x="70" y="120" fill="#e8f5e8" stroke="#28a745" rx="3"/><text x="150" y="137" fill="#1e7e34" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Balanse
-  </text>
-  
-
-  <rect x="70" y="150" width="160" height="25" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="3"/>
-  <text x="150" y="167" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e7e34">
+  </text><rect width="160" height="25" x="70" y="150" fill="#e8f5e8" stroke="#28a745" rx="3"/><text x="150" y="167" fill="#1e7e34" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Resultatregnskap
-  </text>
-  
-
-  <rect x="70" y="180" width="160" height="25" fill="#e8f5e8" stroke="#28a745" stroke-width="1" rx="3"/>
-  <text x="150" y="197" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e7e34">
+  </text><rect width="160" height="25" x="70" y="180" fill="#e8f5e8" stroke="#28a745" rx="3"/><text x="150" y="197" fill="#1e7e34" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Kontantstrømoppstilling
-  </text>
-  
-
-  <path d="M 250 155 L 300 155" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="320" y="80" width="200" height="350" fill="white" stroke="#007bff" stroke-width="2" rx="10"/>
-  <text x="420" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#007bff">
+  </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#b)" d="M250 155h50"/><rect width="200" height="350" x="320" y="80" fill="#fff" stroke="#007bff" stroke-width="2" rx="10"/><text x="420" y="105" fill="#007bff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     KPI BEREGNINGER
-  </text>
-  
-
-  <text x="420" y="130" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><text x="420" y="130" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Lønnsomhet
-  </text>
-  
-  <rect x="340" y="140" width="160" height="20" fill="#e3f2fd" rx="3"/>
-  <text x="420" y="153" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0056b3">
+  </text><rect width="160" height="20" x="340" y="140" fill="#e3f2fd" rx="3"/><text x="420" y="153" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     ROE = Årsresultat / Egenkapital
-  </text>
-  
-  <rect x="340" y="165" width="160" height="20" fill="#e3f2fd" rx="3"/>
-  <text x="420" y="178" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0056b3">
+  </text><rect width="160" height="20" x="340" y="165" fill="#e3f2fd" rx="3"/><text x="420" y="178" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Bruttomargin = (Innt-Kost)/Innt
-  </text>
-  
-
-  <text x="420" y="205" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><text x="420" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Likviditet
-  </text>
-  
-  <rect x="340" y="215" width="160" height="20" fill="#e3f2fd" rx="3"/>
-  <text x="420" y="228" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0056b3">
+  </text><rect width="160" height="20" x="340" y="215" fill="#e3f2fd" rx="3"/><text x="420" y="228" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Likv.grad 1 = Omløp/Kort.gjeld
-  </text>
-  
-  <rect x="340" y="240" width="160" height="20" fill="#e3f2fd" rx="3"/>
-  <text x="420" y="253" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0056b3">
+  </text><rect width="160" height="20" x="340" y="240" fill="#e3f2fd" rx="3"/><text x="420" y="253" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Arbeidskapital = Omløp-Kort.gjeld
-  </text>
-  
-
-  <text x="420" y="280" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><text x="420" y="280" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Effektivitet
-  </text>
-  
-  <rect x="340" y="290" width="160" height="20" fill="#e3f2fd" rx="3"/>
-  <text x="420" y="303" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0056b3">
+  </text><rect width="160" height="20" x="340" y="290" fill="#e3f2fd" rx="3"/><text x="420" y="303" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Aktivaomsetn. = Innt/Aktiva
-  </text>
-  
-  <rect x="340" y="315" width="160" height="20" fill="#e3f2fd" rx="3"/>
-  <text x="420" y="328" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0056b3">
+  </text><rect width="160" height="20" x="340" y="315" fill="#e3f2fd" rx="3"/><text x="420" y="328" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Debitoromløp = Salg/Debitor
-  </text>
-  
-
-  <text x="420" y="355" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><text x="420" y="355" fill="#495057" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Soliditet
-  </text>
-  
-  <rect x="340" y="365" width="160" height="20" fill="#e3f2fd" rx="3"/>
-  <text x="420" y="378" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0056b3">
+  </text><rect width="160" height="20" x="340" y="365" fill="#e3f2fd" rx="3"/><text x="420" y="378" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Gjeldsgrad = Gjeld/Aktiva
-  </text>
-  
-  <rect x="340" y="390" width="160" height="20" fill="#e3f2fd" rx="3"/>
-  <text x="420" y="403" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#0056b3">
+  </text><rect width="160" height="20" x="340" y="390" fill="#e3f2fd" rx="3"/><text x="420" y="403" fill="#0056b3" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">
     Egenkapitalandel = EK/Aktiva
-  </text>
-  
-
-  <path d="M 520 255 L 570 255" stroke="#6c757d" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
-  
-
-  <rect x="590" y="80" width="160" height="350" fill="white" stroke="#ffc107" stroke-width="2" rx="10"/>
-  <text x="670" y="105" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#e0a800">
+  </text><path fill="none" stroke="#6c757d" stroke-width="3" marker-end="url(#b)" d="M520 255h50"/><rect width="160" height="350" x="590" y="80" fill="#fff" stroke="#ffc107" stroke-width="2" rx="10"/><text x="670" y="105" fill="#e0a800" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     ANALYSE
-  </text>
-  
-
-  <circle cx="620" cy="130" r="8" fill="#28a745"/>
-  <text x="640" y="135" font-family="Arial, sans-serif" font-size="11" fill="#495057">ROE: 18.5%</text>
-  <text x="640" y="147" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Meget god</text>
-  
-  <circle cx="620" cy="165" r="8" fill="#ffc107"/>
-  <text x="640" y="170" font-family="Arial, sans-serif" font-size="11" fill="#495057">Likv: 1.8</text>
-  <text x="640" y="182" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Akseptabel</text>
-  
-  <circle cx="620" cy="200" r="8" fill="#dc3545"/>
-  <text x="640" y="205" font-family="Arial, sans-serif" font-size="11" fill="#495057">Gjeld: 0.65</text>
-  <text x="640" y="217" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">Høy risiko</text>
-  
-  <circle cx="620" cy="235" r="8" fill="#28a745"/>
-  <text x="640" y="240" font-family="Arial, sans-serif" font-size="11" fill="#495057">Margin: 23%</text>
-  <text x="640" y="252" font-family="Arial, sans-serif" font-size="9" fill="#6c757d">God</text>
-  
-
-  <text x="670" y="280" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><circle cx="620" cy="130" r="8" fill="#28a745"/><text x="640" y="135" fill="#495057" font-family="Arial, sans-serif" font-size="11">ROE: 18.5%</text><text x="640" y="147" fill="#6c757d" font-family="Arial, sans-serif" font-size="9">Meget god</text><circle cx="620" cy="165" r="8" fill="#ffc107"/><text x="640" y="170" fill="#495057" font-family="Arial, sans-serif" font-size="11">Likv: 1.8</text><text x="640" y="182" fill="#6c757d" font-family="Arial, sans-serif" font-size="9">Akseptabel</text><circle cx="620" cy="200" r="8" fill="#dc3545"/><text x="640" y="205" fill="#495057" font-family="Arial, sans-serif" font-size="11">Gjeld: 0.65</text><text x="640" y="217" fill="#6c757d" font-family="Arial, sans-serif" font-size="9">Høy risiko</text><circle cx="620" cy="235" r="8" fill="#28a745"/><text x="640" y="240" fill="#495057" font-family="Arial, sans-serif" font-size="11">Margin: 23%</text><text x="640" y="252" fill="#6c757d" font-family="Arial, sans-serif" font-size="9">God</text><text x="670" y="280" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Trendanalyse
-  </text>
-  
-
-  <rect x="610" y="290" width="120" height="60" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="3"/>
-  
-
-  <polyline points="620,340 640,330 660,325 680,320 700,315 720,310" 
-            fill="none" stroke="#28a745" stroke-width="2"/>
-  
-
-  <circle cx="620" cy="340" r="2" fill="#28a745"/>
-  <circle cx="640" cy="330" r="2" fill="#28a745"/>
-  <circle cx="660" cy="325" r="2" fill="#28a745"/>
-  <circle cx="680" cy="320" r="2" fill="#28a745"/>
-  <circle cx="700" cy="315" r="2" fill="#28a745"/>
-  <circle cx="720" cy="310" r="2" fill="#28a745"/>
-  
-  <text x="670" y="365" font-family="Arial, sans-serif" font-size="9" text-anchor="middle" fill="#6c757d">
+  </text><rect width="120" height="60" x="610" y="290" fill="#f8f9fa" stroke="#dee2e6" rx="3"/><path fill="none" stroke="#28a745" stroke-width="2" d="m620 340 20-10 20-5 20-5 20-5 20-5"/><circle cx="620" cy="340" r="2" fill="#28a745"/><circle cx="640" cy="330" r="2" fill="#28a745"/><circle cx="660" cy="325" r="2" fill="#28a745"/><circle cx="680" cy="320" r="2" fill="#28a745"/><circle cx="700" cy="315" r="2" fill="#28a745"/><circle cx="720" cy="310" r="2" fill="#28a745"/><text x="670" y="365" fill="#6c757d" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">
     Positiv utvikling
-  </text>
-  
-
-  <text x="670" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#495057">
+  </text><text x="670" y="390" fill="#495057" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">
     Anbefalinger
-  </text>
-  
-  <text x="610" y="405" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Reduser gjeldsgrad</text>
-  <text x="610" y="418" font-family="Arial, sans-serif" font-size="9" fill="#495057">• Forbedre likviditet</text>
-  
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
-            refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6c757d" />
-    </marker>
-  </defs>
-  
-
-  <text x="400" y="470" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6c757d">
+  </text><text x="610" y="405" fill="#495057" font-family="Arial, sans-serif" font-size="9">• Reduser gjeldsgrad</text><text x="610" y="418" fill="#495057" font-family="Arial, sans-serif" font-size="9">• Forbedre likviditet</text><defs><marker id="b" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#6c757d" d="m0 0 10 3.5L0 7z"/></marker></defs><text x="400" y="470" fill="#6c757d" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">
     Regnskapsdata transformeres til KPI-er som gir innsikt i bedriftens prestasjon
-  </text>
-</svg>
+  </text></svg>

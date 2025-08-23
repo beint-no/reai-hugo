@@ -1,195 +1,69 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="erpGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3F51B5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#5C6BC0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="accountingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#66BB6A;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="specializedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FFB74D;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="apiGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#BA68C8;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="benefitsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="800" height="600" fill="#f8f9fa"/>
-  
-
-  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#3f51b5;stop-opacity:1"/><stop offset="100%" style="stop-color:#5c6bc0;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#4caf50;stop-opacity:1"/><stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#ff9800;stop-opacity:1"/><stop offset="100%" style="stop-color:#ffb74d;stop-opacity:1"/></linearGradient><linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#9c27b0;stop-opacity:1"/><stop offset="100%" style="stop-color:#ba68c8;stop-opacity:1"/></linearGradient><linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#2196f3;stop-opacity:1"/><stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h800v600H0z"/><text x="400" y="30" fill="#333" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     Digitale Kontantstrømverktøy
-  </text>
-  
-
-  <rect x="50" y="70" width="340" height="120" fill="url(#erpGradient)" rx="15" opacity="0.1"/>
-  <rect x="60" y="80" width="320" height="30" fill="url(#erpGradient)" rx="5"/>
-  <text x="220" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="120" x="50" y="70" fill="url(#a)" opacity=".1" rx="15"/><rect width="320" height="30" x="60" y="80" fill="url(#a)" rx="5"/><text x="220" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     1. ERP-SYSTEMER
-  </text>
-  
-
-  <text x="70" y="130" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="130" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Integrert kontantstrømrapportering
-  </text>
-  <text x="70" y="145" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="145" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Automatisk oppdatering fra alle moduler
-  </text>
-  <text x="70" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="160" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Sanntids kontantposisjon
-  </text>
-  <text x="70" y="175" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="175" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Helhetlig oversikt over bedriftens økonomi
-  </text>
-  
-
-  <rect x="410" y="70" width="340" height="120" fill="url(#accountingGradient)" rx="15" opacity="0.1"/>
-  <rect x="420" y="80" width="320" height="30" fill="url(#accountingGradient)" rx="5"/>
-  <text x="580" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="120" x="410" y="70" fill="url(#b)" opacity=".1" rx="15"/><rect width="320" height="30" x="420" y="80" fill="url(#b)" rx="5"/><text x="580" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     2. REGNSKAPSSYSTEMER
-  </text>
-  
-
-  <text x="430" y="130" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="130" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Automatisk kontantstrømoppstilling
-  </text>
-  <text x="430" y="145" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="145" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Integrering med bankkontoer
-  </text>
-  <text x="430" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="160" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Prognosefunksjonalitet
-  </text>
-  <text x="430" y="175" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="175" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Standardiserte rapporter og analyser
-  </text>
-  
-
-  <rect x="50" y="210" width="340" height="120" fill="url(#specializedGradient)" rx="15" opacity="0.1"/>
-  <rect x="60" y="220" width="320" height="30" fill="url(#specializedGradient)" rx="5"/>
-  <text x="220" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="120" x="50" y="210" fill="url(#c)" opacity=".1" rx="15"/><rect width="320" height="30" x="60" y="220" fill="url(#c)" rx="5"/><text x="220" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     3. SPESIALISERTE VERKTØY
-  </text>
-  
-
-  <text x="70" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="270" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Avanserte prognosealgoritmeer
-  </text>
-  <text x="70" y="285" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="285" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Scenarioanalyse og stresstesting
-  </text>
-  <text x="70" y="300" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="300" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Risikostyring og varslingssystemer
-  </text>
-  <text x="70" y="315" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="315" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Avanserte dashboards og visualisering
-  </text>
-  
-
-  <rect x="410" y="210" width="340" height="120" fill="url(#apiGradient)" rx="15" opacity="0.1"/>
-  <rect x="420" y="220" width="320" height="30" fill="url(#apiGradient)" rx="5"/>
-  <text x="580" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="340" height="120" x="410" y="210" fill="url(#d)" opacity=".1" rx="15"/><rect width="320" height="30" x="420" y="220" fill="url(#d)" rx="5"/><text x="580" y="240" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     4. API-INTEGRASJONER
-  </text>
-  
-
-  <text x="430" y="270" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="270" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Automatisk datainnhenting fra banker
-  </text>
-  <text x="430" y="285" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="285" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Integrasjon med kundesystemer
-  </text>
-  <text x="430" y="300" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="300" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Sanntids oppdateringer
-  </text>
-  <text x="430" y="315" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="430" y="315" fill="#333" font-family="Arial, sans-serif" font-size="12">
     • Automatiserte arbeidsflyter
-  </text>
-  
-
-  <rect x="50" y="350" width="700" height="140" fill="url(#benefitsGradient)" rx="15"/>
-  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="700" height="140" x="50" y="350" fill="url(#e)" rx="15"/><text x="400" y="380" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     FORDELER MED DIGITALISERING
-  </text>
-  
-
-  <rect x="80" y="400" width="300" height="70" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="230" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="300" height="70" x="80" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="230" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Effektivitet og Nøyaktighet
-  </text>
-  <text x="90" y="440" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Sanntids innsikt i kontantposisjon
-  </text>
-  <text x="90" y="455" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="90" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Redusert manuelt arbeid og feilrisiko
-  </text>
-  
-  <rect x="400" y="400" width="300" height="70" fill="rgba(255,255,255,0.2)" rx="8"/>
-  <text x="550" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="300" height="70" x="400" y="400" fill="rgba(255,255,255,0.2)" rx="8"/><text x="550" y="420" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Automatisering og Integrasjon
-  </text>
-  <text x="410" y="440" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="410" y="440" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Automatiserte prognoser basert på data
-  </text>
-  <text x="410" y="455" font-family="Arial, sans-serif" font-size="11" fill="white">
+  </text><text x="410" y="455" fill="#fff" font-family="Arial, sans-serif" font-size="11">
     • Integrerte rapporter på tvers av systemer
-  </text>
-  
-
-  <rect x="50" y="510" width="700" height="70" fill="#e8f5e8" stroke="#4CAF50" stroke-width="2" rx="10"/>
-  <text x="400" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2E7D32">
+  </text><rect width="700" height="70" x="50" y="510" fill="#e8f5e8" stroke="#4caf50" stroke-width="2" rx="10"/><text x="400" y="535" fill="#2e7d32" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Implementeringsprosess
-  </text>
-  <text x="70" y="555" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="555" fill="#333" font-family="Arial, sans-serif" font-size="12">
     1. <tspan font-weight="bold">Behovsanalyse:</tspan> Kartlegg nåværende prosesser og identifiser forbedringspotensial
-  </text>
-  <text x="70" y="570" font-family="Arial, sans-serif" font-size="12" fill="#333">
+  </text><text x="70" y="570" fill="#333" font-family="Arial, sans-serif" font-size="12">
     2. <tspan font-weight="bold">Systemvalg:</tspan> Velg verktøy basert på bedriftens størrelse, kompleksitet og budsjett
-  </text>
-  
-
-  <circle cx="220" cy="50" r="15" fill="#3F51B5"/>
-  <text x="220" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">💻</text>
-  
-  <circle cx="580" cy="50" r="15" fill="#4CAF50"/>
-  <text x="580" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">📊</text>
-  
-  <circle cx="220" cy="190" r="15" fill="#FF9800"/>
-  <text x="220" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">🔧</text>
-  
-  <circle cx="580" cy="190" r="15" fill="#9C27B0"/>
-  <text x="580" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">🔗</text>
-  
-
-  <path d="M 220 330 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
-  <path d="M 580 330 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
-  <path d="M 220 190 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
-  <path d="M 580 190 L 400 350" stroke="#2196F3" stroke-width="2" fill="none" marker-end="url(#arrowBlue)"/>
-  
-
-  <rect x="420" y="510" width="330" height="70" fill="#fff3e0" stroke="#FF9800" stroke-width="2" rx="10"/>
-  <text x="585" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E65100">
+  </text><circle cx="220" cy="50" r="15" fill="#3f51b5"/><text x="220" y="58" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">💻</text><circle cx="580" cy="50" r="15" fill="#4caf50"/><text x="580" y="58" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">📊</text><circle cx="220" cy="190" r="15" fill="#ff9800"/><text x="220" y="198" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🔧</text><circle cx="580" cy="190" r="15" fill="#9c27b0"/><text x="580" y="198" fill="#fff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">🔗</text><path fill="none" stroke="#2196f3" stroke-width="2" marker-end="url(#f)" d="m220 330 180 20"/><path fill="none" stroke="#2196f3" stroke-width="2" marker-end="url(#f)" d="m580 330-180 20"/><path fill="none" stroke="#2196f3" stroke-width="2" marker-end="url(#f)" d="m220 190 180 160"/><path fill="none" stroke="#2196f3" stroke-width="2" marker-end="url(#f)" d="M580 190 400 350"/><rect width="330" height="70" x="420" y="510" fill="#fff3e0" stroke="#ff9800" stroke-width="2" rx="10"/><text x="585" y="535" fill="#e65100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Viktige Suksessfaktorer
-  </text>
-  <text x="430" y="555" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="430" y="555" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Opplæring av ansatte i nye systemer
-  </text>
-  <text x="430" y="570" font-family="Arial, sans-serif" font-size="11" fill="#333">
+  </text><text x="430" y="570" fill="#333" font-family="Arial, sans-serif" font-size="11">
     • Gradvis implementering og testing av funksjoner
-  </text>
-  
-
-  <defs>
-    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2196F3"/>
-    </marker>
-  </defs>
-</svg>
+  </text><defs><marker id="f" markerHeight="7" markerWidth="10" orient="auto" refX="9" refY="3.5"><path fill="#2196f3" d="m0 0 10 3.5L0 7z"/></marker></defs></svg>

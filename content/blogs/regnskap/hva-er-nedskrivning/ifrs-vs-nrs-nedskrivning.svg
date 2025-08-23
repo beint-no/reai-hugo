@@ -1,159 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
-  <defs>
-    <linearGradient id="ifrsGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1976D2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="nrsGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#D32F2F;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#EF5350;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="comparisonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#388E3C;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#66BB6A;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-
-  <rect width="900" height="650" fill="#f8f9fa"/>
-  
-
-  <text x="450" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c3e50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650"><defs><linearGradient id="a" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#1976d2;stop-opacity:1"/><stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1"/></linearGradient><linearGradient id="b" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#d32f2f;stop-opacity:1"/><stop offset="100%" style="stop-color:#ef5350;stop-opacity:1"/></linearGradient><linearGradient id="c" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" style="stop-color:#388e3c;stop-opacity:1"/><stop offset="100%" style="stop-color:#66bb6a;stop-opacity:1"/></linearGradient></defs><path fill="#f8f9fa" d="M0 0h900v650H0z"/><text x="450" y="30" fill="#2c3e50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">
     IFRS vs. Norske Regnskapsregler (NRS) - Nedskrivning
-  </text>
-  
-
-  <rect x="50" y="70" width="350" height="50" rx="10" fill="url(#ifrsGradient)" stroke="#1976D2" stroke-width="2"/>
-  <text x="225" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="350" height="50" x="50" y="70" fill="url(#a)" stroke="#1976d2" stroke-width="2" rx="10"/><text x="225" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     IFRS (IAS 36)
-  </text>
-  
-
-  <rect x="500" y="70" width="350" height="50" rx="10" fill="url(#nrsGradient)" stroke="#D32F2F" stroke-width="2"/>
-  <text x="675" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+  </text><rect width="350" height="50" x="500" y="70" fill="url(#b)" stroke="#d32f2f" stroke-width="2" rx="10"/><text x="675" y="100" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">
     Norske Regler (NRS)
-  </text>
-  
-
-  <text x="50" y="160" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><text x="50" y="160" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Testfrekvens
-  </text>
-  
-  <rect x="50" y="170" width="350" height="80" rx="5" fill="#E3F2FD" stroke="#1976D2" stroke-width="1"/>
-  <text x="225" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+  </text><rect width="350" height="80" x="50" y="170" fill="#e3f2fd" stroke="#1976d2" rx="5"/><text x="225" y="195" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Årlig test påkrevd
-  </text>
-  <text x="225" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976D2">
+  </text><text x="225" y="215" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Goodwill må testes årlig
-  </text>
-  <text x="225" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976D2">
+  </text><text x="225" y="235" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Immaterielle eiendeler med ubestemt levetid
-  </text>
-  
-  <rect x="500" y="170" width="350" height="80" rx="5" fill="#FFEBEE" stroke="#D32F2F" stroke-width="1"/>
-  <text x="675" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#D32F2F">
+  </text><rect width="350" height="80" x="500" y="170" fill="#ffebee" stroke="#d32f2f" rx="5"/><text x="675" y="195" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Når indikasjoner foreligger
-  </text>
-  <text x="675" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#D32F2F">
+  </text><text x="675" y="215" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Test kun når det er indikasjoner på verdifall
-  </text>
-  <text x="675" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#D32F2F">
+  </text><text x="675" y="235" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Mer fleksibel tilnærming
-  </text>
-  
-
-  <text x="50" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><text x="50" y="280" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Reversering
-  </text>
-  
-  <rect x="50" y="290" width="350" height="80" rx="5" fill="#E3F2FD" stroke="#1976D2" stroke-width="1"/>
-  <text x="225" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+  </text><rect width="350" height="80" x="50" y="290" fill="#e3f2fd" stroke="#1976d2" rx="5"/><text x="225" y="315" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Tillatt (unntatt goodwill)
-  </text>
-  <text x="225" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976D2">
+  </text><text x="225" y="335" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Klare regler for reversering
-  </text>
-  <text x="225" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976D2">
+  </text><text x="225" y="355" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Goodwill kan aldri reverseres
-  </text>
-  
-  <rect x="500" y="290" width="350" height="80" rx="5" fill="#FFEBEE" stroke="#D32F2F" stroke-width="1"/>
-  <text x="675" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#D32F2F">
+  </text><rect width="350" height="80" x="500" y="290" fill="#ffebee" stroke="#d32f2f" rx="5"/><text x="675" y="315" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Tillatt med begrensninger
-  </text>
-  <text x="675" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#D32F2F">
+  </text><text x="675" y="335" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Strengere krav til dokumentasjon
-  </text>
-  <text x="675" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#D32F2F">
+  </text><text x="675" y="355" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Konservativ tilnærming
-  </text>
-  
-
-  <text x="50" y="400" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><text x="50" y="400" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Diskonteringsrente
-  </text>
-  
-  <rect x="50" y="410" width="350" height="80" rx="5" fill="#E3F2FD" stroke="#1976D2" stroke-width="1"/>
-  <text x="225" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+  </text><rect width="350" height="80" x="50" y="410" fill="#e3f2fd" stroke="#1976d2" rx="5"/><text x="225" y="435" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Spesifikke krav
-  </text>
-  <text x="225" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976D2">
+  </text><text x="225" y="455" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Detaljerte retningslinjer
-  </text>
-  <text x="225" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976D2">
+  </text><text x="225" y="475" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Før-skatt diskonteringsrente
-  </text>
-  
-  <rect x="500" y="410" width="350" height="80" rx="5" fill="#FFEBEE" stroke="#D32F2F" stroke-width="1"/>
-  <text x="675" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#D32F2F">
+  </text><rect width="350" height="80" x="500" y="410" fill="#ffebee" stroke="#d32f2f" rx="5"/><text x="675" y="435" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Mer fleksibel tilnærming
-  </text>
-  <text x="675" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#D32F2F">
+  </text><text x="675" y="455" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Mindre detaljerte krav
-  </text>
-  <text x="675" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#D32F2F">
+  </text><text x="675" y="475" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Profesjonell vurdering
-  </text>
-  
-
-  <text x="50" y="520" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2c3e50">
+  </text><text x="50" y="520" fill="#2c3e50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
     Kontantgenererende Enheter (CGU)
-  </text>
-  
-  <rect x="50" y="530" width="350" height="80" rx="5" fill="#E3F2FD" stroke="#1976D2" stroke-width="1"/>
-  <text x="225" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1976D2">
+  </text><rect width="350" height="80" x="50" y="530" fill="#e3f2fd" stroke="#1976d2" rx="5"/><text x="225" y="555" fill="#1976d2" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Detaljerte regler
-  </text>
-  <text x="225" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976D2">
+  </text><text x="225" y="575" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Spesifikke kriterier for identifikasjon
-  </text>
-  <text x="225" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1976D2">
+  </text><text x="225" y="595" fill="#1976d2" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Komplekse allokeringsregler
-  </text>
-  
-  <rect x="500" y="530" width="350" height="80" rx="5" fill="#FFEBEE" stroke="#D32F2F" stroke-width="1"/>
-  <text x="675" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#D32F2F">
+  </text><rect width="350" height="80" x="500" y="530" fill="#ffebee" stroke="#d32f2f" rx="5"/><text x="675" y="555" fill="#d32f2f" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Enklere tilnærming
-  </text>
-  <text x="675" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#D32F2F">
+  </text><text x="675" y="575" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Mindre komplekse regler
-  </text>
-  <text x="675" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#D32F2F">
+  </text><text x="675" y="595" fill="#d32f2f" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     • Praktisk tilnærming
-  </text>
-  
-
-  <rect x="200" y="140" width="500" height="60" rx="10" fill="url(#comparisonGradient)" stroke="#388E3C" stroke-width="2"/>
-  <text x="450" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">
+  </text><rect width="500" height="60" x="200" y="140" fill="url(#c)" stroke="#388e3c" stroke-width="2" rx="10"/><text x="450" y="165" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">
     Overgang til IFRS
-  </text>
-  <text x="450" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+  </text><text x="450" y="185" fill="#fff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
     Bedrifter må revurdere alle tidligere nedskrivninger og justere åpningsbalansen
-  </text>
-  
-
-  <rect x="50" y="620" width="800" height="25" rx="5" fill="#34495e"/>
-  <text x="450" y="638" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+  </text><rect width="800" height="25" x="50" y="620" fill="#34495e" rx="5"/><text x="450" y="638" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
     Hovedforskjell: IFRS er mer detaljert og krever hyppigere testing, NRS er mer fleksibel og praktisk orientert
-  </text>
-</svg>
+  </text></svg>

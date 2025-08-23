@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120">
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#333"/>
-    </marker>
-  </defs>
-  <rect x="10" y="40" width="160" height="40" fill="#f8f9fa" stroke="#333"/>
-  <text x="90" y="60" text-anchor="middle" alignment-baseline="middle" font-family="Arial, sans-serif" font-size="14" fill="#212529">Leverandør</text>
-  <line x1="170" y1="60" x2="230" y2="60" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <rect x="230" y="40" width="160" height="40" fill="#f8f9fa" stroke="#333"/>
-  <text x="310" y="60" text-anchor="middle" alignment-baseline="middle" font-family="Arial, sans-serif" font-size="14" fill="#212529">Betalingstjeneste</text>
-  <line x1="390" y1="60" x2="450" y2="60" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-  <rect x="450" y="40" width="140" height="40" fill="#f8f9fa" stroke="#333"/>
-  <text x="520" y="60" text-anchor="middle" alignment-baseline="middle" font-family="Arial, sans-serif" font-size="14" fill="#212529">Mottaker</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120"><defs><marker id="a" markerHeight="10" markerWidth="10" orient="auto" refX="5" refY="5"><path fill="#333" d="m0 0 10 5-10 5Z"/></marker></defs><path fill="#f8f9fa" stroke="#333" d="M10 40h160v40H10z"/><text x="90" y="60" fill="#212529" alignment-baseline="middle" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Leverandør</text><path stroke="#333" stroke-width="2" marker-end="url(#a)" d="M170 60h60"/><path fill="#f8f9fa" stroke="#333" d="M230 40h160v40H230z"/><text x="310" y="60" fill="#212529" alignment-baseline="middle" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Betalingstjeneste</text><path stroke="#333" stroke-width="2" marker-end="url(#a)" d="M390 60h60"/><path fill="#f8f9fa" stroke="#333" d="M450 40h140v40H450z"/><text x="520" y="60" fill="#212529" alignment-baseline="middle" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Mottaker</text></svg>
