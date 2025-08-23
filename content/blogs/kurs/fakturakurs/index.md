@@ -18,6 +18,8 @@ Dette kurset dekker hele **fakturaprosessen**: fra utstedelse til oppfølging, p
 - Avtalegiro, EHF og eFaktura
 - Rutiner for oppfølging og avskrivning
 
+![Fakturaflyt](fakturakurs-flow.svg)
+
 ## Praktisk purreløp
 
 | Trinn | Dager | Tiltak |
@@ -26,6 +28,8 @@ Dette kurset dekker hele **fakturaprosessen**: fra utstedelse til oppfølging, p
 | 2 | 14 | Første purring med gebyr |
 | 3 | 28 | Inkassovarsel |
 | 4 | 42 | Oversendelse til inkasso |
+
+![Trinnvis oppfølging](fakturakurs-steps.svg)
 
 ## Neste steg
 - Bokføring og MVA: se [Regnskapskurs](/blogs/kurs/regnskapskurs)

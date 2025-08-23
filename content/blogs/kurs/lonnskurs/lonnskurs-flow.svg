@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="220" fill="#F8FAFC"/>
+  <g font-family="Inter, Arial" font-size="14" fill="#1F2937">
+    <rect x="60" y="40" width="180" height="50" rx="10" fill="#E0F2FE"/>
+    <text x="105" y="72">Lønn</text>
+    <rect x="300" y="40" width="180" height="50" rx="10" fill="#FEF3C7"/>
+    <text x="335" y="72">A-melding</text>
+    <rect x="540" y="40" width="180" height="50" rx="10" fill="#FCA5A5"/>
+    <text x="565" y="72">Betalinger</text>
+  </g>
+  <g stroke="#94A3B8" stroke-width="2" fill="none" marker-end="url(#m)">
+    <defs>
+      <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 0 L 10 5 L 0 10 z" fill="#94A3B8"/>
+      </marker>
+    </defs>
+    <path d="M240 65 L300 65"/>
+    <path d="M480 65 L540 65"/>
+  </g>
+</svg>
