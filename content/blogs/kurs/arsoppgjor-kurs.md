@@ -1,22 +1,37 @@
 ---
 title: "Årsoppgjørskurs"
-description: "Komplett veiledning for årsregnskap og skattemelding"
-date: 2025-08-17
-draft: false
-image: /images/annual-report-icon.svg
-price: 0
+seoTitle: "Årsoppgjørskurs | Komplett guide til årsregnskap og skattemelding"
+description: "Lær hele prosessen for årsoppgjør: avstemming, noter, skattemelding, MVA, avskrivninger og innsending til Altinn. Praktisk årsoppgjørskurs for små bedrifter og regnskapsførere."
+summary: "Praktisk kurs i årsoppgjør: fra avstemming og noter til skattemelding og innsending. Inkluderer sjekklister, tabeller og maler."
 ---
 
+![Årsoppgjør oversikt](arsoppgjor-kurs-illustration.svg)
+
 ## Om kurset
-Dette kurset tar deg gjennom hele prosessen med å lage et fullstendig årsregnskap og sende inn skattemeldingen. Vi dekker alt fra grunnleggende prinsipper til avanserte rapporter.
+Dette kurset tar deg gjennom hele prosessen med et komplett **årsoppgjør**: avstemming, periodisering, noteopplysninger, beregning av skatt, og innsending til **Altinn**.
 
 ## Hva du vil lære
 
-- Forstå årsregnskapets oppbygning
-- Hvordan føre regnskapet til årsavslutning
-- Skattemeldingen trinn for trinn
-- Vanlige feil og hvordan unngå dem
-- Digital innsending til Altinn
+- Hvordan sette opp tidslinje og sjekkliste for årsoppgjør
+- Avstemming av bank, kunder, leverandører og mva
+- Avskrivninger, nedskrivninger og vurderingsregler
+- Skattemessige justeringer og beregning av betalbar utsatt skatt
+- Ferdigstillelse av årsregnskap, noter og innsending
 
-## Målgruppe
-Dette kurset er for deg som trenger å lære om årsregnskap og skattemelding, enten for egen bedrift eller for andres.
+## Kursplan
+
+| Modul | Tema | Leveranser |
+| --- | --- | --- |
+| 1 | Forberedelser | Sjekkliste, periodisering |
+| 2 | Avstemming | Bank, kundefordringer, leverandørgjeld |
+| 3 | Anleggsmidler | Avskrivningsplan, saldolister |
+| 4 | Skatt | Skatteberegning, midlertidige forskjeller |
+| 5 | Rapportering | Resultat, balanse, noter, innsending |
+
+## Hvem passer kurset for?
+Kurset passer for eiere av små bedrifter, økonomiansvarlige og nye **regnskapsførere** som vil ha en strukturert og praktisk tilnærming.
+
+## Videre læring
+- Grunnleggende bokføring: se [Regnskapskurs](/blogs/kurs/regnskapskurs)
+- Lønn og arbeidsgiveravgift: se [Lønnskurs](/blogs/kurs/lonnskurs)
+- Fakturering og purring: se [Fakturakurs](/blogs/kurs/fakturakurs)

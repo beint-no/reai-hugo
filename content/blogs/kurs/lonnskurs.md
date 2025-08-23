@@ -1,23 +1,33 @@
 ---
 title: "Lønnskurs"
-description: "Alt du trenger å vite om lønn og personaladministrasjon"
-date: 2025-08-17
-draft: false
-image: /images/payroll-icon.svg
-price: 0
+seoTitle: "Lønnskurs | Lønnskjøring, A-melding og arbeidsgiveravgift"
+description: "Lær lønn fra A til Å: lønnskjøring, feriepenger, A-melding, skatt, arbeidsgiveravgift og naturalytelser. Praktisk lønnskurs for små bedrifter."
+summary: "Praktisk lønnskurs: oppsett, lønnskjøring, A-melding, feriepenger og arbeidsgiveravgift."
 ---
 
+![Lønnskurs oversikt](lonnskurs-illustration.svg)
+
 ## Om kurset
-Dette omfattende lønnskurset tar for seg alt fra grunnleggende til avansert lønnsadministrasjon. Du vil lære hvordan du håndterer lønn for ansatte i henhold til norsk lovgivning.
+Dette kurset dekker hele prosessen for **lønn**: oppsett, lønnskjøring, **A-melding**, feriepenger, trekk og innrapportering.
 
 ## Hva du vil lære
 
-- Grunnleggende om lønnsberegning
-- Skattetrekkoppgjør og innrapportering
-- Feriepenger og andre goder
-- Sykefravær og permisjon
-- Lønns- og personaloppgaver
-- Rapportering til A-meldingen
+- Lønnsarter og satser
+- Beregning av skatt og arbeidsgiveravgift
+- A-melding frister og avvikshåndtering
+- Feriepenger og sluttoppgjør
+- Naturalytelser og fordelsbeskatning
 
-## Målgruppe
-Dette kurset er for både nybegynnere og erfarne som ønsker å forbedre sine ferdigheter innen lønnsadministrasjon.
+## Viktige frister og satser
+
+| Tema | Frist/forklaring |
+| --- | --- |
+| A-melding | Den 5. i påfølgende måned |
+| Skattetrekk | Betaling annenhver måned |
+| Arbeidsgiveravgift | Betaling annenhver måned |
+| Feriepenger | Utbetales normalt i juni |
+
+## Neste steg
+- Grunnleggende bokføring: se [Regnskapskurs](/blogs/kurs/regnskapskurs)
+- Fakturering og purring: se [Fakturakurs](/blogs/kurs/fakturakurs)
+- Årsavslutning og innsending: se [Årsoppgjørskurs](/blogs/kurs/arsoppgjor-kurs)

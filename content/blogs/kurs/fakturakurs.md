@@ -1,22 +1,33 @@
 ---
 title: "Fakturakurs"
-description: "Lær alt om fakturering og kunderegister"
-date: 2025-08-17
-draft: false
-image: /images/invoice-icon.svg
-price: 0
+seoTitle: "Fakturakurs | Fakturering, purring og inkasso i praksis"
+description: "Lær å fakturere riktig, sette opp purrerutiner, beregne purregebyr og renter, og følge opp til inkasso. Praktisk fakturakurs for små bedrifter."
+summary: "Alt om fakturering: oppsett, purring, renter og inkasso. Maler, tabeller og beste praksis."
 ---
 
+![Fakturakurs oversikt](fakturakurs-illustration.svg)
+
 ## Om kurset
-Dette kurset gir deg en grundig innføring i fakturering og kunderegister. Du vil lære alt fra grunnleggende prinsipper til avansert fakturahåndtering.
+Dette kurset dekker hele **fakturaprosessen**: fra utstedelse til oppfølging, purring og eventuell **inkasso**.
 
 ## Hva du vil lære
 
-- Hvordan opprette og sende profesjonelle fakturaer
-- Håndtering av kunderegister
-- Oppfølging av betalinger
-- MVA-reguleringer og rapportering
-- Automatisering av faktureringsprosessen
+- Fakturaoppsett og lovkrav
+- Tidsfrister, forfall og delbetaling
+- Purring, purregebyr og renter
+- Avtalegiro, EHF og eFaktura
+- Rutiner for oppfølging og avskrivning
 
-## Målgruppe
-Dette kurset er perfekt for deg som ønsker å lære mer om fakturering, enten du er nybegynner eller ønsker å forbedre dine ferdigheter.
+## Praktisk purreløp
+
+| Trinn | Dager | Tiltak |
+| --- | --- | --- |
+| 1 | 0 | Faktura med 14 dagers forfall |
+| 2 | 14 | Første purring med gebyr |
+| 3 | 28 | Inkassovarsel |
+| 4 | 42 | Oversendelse til inkasso |
+
+## Neste steg
+- Bokføring og MVA: se [Regnskapskurs](/blogs/kurs/regnskapskurs)
+- Lønn og rapportering: se [Lønnskurs](/blogs/kurs/lonnskurs)
+- Årsoppgjør og innsending: se [Årsoppgjørskurs](/blogs/kurs/arsoppgjor-kurs)
