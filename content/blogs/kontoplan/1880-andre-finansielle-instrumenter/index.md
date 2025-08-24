@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1880 - Andre finansielle instrumenter"
-seoTitle: "1880-andre-finansielle-instrumenter"
-description: '**Konto 1880 - Andre finansielle instrumenter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige finansielle instrumenter...'
+seoTitle: "Konto 1880 | Andre finansielle instrumenter | Kontoplan"
+description: "Konto 1880 brukes til å registrere andre kortsiktige finansielle instrumenter og derivater. Se typiske eksempler, vurdering og bokføring."
+summary: "Konto 1880 gjelder andre kortsiktige finansielle instrumenter. Om typer, virkelig verdi og bokføring."
 ---
 
 **Konto 1880 - Andre finansielle instrumenter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige finansielle instrumenter** som ikke dekkes av spesifikke markedsbaserte kontoer som aksjer, obligasjoner eller sertifikater.

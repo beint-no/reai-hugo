@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1950 - Bankinnskudd for skattetrekk"
-seoTitle: "1950-bankinnskudd-for-skattetrekk"
-description: '**Konto 1950 - Bankinnskudd for skattetrekk** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **bankinnskudd for forskuddstrek...'
+seoTitle: "Konto 1950 | Bankinnskudd for skattetrekk | Kontoplan"
+description: "Konto 1950 brukes til å registrere bankinnskudd for forskuddstrekk som holdes på særskilt skattetrekkskonto. Se forskjellen mot konto 1920, bokføring og kontrollrutiner."
+summary: "Konto 1950 er skattetrekkskontoen. Slik skiller du den fra 1920 og bokfører innskudd og betaling til Skatteetaten."
 ---
 
 **Konto 1950 - Bankinnskudd for skattetrekk** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **bankinnskudd for forskuddstrekk**, det vil si midler som holdes på en særskilt konto for skattetrekk. Konto 1950 er en naturlig forlengelse av [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd") spesielt for skattetrekk, og en partner til [Skattetrekkskonto](/blogs/regnskap/hva-er-skattetrekkskonto "Hva er Skattetrekkskonto? Komplett Guide til Administrasjon og Regnskapsføring").

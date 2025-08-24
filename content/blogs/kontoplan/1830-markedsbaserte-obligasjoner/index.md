@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1830 - Markedsbaserte obligasjoner"
-seoTitle: "1830-markedsbaserte-obligasjoner"
-description: '**Konto 1830 - Markedsbaserte obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **markedsbaserte obligasjoner** som omsettes pÃ...'
+seoTitle: "Konto 1830 | Markedsbaserte obligasjoner | Kontoplan"
+description: "Konto 1830 brukes til markedsbaserte obligasjoner som omsettes på regulerte markeder. Se måling til virkelig verdi, typiske eksempler og bokføring."
+summary: "Konto 1830 dekker markedsbaserte obligasjoner. Lær om virkelig verdi og regnskapsføring."
 ---
 
 **Konto 1830 - Markedsbaserte obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **markedsbaserte obligasjoner** som omsettes på regulerte markeder, og som måles til **virkelig verdi** i [balansen](/blogs/regnskap/hva-er-balanseregnskap "Hva er Balanseregnskap?").

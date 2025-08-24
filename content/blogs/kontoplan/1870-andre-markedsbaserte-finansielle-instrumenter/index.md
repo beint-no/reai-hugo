@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1870 - Andre markedsbaserte finansielle instrumenter"
-seoTitle: "1870-andre-markedsbaserte-finansielle-instrumenter"
-description: '**Konto 1870 - Andre markedsbaserte finansielle instrumenter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **markedsbaserte finansielle ...'
+seoTitle: "Konto 1870 | Andre markedsbaserte finansielle instrumenter | Kontoplan"
+description: "Konto 1870 brukes til andre markedsbaserte finansielle instrumenter. Lær om typiske instrumenter, vurdering til virkelig verdi og bokføring."
+summary: "Konto 1870 dekker markedsbaserte finansielle instrumenter. Kort om typer, måling og bokføring."
 ---
 
 **Konto 1870 - Andre markedsbaserte finansielle instrumenter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **markedsbaserte finansielle instrumenter** som ikke dekkes av aksjer eller obligasjoner.
