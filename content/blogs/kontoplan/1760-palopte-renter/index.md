@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1760 - Påløpte renter"
-seoTitle: "1760-palopte-renter"
-description: '**Konto 1760 - Påløpte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte renteutgifter**.'
+seoTitle: "Konto 1760 | Påløpte renter | Kontoplan"
+description: "Konto 1760 brukes til å registrere påløpte renteutgifter som ikke er betalt ved periodens slutt. Se bruk, bokføring, periodisering og balansepresentasjon."
+summary: "Konto 1760: påløpte renter. Bruk, bokføring og periodisering."
 ---
 
 **Konto 1760 - Påløpte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte renteutgifter**.

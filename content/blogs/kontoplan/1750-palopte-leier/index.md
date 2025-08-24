@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1750 - Påløpte leier"
-seoTitle: "1750-palopte-leier"
-description: '**Konto 1750 - Påløpte leier** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte leiekostnader** for leie av lokaler, utstyr og ...'
+seoTitle: "Konto 1750 | Påløpte leier | Kontoplan"
+description: "Konto 1750 brukes til å registrere påløpte leiekostnader som ennå ikke er betalt ved periodens slutt. Lær regler, bokføring, periodisering og balanseføring."
+summary: "Konto 1750: påløpte leier. Bruk, bokføring og periodisering."
 ---
 
 **Konto 1750 - Påløpte leier** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte leiekostnader** for leie av lokaler, utstyr og eiendeler.

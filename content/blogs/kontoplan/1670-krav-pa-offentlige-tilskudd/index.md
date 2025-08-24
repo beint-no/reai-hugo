@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1670 - Krav på offentlige tilskudd"
-seoTitle: "1670-krav-pa-offentlige-tilskudd"
-description: '**Konto 1670 - Krav på offentlige tilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **krav virksomheten har på offentlige til...'
+seoTitle: "Konto 1670 | Krav på offentlige tilskudd | Kontoplan"
+description: "Konto 1670 brukes til å registrere krav virksomheten har på offentlige tilskudd fra stat, fylke eller kommune. Lær regler, bokføring, periodisering og eksempler."
+summary: "Konto 1670: krav på offentlige tilskudd. Bruk, bokføring og periodisering."
 ---
 
 **Konto 1670 - Krav på offentlige tilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **krav virksomheten har på offentlige tilskudd** fra offentlige myndigheter som stat, fylkeskommuner eller kommuner.
