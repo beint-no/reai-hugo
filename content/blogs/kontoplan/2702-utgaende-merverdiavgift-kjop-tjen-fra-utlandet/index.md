@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2702 - Utgående merverdiavgift kjøp tjenester fra utlandet"
-seoTitle: "2702-utgaende-merverdiavgift-kjop-tjen-fra-utlandet"
-description: '**Konto 2702 - Utgående merverdiavgift kjøp tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av utgåen...'
+seoTitle: "Konto 2702 | Utgående MVA kjøp tjenester fra utlandet | Kontoplan"
+description: "Konto 2702 brukes ved oppgjør av utgående merverdiavgift for kjøp av tjenester fra utlandet (omvendt avgiftsplikt). Lær når kontoen brukes, avstemming og bokføring med eksempler."
+summary: "Konto 2702: oppgjør av utgående MVA for utenlandstjenester. Bruk, avstemming og bokføring."
 ---
 
 **Konto 2702 - Utgående merverdiavgift kjøp tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av utgående merverdiavgift ved kjøp av tjenester fra utlandet** (omvendt avgiftsplikt) for å skille dette fra andre MVA-oppgjør før betaling.

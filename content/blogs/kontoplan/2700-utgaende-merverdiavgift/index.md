@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2700 - Utgående merverdiavgift"
-seoTitle: "2700-utgaende-merverdiavgift"
-description: '**Konto 2700 - Utgående merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **utgående merverdiavgift (MVA)** som en kort...'
+seoTitle: "Konto 2700 | Utgående merverdiavgift | Kontoplan"
+description: "Konto 2700 brukes ved oppgjør av utgående merverdiavgift som skal innbetales. Lær hva kontoen brukes til, avstemming mot oppgjørskonto, bokføring og eksempler for korrekt MVA-rapportering."
+summary: "Konto 2700: oppgjør av utgående MVA. Når den brukes, avstemming og bokføring."
 ---
 
 **Konto 2700 - Utgående merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **utgående merverdiavgift (MVA)** som en kortsiktig forpliktelse til skattemyndighetene inntil betaling.

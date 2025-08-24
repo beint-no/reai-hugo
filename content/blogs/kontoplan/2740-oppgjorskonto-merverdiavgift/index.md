@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2740 - Oppgjørskonto merverdiavgift"
-seoTitle: "2740-oppgjorskonto-merverdiavgift"
-description: '**Konto 2740 - Oppgjørskonto merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å avstemme og oppgjøre **merverdiavgift (MVA)** mello...'
+seoTitle: "Konto 2740 | Oppgjørskonto merverdiavgift | Kontoplan"
+description: "Konto 2740 brukes som oppgjørskonto for merverdiavgift ved periodeavslutning, for å avstemme mellom utgående og inngående MVA. Lær når kontoen brukes, avstemming og bokføring."
+summary: "Konto 2740: oppgjørskonto for MVA. Bruk, avstemming og bokføring."
 ---
 
 **Konto 2740 - Oppgjørskonto merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å avstemme og oppgjøre **merverdiavgift (MVA)** mellom utgående og inngående MVA.

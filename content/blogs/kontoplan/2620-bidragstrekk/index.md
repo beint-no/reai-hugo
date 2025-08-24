@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 2620 - Bidragstrekk?"
-seoTitle: "2620-bidragstrekk"
-description: '**Konto 2620 - Bidragstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **bidragstrekk** som en del av **kortsiktig gjeld**.'
+seoTitle: "Konto 2620 | Bidragstrekk | Kontoplan"
+description: "Konto 2620 brukes til å registrere bidragstrekk som kortsiktig gjeld frem til utbetaling til bidragsmyndighet eller kreditor. Lær når kontoen benyttes, bokføring og avstemming."
+summary: "Konto 2620: bidragstrekk trukket fra lønn. Bruk, bokføring og avstemming."
 ---
 
 **Konto 2620 - Bidragstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **bidragstrekk** som en del av **kortsiktig gjeld**.

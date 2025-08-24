@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 2610 - Påleggstrekk?"
-seoTitle: "2610-paalleggstrekk"
-description: '**Konto 2610 - Påleggstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påleggstrekk** som arbeidsgiver foretar i ansattes [lønn]...'
+seoTitle: "Konto 2610 | Påleggstrekk | Kontoplan"
+description: "Konto 2610 brukes til å registrere påleggstrekk i ansattes lønn etter vedtak fra namsmyndigheter, Skatteetaten eller andre kreditorer. Lær når kontoen benyttes, bokføring og avstemming."
+summary: "Konto 2610: påleggstrekk trukket fra lønn. Bruk, bokføring og avstemming."
 ---
 
 **Konto 2610 - Påleggstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påleggstrekk** som arbeidsgiver foretar i ansattes [lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn") som følge av krav fra namsmyndigheter, Skatteetaten eller andre kreditorer med rettskraftig vedtak.

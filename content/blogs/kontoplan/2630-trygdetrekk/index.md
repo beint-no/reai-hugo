@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 2630 - Trygdetrekk?"
-seoTitle: "2630-trygdetrekk"
-description: '**Konto 2630 - Trygdetrekk** er en **konto** i Norsk Standard Kontoplan som brukes til å registrere **trygdetrekk**, den delen av ansattes [lønn](/blogs/konto...'
+seoTitle: "Konto 2630 | Trygdetrekk | Kontoplan"
+description: "Konto 2630 brukes til å registrere trygdetrekk trukket fra ansattes lønn for trygdeavgifter og sosiale ytelser, som kortsiktig gjeld frem til innbetaling. Lær når kontoen benyttes, bokføring og avstemming."
+summary: "Konto 2630: trygdetrekk trukket fra lønn. Bruk, bokføring og avstemming."
 ---
 
 **Konto 2630 - Trygdetrekk** er en **konto** i Norsk Standard Kontoplan som brukes til å registrere **trygdetrekk**, den delen av ansattes [lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn") som arbeidsgiver trekker for å dekke trygdeavgifter og andre sosialforsikringsbidrag.

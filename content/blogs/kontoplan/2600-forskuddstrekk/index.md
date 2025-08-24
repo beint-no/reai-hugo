@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 2600 - Skyldig forskuddstrekk?"
-seoTitle: "2600-forskuddstrekk"
-description: '**Konto 2600 - Skyldig forskuddstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **skyldig forskuddstrekk** på [lønn](/blogs/kontop...'
+seoTitle: "Konto 2600 | Skyldig forskuddstrekk | Kontoplan"
+description: "Konto 2600 brukes til å registrere skyldig forskuddstrekk på lønn og andre ytelser som kortsiktig gjeld frem til innbetaling til skattemyndighetene. Lær når kontoen benyttes, bokføring og avstemming."
+summary: "Konto 2600: skyldig forskuddstrekk som kortsiktig gjeld. Bruk, bokføring og avstemming."
 ---
 
 **Konto 2600 - Skyldig forskuddstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **skyldig forskuddstrekk** på [lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn") og andre ytelser som en del av **kortsiktig gjeld**.

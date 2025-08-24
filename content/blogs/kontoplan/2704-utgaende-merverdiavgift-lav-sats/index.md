@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2704 - Utgående merverdiavgift lav sats"
-seoTitle: "2704-utgaende-merverdiavgift-lav-sats"
-description: '**Konto 2704 - Utgående merverdiavgift lav sats** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **utgående merverdiavgift med lav sa...'
+seoTitle: "Konto 2704 | Utgående MVA lav sats | Kontoplan"
+description: "Konto 2704 brukes ved oppgjør av utgående merverdiavgift med lav sats (12 %). Lær når kontoen brukes, avstemming og bokføring med eksempler."
+summary: "Konto 2704: oppgjør av utgående MVA lav sats. Bruk, avstemming og bokføring."
 ---
 
 **Konto 2704 - Utgående merverdiavgift lav sats** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **utgående merverdiavgift med lav sats** (12–¯%) som en gjeld til skattemyndighetene frem til innbetaling.

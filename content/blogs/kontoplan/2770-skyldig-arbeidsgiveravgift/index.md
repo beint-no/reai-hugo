@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2770 - Skyldig arbeidsgiveravgift"
-seoTitle: "2770-skyldig-arbeidsgiveravgift"
-description: '**Konto 2770 - Skyldig arbeidsgiveravgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **arbeidsgiveravgift** som påløper på [lønn]...'
+seoTitle: "Konto 2770 | Skyldig arbeidsgiveravgift | Kontoplan"
+description: "Konto 2770 brukes til å registrere arbeidsgiveravgift som påløper på lønn og ytelser, som kortsiktig gjeld frem til innbetaling til myndighetene. Lær når kontoen benyttes, bokføring og avstemming."
+summary: "Konto 2770: skyldig arbeidsgiveravgift som kortsiktig gjeld. Bruk, bokføring og avstemming."
 ---
 
 **Konto 2770 - Skyldig arbeidsgiveravgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **arbeidsgiveravgift** som påløper på [lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn") og andre ytelser som en del av **kortsiktig gjeld**.
