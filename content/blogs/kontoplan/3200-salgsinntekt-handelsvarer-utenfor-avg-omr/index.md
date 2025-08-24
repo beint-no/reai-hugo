@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr"
-seoTitle: "3200-salgsinntekt-handelsvarer-utenfor-avg-omr"
-description: '**Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsv...'
+seoTitle: "Konto 3200 | Salgsinntekt utenfor avgiftsområdet | Kontoplan"
+description: "Konto 3200 brukes til å registrere salgsinntekter for handelsvarer som ligger utenfor merverdiavgiftsområdet. Se når kontoen brukes, bokføring og krav til rapportering."
+summary: "Konto 3200: salgsinntekt utenfor MVA-området, bruk og bokføring."
 ---
 
 **Konto 3200 - Salgsinntekt handelsvarer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsvarer** som ligger **utenfor merverdiavgiftsområdet**.

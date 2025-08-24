@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3260 - Uttak av varer utenfor avg.omr"
-seoTitle: "3260-uttak-av-varer-utenfor-avg-omr"
-description: '**Konto 3260 - Uttak av varer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelageret til inter...'
+seoTitle: "Konto 3260 | Uttak av varer utenfor MVA-området | Kontoplan"
+description: "Konto 3260 brukes til å registrere uttak av varer fra varelager til intern bruk når uttaket er utenfor merverdiavgiftsområdet. Se bruk av kontoen, bokføring og rapportering."
+summary: "Konto 3260: uttak av varer utenfor MVA-området, bruk og bokføring."
 ---
 
 **Konto 3260 - Uttak av varer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelageret til intern bruk i virksomheten, der uttaket ligger **utenfor merverdiavgiftsområdet**.

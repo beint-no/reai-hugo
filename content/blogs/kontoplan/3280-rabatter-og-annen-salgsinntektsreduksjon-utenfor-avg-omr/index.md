@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3280 - Rabatter og annen salgsinntektsreduksjon utenfor avg.omr"
-seoTitle: "3280-rabatter-og-annen-salgsinntektsreduksjon-utenfor-avg-omr"
-description: '**Konto 3280 - Rabatter og annen salgsinntektsreduksjon utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **rabatter** og an...'
+seoTitle: "Konto 3280 | Rabatter utenfor MVA-området | Kontoplan"
+description: "Konto 3280 brukes til å registrere rabatter og annen salgsinntektsreduksjon på varer og tjenester som ligger utenfor merverdiavgiftsområdet. Les om bruk, bokføring og rapportering."
+summary: "Konto 3280: rabatter utenfor MVA-området, bruk og bokføring."
 ---
 
 **Konto 3280 - Rabatter og annen salgsinntektsreduksjon utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **rabatter** og annen **salgsinntektsreduksjon** på varer eller tjenester som ligger **utenfor merverdiavgiftsområdet**.

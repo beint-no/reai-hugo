@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3300 - Spesiell off. avg. tilv./solgte varer avgiftspl."
-seoTitle: "3300-spesiell-off-avg-tilv-solgte-varer-avgiftspl"
-description: '**Konto 3300 - Spesiell off. avg. tilv./solgte varer avgiftspl.** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **spesiell offentlig a...'
+seoTitle: "Konto 3300 | Spesiell offentlig avgift | Kontoplan"
+description: "Konto 3300 brukes til å registrere spesiell offentlig avgift ved tilvirkning eller salg av varer som er avgiftspliktige. Les om bruk av kontoen, bokføring og rapportering."
+summary: "Konto 3300: spesiell offentlig avgift ved tilvirkning og salg."
 ---
 
 **Konto 3300 - Spesiell off. avg. tilv./solgte varer avgiftspl.** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **spesiell offentlig avgift** ved tilvirkning eller salg av varer som er **avgiftspliktige**.

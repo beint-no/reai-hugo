@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3210 - Salgsinntekt egentilvirkede varer utenfor avg.omr"
-seoTitle: "3210-salgsinntekt-egentilvirkede-varer-utenfor-avg-omr"
-description: '**Konto 3210 - Salgsinntekt egentilvirkede varer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **...'
+seoTitle: "Konto 3210 | Egentilvirkede varer utenfor MVA | Kontoplan"
+description: "Konto 3210 brukes til å registrere salgsinntekter for egentilvirkede varer som ligger utenfor merverdiavgiftsområdet. Les om bruk av kontoen, bokføring og rapportering."
+summary: "Konto 3210: salg av egentilvirkede varer utenfor MVA, bruk og bokføring."
 ---
 
 **Konto 3210 - Salgsinntekt egentilvirkede varer utenfor avg.omr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **egentilvirkede varer** som ligger **utenfor merverdiavgiftsområdet**.
