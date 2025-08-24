@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig"
-seoTitle: "3900-annen-driftsrelatert-inntekt-avgiftspliktig"
-description: '**Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre driftsrelaterte inntek...'
+seoTitle: "Konto 3900 | Annen driftsrelatert inntekt (avgiftspliktig) | Kontoplan"
+description: "Konto 3900 i Norsk Standard Kontoplan brukes til å registrere andre driftsrelaterte inntekter som er avgiftspliktige. Les om bruk, bokføring og relaterte kontoer."
+summary: "Konto 3900: avgiftspliktige driftsinntekter, bokføring og relaterte kontoer."
 ---
 
 **Konto 3900 - Annen driftsrelatert inntekt, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre driftsrelaterte inntekter** som er underlagt merverdiavgift.

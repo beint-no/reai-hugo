@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3800 - Gevinst ved avgang av anleggsmidler"
-seoTitle: "3800-gevinst-ved-avgang-av-anleggsmidler"
-description: '**Konto 3800 - Gevinst ved avgang av anleggsmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **gevinst ved avgang av anleggsmidler**...'
+seoTitle: "Konto 3800 | Gevinst ved avgang anleggsmidler | Kontoplan"
+description: "Konto 3800 i Norsk Standard Kontoplan brukes til å registrere gevinst ved avgang av anleggsmidler. Les om beregning, bokføring og relaterte kontoer."
+summary: "Konto 3800: gevinst ved avgang, beregning, bokføring og relaterte kontoer."
 ---
 
 **Konto 3800 - Gevinst ved avgang av anleggsmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **gevinst ved avgang av anleggsmidler**.

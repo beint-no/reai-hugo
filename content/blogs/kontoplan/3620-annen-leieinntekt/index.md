@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3620 - Annen leieinntekt"
-seoTitle: "3620-annen-leieinntekt"
-description: '**Konto 3620 - Annen leieinntekt** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **annen leieinntekt** fra ulike kilder, for eksempel ko...'
+seoTitle: "Konto 3620 | Annen leieinntekt | Kontoplan"
+description: "Konto 3620 i Norsk Standard Kontoplan brukes til å registrere annen leieinntekt fra ulike kilder som korttidsleie av utstyr, kjøretøy og eiendeler. Les om bruk, bokføring og relaterte kontoer."
+summary: "Bruk av konto 3620 for annen leieinntekt, bokføring og relaterte kontoer."
 ---
 
 **Konto 3620 - Annen leieinntekt** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **annen leieinntekt** fra ulike kilder, for eksempel korttidsleie av utstyr, kjøretøy og andre eiendeler.
