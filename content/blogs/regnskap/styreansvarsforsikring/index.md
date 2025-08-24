@@ -44,13 +44,13 @@ For mer informasjon om periodisering av forsikringspremier, se [Hva er Forsikrin
 
 | Konto                            | Debet      | Kredit     |
 |----------------------------------|------------|------------|
-| Forskuddsbetalte kostnader (1830) | 15Â 000Â kr  |            |
-| Bankinnskudd (1920)              |            | 15Â 000Â kr  |
+| Forskuddsbetalte kostnader (1830) | 15 000 kr  |            |
+| Bankinnskudd (1920)              |            | 15 000 kr  |
 
 | Forskudd periodisert per måned   | Debet      | Kredit     |
 |----------------------------------|------------|------------|
-| Forsikringskostnad (6300)        | 1Â 250Â kr   |            |
-| Forskuddsbetalte kostnader (1830) |            | 1Â 250Â kr   |
+| Forsikringskostnad (6300)        | 1 250 kr   |            |
+| Forskuddsbetalte kostnader (1830) |            | 1 250 kr   |
 
 ## Skattemessige konsekvenser
 

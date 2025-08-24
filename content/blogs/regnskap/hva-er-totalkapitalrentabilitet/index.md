@@ -48,18 +48,18 @@ Totalkapitalrentabilitet er essensiell for ulike aktører:
 
 | **Parameter**                       | **Verdi**         |
 |:-----------------------------------|:------------------|
-| Totalkapital ved periodens start   | 10 000 000Â kr     |
-| Totalkapital ved periodens slutt   | 12 000 000Â kr     |
-| Gjennomsnittlig Totalkapital       | (10Â 000Â 000 + 12Â 000Â 000) Ã· 2 = 11Â 000Â 000Â kr |
-| Driftsresultat før renter          | 1 500 000Â kr      |
-| **Totalkapitalrentabilitet**       | (1Â 500Â 000 Ã· 11Â 000Â 000) Ã—Â 100Â â‰ˆÂ 13,6Â %  |
+| Totalkapital ved periodens start   | 10 000 000 kr     |
+| Totalkapital ved periodens slutt   | 12 000 000 kr     |
+| Gjennomsnittlig Totalkapital       | (10 000 000 + 12 000 000) Ã· 2 = 11 000 000 kr |
+| Driftsresultat før renter          | 1 500 000 kr      |
+| **Totalkapitalrentabilitet**       | (1 500 000 Ã· 11 000 000) Ã— 100 ‰ˆ 13,6 %  |
 
 ## Sammenligning med Egenkapitalrentabilitet
 
 | **Nøkkeltall**                    | **Formel**                                                 | **Fokus**                               |
 |:----------------------------------|:-----------------------------------------------------------|:----------------------------------------|
-| Totalkapitalrentabilitet          | (Driftsresultat før renter Ã· Gjennomsnittlig Totalkapital) Ã—Â 100% | *Lønnsomhet basert på hele kapitalen*   |
-| Egenkapitalrentabilitet           | (Årsresultat Ã· Gjennomsnittlig Egenkapital) Ã—Â 100%           | *Avkastning på eiernes egenkapital*     |
+| Totalkapitalrentabilitet          | (Driftsresultat før renter Ã· Gjennomsnittlig Totalkapital) Ã— 100% | *Lønnsomhet basert på hele kapitalen*   |
+| Egenkapitalrentabilitet           | (Årsresultat Ã· Gjennomsnittlig Egenkapital) Ã— 100%           | *Avkastning på eiernes egenkapital*     |
 
 Les mer om [Hva er Egenkapitalrentabilitet?](/blogs/regnskap/hva-er-egenkapitalrentabilitet "Hva er Egenkapitalrentabilitet?") for en dypere forståelse av **avkastning på egenkapital**.
 

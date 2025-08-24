@@ -186,11 +186,11 @@ For at en eiendel skal innregnes i regnskapet, må den oppfylle spesifikke krite
 
 | Situasjon | Innregnes? | Begrunnelse |
 |:----------|:-----------|:------------|
-| Kjøpt maskin på kreditt | âœ“ Ja | Kontroll overført ved levering |
-| Bestilt maskin, ikke levert | âœ— Nei | Ingen kontroll før levering |
-| Leaset bil (finansiell leasing) | âœ“ Ja | Kontroll over økonomiske fordeler |
-| Leaset bil (operasjonell leasing) | âœ— Nei | Begrenset kontroll og periode |
-| Internt utviklet programvare | âœ“ Delvis | Kun direkte utviklingskostnader |
+| Kjøpt maskin på kreditt | œ“ Ja | Kontroll overført ved levering |
+| Bestilt maskin, ikke levert | œ— Nei | Ingen kontroll før levering |
+| Leaset bil (finansiell leasing) | œ“ Ja | Kontroll over økonomiske fordeler |
+| Leaset bil (operasjonell leasing) | œ— Nei | Begrenset kontroll og periode |
+| Internt utviklet programvare | œ“ Delvis | Kun direkte utviklingskostnader |
 
 ### 5.2 Løpende Måling og Oppfølging
 

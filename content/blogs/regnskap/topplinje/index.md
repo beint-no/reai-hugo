@@ -34,11 +34,11 @@ For detaljer om de ulike inntektskategoriene, se [Driftsinntekter](/blogs/regnsk
 
 | Kategori               | Beløp (kr)                                                      |
 |------------------------|-----------------------------------------------------------------|
-| Salgsinntekter         | 1Â 200Â 000                                                       |
-| Tjenesteinntekter      |  Â 300Â 000                                                       |
-| Abonnementsinntekter   |   Â 50Â 000                                                       |
-| Annen driftsrelatert   |   Â 50Â 000                                                       |
-| **Topplinje**           | **1Â 600Â 000**                                                   |
+| Salgsinntekter         | 1 200 000                                                       |
+| Tjenesteinntekter      |   300 000                                                       |
+| Abonnementsinntekter   |    50 000                                                       |
+| Annen driftsrelatert   |    50 000                                                       |
+| **Topplinje**           | **1 600 000**                                                   |
 
 ![Eksempel på Topplinje](topplinje-eksempel.svg)
 

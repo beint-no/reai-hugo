@@ -49,7 +49,7 @@ En virksomhet har lønnskostnad på 100–¯000 NOK ekskl. arbeidsgiveravgift (1
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2780:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2780:
 
 * [Konto 2770 - Skyldig arbeidsgiveravgift](/blogs/kontoplan/2770-skyldig-arbeidsgiveravgift "Konto 2770 - Skyldig arbeidsgiveravgift")
 * [Konto 5000 - Lønn til ansatte](/blogs/kontoplan/5000-lonn-til-ansatte "Konto 5000 - Lønn til ansatte: Lønnskostnader og arbeidsgiveravgift")

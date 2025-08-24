@@ -14,7 +14,7 @@ description: '**Skatt på aksjegevinst** omfatter skattereglene for gevinst ved 
 |----------------------------------|---------------------------------------------|-------------------------------|-------------------------|
 | Privatperson (direkte aksjegevinst) | Aksjonærmodellen med skjermingsfradrag     | 100% av netto gevinst         | 22% av netto gevinst    |
 | Privatperson (ASK)               | Aksjesparekonto (ASK)                     | 22% ved uttak av overskudd    | 22% ved uttak          |
-| Selskap                          | Fritaksmetoden                             | 3% av gevinst                 | 0,66% (3%Â Ã—Â 22%)       |
+| Selskap                          | Fritaksmetoden                             | 3% av gevinst                 | 0,66% (3% Ã— 22%)       |
 | Selskap (unntak/fritak)          | Fritaksmetoden, særregler                 | Varierer                      | Varierer               |
 
 ## Privatpersoner: Aksjonærmodellen og skjermingsfradrag
@@ -23,14 +23,14 @@ Les mer i vår [Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning](/b
 
 * **Skjermingsfradrag** beskytter en normalavkastning mot beskatning.
 * Skjermingsfradraget beregnes som:  
-  _SkjermingsgrunnlagÂ Ã—Â Skjermingsrente_
+  _Skjermingsgrunnlag Ã— Skjermingsrente_
 * Restgevinst etter skjerming beskattes som alminnelig inntekt (22%).
 
 ## Aksjesparekonto (ASK)
 
 En [aksjesparekonto](/blogs/regnskap/hva-er-aksjesparekonto "Hva er Aksjesparekonto? Fordeler, begrensninger og regler") lar privatpersoner utsette skatt på aksjegevinster og utbytte innenfor kontoen.  
 
-* **Innskuddsramme:** 300Â 000Â kr (2024)  
+* **Innskuddsramme:** 300 000 kr (2024)  
 * **Skatteutsettelse:** Gevinst og utbytte er skattefritt inntil uttak av overskudd  
 * **Uttaksskatt:** 22% beregnes ved uttak av gevinst  
 
@@ -40,15 +40,15 @@ Se vår [Fritaksmetoden - Skattefritak for aksjegevinst og utbytte](/blogs/regns
 
 * **Skattefri del:** 97% av gevinsten  
 * **Skattepliktig del:** 3% av gevinsten  
-* Effektiv skattesats: 0,66% (3%Â Ã—Â 22%)
+* Effektiv skattesats: 0,66% (3% Ã— 22%)
 
 ## Praktiske eksempler
 
 | Scenario                           | Kjøp         | Salg         | Skattepliktig gevinst       | Skatt                  |
 |------------------------------------|--------------|--------------|-----------------------------|------------------------|
-| Privat (direkte aksjegevinst)      | 100Â 000Â kr   | 150Â 000Â kr   | 50Â 000Â kr                   | 11Â 000Â kr (22%)        |
-| Privat (ASK)                       | 100Â 000Â kr   | 150Â 000Â kr   | 50Â 000Â kr ved uttak         | 11Â 000Â kr (22%)        |
-| Selskap                            | 500Â 000Â kr   | 650Â 000Â kr   | 4Â 500Â kr (3% av 150Â 000Â kr) | 990Â kr (0,66%)         |
+| Privat (direkte aksjegevinst)      | 100 000 kr   | 150 000 kr   | 50 000 kr                   | 11 000 kr (22%)        |
+| Privat (ASK)                       | 100 000 kr   | 150 000 kr   | 50 000 kr ved uttak         | 11 000 kr (22%)        |
+| Selskap                            | 500 000 kr   | 650 000 kr   | 4 500 kr (3% av 150 000 kr) | 990 kr (0,66%)         |
 
 ## Rapportering
 

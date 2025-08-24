@@ -8,7 +8,7 @@ description: '**Reindriftsfradrag** er et særskilt **skattefradrag** for reindr
 
 ## Grunnleggende om Reindriftsfradrag
 
-Reindriftsfradrag er regulert i skatteloven Â§–¯6-11 og skal kompensere for næringens sesongvariasjoner og driftskostnader.
+Reindriftsfradrag er regulert i skatteloven §–¯6-11 og skal kompensere for næringens sesongvariasjoner og driftskostnader.
 
 ![Reindriftsfradrag Oversikt](reindriftsfradrag-oversikt.svg)
 

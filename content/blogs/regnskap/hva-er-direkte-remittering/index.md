@@ -207,7 +207,7 @@ La oss se på hvordan direkte remittering brukes i praksis gjennom konkrete ekse
 
 ### Eksempel 3: Internasjonal Handel
 
-**Situasjon:** Import av varer fra Tyskland verdt â‚¬50 000.
+**Situasjon:** Import av varer fra Tyskland verdt ‚¬50 000.
 
 **Direkte remittering prosess:**
 1. Kontrakt spesifiserer betalingsbetingelser

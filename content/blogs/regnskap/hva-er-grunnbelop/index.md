@@ -18,7 +18,7 @@ Grunnbeløpet ble etablert sammen med folketrygden i 1967 som en måte å standa
 
 ### 1.2 Juridisk Grunnlag
 
-Grunnbeløpet er hjemlet i **folketrygdloven Â§ 1-4**, som gir Stortinget myndighet til å fastsette beløpet årlig. Justeringen skjer vanligvis 1. mai hvert år, basert på lønnsveksten for foregående år.
+Grunnbeløpet er hjemlet i **folketrygdloven § 1-4**, som gir Stortinget myndighet til å fastsette beløpet årlig. Justeringen skjer vanligvis 1. mai hvert år, basert på lønnsveksten for foregående år.
 
 ## Seksjon 2: Fastsettelse og Justering av Grunnbeløpet
 

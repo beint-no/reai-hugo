@@ -44,7 +44,7 @@ Her er et eksempel på bokføring av påløpte renter:
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2950:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2950:
 
 * [Konto 1710 - Forskuddsbetalte renter](/blogs/kontoplan/1710-forskuddsbetalte-renter "Konto 1710 - Forskuddsbetalte renter: Regnskapsføring av forskuddsbetalte renteutgifter")
 * [Konto 1760 - Påløpte renter](/blogs/kontoplan/1760-palopte-renter "Konto 1760 - Påløpte renter: Regnskapsføring av påløpte renteutgifter")

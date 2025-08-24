@@ -28,7 +28,7 @@ description: '**Konto 6500 - Motordrevet verktøy** er en konto i Norsk Standard
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 20Â 000Â NOK            | 25Â %       | 25Â 000Â NOK         |
+| 20 000 NOK            | 25 %       | 25 000 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -38,7 +38,7 @@ description: '**Konto 6500 - Motordrevet verktøy** er en konto i Norsk Standard
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6500:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6500:
 
 * [Konto 6400 - Leie maskiner](/blogs/kontoplan/6400-leie-maskiner "Konto 6400 - Leie maskiner")
 * [Konto 6440 - Leie transportmidler](/blogs/kontoplan/6440-leie-transportmidler "Konto 6440 - Leie transportmidler")

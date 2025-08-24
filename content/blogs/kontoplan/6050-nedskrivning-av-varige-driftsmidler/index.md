@@ -26,15 +26,15 @@ Eksempler på situasjoner som kan kreve nedskrivning:
 ## Bokføringseksempel
 
 ```plaintext
-Debet: Konto 6050 - Nedskrivning av varige driftsmidler    200Â 000
-Kredit: Konto 1200 - Maskiner og inventar                   200Â 000
+Debet: Konto 6050 - Nedskrivning av varige driftsmidler    200 000
+Kredit: Konto 1200 - Maskiner og inventar                   200 000
 ```
 
-*(Eksempel der maskiner med opprinnelig bokført verdi på 1Â 000Â 000Â kr nedskrives til gjenvinnbart beløp på 800Â 000Â kr.)*
+*(Eksempel der maskiner med opprinnelig bokført verdi på 1 000 000 kr nedskrives til gjenvinnbart beløp på 800 000 kr.)*
 
 ## Regnskapsstandarder og referanser
 
-Bokføring av nedskrivning må følge gjeldende standarder som [IASÂ 36/NRFS](/blogs/regnskap/hva-er-nedskrivning "Hva er Nedskrivning? Komplett Guide til Nedskrivning av Eiendeler") og prinsipper for [varige driftsmidler](/blogs/regnskap/hva-er-varige-driftsmidler "Hva er Varige Driftsmidler? Komplett Guide til Vurdering og Bokføring").
+Bokføring av nedskrivning må følge gjeldende standarder som [IAS 36/NRFS](/blogs/regnskap/hva-er-nedskrivning "Hva er Nedskrivning? Komplett Guide til Nedskrivning av Eiendeler") og prinsipper for [varige driftsmidler](/blogs/regnskap/hva-er-varige-driftsmidler "Hva er Varige Driftsmidler? Komplett Guide til Vurdering og Bokføring").
 
 ## Se også
 

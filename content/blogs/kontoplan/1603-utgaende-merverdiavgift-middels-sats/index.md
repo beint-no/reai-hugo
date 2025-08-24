@@ -39,8 +39,8 @@ Konto 1603 skal brukes når virksomheten fakturerer kunder med middels sats MVA.
 
 | Salgsbeløp uten MVA | MVA (15–¯%)  | Salgsbeløp inkl. MVA |
 |---------------------|-------------|----------------------|
-| 8–¯000Â NOK           | 1–¯200Â NOK   | 9–¯200Â NOK            |
-| 20–¯000Â NOK          | 3–¯000Â NOK   | 23–¯000Â NOK           |
+| 8–¯000 NOK           | 1–¯200 NOK   | 9–¯200 NOK            |
+| 20–¯000 NOK          | 3–¯000 NOK   | 23–¯000 NOK           |
 
 ## Fordeler ved korrekt bokføring av middels sats
 

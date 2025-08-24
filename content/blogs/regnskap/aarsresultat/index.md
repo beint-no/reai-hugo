@@ -19,13 +19,13 @@ En enkel oversikt over beregningen kan vises slik:
 
 | Post               | Beløp (NOK)   |
 |--------------------|--------------:|
-| Driftsinntekter    |    5Â 000Â 000  |
-| Driftskostnader    | (3Â 200Â 000)   |
-| Finansinntekter    |       50Â 000  |
-| Finanskostnader    |     (100Â 000) |
-| Resultat før skatt |    1Â 750Â 000  |
-| Skattekostnad      |     (400Â 000) |
-| **Årsresultat**    | **1Â 350Â 000** |
+| Driftsinntekter    |    5 000 000  |
+| Driftskostnader    | (3 200 000)   |
+| Finansinntekter    |       50 000  |
+| Finanskostnader    |     (100 000) |
+| Resultat før skatt |    1 750 000  |
+| Skattekostnad      |     (400 000) |
+| **Årsresultat**    | **1 350 000** |
 
 ## Hvorfor er Årsresultat viktig?
 

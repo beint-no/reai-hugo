@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 6820 - Trykksaker"
 seoTitle: "6820-trykksaker"
-description: '**Konto 6820 - Trykksaker** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kostnader til trykksaker**, som visittkort, brosjyr...'
+description: '**Konto 6820 - Trykksaker** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader til trykksaker**, som visittkort, brosjyr...'
 ---
 
-**Konto 6820 - Trykksaker** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kostnader til trykksaker**, som visittkort, brosjyrer, flyers, plakater og annet reklamemateriell.
+**Konto 6820 - Trykksaker** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader til trykksaker**, som visittkort, brosjyrer, flyers, plakater og annet reklamemateriell.
 
 ![Illustrasjon av konto 6820 Trykksaker](6820-trykksaker-image.svg)
 
@@ -25,16 +25,16 @@ description: '**Konto 6820 - Trykksaker** er en konto i Norsk Standard Kontoplan
 | Steg            | Beskrivelse                                                   |
 |-----------------|---------------------------------------------------------------|
 | Fakturamottak   | Mottatt fra leverandør av trykksaker                         |
-| Kontering       | Debet: KontoÂ 6820 - Trykksaker<br>Kredit: KontoÂ 2400 - Leverandørgjeld |
-| Betaling        | Debet: KontoÂ 2400 - Leverandørgjeld<br>Kredit: KontoÂ 1920 - Bankinnskudd |
+| Kontering       | Debet: Konto 6820 - Trykksaker<br>Kredit: Konto 2400 - Leverandørgjeld |
+| Betaling        | Debet: Konto 2400 - Leverandørgjeld<br>Kredit: Konto 1920 - Bankinnskudd |
 
 ## Eksempel på bokføring
 
 | Postering                    | Debet                       | Kredit                                             |
 |------------------------------|-----------------------------|----------------------------------------------------|
-| Kjøp av trykksaker ekskl. MVA| KontoÂ 6820 - Trykksaker     | KontoÂ 2400 - Leverandørgjeld                        |
-| Inngående merverdiavgift 25 %| KontoÂ 6820 - Trykksaker     | KontoÂ 2701 - Inngående merverdiavgift høy sats      |
-| Betaling av faktura          | KontoÂ 2400 - Leverandørgjeld | KontoÂ 1920 - Bankinnskudd                           |
+| Kjøp av trykksaker ekskl. MVA| Konto 6820 - Trykksaker     | Konto 2400 - Leverandørgjeld                        |
+| Inngående merverdiavgift 25 %| Konto 6820 - Trykksaker     | Konto 2701 - Inngående merverdiavgift høy sats      |
+| Betaling av faktura          | Konto 2400 - Leverandørgjeld | Konto 1920 - Bankinnskudd                           |
 
 ## Fordeler ved korrekt bruk
 

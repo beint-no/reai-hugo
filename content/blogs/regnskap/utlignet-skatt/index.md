@@ -19,7 +19,7 @@ Beregningsmåten kan oppsummeres som følger:
 | **Element**               | **Beregning**                                                                                      |
 |---------------------------|----------------------------------------------------------------------------------------------------|
 | Betalbar skatt            | Se [Betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og håndtering") |
-| âˆ’ Forskuddsskatt          | Sum innbetalte forskuddsskatter i perioden                                                         |
+| ˆ’ Forskuddsskatt          | Sum innbetalte forskuddsskatter i perioden                                                         |
 | **= Utlignet skatt**      | Skattebeløp som fastsettes i skatteoppgjøret                                                       |
 
 ## Eksempler på resultat i skatteoppgjøret

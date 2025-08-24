@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5800 - Refusjon av sykepenger"
 seoTitle: "5800-refusjon-av-sykepenger"
-description: '**Konto 5800 - Refusjon av sykepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **refusjon av sykepenger** fra NAV so...'
+description: '**Konto 5800 - Refusjon av sykepenger** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **refusjon av sykepenger** fra NAV so...'
 ---
 
-**Konto 5800 - Refusjon av sykepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **refusjon av sykepenger** fra NAV som en reduksjon av lønnskostnader.
+**Konto 5800 - Refusjon av sykepenger** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **refusjon av sykepenger** fra NAV som en reduksjon av lønnskostnader.
 
 ![Illustrasjon av konto 5800 Refusjon av sykepenger](5800-refusjon-av-sykepenger-image.svg)
 
@@ -35,7 +35,7 @@ description: '**Konto 5800 - Refusjon av sykepenger** er en konto i **Norsk Stan
 
 ## Eksempel på bokføring
 
-En virksomhet mottar en refusjon på 10–¯000Â NOK fra NAV for sykepenger utbetalt til ansatte:
+En virksomhet mottar en refusjon på 10–¯000 NOK fra NAV for sykepenger utbetalt til ansatte:
 
 | Beskrivelse                      | Debet (NOK) | Kredit (NOK) |
 |----------------------------------|------------:|-------------:|
@@ -50,7 +50,7 @@ En virksomhet mottar en refusjon på 10–¯000Â NOK fra NAV for sykepenger ut
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 5800:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 5800:
 
 * [Konto 2930 - Lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn")
 * [Konto 2940 - Feriepenger](/blogs/kontoplan/2940-feriepenger "Konto 2940 - Feriepenger")

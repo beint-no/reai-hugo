@@ -5,7 +5,7 @@ description: "Konto 2210 brukes til å registrere obligasjonslån, langsiktige g
 summary: "Konto 2210: obligasjonslån, hovedtyper, og hvordan de bokføres og presenteres i balansen."
 ---
 
-**Konto 2210 - Obligasjonslån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **obligasjonslån**, dvs. langsiktige gjeldsinstrumenter utstedt i obligasjonsmarkedet for å hente finansiering.
+**Konto 2210 - Obligasjonslån** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **obligasjonslån**, dvs. langsiktige gjeldsinstrumenter utstedt i obligasjonsmarkedet for å hente finansiering.
 
 ![Illustrasjon av konto 2210 Obligasjonslån](2210-obligasjonslan-image.svg)
 

@@ -73,7 +73,7 @@ Bestemmelse av optimal kontantbeholdning avhenger av flere kritiske faktorer:
 
 **Baumol-modellen** for kontantbeholdning:
 
-**Optimal kontantbeholdning = âˆš(2 Ã— F Ã— T / r)**
+**Optimal kontantbeholdning = ˆš(2 Ã— F Ã— T / r)**
 
 Hvor:
 * F = Faste kostnader per transaksjon
@@ -85,7 +85,7 @@ Hvor:
 * Transaksjonskostnad: 1 000 NOK
 * Alternativkostnad: 5%
 
-Optimal kontantbeholdning = âˆš(2 Ã— 1 000 Ã— 24 000 000 / 0,05) = **âˆš960 000 000 = 979 796 NOK**
+Optimal kontantbeholdning = ˆš(2 Ã— 1 000 Ã— 24 000 000 / 0,05) = **ˆš960 000 000 = 979 796 NOK**
 
 #### Miller-Orr Modellen for Variable Kontantstrømmer
 

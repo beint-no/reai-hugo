@@ -47,7 +47,7 @@ En ordrebekreftelse er et formelt dokument som bekrefter innholdet i en kundes b
 | Kjøper             | Kunde AS, Org.nr. 987654321         |
 | Beskrivelse        | 100 stk kontorstoler                |
 | Enhetspris         | NOK 500                             |
-| Totalpris          | NOK 50Â 000                          |
+| Totalpris          | NOK 50 000                          |
 | Levering           | Innen 30 dager                      |
 | Betalingsbetingelser | 30 dager netto                    |
 

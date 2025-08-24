@@ -30,7 +30,7 @@ Tabellen nedenfor viser de tre hovedpilarene i HMS og deres regnskapsmessige imp
 
 ## Regulatorisk rammeverk
 
-* **Arbeidsmiljøloven** Â§–¯3‘1 til Â§–¯3‘6 “ Generelle krav til arbeidsmiljø, inkludert [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll i Regnskap?").
+* **Arbeidsmiljøloven** §–¯3‘1 til §–¯3‘6 “ Generelle krav til arbeidsmiljø, inkludert [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll i Regnskap?").
 * **Internkontrollforskriften** “ Krav om systematisk helse-, miljø- og sikkerhetsarbeid.
 * **Forskrift om organisering, ledelse og medvirkning** “ Krav til organisering av HMS-arbeidet.
 * **Yrkesskadeforsikring** “ Lovpålagt forsikring for dekning av yrkesskade; se [Yrkesskadeforsikring](/blogs/regnskap/yrkesskadeforsikring "Yrkesskadeforsikring “ Guide til Yrkesskadeforsikring for Norske Virksomheter").

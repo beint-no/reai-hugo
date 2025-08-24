@@ -23,7 +23,7 @@ description: '![Illustrasjon av Individuell Pensjonssparing](hva-er-individuell-
 
 | Egenskap               | Beskrivelse                                                         |
 |:------------------------|:--------------------------------------------------------------------|
-| Maksimalt fradrag       | Inntil 15Â 000Â kr per år                                             |
+| Maksimalt fradrag       | Inntil 15 000 kr per år                                             |
 | Uttaksregler            | Uttak fordelt over minst 10 år etter fylte 62 år                    |
 | Investeringsvalg        | Aksje-, rente- eller kombinasjonsfond                               |
 | Skattebehandling        | Fradragsberettiget ved innskudd, beskatning ved uttak               |
@@ -37,7 +37,7 @@ For privatpersoner reduseres den skattepliktige inntekten med innbetalt beløp t
 
 1. Velg bank eller finansinstitusjon som tilbyr IPS.
 2. Opprett IPS-konto hos leverandøren.
-3. Bestem årlig innskuddsbeløp opptil grense (inntil 15Â 000Â kr i 2023).
+3. Bestem årlig innskuddsbeløp opptil grense (inntil 15 000 kr i 2023).
 4. Velg investeringsprofil og leverandør.
 5. Innbetal og dokumenter sparingen for skattemeldingen.
 

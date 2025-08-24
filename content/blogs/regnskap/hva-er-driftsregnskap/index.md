@@ -418,9 +418,9 @@ Norske bedrifter må følge spesifikke krav til regnskapsføring og rapportering
 ### Relevante Regelverk:
 
 #### 1. Regnskapsloven
-* **Â§ 6-1:** Krav til resultatregnskap
-* **Â§ 7-1:** Regnskapsføring av inntekter
-* **Â§ 7-2:** Regnskapsføring av kostnader
+* **§ 6-1:** Krav til resultatregnskap
+* **§ 7-1:** Regnskapsføring av inntekter
+* **§ 7-2:** Regnskapsføring av kostnader
 
 #### 2. Regnskapsforskriften
 * Detaljerte krav til kontoplan

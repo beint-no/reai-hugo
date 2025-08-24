@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5000 - Lønn til ansatte"
 seoTitle: "5000-lonn-til-ansatte"
-description: '**Konto 5000 - Lønn til ansatte** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **lønnskostnader** og **relaterte ytelser...'
+description: '**Konto 5000 - Lønn til ansatte** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **lønnskostnader** og **relaterte ytelser...'
 ---
 
-**Konto 5000 - Lønn til ansatte** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **lønnskostnader** og **relaterte ytelser** til ansatte, inkludert **arbeidsgiveravgift**, **forskuddstrekk** og andre påløpte kostnader.
+**Konto 5000 - Lønn til ansatte** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **lønnskostnader** og **relaterte ytelser** til ansatte, inkludert **arbeidsgiveravgift**, **forskuddstrekk** og andre påløpte kostnader.
 
 ![Illustrasjon av konto 5000 Lønn til ansatte](5000-lonn-til-ansatte-image.svg)
 
@@ -39,7 +39,7 @@ description: '**Konto 5000 - Lønn til ansatte** er en konto i **Norsk Standard 
 
 ## Eksempel på bokføring
 
-En ansatt har påløpt lønnskostnader på 50–¯000Â NOK i måneden:
+En ansatt har påløpt lønnskostnader på 50–¯000 NOK i måneden:
 
 | Beskrivelse            | Debet (NOK)                                                                                                                             | Kredit (NOK)                                                                                     |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|

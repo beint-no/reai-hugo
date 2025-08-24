@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7040 - Forsikringer"
 seoTitle: "7040-forsikringer"
-description: '**Konto 7040 - Forsikringer** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **forsikringskostnader** knyttet til virksomhet...'
+description: '**Konto 7040 - Forsikringer** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **forsikringskostnader** knyttet til virksomhet...'
 ---
 
-**Konto 7040 - Forsikringer** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **forsikringskostnader** knyttet til virksomhetens eiendeler og risikoavlastning.
+**Konto 7040 - Forsikringer** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **forsikringskostnader** knyttet til virksomhetens eiendeler og risikoavlastning.
 
 ![Illustrasjon av konto 7040 Forsikringer](7040-forsikringer-image.svg)
 
@@ -45,7 +45,7 @@ Dette er en typisk bokføring av forsikringspremie:
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes i forbindelse med forsikringer:
+Andre kontoer i NS 4102 som ofte brukes i forbindelse med forsikringer:
 
 * [Konto 5920 - Yrkesskadeforsikring](/blogs/kontoplan/5920-yrkesskadeforsikring "Konto 5920 - Yrkesskadeforsikring")
 * [Konto 5930 - Andre forsikringer](/blogs/kontoplan/5930-andre-forsikringer "Konto 5930 - Andre forsikringer")

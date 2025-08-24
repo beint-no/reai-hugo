@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5920 - Yrkesskadeforsikring"
 seoTitle: "5920-yrkesskadeforsikring"
-description: '**Konto 5920 - Yrkesskadeforsikring** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **yrkesskadeforsikring** som en del av ...'
+description: '**Konto 5920 - Yrkesskadeforsikring** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **yrkesskadeforsikring** som en del av ...'
 ---
 
-**Konto 5920 - Yrkesskadeforsikring** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **yrkesskadeforsikring** som en del av ansattes forsikringskostnader.
+**Konto 5920 - Yrkesskadeforsikring** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **yrkesskadeforsikring** som en del av ansattes forsikringskostnader.
 
 ![Illustrasjon av konto 5920 Yrkesskadeforsikring](5920-yrkesskadeforsikring-image.svg)
 
@@ -38,7 +38,7 @@ Kostnader til yrkesskadeforsikring bokføres vanligvis ved påløp:
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes i forbindelse med ansattforsikringer og -fordeler:
+Andre kontoer i NS 4102 som ofte brukes i forbindelse med ansattforsikringer og -fordeler:
 
 * [Konto 5900 - Gaver til ansatte](/blogs/kontoplan/5900-gaver-til-ansatte "Konto 5900 - Gaver til ansatte")
 * [Konto 5910 - Kantinekostnader](/blogs/kontoplan/5910-kantinekostnader "Konto 5910 - Kantinekostnader")

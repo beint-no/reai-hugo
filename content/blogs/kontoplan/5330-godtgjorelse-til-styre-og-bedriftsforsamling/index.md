@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5330 - Godtgjørelse til styre- og bedriftsforsamling"
 seoTitle: "5330-godtgjorelse-til-styre-og-bedriftsforsamling"
-description: '**Konto 5330 - Godtgjørelse til styre- og bedriftsforsamling** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **styrehonora...'
+description: '**Konto 5330 - Godtgjørelse til styre- og bedriftsforsamling** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **styrehonora...'
 ---
 
-**Konto 5330 - Godtgjørelse til styre- og bedriftsforsamling** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **styrehonorar** og **godtgjørelse til bedriftsforsamling** i regnskapet.
+**Konto 5330 - Godtgjørelse til styre- og bedriftsforsamling** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **styrehonorar** og **godtgjørelse til bedriftsforsamling** i regnskapet.
 
 ![Illustrasjon av konto 5330 Godtgjørelse til styre- og bedriftsforsamling](5330-godtgjorelse-til-styre-og-bedriftsforsamling-image.svg)
 
@@ -41,7 +41,7 @@ Formelen for beregning av godtgjørelse kan for eksempel være:
 
 | Beskrivelse                                                          | Debet (NOK) | Kredit (NOK) |
 |----------------------------------------------------------------------|-----------:|-------------:|
-| Godtgjørelse for styremøter (årshonorar 120–¯000Â NOK, 12 møter)       |     10–¯000 |              |
+| Godtgjørelse for styremøter (årshonorar 120–¯000 NOK, 12 møter)       |     10–¯000 |              |
 | Utbetaling av godtgjørelse                                           |            |      10–¯000 |
 
 ## Praktiske hensyn

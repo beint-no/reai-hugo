@@ -47,18 +47,18 @@ Gevinst/tap = Salgspris “ Bokført verdi
 
 | Resultat            | Beregning                                                               |
 |:---------------------|:------------------------------------------------------------------------|
-| Gevinst              | Salgspris > Bokført verdi â†’ overskudd                                  |
-| Tap                  | Salgspris < Bokført verdi â†’ negativt resultat                          |
+| Gevinst              | Salgspris > Bokført verdi †’ overskudd                                  |
+| Tap                  | Salgspris < Bokført verdi †’ negativt resultat                          |
 
 ## 5. Juridisk grunnlag
 
-Realisering av eiendeler reguleres av bokføringsloven Â§–¯4-1 og regnskapsstandarder som NRS, som krever at alle transaksjoner dokumenteres og periodiseres korrekt.
+Realisering av eiendeler reguleres av bokføringsloven §–¯4-1 og regnskapsstandarder som NRS, som krever at alle transaksjoner dokumenteres og periodiseres korrekt.
 
 ## 6. Eksempler
 
-1. **Salg av maskin**: En maskin med bokført verdi 100–¯000 kr selges for 120–¯000 kr â†’ gevinst på 20–¯000 kr.
-2. **Utrangering av utstyr**: Utstyr med bokført verdi 5–¯000 kr utrangeres uten salgsinntekt â†’ tap på 5–¯000 kr.
-3. **Salg av aksjer**: Aksjer kjøpt for 50–¯000 kr selges for 45–¯000 kr â†’ tap på 5–¯000 kr.
+1. **Salg av maskin**: En maskin med bokført verdi 100–¯000 kr selges for 120–¯000 kr †’ gevinst på 20–¯000 kr.
+2. **Utrangering av utstyr**: Utstyr med bokført verdi 5–¯000 kr utrangeres uten salgsinntekt †’ tap på 5–¯000 kr.
+3. **Salg av aksjer**: Aksjer kjøpt for 50–¯000 kr selges for 45–¯000 kr †’ tap på 5–¯000 kr.
 
 ## 7. Sammenheng med andre regnskapsprinsipper
 

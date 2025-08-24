@@ -28,12 +28,12 @@ Se også [Midlertidige forskjeller](/blogs/regnskap/midlertidige-forskjeller "Mi
 
 ## Beregning av utsatt skattefordel
 
-Utsatt skattefordel beregnes normalt som produktet av midlertidig forskjell og gjeldende skattesats (**22Â % per 2024**).
+Utsatt skattefordel beregnes normalt som produktet av midlertidig forskjell og gjeldende skattesats (**22 % per 2024**).
 
 | **Post**                  | **Beregning**                                  |
 |---------------------------|------------------------------------------------|
-| Midlertidig forskjell     | Regnskapsført verdiÂ âˆ’Â Skattemessig grunnlag    |
-| Ã— Skattesats (22Â %)       | Gjeldende sats for selskapsskatt               |
+| Midlertidig forskjell     | Regnskapsført verdi ˆ’ Skattemessig grunnlag    |
+| Ã— Skattesats (22 %)       | Gjeldende sats for selskapsskatt               |
 | **= Utsatt skattefordel** | Skattefordel som bokføres som eiendel          |
 
 ## Bokføring av utsatt skattefordel
@@ -41,27 +41,27 @@ Utsatt skattefordel beregnes normalt som produktet av midlertidig forskjell og g
 I balansen føres utsatt skattefordel på konto **1070 Utsatt skattefordel**. Ved endring i beregningen påvirkes skattekostnaden.
 
 ```text
-Debet 1070 Utsatt skattefordel      22Â 000
-Kredit 8800 Skattekostnad           22Â 000
+Debet 1070 Utsatt skattefordel      22 000
+Kredit 8800 Skattekostnad           22 000
 ```
 
 Se detaljert [Bokføring av utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og Regnskapsføring").
 
 ## Eksempel på beregning og bokføring
 
-Anta en midlertidig forskjell på 100Â 000Â kr:
+Anta en midlertidig forskjell på 100 000 kr:
 
 | Post                        | Beløp      |
 |-----------------------------|------------|
-| Midlertidig forskjell       | 100Â 000Â kr |
-| Ã— Skattesats (22Â %)         | 22Â 000Â kr  |
-| **Utsatt skattefordel**     | **22Â 000Â kr** |
+| Midlertidig forskjell       | 100 000 kr |
+| Ã— Skattesats (22 %)         | 22 000 kr  |
+| **Utsatt skattefordel**     | **22 000 kr** |
 
 Den tilsvarende bokføringen blir:
 
 ```text
-Debet 1070 Utsatt skattefordel      22Â 000
-Kredit 8800 Skattekostnad           22Â 000
+Debet 1070 Utsatt skattefordel      22 000
+Kredit 8800 Skattekostnad           22 000
 ```
 
 ## Utsatt skattefordel vs. utsatt skattegjeld

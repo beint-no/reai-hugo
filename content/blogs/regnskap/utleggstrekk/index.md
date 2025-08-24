@@ -17,7 +17,7 @@ Utleggstrekk er et tvangsmessig lønnstrekk som igangsettes etter et **varsel om
 | Formål               | Dekning av privat gjeld                              | Forhåndsbetaling av skatt                      |
 | Initiativ            | Namsmannen/tvangsmyndighet                          | Skatteetaten                                   |
 | Plikt til trekk      | Obligatorisk ved varsel                              | Obligatorisk for arbeidsgivere                 |
-| Fribeløp/minstebeløp | Fastsettes etter tvangsfullbyrdelsesloven Â§ 6-2     | Skattekortets fribeløp                         |
+| Fribeløp/minstebeløp | Fastsettes etter tvangsfullbyrdelsesloven § 6-2     | Skattekortets fribeløp                         |
 
 
 ## 2. Lovgrunnlag og Rollene
@@ -31,7 +31,7 @@ Utleggstrekk er et tvangsmessig lønnstrekk som igangsettes etter et **varsel om
 
 ## 3. Trekkgrunnlag og Beregning
 
-Trekket beregnes på grunnlag av den ansattes **nettolønn** etter skatt og minstefradrag. Minstebeløp som ikke kan trekkes, kalles fribeløp eller nødvendig livsopphold. Etter tvangsfullbyrdelsesloven Â§–¯6‘2 gjelder følgende *minstebeløp*:
+Trekket beregnes på grunnlag av den ansattes **nettolønn** etter skatt og minstefradrag. Minstebeløp som ikke kan trekkes, kalles fribeløp eller nødvendig livsopphold. Etter tvangsfullbyrdelsesloven §–¯6‘2 gjelder følgende *minstebeløp*:
 
 | Inntekt per måned (NOK) | Fribeløp per måned (NOK) |
 |--------------------------|--------------------------|

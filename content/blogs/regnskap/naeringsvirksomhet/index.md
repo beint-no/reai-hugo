@@ -10,7 +10,7 @@ description: '**Næringsvirksomhet** omfatter all økonomisk aktivitet som drive
 
 ## Hva er næringsvirksomhet?
 
-Begrepet næringsvirksomhet er sentralt i både bokføringsloven og skatteloven. Ifølge Bokføringsforskriften Â§ 2-1 og Skatteloven Â§ 5-1 regnes virksomhet som næringsvirksomhet når den:
+Begrepet næringsvirksomhet er sentralt i både bokføringsloven og skatteloven. Ifølge Bokføringsforskriften § 2-1 og Skatteloven § 5-1 regnes virksomhet som næringsvirksomhet når den:
 
 * Drives varig og systematisk
 * Har formål om økonomisk gevinst eller overskudd
@@ -38,7 +38,7 @@ Virksomheter som kvalifiserer som næringsvirksomhet, må forholde seg til [bokf
 
 Som næringsvirksomhet må du rapportere inntekter og kostnader i [næringsoppgaven](/blogs/regnskap/hva-er-naeringsoppgave "Hva er næringsoppgave? Komplett Guide til Næringsoppgaven i Norge"), som danner grunnlaget for beregning av [næringsinntekt](/blogs/regnskap/naeringsinntekt "Hva er næringsinntekt? Definisjon og Skattemessig Behandling").
 
-For små næringsdrivende kan du benytte [NæringsoppgaveÂ 1](/blogs/regnskap/naeringsoppgave-1 "Hva er NæringsoppgaveÂ 1? Komplett Guide til NæringsoppgaveÂ 1"), mens større virksomheter bruker NæringsoppgaveÂ 2.
+For små næringsdrivende kan du benytte [Næringsoppgave 1](/blogs/regnskap/naeringsoppgave-1 "Hva er Næringsoppgave 1? Komplett Guide til Næringsoppgave 1"), mens større virksomheter bruker Næringsoppgave 2.
 
 ## Registrering og rapportering
 

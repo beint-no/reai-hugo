@@ -49,11 +49,11 @@ Den **bokførte verdien av [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Ei
 
 | **Eiendelstype** | **Inkludert i Q-ratio** | **Kommentarer** |
 |------------------|-------------------------|-----------------|
-| [Anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler") | âœ“ | Bygninger, maskiner, utstyr |
-| Immaterielle eiendeler | âœ“ | Patenter, varemerker, [goodwill](/blogs/regnskap/hva-er-goodwill "Hva er Goodwill? Komplett Guide til Immaterielle Eiendeler") |
-| [Varelager](/blogs/regnskap/hva-er-varelager "Hva er Varelager? En Komplett Guide til Lagerføring og Verdivurdering") | âœ“ | Råvarer, ferdigvarer |
-| [Fordringer](/blogs/regnskap/hva-er-fordringer "Hva er Fordringer? Komplett Guide til Kundefordringer og Andre Fordringer") | âœ“ | [Kundefordringer](/blogs/regnskap/hva-er-debitor "Hva er Debitor i Regnskap? Komplett Guide til Kundefordringer og Debitorhåndtering"), andre fordringer |
-| Kontanter | âœ“ | [Bankinnskudd](/blogs/regnskap/hva-er-bankinnskudd "Hva er Bankinnskudd? Komplett Guide til Bankinnskudd i Regnskap"), likvide midler |
+| [Anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler") | œ“ | Bygninger, maskiner, utstyr |
+| Immaterielle eiendeler | œ“ | Patenter, varemerker, [goodwill](/blogs/regnskap/hva-er-goodwill "Hva er Goodwill? Komplett Guide til Immaterielle Eiendeler") |
+| [Varelager](/blogs/regnskap/hva-er-varelager "Hva er Varelager? En Komplett Guide til Lagerføring og Verdivurdering") | œ“ | Råvarer, ferdigvarer |
+| [Fordringer](/blogs/regnskap/hva-er-fordringer "Hva er Fordringer? Komplett Guide til Kundefordringer og Andre Fordringer") | œ“ | [Kundefordringer](/blogs/regnskap/hva-er-debitor "Hva er Debitor i Regnskap? Komplett Guide til Kundefordringer og Debitorhåndtering"), andre fordringer |
+| Kontanter | œ“ | [Bankinnskudd](/blogs/regnskap/hva-er-bankinnskudd "Hva er Bankinnskudd? Komplett Guide til Bankinnskudd i Regnskap"), likvide midler |
 
 ### 2.3 Praktisk Beregningseksempel
 
@@ -280,7 +280,7 @@ Disse **undervurderes** ofte i tradisjonelle Q-ratio beregninger.
 
 **Resultat:**
 - 80% kursfall over neste tiår
-- Mean reversion til Q â‰ˆ 1,0
+- Mean reversion til Q ‰ˆ 1,0
 
 ### 8.2 Case 2: Dotcom-boblen (2000)
 

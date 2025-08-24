@@ -118,7 +118,7 @@ Skatteforpliktelser utgjør en viktig del av virksomhetens gjeld og krever spesi
 
 ### 3.4 Æresgjeld
 
-**Æresgjeld** er en type uhildet forpliktelse som baseres på tillit og ærefull avtale uten skriftlig kontrakt. Selv om det ikke finnes formell dokumentasjon, forventes det at gjelden tilbakebetales etter Â«heder og æreÂ».
+**Æresgjeld** er en type uhildet forpliktelse som baseres på tillit og ærefull avtale uten skriftlig kontrakt. Selv om det ikke finnes formell dokumentasjon, forventes det at gjelden tilbakebetales etter «heder og ære».
 
 #### Kjennetegn ved Æresgjeld
 

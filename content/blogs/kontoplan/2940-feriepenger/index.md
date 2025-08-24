@@ -5,7 +5,7 @@ description: "Konto 2940 brukes til å registrere opptjente feriepenger som kort
 summary: "Konto 2940: feriepenger. Periodisering, beregning og bokføring."
 ---
 
-**Konto 2940 - Feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **opptjente feriepenger** som en del av **kortsiktig gjeld**.
+**Konto 2940 - Feriepenger** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **opptjente feriepenger** som en del av **kortsiktig gjeld**.
 
 ![Illustrasjon av konto 2940 Feriepenger](2940-feriepenger-image.svg)
 
@@ -39,7 +39,7 @@ Se vår artikkel om [Feriepenger i prosent](/blogs/regnskap/feriepenger-i-prosen
 
 ## Eksempel på bokføring
 
-En ansatt har opptjent feriepenger på 10–¯% av et feriepengegrunnlag på 500–¯000Â NOK:
+En ansatt har opptjent feriepenger på 10–¯% av et feriepengegrunnlag på 500–¯000 NOK:
 
 | Beskrivelse              | Debet (NOK) | Kredit (NOK) |
 |--------------------------|------------:|-------------:|
@@ -49,12 +49,12 @@ En ansatt har opptjent feriepenger på 10–¯% av et feriepengegrunnlag på 500
 ## Praktiske hensyn
 
 * **Avstem feriepenger** jevnlig mot lønnssystemet for å unngå avvik
-* **Beregning:** Følg ferieloven og interne retningslinjer for korrekt beregning av feriepenger (normalt 10,2Â % av grunnlaget)
+* **Beregning:** Følg ferieloven og interne retningslinjer for korrekt beregning av feriepenger (normalt 10,2 % av grunnlaget)
 * **Dokumentasjon:** Oppbevar oversikt over feriepengegrunnlag og beregningsgrunnlag for revisjon
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 2940:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 2940:
 
 * [Konto 5180 - Feriepenger beregnet](/blogs/kontoplan/5180-feriepenger-beregnet "Konto 5180 - Feriepenger beregnet")
 * [Konto 2930 - Lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn")

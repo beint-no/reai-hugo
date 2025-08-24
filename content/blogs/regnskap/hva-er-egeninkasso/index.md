@@ -89,8 +89,8 @@ Ved egeninkasso kan bedriften kreve de samme gebyrene som profesjonelle inkassos
 
 | Type Gebyr | Beløp | Hjemmel |
 |------------|-------|---------|
-| **Første inkassokrav** | Inntil kr 200 | Inkassoforskriften Â§ 4 |
-| **Andre inkassokrav** | Inntil kr 400 | Inkassoforskriften Â§ 4 |
+| **Første inkassokrav** | Inntil kr 200 | Inkassoforskriften § 4 |
+| **Andre inkassokrav** | Inntil kr 400 | Inkassoforskriften § 4 |
 | **Forsinkelsesrenter** | 8,5% p.a. (2024) | Forsinkelsesrenteloven |
 | **Saksomkostninger** | Faktiske kostnader | Tvisteloven |
 

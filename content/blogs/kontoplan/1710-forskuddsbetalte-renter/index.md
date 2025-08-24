@@ -34,7 +34,7 @@ Ved årsavslutning presenteres saldo på konto 1710 som **omløpsmidler**, vurde
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 1710:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 1710:
 
 * [Konto 1480 - Forskuddsbetaling til leverandører](/blogs/kontoplan/1480-forskuddsbetaling-til-leverandorer "Konto 1480 - Forskuddsbetaling til leverandører: Regnskapsføring av forskuddsbetalinger til leverandører")
 * [Konto 1670 - Krav på offentlige tilskudd](/blogs/kontoplan/1670-krav-pa-offentlige-tilskudd "Konto 1670 - Krav på offentlige tilskudd: Behandling av tilskuddskrav")

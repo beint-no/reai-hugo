@@ -19,11 +19,11 @@ description: '![Illustrasjon av Egen Pensjonskonto](hva-er-egen-pensjonskonto-im
 
 | Egenskap                  | Egen pensjonskonto (EPK)              | Tradisjonell OTP                     |
 |:--------------------------|:--------------------------------------|:-------------------------------------|
-| Kontosammenslåing         | âœ”ï¸ Samler midler fra alle arbeidsgivere | âŒ Separate kontoer per arbeidsgiver  |
-| Valg av leverandør        | âœ”ï¸ Fritt valg uten kostnad             | âŒ Leverandør valgt av arbeidsgiver   |
-| Investeringsvalg          | âœ”ï¸ Fleksibelt utvalg                   | âš ï¸ Begrensede alternativer           |
-| Automatiske overføringer  | âœ”ï¸ Ved jobbskifte                      | âŒ Må aktivt ønskes                   |
-| Oversikt i nettbank        | âœ”ï¸ Oversiktlig personlig konto         | âš ï¸ Flere løsninger å følge opp       |
+| Kontosammenslåing         | œ”ï¸ Samler midler fra alle arbeidsgivere | Œ Separate kontoer per arbeidsgiver  |
+| Valg av leverandør        | œ”ï¸ Fritt valg uten kostnad             | Œ Leverandør valgt av arbeidsgiver   |
+| Investeringsvalg          | œ”ï¸ Fleksibelt utvalg                   | š ï¸ Begrensede alternativer           |
+| Automatiske overføringer  | œ”ï¸ Ved jobbskifte                      | Œ Må aktivt ønskes                   |
+| Oversikt i nettbank        | œ”ï¸ Oversiktlig personlig konto         | š ï¸ Flere løsninger å følge opp       |
 
 ## Hvordan opprette og administrere Egen pensjonskonto
 

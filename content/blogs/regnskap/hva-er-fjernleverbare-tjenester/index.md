@@ -22,7 +22,7 @@ Fjernleverbare tjenester er **elektroniske tjenester** som kjennetegnes ved at d
 
 I norsk rett reguleres fjernleverbare tjenester primært gjennom:
 
-* **Merverdiavgiftsloven** Â§ 3-30 og Â§ 3-31
+* **Merverdiavgiftsloven** § 3-30 og § 3-31
 * **EU-direktiv 2006/112/EF** (MVA-direktivet)
 * **Skattedirektoratets** tolkningsuttalelser
 * **OECD-retningslinjer** for digital økonomi

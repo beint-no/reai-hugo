@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5180 - Feriepenger beregnet"
 seoTitle: "5180-feriepenger-beregnet"
-description: '**Konto 5180 - Feriepenger beregnet** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **beregnede feriepenger** som en del av...'
+description: '**Konto 5180 - Feriepenger beregnet** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **beregnede feriepenger** som en del av...'
 ---
 
-**Konto 5180 - Feriepenger beregnet** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **beregnede feriepenger** som en del av **lønnsrelaterte kostnader**.
+**Konto 5180 - Feriepenger beregnet** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **beregnede feriepenger** som en del av **lønnsrelaterte kostnader**.
 
 ![Illustrasjon av konto 5180 Feriepenger beregnet](5180-feriepenger-beregnet-image.svg)
 
@@ -37,7 +37,7 @@ description: '**Konto 5180 - Feriepenger beregnet** er en konto i **Norsk Standa
 ## Eksempel på bokføring
 
 
-En ansatt har beregnede feriepenger på 10,2Â % av et feriepengegrunnlag på 500–¯000Â NOK:
+En ansatt har beregnede feriepenger på 10,2 % av et feriepengegrunnlag på 500–¯000 NOK:
 Se vår artikkel om [Feriepenger i prosent](/blogs/regnskap/feriepenger-i-prosent "Feriepenger i prosent - Satser, Beregning og Eksempler") for detaljert oversikt over satser og eksempler.
 
 | Beskrivelse                   | Debet (NOK) | Kredit (NOK) |
@@ -47,13 +47,13 @@ Se vår artikkel om [Feriepenger i prosent](/blogs/regnskap/feriepenger-i-prosen
 
 ## Praktiske hensyn
 
-* **Beregningsgrunnlag:** Følg ferieloven og interne retningslinjer for korrekt beregning av feriepenger (for eksempel 10,2Â % av feriepengegrunnlaget)
+* **Beregningsgrunnlag:** Følg ferieloven og interne retningslinjer for korrekt beregning av feriepenger (for eksempel 10,2 % av feriepengegrunnlaget)
 * **Avstem mot konto 2940:** Kontroller at beløpene på konto 5180 og 2940 stemmer med lønnssystemet
 * **Dokumentasjon:** Oppbevar oversikt over feriepengegrunnlag og beregninger for revisjon
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 5180:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 5180:
 
 * [Konto 2940 - Feriepenger](/blogs/kontoplan/2940-feriepenger "Konto 2940 - Feriepenger")
 * [Konto 2930 - Lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn")

@@ -136,9 +136,9 @@ Passiva-rapportering er strengt regulert gjennom [bokføringsloven](/blogs/regns
 
 ### Sentrale Bestemmelser
 
-* **Regnskapsloven Â§ 6-1** - Krav til balanseoppsett
-* **Regnskapsloven Â§ 6-2** - Klassifisering av gjeld
-* **Bokføringsloven Â§ 4** - Krav til løpende bokføring
+* **Regnskapsloven § 6-1** - Krav til balanseoppsett
+* **Regnskapsloven § 6-2** - Klassifisering av gjeld
+* **Bokføringsloven § 4** - Krav til løpende bokføring
 
 ### Rapporteringsfrister
 

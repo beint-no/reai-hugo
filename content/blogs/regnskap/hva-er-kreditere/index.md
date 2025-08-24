@@ -144,7 +144,7 @@ For en innkjøpsfaktura på 20 000 kr + 5 000 kr mva:
 
 ### 2. Manglende Balanse
 
-**Problem:** Total debet â‰  total kredit
+**Problem:** Total debet ‰  total kredit
 **Løsning:** Bruk [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming? Komplett Guide til Regnskapsavstemming") for å identifisere ubalanser
 
 ### 3. Feil Kontering

@@ -26,7 +26,7 @@ description: '**Konto 6250 - Bensin, dieselolje** er en konto i Norsk Standard K
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 12Â 000Â NOK            | 25Â %       | 15Â 000Â NOK         |
+| 12 000 NOK            | 25 %       | 15 000 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -36,7 +36,7 @@ description: '**Konto 6250 - Bensin, dieselolje** er en konto i Norsk Standard K
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6250:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6250:
 
 * [Konto 6200 - Elektrisitet](/blogs/kontoplan/6200-elektrisitet "Konto 6200 - Elektrisitet")
 * [Konto 6210 - Gass](/blogs/kontoplan/6210-gass "Konto 6210 - Gass")

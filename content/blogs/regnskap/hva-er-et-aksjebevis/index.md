@@ -19,7 +19,7 @@ Aksjebeviset har flere kritiske funksjoner, både for aksjonæren og for selskap
 
 ## Hva Skal et Aksjebevis Inneholde?
 
-I henhold til **Aksjeloven Â§ 4-10** er det klare krav til hva et aksjebevis *skal* inneholde. Manglende eller feilaktig informasjon kan i verste fall gjøre beviset ugyldig.
+I henhold til **Aksjeloven § 4-10** er det klare krav til hva et aksjebevis *skal* inneholde. Manglende eller feilaktig informasjon kan i verste fall gjøre beviset ugyldig.
 
 ![Innhold i et aksjebevis](innhold-i-et-aksjebevis.svg)
 

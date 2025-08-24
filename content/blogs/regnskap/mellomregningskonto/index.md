@@ -21,7 +21,7 @@ Mellomregningskonto er nyttig i flere scenarioer:
 * Ved oppgjør av konsernbidrag over regnskapsperioder
 * Ved konsolidering av interne saldoer ved årsavslutning
 
-Se også [Konto 1560 - Andre fordringer på selskap samme konsern](/blogs/kontoplan/1560-andre-fordringer-pa-selskap-samme-konsern "Konto 1560 - Andre fordringer på selskap samme konsern") og [Konto 2260 - Gjeld til selskap i samme konsern](/blogs/kontoplan/2260-gjeld-til-selskap-i-samme-konsern "Konto 2260 - Gjeld til selskap i samme konsern") som konkrete eksempler i Norsk Standard Kontoplan (NSÂ 4102).
+Se også [Konto 1560 - Andre fordringer på selskap samme konsern](/blogs/kontoplan/1560-andre-fordringer-pa-selskap-samme-konsern "Konto 1560 - Andre fordringer på selskap samme konsern") og [Konto 2260 - Gjeld til selskap i samme konsern](/blogs/kontoplan/2260-gjeld-til-selskap-i-samme-konsern "Konto 2260 - Gjeld til selskap i samme konsern") som konkrete eksempler i Norsk Standard Kontoplan (NS 4102).
 
 ## Regnskapsføring av Mellomregningskonto
 

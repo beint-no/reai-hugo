@@ -37,8 +37,8 @@ For en oversikt over andre satser, se [Hva er MVA?](/blogs/regnskap/hva-er-moms-
 
 | Beløp uten MVA   | MVA (15–¯%)  | MVA å føre som inngående MVA |
 |------------------|-------------|-------------------------------|
-| 8–¯000Â NOK        | 1–¯200Â NOK   | 1–¯200Â NOK                    |
-| 20–¯000Â NOK       | 3–¯000Â NOK   | 3–¯000Â NOK                    |
+| 8–¯000 NOK        | 1–¯200 NOK   | 1–¯200 NOK                    |
+| 20–¯000 NOK       | 3–¯000 NOK   | 3–¯000 NOK                    |
 
 ## Regler og begrensninger
 

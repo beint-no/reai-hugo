@@ -361,7 +361,7 @@ Likvidasjonsutbytte: 2.200.000 kr
 
 #### Praktiske koordineringsutfordringer:
 ```
-Norsk mor â†’ Utenlandsk datter:
+Norsk mor †’ Utenlandsk datter:
 - Utbytte fra datter: Kildelandsskatt + norsk restskatt
 - Skjermingsfradrag: Ikke tilgjengelig
 - Løsning: Fritaksmetoden eller crediting
@@ -612,7 +612,7 @@ CCCTB (Common Consolidated Corporate Tax Base):
 
 #### Systemintegrasjon:
 ```
-Børs â†’ Portfolio Management â†’ Tax Engine â†’ Skatteetaten
+Børs †’ Portfolio Management †’ Tax Engine †’ Skatteetaten
 Real-time data flow med automatisk compliance-sjekk
 ```
 

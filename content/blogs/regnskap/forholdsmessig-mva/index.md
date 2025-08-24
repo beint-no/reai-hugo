@@ -25,11 +25,11 @@ $$
 
 | Parameter                                    | Beløp      |
 |----------------------------------------------|-----------:|
-| Omsetning som gir fradragsrett               | 750Â 000Â kr |
-| Total omsetning                              |1Â 000Â 000Â kr|
-| **Fradragsprosent**                          | 75Â %       |
-| Inngående MVA                                 |125Â 000Â kr |
-| **Fradragsberettiget MVA**                   | 93Â 750Â kr  |
+| Omsetning som gir fradragsrett               | 750 000 kr |
+| Total omsetning                              |1 000 000 kr|
+| **Fradragsprosent**                          | 75 %       |
+| Inngående MVA                                 |125 000 kr |
+| **Fradragsberettiget MVA**                   | 93 750 kr  |
 
 ## Steg for steg
 
@@ -38,7 +38,7 @@ $$
 
 ## Retningslinjer og regelverk
 
-Metoden for forholdsmessig fradragsrett er beskrevet i [merverdiavgiftsloven](/blogs/regnskap/mva-loven "Mva-loven") Â§Â 8-2 og utdypes i Skatteetatens veiledning. For mer om rapportering, se [momsregnskap](/blogs/regnskap/momsregnskap "Momsregnskap").
+Metoden for forholdsmessig fradragsrett er beskrevet i [merverdiavgiftsloven](/blogs/regnskap/mva-loven "Mva-loven") § 8-2 og utdypes i Skatteetatens veiledning. For mer om rapportering, se [momsregnskap](/blogs/regnskap/momsregnskap "Momsregnskap").
 
 ## Se også
 

@@ -25,8 +25,8 @@ Skatteloven og tilhørende forskrifter stiller krav til innhold, dokumentasjon o
 
 | **Lovverk**                        | **Krav**                                                       |
 |------------------------------------|----------------------------------------------------------------|
-| **Skatteloven Â§ 4-10**             | Dokumentasjonsplikt for all rapportering til Skatteetaten      |
-| **Skatteforvaltningsloven Â§ 8-12** | Oppbevaringsplikt: Ligningspapirer skal oppbevares i minst 10 år |
+| **Skatteloven § 4-10**             | Dokumentasjonsplikt for all rapportering til Skatteetaten      |
+| **Skatteforvaltningsloven § 8-12** | Oppbevaringsplikt: Ligningspapirer skal oppbevares i minst 10 år |
 
 ## Oppbevaringskrav for ligningspapirer
 
@@ -34,9 +34,9 @@ Ligningspapirer må oppbevares i samsvar med skatteforvaltningsloven og bokføri
 
 | **Dokumenttype**   | **Oppbevaringstid** | **Lovgrunnlag**                           |
 |--------------------|---------------------|-------------------------------------------|
-| Ligningspapirer    | 10 år               | Skatteforvaltningsloven Â§ 8-12            |
-| Regnskapsbilag     | 5 år                | Bokføringsloven Â§ 13                      |
-| Årsregnskap        | 10 år               | Regnskapsloven Â§ 3-10                     |
+| Ligningspapirer    | 10 år               | Skatteforvaltningsloven § 8-12            |
+| Regnskapsbilag     | 5 år                | Bokføringsloven § 13                      |
+| Årsregnskap        | 10 år               | Regnskapsloven § 3-10                     |
 
 ## Bruk av ligningspapirer i skattemeldingen
 

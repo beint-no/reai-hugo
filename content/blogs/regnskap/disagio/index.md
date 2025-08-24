@@ -34,12 +34,12 @@ Disagio = Pålydende verdi - Netto mottatt beløp
 
 | År | Netto mottatt beløp | Amortisert Disagio | Akkumulert Disagio | Bokført Verdi |
 |----|---------------------|--------------------|--------------------|---------------|
-| 0  | 95Â 000              | “                  | 0                  | 95Â 000        |
-| 1  | “                   | 1Â 000              | 1Â 000              | 96Â 000        |
-| 2  | “                   | 1Â 000              | 2Â 000              | 97Â 000        |
-| 3  | “                   | 1Â 000              | 3Â 000              | 98Â 000        |
-| 4  | “                   | 1Â 000              | 4Â 000              | 99Â 000        |
-| 5  | “                   | 1Â 000              | 5Â 000              | 100Â 000       |
+| 0  | 95 000              | “                  | 0                  | 95 000        |
+| 1  | “                   | 1 000              | 1 000              | 96 000        |
+| 2  | “                   | 1 000              | 2 000              | 97 000        |
+| 3  | “                   | 1 000              | 3 000              | 98 000        |
+| 4  | “                   | 1 000              | 4 000              | 99 000        |
+| 5  | “                   | 1 000              | 5 000              | 100 000       |
 
 ## Seksjon 3: Regnskapsmessig Behandling
 
@@ -48,9 +48,9 @@ Disagio = Pålydende verdi - Netto mottatt beløp
 Ved utstedelse:
 
 ```text
-DEBET: Bank/finansieringskonto          95Â 000
-   KREDIT: Langsiktig gjeld (nominell)         100Â 000
-   DEBET: Disagio (periodisering)        5Â 000
+DEBET: Bank/finansieringskonto          95 000
+   KREDIT: Langsiktig gjeld (nominell)         100 000
+   DEBET: Disagio (periodisering)        5 000
 ```
 
 ### 3.2 Amortisering av Disagio
@@ -77,7 +77,7 @@ Skattemessig fordeles disagio vanligvis lineært over lånets løpetid og gir fr
 
 ## Seksjon 5: Praktisk Eksempel “ Emisjonsrabatt på Obligasjon
 
-En bedrift utsteder en obligasjon med pålydende 1Â 000Â 000 kr til kurs 98 (netto 980Â 000 kr). Disagio er da 20Â 000 kr.
+En bedrift utsteder en obligasjon med pålydende 1 000 000 kr til kurs 98 (netto 980 000 kr). Disagio er da 20 000 kr.
 
 For mer informasjon om obligasjoner, se [Hva er Obligasjon?](/blogs/regnskap/hva-er-obligasjon "Hva er Obligasjon? Guide til Obligasjoner, Renter og Avkastning").
 

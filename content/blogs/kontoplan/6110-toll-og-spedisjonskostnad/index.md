@@ -37,7 +37,7 @@ description: '**Konto 6110 - Toll og spedisjonskostnad** er en konto i Norsk Sta
 
 | Beløp ekskl. MVA | MVA (25 %) | Total inkl. MVA |
 |------------------|------------|-----------------|
-| 2Â 500 NOK        | 625 NOK    | 3Â 125 NOK       |
+| 2 500 NOK        | 625 NOK    | 3 125 NOK       |
 
 ## Fordeler ved korrekt bruk
 
@@ -47,7 +47,7 @@ description: '**Konto 6110 - Toll og spedisjonskostnad** er en konto i Norsk Sta
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6110:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6110:
 
 * [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld")
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")

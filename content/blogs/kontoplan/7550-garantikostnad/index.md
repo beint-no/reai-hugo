@@ -36,20 +36,20 @@ _*Bruk relevante konti basert på selskapets kontoplan og praktiske behov.*_
 
 ## Eksempel
 
-**Eksempel:** Et selskap avsetter 15Â 000Â NOK i garantikostnad ved regnskapsavslutning og utbetaler deretter 12Â 000Â NOK i garantikrav.
+**Eksempel:** Et selskap avsetter 15 000 NOK i garantikostnad ved regnskapsavslutning og utbetaler deretter 12 000 NOK i garantikrav.
 
 1. Periodisering av garantikostnad:
 
    ```text
-   Debet: Konto 7550 - Garantikostnad 15Â 000
-   Kredit: Konto 2180 - Andre avsetninger for forpliktelser 15Â 000
+   Debet: Konto 7550 - Garantikostnad 15 000
+   Kredit: Konto 2180 - Andre avsetninger for forpliktelser 15 000
    ```
 
 2. Utbetaling av faktisk garantikrav:
 
    ```text
-   Debet: Konto 2180 - Andre avsetninger for forpliktelser 12Â 000
-   Kredit: Konto 1920 - Bankinnskudd 12Â 000
+   Debet: Konto 2180 - Andre avsetninger for forpliktelser 12 000
+   Kredit: Konto 1920 - Bankinnskudd 12 000
    ```
 
 ## Vurdering i resultatregnskapet og balansepresentasjon

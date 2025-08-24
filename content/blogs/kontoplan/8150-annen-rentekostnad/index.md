@@ -19,7 +19,7 @@ description: '**Konto 8150 - Annen rentekostnad** er en konto i Norsk Standard K
 
 ## Når benyttes konto 8150?
 
-Konto 8150 benyttes når virksomheten har rentekostnader som ikke naturlig passer inn på andre rentekonti som konto 8130, 8140 eller [KontoÂ 8160 - Valutatap (Disagio)](/blogs/kontoplan/8160-valutatap-disagio "KontoÂ 8160 - Valutatap (Disagio)"). Dette sikrer **korrekt kostnadsfordeling** og oversikt over finansielle kostnader.
+Konto 8150 benyttes når virksomheten har rentekostnader som ikke naturlig passer inn på andre rentekonti som konto 8130, 8140 eller [Konto 8160 - Valutatap (Disagio)](/blogs/kontoplan/8160-valutatap-disagio "Konto 8160 - Valutatap (Disagio)"). Dette sikrer **korrekt kostnadsfordeling** og oversikt over finansielle kostnader.
 
 ## Regnskapsføring av annen rentekostnad
 
@@ -44,7 +44,7 @@ Konto 8150 benyttes når virksomheten har rentekostnader som ikke naturlig passe
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 8150:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 8150:
 
 * [Konto 8130 - Rentekostnad foretak i samme konsern](/blogs/kontoplan/8130-rentekostnad-foretak-i-samme-konsern "Konto 8130 - Rentekostnad foretak i samme konsern")
 * [Konto 8140 - Rentekostnad, ikke fradragsberettiget](/blogs/kontoplan/8140-rentekostnad-ikke-fradragsberettiget "Konto 8140 - Rentekostnad, ikke fradragsberettiget i Norsk Standard Kontoplan")

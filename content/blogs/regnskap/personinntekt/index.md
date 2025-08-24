@@ -32,9 +32,9 @@ Resultatet er **personinntekt**, som danner grunnlaget for beregning av **trinns
 | Pensjonsinntekt          | Utbetalinger fra offentlige og private pensjonsordninger                       |
 | Næringsinntekt           | Netto fra selvstendig næringsvirksomhet                                        |
 | **= Brutto personinntekt** | Sum inntekter før fradrag                                                       |
-| âˆ’ Minstefradrag          | Standardisert fradrag (prosent av lønnsinntekt, med maksbeløp)                 |
-| âˆ’ Personfradrag          | Standardisert fradrag i personinntekt                                          |
-| âˆ’ Andre fradrag          | Fagforeningskontingent, pensjonsfradrag, etc.                                  |
+| ˆ’ Minstefradrag          | Standardisert fradrag (prosent av lønnsinntekt, med maksbeløp)                 |
+| ˆ’ Personfradrag          | Standardisert fradrag i personinntekt                                          |
+| ˆ’ Andre fradrag          | Fagforeningskontingent, pensjonsfradrag, etc.                                  |
 | **= Personinntekt**      | Grunnlag for trinnskatt og trygdeavgift                                         |
 
 ## Skattesatser for personinntekt

@@ -484,11 +484,11 @@ Sammenligning på tvers av valutaer krever justering for:
 **Utbyttemodeller** for verdsettelse:
 
 #### Gordon Growth Model
-**P = Dâ‚ / (r - g)**
+**P = D‚ / (r - g)**
 
 Hvor:
 * P = Aksjepris
-* Dâ‚ = Forventet utbytte neste år
+* D‚ = Forventet utbytte neste år
 * r = Avkastningskrav
 * g = Vekstrate
 

@@ -35,11 +35,11 @@ Divident = (Tilgjengelige midler “ Sum krav i høyere prioritet) / Antall krav
 ```
 
 Eksempel:
-* Tilgjengelige midler: 1Â 000Â 000Â kr
-* Sum krav i prioritetÂ 1“2: 600Â 000Â kr
-* Antall usikrede krav (prioritetÂ 4): 20
+* Tilgjengelige midler: 1 000 000 kr
+* Sum krav i prioritet 1“2: 600 000 kr
+* Antall usikrede krav (prioritet 4): 20
 
-> Divident for prioritetÂ 4Â = (1Â 000Â 000 “ 600Â 000) / 20 = 20Â 000Â kr per krav
+> Divident for prioritet 4 = (1 000 000 “ 600 000) / 20 = 20 000 kr per krav
 
 ## Praktiske hensyn og interne lenker
 
@@ -55,10 +55,10 @@ Ved håndtering av konkurs og dividentutbetaling bør du også kjenne til:
 I praksis får aksjonærer utbytte (divident) bare hvis det er midler igjen etter at alle kreditorer er fullt dekket.
 
 **Hva skjer ved manglende dekning?**  
-Hvis det ikke er nok midler til å dekke hele prioritetÂ 5, får ingen aksjonærer utbetaling.
+Hvis det ikke er nok midler til å dekke hele prioritet 5, får ingen aksjonærer utbetaling.
 
 **Hvordan påvirker sikkerhet fordringshaverne?**  
-Sikrede fordringer (prioritetÂ 3) får ofte vesentlig høyere dekningsgrad enn usikrede fordringshavere.
+Sikrede fordringer (prioritet 3) får ofte vesentlig høyere dekningsgrad enn usikrede fordringshavere.
 
 Ved spørsmål om mer detaljerte krav og regnskapsmessig behandling, se [Konkursloven](/blogs/regnskap/hva-er-konkursloven "Hva er Konkursloven? Oversikt og viktige bestemmelser").
 

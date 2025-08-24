@@ -36,9 +36,9 @@ I mange nøkkeltall brukes gjennomsnittlig totalkapital for å jevne ut sesongsv
 
 | Nøkkeltall                    | Formel                                                | Hva det måler                         |
 |:------------------------------|:------------------------------------------------------|:--------------------------------------|
-| **Totalkapitalrentabilitet**  | (Driftsresultat Ã· Gjennomsnittlig Totalkapital) Ã—Â 100% | Effektivitet i kapitalbruk           |
+| **Totalkapitalrentabilitet**  | (Driftsresultat Ã· Gjennomsnittlig Totalkapital) Ã— 100% | Effektivitet i kapitalbruk           |
 | **Kapitalomløpshastighet**    | Omsetning Ã· Gjennomsnittlig Totalkapital               | Hvor effektivt aktiva genererer salg |
-| **Soliditet**                 | Egenkapital Ã· TotalkapitalÂ Ã—Â 100%                       | Andel egenkapital i totalkapital      |
+| **Soliditet**                 | Egenkapital Ã· Totalkapital Ã— 100%                       | Andel egenkapital i totalkapital      |
 
 ## Illustrasjon av kapitalstruktur
 

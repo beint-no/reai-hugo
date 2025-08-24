@@ -16,7 +16,7 @@ Fremførbart underskudd oppstår når et selskaps skattemessige **fradragsberett
 
 * **Negativt skattegrunnlag** etter alminnelig inntekt og justeringer
 * Retten til å **reduse fremtidig skatteplikt**
-* Regulert av skatteloven Â§Â 10‘14
+* Regulert av skatteloven § 10‘14
 
 ## Juridisk grunnlag
 
@@ -24,8 +24,8 @@ Reglene for fremførbart underskudd er hjemlet i:
 
 | Lovverk                | Paragraf                      |
 |------------------------|-------------------------------|
-| Skatteloven            | Â§Â 10‘14 om fremføring av underskudd |
-| Bokføringsloven        | Â§Â 4‘1 om dokumentasjon og periodisering |
+| Skatteloven            | § 10‘14 om fremføring av underskudd |
+| Bokføringsloven        | § 4‘1 om dokumentasjon og periodisering |
 
 ## Betingelser for fremføring
 
@@ -43,7 +43,7 @@ Ved beregning av fremførbart underskudd legges følgende elementer til grunn:
 |-----------------------|----------------------------------------------------|
 | Negativ alminnelig inntekt | Differansen mellom inntekter og fradrag         |
 | Tidligere fremføringer | Eventuelt tidligere underskudd som allerede er fremført |
-| Maksimal utnyttelse per år | 100Â % av underskuddet (ingen årlig begrensning)   |
+| Maksimal utnyttelse per år | 100 % av underskuddet (ingen årlig begrensning)   |
 
 _Det er ingen tidsbegrensning på fremføring av underskudd i Norge._
 
@@ -59,9 +59,9 @@ Underskudd fremføres i skattemeldingen på post for underskudd fra tidligere å
 
 | År    | Alminnelig inntekt | Utnyttbar underskudd | Ny saldo fremførbart underskudd |
 |-------|--------------------|-----------------------|---------------------------------|
-| 2022  | -200Â 000           | 200Â 000               | 200Â 000                         |
-| 2023  | 150Â 000            | 150Â 000               | 50Â 000                          |
-| 2024  | 80Â 000             | 50Â 000                | 0                               |
+| 2022  | -200 000           | 200 000               | 200 000                         |
+| 2023  | 150 000            | 150 000               | 50 000                          |
+| 2024  | 80 000             | 50 000                | 0                               |
 
 ## Ofte stilte spørsmål
 

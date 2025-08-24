@@ -27,25 +27,25 @@ De vanligste årsakene til restskatt er:
 Restskatt kan beregnes slik:
 
 ```
-Endelig skatt (skattemelding):      150Â 000 kr
-- Innbetalt forskuddsskatt/termin:  -100Â 000 kr
+Endelig skatt (skattemelding):      150 000 kr
+- Innbetalt forskuddsskatt/termin:  -100 000 kr
 ----------------------------------------
-= Restskatt:                         50Â 000 kr
+= Restskatt:                         50 000 kr
 ```
 
 | Beskrivelse                   | Beløp      |
 |-------------------------------|------------|
-| Endelig skatt (skattemelding) | 150Â 000 kr |
-| Innbetalt forskuddsskatt      | 100Â 000 kr |
-| **Restskatt**                 | **50Â 000 kr** |
+| Endelig skatt (skattemelding) | 150 000 kr |
+| Innbetalt forskuddsskatt      | 100 000 kr |
+| **Restskatt**                 | **50 000 kr** |
 
 ## Bokføring av Restskatt
 
 Når restskatt er fastsatt, bokføres posten normalt slik:
 
 ```text
-Debet: Skattekostnad             50Â 000 kr
-Kredit: Betalbar skatt           50Â 000 kr
+Debet: Skattekostnad             50 000 kr
+Kredit: Betalbar skatt           50 000 kr
 ```
 
 | Restskatt-type | Debet-konto                   | Kredit-konto                       |

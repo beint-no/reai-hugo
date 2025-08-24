@@ -5,7 +5,7 @@ description: "Konto 2080 brukes i kontoplanen til å registrere udekket tap i eg
 summary: "Konto 2080: registrering og bokføring av udekket tap i egenkapitalen, med balansepresentasjon og praktiske eksempler."
 ---
 
-**Konto 2080 - Udekket tap** er en del av **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **udekket tap** som ikke dekkes av andre egenkapitalkontoer.
+**Konto 2080 - Udekket tap** er en del av **egenkapital** i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **udekket tap** som ikke dekkes av andre egenkapitalkontoer.
 
 ![Illustrasjon av konto 2080 udekket tap](2080-udekket-tap-image.svg)
 

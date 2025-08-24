@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7400 - Kontingenter, fradragsberettiget"
 seoTitle: "7400-kontingenter-fradragsberettiget"
-description: '**Konto 7400 - Kontingenter, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kontingenter som er fradr...'
+description: '**Konto 7400 - Kontingenter, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kontingenter som er fradr...'
 ---
 
-**Konto 7400 - Kontingenter, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kontingenter som er fradragsberettiget**.
+**Konto 7400 - Kontingenter, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kontingenter som er fradragsberettiget**.
 
 ![Illustrasjon av konto 7400 Kontingenter, fradragsberettiget](7400-kontingenter-fradragsberettiget-image.svg)
 

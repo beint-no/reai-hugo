@@ -20,7 +20,7 @@ description: '**Ukurans** er **nedskrivning** av varelager som ikke lenger kan r
 
 ## Seksjon 2: Regnskapsregler for Ukurans
 
-I Norge reguleres ukuransvurdering av [regnskapsloven Â§ 5-2](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? En komplett oversikt"): varelager skal vurderes til laveste av anskaffelseskost og netto realisasjonsverdi.
+I Norge reguleres ukuransvurdering av [regnskapsloven § 5-2](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? En komplett oversikt"): varelager skal vurderes til laveste av anskaffelseskost og netto realisasjonsverdi.
 
 ### Norsk standard vs. IFRS
 

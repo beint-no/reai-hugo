@@ -1,7 +1,8 @@
 ﻿---
-title: "Avrunding i Regnskap"
-seoTitle: "Avrunding i Regnskap"
-description: '**Avrunding i regnskap** er et viktig prinsipp som handler om hvordan tall skal presenteres og behandles i [regnskapsføring](/blogs/regnskap/hva-er-regnskap "H...'
+title: "Avrunding i regnskap"
+seoTitle: "Avrunding i regnskap | Regler, metoder og beste praksis"
+description: "Avrunding i regnskap handler om hvordan beløp presenteres og behandles for å sikre konsistens og etterlevelse. Denne guiden dekker regler, metoder og praktiske råd for avrunding i norsk regnskapsføring."
+summary: "Kort guide til avrunding i regnskap: regler, metoder og tips for korrekt presentasjon."
 ---
 
 **Avrunding i regnskap** er et viktig prinsipp som handler om hvordan tall skal presenteres og behandles i [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"). Korrekt avrunding sikrer konsistens, klarhet og overholdelse av regnskapsregler.
@@ -27,7 +28,7 @@ Avrunding påvirker både [balansen](/blogs/regnskap/hva-er-aktiva "Hva er Aktiv
 
 I Norge følger avrunding i regnskap spesifikke regler:
 
-#### Regnskapsloven Â§ 7-1
+#### Regnskapsloven § 7-1
 * **Beløp skal oppgis i hele kroner** eller i tusen kroner
 * **Konsistent avrunding** gjennom hele regnskapet
 * **Tydelig angivelse** av avrundingsnivå

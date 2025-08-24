@@ -32,12 +32,12 @@ Alle kontantsalg må dokumenteres i henhold til **bokføringsloven** og bokføri
 
 ## Seksjon 3: Regnskapsmessig behandling
 
-Bokføring av kontantsalg krever at både inntekt og mottatt kontantbeløp registreres i samme bilag. Eksempel ved salg av varer for 1Â 250Â kr inkl. 25Â % MVA:
+Bokføring av kontantsalg krever at både inntekt og mottatt kontantbeløp registreres i samme bilag. Eksempel ved salg av varer for 1 250 kr inkl. 25 % MVA:
 
 ```
-Debet: Kasse                          1Â 250 kr
-Kredit: Salgsinntekt (varer)          1Â 000 kr
-Kredit: Utgående MVA (25Â %)            250 kr
+Debet: Kasse                          1 250 kr
+Kredit: Salgsinntekt (varer)          1 000 kr
+Kredit: Utgående MVA (25 %)            250 kr
 ```
 
 ## Seksjon 4: Fordeler og ulemper ved Kontantsalg

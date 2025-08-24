@@ -37,17 +37,17 @@ Hvor:
 
 ## Eksempel på Beregning av Nåverdi
 
-Anta at du skal motta **100Â 000Â kr** om **3 år**, og diskonteringsrenten er **8Â %**.
+Anta at du skal motta **100 000 kr** om **3 år**, og diskonteringsrenten er **8 %**.
 
 | Parameter           | Verdi      |
 |---------------------|------------|
-| Fremtidig verdi     | 100Â 000Â kr |
-| Diskonteringsrente  | 8Â %        |
+| Fremtidig verdi     | 100 000 kr |
+| Diskonteringsrente  | 8 %        |
 | Periode (år)        | 3          |
 
 | Beregning                       | Resultat   |
 |---------------------------------|------------|
-| PV = 100Â 000 / (1 + 0,08)^3    | 79Â 383Â kr  |
+| PV = 100 000 / (1 + 0,08)^3    | 79 383 kr  |
 
 ## Bruksområder for Nåverdi
 

@@ -10,7 +10,7 @@ description: '**Primtall** er heltall større enn 1 som kun er delelige med 1 og
 
 ## Definisjon og egenskaper
 
-Et primtall *p* oppfyller kun divisjonsrelasjonene *1 â‰¤ p* og *p â‰¤ p*. De første primtallene er:
+Et primtall *p* oppfyller kun divisjonsrelasjonene *1 ‰¤ p* og *p ‰¤ p*. De første primtallene er:
 
 | Rang | Primtall |
 |-----:|:---------|

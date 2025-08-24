@@ -52,10 +52,10 @@ Oversikt over hovedtrinn ved beregning av skatt for privatpersoner:
 
 | Trinn | Inntektsintervall (2024) | Trinnskatt |
 |-------|--------------------------|------------|
-| 1     | 190 350 “ 267 900 kr     | 1,7Â %      |
-| 2     | 267 900 “ 643 800 kr     | 4,0Â %      |
-| 3     | 643 800 “ 969 200 kr     | 13,2Â %     |
-| 4     | Over 969 200 kr          | 16,2Â %     |
+| 1     | 190 350 “ 267 900 kr     | 1,7 %      |
+| 2     | 267 900 “ 643 800 kr     | 4,0 %      |
+| 3     | 643 800 “ 969 200 kr     | 13,2 %     |
+| 4     | Over 969 200 kr          | 16,2 %     |
 
 Se [Hva er Alminnelig Inntekt?](/blogs/regnskap/alminnelig-inntekt "Hva er Alminnelig Inntekt? Beregning av Skattepliktig Inntekt for Personer") og [Hva er Tabelltrekk?](/blogs/regnskap/hva-er-tabelltrekk "Hva er Tabelltrekk? Komplett Guide til Skattetrekk og Trekkberegning").
 

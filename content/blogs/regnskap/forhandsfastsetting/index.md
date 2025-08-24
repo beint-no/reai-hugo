@@ -10,7 +10,7 @@ Forhåndsfastsetting er skattemyndighetenes **rett til å fastsette** en skattyt
 
 ## Juridisk grunnlag for Forhåndsfastsetting
 
-Skattemyndighetene kan foreta forhåndsfastsetting i henhold til skatteforvaltningsloven Â§Â 9-2 når:
+Skattemyndighetene kan foreta forhåndsfastsetting i henhold til skatteforvaltningsloven § 9-2 når:
 
 * Skattyter ikke leverer [skattemelding](/blogs/regnskap/skattemelding "Skattemelding") innen gitte frister.
 * Skattemeldingen inneholder vesentlige mangler eller feil.
@@ -30,7 +30,7 @@ Vedtak om forhåndsfastsetting er et formelt **skattevedtak** som kan påklages.
 
 ## Frister og klagemuligheter
 
-Klagefristen etter vedtak om forhåndsfastsetting er **6 uker** fra den dagen skattyter mottar vedtaket. En klage sendes til skattemyndighetene og vurderes i tråd med reglene i forvaltningsloven kapittelÂ VI.
+Klagefristen etter vedtak om forhåndsfastsetting er **6 uker** fra den dagen skattyter mottar vedtaket. En klage sendes til skattemyndighetene og vurderes i tråd med reglene i forvaltningsloven kapittel VI.
 
 ## Praktisk eksempel
 

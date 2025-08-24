@@ -10,7 +10,7 @@ description: '**Virksomhet** er den grunnleggende regnskapsenheten som omfatter 
 
 ## Hva menes med Virksomhet?
 
-Begrepet virksomhet brukes i flere lover og forskrifter, blant annet bokføringsloven og regnskapsloven. I henhold til regnskapsloven Â§ 1-2 defineres *virksomhet* som en organisert økonomisk aktivitet som omfatter anskaffelse, bruk og avhending av ressurser.
+Begrepet virksomhet brukes i flere lover og forskrifter, blant annet bokføringsloven og regnskapsloven. I henhold til regnskapsloven § 1-2 defineres *virksomhet* som en organisert økonomisk aktivitet som omfatter anskaffelse, bruk og avhending av ressurser.
 
 ## Juridisk vs. regnskapsmessig Virksomhet
 

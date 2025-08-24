@@ -34,7 +34,7 @@ Saldo på konto 2900 presenteres som **kortsiktig gjeld (omløpsforpliktelser)**
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2900:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2900:
 
 * [Konto 2160 - Uopptjent inntekt](/blogs/kontoplan/2160-uopptjent-inntekt "Konto 2160 - Uopptjent inntekt")
 * [Konto 2970 - Uopptjent inntekt](/blogs/kontoplan/2970-uopptjent-inntekt "Konto 2970 - Uopptjent inntekt: Regnskapsføring av uopptjent inntekt")

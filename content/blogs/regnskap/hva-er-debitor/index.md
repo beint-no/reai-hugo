@@ -85,9 +85,9 @@ Ved forsinket betaling påløper flere typer kostnader som debitorer må dekke:
 | Type kostnad | Beløp | Hjemmel |
 |--------------|-------|---------|
 | **[Morarente](/blogs/regnskap/hva-er-morarente "Hva er Morarente? Komplett Guide til Lovpålagt Forsinkelsesrente i Norge")** | Referanserente + 8% | Forsinkelsesrenteloven |
-| **Purregebyr** | Inntil 75 kr | Inkassoloven Â§ 10a |
-| **Inkassogebyr** | 10% av hovedstol (min 200 kr, maks 2000 kr) | Inkassoloven Â§ 10a |
-| **Advokatkostnader** | Etter regning | Inkassoloven Â§ 9 |
+| **Purregebyr** | Inntil 75 kr | Inkassoloven § 10a |
+| **Inkassogebyr** | 10% av hovedstol (min 200 kr, maks 2000 kr) | Inkassoloven § 10a |
+| **Advokatkostnader** | Etter regning | Inkassoloven § 9 |
 
 **Viktig:** [Morarente](/blogs/regnskap/hva-er-morarente "Hva er Morarente? Komplett Guide til Lovpålagt Forsinkelsesrente i Norge") påløper automatisk fra forfallsdato uten krav om påminnelse, mens andre kostnader krever aktiv oppfølging fra kreditor.
 
@@ -232,9 +232,9 @@ Debitorhåndtering er regulert av flere lover og forskrifter:
 
 | Type fordring | Foreldelsestid | Lovhjemmel |
 |---------------|----------------|------------|
-| **Vanlige fordringer** | 3 år | Foreldelsesloven Â§ 2 |
-| **Løpende leveranser** | 3 år fra siste levering | Foreldelsesloven Â§ 2 |
-| **Håndverkstjenester** | 3 år | Foreldelsesloven Â§ 2 |
+| **Vanlige fordringer** | 3 år | Foreldelsesloven § 2 |
+| **Løpende leveranser** | 3 år fra siste levering | Foreldelsesloven § 2 |
+| **Håndverkstjenester** | 3 år | Foreldelsesloven § 2 |
 
 ## Best Practices for Debitorhåndtering
 

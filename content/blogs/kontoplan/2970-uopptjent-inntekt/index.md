@@ -34,13 +34,13 @@ Saldo på konto 2970 presenteres som **kortsiktig gjeld (omløpsforpliktelser)**
 
 ## Eksempel
 
-Selskapet mottar **120Â 000Â kr** i forskuddsbetaling for et årsabonnement med varighet 12 måneder. Hver måned inntektsføres 10Â 000Â kr, og ved årsslutt er to måneder uopptjent inntekt:
+Selskapet mottar **120 000 kr** i forskuddsbetaling for et årsabonnement med varighet 12 måneder. Hver måned inntektsføres 10 000 kr, og ved årsslutt er to måneder uopptjent inntekt:
 
 | Beskrivelse                         | Beløp (kr) |
 |-------------------------------------|------------|
-| Total forskuddsbetaling             | 120Â 000    |
-| Periodisert inntekt (10Â 000Â kr/mnd) | 120Â 000    |
-| Uopptjent inntekt ved årsslutt      | 20Â 000     |
+| Total forskuddsbetaling             | 120 000    |
+| Periodisert inntekt (10 000 kr/mnd) | 120 000    |
+| Uopptjent inntekt ved årsslutt      | 20 000     |
 
 Bokføring av uopptjent inntekt ved årsslutt:
 
@@ -50,7 +50,7 @@ Bokføring av uopptjent inntekt ved årsslutt:
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2970:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2970:
 
 * [Konto 2160 - Uopptjent inntekt](/blogs/kontoplan/2160-uopptjent-inntekt "Konto 2160 - Uopptjent inntekt: Regnskapsføring av forskuddsinntekter")
 * [Konto 2900 - Forskudd fra kunder](/blogs/kontoplan/2900-forskudd-fra-kunder "Konto 2900 - Forskudd fra kunder: Regnskapsføring av forskudd fra kunder")

@@ -34,13 +34,13 @@ For en helhetlig forståelse av kostnadsbegrepet, se også [Alternativkostnad](/
 
 ## Praktiske eksempler
 
-1. **Kalkulatorisk rente:** Bedriften binder 1Â 000Â 000Â kr i egenkapital, med en kalkulatorisk rente på 4Â %, tilsvarer dette en kalkulatorisk kostnad på 40Â 000Â kr per år.
-2. **Kalkulatorisk lønn:** En daglig leder tar ikke ut markedslønn på 800Â 000Â kr, som likevel regnes som en kalkulatorisk kostnad.
+1. **Kalkulatorisk rente:** Bedriften binder 1 000 000 kr i egenkapital, med en kalkulatorisk rente på 4 %, tilsvarer dette en kalkulatorisk kostnad på 40 000 kr per år.
+2. **Kalkulatorisk lønn:** En daglig leder tar ikke ut markedslønn på 800 000 kr, som likevel regnes som en kalkulatorisk kostnad.
 
 | Scenario                          | Kalkulatorisk kostnad    |
 |-----------------------------------|--------------------------|
-| Egenkapital på 1Â 000Â 000Â kr       | 40Â 000–¯kr per år (4–¯%)   |
-| Eierens arbeidsinnsats            | 800Â 000–¯kr per år        |
+| Egenkapital på 1 000 000 kr       | 40 000–¯kr per år (4–¯%)   |
+| Eierens arbeidsinnsats            | 800 000–¯kr per år        |
 
 ## Hvordan beregne kalkulatoriske kostnader?
 

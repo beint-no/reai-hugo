@@ -28,14 +28,14 @@ Selvstendig næringsdrivende rapporterer næringsinntekt i [næringsoppgaven](/b
 | **Trygdeavgift**               | Betales av netto næringsinntekt (8,2–¯% for de fleste yrker)             |
 | **Trinnskatt**                 | Progressiv skatt basert på personinntekt                              |
 | **Skattepliktig overskudd**    | Resultatet etter kostnadsfradrag, avskrivninger og justeringer         |
-| **MVA-registrering**           | Obligatorisk ved omsetning over 50–¯000Â kr                             |
+| **MVA-registrering**           | Obligatorisk ved omsetning over 50–¯000 kr                             |
 
 ## Regnskapsplikt og rapportering
 
 Avhengig av omsetning følger to nivåer:
 
-* **Omsetning under 5Â mill.Â kr:** Forenklet regnskapsplikt etter [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Komplett Guide til Norsk Bokføringslovgivning").
-* **Omsetning over 5Â mill.Â kr:** Full regnskapsplikt med krav til dobbelt bokføring og årsregnskap.
+* **Omsetning under 5 mill. kr:** Forenklet regnskapsplikt etter [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Komplett Guide til Norsk Bokføringslovgivning").
+* **Omsetning over 5 mill. kr:** Full regnskapsplikt med krav til dobbelt bokføring og årsregnskap.
 
 ## Fordeler og ulemper
 

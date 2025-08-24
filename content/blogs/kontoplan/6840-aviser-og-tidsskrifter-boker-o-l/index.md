@@ -26,11 +26,11 @@ description: '**Konto 6840 - Aviser og tidsskrifter, bøker o.l.** er en konto i
 
 | Beløp ekskl. MVA  | MVA (%) | Total inkl. MVA |
 |-------------------|---------|-----------------|
-| 5Â 000Â NOK         | 25Â %    | 6Â 250Â NOK       |
+| 5 000 NOK         | 25 %    | 6 250 NOK       |
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med kontoÂ 6840:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6840:
 
 * [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld")
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")

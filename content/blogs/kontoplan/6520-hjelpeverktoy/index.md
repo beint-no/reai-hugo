@@ -37,12 +37,12 @@ I noen tilfeller kan hjelpeverktøy av høy verdi eller langsiktig bruk aktivere
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 3Â 000Â NOK             | 25Â %       | 3Â 750Â NOK          |
+| 3 000 NOK             | 25 %       | 3 750 NOK          |
 
 ```text
-Debet  Konto 6520 - Hjelpeverktøy             3Â 000Â NOK
-Debet  Konto 2710 - Inngående merverdiavgift    750Â NOK
-Kredit Konto 2400 - Leverandørgjeld            3Â 750Â NOK
+Debet  Konto 6520 - Hjelpeverktøy             3 000 NOK
+Debet  Konto 2710 - Inngående merverdiavgift    750 NOK
+Kredit Konto 2400 - Leverandørgjeld            3 750 NOK
 ```
 
 ## Fordeler med riktig konto

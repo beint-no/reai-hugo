@@ -1,7 +1,8 @@
 ﻿---
 title: "Årsberetning"
-seoTitle: "Årsberetning"
-description: '![Årsberetning Oversikt](arsberetning-image.svg)'
+seoTitle: "Årsberetning | Innhold, krav og regnskapsrapportering"
+description: "Årsberetning er den årlige ledelsesrapporten som oppsummerer virksomhetens utvikling, risiko og utsikter. Denne guiden forklarer innhold, lovkrav og hvordan årsberetning henger sammen med resultat, balanse, noter og revisjon."
+summary: "Hva er en årsberetning? Kort forklaring av innhold, krav og koblingen til resultat, balanse, noter og revisjon."
 ---
 
 ![Årsberetning Oversikt](arsberetning-image.svg)

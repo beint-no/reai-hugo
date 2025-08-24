@@ -1,10 +1,10 @@
 ﻿---
 title: "Hva er Konto 7160 - Diettkostnader, ikke oppgavepliktig?"
 seoTitle: "7160-diettkostnader-ikke-oppgavepliktig"
-description: '**Konto 7160 - Diettkostnader, ikke oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **diettkostnader som ikk...'
+description: '**Konto 7160 - Diettkostnader, ikke oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **diettkostnader som ikk...'
 ---
 
-**Konto 7160 - Diettkostnader, ikke oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **diettkostnader som ikke er oppgavepliktige**.
+**Konto 7160 - Diettkostnader, ikke oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **diettkostnader som ikke er oppgavepliktige**.
 
 ![Illustrasjon av konto 7160 Diettkostnader, ikke oppgavepliktig](7160-diettkostnader-ikke-oppgavepliktig-image.svg)
 

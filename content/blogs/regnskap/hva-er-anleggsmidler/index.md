@@ -138,13 +138,13 @@ For en dybdegående forklaring av goodwill, se vår [komplette guide til goodwil
 
 | Kostnadselement | Inkluderes | Eksempel |
 |:----------------|:-----------|:---------|
-| Kjøpspris | âœ“ | Fakturert pris for maskinen |
-| Importavgifter | âœ“ | Toll og avgifter ved import |
-| Transport | âœ“ | Frakt til bedriftens lokaler |
-| Installasjon | âœ“ | Montering og tilkobling |
-| Juridiske kostnader | âœ“ | Advokathjelp ved eiendomskjøp |
-| Finansieringskostnader | âœ— | Renter på lån (føres som kostnad) |
-| Opplæringskostnader | âœ— | Kurs for ansatte (føres som kostnad) |
+| Kjøpspris | œ“ | Fakturert pris for maskinen |
+| Importavgifter | œ“ | Toll og avgifter ved import |
+| Transport | œ“ | Frakt til bedriftens lokaler |
+| Installasjon | œ“ | Montering og tilkobling |
+| Juridiske kostnader | œ“ | Advokathjelp ved eiendomskjøp |
+| Finansieringskostnader | œ— | Renter på lån (føres som kostnad) |
+| Opplæringskostnader | œ— | Kurs for ansatte (føres som kostnad) |
 
 ### 3.2 Bagatellgrense
 

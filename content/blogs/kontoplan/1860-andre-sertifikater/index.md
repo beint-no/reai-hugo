@@ -56,7 +56,7 @@ Debet/Kredit: Konto 8170 - Urealiserte gevinster/tap verdipapirer   YYY kroner
 
 ## Bokføringseksempel
 
-En bedrift kjøper banksertifikater for 200–¯000Â kr:
+En bedrift kjøper banksertifikater for 200–¯000 kr:
 
 ```plaintext
 Debet: Konto 1860 - Andre sertifikater            200–¯000 kr

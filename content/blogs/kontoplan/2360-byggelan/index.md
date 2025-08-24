@@ -5,7 +5,7 @@ description: "Konto 2360 brukes til å registrere byggelån knyttet til finansie
 summary: "Konto 2360: byggelån. Bruk i byggeperioden, bokføring og omklassifisering ved ferdigstillelse."
 ---
 
-**Konto 2360 - Byggelån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **lån til byggeprosjekter**, både kortsiktige og langsiktige finansieringsbehov under oppføring eller rehabilitering.
+**Konto 2360 - Byggelån** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **lån til byggeprosjekter**, både kortsiktige og langsiktige finansieringsbehov under oppføring eller rehabilitering.
 
 ![Illustrasjon av konto 2360 byggelån](2360-byggelan-image.svg)
 
@@ -50,7 +50,7 @@ Kredit: Konto 1920 - Bankinnskudd               2–¯500–¯000 kr
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2360:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2360:
 
 * [Konto 2200 - Konvertible lån](/blogs/kontoplan/2200-konvertible-lan "Konto 2200 - Konvertible lån i Norsk Standard Kontoplan")
 * [Konto 2300 - Konvertible lån](/blogs/kontoplan/2300-konvertible-lan "Konto 2300 - Konvertible lån i Norsk Standard Kontoplan")

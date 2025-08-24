@@ -27,7 +27,7 @@ description: '**Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontopl
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 10Â 000 NOK            | 25Â %       | 12Â 500 NOK         |
+| 10 000 NOK            | 25 %       | 12 500 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -37,7 +37,7 @@ description: '**Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontopl
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6200:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6200:
 
 * [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld")
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")

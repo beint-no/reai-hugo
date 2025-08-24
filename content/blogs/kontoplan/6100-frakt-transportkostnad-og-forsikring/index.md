@@ -38,7 +38,7 @@ description: '**Konto 6100 - Frakt, transportkostnad og forsikring** er en konto
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6100:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6100:
 
 * [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld")
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")

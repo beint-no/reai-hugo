@@ -32,8 +32,8 @@ For transaksjonsføringen av omvendt avgiftsplikt ved kjøp av tjenester fra utl
 
 | Beløp uten MVA  | MVA (25–¯%) | MVA å overføre til oppgjørskonto |
 |-----------------|------------|----------------------------------|
-| 5–¯000Â NOK       | 1–¯250Â NOK  | 1–¯250Â NOK                       |
-| 12–¯000Â NOK      | 3–¯000Â NOK  | 3–¯000Â NOK                       |
+| 5–¯000 NOK       | 1–¯250 NOK  | 1–¯250 NOK                       |
+| 12–¯000 NOK      | 3–¯000 NOK  | 3–¯000 NOK                       |
 
 ## Fordeler med egen oppgjørskonto for utenlandstjenester
 

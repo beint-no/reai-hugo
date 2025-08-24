@@ -16,8 +16,8 @@ Ifølge bokføringsforskriften defineres små foretak av følgende kriterier per
 
 | Kriterium               | Terskel                 |
 |-------------------------|-------------------------|
-| Omsetning               | Under NOK 70Â 000Â 000    |
-| Balansesum              | Under NOK 35Â 000Â 000    |
+| Omsetning               | Under NOK 70 000 000    |
+| Balansesum              | Under NOK 35 000 000    |
 | Gjennomsnittlig ansatte | Under 50 [årsverk](/blogs/regnskap/arsverk "Årsverk") |
 
 Foretak som oppfyller minst to av disse tre kriteriene kan rapportere som små foretak med **forenklet rapportering**.

@@ -23,12 +23,12 @@ description: '**Konto 8500 - Ekstraordinær kostnad** er en konto i Norsk Standa
 
 | Transaksjon                            | Debet                                        | Kredit                                             |
 |----------------------------------------|----------------------------------------------|----------------------------------------------------|
-| Tap ved salg av anleggsmidler          | Konto 8400 - Ekstraordinær inntektÂ¹          | Konto 1230 - Anleggsmidler                         |
+| Tap ved salg av anleggsmidler          | Konto 8400 - Ekstraordinær inntekt¹          | Konto 1230 - Anleggsmidler                         |
 | Erstatningsutbetaling                  | Konto 8500 - Ekstraordinær kostnad           | Konto 1500 - Bankinnskudd                          |
 | Restruktureringskostnader              | Konto 8500 - Ekstraordinær kostnad           | Konto 2990 - Annen gjeld/restrukturering           |
 | Andre engangsutgifter                  | Avhenger av art                              | Konto 8500 - Ekstraordinær kostnad                 |
 
-_*Â¹ Denne debiteringen nøytraliserer gevinstpostering i inntekt, ved at tap motregnes mot tidligere gevinstposter.*_
+_*¹ Denne debiteringen nøytraliserer gevinstpostering i inntekt, ved at tap motregnes mot tidligere gevinstposter.*_
 
 ## Presentasjon i resultatregnskapet
 

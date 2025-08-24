@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5090 - Periodiseringskonto lønn"
 seoTitle: "5090-periodiseringskonto-lonn"
-description: '**Konto 5090 - Periodiseringskonto lønn** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å periodisere **lønnskostnader** som er påløpt, ...'
+description: '**Konto 5090 - Periodiseringskonto lønn** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å periodisere **lønnskostnader** som er påløpt, ...'
 ---
 
-**Konto 5090 - Periodiseringskonto lønn** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å periodisere **lønnskostnader** som er påløpt, men ennå ikke utbetalt ved regnskapsperiodens slutt.
+**Konto 5090 - Periodiseringskonto lønn** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å periodisere **lønnskostnader** som er påløpt, men ennå ikke utbetalt ved regnskapsperiodens slutt.
 
 ![Illustrasjon av konto 5090 Periodiseringskonto lønn](5090-periodiseringskonto-lonn-image.svg)
 
@@ -30,18 +30,18 @@ Bruksområder:
 
 ## Formel for periodiseringsbeløp
 
-> **Periodiseringsbeløp = Påløpt lønn âˆ’ Utbetalt lønn**
+> **Periodiseringsbeløp = Påløpt lønn ˆ’ Utbetalt lønn**
 
 ![Formel for periodiseringskonto lønn](periodiseringskonto-lonn-formula.svg)
 
 ## Eksempel
 
-La oss si at en ansatt har påløpt lønn på **krÂ 120Â 000** i desember, men utbetalingen skjer i januar. Ved årsavslutning vil følgende bokføring vise dette:
+La oss si at en ansatt har påløpt lønn på **kr 120 000** i desember, men utbetalingen skjer i januar. Ved årsavslutning vil følgende bokføring vise dette:
 
 | Beskrivelse                    | Debet        | Kredit       |
 |--------------------------------|-------------:|-------------:|
-| Påløpt lønn (desember)         | 120Â 000      |              |
-| Utgift til periodiseringskonto |              | 120Â 000      |
+| Påløpt lønn (desember)         | 120 000      |              |
+| Utgift til periodiseringskonto |              | 120 000      |
 
 Når lønnen utbetales i januar:
 

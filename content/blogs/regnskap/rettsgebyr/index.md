@@ -16,10 +16,10 @@ Rettsgebyrer reguleres av **lov om rettsgebyr**, ofte kalt _rettsgebyrloven_, so
 
 | Gebyrtype                       | Sats / Beregning                                 | Beskrivelse                                      |
 |---------------------------------|--------------------------------------------------|--------------------------------------------------|
-| Grunngebyr for sivil sak        | Fast sats (f.eks. 1Â 460Â kr)                      | Gebyr for å reise sak for tingretten             |
-| Ankegebyr                       | Fast sats (f.eks. 3Â 200Â kr)                      | Gebyr ved anke til lagmannsretten                |
+| Grunngebyr for sivil sak        | Fast sats (f.eks. 1 460 kr)                      | Gebyr for å reise sak for tingretten             |
+| Ankegebyr                       | Fast sats (f.eks. 3 200 kr)                      | Gebyr ved anke til lagmannsretten                |
 | Tvangsfullbyrdelsesgebyr        | Prosent av kravets beløp (f.eks. 2–¯% med min/maks)| Gebyr for begjæring om tvangsfullbyrdelse        |
-| Registreringsgebyr              | Fast sats (f.eks. 860Â kr)                        | Gebyr for registrering av dom eller kjennelse    |
+| Registreringsgebyr              | Fast sats (f.eks. 860 kr)                        | Gebyr for registrering av dom eller kjennelse    |
 
 ## Typer Rettsgebyrer
 
@@ -36,7 +36,7 @@ Beregning av rettsgebyr avhenger av kravets størrelse og sakstype. Nedenfor vis
 
 | Kostnadskomponent                                             | Beløp                                                |
 |---------------------------------------------------------------|------------------------------------------------------|
-| 2–¯% av kravets beløp (min. 860Â kr, maks. 48Â 000Â kr) “ ved krav på 100Â 000Â kr | 2Â 000Â kr                                           |
+| 2–¯% av kravets beløp (min. 860 kr, maks. 48 000 kr) “ ved krav på 100 000 kr | 2 000 kr                                           |
 
 ## Regnskapsføring av Rettsgebyr
 

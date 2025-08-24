@@ -32,8 +32,8 @@ For bokføring av selve transaksjonen, se [Konto 1612 - Inngående merverdiavgif
 
 | Beløp uten MVA  | MVA (25–¯%) | MVA vist i resultatregnskapet |
 |-----------------|------------|-------------------------------|
-| 10–¯000Â NOK      | 2–¯500Â NOK  | 2–¯500Â NOK                    |
-| 6–¯000Â NOK       | 1–¯500Â NOK  | 1–¯500Â NOK                    |
+| 10–¯000 NOK      | 2–¯500 NOK  | 2–¯500 NOK                    |
+| 6–¯000 NOK       | 1–¯500 NOK  | 1–¯500 NOK                    |
 
 ## Regler og begrensninger
 

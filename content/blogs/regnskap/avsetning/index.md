@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Avsetning i Regnskap?"
-seoTitle: "Hva er Avsetning i Regnskap?"
-description: '**Avsetning** er en fundamental del av [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som sikrer at virksomheten tar h...'
+title: "Hva er avsetning i regnskap?"
+seoTitle: "Avsetning i regnskap | Definisjon, typer og regnskapsføring"
+description: "Avsetning er en forpliktelse med usikker størrelse eller tidspunkt. Denne guiden forklarer hva avsetninger er, typiske eksempler som garanti, pensjon og rettstvister, relevant regelverk og hvordan avsetninger måles og bokføres."
+summary: "Kort forklaring av avsetning: hva det er, vanlige typer og hvordan du måler og bokfører avsetninger i regnskapet."
 ---
 
 **Avsetning** er en fundamental del av [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som sikrer at virksomheten tar høyde for fremtidige **forpliktelser** og usikre kostnader. Avsetninger representerer en kritisk komponent i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? En Guide til Balanseregnskap") og påvirker både resultatregnskapet og virksomhetens finansielle stilling. Som en sentral del av [periodiseringsprinsippet](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler"), sikrer avsetninger at kostnader og forpliktelser regnskapsføres i riktig periode.

@@ -14,7 +14,7 @@ Begrepet **betalbar skatt** beskriver den delen av selskapsskatten som bedriften
 ## Nøkkelkomponenter i betalbar skatt
 
 * **Skattemessig resultat**: Selskapsresultatet justert for fradrag, avskrivninger og eventuelle tilleggsposter ([alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning")).
-* **Skattesats**: Den gjeldende satsen for selskapsskatt (**22Â %** per 2024).
+* **Skattesats**: Den gjeldende satsen for selskapsskatt (**22 %** per 2024).
 * **Forskuddsskatt**: Beløp som er betalt forskuddsvis gjennom året og som motregnes i betalbar skatt. Les mer om [forskuddsskatt](/blogs/regnskap/hva-er-forskuddsskatt "Hva er Forskuddsskatt? Beregning og Innbetaling").
 * **Utsatt skatt**: Midlertidige forskjeller mellom regnskapsmessig og skattemessig resultat som utløser skattebetaling i fremtiden ([utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og Regnskapsføring")).
 
@@ -23,8 +23,8 @@ Begrepet **betalbar skatt** beskriver den delen av selskapsskatten som bedriften
 | **Element**             | **Beskrivelse**                                                                                  |
 |-------------------------|--------------------------------------------------------------------------------------------------|
 | Skattemessig resultat   | [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") |
-| Ã— Skattesats (22Â %)     | Gjeldende selskapsskattesats                                                                     |
-| âˆ’ Forskuddsskatt        | Sum betalte forskuddsskatter i perioden                                                         |
+| Ã— Skattesats (22 %)     | Gjeldende selskapsskattesats                                                                     |
+| ˆ’ Forskuddsskatt        | Sum betalte forskuddsskatter i perioden                                                         |
 | **= Betalbar skatt**    | Faktisk beløp virksomheten skal betale i skatt                                                   |
 
 ## Betalbar skatt i regnskapet
@@ -37,10 +37,10 @@ La oss se et forenklet eksempel:
 
 | Post                    | Beløp         |
 |-------------------------|---------------|
-| Alminnelig inntekt      | 500Â 000 kr    |
-| Ã— Skattesats (22Â %)     | 110Â 000 kr    |
-| âˆ’ Forskuddsskatt        | 80Â 000 kr     |
-| **Betalbar skatt**      | **30Â 000 kr** |
+| Alminnelig inntekt      | 500 000 kr    |
+| Ã— Skattesats (22 %)     | 110 000 kr    |
+| ˆ’ Forskuddsskatt        | 80 000 kr     |
+| **Betalbar skatt**      | **30 000 kr** |
 
 ## Skattebetalingsfrister
 
@@ -63,7 +63,7 @@ Betalbar skatt bokføres som en kortsiktig gjeldspost i balansen, for eksempel p
 
 | **Dato**    | **Konto Debet**                               | **Konto Kredit**                         | **Beløp**   |
 |-------------|-----------------------------------------------|------------------------------------------|-------------|
-| 15. april   | 2500 Betalbar skatt, ikke utlignet            | 1920 Bankinnskudd                        | 80Â 000 kr   |
+| 15. april   | 2500 Betalbar skatt, ikke utlignet            | 1920 Bankinnskudd                        | 80 000 kr   |
 
 ## Vanlige utfordringer og tips
 

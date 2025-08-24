@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 8960 - Overføring annen egenkapital"
 seoTitle: "8960-overforing-annen-egenkapital"
-description: '**Konto 8960 - Overføring annen egenkapital** er en konto innen **reserver og overføringer** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrer...'
+description: '**Konto 8960 - Overføring annen egenkapital** er en konto innen **reserver og overføringer** i Norsk Standard Kontoplan (NS 4102) som brukes til å registrer...'
 ---
 
-**Konto 8960 - Overføring annen egenkapital** er en konto innen **reserver og overføringer** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **interne overføringer av årsresultat** til konto for annen egenkapital etter disponering.
+**Konto 8960 - Overføring annen egenkapital** er en konto innen **reserver og overføringer** i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **interne overføringer av årsresultat** til konto for annen egenkapital etter disponering.
 
 ![Illustrasjon av konto 8960 overføring annen egenkapital](8960-overforing-annen-egenkapital-image.svg)
 

@@ -31,12 +31,12 @@ Det norske tollsystemet opererer med flere kategorier av avgifter og kontroller:
 
 | Komponent | Inkludert | Ekskludert |
 |-----------|-----------|------------|
-| Varepris | âœ“ | |
-| Frakt til grense | âœ“ | |
-| Forsikring | âœ“ | |
-| Toll | | âœ“ |
-| Import-MVA | | âœ“ |
-| Håndteringsgebyrer i Norge | | âœ“ |
+| Varepris | œ“ | |
+| Frakt til grense | œ“ | |
+| Forsikring | œ“ | |
+| Toll | | œ“ |
+| Import-MVA | | œ“ |
+| Håndteringsgebyrer i Norge | | œ“ |
 
 ![Beregning av Tollverdi - CIF Basis](tollverdi-beregning.svg)
 

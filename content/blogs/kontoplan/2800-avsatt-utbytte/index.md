@@ -5,7 +5,7 @@ description: "Konto 2800 brukes til å registrere avsatt utbytte vedtatt av gene
 summary: "Konto 2800: avsatt utbytte. Når den brukes og hvordan bokføre."
 ---
 
-**Konto 2800 - Avsatt utbytte** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **avsetning av utbytte** vedtatt av generalforsamlingen som kortsiktig gjeld frem til utbetaling til aksjonærene.
+**Konto 2800 - Avsatt utbytte** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **avsetning av utbytte** vedtatt av generalforsamlingen som kortsiktig gjeld frem til utbetaling til aksjonærene.
 
 ![Illustrasjon av konto 2800 avsatt utbytte](2800-avsatt-utbytte-image.svg)
 

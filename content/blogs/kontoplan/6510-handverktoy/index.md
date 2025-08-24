@@ -35,16 +35,16 @@ I noen tilfeller kan verktøy av høy verdi eller langsiktig bruk aktiveres som 
 
 ## Eksempel på bokføring
 
-Et selskap anskaffer nytt håndverktøy for 5Â 000Â NOK eks. mva. med 25Â % merverdiavgift:
+Et selskap anskaffer nytt håndverktøy for 5 000 NOK eks. mva. med 25 % merverdiavgift:
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 5Â 000Â NOK             | 25Â %       | 6Â 250Â NOK          |
+| 5 000 NOK             | 25 %       | 6 250 NOK          |
 
 ```text
-Debet  Konto 6510 - Håndverktøy               5Â 000Â NOK
-Debet  Konto 2710 - Inngående merverdiavgift   1Â 250Â NOK
-Kredit Konto 2400 - Leverandørgjeld           6Â 250Â NOK
+Debet  Konto 6510 - Håndverktøy               5 000 NOK
+Debet  Konto 2710 - Inngående merverdiavgift   1 250 NOK
+Kredit Konto 2400 - Leverandørgjeld           6 250 NOK
 ```
 
 ## Tips for kostnadskontroll og vedlikehold

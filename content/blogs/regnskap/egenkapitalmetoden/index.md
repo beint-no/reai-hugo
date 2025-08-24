@@ -36,7 +36,7 @@ Regnskapsføringen deles i to hovedtrinn:
 
 | Hendelse                                         | Bokføring i investorens regnskap           |
 | ------------------------------------------------- | ------------------------------------------ |
-| Andel av resultat i målforetaket                  | Øker investering (Â± Resultatandel)         |
+| Andel av resultat i målforetaket                  | Øker investering (± Resultatandel)         |
 | Utbytte mottatt fra målforetaket                  | Reduserer investering (“ Mottatt utbytte)  |
 
 ## Eksempel på bokføring

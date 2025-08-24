@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7430 - Gaver, ikke fradragsberettiget"
 seoTitle: "7430-gaver-ikke-fradragsberettiget"
-description: '**Konto 7430 - Gaver, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **ikke-fradragsberettigede ga...'
+description: '**Konto 7430 - Gaver, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **ikke-fradragsberettigede ga...'
 ---
 
-**Konto 7430 - Gaver, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **ikke-fradragsberettigede gaver**.
+**Konto 7430 - Gaver, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **ikke-fradragsberettigede gaver**.
 
 ![Illustrasjon av konto 7430 Gaver, ikke fradragsberettiget](7430-gaver-ikke-fradragsberettiget-image.svg)
 
@@ -23,7 +23,7 @@ For gaver som kan føres som fradragsberettiget kostnad, se [Konto 7420 - Gaver,
 
 ## Skatteregler og begrensninger
 
-* **Beløpsgrenser:** Gaver som overstiger NOKÂ 200 per mottaker per år utenfor ansattforhold anses som ikke-fradragsberettiget.
+* **Beløpsgrenser:** Gaver som overstiger NOK 200 per mottaker per år utenfor ansattforhold anses som ikke-fradragsberettiget.
 * **Representasjon:** Gaver som anses som representasjon føres på konto 7300 eller under representasjonskontoene (7350/7360).
 * **Dokumentasjon:** Manglende dokumentasjon kan føre til at gaven blir avvist som fradragsberettiget.
 
@@ -31,9 +31,9 @@ For mer informasjon om skattefrie gaver til ansatte, se [Konto 5900 - Gaver til 
 
 ## Praktiske eksempler
 
-1. Virksomheten gir en gavekurv til en kunde til en verdi av NOKÂ 500. Kostnaden føres på konto 7430.
+1. Virksomheten gir en gavekurv til en kunde til en verdi av NOK 500. Kostnaden føres på konto 7430.
 2. Ansatte mottar firmagaver ved julebord med verdi over grensene. Kostnad må føres som ikke-fradragsberettiget.
-3. Leverandør mottar gavekort verdt NOKÂ 300. Hele beløpet føres på konto 7430.
+3. Leverandør mottar gavekort verdt NOK 300. Hele beløpet føres på konto 7430.
 
 
 

@@ -56,7 +56,7 @@ Et selskap som produserer elektronikk opplever at **KPI** faller fra 105 til 100
 | Fjoråret   | 105     |
 | Dette året | 100     |
 
-**Deflasjonsrate = ((105 - 100) / 105) Ã— 100 â‰ˆ 4,76%**
+**Deflasjonsrate = ((105 - 100) / 105) Ã— 100 ‰ˆ 4,76%**
 
 ## Håndtering i Regnskapspraksis
 

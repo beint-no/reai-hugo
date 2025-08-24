@@ -6,7 +6,7 @@ description: '![Tantieme](tantieme-image.svg)'
 
 ![Tantieme](tantieme-image.svg)
 
-**Tantieme** er en form for **bonus** eller variabel godtgjørelse som utbetales til styremedlemmer eller ledelse i et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til AS og Selskapsrett") basert på selskapets resultat og vedtak i [generalÂ­forsamlingen](/blogs/regnskap/hva-er-generalforsamling "Hva er Generalforsamling? Komplett Guide til Generalforsamling og Beslutningsprosesser").
+**Tantieme** er en form for **bonus** eller variabel godtgjørelse som utbetales til styremedlemmer eller ledelse i et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til AS og Selskapsrett") basert på selskapets resultat og vedtak i [general­forsamlingen](/blogs/regnskap/hva-er-generalforsamling "Hva er Generalforsamling? Komplett Guide til Generalforsamling og Beslutningsprosesser").
 
 Artikkelen gir en grundig gjennomgang av hvordan tantieme fastsettes, beregnes, skattemessig behandles og bokføres i norsk regnskapspraksis.
 
@@ -46,9 +46,9 @@ Tantieme = Resultatgrunnlag Ã— Tantiemeprosent
 Typiske tantiemeprosenter:
 | Selskapstype    | Prosent av resultatgrunnlaget |
 |-----------------|-------------------------------|
-| Små AS          | 5Â %Â “Â 10Â %                   |
-| Mellomstore AS  | 10Â %Â “Â 20Â %                  |
-| Store AS        | 15Â %Â “Â 25Â %                  |
+| Små AS          | 5 % “ 10 %                   |
+| Mellomstore AS  | 10 % “ 20 %                  |
+| Store AS        | 15 % “ 25 %                  |
 
 ## Seksjon 4: Skattemessig Behandling
 
@@ -58,7 +58,7 @@ Skattemessig behandling av tantieme krever særskilte vurderinger:
 
 | Aspekt              | Beskrivelse                                         |
 |---------------------|-----------------------------------------------------|
-| Skattetrekk         | 25Â % ved utbetaling til person uten organisasjonsnummer |
+| Skattetrekk         | 25 % ved utbetaling til person uten organisasjonsnummer |
 | Rapportering        | RF-1088 Oppgave over utbetalt styrehonorar/tantieme |
 | Skatteplikt         | Inntektsskatt etter alminnelig sats                  |
 
@@ -72,9 +72,9 @@ Tantieme bokføres ofte på konto 6570 (Styrehonorar) eller egen konto:
 
 **Eksempel bokføring ved utbetaling:**
 ```
-Debet: Styrehonorar og tantieme (6570)   krÂ 150Â 000
-Kredit: Forskuddstrekk                  krÂ 37Â 500
-Kredit: Bank                            krÂ 112Â 500
+Debet: Styrehonorar og tantieme (6570)   kr 150 000
+Kredit: Forskuddstrekk                  kr 37 500
+Kredit: Bank                            kr 112 500
 ```
 
 ## Seksjon 6: Dokumentasjon og Videre Lesning
@@ -90,7 +90,7 @@ For god internkontroll og revisjon bør selskapet ha:
 * [Hva er et aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til AS og Selskapsrett")
 * [Styrehonorar](/blogs/regnskap/styrehonorar "Styrehonorar i aksjeselskap: Fastsetting, Skatt og Bokføring")
 * [Honorar](/blogs/regnskap/hva-er-honorar "Hva er Honorar i Regnskap? Komplett Guide til Honorarutbetalinger og Skattebehandling")
-* [GeneralÂ­forsamling](/blogs/regnskap/hva-er-generalforsamling "Hva er Generalforsamling? Komplett Guide til Generalforsamling og Beslutningsprosesser")
+* [General­forsamling](/blogs/regnskap/hva-er-generalforsamling "Hva er Generalforsamling? Komplett Guide til Generalforsamling og Beslutningsprosesser")
 * [Tantieme](/blogs/regnskap/tantieme "Tantieme i aksjeselskap: Bonusmodell, Skattemessig Behandling og Bokføring")
 
 

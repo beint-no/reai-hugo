@@ -25,7 +25,7 @@ Revisjonsplikten gjelder som hovedregel for følgende selskapsformer og størrel
 
 ## Terskelverdier for revisjonsplikt
 
-Følgende terskelverdier i Regnskapsloven Â§ 7-6 avgjør revisjonsplikten:
+Følgende terskelverdier i Regnskapsloven § 7-6 avgjør revisjonsplikten:
 
 | **Krav**                | **Grenseverdi**                           |
 |-------------------------|--------------------------------------------|
@@ -39,7 +39,7 @@ Legg merke til at dersom to av tre kriterier overskrides i to påfølgende år, 
 
 Visse virksomheter kan unntas eller velge forenklet revisjonsordning:
 
-* **Små foretak**: Kan fravelge revisjon dersom de følger forenklet årsregnskap i henhold til [Regnskapsloven Â§Â 1-5](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven?") og ikke overskrider terskelverdier.
+* **Små foretak**: Kan fravelge revisjon dersom de følger forenklet årsregnskap i henhold til [Regnskapsloven § 1-5](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven?") og ikke overskrider terskelverdier.
 * **Frivillig revisjon**: Selskaper kan avtale revisjon selv om de ikke oppfyller kravene.
 * **Interne revisjonsordninger**: Større konsern kan benytte konsernrevisor for datterselskaper.
 

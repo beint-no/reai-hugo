@@ -25,16 +25,16 @@ Se vår [Hva er et Aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er
 | Steg                                | Ansvarlig    | Kostnad     | Estimert tid  |
 |-------------------------------------|--------------|-------------|--------------|
 | Planlegging                         | GrÃ¼nder      | 0 kr        | 1 dag        |
-| Stiftelsesmøte og [vedtekter](/blogs/regnskap/vedtekter "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap") | GrÃ¼nder      | 0“5Â 000 kr* | 1 dag        |
+| Stiftelsesmøte og [vedtekter](/blogs/regnskap/vedtekter "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap") | GrÃ¼nder      | 0“5 000 kr* | 1 dag        |
 | Registrering i Brønnøysund          | GrÃ¼nder      | [Stiftelsesgebyr](/blogs/regnskap/stiftelsesgebyr "Stiftelsesgebyr ved registrering av AS") | 1“3 dager    |
 | MVA-registrering                    | Selskap      | Gratis      | 0“5 dager    |
-| **Totalsum**                        | “            | **[5Â 570Â kr](/blogs/regnskap/stiftelsesgebyr "Stiftelsesgebyr ved registrering av AS")** | **3“10 dager**|
+| **Totalsum**                        | “            | **[5 570 kr](/blogs/regnskap/stiftelsesgebyr "Stiftelsesgebyr ved registrering av AS")** | **3“10 dager**|
 
 *Kan tilkomme honorarer til rådgiver eller jurist.
 
 ### Viktige krav for å starte AS
 
-- **Minimum aksjekapital** på 30Â 000Â kr (kan være penger eller tingsinnskudd).
+- **Minimum aksjekapital** på 30 000 kr (kan være penger eller tingsinnskudd).
 - **Minst én stifter** (person eller selskap) som tegner alle aksjene.
 - **[Vedtekter](/blogs/regnskap/vedtekter "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap")** som inneholder selskapsnavn, formål og aksjekapital.
 - Gjennomført **stiftelsesmøte** med protokoll.

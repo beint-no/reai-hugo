@@ -14,7 +14,7 @@ description: '**Kjøregodtgjørelse** er en **skattefri godtgjørelse per kilome
 
 ## Lovgrunnlag og regelverk
 
->I henhold til **skatteloven Â§Â 6-2** og **skatteforvaltningsforskriften Â§Â 8-2-1** må alle som krever fradrag for bilkostnader dokumentere forretningsbruk med nøyaktig føring av kjørebok.
+>I henhold til **skatteloven § 6-2** og **skatteforvaltningsforskriften § 8-2-1** må alle som krever fradrag for bilkostnader dokumentere forretningsbruk med nøyaktig føring av kjørebok.
 
 ## Skatteregler og satser for 2024
 

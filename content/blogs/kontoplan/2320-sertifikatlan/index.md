@@ -5,7 +5,7 @@ description: "Konto 2320 brukes til å registrere sertifikatlån, kortsiktige re
 summary: "Konto 2320: sertifikatlån. Kort om hva det er, når kontoen brukes og hvordan bokføre."
 ---
 
-**Konto 2320 - Sertifikatlån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **sertifikatlån**, dvs. kortsiktige rentebærende gjeldsinstrumenter utstedt som sertifikater.
+**Konto 2320 - Sertifikatlån** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **sertifikatlån**, dvs. kortsiktige rentebærende gjeldsinstrumenter utstedt som sertifikater.
 
 ![Illustrasjon av konto 2320 Sertifikatlån](2320-sertifikatlan-image.svg)
 
@@ -34,7 +34,7 @@ Saldo på konto 2320 presenteres som **kortsiktig gjeld** i balansen. Vurder ser
 
 ## Relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2320:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2320:
 
 * [Konto 1860 - Andre sertifikater](/blogs/kontoplan/1860-andre-sertifikater "Konto 1860 - Andre sertifikater i Norsk Standard Kontoplan")
 * [Konto 1830 - Markedsbaserte obligasjoner](/blogs/kontoplan/1830-markedsbaserte-obligasjoner "Konto 1830 - Markedsbaserte obligasjoner i Norsk Standard Kontoplan")

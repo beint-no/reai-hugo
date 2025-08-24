@@ -19,9 +19,9 @@ Det finnes klare regler i **aksjeloven** om kjøp og innehav av egne aksjer:
 
 | Regel                     | Beskrivelse                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
-| Maksimal andel            | Maksimalt 10Â % av total aksjekapital kan kjøpes tilbake                      |
-| Finansieringskrav         | Kjøp skal finansieres av fri egenkapital, jf. aksjeloven Â§–¯8-7              |
-| Formålet med tilbakekjøp  | Skal være i selskapets interesse og godkjennes av generalforsamlingen, jf. aksjeloven Â§–¯8-8 |
+| Maksimal andel            | Maksimalt 10 % av total aksjekapital kan kjøpes tilbake                      |
+| Finansieringskrav         | Kjøp skal finansieres av fri egenkapital, jf. aksjeloven §–¯8-7              |
+| Formålet med tilbakekjøp  | Skal være i selskapets interesse og godkjennes av generalforsamlingen, jf. aksjeloven §–¯8-8 |
 | Salgsalternativ           | Egne aksjer kan videreselges eller slettes, men ikke utbetales utbytte      |
 
 ## Regnskapsføring
@@ -41,21 +41,21 @@ Det finnes klare regler i **aksjeloven** om kjøp og innehav av egne aksjer:
 
 | Beskrivelse         | Beløp (NOK) |
 |---------------------|-------------|
-| Kjøp av egne aksjer | 20Â 000      |
-| Salg av egne aksjer | 5Â 000       |
+| Kjøp av egne aksjer | 20 000      |
+| Salg av egne aksjer | 5 000       |
 
 >Bokføring ved kjøp av egne aksjer:
 >
 >```plaintext
->Debet: Konto 2010 - Egne aksjer     20Â 000
->Kredit: Konto 1920 - Bankinnskudd    20Â 000
+>Debet: Konto 2010 - Egne aksjer     20 000
+>Kredit: Konto 1920 - Bankinnskudd    20 000
 >```
 >
 >Bokføring ved salg av egne aksjer:
 >
 >```plaintext
->Debet: Konto 1920 - Bankinnskudd      5Â 000
->Kredit: Konto 2010 - Egne aksjer       5Â 000
+>Debet: Konto 1920 - Bankinnskudd      5 000
+>Kredit: Konto 2010 - Egne aksjer       5 000
 >```
 
 ## Relaterte artikler

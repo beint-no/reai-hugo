@@ -50,12 +50,12 @@ En typisk oppgjørsprosess involverer følgende trinn:
 **Eksempel: MVA-oppgjør**
 
 ```
-Utgående MVA: 250Â 000 kr
-Inngående MVA: 180Â 000 kr
-Til betaling: 70Â 000 kr
+Utgående MVA: 250 000 kr
+Inngående MVA: 180 000 kr
+Til betaling: 70 000 kr
 
-Debet: 2740 Skyldige offentlige avgifter 70Â 000
-Kredit: 1920 Bankinnskudd                70Â 000
+Debet: 2740 Skyldige offentlige avgifter 70 000
+Kredit: 1920 Bankinnskudd                70 000
 ```
 
 ## Digitalisering av Oppgjør

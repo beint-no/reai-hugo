@@ -53,7 +53,7 @@ Kredit: Konto 1840 - Andre obligasjoner              XXX kroner
 
 ## Bokføringseksempel
 
-En bedrift kjøper utestående obligasjonslån for 500–¯000Â kr:
+En bedrift kjøper utestående obligasjonslån for 500–¯000 kr:
 
 ```plaintext
 Debet: Konto 1840 - Andre obligasjoner              500–¯000 kr

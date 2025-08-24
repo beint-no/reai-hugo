@@ -42,7 +42,7 @@ OCR-teknologi gir flere viktige fordeler sammenlignet med manuell registrering:
 |-------------------------|----------------------|---------------------------------------------|
 | **Hastighet**           | Lav                  | Høy (millisekunder per side)               |
 | **Feilrate**            | 3“5 %                | 0,1“1 %                                    |
-| **Kostnad per side**    | Ca. 2Â NOK            | Ca. 0,2Â NOK                                |
+| **Kostnad per side**    | Ca. 2 NOK            | Ca. 0,2 NOK                                |
 | **Skalerbarhet**        | Begrenset            | Svært god                                  |
 
 For mer informasjon om praktisk bruk av OCR i fakturahåndtering, se [Fakturabehandling](/blogs/regnskap/hva-er-fakturatolk "Hva er Fakturatolk? AI-drevet Fakturabehandling og Automatisering").

@@ -29,7 +29,7 @@ description: '**Konto 6600 - Reparasjon og vedlikehold bygninger** er en konto i
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 50Â 000Â NOK            | 25Â %       | 62Â 500Â NOK         |
+| 50 000 NOK            | 25 %       | 62 500 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -39,7 +39,7 @@ description: '**Konto 6600 - Reparasjon og vedlikehold bygninger** er en konto i
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6600:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6600:
 
 * [Konto 6300 - Leie lokaler](/blogs/kontoplan/6300-leie-lokaler "Konto 6300 - Leie lokaler")
 * [Konto 6340 - Lys, varme](/blogs/kontoplan/6340-lys-varme "Konto 6340 - Lys, varme")

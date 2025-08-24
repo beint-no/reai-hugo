@@ -11,11 +11,11 @@ summary: "Konto 3020: salgsinntekt tjenester med høy MVA-sats. Når og hvordan 
 
 ## Hva er Salgsinntekt tjenester avgiftspliktig høy sats?
 
-*Salgsinntekt tjenester avgiftspliktig høy sats* omfatter omsetning av **tjenester** levert av selskapet, der tjenestene selges med **25Â % MVA**.
+*Salgsinntekt tjenester avgiftspliktig høy sats* omfatter omsetning av **tjenester** levert av selskapet, der tjenestene selges med **25 % MVA**.
 
 | Konto | Beskrivelse                                  | MVA-sats |
 |-------|----------------------------------------------|----------|
-| 3020  | Salgsinntekt tjenester avgiftspl. høy sats    | 25Â %     |
+| 3020  | Salgsinntekt tjenester avgiftspl. høy sats    | 25 %     |
 
 ![Høy MVA-sats: 25 %](3020-mva-hoy-sats.svg)
 

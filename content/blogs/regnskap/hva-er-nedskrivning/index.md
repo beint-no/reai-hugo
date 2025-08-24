@@ -81,7 +81,7 @@ Det gjenvinnbare beløpet er det høyeste av:
 ![Beregning av gjenvinnbart beløp](gjenvinnbart-belop-beregning.svg)
 
 #### Steg 3: Sammenlign med Bokført Verdi
-Hvis gjenvinnbart beløp < bokført verdi â†’ Nedskrivning kreves
+Hvis gjenvinnbart beløp < bokført verdi †’ Nedskrivning kreves
 
 ### Praktisk Eksempel
 

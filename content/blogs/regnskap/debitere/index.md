@@ -30,20 +30,20 @@ Tabellen nedenfor viser hvordan **debitere** påvirker ulike kontotyper:
 
 ## Praktiske Eksempler på Debitering
 
-1. **Kjøp av kontormateriell** for 5Â 000Â kr:
+1. **Kjøp av kontormateriell** for 5 000 kr:
    ```
-   Debet: Kontormateriell 5Â 000 kr
-   Kredit: Bankkonto      5Â 000 kr
+   Debet: Kontormateriell 5 000 kr
+   Kredit: Bankkonto      5 000 kr
    ```
-2. **Utbetaling av lønn** på 50Â 000Â kr:
+2. **Utbetaling av lønn** på 50 000 kr:
    ```
-   Debet: Lønnskostnad     50Â 000 kr
-   Kredit: Bankkonto       50Â 000 kr
+   Debet: Lønnskostnad     50 000 kr
+   Kredit: Bankkonto       50 000 kr
    ```
-3. **Avskrivning av maskiner** med 2Â 000Â kr:
+3. **Avskrivning av maskiner** med 2 000 kr:
    ```
-   Debet: Avskrivningskostnad 2Â 000 kr
-   Kredit: Akk. avskrivninger 2Â 000 kr
+   Debet: Avskrivningskostnad 2 000 kr
+   Kredit: Akk. avskrivninger 2 000 kr
    ```
 
 ## Beste praksis for debitering

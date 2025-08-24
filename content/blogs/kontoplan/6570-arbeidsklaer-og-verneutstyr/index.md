@@ -39,7 +39,7 @@ description: '**Konto 6570 - Arbeidsklær og verneutstyr** er en konto i Norsk S
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6570:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6570:
 
 * [Konto 6500 - Motordrevet verktøy](/blogs/kontoplan/6500-motordrevet-verktoy "Konto 6500 - Motordrevet verktøy")
 * [Konto 6510 - Håndverktøy](/blogs/kontoplan/6510-handverktoy "Konto 6510 - Håndverktøy")

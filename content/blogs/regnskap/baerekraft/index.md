@@ -1,7 +1,8 @@
 ﻿---
 title: "Bærekraft"
-seoTitle: "Bærekraft"
-description: '**Bærekraft** er et overordnet prinsipp som omfatter økonomisk, miljømessig og sosial ansvarlighet i virksomheters drift og rapportering. I regnskapssammenhe...'
+seoTitle: "Bærekraft | Prinsipper, rapportering og krav i regnskap"
+description: "Bærekraft handler om økonomisk, miljømessig og sosial ansvarlighet. Denne artikkelen forklarer hvordan bærekraft integreres i regnskap, hvilke krav som gjelder, og hvordan virksomheter rapporterer etter CSRD og andre rammeverk."
+summary: "Oversikt over bærekraft i regnskap: prinsipper, rapporteringskrav og praktisk gjennomføring."
 ---
 
 **Bærekraft** er et overordnet prinsipp som omfatter økonomisk, miljømessig og sosial ansvarlighet i virksomheters drift og rapportering. I regnskapssammenheng innebærer bærekraft å integrere målbare miljø- og samfunnspåvirkninger i finansielle beslutninger, rapportering og strategisk planlegging.
@@ -28,7 +29,7 @@ Norske virksomheter må forholde seg til en rekke lover og direktiver som stille
 * [CSRD-direktivet](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide") “ EU-krav om standardisert bærekraftsrapportering.
 * [EU-taksonomien](/blogs/regnskap/hva-er-eu-taksonomien "Hva er EU-taksonomien? Komplett Guide til EUs Klassifiseringssystem for Bærekraftige Aktiviteter") “ EUs **klassifiseringssystem** for miljømessig bærekraftige økonomiske aktiviteter.
 * Åpenhetsloven “ krav om due diligence for menneskerettigheter og anstendige arbeidsforhold.
-* Regnskapsloven Â§–¯3‘3c “ krav om redegjørelse for samfunnsansvar i årsrapporten.
+* Regnskapsloven §–¯3‘3c “ krav om redegjørelse for samfunnsansvar i årsrapporten.
 
 ## Praktisk Rapportering
 
@@ -36,7 +37,7 @@ Norske virksomheter må forholde seg til en rekke lover og direktiver som stille
 
 1. **Vesentlighetsanalyse** “ Identifiser hvilke bærekraftstemaer som er viktigst for virksomheten og interessentene.
 2. **Datainnsamling** “ Samle miljø-, sosiale og styringsdata fra interne og eksterne kilder.
-3. **KPI-er og mål** “ Etabler konkrete indikatorer for å måle fremgang (f.eks. COâ‚‚-utslipp per omsetningsenhet).
+3. **KPI-er og mål** “ Etabler konkrete indikatorer for å måle fremgang (f.eks. CO‚‚-utslipp per omsetningsenhet).
 4. **Rapportering** “ Utarbeid integrert rapport eller separat bærekraftsrapport etter [ESRS-standardene](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide").
 5. **Revisjon og verifikasjon** “ Sikre ekstern gjennomgang av bærekraftsdata.
 

@@ -30,7 +30,7 @@ Månedlig trekk: 25.000 Ã— 25 % = 6.250 kr
 
 ## 3. Integrasjon i Lønnssystemer
 
-De fleste moderne lønnssystemer støtter automatisk bruk av TabellÂ 7100 via sanntidsoppslag eller regelbaserte innstillinger:
+De fleste moderne lønnssystemer støtter automatisk bruk av Tabell 7100 via sanntidsoppslag eller regelbaserte innstillinger:
 
 * **Sanntids API-oppslag** til Skatteetaten for å hente oppdaterte trekkprosent
 * **Automatisk oppdatering** ved endringer i tabellverdiene per år
@@ -39,7 +39,7 @@ De fleste moderne lønnssystemer støtter automatisk bruk av TabellÂ 7100 via 
 
 ## 4. Intern og Ekstern Rapportering
 
-Når TabellÂ 7100 benyttes, må korrekt skattetrekk rapporteres til Skatteetaten gjennom [A-meldingen](/blogs/regnskap/hva-er-a-meldingen "Hva er A-meldingen? Komplett Guide til Inntekts- og Trekkoppgaver") og registreres i regnskapet:
+Når Tabell 7100 benyttes, må korrekt skattetrekk rapporteres til Skatteetaten gjennom [A-meldingen](/blogs/regnskap/hva-er-a-meldingen "Hva er A-meldingen? Komplett Guide til Inntekts- og Trekkoppgaver") og registreres i regnskapet:
 
 | **Rapporteringsinstrument** | **Beskrivelse**                    |
 |-----------------------------|------------------------------------|

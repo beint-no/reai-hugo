@@ -265,12 +265,12 @@ SKAL bruke tofaktorautentisering.
 #### Implementering i regnskapskontekst:
 ```
 Tradisjonell modell:
-Bruker inne på nettverket â†’ Tilgang til alle regnskapssystemer
+Bruker inne på nettverket †’ Tilgang til alle regnskapssystemer
 
 Zero Trust modell:
-Bruker autentisert â†’ Tilgang vurdert per system
-â†’ Kontinuerlig verifisering av aktivitet
-â†’ Automatisk utlogging ved mistenksom atferd
+Bruker autentisert †’ Tilgang vurdert per system
+†’ Kontinuerlig verifisering av aktivitet
+†’ Automatisk utlogging ved mistenksom atferd
 ```
 
 ![Zero Trust Regnskap](zero-trust-regnskap.svg)
@@ -381,7 +381,7 @@ Scenario: Hovedkontor ødelegges av brann
 #### Implementering for regnskapsystem:
 ```
 Tradisjonell: Brukernavn + Passord + 2FA-kode
-Passwordless: Hardware-nøkkel eller biometri â†’ direkte tilgang
+Passwordless: Hardware-nøkkel eller biometri †’ direkte tilgang
 
 Fordeler:
 - Redusert support-overhead (ingen glemt passord)

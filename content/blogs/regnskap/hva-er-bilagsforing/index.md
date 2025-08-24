@@ -14,7 +14,7 @@ I Norge reguleres bilagsføring av **[bokføringsforskriften](/blogs/regnskap/hv
 
 ## Lovkrav til Bilagsføring i Norge
 
-[Bokføringsforskriften](/blogs/regnskap/hva-er-bokføringsforskriften "Hva er Bokføringsforskriften? Komplett Guide til Norske Bokføringskrav og Regler") Â§ 5-1 til Â§ 5-3 definerer klare krav til hvordan bilag skal behandles og arkiveres. Disse kravene sikrer at regnskapet kan etterprøves og at bedriften kan dokumentere alle transaksjoner overfor skattemyndighetene.
+[Bokføringsforskriften](/blogs/regnskap/hva-er-bokføringsforskriften "Hva er Bokføringsforskriften? Komplett Guide til Norske Bokføringskrav og Regler") § 5-1 til § 5-3 definerer klare krav til hvordan bilag skal behandles og arkiveres. Disse kravene sikrer at regnskapet kan etterprøves og at bedriften kan dokumentere alle transaksjoner overfor skattemyndighetene.
 
 ![Lovkrav til Bilagsføring](bilagsforing-lovkrav.svg)
 
@@ -34,11 +34,11 @@ Ulike typer bilag har forskjellige arkiveringsperioder som må overholdes:
 
 | Bilagstype | Arkiveringsperiode | Lovgrunnlag |
 |------------|-------------------|-------------|
-| Regnskapsbilag | 5 år | Bokføringsforskriften Â§ 13-2 |
-| [Fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og [kvitteringer](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap") | 5 år | Bokføringsforskriften Â§ 13-2 |
-| Kontrakter og avtaler | 10 år | Bokføringsforskriften Â§ 13-3 |
-| Lønnsbilag | 5 år | Bokføringsforskriften Â§ 13-2 |
-| MVA-dokumenter | 10 år | Merverdiavgiftsloven Â§ 21-3 |
+| Regnskapsbilag | 5 år | Bokføringsforskriften § 13-2 |
+| [Fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og [kvitteringer](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap") | 5 år | Bokføringsforskriften § 13-2 |
+| Kontrakter og avtaler | 10 år | Bokføringsforskriften § 13-3 |
+| Lønnsbilag | 5 år | Bokføringsforskriften § 13-2 |
+| MVA-dokumenter | 10 år | Merverdiavgiftsloven § 21-3 |
 
 ## Bilagstyper og Klassifisering
 

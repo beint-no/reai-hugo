@@ -45,8 +45,8 @@ Verdipapirsentralen (VPS) er Norges offisielle sentralregister for verdipapirer.
 
 | **Type gebyr**            | **Beskrivelse**                                              |
 |---------------------------|--------------------------------------------------------------|
-| Førstegangs etablering    | Engangsbeløp for å opprette konto (typisk 0“100Â NOK).        |
-| Årlig kontoføring         | Fast årsgebyr for oppbevaring (typisk 50“200Â NOK).           |
+| Førstegangs etablering    | Engangsbeløp for å opprette konto (typisk 0“100 NOK).        |
+| Årlig kontoføring         | Fast årsgebyr for oppbevaring (typisk 50“200 NOK).           |
 | Transaksjonsgebyr         | Provisjon per kjøp/salg (varierer mellom tilbydere).         |
 | Flyttegebyr               | Kostnad ved overføring av verdipapirer mellom VPS-kontoer.   |
 

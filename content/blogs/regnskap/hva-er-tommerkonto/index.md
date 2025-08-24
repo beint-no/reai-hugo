@@ -23,7 +23,7 @@ Tømmerkonto representerer en særordning i det norske skattesystemet som gir sk
 
 ## Juridisk Rammeverk og Regulering
 
-Tømmerkontoordningen er regulert i **skatteloven Â§ 8-17** og tilhørende forskrifter. Ordningen ble etablert for å:
+Tømmerkontoordningen er regulert i **skatteloven § 8-17** og tilhørende forskrifter. Ordningen ble etablert for å:
 
 * Utjevne inntektssvingninger i skogbruk
 * Kompensere for lang produksjonstid i skogsdrift

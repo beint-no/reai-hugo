@@ -20,10 +20,10 @@ Denne typen utbytte gir selskapsledelsen fleksibilitet til å belønne aksjonær
 
 ## Juridisk Grunnlag
 
-Reglene for ekstraordinært utbytte finnes i **aksjeloven Â§Â 8-2**, som stiller krav til at utbytte ikke må gå på bekostning av selskapets kapitalvern. Blant hovedkravene er:
+Reglene for ekstraordinært utbytte finnes i **aksjeloven § 8-2**, som stiller krav til at utbytte ikke må gå på bekostning av selskapets kapitalvern. Blant hovedkravene er:
 
 * Selskapet må ha **tilstrekkelig fri egenkapital** etter ordinært utbytteutlegg
-* Utbyttet må godkjennes av **generalÂ­forsamlingen** etter innstilling fra styret
+* Utbyttet må godkjennes av **general­forsamlingen** etter innstilling fra styret
 * Det kreves en **styreprotokoll** som dokumenterer beslutningen
 
 For beregninger av det **maksimale ordinære utbyttet**, se [Maskimalt Utbytte](/blogs/regnskap/maskimalt-utbytte "Maskimalt Utbytte - Komplett Guide til Utbytteregler og Beregning").
@@ -46,7 +46,7 @@ Anta at et selskap etter ordinær utdeling har følgende fri egenkapital:
 | Fri egenkapital etter ordinært utbytte | 3–¯000–¯000   |
 | Ønsket ekstraordinært utbytte          | ?           |
 
-GeneralÂ­forslaget vedtar et ekstraordinært utbytte på **1–¯000–¯000 kr**, forutsatt at fri egenkapital er tilstrekkelig.
+General­forslaget vedtar et ekstraordinært utbytte på **1–¯000–¯000 kr**, forutsatt at fri egenkapital er tilstrekkelig.
 
 ## Prosess og Dokumentasjon
 
@@ -54,7 +54,7 @@ For å sikre korrekt behandling må følgende trinn følges:
 
 1. **Styrets forslag** til ekstraordinært utbytte utarbeides med beregninger
 2. Protokoll føres i **styremøte** med beslutningsgrunnlag
-3. Innkalling til **generalÂ­forsamling** sendes ut med forslag om utbytte
+3. Innkalling til **general­forsamling** sendes ut med forslag om utbytte
 4. Generalforsamlingen vedtar **beløp og utbetalingsdato**
 5. **Regnskapsføring** og rapportering i årsregnskapet
 
@@ -77,7 +77,7 @@ Ekstraordinært utbytte skattlegges på tilsvarende måte som ordinært utbytte:
 
 Ekstraordinært utbytte er en kraftig måte å dele ut merverdi til aksjonærene, men krever grundig vurdering av:
 
-* **Juridiske krav** i aksjeloven Â§Â 8-2
+* **Juridiske krav** i aksjeloven § 8-2
 * **Tilgjengelig fri egenkapital** etter ordinært utbytte
 * **Dokumentasjonsplikt** i styre- og generalforsamlingsprotokoller
 * **Skattemessige konsekvenser** for ulike aksjonærtyper

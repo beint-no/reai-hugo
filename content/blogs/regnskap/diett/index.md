@@ -18,9 +18,9 @@ Diett omfatter **måltider** og **småforpleining** (for eksempel kaffe og frukt
 
 | Type diett                       | Dokumentasjon          | Skatteetatens normaltariff  |
 |----------------------------------|------------------------|-----------------------------|
-| **Enkelt diett (innenlands)**    | Egenattest eller bilag | 313Â NOK per hele døgn       |
-| **Dobbel diett (innenlands)**    | Egenattest eller bilag | 627Â NOK per hele døgn       |
-| **Måltidsfradrag**               | Egenattest eller bilag | 20Â % av enkel diett         |
+| **Enkelt diett (innenlands)**    | Egenattest eller bilag | 313 NOK per hele døgn       |
+| **Dobbel diett (innenlands)**    | Egenattest eller bilag | 627 NOK per hele døgn       |
+| **Måltidsfradrag**               | Egenattest eller bilag | 20 % av enkel diett         |
 
 ![Normaltariffer for Diett](diett-normaltariffer-oversikt.svg)
 

@@ -14,7 +14,7 @@ description: '**Konto 6210 - Gass** er en konto i Norsk Standard Kontoplan som b
 
 * **Naturgass**: Kjøpt gass brukt i produksjon, oppvarming og laboratorieutstyr.
 * **LPG (Flytende Petroleumsgass)**: Brukes til oppvarming, industriprosesser og kjøretøydrift.
-* **Gassavgifter**: COâ‚‚-avgift, metanutslippsavgift og andre miljørelaterte avgifter.
+* **Gassavgifter**: CO‚‚-avgift, metanutslippsavgift og andre miljørelaterte avgifter.
 
 ## Regnskapsføring av gasskostnader
 
@@ -27,7 +27,7 @@ description: '**Konto 6210 - Gass** er en konto i Norsk Standard Kontoplan som b
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 8Â 000Â NOK             | 25Â %       | 10Â 000Â NOK         |
+| 8 000 NOK             | 25 %       | 10 000 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -37,7 +37,7 @@ description: '**Konto 6210 - Gass** er en konto i Norsk Standard Kontoplan som b
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6210:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6210:
 
 * [Konto 6200 - Elektrisitet](/blogs/kontoplan/6200-elektrisitet "Konto 6200 - Elektrisitet")
 * [Konto 6220 - Fyringsolje](/blogs/kontoplan/6220-fyringsolje "Konto 6220 - Fyringsolje")

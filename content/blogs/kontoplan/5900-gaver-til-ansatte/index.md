@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5900 - Gaver til ansatte"
 seoTitle: "5900-gaver-til-ansatte"
-description: '**Konto 5900 - Gaver til ansatte** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **gaver til ansatte** som en del av ansatt...'
+description: '**Konto 5900 - Gaver til ansatte** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **gaver til ansatte** som en del av ansatt...'
 ---
 
-**Konto 5900 - Gaver til ansatte** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **gaver til ansatte** som en del av ansattgoder.
+**Konto 5900 - Gaver til ansatte** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **gaver til ansatte** som en del av ansattgoder.
 
 ![Illustrasjon av konto 5900 Gaver til ansatte](5900-gaver-til-ansatte-image.svg)
 
@@ -20,8 +20,8 @@ For informasjon om fradragsberettigede gaver til kunder og leverandører, se [Ko
 
 | Type gave                               | Grense per ansatt | Skattepliktig?                       |
 |-----------------------------------------|-------------------|--------------------------------------|
-| Smågaver (gavekort, blomster, m.m.)     | 2–¯000Â NOK per år  | Ikke skattepliktig under grensen     |
-| Jubileumsgaver (25-årsjubileum)         | 4–¯000Â NOK         | Ikke skattepliktig ved jubileum      |
+| Smågaver (gavekort, blomster, m.m.)     | 2–¯000 NOK per år  | Ikke skattepliktig under grensen     |
+| Jubileumsgaver (25-årsjubileum)         | 4–¯000 NOK         | Ikke skattepliktig ved jubileum      |
 
 Gaver som overstiger disse grensene eller som er **skreddersydde** enkeltgaver, regnes som skattepliktig fordel for ansatte.
 
@@ -37,7 +37,7 @@ Gaver som overstiger disse grensene eller som er **skreddersydde** enkeltgaver, 
 ## Når bruker man konto 5900?
 
 * Ved utdeling av **julegave**, **jubileumsgave** eller **gavekort** til ansatte
-* Når ansattfordelen ikke dekkes av annen konto i gruppeÂ 52
+* Når ansattfordelen ikke dekkes av annen konto i gruppe 52
 * Ved periodisering av gaver som påløper i regnskapsåret
 
 ## Regnskapsføring
@@ -48,7 +48,7 @@ Gaver som overstiger disse grensene eller som er **skreddersydde** enkeltgaver, 
 
 ## Eksempel på bokføring
 
-En virksomhet kjøper julegaver for 3–¯000Â NOK til sine ansatte:
+En virksomhet kjøper julegaver for 3–¯000 NOK til sine ansatte:
 
 | Beskrivelse                          | Debet (NOK) | Kredit (NOK) |
 |--------------------------------------|-----------:|-------------:|
@@ -63,7 +63,7 @@ En virksomhet kjøper julegaver for 3–¯000Â NOK til sine ansatte:
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes i forbindelse med ansattgoder:
+Andre kontoer i NS 4102 som ofte brukes i forbindelse med ansattgoder:
 
 * [Konto 5500 - Annen kostnadsgodtgjørelse](/blogs/kontoplan/5500-annen-kostnadsgodtgjorelse "Konto 5500 - Annen kostnadsgodtgjørelse")
 * [Konto 5910 - Kantinekostnader](/blogs/kontoplan/5910-kantinekostnader "Konto 5910 - Kantinekostnader")

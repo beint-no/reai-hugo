@@ -29,13 +29,13 @@ summary: "Kort forklart: Konto 4200 gjelder innkjøp av ferdige egentilvirkede v
 
 ## Eksempel på bokføring
 
-Anta at en bedrift kjøper ferdige varer for **NOK 20Â 000** ekskl. MVA med høy sats. Bokføringen blir:
+Anta at en bedrift kjøper ferdige varer for **NOK 20 000** ekskl. MVA med høy sats. Bokføringen blir:
 
 | Beskrivelse                                   | Debet                                                        | Kredit                                      |
 |-----------------------------------------------|--------------------------------------------------------------|----------------------------------------------|
-| Innkjøp ferdige varer (ekskl. MVA)             | Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats     | **NOK 20Â 000**                              |
-| Inngående merverdiavgift (25 %)               | Konto 1611 - Inngående merverdiavgift høy sats               | **NOK 5Â 000**                               |
-| Leverandørgjeld                               |                                                              | Konto 2400 - Leverandørgjeld (**NOK 25Â 000**) |
+| Innkjøp ferdige varer (ekskl. MVA)             | Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats     | **NOK 20 000**                              |
+| Inngående merverdiavgift (25 %)               | Konto 1611 - Inngående merverdiavgift høy sats               | **NOK 5 000**                               |
+| Leverandørgjeld                               |                                                              | Konto 2400 - Leverandørgjeld (**NOK 25 000**) |
 
 ## Vurdering og lagerbehandling
 

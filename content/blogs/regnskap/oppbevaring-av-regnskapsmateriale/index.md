@@ -16,7 +16,7 @@ Kravene til oppbevaring av regnskapsmateriale er forankret i **[bokføringsloven
 
 ### Bokføringslovens krav
 
-Bokføringsloven Â§ 13 fastslår at **regnskapsmateriale** skal oppbevares i minst fem år etter regnskapsårets slutt. Dette omfatter:
+Bokføringsloven § 13 fastslår at **regnskapsmateriale** skal oppbevares i minst fem år etter regnskapsårets slutt. Dette omfatter:
 
 * **[Regnskapsbilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Komplett Guide til Regnskapsbilag og Dokumentasjon")** og grunnlagsdokumentasjon
 * **[Hovedbok](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok? En Komplett Guide til Hovedboken i Norsk Regnskap")** og andre regnskapsbøker
@@ -33,14 +33,14 @@ Oppbevaringsfristene varierer avhengig av type dokument og virksomhetens karakte
 
 | Dokumenttype | Oppbevaringsfrist | Lovgrunnlag | Merknad |
 |--------------|-------------------|-------------|---------|
-| **Regnskapsbilag** | 5 år | Bokføringsloven Â§ 13 | Fra regnskapsårets slutt |
-| **Hovedbok og hjelpebøker** | 5 år | Bokføringsloven Â§ 13 | Inkluderer alle regnskapsbøker |
-| **Årsregnskap** | 10 år | Regnskapsloven Â§ 3-10 | Permanent oppbevaring anbefales |
-| **Årsberetning** | 10 år | Regnskapsloven Â§ 3-10 | Sammen med årsregnskapet |
-| **Revisjonsberetning** | 10 år | Revisorloven Â§ 6-4 | For revisjonspliktge selskaper |
-| **Lønnsbilag** | 5 år | Bokføringsloven Â§ 13 | Inkluderer [lønnsslipp](/blogs/regnskap/hva-er-lonnslipp "Hva er Lønnsslipp? Komplett Guide til Lønnsutbetalinger og Dokumentasjon") |
-| **MVA-dokumenter** | 10 år | Merverdiavgiftsloven Â§ 21-1 | Alle [MVA-relaterte](/blogs/regnskap/hva-er-moms-mva "Hva er Moms/MVA? Komplett Guide til Merverdiavgift i Norge") dokumenter |
-| **Skattedokumenter** | 10 år | Skatteforvaltningsloven Â§ 8-12 | Inkluderer [ligningspapirer](/blogs/regnskap/ligningspapirer "Ligningspapirer “ Guide til krav, dokumentasjon og oppbevaring"), selvangivelse og andre vedlegg |
+| **Regnskapsbilag** | 5 år | Bokføringsloven § 13 | Fra regnskapsårets slutt |
+| **Hovedbok og hjelpebøker** | 5 år | Bokføringsloven § 13 | Inkluderer alle regnskapsbøker |
+| **Årsregnskap** | 10 år | Regnskapsloven § 3-10 | Permanent oppbevaring anbefales |
+| **Årsberetning** | 10 år | Regnskapsloven § 3-10 | Sammen med årsregnskapet |
+| **Revisjonsberetning** | 10 år | Revisorloven § 6-4 | For revisjonspliktge selskaper |
+| **Lønnsbilag** | 5 år | Bokføringsloven § 13 | Inkluderer [lønnsslipp](/blogs/regnskap/hva-er-lonnslipp "Hva er Lønnsslipp? Komplett Guide til Lønnsutbetalinger og Dokumentasjon") |
+| **MVA-dokumenter** | 10 år | Merverdiavgiftsloven § 21-1 | Alle [MVA-relaterte](/blogs/regnskap/hva-er-moms-mva "Hva er Moms/MVA? Komplett Guide til Merverdiavgift i Norge") dokumenter |
+| **Skattedokumenter** | 10 år | Skatteforvaltningsloven § 8-12 | Inkluderer [ligningspapirer](/blogs/regnskap/ligningspapirer "Ligningspapirer “ Guide til krav, dokumentasjon og oppbevaring"), selvangivelse og andre vedlegg |
 | **Kontrakter og avtaler** | 10 år | Anbefaling | Avhengig av kontraktens varighet |
 
 ### Spesielle oppbevaringskrav
@@ -169,27 +169,27 @@ En **systematisk tilnærming** til arkivorganisering er avgjørende for effektiv
 #### Nivå 1: Regnskapsår
 ```
 2024/
-â”œâ”€â”€ 2023/
-â”œâ”€â”€ 2022/
-â””â”€â”€ 2021/
+”œ”€”€ 2023/
+”œ”€”€ 2022/
+”””€”€ 2021/
 ```
 
 #### Nivå 2: Dokumentkategorier
 ```
 2024/
-â”œâ”€â”€ Bilag/
-â”œâ”€â”€ Rapporter/
-â”œâ”€â”€ Kontrakter/
-â””â”€â”€ Korrespondanse/
+”œ”€”€ Bilag/
+”œ”€”€ Rapporter/
+”œ”€”€ Kontrakter/
+”””€”€ Korrespondanse/
 ```
 
 #### Nivå 3: Månedlig/tematisk inndeling
 ```
 2024/Bilag/
-â”œâ”€â”€ 01-Januar/
-â”œâ”€â”€ 02-Februar/
-â”œâ”€â”€ ...
-â””â”€â”€ 12-Desember/
+”œ”€”€ 01-Januar/
+”œ”€”€ 02-Februar/
+”œ”€”€ ...
+”””€”€ 12-Desember/
 ```
 
 ### Navngivningskonvensjoner

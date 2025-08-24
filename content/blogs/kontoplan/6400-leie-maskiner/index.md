@@ -28,7 +28,7 @@ description: '**Konto 6400 - Leie maskiner** er en konto i Norsk Standard Kontop
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 75Â 000Â NOK            | 25Â %       | 93Â 750Â NOK         |
+| 75 000 NOK            | 25 %       | 93 750 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -38,7 +38,7 @@ description: '**Konto 6400 - Leie maskiner** er en konto i Norsk Standard Kontop
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6400:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6400:
 
 * [Konto 6300 - Leie lokaler](/blogs/kontoplan/6300-leie-lokaler "Konto 6300 - Leie lokaler")
 * [Konto 6400 - Leie maskiner](/blogs/kontoplan/6400-leie-maskiner "Konto 6400 - Leie maskiner")

@@ -51,8 +51,8 @@ Ved utarbeidelse av [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er Kon
 Virksomhet A kjøper 80–¯% av aksjene i B AS for 5–¯000–¯000–¯NOK.
 
 ```plaintext
-Debet: Konto 1300 - Investeringer i datterselskaper   5Â 000Â 000
-Kredit: Konto 1920 - Bankinnskudd                    5Â 000Â 000
+Debet: Konto 1300 - Investeringer i datterselskaper   5 000 000
+Kredit: Konto 1920 - Bankinnskudd                    5 000 000
 ```
 
 ## Relaterte artikler

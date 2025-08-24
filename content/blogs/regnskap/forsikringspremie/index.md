@@ -29,16 +29,16 @@ Når premie betales, bokføres den som en **forskuddsbetalt kostnad**, ofte som 
 
 ### Eksempel på periodisering
 
-Tabellen nedenfor viser periodisering av en årsbetalingspremie på 12Â 000Â kr over 12 måneder:
+Tabellen nedenfor viser periodisering av en årsbetalingspremie på 12 000 kr over 12 måneder:
 
 | Måned    | Debet Forsikringskostnad (6300) | Kredit Forskuddsbetalte kostnader (1830) |
 |----------|----------------------------------|------------------------------------------|
-| Januar   | 1Â 000Â kr                         | 1Â 000Â kr                                 |
-| Februar  | 1Â 000Â kr                         | 1Â 000Â kr                                 |
-| Mars     | 1Â 000Â kr                         | 1Â 000Â kr                                 |
+| Januar   | 1 000 kr                         | 1 000 kr                                 |
+| Februar  | 1 000 kr                         | 1 000 kr                                 |
+| Mars     | 1 000 kr                         | 1 000 kr                                 |
 | –¦        | –¦                                | –¦                                        |
-| Desember | 1Â 000Â kr                         | 1Â 000Â kr                                 |
-| **Total**| **12Â 000Â kr**                    | **12Â 000Â kr**                            |
+| Desember | 1 000 kr                         | 1 000 kr                                 |
+| **Total**| **12 000 kr**                    | **12 000 kr**                            |
 
 ![Forsikringspremie Periodisering](forsikringspremie-periodisering-timeline.svg)
 

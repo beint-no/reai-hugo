@@ -31,7 +31,7 @@ Kurtasje (prosent) = Handelsverdi Ã— Kurtasje prosent
 | Kurtasjetype         | Eksempelberegning                     |
 | --------------------- | ------------------------------------- |
 | Fast (kr)             | 100 kr per ordre                      |
-| Prosent (0,1 %)       | 100Â 000 kr Ã— 0,1 % = 100 kr           |
+| Prosent (0,1 %)       | 100 000 kr Ã— 0,1 % = 100 kr           |
 
 ## Seksjon 3: Regnskapsmessig behandling
 
@@ -52,13 +52,13 @@ Skattemessig er kurtasje vanligvis fradragsberettiget som en nødvendig kostnad 
 
 ## Seksjon 5: Praktisk eksempel på beregning og regnskapsføring
 
-En investor kjøper aksjer for 50Â 000 kr med en prosentbasert kurtasje på 0,2 %:
+En investor kjøper aksjer for 50 000 kr med en prosentbasert kurtasje på 0,2 %:
 
 | Beskrivelse           | Beløp (kr)                        |
 | --------------------- | --------------------------------- |
-| Handelsverdi          | 50Â 000                            |
+| Handelsverdi          | 50 000                            |
 | Kurtasje (0,2 %)      | 100                               |
-| Total kostnad         | 50Â 100                            |
+| Total kostnad         | 50 100                            |
 
 Regnskapsføring av kurtasje:
 

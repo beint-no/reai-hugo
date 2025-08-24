@@ -10,7 +10,7 @@ description: '**Datterselskap** er et selskap som er kontrollert av et [morselsk
 
 ## Definisjon av Datterselskap
 
-Et datterselskap defineres i **aksjeloven** Â§ 1-3 som et selskap der et annet selskap (morselskapet) har **bestemmende innflytelse**, vanligvis ved å eie mer enn **50% av stemmene**. I norsk regnskapslovgivning innebærer dette at datterselskapet inngår i morselskapets konsernregnskap.
+Et datterselskap defineres i **aksjeloven** § 1-3 som et selskap der et annet selskap (morselskapet) har **bestemmende innflytelse**, vanligvis ved å eie mer enn **50% av stemmene**. I norsk regnskapslovgivning innebærer dette at datterselskapet inngår i morselskapets konsernregnskap.
 
 ### Juridisk rammeverk
 

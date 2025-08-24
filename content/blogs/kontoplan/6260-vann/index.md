@@ -27,7 +27,7 @@ description: '**Konto 6260 - Vann** er en konto i Norsk Standard Kontoplan som b
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 5Â 000Â NOK             | 10Â %       | 5Â 500Â NOK          |
+| 5 000 NOK             | 10 %       | 5 500 NOK          |
 
 ## Fordeler ved korrekt bruk
 
@@ -39,7 +39,7 @@ Se også [Konto 6320 - Renovasjon, vann, avløp mv.](/blogs/kontoplan/6320-renov
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6260:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6260:
 
 * [Konto 6200 - Elektrisitet](/blogs/kontoplan/6200-elektrisitet "Konto 6200 - Elektrisitet")
 * [Konto 6210 - Gass](/blogs/kontoplan/6210-gass "Konto 6210 - Gass")

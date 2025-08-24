@@ -73,7 +73,7 @@ Det **ordinære overskuddet** inkluderer finansielle poster:
 |----------------|-----------|--------|-------------|
 | **Bruttooverskudd** | Salgsinntekter - Varekostnader | Måle kjerneaktivitetens lønnsomhet | Prisstrategier, kostnadsanalyse |
 | **Driftsoverskudd** | Bruttooverskudd - Driftskostnader | Vurdere operasjonell effektivitet | Sammenligning mellom selskaper |
-| **Ordinært overskudd** | Driftsoverskudd Â± Finansposter | Totalt resultat før skatt | Skatteplanlegging, finansanalyse |
+| **Ordinært overskudd** | Driftsoverskudd ± Finansposter | Totalt resultat før skatt | Skatteplanlegging, finansanalyse |
 | **Årsoverskudd** | Ordinært overskudd - Skatt | Endelig resultat til eierne | Utbyttepolitikk, reinvestering |
 
 ## Regnskapsføring av Overskudd

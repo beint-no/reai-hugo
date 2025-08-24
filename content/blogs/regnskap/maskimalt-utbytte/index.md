@@ -27,7 +27,7 @@ Maskimalt utbytte defineres som det **maksimale beløpet** et aksjeselskap kan d
 
 ### Juridisk Grunnlag
 
-Reglene for maskimalt utbytte er forankret i **aksjeloven Â§ 8-1** som fastsetter at utbytte kun kan deles ut av:
+Reglene for maskimalt utbytte er forankret i **aksjeloven § 8-1** som fastsetter at utbytte kun kan deles ut av:
 
 * **Årets overskudd** etter fradrag for tap fra tidligere år
 * **Annen egenkapital** som ikke er bundet

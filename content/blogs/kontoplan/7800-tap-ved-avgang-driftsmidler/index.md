@@ -18,7 +18,7 @@ description: '**Konto 7800 - Tap ved avgang driftsmidler** er en konto i Norsk S
 |----------------------------|--------------------------------------------------------------------|
 | Salgsprovenue              | Inntekt ved salg av driftsmiddelet inkl. eventuelt merverdiavgift   |
 | Balanseført verdi          | Anskaffelseskost minus akkumulerte avskrivninger                   |
-| **Tap ved avgang**         | Balanseført verdi âˆ’ salgsprovenue                                  |
+| **Tap ved avgang**         | Balanseført verdi ˆ’ salgsprovenue                                  |
 
 ## Regnskapsføring av tap ved avgang
 

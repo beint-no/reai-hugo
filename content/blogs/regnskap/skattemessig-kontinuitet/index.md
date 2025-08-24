@@ -25,7 +25,7 @@ Kontinuitetsprinsippet kan anvendes i flere scenarioer:
 
 | Overdragerens inngangsverdi | Erververens inngangsverdi (kontinuitet) |
 |----------------------------:|----------------------------------------:|
-| 1Â 000Â 000Â kr               | 1Â 000Â 000Â kr                             |
+| 1 000 000 kr               | 1 000 000 kr                             |
 
 ![Kontinuitetsprinsippet Diagram](kontinuitet-diagram.svg)
 

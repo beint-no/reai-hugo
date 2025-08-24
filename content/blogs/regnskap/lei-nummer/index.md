@@ -27,7 +27,7 @@ Et LEI-nummer er bygget opp som følger:
 
 * **Gjennomsiktighet** i finansielle markeder
 * **Redusert motpartsrisiko** ved handel og rapportering
-* **Etterlevelse** av regulatoriske krav som EMIR, MiFIDÂ II og SFTR
+* **Etterlevelse** av regulatoriske krav som EMIR, MiFID II og SFTR
 * **Entydig identifikasjon** på tvers av systemer og jurisdiksjoner
 
 ### Hvordan registrere et LEI-nummer

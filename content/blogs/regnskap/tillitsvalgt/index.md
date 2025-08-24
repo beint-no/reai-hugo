@@ -23,9 +23,9 @@ I mange virksomheter har tillitsvalgte særskilte rettigheter etter **Arbeidsmil
 
 | Lover og avtaler           | Innvirkning for tillitsvalgte                                 |
 |----------------------------|---------------------------------------------------------------|
-| Arbeidsmiljøloven Â§ 8-1    | Rett til informasjon og drøfting ved beslutninger             |
-| Hovedavtalen Â§ 1-3         | Vern av tillitsvalgt og krav til organisasjonsrett            |
-| Hovedavtalen Â§ 4-1         | Rett til permisjon for tillitsvalgtarbeid                     |
+| Arbeidsmiljøloven § 8-1    | Rett til informasjon og drøfting ved beslutninger             |
+| Hovedavtalen § 1-3         | Vern av tillitsvalgt og krav til organisasjonsrett            |
+| Hovedavtalen § 4-1         | Rett til permisjon for tillitsvalgtarbeid                     |
 | Tariffavtaler              | Lokale forhandlinger og avtaleverk                            |
 
 Tabellen viser de viktigste bestemmelser som gir tillitsvalgte formelle rettigheter i virksomheten.

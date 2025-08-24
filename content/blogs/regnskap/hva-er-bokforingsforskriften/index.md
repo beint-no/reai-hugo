@@ -267,8 +267,8 @@ Brudd på bokføringsforskriften kan medføre **alvorlige konsekvenser**:
 
 Alvorlige brudd kan medføre **straffeansvar**:
 
-* **Regnskapsovertredelse** (Â§ 392 i straffeloven)
-* **Grov regnskapsovertredelse** (Â§ 393 i straffeloven)
+* **Regnskapsovertredelse** (§ 392 i straffeloven)
+* **Grov regnskapsovertredelse** (§ 393 i straffeloven)
 * **Skattesvik** ved bevisst feilrapportering
 * **Bedrageri** ved manipulasjon av regnskapet
 

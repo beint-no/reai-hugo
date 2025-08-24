@@ -57,7 +57,7 @@ Debet/Kredit: Konto 8170 - Urealiserte gevinster/tap verdipapirer           YYY 
 
 ## Bokføringseksempel
 
-En bedrift kjøper markedsbaserte finansielle instrumenter for 300–¯000Â kr:
+En bedrift kjøper markedsbaserte finansielle instrumenter for 300–¯000 kr:
 
 ```plaintext
 Debet: Konto 1870 - Andre markedsbaserte finansielle instrumenter    300–¯000 kr

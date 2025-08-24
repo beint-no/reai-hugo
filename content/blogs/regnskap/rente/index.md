@@ -51,13 +51,13 @@ Der:
 
 ## Eksempel på beregning
 
-La oss anta et lån på 10Â 000Â kr med **5–¯%** årlig rente over **3Â år**.
+La oss anta et lån på 10 000 kr med **5–¯%** årlig rente over **3 år**.
 
 | Type rente      | Formel                  | Beløp         |
 | -----------------| ------------------------ | ------------- |
-| Enkel rente      | 10Â 000 Ã— 0,05 Ã— 3        | 1Â 500 kr      |
-| Sammensatt rente | 10Â 000 Ã— (1 + 0,05)^3    | 11Â 576 kr (A) |
-| Akkumulert rente | A âˆ’ P                    | 1Â 576 kr      |
+| Enkel rente      | 10 000 Ã— 0,05 Ã— 3        | 1 500 kr      |
+| Sammensatt rente | 10 000 Ã— (1 + 0,05)^3    | 11 576 kr (A) |
+| Akkumulert rente | A ˆ’ P                    | 1 576 kr      |
 
 ## Rente i regnskap
 

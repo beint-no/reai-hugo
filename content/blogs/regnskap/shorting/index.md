@@ -49,7 +49,7 @@ Shorting medfører flere **risikoer** og kostnader:
 
 ## Praktiske eksempler
 
-1. En investor ser et mulig kursfall i et selskap og låner 1Â 000 aksjer DNB for å selge på NOKÂ 100 per aksje. Hvis kursen faller til NOKÂ 80, kjøper investoren aksjene tilbake og realiserer gevinst.
+1. En investor ser et mulig kursfall i et selskap og låner 1 000 aksjer DNB for å selge på NOK 100 per aksje. Hvis kursen faller til NOK 80, kjøper investoren aksjene tilbake og realiserer gevinst.
 2. Shorting av finansselskaper i nedgangstider som risikostyringsstrategi.
 
 ## Se også

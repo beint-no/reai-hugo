@@ -18,10 +18,10 @@ Tvangsmulkt er hjemlet i flere lover og forskrifter som regulerer ulike typer ra
 
 | Lovgivning                 | Anvendelsesområde                             |
 |----------------------------|-----------------------------------------------|
-| Skattebetalingsloven Â§24-2 | Dagbøter for manglende A-melding              |
-| Mvaloven Â§29-1             | Dagbøter for forsinket MVA-melding            |
-| Regnskapsloven Â§7-5        | Dagbøter for forsinket innsending av årsregnskap |
-| Bokføringsforskriften Â§9-6 | Dagbøter for manglende regnskapsdokumentasjon |
+| Skattebetalingsloven §24-2 | Dagbøter for manglende A-melding              |
+| Mvaloven §29-1             | Dagbøter for forsinket MVA-melding            |
+| Regnskapsloven §7-5        | Dagbøter for forsinket innsending av årsregnskap |
+| Bokføringsforskriften §9-6 | Dagbøter for manglende regnskapsdokumentasjon |
 
 ## Satser og beregning
 
@@ -29,9 +29,9 @@ Skatteetaten fastsetter dagmulktsatser som gjelder for de ulike rapportene. Unde
 
 | Rapporttype    | Dagmulktsats | Maksimalt beløp | Lovhjemmel                    |
 |----------------|--------------|-----------------|-------------------------------|
-| A-melding      | 1 000 kr     | 100 000 kr      | Skattebetalingsloven Â§24-2    |
-| MVA-melding    | 1 000 kr     | 100 000 kr      | Mvaloven Â§29-1                |
-| Årsregnskap    | 1 000 kr     | 50 000 kr       | Regnskapsloven Â§7-5           |
+| A-melding      | 1 000 kr     | 100 000 kr      | Skattebetalingsloven §24-2    |
+| MVA-melding    | 1 000 kr     | 100 000 kr      | Mvaloven §29-1                |
+| Årsregnskap    | 1 000 kr     | 50 000 kr       | Regnskapsloven §7-5           |
 
 ## Hvordan unngå tvangsmulkt?
 

@@ -36,7 +36,7 @@ Saldo på konto 2960 presenteres i balansen som **kortsiktig gjeld** når netto 
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2960:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2960:
 
 * [Konto 1750 - Påløpte leier](/blogs/kontoplan/1750-palopte-leier "Konto 1750 - Påløpte leier: Regnskapsføring av påløpte leiekostnader")
 * [Konto 1760 - Påløpte renter](/blogs/kontoplan/1760-palopte-renter "Konto 1760 - Påløpte renter: Regnskapsføring av påløpte renteutgifter")

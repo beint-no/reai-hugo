@@ -30,8 +30,8 @@ summary: "Konto 2714: oppgjør av inngående MVA lav sats. Når den brukes og bo
 
 | Kjøpsbeløp uten MVA | MVA (12–¯%) | Totalt inkl. MVA |
 |---------------------|------------|------------------|
-| 8–¯000Â NOK           | 960Â NOK    | 8–¯960Â NOK        |
-| 20–¯000Â NOK          | 2–¯400Â NOK  | 22–¯400Â NOK       |
+| 8–¯000 NOK           | 960 NOK    | 8–¯960 NOK        |
+| 20–¯000 NOK          | 2–¯400 NOK  | 22–¯400 NOK       |
 
 ## Fordeler med egen oppgjørskonto for lav sats inngående MVA
 

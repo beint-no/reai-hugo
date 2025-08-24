@@ -322,7 +322,7 @@ Under **International Financial Reporting Standards (IFRS):**
 | **Norge** | Nei (avskaffet 2014) | Høy eiendomsbeskatning |
 | **Sverige** | Nei (avskaffet 2007) | Ingen eiendomsskatt |
 | **Sveits** | Ja | Varierer per kanton |
-| **Frankrike** | Ja (over â‚¬1,3 mill.) | Kun eiendom |
+| **Frankrike** | Ja (over ‚¬1,3 mill.) | Kun eiendom |
 
 ## Digitale Verktøy for Formueanalyse
 

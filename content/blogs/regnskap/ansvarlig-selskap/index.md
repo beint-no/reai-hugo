@@ -165,10 +165,10 @@ ANS må spesifisere hvordan **årsresultatet** fordeles mellom deltakerne:
 
 | Selskapsform           | Ansvarstype            | Min. Kapital | Antall deltakere | Skatteordning |
 |------------------------|------------------------|--------------|------------------|---------------|
-| **ANS**                | Ubegrenset solidarisk   | Ingen        | â‰¥ 2              | Gjennomslag   |
-| [AS](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap?") | Begrenset (aksjekapital) | 30 000 kr    | â‰¥ 1              | Selskapsskatt |
+| **ANS**                | Ubegrenset solidarisk   | Ingen        | ‰¥ 2              | Gjennomslag   |
+| [AS](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap?") | Begrenset (aksjekapital) | 30 000 kr    | ‰¥ 1              | Selskapsskatt |
 | [ENK](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak?") | Ubegrenset personlig     | Ingen       | 1                | Personlig     |
-| **DA** (Delt ansvar)   | Begrenset til andel     | Ingen        | â‰¥ 2              | Gjennomslag   |
+| **DA** (Delt ansvar)   | Begrenset til andel     | Ingen        | ‰¥ 2              | Gjennomslag   |
 
 ## Praktiske Råd før Oppstart
 

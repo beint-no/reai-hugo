@@ -9,7 +9,7 @@ For aksjeinvesteringer gjelder spesielle skatteordninger som skjermingsfradrag o
 
 For en oversikt over skatteregler spesifikt for aksjegevinster, se også vår [Skatt på aksjegevinst](/blogs/regnskap/skatt-pa-aksjegevinst "Skatt på aksjegevinst “ Guide til beskatning av aksjegevinster i Norge").
 
-Grunnlaget (Â«inngangsverdiÂ») for gevinstberegningen tilsvarer den opprinnelige kostprisen; se [Inngangsverdi](/blogs/regnskap/inngangsverdi "Inngangsverdi: Kostpris, Beregning og Skattegrunnlag i Norsk Regnskap") for mer informasjon.
+Grunnlaget («inngangsverdi») for gevinstberegningen tilsvarer den opprinnelige kostprisen; se [Inngangsverdi](/blogs/regnskap/inngangsverdi "Inngangsverdi: Kostpris, Beregning og Skattegrunnlag i Norsk Regnskap") for mer informasjon.
 
 ## Hva er Kapitalgevinst?
 

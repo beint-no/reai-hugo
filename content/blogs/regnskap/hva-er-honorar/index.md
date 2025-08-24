@@ -242,16 +242,16 @@ Bedrifter bør etablere skriftlige avtaler som dekker:
 
 Honoraroppdrag reguleres av [oppdragsloven](https://lovdata.no/dokument/NL/lov/1989-06-16-54):
 
-* **Â§ 1:** Definisjon av oppdragsforhold
-* **Â§ 2:** Oppdragstakerens plikter
-* **Â§ 15:** Rett til vederlag (honorar)
+* **§ 1:** Definisjon av oppdragsforhold
+* **§ 2:** Oppdragstakerens plikter
+* **§ 15:** Rett til vederlag (honorar)
 
 ### 7.2 Skatteloven og Forskrifter
 
 Skattemessig behandling reguleres av:
 
-* **Skatteloven Â§ 5-1:** Definisjon av skattepliktig inntekt
-* **Skatteloven Â§ 5-20:** Honorar og andre ytelser
+* **Skatteloven § 5-1:** Definisjon av skattepliktig inntekt
+* **Skatteloven § 5-20:** Honorar og andre ytelser
 * **FSFIN:** Detaljerte regler for honorarbehandling
 
 ### 7.3 Bokføringsloven

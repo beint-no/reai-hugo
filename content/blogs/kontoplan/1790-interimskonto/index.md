@@ -45,7 +45,7 @@ Kredit: Konto 1920 - Bank                   150–¯000
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 1790:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 1790:
 
 * [Konto 1780 - Krav på innbetaling av selskapskapital](/blogs/kontoplan/1780-krav-pa-innbetaling-av-selskapskapital "Konto 1780 - Krav på innbetaling av selskapskapital")
 * [Konto 2160 - Uopptjent inntekt](/blogs/kontoplan/2160-uopptjent-inntekt "Konto 2160 - Uopptjent inntekt")

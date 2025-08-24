@@ -5,7 +5,7 @@ description: "Konto 2300 brukes til å registrere konvertible lån, altså lån 
 summary: "Konto 2300: konvertible lån. Bruk, nøkkelpunkter for konvertering, bokføring og presentasjon."
 ---
 
-**Konto 2300 - Konvertible lån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **konvertible lån**, dvs. lån som gir långiver rett til å konvertere gjelden til egenkapital under gitte vilkår.
+**Konto 2300 - Konvertible lån** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **konvertible lån**, dvs. lån som gir långiver rett til å konvertere gjelden til egenkapital under gitte vilkår.
 
 ![Illustrasjon av konto 2300 konvertible lån](2300-konvertible-lan-image.svg)
 
@@ -45,7 +45,7 @@ _*Resultat- og balanseposter kan variere etter selskapets kontoplan.*_
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2300:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2300:
 
 * [Konto 2100 - Pensjonsforpliktelser](/blogs/kontoplan/2100-pensjonsforpliktelser "Konto 2100 - Pensjonsforpliktelser i Norsk Standard Kontoplan")
 * [Konto 2120 - Utsatt skatt](/blogs/kontoplan/2120-utsatt-skatt "Konto 2120 - Utsatt skatt i Norsk Standard Kontoplan")

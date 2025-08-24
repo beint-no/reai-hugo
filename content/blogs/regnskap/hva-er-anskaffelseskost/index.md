@@ -6,7 +6,7 @@ description: '**Anskaffelseskost** er det totale beløpet en bedrift betaler for
 
 **Anskaffelseskost** er det totale beløpet en bedrift betaler for å anskaffe og klargjøre en eiendel for bruk. Dette inkluderer ikke bare kjøpsprisen, men også alle direkte kostnader som er nødvendige for å få eiendelen klar til sitt tiltenkte formål. Anskaffelseskost danner grunnlaget for verdsettelse av [aktiva](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler") og er avgjørende for korrekt beregning av avskrivninger og [amortisering](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? Fordeling av Immaterielle Eiendeler").
 
-For nærmere forklaring av det skattemessige kostprisbegrepet Â«inngangsverdiÂ», se [Inngangsverdi](/blogs/regnskap/inngangsverdi "Inngangsverdi: Kostpris, Beregning og Skattegrunnlag i Norsk Regnskap").
+For nærmere forklaring av det skattemessige kostprisbegrepet «inngangsverdi», se [Inngangsverdi](/blogs/regnskap/inngangsverdi "Inngangsverdi: Kostpris, Beregning og Skattegrunnlag i Norsk Regnskap").
 
 Anskaffelseskost er en del av det bredere kostnadsbegrepet [kostpris](/blogs/regnskap/hva-er-kostpris "Hva er Kostpris? Kostnadsberegning og Lønnsomhetsanalyse"), som omfatter alle kostnader knyttet til anskaffelse, produksjon og levering av varer og tjenester.
 
@@ -56,11 +56,11 @@ For maskiner og produksjonsutstyr inkluderer anskaffelseskost typisk:
 
 | Kostnadselement | Eksempel | Inkluderes |
 |:----------------|:---------|:-----------|
-| Kjøpspris | 500 000 kr | âœ“ |
-| Frakt | 15 000 kr | âœ“ |
-| Installasjon | 25 000 kr | âœ“ |
-| Testing | 10 000 kr | âœ“ |
-| Opplæring | 20 000 kr | âœ— |
+| Kjøpspris | 500 000 kr | œ“ |
+| Frakt | 15 000 kr | œ“ |
+| Installasjon | 25 000 kr | œ“ |
+| Testing | 10 000 kr | œ“ |
+| Opplæring | 20 000 kr | œ— |
 | **Total anskaffelseskost** | **550 000 kr** | |
 
 #### Bygninger og Eiendom

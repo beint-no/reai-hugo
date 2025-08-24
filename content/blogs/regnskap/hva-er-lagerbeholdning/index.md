@@ -89,7 +89,7 @@ Effektiv lagerstyring handler om å balansere tilgjengelighet med kostnader. For
 
 **Economic Order Quantity (EOQ)** er en matematisk modell som beregner optimal bestillingsmengde for å minimere totale lagerkostnader:
 
-**EOQ = âˆš(2 Ã— Årlig etterspørsel Ã— Bestillingskostnad Ã· Lagerkostnad per enhet)**
+**EOQ = ˆš(2 Ã— Årlig etterspørsel Ã— Bestillingskostnad Ã· Lagerkostnad per enhet)**
 
 ### 3.3 Sikkerhetslager
 

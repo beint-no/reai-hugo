@@ -1,27 +1,27 @@
 ﻿---
 title: "NS 4102"
 seoTitle: "NS 4102"
-description: '**NSÂ 4102** er den norske standardkontoplanen utviklet for kommuner og fylkeskommuner. Den gir en felles struktur for regnskapsføring og muliggjør sammenlign...'
+description: '**NS 4102** er den norske standardkontoplanen utviklet for kommuner og fylkeskommuner. Den gir en felles struktur for regnskapsføring og muliggjør sammenlign...'
 ---
 
-**NSÂ 4102** er den norske standardkontoplanen utviklet for kommuner og fylkeskommuner. Den gir en felles struktur for regnskapsføring og muliggjør sammenlignbarhet mellom offentlige enheter. NSÂ 4102 er sentral for **kommunal regnskapsføring** og integreres i regnskapsrutiner for å sikre konsistens, transparens og etterlevelse av gjeldende regler.
+**NS 4102** er den norske standardkontoplanen utviklet for kommuner og fylkeskommuner. Den gir en felles struktur for regnskapsføring og muliggjør sammenlignbarhet mellom offentlige enheter. NS 4102 er sentral for **kommunal regnskapsføring** og integreres i regnskapsrutiner for å sikre konsistens, transparens og etterlevelse av gjeldende regler.
 
-![Struktur i NSÂ 4102](ns-4102-structure.svg)
+![Struktur i NS 4102](ns-4102-structure.svg)
 
 ## Historisk Utvikling
 
-NSÂ 4102 ble første gang publisert i **1993** av Standard Norge for å etablere en felles kontoplan for kommuner. Den ble revidert i **2004** og **2014** for å tilpasse seg nye krav til rapportering og digitalisering.
+NS 4102 ble første gang publisert i **1993** av Standard Norge for å etablere en felles kontoplan for kommuner. Den ble revidert i **2004** og **2014** for å tilpasse seg nye krav til rapportering og digitalisering.
 
 | Årstall | Hendelse |
 |---------|----------|
-| **1993** | Første utgave av NSÂ 4102 publisert |
+| **1993** | Første utgave av NS 4102 publisert |
 | **2004** | Revidert utgave med nye kontonummer |
 | **2014** | Oppdatert for digitalisering og nye krav til [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Komplett Guide") |
 | **2020** | Utvidet med kontospesifikasjoner for prosjektregnskap |
 
 ## Hovedstruktur og Kontoklasser
 
-NSÂ 4102 er organisert i følgende hovedklasser:
+NS 4102 er organisert i følgende hovedklasser:
 
 | Klasse | Formål | Kontonummer |
 |--------|--------|-------------|
@@ -33,14 +33,14 @@ NSÂ 4102 er organisert i følgende hovedklasser:
 | **6** | Utlån og avsetninger | 6000“6999 |
 | **7** | Tilleggsinformasjon | 7000“7999 |
 
-![NSÂ 4102 Hovedstruktur](ns-4102-main-structure.svg)
+![NS 4102 Hovedstruktur](ns-4102-main-structure.svg)
 
 ## Implementering i Kommunal Regnskapsføring
 
-Profesjonell implementering av NSÂ 4102 innebærer:
+Profesjonell implementering av NS 4102 innebærer:
 
 * Kartlegging av eksisterende kontoplan  
-* Mapping av kontoer til NSÂ 4102-strukturen  
+* Mapping av kontoer til NS 4102-strukturen  
 * Tilpasning for lokale behov (prosjekt- og investeringsregnskap)  
 * Integrasjon med ERP- og [fakturaprogram](/blogs/regnskap/fakturaprogram "Hva er Fakturaprogram? En Komplett Guide til Fakturahåndtering")  
 * Involvering av økonomipersonell og [revisor](/blogs/regnskap/hva-er-revisor "Hva er Revisor? Komplett Guide til Revisjon og Revisjonsplikt")
@@ -57,7 +57,7 @@ Det er vanlig at kommuner legger til lokale konti:
 
 ## Sammenheng med Generelle Kontoplaner
 
-NSÂ 4102 er spesielt utformet for kommunal sektor, men henger sammen med generell [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i norsk regnskap"), slik at:
+NS 4102 er spesielt utformet for kommunal sektor, men henger sammen med generell [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i norsk regnskap"), slik at:
 
 * Økonomisystemer kan standardisere rapportering  
 * Data kan sammenstilles på tvers av sektorer  
@@ -65,15 +65,15 @@ NSÂ 4102 er spesielt utformet for kommunal sektor, men henger sammen med gener
 
 ## Verktøy og Ressurser
 
-Tilgjengelige ressurser for NSÂ 4102:
+Tilgjengelige ressurser for NS 4102:
 
-* **Dokumentasjon fra Standard Norge** (NSÂ 4102:2014)  
+* **Dokumentasjon fra Standard Norge** (NS 4102:2014)  
 * **Veiledningsmateriell** fra Kommunal- og moderniseringsdepartementet  
-* **[Regnskapsprogrammer](/blogs/regnskap/fakturaprogram "Hva er Fakturaprogram? En Komplett Guide til Fakturahåndtering")** med støtte for NSÂ 4102
+* **[Regnskapsprogrammer](/blogs/regnskap/fakturaprogram "Hva er Fakturaprogram? En Komplett Guide til Fakturahåndtering")** med støtte for NS 4102
 
 ## Konklusjon
 
-NSÂ 4102 er et **grunnleggende rammeverk** for kommunal regnskapsføring og sikrer felles struktur og etterlevelse. Ved riktig implementering og løpende internkontroll bidrar NSÂ 4102 til mer effektiv, sammenlignbar og transparent regnskapsrapportering i kommunal sektor.
+NS 4102 er et **grunnleggende rammeverk** for kommunal regnskapsføring og sikrer felles struktur og etterlevelse. Ved riktig implementering og løpende internkontroll bidrar NS 4102 til mer effektiv, sammenlignbar og transparent regnskapsrapportering i kommunal sektor.
 
 
 

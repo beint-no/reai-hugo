@@ -112,7 +112,7 @@ En investering på 100 000 kr med 7% årlig avkastning over 5 år:
 | Eksempel: Beregning av CAGR |
 |------------------------------|
 | Startverdi | Sluttverdi | Antall år | CAGR |
-| 100Â 000 kr | 140Â 255 kr | 5 år | 7Â % |
+| 100 000 kr | 140 255 kr | 5 år | 7 % |
 
 ![Illustrasjon av CAGR-formel og eksempel](cagr-formel.svg)
 

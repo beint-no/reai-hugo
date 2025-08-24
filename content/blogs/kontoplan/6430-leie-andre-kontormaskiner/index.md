@@ -28,7 +28,7 @@ description: '**Konto 6430 - Leie andre kontormaskiner** er en konto i Norsk Sta
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 40Â 000Â NOK            | 25Â %       | 50Â 000Â NOK         |
+| 40 000 NOK            | 25 %       | 50 000 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -38,7 +38,7 @@ description: '**Konto 6430 - Leie andre kontormaskiner** er en konto i Norsk Sta
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6430:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6430:
 
 * [Konto 6300 - Leie lokaler](/blogs/kontoplan/6300-leie-lokaler "Konto 6300 - Leie lokaler")
 * [Konto 6400 - Leie maskiner](/blogs/kontoplan/6400-leie-maskiner "Konto 6400 - Leie maskiner")

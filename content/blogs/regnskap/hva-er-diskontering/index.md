@@ -31,7 +31,7 @@ For en dypere forståelse av **kapitalisering** (renters rente), se [Renters ren
 
 | Aspekt | Diskontering | Kapitalisering |
 |--------|-------------|----------------|
-| **Retning** | Fremtidig verdi â†’ Nåverdi | Nåverdi â†’ Fremtidig verdi |
+| **Retning** | Fremtidig verdi †’ Nåverdi | Nåverdi †’ Fremtidig verdi |
 | **Formel** | PV = FV / (1 + r)^n | FV = PV Ã— (1 + r)^n |
 | **Anvendelse** | Investeringsanalyse, [avkastning](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Beregning, Typer og Analyse av Investeringsavkastning") | Sparing, lånberegninger |
 | **Perspektiv** | "Hva er det verdt i dag?" | "Hva blir det verdt senere?" |
@@ -250,17 +250,17 @@ Flere faktorer må vurderes når man setter diskonteringsrenten.
 
 ### Makroøkonomiske Faktorer:
 
-* **Inflasjon:** Høyere inflasjon â†’ høyere diskonteringsrente
+* **Inflasjon:** Høyere inflasjon †’ høyere diskonteringsrente
 * **Renterisiko:** Endringer i markedsrenter
 * **Valutarisiko:** For internasjonale investeringer
 * **Politisk risiko:** Stabilitet i investeringsland
 
 ### Selskapsspecifikke Faktorer:
 
-* **Kredittverdighet:** Bedre rating â†’ lavere rente
-* **Bransjerisiko:** Volatile bransjer â†’ høyere rente
-* **Størrelse:** Større selskaper â†’ lavere rente
-* **Likviditet:** Mer likvide investeringer â†’ lavere rente
+* **Kredittverdighet:** Bedre rating †’ lavere rente
+* **Bransjerisiko:** Volatile bransjer †’ høyere rente
+* **Størrelse:** Større selskaper †’ lavere rente
+* **Likviditet:** Mer likvide investeringer †’ lavere rente
 
 ## Vanlige Feil ved Diskontering
 

@@ -40,7 +40,7 @@ Se også:
 
 * [Konto 2500 - Betalbar skatt, ikke utlignet](/blogs/kontoplan/2500-betalbar-skatt-ikke-utlignet "Konto 2500 - Betalbar skatt, ikke utlignet")
 * [Konto 2510 - Betalbar skatt, utlignet](/blogs/kontoplan/2510-betalbar-skatt-utlignet "Konto 2510 - Betalbar skatt, utlignet")
-* [Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd](/blogs/kontoplan/2530-refusjon-skatt-etter-skatteloven-31-5-ledd "Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd")
+* [Konto 2530 - Refusjon skatt etter Skatteloven §31 5. ledd](/blogs/kontoplan/2530-refusjon-skatt-etter-skatteloven-31-5-ledd "Konto 2530 - Refusjon skatt etter Skatteloven §31 5. ledd")
 * [Konto 2540 - Forhåndsskatt](/blogs/kontoplan/2540-forhaandskatt "Konto 2540 - Forhåndsskatt")
 * [Konto 2600 - Skyldig forskuddstrekk](/blogs/kontoplan/2600-forskuddstrekk "Konto 2600 - Skyldig forskuddstrekk")
 * [Konto 2610 - Påleggstrekk](/blogs/kontoplan/2610-paalleggstrekk "Konto 2610 - Påleggstrekk")

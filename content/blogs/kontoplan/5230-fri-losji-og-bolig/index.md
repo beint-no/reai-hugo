@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5230 - Fri losji og bolig"
 seoTitle: "5230-fri-losji-og-bolig"
-description: '**Konto 5230 - Fri losji og bolig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **verdi av fri losji og bolig** som **ans...'
+description: '**Konto 5230 - Fri losji og bolig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri losji og bolig** som **ans...'
 ---
 
-**Konto 5230 - Fri losji og bolig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **verdi av fri losji og bolig** som **ansattgode**.
+**Konto 5230 - Fri losji og bolig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri losji og bolig** som **ansattgode**.
 
 ![Illustrasjon av konto 5230 Fri losji og bolig](5230-fri-losji-og-bolig-image.svg)
 
@@ -43,12 +43,12 @@ Beregningsmetode for fri losji og bolig kan variere:
 
 ## Eksempel på bokføring
 
-En ansatt mottar fri losji med estimert markedsleie på 8–¯000Â NOK per måned:
+En ansatt mottar fri losji med estimert markedsleie på 8–¯000 NOK per måned:
 
 | Beskrivelse                  | Debet (NOK) | Kredit (NOK) |
 |------------------------------|-----------:|-------------:|
-| Verdi av fri losji og bolig  |       8Â 000 |              |
-| Utbetaling av husleie        |            |        8Â 000 |
+| Verdi av fri losji og bolig  |       8 000 |              |
+| Utbetaling av husleie        |            |        8 000 |
 
 ## Praktiske hensyn
 
@@ -64,7 +64,7 @@ En ansatt mottar fri losji med estimert markedsleie på 8–¯000Â NOK per må
 * [Konto 5220 - Fri avis](/blogs/kontoplan/5220-fri-avis "Konto 5220 - Fri avis: Regnskapsføring av fri avis som ansattgode i Norsk kontoplan")
 * [Konto 5240 - Rentefordel](/blogs/kontoplan/5240-rentefordel "Konto 5240 - Rentefordel: Regnskapsføring av rentefordel som ansattgode i Norsk kontoplan")
 * [Konto 5280 - Annen fordel i arbeidsforhold](/blogs/kontoplan/5280-annen-fordel-i-arbeidsforhold "Konto 5280 - Annen fordel i arbeidsforhold: Regnskapsføring av øvrige ansattfordeler i Norsk kontoplan")
-* [Konto 5290 - Motkonto for gruppeÂ 52](/blogs/kontoplan/5290-motkonto-for-gruppe-52 "Konto 5290 - Motkonto for gruppe 52: Regnskapsføring av motkonto for gruppe 52 ansattgoder i Norsk kontoplan")
+* [Konto 5290 - Motkonto for gruppe 52](/blogs/kontoplan/5290-motkonto-for-gruppe-52 "Konto 5290 - Motkonto for gruppe 52: Regnskapsføring av motkonto for gruppe 52 ansattgoder i Norsk kontoplan")
 * [Konto 5910 - Kantinekostnader](/blogs/kontoplan/5910-kantinekostnader "Konto 5910 - Kantinekostnader")
 * [Konto 2930 - Lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")

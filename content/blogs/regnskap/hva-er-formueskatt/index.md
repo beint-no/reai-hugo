@@ -28,8 +28,8 @@ Bunnfradraget er det beløpet av nettoformuen som er skjermet fra formueskatt. F
 
 | Kategori | Bunnfradrag (NOK) |
 |----------|-------------------|
-| Enslige privatpersoner | 1Â 700Â 000 |
-| Samboere/ektefeller (felles bunnfradrag) | 3Â 400Â 000 |
+| Enslige privatpersoner | 1 700 000 |
+| Samboere/ektefeller (felles bunnfradrag) | 3 400 000 |
 
 Skattepliktig formue beregnes som **nettoformue minus bunnfradrag**.
 
@@ -39,22 +39,22 @@ Formueskatt består av en kommunal sats og en statlig sats. Gjeldende satser (20
 
 | Skattekomponent | Sats |
 |-----------------|------|
-| Kommunal formueskatt | 0,7Â % |
-| Statlig formueskatt | 0,15Â % |
-| **Total formueskatt** | **0,85Â %** |
+| Kommunal formueskatt | 0,7 % |
+| Statlig formueskatt | 0,15 % |
+| **Total formueskatt** | **0,85 %** |
 
 ![Satser for formueskatt](formueskatt-satser.svg)
 
 ## Beregningseksempel
 
-La oss beregne formueskatt for en privatperson med nettoformue på 5Â 000Â 000 NOK:
+La oss beregne formueskatt for en privatperson med nettoformue på 5 000 000 NOK:
 
 | Beskrivelse | Beløp (NOK) |
 |-------------|-------------|
-| Nettoformue | 5Â 000Â 000 |
-| Bunnfradrag | “Â 1Â 700Â 000 |
-| **Grunnlag formueskatt** | **3Â 300Â 000** |
-| Formueskatt (0,85Â %) | **28Â 050** |
+| Nettoformue | 5 000 000 |
+| Bunnfradrag | “ 1 700 000 |
+| **Grunnlag formueskatt** | **3 300 000** |
+| Formueskatt (0,85 %) | **28 050** |
 
 ![Eksempel på beregning av formueskatt](formueskatt-beregning.svg)
 
@@ -62,7 +62,7 @@ La oss beregne formueskatt for en privatperson med nettoformue på 5Â 000Â 0
 
 Visse eiendeler og personer er delvis eller helt unntatt fra formueskatt:
 
-* **Primærbolig** “ Verdsettes til 25Â % av markedsverdi, noe som reduserer skattegrunnlaget.
+* **Primærbolig** “ Verdsettes til 25 % av markedsverdi, noe som reduserer skattegrunnlaget.
 * **Landbrukseiendom** “ Unntak eller særskilte verdsettingsregler for gårdsbruk.
 * **Bærekraftsbedrifter** “ Redusert formuesverdi ved investering i visse miljøfond.
 

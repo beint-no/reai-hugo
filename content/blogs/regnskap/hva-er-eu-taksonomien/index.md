@@ -298,7 +298,7 @@ EU-taksonomien påvirker også **regnskapsføringen** i Norge og knytter seg til
 
 | Regelverk/Standard                | Påvirkning på regnskap                     | Intern link                                                                                                                      |
 |-----------------------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| **Regnskapsloven Â§Â 3‘3c**         | Krav om redegjørelse for samfunnsansvar    | [Regnskapsloven Â§Â 3‘3c](/blogs/regnskap/hva-er-opplysningsplikt "Hva er Opplysningsplikt? Guide til Regnskapsloven Â§–¯3‘3c og samfunnsansvar") |
+| **Regnskapsloven § 3‘3c**         | Krav om redegjørelse for samfunnsansvar    | [Regnskapsloven § 3‘3c](/blogs/regnskap/hva-er-opplysningsplikt "Hva er Opplysningsplikt? Guide til Regnskapsloven §–¯3‘3c og samfunnsansvar") |
 | **Norsk Regnskapsstandard (NRS)** | Retningslinjer for bærekraftsrapportering   | [Norsk regnskapsstandard (NRS)](/blogs/regnskap/norsk-regnskapsstandard-nrs "Norsk regnskapsstandard (NRS) - Komplett Guide til Norske Regnskapsstandarder") |
 | **IFRS Sustainability Standards** | For EU-børsnoterte selskaper, integrering av internasjonale bærekraftsstandarder | [Hva er IFRS?](/blogs/regnskap/hva-er-ifrs "Hva er IFRS? Guide til internasjonale regnskapsstandarder")                               |
 | **Vedtekter for AS**              | Krav til redegjørelse i årsberetning        | [Hva er vedtekter for aksjeselskap](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er vedtekter for aksjeselskap?")               |

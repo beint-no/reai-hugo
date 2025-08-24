@@ -8,7 +8,7 @@ description: '**Næringsoppgaven** er en sentral del av det norske skattesysteme
 
 Næringsoppgaven er ikke bare en skattemessig forpliktelse, men også et viktig verktøy for å dokumentere bedriftens økonomiske aktivitet og sikre korrekt skatteberegning. For bedrifter som driver med [fakturasalg](/blogs/regnskap/hva-er-fakturasalg "Hva er Fakturasalg? Komplett Guide til Kredittgivning og Debitorhåndtering") eller har komplekse [driftsinntekter](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Inntektsføring i Regnskap"), er næringsoppgaven spesielt viktig for å sikre korrekt rapportering.
 
-For detaljer om **NæringsoppgaveÂ 1**, se [NæringsoppgaveÂ 1](/blogs/regnskap/naeringsoppgave-1 "Hva er NæringsoppgaveÂ 1? Komplett Guide til NæringsoppgaveÂ 1").
+For detaljer om **Næringsoppgave 1**, se [Næringsoppgave 1](/blogs/regnskap/naeringsoppgave-1 "Hva er Næringsoppgave 1? Komplett Guide til Næringsoppgave 1").
 
 Skattefunn-fradrag rapporteres som del av skattemeldingen og næringsoppgaven. Les mer i [Skattefunn](/blogs/regnskap/skattefunn "Skattefunn “ Skatteinsentiver for Forskning og Utvikling i Norge").
 

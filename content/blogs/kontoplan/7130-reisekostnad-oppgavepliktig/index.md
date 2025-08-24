@@ -1,10 +1,10 @@
 ﻿---
 title: "Hva er Konto 7130 - Reisekostnad, oppgavepliktig?"
 seoTitle: "7130-reisekostnad-oppgavepliktig"
-description: '**Konto 7130 - Reisekostnad, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **oppgavepliktige reisekostnade...'
+description: '**Konto 7130 - Reisekostnad, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **oppgavepliktige reisekostnade...'
 ---
 
-**Konto 7130 - Reisekostnad, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **oppgavepliktige reisekostnader**.
+**Konto 7130 - Reisekostnad, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **oppgavepliktige reisekostnader**.
 
 ![Illustrasjon av konto 7130 reisekostnad oppgavepliktig](7130-reisekostnad-oppgavepliktig-image.svg)
 

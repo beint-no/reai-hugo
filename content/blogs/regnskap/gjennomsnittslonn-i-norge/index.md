@@ -19,7 +19,7 @@ Tabellen under viser gjennomsnittlig årslønn i Norge de siste årene (bruttobe
 | 2022 | 628–¯622                      |
 | 2023 | 640–¯000                      |
 
-Tallene viser en jevn økning i årslønn, men for å forstå kostnadene knyttet til lønn i regnskapet kan du se nærmere på [lønnsÂ­kostnad](/blogs/regnskap/lonnskostnad "Hva er Lønnskostnad? Komplett Guide til Lønnskostnader").
+Tallene viser en jevn økning i årslønn, men for å forstå kostnadene knyttet til lønn i regnskapet kan du se nærmere på [lønns­kostnad](/blogs/regnskap/lonnskostnad "Hva er Lønnskostnad? Komplett Guide til Lønnskostnader").
 
 ## Gjennomsnittslønn etter bransje
 
@@ -34,7 +34,7 @@ Ulike sektorer har betydelig variasjon i lønnsnivå:
 | Undervisning      | 530–¯000 kr       |
 | Finans            | 900–¯000 kr       |
 
-For en full oversikt over ulike **lønnsÂ­komponenter**, se [Hva er Grunnlønn?](/blogs/regnskap/hva-er-grunnlonn "Hva er Grunnlønn i Regnskap?").
+For en full oversikt over ulike **lønns­komponenter**, se [Hva er Grunnlønn?](/blogs/regnskap/hva-er-grunnlonn "Hva er Grunnlønn i Regnskap?").
 
 ## Regional variasjon
 
@@ -66,7 +66,7 @@ For regnskapsførere og HR-ansvarlige er gjennomsnittslønn et viktig verktøy:
 
 ## Oppsummering
 
-Gjennomsnittslønn i Norge gir et overblikk over hvordan norsk arbeidsliv belønner ulike yrker, bransjer og regioner. Ved å forstå disse tallene kan virksomheter sikre konkurransedyktige lønnstilbud, korrekt budsjettÂ­håndtering og solid lønnsstyring.
+Gjennomsnittslønn i Norge gir et overblikk over hvordan norsk arbeidsliv belønner ulike yrker, bransjer og regioner. Ved å forstå disse tallene kan virksomheter sikre konkurransedyktige lønnstilbud, korrekt budsjett­håndtering og solid lønnsstyring.
 
 
 

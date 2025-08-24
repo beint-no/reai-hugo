@@ -46,15 +46,15 @@ For mer informasjon, se [Hva er skatt?](/blogs/regnskap/hva-er-skatt "Hva er ska
 
 **Eksempel:** En virksomhet pådrar seg følgende finanskostnader i løpet av året:
 
-* Renter på kassekreditt: 50Â 000Â NOK
-* Valutatap ved leverandørbetaling: 10Â 000Â NOK
-* Garantiprovisjon: 5Â 000Â NOK
+* Renter på kassekreditt: 50 000 NOK
+* Valutatap ved leverandørbetaling: 10 000 NOK
+* Garantiprovisjon: 5 000 NOK
 
-**Samlet finanskostnad:** 65Â 000Â NOK
+**Samlet finanskostnad:** 65 000 NOK
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 8170:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 8170:
 
 * [Konto 8130 - Rentekostnad foretak i samme konsern](/blogs/kontoplan/8130-rentekostnad-foretak-i-samme-konsern "Konto 8130 - Rentekostnad foretak i samme konsern")
 * [Konto 8140 - Rentekostnad, ikke fradragsberettiget](/blogs/kontoplan/8140-rentekostnad-ikke-fradragsberettiget "Konto 8140 - Rentekostnad, ikke fradragsberettiget i Norsk Standard Kontoplan")

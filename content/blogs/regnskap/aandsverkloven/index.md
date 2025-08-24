@@ -47,14 +47,14 @@ Tabellen under viser hovedreglene for varighet:
 
 Noen unntak gjelder selv om verk er beskyttet:
 
-* **Sitatrett:** Kort gjengivelse for kritikk, analyse eller undervisning (Â§Â 29).
-* **Privat bruk:** Kopiering til privat bruk (Â§Â 12).
-* **Biblioteks- og arkivbruk:** Kopiering for bevaring (Â§Â 16a).
-* **Undervisning:** Utdrag i undervisningssammenheng (Â§Â 22).
+* **Sitatrett:** Kort gjengivelse for kritikk, analyse eller undervisning (§ 29).
+* **Privat bruk:** Kopiering til privat bruk (§ 12).
+* **Biblioteks- og arkivbruk:** Kopiering for bevaring (§ 16a).
+* **Undervisning:** Utdrag i undervisningssammenheng (§ 22).
 
 ## Regnskapsmessig behandling
 
-IÂ regnskapssammenheng klassifiseres opphavsrett som en **immateriell rettighet**. For mer informasjon om regnskapsføring av immaterielle eiendeler, se [Hva er imaterielle rettigheter?](/blogs/regnskap/hva-er-imaterielle-rettigheter "Hva er Imaterielle Rettigheter? Komplett Guide til Regnskapsføring og Verdivurdering") og [Hva er amortisering?](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? En Komplett Guide til Avskrivning av Immaterielle Eiendeler").
+I regnskapssammenheng klassifiseres opphavsrett som en **immateriell rettighet**. For mer informasjon om regnskapsføring av immaterielle eiendeler, se [Hva er imaterielle rettigheter?](/blogs/regnskap/hva-er-imaterielle-rettigheter "Hva er Imaterielle Rettigheter? Komplett Guide til Regnskapsføring og Verdivurdering") og [Hva er amortisering?](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? En Komplett Guide til Avskrivning av Immaterielle Eiendeler").
 
 ## Se også
 

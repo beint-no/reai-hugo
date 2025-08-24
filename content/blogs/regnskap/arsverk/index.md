@@ -1,7 +1,8 @@
 ﻿---
 title: "Årsverk"
-seoTitle: "Årsverk"
-description: 'Årsverk er et mål på arbeidsinnsats som gjør det mulig å sammenligne ulike arbeidsforhold og stillingsprosenter i én enhet. I norsk regnskap og rapporteri...'
+seoTitle: "Årsverk | Definisjon, beregning og bruk i regnskap"
+description: "Årsverk er et mål på arbeidsinnsats som standardiserer ulike stillingsprosenter til én enhet. Denne artikkelen forklarer hva et årsverk er, hvordan det beregnes, og hvordan nøkkeltallet brukes i rapportering, budsjettering og lovpålagte terskler."
+summary: "Kort forklaring av hva et årsverk er, hvordan du beregner årsverk, og hvor det brukes i rapportering og regelverk."
 ---
 
 Årsverk er et mål på arbeidsinnsats som gjør det mulig å sammenligne ulike arbeidsforhold og stillingsprosenter i én enhet. I norsk regnskap og rapportering brukes årsverk blant annet for å definere terskelverdier for små foretak, revisjonsplikt og budsjettering av personalkostnader.

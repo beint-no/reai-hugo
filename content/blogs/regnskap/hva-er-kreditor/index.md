@@ -208,9 +208,9 @@ Kreditorhåndtering er regulert av flere lover og forskrifter:
 
 | Type forpliktelse | Foreldelsestid | Lovhjemmel |
 |-------------------|----------------|------------|
-| **Vanlige leverandørgjeld** | 3 år | Foreldelsesloven Â§ 2 |
-| **Løpende leveranser** | 3 år fra siste levering | Foreldelsesloven Â§ 2 |
-| **Tjenestekjøp** | 3 år | Foreldelsesloven Â§ 2 |
+| **Vanlige leverandørgjeld** | 3 år | Foreldelsesloven § 2 |
+| **Løpende leveranser** | 3 år fra siste levering | Foreldelsesloven § 2 |
+| **Tjenestekjøp** | 3 år | Foreldelsesloven § 2 |
 
 ## Best Practices for Kreditorhåndtering
 

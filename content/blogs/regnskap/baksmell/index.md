@@ -1,7 +1,8 @@
 ﻿---
-title: "Baksmell i Regnskap og Skatt"
-seoTitle: "Baksmell i Regnskap og Skatt"
-description: '**Baksmell** er en ekstra skattekostnad eller regnskapsjustering som oppstår når **forskuddsbetalinger**, **avsetninger** eller **periodiseringer** ikke dekke...'
+title: "Baksmell i regnskap og skatt"
+seoTitle: "Baksmell | Årsaker, beregning og regnskapsføring"
+description: "Baksmell oppstår når forskuddsskatt, avsetninger eller periodisering ikke dekker faktisk kostnad eller skatt. Denne guiden forklarer vanlige årsaker, hvordan du beregner baksmell og hvordan den bokføres."
+summary: "Kort forklaring av baksmell: vanlige årsaker, beregning og hvordan posten håndteres i regnskapet."
 ---
 
 **Baksmell** er en ekstra skattekostnad eller regnskapsjustering som oppstår når **forskuddsbetalinger**, **avsetninger** eller **periodiseringer** ikke dekker den faktiske skatten eller kostnaden ved likningsoppgjøret. Dette fører til en uventet ekstrakostnad som kan påvirke virksomhetens [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Måling og Styring av Betalingsevne") og økonomiske planlegging.

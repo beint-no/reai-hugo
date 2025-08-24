@@ -59,7 +59,7 @@ Proformafakturaer er **foreløpige fakturaer** som ofte benyttes som tilbudsdoku
 
 * **Formelt tilbudsdokument:** Gir oversikt over forventet pris og leveringsbetingelser
 * **Ingen regnskapsføring:** Skal ikke registreres i hovedbok eller MVA-melding
-* **Tydelig merking:** Skal merkes tydelig med Â«ProformafakturaÂ» for å unngå forveksling med ordinære fakturaer
+* **Tydelig merking:** Skal merkes tydelig med «Proformafaktura» for å unngå forveksling med ordinære fakturaer
 * **Kan brukes ved eksport:** Ofte benyttet for toll- og eksportdokumentasjon
 
 ### 2.4 eFaktura (Elektronisk Faktura)

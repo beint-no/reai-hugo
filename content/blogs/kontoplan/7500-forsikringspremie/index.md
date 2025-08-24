@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7500 - Forsikringspremie"
 seoTitle: "7500-forsikringspremie"
-description: '**Konto 7500 - Forsikringspremie** er en **konto** i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere virksomhetens kostnader til **forsikri...'
+description: '**Konto 7500 - Forsikringspremie** er en **konto** i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere virksomhetens kostnader til **forsikri...'
 ---
 
-**Konto 7500 - Forsikringspremie** er en **konto** i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere virksomhetens kostnader til **forsikringspremier** og sikre korrekt periodisering og regnskapsføring.
+**Konto 7500 - Forsikringspremie** er en **konto** i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere virksomhetens kostnader til **forsikringspremier** og sikre korrekt periodisering og regnskapsføring.
 
 ![Illustrasjon av konto 7500 Forsikringspremie](7500-forsikringspremie-image.svg)
 
@@ -56,7 +56,7 @@ Kredit: Konto 7500 - Forsikringspremie
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 7500:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 7500:
 
 * [Konto 7040 - Forsikringer](/blogs/kontoplan/7040-forsikringer "Konto 7040 - Forsikringer")
 * [Konto 5920 - Yrkesskadeforsikring](/blogs/kontoplan/5920-yrkesskadeforsikring "Konto 5920 - Yrkesskadeforsikring")

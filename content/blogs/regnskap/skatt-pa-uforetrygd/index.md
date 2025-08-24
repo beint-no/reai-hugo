@@ -24,7 +24,7 @@ For å beskytte inntekt utover uføretrygd kan man tegne en privat **uføreforsi
 
 ### 1.2 Skatteplikt på Uføretrygd
 
-**Uføretrygd er skattepliktig inntekt** i henhold til skatteloven Â§ 5-40. Dette betyr at mottakerne må betale både [ordinær inntektsskatt](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging") og trygdeavgift av uføretrygden.
+**Uføretrygd er skattepliktig inntekt** i henhold til skatteloven § 5-40. Dette betyr at mottakerne må betale både [ordinær inntektsskatt](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging") og trygdeavgift av uføretrygden.
 
 #### Skattemessig behandling:
 | **Element** | **Behandling** | **Særlige regler** |
@@ -56,7 +56,7 @@ For å beskytte inntekt utover uføretrygd kan man tegne en privat **uføreforsi
 #### Trygdeavgift på uføretrygd (2024):
 | **Inntektsnivå** | **Trygdeavgiftssats** | **Sammenligning med lønn** |
 |------------------|----------------------|---------------------------|
-| Under 2G (â‰ˆ 232.000 kr) | 5,1% | Samme som lønn |
+| Under 2G (‰ˆ 232.000 kr) | 5,1% | Samme som lønn |
 | Over 2G | 5,1% | Lavere enn lønn (8,2%) |
 
 #### Beregningseksempel:
@@ -243,9 +243,9 @@ Total skatt: 30.700 + 80.000 = 110.700 kr
 **Overganger** mellom ulike trygdeordninger påvirker regnskapsføringen:
 
 #### Typiske overganger:
-1. **Sykepenger â†’ Arbeidsavklaringspenger â†’ Uføretrygd**
-2. **Gradert uføretrygd â†’ Full uføretrygd**
-3. **Uføretrygd â†’ Alderspensjon**
+1. **Sykepenger †’ Arbeidsavklaringspenger †’ Uføretrygd**
+2. **Gradert uføretrygd †’ Full uføretrygd**
+3. **Uføretrygd †’ Alderspensjon**
 
 #### Regnskapsmessige konsekvenser:
 * **Endret arbeidsgiveravgift** ved overgang til uføretrygd

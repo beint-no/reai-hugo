@@ -5,7 +5,7 @@ description: "Konto 2240 brukes til å registrere pantelån, lån sikret med pan
 summary: "Konto 2240: pantelån, sikkerhet i eiendeler, samt bokføring og balanseføring i kontoplanen."
 ---
 
-**Konto 2240 - Pantelån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **pantelån**, det vil si lån sikret med pant i eiendeler som eiendom, maskiner eller andre verdigjenstander.
+**Konto 2240 - Pantelån** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **pantelån**, det vil si lån sikret med pant i eiendeler som eiendom, maskiner eller andre verdigjenstander.
 
 ![Illustrasjon av konto 2240 Pantelån](2240-pantelan-image.svg)
 
@@ -43,7 +43,7 @@ _*Resultat- og balanseposter kan variere ved avtaler med avdragsfrihet eller ren
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2240:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2240:
 
 * [Konto 2200 - Konvertible lån](/blogs/kontoplan/2200-konvertible-lan "Konto 2200 - Konvertible lån i Norsk Standard Kontoplan")
 * [Konto 2300 - Konvertible lån](/blogs/kontoplan/2300-konvertible-lan "Konto 2300 - Konvertible lån i Norsk Standard Kontoplan")

@@ -19,7 +19,7 @@ Aksjeeierboken er ryggraden i eierstyringen i et aksjeselskap. Uten en korrekt f
 
 ## Hva skal en aksjeeierbok inneholde?
 
-I henhold til aksjeloven Â§ 4-5 stilles det klare krav til innholdet i en aksjeeierbok. Den må inneholde detaljert informasjon om hver aksjonær og deres aksjeinnehav.
+I henhold til aksjeloven § 4-5 stilles det klare krav til innholdet i en aksjeeierbok. Den må inneholde detaljert informasjon om hver aksjonær og deres aksjeinnehav.
 
 ![En illustrasjon av en aksjeeierbok](aksjeeierbok-innhold.svg)
 

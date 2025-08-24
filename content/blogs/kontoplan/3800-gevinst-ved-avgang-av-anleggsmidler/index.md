@@ -19,7 +19,7 @@ summary: "Konto 3800: gevinst ved avgang, beregning, bokføring og relaterte kon
 |----------------------------|--------------------------------------------------------------------|
 | Salgsprovenue              | Inntekt ved salg av anleggsmiddelet inkl. eventuelt merverdiavgift |
 | Balanseført verdi          | Anskaffelseskost minus akkumulerte avskrivninger                   |
-| **Gevinst ved avgang**     | Salgsprovenue âˆ’ balanseført verdi                                  |
+| **Gevinst ved avgang**     | Salgsprovenue ˆ’ balanseført verdi                                  |
 
 ## Regnskapsføring av gevinst
 

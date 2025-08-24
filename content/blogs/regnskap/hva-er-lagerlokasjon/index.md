@@ -105,7 +105,7 @@ Effektiv lagerlokasjonsstyring støtter [internkontroll](/blogs/regnskap/hva-er-
 
 Ulike lagerlokasjoner kan ha forskjellige kostnader:
 
-| Lokasjontype | Lagerkostnad per mÂ² | Sikkerhetsnivå | Tilgjengelighet |
+| Lokasjontype | Lagerkostnad per m² | Sikkerhetsnivå | Tilgjengelighet |
 |--------------|-------------------|----------------|-----------------|
 | **Standardhylle** | 150-300 kr/mnd | Lav | Høy |
 | **Kjølelager** | 400-800 kr/mnd | Medium | Medium |

@@ -29,13 +29,13 @@ description: '**Konto 8160 - Valutatap (Disagio)** er en konto i Norsk Standard 
 
 ## Eksempelberegning
 
-En virksomhet har 10Â 000Â USD på bankkonto. Opprinnelig omregningskurs var 9,60Â NOK/USD, og på balansedagen er kursen 9,50Â NOK/USD:
+En virksomhet har 10 000 USD på bankkonto. Opprinnelig omregningskurs var 9,60 NOK/USD, og på balansedagen er kursen 9,50 NOK/USD:
 
 | Beskrivelse                              | Beløp (USD) | Kurs (NOK) | NOK-verdi     |
 |------------------------------------------|-------------|------------|---------------|
-| Opprinnelig valutabeholdning             | 10Â 000      | 9,60       | 96Â 000        |
-| Ny kurs for omregning                    | 10Â 000      | 9,50       | 95Â 000        |
-| **Valutatap (Disagio)**                  |             |            | **1Â 000Â NOK** |
+| Opprinnelig valutabeholdning             | 10 000      | 9,60       | 96 000        |
+| Ny kurs for omregning                    | 10 000      | 9,50       | 95 000        |
+| **Valutatap (Disagio)**                  |             |            | **1 000 NOK** |
 
 ## Relaterte artikler
 

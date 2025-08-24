@@ -5,7 +5,7 @@ description: "Konto 2260 brukes til å registrere kortsiktig gjeld til andre sel
 summary: "Konto 2260: kortsiktig konserngjeld, når kontoen brukes og hvordan den bokføres og presenteres."
 ---
 
-**Konto 2260 - Gjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kortsiktig gjeld** til andre selskaper i samme konsern.
+**Konto 2260 - Gjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kortsiktig gjeld** til andre selskaper i samme konsern.
 
 ![Illustrasjon av konto 2260 Gjeld til selskap i samme konsern](2260-gjeld-til-selskap-i-samme-konsern-image.svg)
 
@@ -40,7 +40,7 @@ _* Resultat- og balanseposter kan variere ved rentefrie perioder eller avdragsor
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2260:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2260:
 
 * [Konto 2200 - Konvertible lån](/blogs/kontoplan/2200-konvertible-lan "Konto 2200 - Konvertible lån i Norsk Standard Kontoplan")
 * [Konto 2300 - Konvertible lån](/blogs/kontoplan/2300-konvertible-lan "Konto 2300 - Konvertible lån i Norsk Standard Kontoplan")

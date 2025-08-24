@@ -40,27 +40,27 @@ _*Tilpass kontoer etter selskapets kontoplan og sikr korrekt resultatføring.*_
 
 ## Eksempel på bruk av konto 3500
 
-**Eksempel:** Et selskap mottar 100Â 000Â NOK som garantiinnskudd for leveranse og forventer at 10Â % benyttes til garantikostnader.
+**Eksempel:** Et selskap mottar 100 000 NOK som garantiinnskudd for leveranse og forventer at 10 % benyttes til garantikostnader.
 
 1. Når garantien mottas:
 
    ```
-   Debet: Konto 1920 - Bankinnskudd 100Â 000
-   Kredit: Konto 3500 - Garanti 100Â 000
+   Debet: Konto 1920 - Bankinnskudd 100 000
+   Kredit: Konto 3500 - Garanti 100 000
    ```
 
-2. Ved regnskapsavslutning avsettes 10Â 000Â NOK som garantikostnad:
+2. Ved regnskapsavslutning avsettes 10 000 NOK som garantikostnad:
 
    ```
-   Debet: Konto 7550 - Garantikostnad 10Â 000
-   Kredit: Konto 3500 - Garanti 10Â 000
+   Debet: Konto 7550 - Garantikostnad 10 000
+   Kredit: Konto 3500 - Garanti 10 000
    ```
 
-3. Ved utbetaling av garantikrav på 8Â 000Â NOK:
+3. Ved utbetaling av garantikrav på 8 000 NOK:
 
    ```
-   Debet: Konto 3500 - Garanti 8Â 000
-   Kredit: Konto 1920 - Bankinnskudd 8Â 000
+   Debet: Konto 3500 - Garanti 8 000
+   Kredit: Konto 1920 - Bankinnskudd 8 000
    ```
 
 ## Vurdering i balansen

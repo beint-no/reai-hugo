@@ -5,7 +5,7 @@ description: "Konto 2380 brukes til å registrere kassekreditt, en kortsiktig kr
 summary: "Konto 2380: kassekreditt. Når den brukes, typiske føringer og klassifisering."
 ---
 
-**Konto 2380 - Kassekreditt** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kassekreditt**, en kortsiktig kredittramme i bank.
+**Konto 2380 - Kassekreditt** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kassekreditt**, en kortsiktig kredittramme i bank.
 
 ![Illustrasjon av konto 2380 kassekreditt](2380-kassekreditt-image.svg)
 
@@ -47,7 +47,7 @@ Kredit: Konto 2380 - Kassekreditt               150–¯000 kr
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2380:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2380:
 
 * [Konto 2220 - Gjeld til kredittinstitusjoner](/blogs/kontoplan/2220-gjeld-til-kredittinstitusjoner "Konto 2220 - Gjeld til kredittinstitusjoner i Norsk Standard Kontoplan")
 * [Konto 7770 - Bank og kortgebyrer](/blogs/kontoplan/7770-bank-og-kortgebyrer "Konto 7770 - Bank og kortgebyrer i Norsk Standard Kontoplan")

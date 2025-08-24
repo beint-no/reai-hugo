@@ -17,12 +17,12 @@ Regnskapsregler og skatteregler har ofte forskjellige vurderingsregler for eiend
 * **Andre midlertidige differanser**: avsetninger, nedskrivninger, periodiseringer.
 
 ## Beregning av utsatt skatt
-Utsatt skatt beregnes som produktet av de midlertidige forskjellene og gjeldende skattesats. I Norge er selskapsskattesatsen **22Â %** per 2024.
+Utsatt skatt beregnes som produktet av de midlertidige forskjellene og gjeldende skattesats. I Norge er selskapsskattesatsen **22 %** per 2024.
 
 | **Post**                           | **Beregning**                                           |
 |------------------------------------|---------------------------------------------------------|
-| Midlertidig forskjell              | (Regnskapsført verdiÂ âˆ’Â Skattemessig grunnlag)           |
-| Ã— Skattesats (22Â %)                | Gjeldende sats for selskapsskatt                        |
+| Midlertidig forskjell              | (Regnskapsført verdi ˆ’ Skattemessig grunnlag)           |
+| Ã— Skattesats (22 %)                | Gjeldende sats for selskapsskatt                        |
 | **= Utsatt skatt**                 | Skattebeløp som bokføres som utsatt skattefordel/-gjeld |
 
 ## Bokføring av utsatt skatt
@@ -36,17 +36,17 @@ For en grundig gjennomgang av **utsatt skattefordel**, se [Utsatt skattefordel](
 | Økning i utsatt skattegjeld         | 8800 Skattekostnad           | 2120 Utsatt skatt           |
 
 ### Eksempel på bokføring
-For en positiv midlertidig forskjell på 100Â 000Â kr:
+For en positiv midlertidig forskjell på 100 000 kr:
 
 | Post                                | Beløp       |
 |-------------------------------------|-------------|
-| Midlertidig forskjell               | 100Â 000Â kr  |
-| Ã— Skattesats (22Â %)                 | 22Â 000Â kr   |
-| **Utsatt skatt**                    | **22Â 000Â kr** |
+| Midlertidig forskjell               | 100 000 kr  |
+| Ã— Skattesats (22 %)                 | 22 000 kr   |
+| **Utsatt skatt**                    | **22 000 kr** |
 
 ```text
-Debet 1070 Utsatt skattefordel       22Â 000
-Kredit 8800 Skattekostnad            22Â 000
+Debet 1070 Utsatt skattefordel       22 000
+Kredit 8800 Skattekostnad            22 000
 ```
 
 ## Utsatt skatt vs. betalbar skatt

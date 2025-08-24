@@ -34,7 +34,7 @@ summary: "Kort forklart: Konto 4270 føres når prisavslag på avgiftspliktige i
 
 | Beløp ekskl. MVA | MVA (25 %) | Total inkl. MVA |
 |------------------|------------|-----------------|
-| 1Â 000 NOK        | 250 NOK    | 1Â 250 NOK       |
+| 1 000 NOK        | 250 NOK    | 1 250 NOK       |
 
 ## Intern lenking og relaterte kontoer
 

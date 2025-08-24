@@ -33,7 +33,7 @@ summary: "Kort forklart: Konto 4260 gjelder frakt-, toll- og spedisjonskostnader
 
 | Beløp ekskl. MVA | MVA (25 %) | Total inkl. MVA |
 |------------------|------------|-----------------|
-| 1Â 500 NOK        | 375 NOK    | 1Â 875 NOK       |
+| 1 500 NOK        | 375 NOK    | 1 875 NOK       |
 
 ## Fordeler ved korrekt bruk
 

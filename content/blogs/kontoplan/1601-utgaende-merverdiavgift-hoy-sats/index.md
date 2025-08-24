@@ -34,8 +34,8 @@ Tabellen under viser beregning av høy sats MVA for ulike verdier:
 
 | Salgsbeløp uten MVA | MVA (25 %) | Salgsbeløp inkl. MVA |
 |---------------------|------------|----------------------|
-| 8Â 000 NOK           | 2Â 000 NOK  | 10Â 000 NOK           |
-| 20Â 000 NOK          | 5Â 000 NOK  | 25Â 000 NOK           |
+| 8 000 NOK           | 2 000 NOK  | 10 000 NOK           |
+| 20 000 NOK          | 5 000 NOK  | 25 000 NOK           |
 
 ## Fordeler med separat høy sats-konto
 

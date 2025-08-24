@@ -4,7 +4,7 @@ seoTitle: "Leasing"
 description: '**Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten å måtte kjøpe dem kontant. I norsk regnskap har leasing gjennomgått en betydelig e...'
 ---
 
-**Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten å måtte kjøpe dem kontant. I norsk regnskap har leasing gjennomgått en betydelig endring etter innføringen av **IFRSÂ 16**, hvor de fleste leasingavtaler nå må balanseføres som **leasingforpliktelser** og **bruksretteiendeler**.
+**Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten å måtte kjøpe dem kontant. I norsk regnskap har leasing gjennomgått en betydelig endring etter innføringen av **IFRS 16**, hvor de fleste leasingavtaler nå må balanseføres som **leasingforpliktelser** og **bruksretteiendeler**.
 
 *Se også: [Hva er varige driftsmidler?](/blogs/regnskap/hva-er-varige-driftsmidler "Hva er varige driftsmidler? Komplett Guide til Avskrivbare Anleggsmidler")*  
 *Se også: [Hva er fremmedkapital?](/blogs/regnskap/hva-er-fremmedkapital "Hva er Fremmedkapital? Komplett Guide til Gjeld og Lånefinansiering")*  
@@ -21,9 +21,9 @@ Leasing deles ofte inn i to hovedkategorier i regnskapsføringen:
 
 ![Leasing Oversikt](leasing-overview.svg)
 
-## 2. Regnskapsføring etter IFRSÂ 16
+## 2. Regnskapsføring etter IFRS 16
 
-Under **IFRSÂ 16 Leieavtaler** må leietaker balanseføre de fleste leasingavtaler som:
+Under **IFRS 16 Leieavtaler** må leietaker balanseføre de fleste leasingavtaler som:
 
 * En **bruksretteiendel** (Right-of-Use Asset) målt til nåverdien av fremtidige leasingbetalinger.
 * En **leasingforpliktelse** (Lease Liability) tilsvarende nåverdien av de samme betalingene.
@@ -44,15 +44,15 @@ Under **IFRSÂ 16 Leieavtaler** må leietaker balanseføre de fleste leasingavt
 
 ## 4. Praktisk eksempel
 
-Anta at en bedrift inngår en leasingavtale med månedlige betalinger på 20Â 000Â kr i 3 år, med en diskonteringsrente på 5Â %:
+Anta at en bedrift inngår en leasingavtale med månedlige betalinger på 20 000 kr i 3 år, med en diskonteringsrente på 5 %:
 
 | Periode | Månedlig betaling | Nåverdi av betalinger |
 |---------|-------------------|-----------------------|
-| 1“36    | 20Â 000Â kr         | 640Â 000Â kr            |
+| 1“36    | 20 000 kr         | 640 000 kr            |
 
 ## 5. Konklusjon
 
-Leasing er et fleksibelt alternativ til kjøp som kan forbedre likviditet og skatteposisjon, men krever nøye vurdering av totale kostnader og balanseføring etter IFRSÂ 16.
+Leasing er et fleksibelt alternativ til kjøp som kan forbedre likviditet og skatteposisjon, men krever nøye vurdering av totale kostnader og balanseføring etter IFRS 16.
 
 
 

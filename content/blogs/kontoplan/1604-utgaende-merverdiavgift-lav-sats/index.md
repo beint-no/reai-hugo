@@ -39,8 +39,8 @@ Konto 1604 skal brukes når virksomheten fakturerer kunder med lav sats MVA. Typ
 
 | Salgsbeløp uten MVA | MVA (12–¯%)  | Salgsbeløp inkl. MVA |
 |---------------------|-------------|----------------------|
-| 10–¯000Â NOK          | 1–¯200Â NOK   | 11–¯200Â NOK           |
-| 25–¯000Â NOK          | 3–¯000Â NOK   | 28–¯000Â NOK           |
+| 10–¯000 NOK          | 1–¯200 NOK   | 11–¯200 NOK           |
+| 25–¯000 NOK          | 3–¯000 NOK   | 28–¯000 NOK           |
 
 ## Fordeler ved korrekt bokføring av lav sats
 

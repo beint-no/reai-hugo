@@ -20,9 +20,9 @@ Overkurs = Innbetalt beløp - (Antall aksjer Ã— Pålydende verdi)
 
 | Konto                                                       | Debet    | Kredit                                                       |
 |-------------------------------------------------------------|----------|--------------------------------------------------------------|
-| Bankinnskudd                                                | 150Â 000  |                                                              |
-| Aksjekapital                                                |          | 100Â 000                                                      |
-| [Overkurs](/blogs/regnskap/hva-er-overkurs "Hva er Overkurs? En Guide til Overkurs i Regnskap") |          | 50Â 000                                                       |
+| Bankinnskudd                                                | 150 000  |                                                              |
+| Aksjekapital                                                |          | 100 000                                                      |
+| [Overkurs](/blogs/regnskap/hva-er-overkurs "Hva er Overkurs? En Guide til Overkurs i Regnskap") |          | 50 000                                                       |
 
 ### Regnskaps- og skattekonsekvenser
 

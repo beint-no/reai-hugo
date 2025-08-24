@@ -32,7 +32,7 @@ Noter tjener flere kritiske formål i finansiell rapportering:
 
 ### Regnskapslovens Krav
 
-Regnskapsloven Â§ 7-1 til Â§ 7-45 spesifiserer detaljerte krav til noteopplysninger. Kravene varierer basert på selskapets størrelse og type:
+Regnskapsloven § 7-1 til § 7-45 spesifiserer detaljerte krav til noteopplysninger. Kravene varierer basert på selskapets størrelse og type:
 
 #### Store Foretak
 Store foretak må oppgi omfattende noteinformasjon, inkludert:

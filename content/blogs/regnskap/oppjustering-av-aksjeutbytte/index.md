@@ -23,9 +23,9 @@ Oppjustering må behandles i tråd med relevante paragrafer i **aksjeloven**:
 
 | Paragraf | Innhold |
 |---------|---------|
-| Â§Â 8-1   | Fastsetter krav til maks. utbytte basert på fri egenkapital |
-| Â§Â 8-2   | Beskriver ekstraordinært utbytte og krav til vedtak |
-| Â§Â 8-6   | Årsregnskapets betydning for disponering av overskudd |
+| § 8-1   | Fastsetter krav til maks. utbytte basert på fri egenkapital |
+| § 8-2   | Beskriver ekstraordinært utbytte og krav til vedtak |
+| § 8-6   | Årsregnskapets betydning for disponering av overskudd |
 
 Se også [Maskimalt Utbytte](/blogs/regnskap/maskimalt-utbytte "Maskimalt Utbytte “ Komplett Guide til Utbytteregler og Beregning") og [Ekstraordinært Utbytte](/blogs/regnskap/ekstraordinart-utbytte "Ekstraordinært Utbytte “ Alt du trenger å vite om ekstraordinært utbytte").
 
@@ -35,9 +35,9 @@ For å beregne oppjustert utbytte bør du følge disse trinnene:
 
 | Trinn | Beskrivelse                                               | Formelt uttrykk                              |
 |-------|-----------------------------------------------------------|----------------------------------------------|
-| 1     | Kartlegg fri egenkapital etter revidert årsregnskap       | Fri EK = Total egenkapital âˆ’ Bundet EK       |
-| 2     | Beregn maksimalt tillatt utbytte i henhold til aksjeloven | Maks utbytte = Fri EK âˆ’ Påkrevd buffer       |
-| 3     | Sammenlign med tidligere vedtatt utbytte                  | Oppjustering = Maks utbytte âˆ’ Vedtatt utbytte |
+| 1     | Kartlegg fri egenkapital etter revidert årsregnskap       | Fri EK = Total egenkapital ˆ’ Bundet EK       |
+| 2     | Beregn maksimalt tillatt utbytte i henhold til aksjeloven | Maks utbytte = Fri EK ˆ’ Påkrevd buffer       |
+| 3     | Sammenlign med tidligere vedtatt utbytte                  | Oppjustering = Maks utbytte ˆ’ Vedtatt utbytte |
 | 4     | Fastsett endelig oppjustert beløp                         | Nytt utbytte = Vedtatt utbytte + Oppjustering |
 
 ## Eksempel
@@ -46,17 +46,17 @@ Anta at selskapet etter revisjon har:
 
 | Post                      | Beløp (NOK) |
 |---------------------------|-------------|
-| Fri egenkapital           | 5Â 000Â 000   |
-| Tidligere vedtatt utbytte | 2Â 000Â 000   |
-| Påkrevd buffer            | 500Â 000     |
+| Fri egenkapital           | 5 000 000   |
+| Tidligere vedtatt utbytte | 2 000 000   |
+| Påkrevd buffer            | 500 000     |
 
 Da blir oppjusteringen:
 
 | Beregning                              | Verdi (NOK) |
 |----------------------------------------|-------------|
-| Maksimalt utbytte (Fri EK âˆ’ Buffer)    | 4Â 500Â 000   |
-| Oppjustering (4Â 500Â 000 âˆ’ 2Â 000Â 000)    | 2Â 500Â 000   |
-| **Nytt utbytte**                       | **4Â 500Â 000** |
+| Maksimalt utbytte (Fri EK ˆ’ Buffer)    | 4 500 000   |
+| Oppjustering (4 500 000 ˆ’ 2 000 000)    | 2 500 000   |
+| **Nytt utbytte**                       | **4 500 000** |
 
 ## Prosess og dokumentasjon
 

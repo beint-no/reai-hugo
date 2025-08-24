@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5300 - Tantieme"
 seoTitle: "5300-tantieme"
-description: '**Konto 5300 - Tantieme** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **tantieme** eller resultatbasert godtgjørelse til...'
+description: '**Konto 5300 - Tantieme** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **tantieme** eller resultatbasert godtgjørelse til...'
 ---
 
-**Konto 5300 - Tantieme** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **tantieme** eller resultatbasert godtgjørelse til ledelse og styremedlemmer.
+**Konto 5300 - Tantieme** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **tantieme** eller resultatbasert godtgjørelse til ledelse og styremedlemmer.
 
 ![Illustrasjon av konto 5300 Tantieme](5300-tantieme-image.svg)
 
@@ -42,7 +42,7 @@ Formelen for tantieme beregnes slik:
 
 | Beskrivelse                              | Debet (NOK) | Kredit (NOK) |
 |------------------------------------------|-----------:|-------------:|
-| Verdi av tantieme (5Â % av 1Â 000Â 000Â NOK) |      50–¯000 |              |
+| Verdi av tantieme (5 % av 1 000 000 NOK) |      50–¯000 |              |
 | Utbetaling av tantieme                  |            |       50–¯000 |
 
 ## Praktiske hensyn

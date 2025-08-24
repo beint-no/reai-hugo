@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Bedriftsbank?"
-seoTitle: "Hva er Bedriftsbank?"
-description: '**Bedriftsbank** er en helhetlig tjenesteportefølje som hjelper norske bedrifter med å **håndtere likviditet**, **utføre betalinger** og **opprettholde øko...'
+title: "Hva er bedriftsbank?"
+seoTitle: "Bedriftsbank | Tjenester, integrasjon og regnskapsføring"
+description: "Bedriftsbank omfatter kontoer, betalingstjenester, finansiering, sikkerhet og integrasjon mot regnskap. Her får du en oversikt over hva en bedriftsbank tilbyr og hvordan tjenestene påvirker bokføring og kontroll."
+summary: "Oversikt over bedriftsbank: hvilke tjenester som finnes, hvordan de integreres med regnskap og hva du bør vurdere."
 ---
 
 **Bedriftsbank** er en helhetlig tjenesteportefølje som hjelper norske bedrifter med å **håndtere likviditet**, **utføre betalinger** og **opprettholde økonomisk kontroll**. En moderne bedriftsbank omfatter både **bankkontoer**, **betalingstjenester**, **finansieringsløsninger**, **sikkerhetsmekanismer** og **integrasjon med regnskapssystemer**.

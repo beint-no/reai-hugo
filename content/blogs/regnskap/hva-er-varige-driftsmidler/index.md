@@ -26,12 +26,12 @@ description: '**Varige driftsmidler** er en type [driftsmidler](/blogs/regnskap/
 
 | Eiendeltype | Varige driftsmidler | Andre typer |
 |:------------|:-------------------|:------------|
-| **Tomter** | âœ— (ikke avskrivbare) | Anleggsmidler |
-| **Bygninger** | âœ“ | - |
-| **Maskiner** | âœ“ | - |
-| **Transportmidler** | âœ“ | - |
-| **Goodwill** | âœ— (immateriell) | Immateriell anleggsmiddel |
-| **Aksjer** | âœ— (finansiell) | Finansiell anleggsmiddel |
+| **Tomter** | œ— (ikke avskrivbare) | Anleggsmidler |
+| **Bygninger** | œ“ | - |
+| **Maskiner** | œ“ | - |
+| **Transportmidler** | œ“ | - |
+| **Goodwill** | œ— (immateriell) | Immateriell anleggsmiddel |
+| **Aksjer** | œ— (finansiell) | Finansiell anleggsmiddel |
 
 ## Klassifisering av Varige Driftsmidler
 
@@ -122,12 +122,12 @@ Moderne bedrifter er avhengige av **teknologiske driftsmidler**:
 
 | Kostnadselement | Inkluderes | Eksempel |
 |:----------------|:-----------|:---------|
-| **Kjøpspris** | âœ“ | Fakturaverdi ekskl. mva |
-| **Transport** | âœ“ | Frakt til bedriftens lokaler |
-| **Installasjon** | âœ“ | Montering og tilkobling |
-| **Prøvekjøring** | âœ“ | Testing og kalibrering |
-| **Opplæring av operatører** | âœ— | Føres som driftskostnad |
-| **Finansieringskostnader** | âœ— | Føres som rentekostnad |
+| **Kjøpspris** | œ“ | Fakturaverdi ekskl. mva |
+| **Transport** | œ“ | Frakt til bedriftens lokaler |
+| **Installasjon** | œ“ | Montering og tilkobling |
+| **Prøvekjøring** | œ“ | Testing og kalibrering |
+| **Opplæring av operatører** | œ— | Føres som driftskostnad |
+| **Finansieringskostnader** | œ— | Føres som rentekostnad |
 
 ### Bagatellgrense og Direkte Kostnadsføring
 
@@ -360,14 +360,14 @@ Kredit: Gevinst ved salg anleggsmidler     50.000
 ![Regnskap vs skatt behandling](regnskap-vs-skatt-behandling.svg)
 
 **Midlertidige forskjeller** oppstår når:
-* **Regnskapsmessig avskrivning** â‰  **Skattemessig avskrivning**
+* **Regnskapsmessig avskrivning** ‰  **Skattemessig avskrivning**
 * **Nedskrivninger** i regnskapet ikke aksepteres skattemessig
 * **Oppskrivninger** behandles forskjellig
 
 **Eksempel midlertidig forskjell:**
 * Regnskapsmessig avskrivning: 100.000 kr (lineær)
 * Skattemessig avskrivning: 120.000 kr (saldo)
-* Forskjell: 20.000 kr â†’ Utsatt skatt
+* Forskjell: 20.000 kr †’ Utsatt skatt
 
 ## Digitalisering og Moderne Utfordringer
 

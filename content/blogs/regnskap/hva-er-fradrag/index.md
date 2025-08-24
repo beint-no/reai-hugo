@@ -22,7 +22,7 @@ Fradragsretten i norsk skatterett bygger på flere grunnleggende prinsipper som 
 
 ### Hovedregelen for Fradrag
 
-Ifølge skatteloven Â§ 6-1 kan **fradrag** kreves for kostnader som er pådratt for å erverve, sikre og vedlikeholde skattepliktig inntekt. Dette innebærer at kostnaden må ha en klar tilknytning til virksomhetens inntektsgivende aktivitet.
+Ifølge skatteloven § 6-1 kan **fradrag** kreves for kostnader som er pådratt for å erverve, sikre og vedlikeholde skattepliktig inntekt. Dette innebærer at kostnaden må ha en klar tilknytning til virksomhetens inntektsgivende aktivitet.
 
 ### Vilkår for Fradragsrett
 

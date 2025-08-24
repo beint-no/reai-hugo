@@ -10,7 +10,7 @@ description: '**Nærstående parter** i norsk regnskap omfatter personer eller e
 
 ## Hva er nærstående parter?
 
-Begrepet Â«nærstående parterÂ» dekker styremedlemmer, ledende ansatte, morselskap, datterselskap, søsterselskap og andre hvor det foreligger kontroll eller vesentlig innflytelse.
+Begrepet «nærstående parter» dekker styremedlemmer, ledende ansatte, morselskap, datterselskap, søsterselskap og andre hvor det foreligger kontroll eller vesentlig innflytelse.
 
 ## Regelverk og krav
 
@@ -18,9 +18,9 @@ I regnskap og årsoppgjør må transaksjoner med nærstående parter behandles i
 
 | **Kilde**                     | **Krav**                                                           |
 |-------------------------------|---------------------------------------------------------------------|
-| Regnskapsloven Â§ 3-8          | Opplysninger om transaksjoner og mellommenneskelig tilknytning      |
-| Aksjeloven Â§ 5-18             | Krav til styrets behandling av transaksjoner med nærstående        |
-| Forvaltningsloven Â§ 6         | Håndtering av habilitet ved offentlige organers regnskapsvurdering |
+| Regnskapsloven § 3-8          | Opplysninger om transaksjoner og mellommenneskelig tilknytning      |
+| Aksjeloven § 5-18             | Krav til styrets behandling av transaksjoner med nærstående        |
+| Forvaltningsloven § 6         | Håndtering av habilitet ved offentlige organers regnskapsvurdering |
 
 ## Eksempler på transaksjoner
 

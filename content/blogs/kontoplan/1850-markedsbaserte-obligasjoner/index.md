@@ -24,7 +24,7 @@ summary: "Konto 1850 dekker markedsbaserte obligasjoner. Om virkelig verdi, mål
 
 ## Klassifisering og måling
 
-Markedsbaserte obligasjoner måles til virkelig verdi i henhold til gjeldende regnskapsstandarder (for eksempel IFRSÂ 9). Valg av målekategori avhenger av virksomhetens forretningsmodell og regnskapsmessige krav.
+Markedsbaserte obligasjoner måles til virkelig verdi i henhold til gjeldende regnskapsstandarder (for eksempel IFRS 9). Valg av målekategori avhenger av virksomhetens forretningsmodell og regnskapsmessige krav.
 
 | Målekategori                              | Beskrivelse                                                      |
 |-------------------------------------------|------------------------------------------------------------------|
@@ -48,11 +48,11 @@ Kredit: Konto 8300 - Urealiserte gevinster/fall i virkelig verdi
 
 ## Eksempel på bokføring
 
-En virksomhet vurderer sin beholdning av markedsbaserte obligasjoner med en verdiendring på 100Â 000Â kr:
+En virksomhet vurderer sin beholdning av markedsbaserte obligasjoner med en verdiendring på 100 000 kr:
 
 ```plaintext
-Debet: Konto 1850 - Markedsbaserte obligasjoner              100Â 000 kr
-Kredit: Konto 8300 - Urealiserte gevinster/fall i virkelig verdi 100Â 000 kr
+Debet: Konto 1850 - Markedsbaserte obligasjoner              100 000 kr
+Kredit: Konto 8300 - Urealiserte gevinster/fall i virkelig verdi 100 000 kr
 ```
 
 ## Relaterte artikler

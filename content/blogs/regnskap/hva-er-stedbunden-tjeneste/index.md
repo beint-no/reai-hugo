@@ -19,16 +19,16 @@ En stedbunden tjeneste leveres fysisk på et spesifikt sted hvor tjenesten fakti
 
 ## Juridisk grunnlag
 
-Stedsbestemmelse av stedbunden tjeneste reguleres av **Merverdiavgiftsloven** Â§–¯3-10 og Skattedirektoratets tolkninger som setter regler for hvor tjenesten anses levert for MVA og bokføring.
+Stedsbestemmelse av stedbunden tjeneste reguleres av **Merverdiavgiftsloven** §–¯3-10 og Skattedirektoratets tolkninger som setter regler for hvor tjenesten anses levert for MVA og bokføring.
 
 ## Stedsbestemmelsesregler
 
 | Tjenestetype               | Stedsbestemmelse                        | Referanse                           |
 |----------------------------|-----------------------------------------|-------------------------------------|
-| Persontransport            | Der transporten faktisk skjer           | Merverdiavgiftsloven Â§–¯3-5          |
-| Hotell- og serveringstjenester | Der overnatting eller servering skjer | Merverdiavgiftsloven Â§–¯3-7          |
-| Bygge- og anleggstjenester | Arbeidsstedets geografiske beliggenhet  | Merverdiavgiftsloven Â§–¯3-8          |
-| Kultur- og idrettsarrangement | Stedet for arrangementet               | Merverdiavgiftsloven Â§–¯3-9          |
+| Persontransport            | Der transporten faktisk skjer           | Merverdiavgiftsloven §–¯3-5          |
+| Hotell- og serveringstjenester | Der overnatting eller servering skjer | Merverdiavgiftsloven §–¯3-7          |
+| Bygge- og anleggstjenester | Arbeidsstedets geografiske beliggenhet  | Merverdiavgiftsloven §–¯3-8          |
+| Kultur- og idrettsarrangement | Stedet for arrangementet               | Merverdiavgiftsloven §–¯3-9          |
 
 ## Unntak og særregler
 
@@ -60,7 +60,7 @@ For mer informasjon om MVA-regler og stedsbestemmelse, se også:
 
 ## Oppsummering
 
-**Stedbunden tjeneste** krever korrekt stedsbestemmelse for å sikre riktig MVA-behandling og bokføring. Ved å følge lovens Â§Â§–¯3-5 til 3-10 og praksis fra Skattedirektoratet kan bedrifter unngå feil og sanksjoner.
+**Stedbunden tjeneste** krever korrekt stedsbestemmelse for å sikre riktig MVA-behandling og bokføring. Ved å følge lovens §§–¯3-5 til 3-10 og praksis fra Skattedirektoratet kan bedrifter unngå feil og sanksjoner.
 
 
 

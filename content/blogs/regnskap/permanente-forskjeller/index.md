@@ -29,8 +29,8 @@ En **permanent forskjell** oppstår når det er en varig avvik mellom regnskapsm
 
 | **Post**                        | **Regnskapsført** | **Skattemessig** | **Forskjellstype**      |
 |---------------------------------|-------------------|------------------|-------------------------|
-| Bøter og straffeskatt           | 50Â 000            | 0                | Permanent forskjell     |
-| Skattefrie utbytter             | 100Â 000           | 0                | Permanent forskjell     |
+| Bøter og straffeskatt           | 50 000            | 0                | Permanent forskjell     |
+| Skattefrie utbytter             | 100 000           | 0                | Permanent forskjell     |
 
 ## Hvorfor er dette viktig?
 

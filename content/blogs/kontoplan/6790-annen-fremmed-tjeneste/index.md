@@ -29,7 +29,7 @@ description: '**Konto 6790 - Annen fremmed tjeneste** er en konto i Norsk Standa
 
 | Beløp ekskl. MVA | MVA (25 %) | Total inkl. MVA |
 |------------------|------------|-----------------|
-| 40Â 000 NOK       | 10Â 000 NOK | 50Â 000 NOK      |
+| 40 000 NOK       | 10 000 NOK | 50 000 NOK      |
 
 ## Fordeler ved korrekt bruk
 
@@ -39,7 +39,7 @@ description: '**Konto 6790 - Annen fremmed tjeneste** er en konto i Norsk Standa
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6790:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6790:
 
 * [Konto 4500 - Fremmedytelser og underentreprise](/blogs/kontoplan/4500-fremmedytelser-og-underentreprise "Konto 4500 - Fremmedytelser og underentreprise")
 * [Konto 6700 - Revisjons- og regnskapshonorarer](/blogs/kontoplan/6700-revisjons-og-regnskapshonorarer "Konto 6700 - Revisjons- og regnskapshonorarer")

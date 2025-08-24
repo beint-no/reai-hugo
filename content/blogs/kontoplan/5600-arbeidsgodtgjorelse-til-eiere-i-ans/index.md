@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5600 - Arbeidsgodtgjørelse til eiere i ANS o.l."
 seoTitle: "5600-arbeidsgodtgjorelse-til-eiere-i-ans"
-description: '**Konto 5600 - Arbeidsgodtgjørelse til eiere i ANS o.l.** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som benyttes for å registrere **arbeidsgodtgjÃ...'
+description: '**Konto 5600 - Arbeidsgodtgjørelse til eiere i ANS o.l.** er en konto i **Norsk Standard Kontoplan (NS 4102)** som benyttes for å registrere **arbeidsgodtgjÃ...'
 ---
 
-**Konto 5600 - Arbeidsgodtgjørelse til eiere i ANS o.l.** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som benyttes for å registrere **arbeidsgodtgjørelse** som utbetales til **eiere** i ansvarlige selskaper (ANS) og lignende selskapsformer.
+**Konto 5600 - Arbeidsgodtgjørelse til eiere i ANS o.l.** er en konto i **Norsk Standard Kontoplan (NS 4102)** som benyttes for å registrere **arbeidsgodtgjørelse** som utbetales til **eiere** i ansvarlige selskaper (ANS) og lignende selskapsformer.
 
 ![Konto 5600 - Arbeidsgodtgjørelse til eiere i ANS o.l.](5600-arbeidsgodtgjorelse-til-eiere-i-ans-image.svg)
 
@@ -29,7 +29,7 @@ Konto 5600 brukes i følgende situasjoner:
 
 ## Eksempel på bokføring
 
-En ANS fordeler 100–¯000Â NOK i arbeidsgodtgjørelse til eierne ved årsslutt:
+En ANS fordeler 100–¯000 NOK i arbeidsgodtgjørelse til eierne ved årsslutt:
 
 | Beskrivelse                          | Debet (NOK) | Kredit (NOK) |
 |--------------------------------------|-----------:|-------------:|

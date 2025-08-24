@@ -38,20 +38,20 @@ _*Justér kontonummer etter selskapets kontoplan og behov.*_
 
 ## Eksempel
 
-**Eksempel:** Et selskap mottar faktura for omfattende vedlikehold på 20Â 000Â NOK og betaler kravet i samme periode.
+**Eksempel:** Et selskap mottar faktura for omfattende vedlikehold på 20 000 NOK og betaler kravet i samme periode.
 
 1. Bokføring av faktura:
 
    ```text
-   Debet: Konto 7560 - Servicekostnad      20Â 000
-   Kredit: Konto 2400 - Leverandørgjeld     20Â 000
+   Debet: Konto 7560 - Servicekostnad      20 000
+   Kredit: Konto 2400 - Leverandørgjeld     20 000
    ```
 
 2. Betaling av faktura:
 
    ```text
-   Debet: Konto 2400 - Leverandørgjeld     20Â 000
-   Kredit: Konto 1920 - Bankinnskudd       20Â 000
+   Debet: Konto 2400 - Leverandørgjeld     20 000
+   Kredit: Konto 1920 - Bankinnskudd       20 000
    ```
 
 ## Vurdering i resultatregnskapet

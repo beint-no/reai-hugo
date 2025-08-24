@@ -21,8 +21,8 @@ Begrepet **leder** omfatter personer eller organer som har formelt ansvar for å
 
 | Rolle                                               | Beskrivelse                                                                                          | Lovverk / Regelverk                 |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------|
-| [Styreleder](/blogs/regnskap/styreleder "Hva er Styreleder? Styrets Lederrolle i Norske Aksjeselskaper")          | Leder styret og sørger for effektiv styring og kontroll av selskapets virksomhet.                   | Aksjeloven Â§Â§6-12 til 6-14          |
-| [Daglig leder](/blogs/regnskap/hva-er-daglig-leder "Hva er Daglig Leder? Rolle, Ansvar og Regnskapsmessige Forpliktelser") | Driver den løpende driften og utarbeider rapporter til styret.                                         | Aksjeloven Â§Â§6-12 til 6-14          |
+| [Styreleder](/blogs/regnskap/styreleder "Hva er Styreleder? Styrets Lederrolle i Norske Aksjeselskaper")          | Leder styret og sørger for effektiv styring og kontroll av selskapets virksomhet.                   | Aksjeloven §§6-12 til 6-14          |
+| [Daglig leder](/blogs/regnskap/hva-er-daglig-leder "Hva er Daglig Leder? Rolle, Ansvar og Regnskapsmessige Forpliktelser") | Driver den løpende driften og utarbeider rapporter til styret.                                         | Aksjeloven §§6-12 til 6-14          |
 | Økonomiansvarlig (CFO)                              | Overvåker økonomiske analyser, budsjett og regnskap i henhold til god regnskapsskikk.                | Bokføringsloven og god regnskapsskikk |
 
 

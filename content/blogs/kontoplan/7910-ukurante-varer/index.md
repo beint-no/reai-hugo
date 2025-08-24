@@ -36,11 +36,11 @@ description: '**Konto 7910 - Ukurante varer** er en konto i Norsk Standard Konto
 
 ## Eksempel på bokføring
 
-Et selskap skriver ned ukurante varer kjøpt for videresalg med 50Â 000Â NOK:
+Et selskap skriver ned ukurante varer kjøpt for videresalg med 50 000 NOK:
 
 ```plaintext
-Debet: Konto 7910 - Ukurante varer                        50Â 000 NOK
-Kredit: Konto 1460 - Innkjøpte varer for videresalg         50Â 000 NOK
+Debet: Konto 7910 - Ukurante varer                        50 000 NOK
+Kredit: Konto 1460 - Innkjøpte varer for videresalg         50 000 NOK
 ```
 
 ## Intern lenking og relaterte kontoer

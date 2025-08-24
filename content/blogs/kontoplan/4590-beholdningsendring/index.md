@@ -12,7 +12,7 @@ description: '**Konto 4590 - Beholdningsendring** er en konto i Norsk Standard K
 
 *Beholdningsendring* (også kalt *lagerendring*) refererer til **differansen** mellom varelagerets verdi ved periodens slutt og ved periodens begynnelse. Dette gir innsikt i **produksjonsnivå** og **salgsvolum** i perioden.
 
->>> **Beholdningsendring = Varelager ved periodens slutt âˆ’ Varelager ved periodens begynnelse**
+>>> **Beholdningsendring = Varelager ved periodens slutt ˆ’ Varelager ved periodens begynnelse**
 
 ### Formel for beholdningsendring
 
@@ -37,8 +37,8 @@ For mer om lagervurdering, se [Hva er Varelager?](/blogs/regnskap/hva-er-varelag
 
 ## Eksempler på beholdningsendring
 
-1. **Positiv beholdningsendring:** Varelageret øker fra **krÂ 100Â 000** til **krÂ 120Â 000**, noe som girÂ **+Â krÂ 20Â 000**.
-2. **Negativ beholdningsendring:** Varelageret reduseres fra **krÂ 150Â 000** til **krÂ 130Â 000**, noe som girÂ **âˆ’Â krÂ 20Â 000**.
+1. **Positiv beholdningsendring:** Varelageret øker fra **kr 100 000** til **kr 120 000**, noe som gir **+ kr 20 000**.
+2. **Negativ beholdningsendring:** Varelageret reduseres fra **kr 150 000** til **kr 130 000**, noe som gir **ˆ’ kr 20 000**.
 
 ## Praktiske tips
 

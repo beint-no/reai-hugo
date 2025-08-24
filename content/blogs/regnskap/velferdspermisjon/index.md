@@ -30,11 +30,11 @@ Arbeidsgivere må vurdere både lønnskostnad, refusjonskrav og eventuell skatte
 
 | **Permisjonstype**      | **Lønn under permisjon** | **Refusjon/tilskudd**           | **Regnskapsføring**                                 |
 |-------------------------|--------------------------|---------------------------------|-----------------------------------------------------|
-| Omsorgspermisjon        | Etter avtale             | Inntil 60Â % via NAV             | Debet: LønnskostnadÂ <br>Â Kredit: Skyldig lønn/refusjonsfordring |
-| Utdanningspermisjon     | Kan være lønnet/frivillig| Varierende fra staten eller fylke| Debet: OpplæringskostnadÂ <br>Â Kredit: Leverandør/skyldig lønn |
-| Tillitsverv             | Full lønn eller delvis   | Tilskudd fra tilsvarende organisasjon | Debet: Lønnskostnad tillitsvervÂ <br>Â Kredit: Skyldig lønn |
-| Vernetjeneste           | Full lønn                | Ingen refusjon                  | Debet: Lønnskostnad vernepliktÂ <br>Â Kredit: Skyldig lønn |
-| Flyttepermisjon         | Vanlig lønn              | Ikke refusjonsrett             | Debet: LønnskostnadÂ <br>Â Kredit: Skyldig lønn |
+| Omsorgspermisjon        | Etter avtale             | Inntil 60 % via NAV             | Debet: Lønnskostnad <br> Kredit: Skyldig lønn/refusjonsfordring |
+| Utdanningspermisjon     | Kan være lønnet/frivillig| Varierende fra staten eller fylke| Debet: Opplæringskostnad <br> Kredit: Leverandør/skyldig lønn |
+| Tillitsverv             | Full lønn eller delvis   | Tilskudd fra tilsvarende organisasjon | Debet: Lønnskostnad tillitsverv <br> Kredit: Skyldig lønn |
+| Vernetjeneste           | Full lønn                | Ingen refusjon                  | Debet: Lønnskostnad verneplikt <br> Kredit: Skyldig lønn |
+| Flyttepermisjon         | Vanlig lønn              | Ikke refusjonsrett             | Debet: Lønnskostnad <br> Kredit: Skyldig lønn |
 
 ## Praktiske tips for arbeidsgivere
 

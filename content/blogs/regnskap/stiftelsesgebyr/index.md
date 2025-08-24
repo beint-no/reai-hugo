@@ -16,8 +16,8 @@ Stiftelsesgebyret fastsettes av staten og endres jevnlig. Det skilles mellom **d
 
 | Registreringstype       | Digitalt gebyr (NOK) | Manuelt gebyr (NOK) |
 |-------------------------|----------------------|---------------------|
-| Aksjeselskap (AS)       | 5Â 570                | 6Â 797               |
-| Stiftelse               | 7Â 571                | 10Â 180              |
+| Aksjeselskap (AS)       | 5 570                | 6 797               |
+| Stiftelse               | 7 571                | 10 180              |
 
 *Tallene er per 2023. Sjekk alltid gjeldende satser på Brønnøysundregistrene.no.*
 

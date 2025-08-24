@@ -30,7 +30,7 @@ description: '**Stiftelse** er en juridisk selvstendig organisasjonsform som eta
 | Vedtekter | Skriftlige og registrerte | Formålsbinding av midlene |
 | Styre | Minimum 3 medlemmer | [Styringsansvar](/blogs/regnskap/hva-er-styring "Hva er Styring? Corporate Governance og Ledelsessystemer") |
 | Revisor | For store stiftelser | [Revisjonspliktige](/blogs/regnskap/hva-er-revisjon "Hva er Revisjon? Revisorens Rolle og Revisjonsberetning") enheter |
-| Stiftelsesgebyr | NOKÂ 7Â 571 (digital) /Â 10Â 180Â (papir) | Kostnad ved registrering av stiftelse i Brønnøysundregistrene. Se [Stiftelsesgebyr](/blogs/regnskap/stiftelsesgebyr "Stiftelsesgebyr: Kostnad ved registrering av stiftelse") |
+| Stiftelsesgebyr | NOK 7 571 (digital) / 10 180 (papir) | Kostnad ved registrering av stiftelse i Brønnøysundregistrene. Se [Stiftelsesgebyr](/blogs/regnskap/stiftelsesgebyr "Stiftelsesgebyr: Kostnad ved registrering av stiftelse") |
 
 ### 1.3 Stiftelsestyper
 

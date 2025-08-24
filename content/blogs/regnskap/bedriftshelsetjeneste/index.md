@@ -1,7 +1,8 @@
 ﻿---
 title: "Bedriftshelsetjeneste"
-seoTitle: "Bedriftshelsetjeneste"
-description: '**Bedriftshelsetjeneste** er en lovpålagt [Helse, miljø og sikkerhet (HMS)](/blogs/regnskap/hms "Helse, miljø og sikkerhet (HMS)")-tjeneste i Norge som har s...'
+seoTitle: "Bedriftshelsetjeneste | Krav, tjenester og regnskapsføring"
+description: "Bedriftshelsetjeneste (BHT) er lovpålagt for mange virksomheter og skal forebygge arbeidsrelaterte skader og sykdom. Få oversikt over krav, tjenester og hvordan kostnader føres i regnskapet."
+summary: "Kort guide til bedriftshelsetjeneste: lovkrav, tjenester BHT leverer og hvordan utgiftene bokføres."
 ---
 
 **Bedriftshelsetjeneste** er en lovpålagt [Helse, miljø og sikkerhet (HMS)](/blogs/regnskap/hms "Helse, miljø og sikkerhet (HMS)")-tjeneste i Norge som har som formål å forebygge arbeidsrelaterte sykdommer og skader. Tjenesten yter faglig støtte til virksomheter og ansatte innenfor ulike bransjer, og arbeider tett med både ledelse og arbeidsmiljøutvalg.
@@ -12,7 +13,7 @@ Bedriftshelsetjeneste (BHT) er et eksternt fagmiljø med tverrfaglig kompetanse 
 
 ## 2. Lovgrunnlag
 
-Bedriftshelsetjeneste er regulert i **arbeidsmiljøloven** Â§Â 3-3 og tilhørende forskrift om **arbeidsmiljø, sikkerhet og helse** (internkontrollforskriften). Nedenfor er en oversikt over krav til virksomheter:
+Bedriftshelsetjeneste er regulert i **arbeidsmiljøloven** § 3-3 og tilhørende forskrift om **arbeidsmiljø, sikkerhet og helse** (internkontrollforskriften). Nedenfor er en oversikt over krav til virksomheter:
 
 | Antall ansatte | Krav til BHT-tilknytning            | Kommentar                     |
 |---------------:|-------------------------------------|-------------------------------|

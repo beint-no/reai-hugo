@@ -36,11 +36,11 @@ Renovasjon, vann og avløp omfatter en rekke kommunale tjenester og avgifter som
 
 ## Eksempel på bokføring
 
-En bedrift mottar faktura på **4Â 500Â NOK ekskl. avgift**, hvor avgiften er **12–¯%**.
+En bedrift mottar faktura på **4 500 NOK ekskl. avgift**, hvor avgiften er **12–¯%**.
 
 | Beløp ekskl. avgift | Avgift (%) | Avgift (NOK) | Total inkl. avgift |
 |---------------------|------------|--------------|--------------------|
-| 4Â 500–¯NOK           | 12–¯%       | 540–¯NOK      | 5Â 040–¯NOK          |
+| 4 500–¯NOK           | 12–¯%       | 540–¯NOK      | 5 040–¯NOK          |
 
 ## Fordeler ved korrekt bruk
 

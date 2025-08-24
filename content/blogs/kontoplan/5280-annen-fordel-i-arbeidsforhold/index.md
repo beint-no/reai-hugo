@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5280 - Annen fordel i arbeidsforhold"
 seoTitle: "5280-annen-fordel-i-arbeidsforhold"
-description: '**Konto 5280 - Annen fordel i arbeidsforhold** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **øvrige fordeler** som **ans...'
+description: '**Konto 5280 - Annen fordel i arbeidsforhold** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **øvrige fordeler** som **ans...'
 ---
 
-**Konto 5280 - Annen fordel i arbeidsforhold** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **øvrige fordeler** som **ansattgoder**.
+**Konto 5280 - Annen fordel i arbeidsforhold** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **øvrige fordeler** som **ansattgoder**.
 
 ![Illustrasjon av konto 5280 Annen fordel i arbeidsforhold](5280-annen-fordel-i-arbeidsforhold-image.svg)
 
@@ -39,7 +39,7 @@ Eksempler inkluderer blant annet:
 
 ## Eksempel på bokføring
 
-En ansatt får en personalrabatt på 2–¯000Â NOK:
+En ansatt får en personalrabatt på 2–¯000 NOK:
 
 | Beskrivelse                    | Debet (NOK) | Kredit (NOK) |
 |--------------------------------|-----------:|-------------:|
@@ -60,7 +60,7 @@ En ansatt får en personalrabatt på 2–¯000Â NOK:
 * [Konto 5220 - Fri avis](/blogs/kontoplan/5220-fri-avis "Konto 5220 - Fri avis: Regnskapsføring av fri avis som ansattgode i Norsk kontoplan")
 * [Konto 5230 - Fri losji og bolig](/blogs/kontoplan/5230-fri-losji-og-bolig "Konto 5230 - Fri losji og bolig: Regnskapsføring av fri losji og bolig som ansattgode i Norsk kontoplan")
 * [Konto 5240 - Rentefordel](/blogs/kontoplan/5240-rentefordel "Konto 5240 - Rentefordel: Regnskapsføring av rentefordel som ansattgode i Norsk kontoplan")
-* [Konto 5290 - Motkonto for gruppeÂ 52](/blogs/kontoplan/5290-motkonto-for-gruppe-52 "Konto 5290 - Motkonto for gruppe 52: Regnskapsføring av motkonto for gruppe 52 ansattgoder i Norsk kontoplan")
+* [Konto 5290 - Motkonto for gruppe 52](/blogs/kontoplan/5290-motkonto-for-gruppe-52 "Konto 5290 - Motkonto for gruppe 52: Regnskapsføring av motkonto for gruppe 52 ansattgoder i Norsk kontoplan")
 * [Konto 5900 - Gaver til ansatte](/blogs/kontoplan/5900-gaver-til-ansatte "Konto 5900 - Gaver til ansatte")
 * [Konto 5910 - Kantinekostnader](/blogs/kontoplan/5910-kantinekostnader "Konto 5910 - Kantinekostnader")
 * [Konto 5920 - Yrkesskadeforsikring](/blogs/kontoplan/5920-yrkesskadeforsikring "Konto 5920 - Yrkesskadeforsikring")

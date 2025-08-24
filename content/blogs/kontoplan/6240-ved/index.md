@@ -27,7 +27,7 @@ description: '**Konto 6240 - Ved** er en konto i Norsk Standard Kontoplan som br
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 5Â 000 NOK             | 0Â %        | 5Â 000 NOK          |
+| 5 000 NOK             | 0 %        | 5 000 NOK          |
 
 ## Fordeler ved korrekt bruk
 
@@ -37,7 +37,7 @@ description: '**Konto 6240 - Ved** er en konto i Norsk Standard Kontoplan som br
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6240:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6240:
 
 * [Konto 6200 - Elektrisitet](/blogs/kontoplan/6200-elektrisitet "Konto 6200 - Elektrisitet")
 * [Konto 6210 - Gass](/blogs/kontoplan/6210-gass "Konto 6210 - Gass")

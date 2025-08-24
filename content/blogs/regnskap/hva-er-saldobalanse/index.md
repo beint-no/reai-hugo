@@ -179,7 +179,7 @@ Dagens regnskapssystemer tilbyr avanserte funksjoner for saldobalanse:
 * **Komparative analyser:** Sammenligning med tidligere perioder
 
 #### Kvalitetskontroller
-* **Automatisk balansering:** Systemet varsler hvis debet â‰  kredit
+* **Automatisk balansering:** Systemet varsler hvis debet ‰  kredit
 * **Validering av bokføringer:** Kontroller mot [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er Kontoplan? Komplett Guide til Kontosystem og Regnskapsstruktur")
 * **Avviksrapporter:** Identifisering av uvanlige saldoer
 

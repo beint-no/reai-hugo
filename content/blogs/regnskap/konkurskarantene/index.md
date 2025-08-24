@@ -12,7 +12,7 @@ description: '**Konkurskarantene** er en rettslig ordning som kan ilegges person
 
 ## Hva er Konkurskarantene?
 
-En **konkurskarantene** innebærer at en person blir midlertidig utestengt fra å inneha styreverv, ledende roller eller andre tillitsverv i aksjeselskaper eller andre foretak etter en konkurs. Ordningen er hjemlet i **konkursloven** Â§ 68.
+En **konkurskarantene** innebærer at en person blir midlertidig utestengt fra å inneha styreverv, ledende roller eller andre tillitsverv i aksjeselskaper eller andre foretak etter en konkurs. Ordningen er hjemlet i **konkursloven** § 68.
 
 ## Betingelser for konkurskarantene
 
@@ -20,7 +20,7 @@ Følgende vilkår må være oppfylt for at retten kan ilegge konkurskarantene:
 
 * **Uaktsom eller forsettlig adferd** som har bidratt til insolvens.
 * **Manglende regnskapsførsel** eller bokføring som har vært i strid med bokføringsloven.
-* **Prioritetsregler** i konkursloven Â§ 93“95 kan anvendes ved mislighold av kreditorenes rettigheter.
+* **Prioritetsregler** i konkursloven § 93“95 kan anvendes ved mislighold av kreditorenes rettigheter.
 
 ## Varighet av konkurskarantene
 

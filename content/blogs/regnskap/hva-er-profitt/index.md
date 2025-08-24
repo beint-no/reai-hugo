@@ -237,16 +237,16 @@ Break-even (enheter) = Faste kostnader / (Salgspris per enhet - Variable kostnad
 Analyse av hvordan endringer i nøkkelvariabler påvirker profitt:
 
 **Prisendringer:**
-* 5% prisøkning â†’ % økning i profitt?
-* 10% prisreduksjon â†’ % reduksjon i profitt?
+* 5% prisøkning †’ % økning i profitt?
+* 10% prisreduksjon †’ % reduksjon i profitt?
 
 **Volumendringer:**
-* 20% økning i salgsvolum â†’ påvirkning på profitt?
-* 15% reduksjon i salgsvolum â†’ break-even risiko?
+* 20% økning i salgsvolum †’ påvirkning på profitt?
+* 15% reduksjon i salgsvolum †’ break-even risiko?
 
 **Kostnadsendringer:**
-* Lønnsøkning 3% â†’ påvirkning på marginer?
-* Råvarepriser opp 8% â†’ profitteffekt?
+* Lønnsøkning 3% †’ påvirkning på marginer?
+* Råvarepriser opp 8% †’ profitteffekt?
 
 ### 6.3 Marginforbedring
 

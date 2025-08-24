@@ -24,8 +24,8 @@ Nedenfor ser du vedtatte satser for personfradrag 2024:
 
 | Skatteklasse          | Personfradrag 2024 |
 |-----------------------|--------------------|
-| Klasse 1 (alminnelig) | 58Â 250Â kr          |
-| Klasse 2 (særskilt)   | 58Â 250Â kr          |
+| Klasse 1 (alminnelig) | 58 250 kr          |
+| Klasse 2 (særskilt)   | 58 250 kr          |
 
 ![Satser for Personfradrag 2024](personfradrag-satser-2024.svg)
 
@@ -35,7 +35,7 @@ Eksempel på beregning av skattepliktig inntekt for en lønnsmottaker:
 
 | Bruttoinntekt | Personfradrag | Skattepliktig inntekt |
 |--------------:|--------------:|-----------------------:|
-| 600Â 000Â kr    |     58Â 250Â kr |               541Â 750Â kr |
+| 600 000 kr    |     58 250 kr |               541 750 kr |
 
 ## Sammenhenger med andre fradrag
 

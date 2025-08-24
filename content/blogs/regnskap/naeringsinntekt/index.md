@@ -30,8 +30,8 @@ Næringsinntekt beregnes slik:
 | Post                         | Beskrivelse                                           |
 |------------------------------|-------------------------------------------------------|
 | **Inntekter**                | Driftsinntekter + finansinntekter                     |
-| **âˆ’ Kostnader**              | Alle fradragsberettigede kostnader                    |
-| **Â± Justeringer**            | Periodisering, avskrivninger og andre skattekorreksjoner |
+| **ˆ’ Kostnader**              | Alle fradragsberettigede kostnader                    |
+| **± Justeringer**            | Periodisering, avskrivninger og andre skattekorreksjoner |
 | **= Næringsinntekt**         | Netto skattegrunnlag                                   |
 
 Justeringene inkluderer blant annet avskrivninger på anleggsmidler, periodiseringsprinsipp og eventuelle korrigeringer for tidligere år.

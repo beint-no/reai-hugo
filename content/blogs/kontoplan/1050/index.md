@@ -67,12 +67,12 @@ Når varemerker anskaffes, registreres disse kostnadene:
 
 | Kostnadskategori | Konto 1050 | Eksempel |
 |------------------|------------|----------|
-| **Registreringsgebyrer** | âœ“ | NOK 3,000 |
-| **Advokatkostnader** | âœ“ | NOK 15,000 |
-| **Designkostnader** | âœ“ | NOK 25,000 |
-| **Oversettelseskostnader** | âœ“ | NOK 5,000 |
-| **Søknadsavgifter** | âœ“ | NOK 4,000 |
-| **Vedlikeholdskostnader** | âœ— | Kostnadsføres |
+| **Registreringsgebyrer** | œ“ | NOK 3,000 |
+| **Advokatkostnader** | œ“ | NOK 15,000 |
+| **Designkostnader** | œ“ | NOK 25,000 |
+| **Oversettelseskostnader** | œ“ | NOK 5,000 |
+| **Søknadsavgifter** | œ“ | NOK 4,000 |
+| **Vedlikeholdskostnader** | œ— | Kostnadsføres |
 
 ### Internt utviklede varemerker
 For **internt utviklede varemerker** kan disse kostnadene aktiveres:

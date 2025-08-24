@@ -28,10 +28,10 @@ Beregningsgrunnlaget for minstepensjon tar utgangspunkt i grunnbeløpet (G) i fo
 
 | Element                     | Beskrivelse                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
-| Grunnbeløpet (G)            | 1 G i 2023 utgjør 111Â 477Â NOK                                                |
+| Grunnbeløpet (G)            | 1 G i 2023 utgjør 111 477 NOK                                                |
 | Garantipensjonsprosent      | Prosentandel av G (vanligvis 0,366 av G for full sats)                       |
 | Levealdersjustering         | Justeres etter levealdersjusteringstabell                                    |
-| Maksimal minstepensjon      | Omtrent 40Â 825Â NOK per år (før levealdersjustering)                         |
+| Maksimal minstepensjon      | Omtrent 40 825 NOK per år (før levealdersjustering)                         |
 
 ## Skatt og regnskapsmessig behandling
 

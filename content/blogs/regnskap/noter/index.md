@@ -14,7 +14,7 @@ Noter i regnskap er tekstlige og numeriske opplysninger som utdyper og supplerer
 
 ## Lovpålagte krav til Noter
 
-I Norge reguleres noteopplysninger primært av [regnskapsloven Â§–¯7-1 til Â§–¯7-45](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? Oversikt og Veiledning") og bokføringsloven, med krav som varierer etter selskapstype og størrelse:
+I Norge reguleres noteopplysninger primært av [regnskapsloven §–¯7-1 til §–¯7-45](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? Oversikt og Veiledning") og bokføringsloven, med krav som varierer etter selskapstype og størrelse:
 
 ### Store foretak
 * **Detaljerte regnskapsprinsipper** “ beskrivelse av måle- og vurderingsregler

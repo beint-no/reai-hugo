@@ -29,13 +29,13 @@ summary: "Kort forklart: Konto 4230 gjelder innkjøp av ferdige egentilvirkede v
 
 ## Eksempel på bokføring
 
-Anta at en bedrift kjøper ferdige varer for **NOK 20Â 000** ekskl. MVA med middels sats. Bokføringen blir:
+Anta at en bedrift kjøper ferdige varer for **NOK 20 000** ekskl. MVA med middels sats. Bokføringen blir:
 
 | Beskrivelse                                   | Debet                                                         | Kredit                                          |
 |-----------------------------------------------|---------------------------------------------------------------|-------------------------------------------------|
-| Innkjøp ferdige varer (ekskl. MVA)            | Konto 4230 - Innkjøp ferdig egentilvirkede varer middels sats  | **NOK 20Â 000**                                  |
-| Inngående merverdiavgift (15 %)               | Konto 1613 - Inngående merverdiavgift middels sats            | **NOK 3Â 000**                                   |
-| Leverandørgjeld                               |                                                               | Konto 2400 - Leverandørgjeld (**NOK 23Â 000**)    |
+| Innkjøp ferdige varer (ekskl. MVA)            | Konto 4230 - Innkjøp ferdig egentilvirkede varer middels sats  | **NOK 20 000**                                  |
+| Inngående merverdiavgift (15 %)               | Konto 1613 - Inngående merverdiavgift middels sats            | **NOK 3 000**                                   |
+| Leverandørgjeld                               |                                                               | Konto 2400 - Leverandørgjeld (**NOK 23 000**)    |
 
 ## Vurdering og lagerbehandling
 

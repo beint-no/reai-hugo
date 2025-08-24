@@ -19,7 +19,7 @@ Et **morselskap** defineres som et selskap som:
 
 ### Juridisk Grunnlag
 
-Begrepet morselskap er definert i **aksjeloven Â§ 1-3** og **regnskapsloven Â§ 1-3**. Et selskap regnes som morselskap når det har bestemmende innflytelse over et annet selskap, uavhengig av eierandel.
+Begrepet morselskap er definert i **aksjeloven § 1-3** og **regnskapsloven § 1-3**. Et selskap regnes som morselskap når det har bestemmende innflytelse over et annet selskap, uavhengig av eierandel.
 
 ![Diagram som viser juridiske krav for å være morselskap](morselskap-juridiske-krav.svg)
 

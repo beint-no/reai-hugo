@@ -117,7 +117,7 @@ Avdelingene må være **klart avgrenset** og ha:
 #### Trinn 3: Velge Fordelingsnøkler
 Eksempel på fordelingsnøkler for et konsulentselskap:
 
-| Avdeling | Ansatte | Areal (mÂ²) | Omsetning | PC-er |
+| Avdeling | Ansatte | Areal (m²) | Omsetning | PC-er |
 |----------|---------|------------|-----------|-------|
 | **Rådgivning** | 8 | 120 | 4.000.000 | 8 |
 | **Revisjon** | 6 | 90 | 3.000.000 | 6 |

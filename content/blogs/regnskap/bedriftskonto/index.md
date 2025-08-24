@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Bedriftskonto?"
-seoTitle: "Hva er Bedriftskonto?"
-description: '**Bedriftskonto** er en **bankkonto** designet spesielt for **virksomheter** i Norge, tilpasset for **daglig økonomistyring**, betalinger og integrasjon med re...'
+title: "Hva er bedriftskonto?"
+seoTitle: "Bedriftskonto | Typer, funksjoner og regnskapsføring"
+description: "Bedriftskonto er bankkontoen som brukes i bedriftens daglige økonomistyring. Lær hvilke kontotyper som finnes, hvordan de brukes og hvordan transaksjoner håndteres i regnskapet."
+summary: "Kort guide til bedriftskonto: kontotyper, bruksområder og konsekvenser for bokføring og kontroll."
 ---
 
 **Bedriftskonto** er en **bankkonto** designet spesielt for **virksomheter** i Norge, tilpasset for **daglig økonomistyring**, betalinger og integrasjon med regnskapssystemer.

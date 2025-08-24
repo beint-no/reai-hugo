@@ -40,14 +40,14 @@ Den nominelle renten (*i*) er ofte basert på referanserenter som **[NIBOR](/blo
 
 ## Praktisk eksempel
 
-La oss si at du tar opp et lån på 100Â 000Â kr med en nominell rente på 5–¯% som rentetilskrives månedlig (12 ganger per år).
+La oss si at du tar opp et lån på 100 000 kr med en nominell rente på 5–¯% som rentetilskrives månedlig (12 ganger per år).
 
 | Lånebeløp | Nominell rente | Rentetilskrivninger | Effektiv rente |
 | --------- | -------------- | ------------------- | -------------- |
-| 100Â 000Â kr | 5–¯%            | 12                  | 5,12–¯%         |
+| 100 000 kr | 5–¯%            | 12                  | 5,12–¯%         |
 
 Du kan bruke formelen over for å beregne den effektive renten:
-E = (1 + 0,05/12)^12 - 1 â‰ˆ 0,0512 eller 5,12–¯%.
+E = (1 + 0,05/12)^12 - 1 ‰ˆ 0,0512 eller 5,12–¯%.
 
 ## Hvordan beregne effektiv rente i regnskap?
 

@@ -37,15 +37,15 @@ For å beregne feriepenger multipliseres feriepengegivende inntekt med gjeldende
 3. Utfør beregning: **Feriepenger = Inntekt Ã— Prosentsats**
 
 ```text
-Feriepenger = 505Â 000Â kr Ã— 10,2% = 51Â 510Â kr
+Feriepenger = 505 000 kr Ã— 10,2% = 51 510 kr
 ```
 
 ## Praktiske eksempler
 
 | Eksempel                         | Inntekt (kr) | Sats   | Feriepenger (kr) |
 |----------------------------------|-------------:|-------:|-----------------:|
-| Fastlønn + tillegg               |     550Â 000  | 10,2%  |          56Â 100  |
-| Ansatt over 60 år (samme inntekt)|     550Â 000  | 12,5%  |          68Â 750  |
+| Fastlønn + tillegg               |     550 000  | 10,2%  |          56 100  |
+| Ansatt over 60 år (samme inntekt)|     550 000  | 12,5%  |          68 750  |
 
 ## Unntak og spesielle tilfeller
 
@@ -62,7 +62,7 @@ For detaljert diskusjon om grunnlaget for feriepenger, se [Feriepengegrunnlag](/
 Å kjenne prosentsatsene er avgjørende ved:
 
 * **Løpende avsetning** av feriepenger hver måned
-* **Periodisering** i regnskapet (kontoÂ 2940 /Â 5180)
+* **Periodisering** i regnskapet (konto 2940 / 5180)
 * **Årlig avstemming** av feriepengegjeld og utbetalinger
 
 Se vår guide [Hva er Feriepenger?](/blogs/regnskap/hva-er-feriepenger "Hva er Feriepenger? En Guide til feriepengeberegning og regnskapsføring") for utfyllende regnskapsinstruks.

@@ -62,9 +62,9 @@ Vanlig verdivurdering følger enten historisk kost eller virkelig verdi ved oppk
 
 | År | Bokført verdi ved start | Årlig amortisering | Bokført verdi ved slutt |
 |----|-------------------------|--------------------|-------------------------|
-| 0  | 1Â 000Â 000Â kr            | -                  | 1Â 000Â 000Â kr            |
-| 1  | 1Â 000Â 000Â kr            | 100Â 000Â kr         | 900Â 000Â kr              |
-| 2  | 900Â 000Â kr              | 100Â 000Â kr         | 800Â 000Â kr              |
+| 0  | 1 000 000 kr            | -                  | 1 000 000 kr            |
+| 1  | 1 000 000 kr            | 100 000 kr         | 900 000 kr              |
+| 2  | 900 000 kr              | 100 000 kr         | 800 000 kr              |
 
 ## 5. Oppsummering
 

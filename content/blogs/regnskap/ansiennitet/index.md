@@ -29,7 +29,7 @@ Ansiennitet er ikke bare en enkel tidsberegning, men et komplekst juridisk og re
 Ansiennitet er regulert gjennom flere juridiske kilder:
 
 ### Arbeidsmiljøloven
-Arbeidsmiljøloven Â§ 15-3 regulerer **[oppsigelsesfrister](/blogs/regnskap/oppsigelsestid "Oppsigelsestid")** basert på ansiennitet:
+Arbeidsmiljøloven § 15-3 regulerer **[oppsigelsesfrister](/blogs/regnskap/oppsigelsestid "Oppsigelsestid")** basert på ansiennitet:
 
 | Ansiennitet      | [Oppsigelsestid](/blogs/regnskap/oppsigelsestid "Oppsigelsestid") |
 |------------------|------------------|
@@ -69,7 +69,7 @@ Ferieloven gir rettigheter som øker med ansiennitet:
 ### Spesielle Beregningsregler
 
 #### Virksomhetsoverdragelse
-Ved virksomhetsoverdragelse (jf. arbeidsmiljøloven Â§ 16) **overføres ansiennitet** til ny arbeidsgiver:
+Ved virksomhetsoverdragelse (jf. arbeidsmiljøloven § 16) **overføres ansiennitet** til ny arbeidsgiver:
 
 * Full ansiennitet fra opprinnelig ansettelsesdato
 * Rettigheter og forpliktelser følger med
@@ -217,7 +217,7 @@ Se mer om [Feriepenger](/blogs/regnskap/hva-er-feriepenger "Hva er Feriepenger? 
 
 ### Oppsigelsesfrister
 
-**Arbeidsmiljøloven** Â§ 15-3 fastsetter **minimumsfrister** basert på ansiennitet:
+**Arbeidsmiljøloven** § 15-3 fastsetter **minimumsfrister** basert på ansiennitet:
 
 | Ansiennitet      | Oppsigelsesfrist fra arbeidsgiver | Oppsigelsesfrist fra arbeidstaker |
 |------------------|-----------------------------------|-----------------------------------|

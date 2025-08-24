@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 6860 - Møte, kurs, oppdatering o.l."
 seoTitle: "6860-mote-kurs-oppdatering-o-l"
-description: '**Konto 6860 - Møte, kurs, oppdatering o.l.** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kostnader til møter, kurs, inte...'
+description: '**Konto 6860 - Møte, kurs, oppdatering o.l.** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader til møter, kurs, inte...'
 ---
 
-**Konto 6860 - Møte, kurs, oppdatering o.l.** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kostnader til møter, kurs, intern opplæring og faglig oppdatering**, som eksterne seminarer, konferanser og interne workshop-aktiviteter.
+**Konto 6860 - Møte, kurs, oppdatering o.l.** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader til møter, kurs, intern opplæring og faglig oppdatering**, som eksterne seminarer, konferanser og interne workshop-aktiviteter.
 
 ![Illustrasjon av konto 6860 - Møte, kurs, oppdatering o.l.](6860-mote-kurs-oppdatering-o-l-image.svg)
 
@@ -37,7 +37,7 @@ Konto 6860 dekker en rekke aktiviteter knyttet til faglig utvikling og møtevirk
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med kontoÂ 6860:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6860:
 
 * [Konto 2400 - Leverandørgjeld](/blogs/kontoplan/2400-leverandorgjeld "Konto 2400 - Leverandørgjeld")
 * [Konto 1920 - Bankinnskudd](/blogs/kontoplan/1920-bankinnskudd "Konto 1920 - Bankinnskudd")

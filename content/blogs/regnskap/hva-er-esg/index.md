@@ -122,7 +122,7 @@ ESG-rapportering er underlagt et komplekst nettverk av nasjonale og internasjona
 Norge har implementert flere nasjonale krav og initiativer for ESG-rapportering:
 
 * **Åpenhetsloven:** Krav om due diligence for menneskerettigheter og anstendige arbeidsforhold
-* **Regnskapsloven Â§ 3-3c:** Krav om redegjørelse for samfunnsansvar
+* **Regnskapsloven § 3-3c:** Krav om redegjørelse for samfunnsansvar
 * **Statens pensjonsfond:** ESG-krav for investeringer
 * [EU-taksonomien](/blogs/regnskap/hva-er-eu-taksonomien "EU-taksonomien: Klassifiseringssystem for Bærekraftige Aktiviteter") “ Klassifisering av bærekraftige økonomiske aktiviteter
 

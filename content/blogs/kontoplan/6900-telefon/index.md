@@ -1,10 +1,10 @@
 ﻿---
 title: "Hva er Konto 6900 - Telefon?"
 seoTitle: "6900-telefon"
-description: '**Konto 6900 - Telefon** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **telefonkostnader** og telekommunikasjonsutgifter i...'
+description: '**Konto 6900 - Telefon** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **telefonkostnader** og telekommunikasjonsutgifter i...'
 ---
 
-**Konto 6900 - Telefon** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **telefonkostnader** og telekommunikasjonsutgifter i regnskapet.
+**Konto 6900 - Telefon** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **telefonkostnader** og telekommunikasjonsutgifter i regnskapet.
 
 ![Illustrasjon av konto 6900 Telefon](6900-telefon-image.svg)
 
@@ -45,12 +45,12 @@ Transaksjoner for telefonkostnader konteres normalt slik:
 
 ## Eksempel
 
-En bedrift mottar faktura på 2Â 000Â NOK for mobilabonnement og 500Â NOK for samtaler (ekskl. MVA).
+En bedrift mottar faktura på 2 000 NOK for mobilabonnement og 500 NOK for samtaler (ekskl. MVA).
 
 ```plaintext
-Debet: Konto 6900 - Telefon         2Â 500 NOK
+Debet: Konto 6900 - Telefon         2 500 NOK
 Debet: Konto 2700 - Inngående MVA     625 NOK
-Kredit: Konto 2400 - Leverandørgjeld 3Â 125 NOK
+Kredit: Konto 2400 - Leverandørgjeld 3 125 NOK
 ```
 
 ## Beste praksis for telefonstyring

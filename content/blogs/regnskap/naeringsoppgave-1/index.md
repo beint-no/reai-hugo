@@ -1,16 +1,16 @@
 ﻿---
 title: "Hva er Næringsoppgave 1?"
 seoTitle: "Hva er Næringsoppgave 1?"
-description: '**NæringsoppgaveÂ 1** (ofte forkortet **N1**) er den vanligste skattemeldingen for næringsdrivende små virksomheter i Norge. I motsetning til generelle overs...'
+description: '**Næringsoppgave 1** (ofte forkortet **N1**) er den vanligste skattemeldingen for næringsdrivende små virksomheter i Norge. I motsetning til generelle overs...'
 ---
 
-**NæringsoppgaveÂ 1** (ofte forkortet **N1**) er den vanligste skattemeldingen for næringsdrivende små virksomheter i Norge. I motsetning til generelle oversikter om næringsoppgaver, går denne artikkelen detaljert gjennom formålet, oppsettet og praktiske råd for utfylling av NæringsoppgaveÂ 1.
+**Næringsoppgave 1** (ofte forkortet **N1**) er den vanligste skattemeldingen for næringsdrivende små virksomheter i Norge. I motsetning til generelle oversikter om næringsoppgaver, går denne artikkelen detaljert gjennom formålet, oppsettet og praktiske råd for utfylling av Næringsoppgave 1.
 
-![Oversikt NæringsoppgaveÂ 1](naeringsoppgave-1-image.svg)
+![Oversikt Næringsoppgave 1](naeringsoppgave-1-image.svg)
 
-## Hvem Må Levere NæringsoppgaveÂ 1?
+## Hvem Må Levere Næringsoppgave 1?
 
-NæringsoppgaveÂ 1 brukes primært av virksomheter som fører regnskap etter [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Guide til bokføringsreglene i Norge") for [små foretak](/blogs/regnskap/sma-foretak "Små Foretak “ Kriterier, Regnskapsstandard og Forenklinger"):
+Næringsoppgave 1 brukes primært av virksomheter som fører regnskap etter [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Guide til bokføringsreglene i Norge") for [små foretak](/blogs/regnskap/sma-foretak "Små Foretak “ Kriterier, Regnskapsstandard og Forenklinger"):
 
 * **Enkeltpersonforetak** uten ansatte eller med enkel drift
 * Deltakerlignede selskaper (f.eks. interessentskap) uten krav om selskapsgenerert årsregnskap
@@ -18,9 +18,9 @@ NæringsoppgaveÂ 1 brukes primært av virksomheter som fører regnskap etter [
 
 For en overordnet innføring i næringsoppgaver, se [Hva er næringsoppgave?](/blogs/regnskap/hva-er-naeringsoppgave "Hva er næringsoppgave? Komplett Guide til Næringsoppgaven").
 
-## Struktur og Innhold i NæringsoppgaveÂ 1
+## Struktur og Innhold i Næringsoppgave 1
 
-NæringsoppgaveÂ 1 er delt inn i tydelige seksjoner som dekker alt fra driftsinntekter til skattemessige justeringer. Tabellen under viser hovedseksjonene:
+Næringsoppgave 1 er delt inn i tydelige seksjoner som dekker alt fra driftsinntekter til skattemessige justeringer. Tabellen under viser hovedseksjonene:
 
 | Seksjon                   | Innhold                                                        |
 |---------------------------|----------------------------------------------------------------|
@@ -31,7 +31,7 @@ NæringsoppgaveÂ 1 er delt inn i tydelige seksjoner som dekker alt fra driftsi
 
 ## Viktige Felter og Utfyllingstips
 
-For å sikre _korrekt_ utfylling av NæringsoppgaveÂ 1, bør du være spesielt oppmerksom på:
+For å sikre _korrekt_ utfylling av Næringsoppgave 1, bør du være spesielt oppmerksom på:
 
 * **Næringskode**: Viktig for klassifisering av virksomheten (se [Næringskode](/blogs/regnskap/naeringskode "Næringskode “ Guide til bransjeklassifisering og næringskoder")).
 * **Driftsinntekter**: Summer alle salgs- og tjenesteinntekter nøyaktig.
@@ -49,9 +49,9 @@ For å sikre _korrekt_ utfylling av NæringsoppgaveÂ 1, bør du være spesielt
 
 ## Konklusjon
 
-NæringsoppgaveÂ 1 er et sentralt verktøy for små næringsdrivende og sikrer at skattemessige forhold blir korrekt rapportert. Ved å følge strukturen i NæringsoppgaveÂ 1, bruke riktig næringskode og være nøye med dokumentasjon, kan du minimere risikoen for feil og forsinkelser.
+Næringsoppgave 1 er et sentralt verktøy for små næringsdrivende og sikrer at skattemessige forhold blir korrekt rapportert. Ved å følge strukturen i Næringsoppgave 1, bruke riktig næringskode og være nøye med dokumentasjon, kan du minimere risikoen for feil og forsinkelser.
 
-Vil du lære mer om hvordan NæringsoppgaveÂ 1 henger sammen med regnskapet ditt? Les videre i [Hva er næringsoppgave?](/blogs/regnskap/hva-er-naeringsoppgave "Hva er næringsoppgave? Komplett Guide til Næringsoppgaven").
+Vil du lære mer om hvordan Næringsoppgave 1 henger sammen med regnskapet ditt? Les videre i [Hva er næringsoppgave?](/blogs/regnskap/hva-er-naeringsoppgave "Hva er næringsoppgave? Komplett Guide til Næringsoppgaven").
 
 
 

@@ -68,10 +68,10 @@ Ved manglende respons eskaleres prosessen:
 
 | Påminnelsestype | Maksimalt gebyr | Lovhjemmel |
 |-----------------|-----------------|------------|
-| Første påminnelse | 200 kr | Inkassoloven Â§ 10 |
-| Andre påminnelse | 300 kr | Inkassoloven Â§ 10 |
-| Tredje påminnelse | 400 kr | Inkassoloven Â§ 10 |
-| Inkassovarsel | 500 kr | Inkassoloven Â§ 10 |
+| Første påminnelse | 200 kr | Inkassoloven § 10 |
+| Andre påminnelse | 300 kr | Inkassoloven § 10 |
+| Tredje påminnelse | 400 kr | Inkassoloven § 10 |
+| Inkassovarsel | 500 kr | Inkassoloven § 10 |
 
 ### Regnskapsføring av Purregebyrer
 

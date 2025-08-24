@@ -269,7 +269,7 @@ Fakturagebyr kan være gjenstand for tvister, og det er viktig å forstå de jur
 * Uklar spesifikasjon på faktura
 
 **Juridisk grunnlag:**
-* **Avtaleloven Â§ 36:** Urimelige avtalevilkår
+* **Avtaleloven § 36:** Urimelige avtalevilkår
 * **Forbrukerkjøpsloven:** Beskyttelse av forbrukere
 * **Inkassoloven:** Regulering av purregebyrer
 * **Markedsføringsloven:** Krav til informasjon

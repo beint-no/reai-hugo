@@ -15,7 +15,7 @@ En **allmennaksjeselskap (ASA)** er en selskapsform regulert av [Aksjeloven](/bl
 Allmennaksjeselskap (ASA) er regulert av [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge"), med egne krav til **kapital**, **styring** og **rapportering**. De sentrale kravene er:
 
 *   **Offentlig Kapitalinnhenting:** Mulighet til å notere aksjer på børs og tilby aksjer til allmennheten.
-*   **Minimum Aksjekapital:** **1Â 000Â 000 kroner**.
+*   **Minimum Aksjekapital:** **1 000 000 kroner**.
 *   **Styresammensetning:** Minst **tre styremedlemmer**.
 *   **Generalforsamling:** Strengere krav til deltakelse og annonsering.
 *   **Revisor:** Obligatorisk revisjon av årsregnskapet.
@@ -31,14 +31,14 @@ For å etablere et ASA må følgende trinn følges:
 *   **Stifter(e):** Minimum én stifter (person eller selskap) som tegner aksjer ved opprettelse.
 *   **Vedtekter:** Selskapet må ha [vedtekter](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er Vedtekter for Aksjeselskap?") som angir formål, aksjekapital og virksomhet.
 *   **Registrering:** Innlevering av stiftelsesdokument, vedtekter og bekreftelse på aksjeinnbetaling til [Foretaksregisteret](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge").
-*   **Aksjekapital:** Minimum aksjekapital på **1Â 000Â 000 kroner**.
+*   **Aksjekapital:** Minimum aksjekapital på **1 000 000 kroner**.
 *   **Aksjeklasser:** Aksjene må være fritt omsettelige, og selskapet kan opprette [ulike aksjeklasser](/blogs/regnskap/hva-er-aksjeklasser "Hva er Aksjeklasser? A-aksjer og B-aksjer Forklart") med forskjellige rettigheter.
 
 ## Krav til Aksjekapital, Styre, Generalforsamling og Revisjon
 
 | Kravstype                   | Krav                            | Formål                                    |
 |-----------------------------|---------------------------------|-------------------------------------------|
-| **Minimum aksjekapital**    | 1Â 000Â 000 kr                    | Sikre en solid kapitalbase               |
+| **Minimum aksjekapital**    | 1 000 000 kr                    | Sikre en solid kapitalbase               |
 | **Styre**                   | Minst 3 medlemmer               | Økt kontroll og tilsyn                   |
 | **Generalforsamling**       | Offentlig innkalling og referat | Beskytte aksjonærers interesser           |
 | **Revisjon**                | Obligatorisk                    | Økt troverdighet og transparens          |
@@ -108,7 +108,7 @@ Beskatning av utbytte i ASA følger [aksjonærmodellen](/blogs/regnskap/aksjonae
 
 | Egenskap                | ASA                                            | AS                                             |
 |-------------------------|------------------------------------------------|------------------------------------------------|
-| Minimum aksjekapital    | 1Â 000Â 000 kr                                   | 30Â 000 kr                                      |
+| Minimum aksjekapital    | 1 000 000 kr                                   | 30 000 kr                                      |
 | Styresammensetning      | Minst 3 styremedlemmer                         | Minst 1 styremedlem                             |
 | Børsnotering            | Tillatt                                        | Ikke tillatt uten ekstra prosesser             |
 | Kapitalinnhenting       | Offentlig emisjon mot allmennheten             | Ofte rettet eller privat emisjon               |

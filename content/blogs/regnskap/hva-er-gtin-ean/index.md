@@ -155,9 +155,9 @@ I Norge er det ingen lovkrav om bruk av GTIN/EAN-koder, men de er ofte nødvendi
 
 Selv om [bokføringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften? Komplett Guide til Norske Bokføringsregler") ikke spesifikt krever GTIN-koder, støtter de opp under flere av forskriftens krav:
 
-* **Â§ 5-1 Bilag:** GTIN sikrer entydig identifikasjon av varer på bilag
-* **Â§ 5-2 Registrering:** Automatisk registrering reduserer feilrisiko
-* **Â§ 5-3 Oppbevaring:** Digital lagring av GTIN-data sikrer sporbarhet
+* **§ 5-1 Bilag:** GTIN sikrer entydig identifikasjon av varer på bilag
+* **§ 5-2 Registrering:** Automatisk registrering reduserer feilrisiko
+* **§ 5-3 Oppbevaring:** Digital lagring av GTIN-data sikrer sporbarhet
 
 ### Personvernhensyn
 

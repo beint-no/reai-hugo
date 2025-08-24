@@ -4,7 +4,7 @@ seoTitle: "Betalingsanmerkning"
 description: '**Betalingsanmerkning** er en offentlig registrering av betalingsmislighold som får alvorlige konsekvenser for en virksomhets eller persons **[kredittverdighet...'
 ---
 
-**Betalingsanmerkning** er en offentlig registrering av betalingsmislighold som får alvorlige konsekvenser for en virksomhets eller persons **[kredittverdighet](/blogs/regnskap/hva-er-bonitet "Hva er bonitet?")**. I norsk regnskap og kredittvurdering er betalingsanmerkninger et kritisk signal til markedet om manglende betalingsevne og representerer sluttstadiet i [inkassoprosessen](/blogs/regnskap/hva-er-inkasso "Hva er Inkasso? Komplett Guide til Inkassoselskaper og Inkassoprosessen"). For regnskapsførere og bedriftseiere er forståelse av betalingsanmerkninger essensielt for effektiv [kredittrisikostyring](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? Komplett Guide til Kundefordringer og Kredittrisiko") og [arbeidskapitalstyring](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Analyse av Omløpsmidler og LikviditetsÂ­styring").
+**Betalingsanmerkning** er en offentlig registrering av betalingsmislighold som får alvorlige konsekvenser for en virksomhets eller persons **[kredittverdighet](/blogs/regnskap/hva-er-bonitet "Hva er bonitet?")**. I norsk regnskap og kredittvurdering er betalingsanmerkninger et kritisk signal til markedet om manglende betalingsevne og representerer sluttstadiet i [inkassoprosessen](/blogs/regnskap/hva-er-inkasso "Hva er Inkasso? Komplett Guide til Inkassoselskaper og Inkassoprosessen"). For regnskapsførere og bedriftseiere er forståelse av betalingsanmerkninger essensielt for effektiv [kredittrisikostyring](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? Komplett Guide til Kundefordringer og Kredittrisiko") og [arbeidskapitalstyring](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Analyse av Omløpsmidler og Likviditets­styring").
 
 Man kan også konsultere **[Gjeldsregisteret](/blogs/regnskap/gjeldsregisteret "Hva er Gjeldsregisteret? En Guide til Gjeldsregisteret")** for informasjon om gjeld som ikke nødvendigvis fører til betalingsanmerkning, men som er relevant for en helhetlig kredittrisikostyring.
 
@@ -37,8 +37,8 @@ Veien fra ubetalt [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura
 |-------|----------|-----------|---------|
 | **1. Faktura** | Utstedes med forfallsdato | Vanligvis 14-30 dager | Bokføringsforskriften |
 | **2. Første [purring](/blogs/regnskap/hva-er-purring-og-purregebyr "Hva er Purring og Purregebyr? Guide til Norske Regler og Regnskapsføring")** | Høflig betalingspåminnelse | 7-14 dager etter forfall | Frivillig |
-| **3. Andre purring** | Strengere tone, høyere gebyr | 14-30 dager etter første | Inkassoloven Â§ 10a |
-| **4. Inkassovarsel** | Formelt varsel om inkasso | Min. 14 dagers frist | Inkassoloven Â§ 3 |
+| **3. Andre purring** | Strengere tone, høyere gebyr | 14-30 dager etter første | Inkassoloven § 10a |
+| **4. Inkassovarsel** | Formelt varsel om inkasso | Min. 14 dagers frist | Inkassoloven § 3 |
 | **5. Inkassokrav** | Overføring til inkassobyrå | Umiddelbart etter frist | Inkassoloven |
 | **6. **Betalingsanmerkning**** | Registrering ved manglende betaling | 2-4 uker etter inkasso | Kredittopplysningsloven |
 

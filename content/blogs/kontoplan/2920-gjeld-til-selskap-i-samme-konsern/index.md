@@ -5,7 +5,7 @@ description: "Konto 2920 brukes til å registrere langsiktig gjeld til andre sel
 summary: "Konto 2920: langsiktig konserngjeld. Bruksområder, bokføring og hensyn."
 ---
 
-**Konto 2920 - Gjeld til selskap i samme konsern** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **langsiktig gjeld** til andre selskaper i samme konsern.
+**Konto 2920 - Gjeld til selskap i samme konsern** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **langsiktig gjeld** til andre selskaper i samme konsern.
 
 ![Illustrasjon av konto 2920 Gjeld til selskap i samme konsern](2920-gjeld-til-selskap-i-samme-konsern-image.svg)
 
@@ -39,7 +39,7 @@ _* Vilkår, renter og valutabetingelser kan variere i henhold til internprising.
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2920:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2920:
 
 * [Konto 2260 - Gjeld til selskap i samme konsern](/blogs/kontoplan/2260-gjeld-til-selskap-i-samme-konsern "Konto 2260 - Gjeld til selskap i samme konsern: Kortfristet gjeld")
 * [Konto 2460 - Leverandørgjeld til selskap i samme konsern](/blogs/kontoplan/2460-leverandorgjeld-til-selskap-i-samme-konsern "Konto 2460 - Leverandørgjeld til selskap i samme konsern")

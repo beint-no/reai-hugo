@@ -28,7 +28,7 @@ description: '**Tabelltrekk** er et standardisert system for beregning av forsku
 
 **Tabelltrekk** er regulert gjennom:
 
-* **Skatteforvaltningsloven** Â§ 5-2 om forskuddstrekk
+* **Skatteforvaltningsloven** § 5-2 om forskuddstrekk
 * **Forskrift om skattetrekk** med detaljerte beregningsregler
 * **Årlige trekkveildninger** fra Skatteetaten
 * **A-ordningen** for rapportering av lønns- og trekkopplysninger
@@ -69,7 +69,7 @@ description: '**Tabelltrekk** er et standardisert system for beregning av forsku
 ```
 Månedslønn: 50.000 kr
 Trekkgrunnlag = 50.000 Ã— 12 = 600.000 kr/år
-Tabell 7300: Trekk-prosent â‰ˆ 32%
+Tabell 7300: Trekk-prosent ‰ˆ 32%
 Månedlig trekk: 50.000 Ã— 32% = 16.000 kr
 ```
 
@@ -121,7 +121,7 @@ Justert trekk = Standard trekk - (Særfradrag Ã— Marginal skattesats)
 **Eksempel:**
 ```
 Standard månedstrekk: 15.000 kr
-Reisefradrag: 50.000 kr/år (â‰ˆ 4.167 kr/måned)
+Reisefradrag: 50.000 kr/år (‰ˆ 4.167 kr/måned)
 Marginal skattesats: 35%
 Reduksjon: 4.167 Ã— 35% = 1.458 kr
 Justert trekk: 15.000 - 1.458 = 13.542 kr/måned

@@ -43,10 +43,10 @@ For utomrettslig inkasso gjelder følgende maksimalgebyrer (2024-satser):
 
 | Type Krav | Maksimalt Gebyr | Hjemmel |
 |-----------|-----------------|---------|
-| **Første inkassokrav** | Kr 200 | Inkassoforskriften Â§ 4 |
-| **Andre inkassokrav** | Kr 400 | Inkassoforskriften Â§ 4 |
-| **Betalingsoppfordring** | Kr 70 | Inkassoforskriften Â§ 3 |
-| **Telefonisk purring** | Kr 30 per samtale | Inkassoforskriften Â§ 5 |
+| **Første inkassokrav** | Kr 200 | Inkassoforskriften § 4 |
+| **Andre inkassokrav** | Kr 400 | Inkassoforskriften § 4 |
+| **Betalingsoppfordring** | Kr 70 | Inkassoforskriften § 3 |
+| **Telefonisk purring** | Kr 30 per samtale | Inkassoforskriften § 5 |
 
 ### Prosentbaserte Honorarer
 

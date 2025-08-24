@@ -30,10 +30,10 @@ Inngangsverdi = Kjøpesum + Anskaffelseskostnader + Avgifter og gebyrer
 
 | Post                          | Beløp (NOK) |
 | ----------------------------  | ----------- |
-| Kjøpesum                      | 100Â 000     |
-| Transport- og forsikringskost |   2Â 000     |
-| Dokumentavgift                |   1Â 500     |
-| **Sum inngangsverdi**         | **103Â 500** |
+| Kjøpesum                      | 100 000     |
+| Transport- og forsikringskost |   2 000     |
+| Dokumentavgift                |   1 500     |
+| **Sum inngangsverdi**         | **103 500** |
 
 ## Skattemessig relevans
 

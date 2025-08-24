@@ -17,7 +17,7 @@ Konsernbidrag er en **skattemessig mekanisme** som gjør det mulig for selskaper
 * **Optimalisere den samlede skatteposisjonen** for hele konsernet
 * **Forbedre likviditeten** gjennom intern kapitalallokering
 
-Ordningen er regulert i **skatteloven Â§ 10-2** og er en sentral del av det norske skattesystemet for konserner.
+Ordningen er regulert i **skatteloven § 10-2** og er en sentral del av det norske skattesystemet for konserner.
 
 ### Formål med Konsernbidragsordningen
 

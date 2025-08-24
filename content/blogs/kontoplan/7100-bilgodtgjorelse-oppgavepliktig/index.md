@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7100 - Bilgodtgjørelse, oppgavepliktig"
 seoTitle: "7100-bilgodtgjorelse-oppgavepliktig"
-description: '**Konto 7100 - Bilgodtgjørelse, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **bilgodtgjørelse som er o...'
+description: '**Konto 7100 - Bilgodtgjørelse, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **bilgodtgjørelse som er o...'
 ---
 
-**Konto 7100 - Bilgodtgjørelse, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **bilgodtgjørelse som er oppgavepliktig**.
+**Konto 7100 - Bilgodtgjørelse, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **bilgodtgjørelse som er oppgavepliktig**.
 
 ![Illustrasjon av konto 7100 Bilgodtgjørelse, oppgavepliktig](7100-bilgodtgjorelse-oppgavepliktig-image.svg)
 
@@ -29,8 +29,8 @@ Bilgodtgjørelsen fastsettes vanligvis per kjørt kilometer:
 
 | Kjørelengde (km)          | Sats (NOK per km) |
 |---------------------------|------------------:|
-| Inntil 10Â 000 km          | 4,03              |
-| Over 10Â 000 km            | 3,50              |
+| Inntil 10 000 km          | 4,03              |
+| Over 10 000 km            | 3,50              |
 
 ## Bokføring av bilgodtgjørelse
 
@@ -40,12 +40,12 @@ Bilgodtgjørelsen fastsettes vanligvis per kjørt kilometer:
 
 ## Eksempel på bokføring
 
-En ansatt kjører 2Â 500 km i løpet av måneden med sats 4,03Â NOK/km:
+En ansatt kjører 2 500 km i løpet av måneden med sats 4,03 NOK/km:
 
 | Beskrivelse              | Debet (NOK) | Kredit (NOK) |
 |--------------------------|------------:|-------------:|
-| Bilgodtgjørelse 2Â 500Â km |      10Â 075 |              |
-| Utbetaling via bank      |             |      10Â 075 |
+| Bilgodtgjørelse 2 500 km |      10 075 |              |
+| Utbetaling via bank      |             |      10 075 |
 
 ## Praktiske hensyn
 

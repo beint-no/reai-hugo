@@ -17,14 +17,14 @@ Firmaskatt, eller selskapsskatt, beregnes på grunnlag av [alminnelig inntekt](/
 Beregningsgrunnlaget for firmaskatt består av følgende komponenter:
 
 * **Alminnelig inntekt**: Netto skattegrunnlag etter fradrag ([alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide"))  
-* **Skattesats**: Gjeldende sats for selskapsÂ­skatt (**22–¯%** per 2024)  
+* **Skattesats**: Gjeldende sats for selskaps­skatt (**22–¯%** per 2024)  
 * **Forskuddsskatt**: Tidligere betalte terminer som motregnes ([betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt “ Komplett guide til beregning og håndtering"))  
 
 | **Element**           | **Beskrivelse**                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Alminnelig inntekt    | [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide")    |
 | Ã— Skattesats (22–¯%)   | Gjeldende sats for selskapsskatt                                                                   |
-| âˆ’ Forskuddsskatt      | Betalte terminer gjennom året ([betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt")) |
+| ˆ’ Forskuddsskatt      | Betalte terminer gjennom året ([betalbar skatt](/blogs/regnskap/betalbar-skatt "Betalbar skatt")) |
 | **= Firmaskatt**      | Beløpet som skal innbetales til Skatteetaten                                                        |
 
 ## Satser for firmaskatt
@@ -58,8 +58,8 @@ Firmaskatt bokføres som kortsiktig gjeld og resultatpåvirkning:
 
 | **Konto** | **Debet**   | **Kredit**  |
 |-----------|-------------|-------------|
-| 8300      | 100Â 000 kr  |             |
-| 2500      |             | 100Â 000 kr  |
+| 8300      | 100 000 kr  |             |
+| 2500      |             | 100 000 kr  |
 
 ## Oppsummering
 

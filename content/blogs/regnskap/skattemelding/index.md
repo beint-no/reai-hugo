@@ -619,7 +619,7 @@ Regnskapsmessig resultat før skatt
 **Grønn skattepolitikk:**
 
 #### Miljøincentiver:
-* **COâ‚‚-avgifter** og klimakvoter
+* **CO‚‚-avgifter** og klimakvoter
 * **Grønne fradrag** for bærekraftige investeringer
 * **SirkulærøkonomÐ¸** og avfallsreduksjon
 

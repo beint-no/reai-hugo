@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5210 - Fri telefon"
 seoTitle: "5210-fri-telefon"
-description: '**Konto 5210 - Fri telefon** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **verdi av fri telefon** som **ansattgode**.'
+description: '**Konto 5210 - Fri telefon** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri telefon** som **ansattgode**.'
 ---
 
-**Konto 5210 - Fri telefon** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **verdi av fri telefon** som **ansattgode**.
+**Konto 5210 - Fri telefon** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri telefon** som **ansattgode**.
 
 ![Illustrasjon av konto 5210 Fri telefon](5210-fri-telefon-image.svg)
 
@@ -41,7 +41,7 @@ Fordelen ved fri telefon beregnes ofte basert på en kombinasjon av faste måned
 
 ## Eksempel på bokføring
 
-En ansatt har fri telefon med månedlig abonnement på 500Â NOK og privat forbruk på 150Â NOK:
+En ansatt har fri telefon med månedlig abonnement på 500 NOK og privat forbruk på 150 NOK:
 
 | Beskrivelse                 | Debet (NOK) | Kredit (NOK) |
 |-----------------------------|------------:|-------------:|
@@ -64,7 +64,7 @@ En ansatt har fri telefon med månedlig abonnement på 500Â NOK og privat forb
 * [Konto 5230 - Fri losji og bolig](/blogs/kontoplan/5230-fri-losji-og-bolig "Konto 5230 - Fri losji og bolig: Regnskapsføring av fri losji og bolig som ansattgode i Norsk kontoplan")
 * [Konto 5240 - Rentefordel](/blogs/kontoplan/5240-rentefordel "Konto 5240 - Rentefordel: Regnskapsføring av rentefordel som ansattgode i Norsk kontoplan")
 * [Konto 5280 - Annen fordel i arbeidsforhold](/blogs/kontoplan/5280-annen-fordel-i-arbeidsforhold "Konto 5280 - Annen fordel i arbeidsforhold: Regnskapsføring av øvrige ansattfordeler i Norsk kontoplan")
-* [Konto 5290 - Motkonto for gruppeÂ 52](/blogs/kontoplan/5290-motkonto-for-gruppe-52 "Konto 5290 - Motkonto for gruppe 52: Regnskapsføring av motkonto for gruppe 52 ansattgoder i Norsk kontoplan")
+* [Konto 5290 - Motkonto for gruppe 52](/blogs/kontoplan/5290-motkonto-for-gruppe-52 "Konto 5290 - Motkonto for gruppe 52: Regnskapsføring av motkonto for gruppe 52 ansattgoder i Norsk kontoplan")
 * [Konto 5910 - Kantinekostnader](/blogs/kontoplan/5910-kantinekostnader "Konto 5910 - Kantinekostnader")
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 

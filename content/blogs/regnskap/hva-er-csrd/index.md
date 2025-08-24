@@ -33,17 +33,17 @@ CSRD gjelder for **norske bedrifter** som oppfyller visse kriterier, med en trin
 | Kategori | Kriterier | Rapporteringsstart |
 |----------|-----------|-------------------|
 | **Store børsnoterte selskaper** | Allerede omfattet av NFRD | 2025 (for 2024-data) |
-| **Store ikke-børsnoterte selskaper** | â‰¥250 ansatte OG (omsetning >â‚¬40m ELLER balanse >â‚¬20m) | 2026 (for 2025-data) |
+| **Store ikke-børsnoterte selskaper** | ‰¥250 ansatte OG (omsetning >‚¬40m ELLER balanse >‚¬20m) | 2026 (for 2025-data) |
 | **Små og mellomstore børsnoterte** | Børsnotert, ikke mikrobedrift | 2027 (for 2026-data) |
-| **Tredjelandsbedrifter** | EU-omsetning >â‚¬150m | 2029 (for 2028-data) |
+| **Tredjelandsbedrifter** | EU-omsetning >‚¬150m | 2029 (for 2028-data) |
 
 ### Norske Kriterier
 
 For norske bedrifter gjelder følgende **terskelverdier**:
 
 * **Ansatte:** 250 eller flere
-* **Omsetning:** Over 400 millioner NOK (ca. â‚¬40m)
-* **Balansesum:** Over 200 millioner NOK (ca. â‚¬20m)
+* **Omsetning:** Over 400 millioner NOK (ca. ‚¬40m)
+* **Balansesum:** Over 200 millioner NOK (ca. ‚¬20m)
 
 Bedriften må oppfylle **minst to** av disse kriteriene i **to påfølgende år**.
 

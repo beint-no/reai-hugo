@@ -21,12 +21,12 @@ En **midlertidig forskjell** er forskjellen mellom en eiendel eller forpliktelse
 
 ## Beregning av utsatt skatt
 
-Utsatt skatt beregnes som produktet av midlertidige forskjeller og gjeldende skattesats. For selskaper i Norge er satsen **22Â %** per 2024.
+Utsatt skatt beregnes som produktet av midlertidige forskjeller og gjeldende skattesats. For selskaper i Norge er satsen **22 %** per 2024.
 
 | **Post**                          | **Beregning**                                                               |
 |-----------------------------------|-----------------------------------------------------------------------------|
-| Midlertidig forskjell             | (Regnskapsført verdi âˆ’ Skattemessig grunnlag)                               |
-| Ã— Skattesats (22Â %)               | Gjeldende selskapsskattesats                                                |
+| Midlertidig forskjell             | (Regnskapsført verdi ˆ’ Skattemessig grunnlag)                               |
+| Ã— Skattesats (22 %)               | Gjeldende selskapsskattesats                                                |
 | **= Utsatt skatt**                | Skattebeløp som bokføres som eiendel eller forpliktelse                     |
 
 ## Vanlige eksempler

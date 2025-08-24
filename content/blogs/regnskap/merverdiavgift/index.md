@@ -49,13 +49,13 @@ Visse varer og tjenester er fritatt for MVA:
 
 ## Registreringsplikt
 
-Virksomheter må registrere seg i MVA-registeret når omsetning av avgiftspliktige varer og tjenester overstiger **50Â 000 kr** i løpet av 12 måneder. Se [Hva er Avgiftsplikt (MVA)?](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)?").
+Virksomheter må registrere seg i MVA-registeret når omsetning av avgiftspliktige varer og tjenester overstiger **50 000 kr** i løpet av 12 måneder. Se [Hva er Avgiftsplikt (MVA)?](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)?").
 
 | Virksomhetstype            | Omsetningsgrense                     |
 |----------------------------|--------------------------------------|
-| Alminnelig næring          | 50Â 000 kr                            |
-| Primærnæring               | 70Â 000 kr                            |
-| Ideelle organisasjoner     | 140Â 000 kr                           |
+| Alminnelig næring          | 50 000 kr                            |
+| Primærnæring               | 70 000 kr                            |
+| Ideelle organisasjoner     | 140 000 kr                           |
 
 ![Registrering i MVA-registeret](merverdiavgift-registrering.svg)
 
@@ -68,7 +68,7 @@ Eksempel for 25% MVA:
 
 | Beregning                   | Formeltegn               | Resultat |
 |-----------------------------|--------------------------|---------:|
-| Utgående MVA                | 1Â 250 Ã— 25 Ã· 125         | 250      |
+| Utgående MVA                | 1 250 Ã— 25 Ã· 125         | 250      |
 | Inngående MVA               | 625 Ã— 25 Ã· 125           | 125      |
 
 ![Eksempel på MVA-beregning](merverdiavgift-beregning.svg)
@@ -79,9 +79,9 @@ Virksomheter leverer MVA-melding elektronisk via Altinn eller integrerte [regnsk
 
 | Årlig omsetning    | Termin        | Innleveringsfrist    | Betalingsfrist          |
 |---------------------|--------------:|----------------------|-------------------------|
-| Under 1Â mill. kr    | Årlig         | 31. januar           | 31. januar              |
-| 1“5Â mill. kr        | To måneder    | 10. i måneden etter  | 15. i måneden etter     |
-| Over 5Â mill. kr     | Månedlig      | 10. i måneden etter  | 15. i måneden etter     |
+| Under 1 mill. kr    | Årlig         | 31. januar           | 31. januar              |
+| 1“5 mill. kr        | To måneder    | 10. i måneden etter  | 15. i måneden etter     |
+| Over 5 mill. kr     | Månedlig      | 10. i måneden etter  | 15. i måneden etter     |
 
 ![MVA-melding og terminer](merverdiavgift-melding.svg)
 

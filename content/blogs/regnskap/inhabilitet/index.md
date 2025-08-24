@@ -14,7 +14,7 @@ Inhabilitet betyr at en person er uegnet til å delta i beslutningsprosesser for
 
 ## Regelverk og Lover
 
-Inhabilitetsreglene finnes blant annet i [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven?") Â§Â§ 6-27 og Â§ 6-28, samt i Forvaltningsloven Â§ 6 når offentlige instanser vurderer regnskap.
+Inhabilitetsreglene finnes blant annet i [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven?") §§ 6-27 og § 6-28, samt i Forvaltningsloven § 6 når offentlige instanser vurderer regnskap.
 
 ## Typer Inhabilitet
 

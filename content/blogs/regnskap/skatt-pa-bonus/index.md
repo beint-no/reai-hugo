@@ -43,8 +43,8 @@ Se [Hva er A-meldingen?](/blogs/regnskap/hva-er-a-melding "Hva er A-melding?") f
 
 | Scenario           | Brutto bonus | Tabelltrekk (35 %) | Utbetalt bonus |
 |--------------------|--------------|--------------------|----------------|
-| Månedlig bonus     | 50Â 000Â kr    | 17Â 500Â kr          | 32Â 500Â kr      |
-| Engangsbonus       | 100Â 000Â kr   | 25Â 000Â kr          | 75Â 000Â kr      |
+| Månedlig bonus     | 50 000 kr    | 17 500 kr          | 32 500 kr      |
+| Engangsbonus       | 100 000 kr   | 25 000 kr          | 75 000 kr      |
 
 ## Vanlige spørsmål
 

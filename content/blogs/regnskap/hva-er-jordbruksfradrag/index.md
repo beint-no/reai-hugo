@@ -8,7 +8,7 @@ description: '**Jordbruksfradrag** er spesielle skattefradrag som gis til landbr
 
 ## Grunnleggende om Jordbruksfradrag
 
-Jordbruksfradrag er regulert i skatteloven Â§ 8-1 og representerer et særskilt [fradrag](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og Regnskapsføring") som kommer i tillegg til ordinære driftskostnader. Fradraget skal kompensere for at landbruket har lavere avkastning enn andre næringer og bidra til å opprettholde bosetting og aktivitet i distriktene.
+Jordbruksfradrag er regulert i skatteloven § 8-1 og representerer et særskilt [fradrag](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og Regnskapsføring") som kommer i tillegg til ordinære driftskostnader. Fradraget skal kompensere for at landbruket har lavere avkastning enn andre næringer og bidra til å opprettholde bosetting og aktivitet i distriktene.
 
 ![Jordbruksfradrag Oversikt](jordbruksfradrag-oversikt.svg)
 
@@ -25,7 +25,7 @@ Jordbruksfradeget ble innført i 1975 som en del av den norske landbrukspolitikk
 
 Jordbruksfradeget er hjemlet i:
 
-* **Skatteloven Â§ 8-1** - Hovedbestemmelsen om jordbruksfradrag
+* **Skatteloven § 8-1** - Hovedbestemmelsen om jordbruksfradrag
 * **Forskrift om jordbruksfradrag** - Detaljerte regler og satser
 * **Stortingsvedtak** - Årlige justeringer av fradragssatser
 
@@ -142,7 +142,7 @@ Skogbruk har egne regler for jordbruksfradrag:
 * **Tømmerproduksjon:** Salg av tømmer fra egen skog
 * **Bioenergi:** Produksjon av ved og flis
 * **Spesialprodukter:** Juletreproduksjon, pyntegrønt
-* **Minimum hogstvolum:** 50 mÂ³ per år for fullt fradrag
+* **Minimum hogstvolum:** 50 m³ per år for fullt fradrag
 
 ## Regnskapsføring av Jordbruksfradrag
 

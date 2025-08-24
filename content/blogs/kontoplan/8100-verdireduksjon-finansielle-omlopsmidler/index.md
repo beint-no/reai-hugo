@@ -42,17 +42,17 @@ Verdireduksjon bokføres som en kostnad i resultatregnskapet og reduserer balans
 
 | Eiendelstype    | Anskaffelseskost | Virkelig verdi | Verdireduksjon |
 |-----------------|------------------|----------------|----------------|
-| Aksjer          | 100Â 000 kr       | 80Â 000 kr      | 20Â 000 kr      |
-| Obligasjoner    | 50Â 000 kr        | 48Â 000 kr      | 2Â 000 kr       |
-| Sertifikater    | 30Â 000 kr        | 30Â 000 kr      | 0 kr           |
-| **Totalt**      | **180Â 000 kr**   | **158Â 000 kr** | **22Â 000 kr**  |
+| Aksjer          | 100 000 kr       | 80 000 kr      | 20 000 kr      |
+| Obligasjoner    | 50 000 kr        | 48 000 kr      | 2 000 kr       |
+| Sertifikater    | 30 000 kr        | 30 000 kr      | 0 kr           |
+| **Totalt**      | **180 000 kr**   | **158 000 kr** | **22 000 kr**  |
 
 ## Eksempel på bokføring
 
 ```plaintext
-Debet: Konto 8100 - Verdireduksjon finansielle omløpsmidler   22Â 000 kr
-Kredit: Konto 1810 - Markedsbaserte aksjer                    20Â 000 kr
-Kredit: Konto 1360 - Obligasjoner                             2Â 000 kr
+Debet: Konto 8100 - Verdireduksjon finansielle omløpsmidler   22 000 kr
+Kredit: Konto 1810 - Markedsbaserte aksjer                    20 000 kr
+Kredit: Konto 1360 - Obligasjoner                             2 000 kr
 ```
 
 ## Relaterte artikler

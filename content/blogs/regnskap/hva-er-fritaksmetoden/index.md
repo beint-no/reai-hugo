@@ -18,7 +18,7 @@ Fritaksmetoden sikrer at [utbytte](/blogs/regnskap/hva-er-aksjekapital "Hva er A
 
 ### 1.1 Formål og Bakgrunn
 
-**Fritaksmetoden** ble innført i skatteloven Â§ 2-38 for å løse problemet med **dobbeltbeskatning** av selskapsinntekter. Uten denne regelen ville samme inntekt bli beskattet både i det selskapet som tjener pengene og i det selskapet som mottar utbytte eller gevinst.
+**Fritaksmetoden** ble innført i skatteloven § 2-38 for å løse problemet med **dobbeltbeskatning** av selskapsinntekter. Uten denne regelen ville samme inntekt bli beskattet både i det selskapet som tjener pengene og i det selskapet som mottar utbytte eller gevinst.
 
 **Hovedformålene med fritaksmetoden:**
 
@@ -29,7 +29,7 @@ Fritaksmetoden sikrer at [utbytte](/blogs/regnskap/hva-er-aksjekapital "Hva er A
 
 ### 1.2 Lovgrunnlag og Hjemmel
 
-Fritaksmetoden er regulert i **skatteloven Â§ 2-38** og tilhørende forskrifter. Regelen gjelder for:
+Fritaksmetoden er regulert i **skatteloven § 2-38** og tilhørende forskrifter. Regelen gjelder for:
 
 * **Norske aksjeselskaper (AS)**
 * **Allmennaksjeselskaper (ASA)**
@@ -48,8 +48,8 @@ For at fritaksmetoden skal kunne anvendes, må **tre hovedvilkår** være oppfyl
 
 | Eierandel | Fritaksmetoden | Beskatning |
 |-----------|----------------|------------|
-| **â‰¥ 10%** | âœ… Gjelder | Skattefritt |
-| **< 10%** | âŒ Gjelder ikke | Skattepliktig |
+| **‰¥ 10%** | œ… Gjelder | Skattefritt |
+| **< 10%** | Œ Gjelder ikke | Skattepliktig |
 
 **Viktige punkter ved eiervilkåret:**
 * Beregnes basert på **aksjekapital**, ikke stemmerett

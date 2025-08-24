@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7300 - Salgskostnad"
 seoTitle: "7300-salgskostnad"
-description: '**Konto 7300 - Salgskostnad** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kostnader direkte knyttet til salgsinntekter**. S...'
+description: '**Konto 7300 - Salgskostnad** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader direkte knyttet til salgsinntekter**. S...'
 ---
 
-**Konto 7300 - Salgskostnad** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kostnader direkte knyttet til salgsinntekter**. Salgskostnad reflekterer utgiftene forbundet med å produsere, kjøpe inn og distribuere varer som er solgt.
+**Konto 7300 - Salgskostnad** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader direkte knyttet til salgsinntekter**. Salgskostnad reflekterer utgiftene forbundet med å produsere, kjøpe inn og distribuere varer som er solgt.
 
 ![Illustrasjon av konto 7300 Salgskostnad](7300-salgskostnad-image.svg)
 
@@ -37,18 +37,18 @@ Kredit: Konto 1400-1460 eller 4390 (lager/beholdningsendring)
 
 ## Eksempel
 
-En butikk selger 500 enheter av produkt X. Innkjøpsprisen per enhet er 200Â NOK, og totalt saldoendring i lager er -100Â enheter.
+En butikk selger 500 enheter av produkt X. Innkjøpsprisen per enhet er 200 NOK, og totalt saldoendring i lager er -100 enheter.
 
 | Beskrivelse           | Utregning           | Beløp (NOK) |
 |-----------------------|---------------------|-------------|
-| Kostnad solgte varer  | 500 enheter Ã— 200   | 100Â 000     |
-| Tillegg frakt         |                     | 2Â 500       |
-| Lagerendring          | -100 enheter Ã— 200  | -20Â 000     |
-| **Total salgskostnad**|                     | **82Â 500**  |
+| Kostnad solgte varer  | 500 enheter Ã— 200   | 100 000     |
+| Tillegg frakt         |                     | 2 500       |
+| Lagerendring          | -100 enheter Ã— 200  | -20 000     |
+| **Total salgskostnad**|                     | **82 500**  |
 
 ## Rapportering og analyse
 
-I resultatregnskapet presenteres **salgskostnad** som en del av driftskostnader, ofte under egen linje Â«SalgskostnadÂ». Nøkkeltall som **bruttofortjeneste** beregnes ved å trekke salgskostnad fra salgsinntekt.
+I resultatregnskapet presenteres **salgskostnad** som en del av driftskostnader, ofte under egen linje «Salgskostnad». Nøkkeltall som **bruttofortjeneste** beregnes ved å trekke salgskostnad fra salgsinntekt.
 
 ## Relaterte artikler
 

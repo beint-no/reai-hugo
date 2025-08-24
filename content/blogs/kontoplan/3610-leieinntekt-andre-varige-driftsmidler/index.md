@@ -41,11 +41,11 @@ Leieinntekter rapporteres netto under driftsinntekter i resultatregnskapet. **Ko
 
 ## Eksempel
 
-En bedrift leier ut en CNC-maskin for kr 20Â 000 per måned. Ved månedsslutt bokføres:
+En bedrift leier ut en CNC-maskin for kr 20 000 per måned. Ved månedsslutt bokføres:
 
 | Beskrivelse                  | Beløp     | Konto |
 |------------------------------|-----------|-------|
-| Leieinntekt CNC-maskin       | 20Â 000 kr | 3610  |
+| Leieinntekt CNC-maskin       | 20 000 kr | 3610  |
 
 ## Intern lenking og relaterte kontoer
 

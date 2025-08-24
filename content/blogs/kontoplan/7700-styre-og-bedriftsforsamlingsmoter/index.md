@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7700 - Styre- og bedriftsforsamlingsmøter"
 seoTitle: "7700-styre-og-bedriftsforsamlingsmoter"
-description: '**Konto 7700 - Styre- og bedriftsforsamlingsmøter** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kostnader ved styre- o...'
+description: '**Konto 7700 - Styre- og bedriftsforsamlingsmøter** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kostnader ved styre- o...'
 ---
 
-**Konto 7700 - Styre- og bedriftsforsamlingsmøter** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kostnader ved styre- og bedriftsforsamlingsmøter**, inkludert leie av lokaler, servering og teknisk utstyr.
+**Konto 7700 - Styre- og bedriftsforsamlingsmøter** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kostnader ved styre- og bedriftsforsamlingsmøter**, inkludert leie av lokaler, servering og teknisk utstyr.
 
 ![Illustrasjon av konto 7700 Styre- og bedriftsforsamlingsmøter](7700-styre-og-bedriftsforsamlingsmoter-image.svg)
 

@@ -30,8 +30,8 @@ description: '**Konto 8110 - Nedskrivning finansielle omløpsmidler** er en kont
 ## Eksempel på bokføring
 
 ```plaintext
-Debet: Konto 8110 - Nedskrivning finansielle omløpsmidler    15Â 000 kr
-Kredit: Konto 1810 - Markedsbaserte aksjer                    15Â 000 kr
+Debet: Konto 8110 - Nedskrivning finansielle omløpsmidler    15 000 kr
+Kredit: Konto 1810 - Markedsbaserte aksjer                    15 000 kr
 ```
 
 ## Klassifisering i kontoplanen

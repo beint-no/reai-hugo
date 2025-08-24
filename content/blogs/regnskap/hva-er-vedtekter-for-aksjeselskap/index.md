@@ -18,7 +18,7 @@ Vedtektene har **juridisk bindende kraft** for selskapet, [styret](/blogs/regnsk
 
 ### Lovpålagte Krav til Vedtekter
 
-Aksjeloven Â§ 2-2 krever at vedtektene inneholder følgende **obligatoriske bestemmelser**:
+Aksjeloven § 2-2 krever at vedtektene inneholder følgende **obligatoriske bestemmelser**:
 
 | Bestemmelse | Beskrivelse | Betydning |
 |-------------|-------------|-----------|

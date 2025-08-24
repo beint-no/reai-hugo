@@ -160,14 +160,14 @@ Kassebeholdning er utgangspunktet for [kontantstrømoppstillingen](/blogs/regnsk
 
 **Baumol-modellen** for optimal kassebeholdning:
 
-**Optimal kassebeholdning = âˆš(2 Ã— Årlige kontantutbetalinger Ã— Transaksjonskostnad / Rentesats)**
+**Optimal kassebeholdning = ˆš(2 Ã— Årlige kontantutbetalinger Ã— Transaksjonskostnad / Rentesats)**
 
 **Eksempel:**
 - Årlige kontantutbetalinger: 12 000 000 NOK
 - Transaksjonskostnad per handel: 500 NOK
 - Rentesats på investeringer: 4%
 
-Optimal kassebeholdning = âˆš(2 Ã— 12 000 000 Ã— 500 / 0,04) = **âˆš300 000 000 = 547 723 NOK**
+Optimal kassebeholdning = ˆš(2 Ã— 12 000 000 Ã— 500 / 0,04) = **ˆš300 000 000 = 547 723 NOK**
 
 #### Miller-Orr Modellen
 

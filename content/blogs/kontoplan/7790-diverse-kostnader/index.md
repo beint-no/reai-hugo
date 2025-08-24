@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7790 - Diverse kostnader"
 seoTitle: "7790-diverse-kostnader"
-description: '**Konto 7790 - Diverse kostnader** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **diverse kostnader** som ikke naturlig fa...'
+description: '**Konto 7790 - Diverse kostnader** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **diverse kostnader** som ikke naturlig fa...'
 ---
 
-**Konto 7790 - Diverse kostnader** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **diverse kostnader** som ikke naturlig faller inn under andre kostnadskonti.
+**Konto 7790 - Diverse kostnader** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **diverse kostnader** som ikke naturlig faller inn under andre kostnadskonti.
 
 ![Illustrasjon av konto 7790 Diverse kostnader](7790-diverse-kostnader-image.svg)
 

@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7020 - Vedlikehold"
 seoTitle: "7020-vedlikehold"
-description: '**Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **vedlikeholdskostnader** i virksomhetens drift.'
+description: '**Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **vedlikeholdskostnader** i virksomhetens drift.'
 ---
 
-**Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **vedlikeholdskostnader** i virksomhetens drift.
+**Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **vedlikeholdskostnader** i virksomhetens drift.
 
 ![Illustrasjon av konto 7020 Vedlikehold](7020-vedlikehold-image.svg)
 
@@ -17,12 +17,12 @@ description: '**Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontop
 
 ## Merverdiavgift på vedlikehold
 
-**Vedlikeholdstjenester** er som regel underlagt **25Â % MVA** med full fradragsrett.
+**Vedlikeholdstjenester** er som regel underlagt **25 % MVA** med full fradragsrett.
 
 | Type vedlikehold                     | MVA-sats | Fradragsrett      |
 |--------------------------------------|----------|-------------------|
-| Løpende vedlikehold av bygninger     | 25Â %     | Full fradragsrett |
-| Service og reparasjon av utstyr      | 25Â %     | Full fradragsrett |
+| Løpende vedlikehold av bygninger     | 25 %     | Full fradragsrett |
+| Service og reparasjon av utstyr      | 25 %     | Full fradragsrett |
 
 ## Regnskapsføring
 
@@ -35,7 +35,7 @@ description: '**Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontop
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 10Â 000Â NOK            | 25Â %       | 12Â 500Â NOK         |
+| 10 000 NOK            | 25 %       | 12 500 NOK         |
 
 ## Beste praksis for vedlikehold
 
@@ -46,7 +46,7 @@ description: '**Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontop
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 7020:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 7020:
 
 * [Konto 6600 - Reparasjon og vedlikehold bygninger](/blogs/kontoplan/6600-reparasjon-og-vedlikehold-bygninger "Konto 6600 - Reparasjon og vedlikehold bygninger")
 * [Konto 6620 - Reparasjon og vedlikehold utstyr](/blogs/kontoplan/6620-reparasjon-og-vedlikehold-utstyr "Konto 6620 - Reparasjon og vedlikehold utstyr")

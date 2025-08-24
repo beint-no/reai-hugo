@@ -5,7 +5,7 @@ description: "Konto 2280 brukes til å registrere stille interessentinnskudd og 
 summary: "Konto 2280: stille interessentinnskudd og ansvarlig lånekapital, bruk, bokføring og klassifisering."
 ---
 
-**Konto 2280 - Stille interessentinnskudd og ansvarlig lånekapital** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **stille interessentinnskudd** og **ansvarlig lånekapital**, det vil si kapitalinnskudd fra investorer eller interessenter med begrenset innsyn og avkastningsrett, men hvor innskyterne kan påta seg ansvar for selskapets forpliktelser etter avtalte vilkår.
+**Konto 2280 - Stille interessentinnskudd og ansvarlig lånekapital** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **stille interessentinnskudd** og **ansvarlig lånekapital**, det vil si kapitalinnskudd fra investorer eller interessenter med begrenset innsyn og avkastningsrett, men hvor innskyterne kan påta seg ansvar for selskapets forpliktelser etter avtalte vilkår.
 
 ![Illustrasjon av konto 2280 Stille interessentinnskudd og ansvarlig lånekapital](2280-stille-interessentinnskudd-og-ansvarlig-lanekapital-image.svg)
 
@@ -44,7 +44,7 @@ _*Tabellen kan tilpasses etter avtaler om rentebetingelser, deltakelsesprosent o
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2280:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2280:
 
 * [Konto 2000 - Aksjekapital](/blogs/kontoplan/2000-aksjekapital "Konto 2000 - Aksjekapital i Norsk Standard Kontoplan")
 * [Konto 1780 - Krav på innbetaling av selskapskapital](/blogs/kontoplan/1780-krav-pa-innbetaling-av-selskapskapital "Konto 1780 - Krav på innbetaling av selskapskapital i Norsk Standard Kontoplan")

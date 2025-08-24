@@ -53,8 +53,8 @@ Kredit: Konto 1920 - Bankinnskudd                     YYY NOK
 
 | Post                                 | Debet (NOK) | Kredit (NOK) |
 |--------------------------------------|------------:|-------------:|
-| Avsatt fagforeningskontingent        |      3Â 000  |              |
-| Betaling til fagforening             |             |        3Â 000 |
+| Avsatt fagforeningskontingent        |      3 000  |              |
+| Betaling til fagforening             |             |        3 000 |
 
 ## Intern lenking og relaterte kontoer
 

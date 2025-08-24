@@ -35,9 +35,9 @@ Feriepengegrunnlaget består av alle **feriepengegivende ytelser** som er opptje
 
 | Beskrivelse                   | Beløp      |
 |-------------------------------|------------|
-| Total feriepengegivende inntekt | 500Â 000 kr |
-| Feriepengesats (standard)     | 10,2Â %     |
-| **Feriepenger**               | **51Â 000 kr** |
+| Total feriepengegivende inntekt | 500 000 kr |
+| Feriepengesats (standard)     | 10,2 %     |
+| **Feriepenger**               | **51 000 kr** |
 
 ![Eksempel på beregning](feriepengegrunnlag-eksempel.svg)
 

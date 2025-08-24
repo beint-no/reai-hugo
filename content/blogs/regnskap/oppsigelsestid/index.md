@@ -10,7 +10,7 @@ description: '![Oppsigelsestid](oppsigelsestid-image.svg)'
 
 ## Definisjon og lovgrunnlag
 
-I henhold til Arbeidsmiljøloven Â§15-3 har både arbeidstaker og arbeidsgiver krav på en **minimumsoppsigelsestid**. Oppsigelsestiden avhenger av ansiennitet, type arbeidsavtale og eventuelle tariffavtaler.
+I henhold til Arbeidsmiljøloven §15-3 har både arbeidstaker og arbeidsgiver krav på en **minimumsoppsigelsestid**. Oppsigelsestiden avhenger av ansiennitet, type arbeidsavtale og eventuelle tariffavtaler.
 
 | Part           | Minimum oppsigelsestid                   |
 |----------------|------------------------------------------|

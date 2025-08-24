@@ -14,7 +14,7 @@ I norsk rett og regnskapspraksis defineres **løsøre** som alle fysiske, **beve
 
 ## Juridisk grunnlag
 
-I panteloven (Â§–¯1‘2) skilles det eksplisitt mellom pant i fast eiendom og pant i løsøre. **Pant i løsøre** gir kreditor rett til å dekke sitt krav ved salg av de pantsatte, flyttbare eiendelene dersom debitor misligholder sine forpliktelser.
+I panteloven (§–¯1‘2) skilles det eksplisitt mellom pant i fast eiendom og pant i løsøre. **Pant i løsøre** gir kreditor rett til å dekke sitt krav ved salg av de pantsatte, flyttbare eiendelene dersom debitor misligholder sine forpliktelser.
 
 ## Klassifisering av Løsøre
 

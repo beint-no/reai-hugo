@@ -15,7 +15,7 @@ Innen **internkontroll** av arbeidsmiljø er AMU et sentralt verktøy. Les mer o
 
 ## 1. Lovgrunnlag og Formål
 
-**Arbeidsmiljøutvalg (AMU)** er regulert i Â§ 7-1“7-3 i [arbeidsmiljøloven](/blogs/regnskap/hva-er-arbeidsmiljoloven "Arbeidsmiljøloven - Guide til Arbeidsrettslige Forpliktelser"). Hensikten er å:
+**Arbeidsmiljøutvalg (AMU)** er regulert i § 7-1“7-3 i [arbeidsmiljøloven](/blogs/regnskap/hva-er-arbeidsmiljoloven "Arbeidsmiljøloven - Guide til Arbeidsrettslige Forpliktelser"). Hensikten er å:
 
 * Systematisk forebygge arbeidsrelaterte skader og sykdommer
 * Legge til rette for et fullt forsvarlig arbeidsmiljø

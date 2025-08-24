@@ -45,11 +45,11 @@ Internkontroll i kontantkassearbeidet reduserer risikoen for svinn og feil:
 
 | Dato       | Beskrivelse     | Innbetaling (kr) | Utbetaling (kr) | Saldo (kr) |
 |------------|-----------------|------------------|-----------------|------------|
-| 01.01.2024 | Åpningssaldo    |                  |                 | 5Â 000      |
-| 02.01.2024 | Salg daglig     | 2Â 300            |                 | 7Â 300      |
-| 02.01.2024 | Kjøp varer      |                  | 1Â 200           | 6Â 100      |
-| 03.01.2024 | Kundeforskudd   | 500              |                 | 6Â 600      |
-| 03.01.2024 | Papir og kontor |                  | 200             | 6Â 400      |
+| 01.01.2024 | Åpningssaldo    |                  |                 | 5 000      |
+| 02.01.2024 | Salg daglig     | 2 300            |                 | 7 300      |
+| 02.01.2024 | Kjøp varer      |                  | 1 200           | 6 100      |
+| 03.01.2024 | Kundeforskudd   | 500              |                 | 6 600      |
+| 03.01.2024 | Papir og kontor |                  | 200             | 6 400      |
 
 For mer detaljert avstemming, se [Hva er Kasseoppgjør?](/blogs/regnskap/hva-er-kasseoppgjor "Hva er Kasseoppgjør? Daglig Kontantavstemming i Kassasystemet").
 

@@ -40,12 +40,12 @@ Norske bedrifter håndterer en rekke ulike bilagstyper, hver med spesifikke krav
 
 | **Bilagstype**           | **Beskrivelse**                           | **Oppbevaringstid** | **Lovgrunnlag** |
 |--------------------------|-------------------------------------------|---------------------|------------------|
-| [Inngående faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")        | Kjøp fra [leverandører](/blogs/regnskap/hva-er-leverandor "Hva er Leverandør?")    | Minst 5 år          | Bokføringsforskriften Â§ 13-2 |
-| [Utgående faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")         | Salg til [kunder](/blogs/regnskap/hva-er-kunde "Hva er Kunde?")           | Minst 5 år          | Bokføringsforskriften Â§ 13-2 |
-| [Kvittering](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap") | Bevis for [kontantbetaling](/blogs/regnskap/hva-er-kontantfaktura "Hva er Kontantfaktura?") | Minst 5 år | Bokføringsforskriften Â§ 13-2 |
-| [Kontoutskrift](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner?")            | [Banktransaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner?") og saldoer            | Minst 5 år          | Bokføringsforskriften Â§ 13-2 |
-| [Tolldeklarasjon](/blogs/regnskap/tolldeklarasjonsoversikt "Tolldeklarasjonsoversikt: Oversikt over tolldeklarasjon i regnskap")          | Import/eksport dokumentasjon              | Minst 5 år          | Tolloven Â§ 12-1 |
-| Forsikringspolise        | Avtaler om forsikringsdekning              | Minst 10 år         | Bokføringsforskriften Â§ 13-3 |
+| [Inngående faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")        | Kjøp fra [leverandører](/blogs/regnskap/hva-er-leverandor "Hva er Leverandør?")    | Minst 5 år          | Bokføringsforskriften § 13-2 |
+| [Utgående faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")         | Salg til [kunder](/blogs/regnskap/hva-er-kunde "Hva er Kunde?")           | Minst 5 år          | Bokføringsforskriften § 13-2 |
+| [Kvittering](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap") | Bevis for [kontantbetaling](/blogs/regnskap/hva-er-kontantfaktura "Hva er Kontantfaktura?") | Minst 5 år | Bokføringsforskriften § 13-2 |
+| [Kontoutskrift](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner?")            | [Banktransaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner?") og saldoer            | Minst 5 år          | Bokføringsforskriften § 13-2 |
+| [Tolldeklarasjon](/blogs/regnskap/tolldeklarasjonsoversikt "Tolldeklarasjonsoversikt: Oversikt over tolldeklarasjon i regnskap")          | Import/eksport dokumentasjon              | Minst 5 år          | Tolloven § 12-1 |
+| Forsikringspolise        | Avtaler om forsikringsdekning              | Minst 10 år         | Bokføringsforskriften § 13-3 |
 
 ### Interne bilag
 
@@ -53,12 +53,12 @@ Norske bedrifter håndterer en rekke ulike bilagstyper, hver med spesifikke krav
 
 | **Bilagstype**           | **Beskrivelse**                           | **Oppbevaringstid** | **Lovgrunnlag** |
 |--------------------------|-------------------------------------------|---------------------|------------------|
-| [Reiseregning](/blogs/regnskap/hva-er-utlegg "Hva er Utlegg?")             | Dokumentasjon av [ansattes utlegg](/blogs/regnskap/ansattutlegg "Ansattutlegg i Regnskap")           | Minst 5 år          | Bokføringsforskriften Â§ 13-2 |
-| [Lønnsbilag](/blogs/regnskap/hva-er-lonn "Hva er Lønn?")              | [Lønnsutbetalinger](/blogs/regnskap/hva-er-lonn "Hva er Lønn?") og [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift?")           | Minst 5 år          | Bokføringsforskriften Â§ 13-2 |
-| [Avskrivningsbilag](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning?")        | Dokumentasjon av [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning?")           | Minst 5 år          | Bokføringsforskriften Â§ 13-2 |
-| [Periodiseringsbilag](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering?")      | Fordeling av kostnader over perioder      | Minst 5 år          | Bokføringsforskriften Â§ 13-2 |
-| Korrigeringsbilag        | Rettelser av tidligere posteringer        | Minst 5 år          | Bokføringsforskriften Â§ 13-2 |
-| Varetellingsliste        | Dokumentasjon av [lageropptelling](/blogs/regnskap/hva-er-varelager "Hva er Varelager?")           | Minst 5 år          | Bokføringsforskriften Â§ 13-2 |
+| [Reiseregning](/blogs/regnskap/hva-er-utlegg "Hva er Utlegg?")             | Dokumentasjon av [ansattes utlegg](/blogs/regnskap/ansattutlegg "Ansattutlegg i Regnskap")           | Minst 5 år          | Bokføringsforskriften § 13-2 |
+| [Lønnsbilag](/blogs/regnskap/hva-er-lonn "Hva er Lønn?")              | [Lønnsutbetalinger](/blogs/regnskap/hva-er-lonn "Hva er Lønn?") og [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift?")           | Minst 5 år          | Bokføringsforskriften § 13-2 |
+| [Avskrivningsbilag](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning?")        | Dokumentasjon av [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning?")           | Minst 5 år          | Bokføringsforskriften § 13-2 |
+| [Periodiseringsbilag](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering?")      | Fordeling av kostnader over perioder      | Minst 5 år          | Bokføringsforskriften § 13-2 |
+| Korrigeringsbilag        | Rettelser av tidligere posteringer        | Minst 5 år          | Bokføringsforskriften § 13-2 |
+| Varetellingsliste        | Dokumentasjon av [lageropptelling](/blogs/regnskap/hva-er-varelager "Hva er Varelager?")           | Minst 5 år          | Bokføringsforskriften § 13-2 |
 
 ![Oversikt over bilagstyper](bilag-typer.svg)
 
@@ -203,9 +203,9 @@ Norsk lovgivning stiller strenge krav til bilagsbehandling og dokumentasjon. Dis
 
 **[Bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven?")** og **[bokføringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften?")** danner det juridiske fundamentet:
 
-* **Â§ 4**: Krav til regnskapsføring og dokumentasjon
-* **Â§ 5**: Krav til bilagsbehandling og arkivering
-* **Â§ 13**: Oppbevaringsfrister for ulike dokumenttyper
+* **§ 4**: Krav til regnskapsføring og dokumentasjon
+* **§ 5**: Krav til bilagsbehandling og arkivering
+* **§ 13**: Oppbevaringsfrister for ulike dokumenttyper
 
 ### Obligatoriske bilagsopplysninger
 
@@ -226,12 +226,12 @@ Ulike dokumenttyper har forskjellige oppbevaringsfrister:
 
 | **Dokumenttype** | **Oppbevaringstid** | **Lovgrunnlag** |
 |------------------|--------------------|-----------------|
-| **Regnskapsbilag** | Minimum 5 år | Bokføringsforskriften Â§ 13-2 |
-| **[Fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")** | Minimum 5 år | Bokføringsforskriften Â§ 13-2 |
-| **Kontrakter og avtaler** | Minimum 10 år | Bokføringsforskriften Â§ 13-3 |
-| **[MVA-dokumenter](/blogs/regnskap/hva-er-mva-melding "Hva er MVA-melding?")** | Minimum 10 år | Merverdiavgiftsloven Â§ 21-3 |
-| **[Årsregnskap](/blogs/regnskap/hva-er-aarsoppgave "Hva er Årsoppgave?")** | Minimum 10 år | Bokføringsforskriften Â§ 13-3 |
-| **Lønnsbilag** | Minimum 5 år | Bokføringsforskriften Â§ 13-2 |
+| **Regnskapsbilag** | Minimum 5 år | Bokføringsforskriften § 13-2 |
+| **[Fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")** | Minimum 5 år | Bokføringsforskriften § 13-2 |
+| **Kontrakter og avtaler** | Minimum 10 år | Bokføringsforskriften § 13-3 |
+| **[MVA-dokumenter](/blogs/regnskap/hva-er-mva-melding "Hva er MVA-melding?")** | Minimum 10 år | Merverdiavgiftsloven § 21-3 |
+| **[Årsregnskap](/blogs/regnskap/hva-er-aarsoppgave "Hva er Årsoppgave?")** | Minimum 10 år | Bokføringsforskriften § 13-3 |
+| **Lønnsbilag** | Minimum 5 år | Bokføringsforskriften § 13-2 |
 
 ### Digitale bilag og juridiske krav
 

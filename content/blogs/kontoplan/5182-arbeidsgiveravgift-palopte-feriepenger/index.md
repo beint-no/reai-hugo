@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5182 - Arbeidsgiveravgift påløpte feriepenger"
 seoTitle: "5182-arbeidsgiveravgift-palopte-feriepenger"
-description: '**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **påløpt arbeidsg...'
+description: '**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **påløpt arbeidsg...'
 ---
 
-**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **påløpt arbeidsgiveravgift** knyttet til **feriepenger**.
+**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **påløpt arbeidsgiveravgift** knyttet til **feriepenger**.
 
 ![Illustrasjon av konto 5182 Arbeidsgiveravgift påløpte feriepenger](5182-arbeidsgiveravgift-palopte-feriepenger-image.svg)
 
@@ -37,11 +37,11 @@ description: '**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en ko
 
 ## Eksempel på beregning
 
-En virksomhet har beregnede feriepenger på 51–¯000Â NOK og arbeidsgiveravgiftssats 14,1–¯%:
+En virksomhet har beregnede feriepenger på 51–¯000 NOK og arbeidsgiveravgiftssats 14,1–¯%:
 
 | Beskrivelse                      | Avgiftssats | Påløpt arbeidsgiveravgift | Totalt avgiftskostnad |
 |----------------------------------|-------------|---------------------------|-----------------------|
-| Feriepenger beregnet             | 14,1–¯%      | 7–¯191Â NOK                 | 7–¯191Â NOK             |
+| Feriepenger beregnet             | 14,1–¯%      | 7–¯191 NOK                 | 7–¯191 NOK             |
 
 ## Praktiske hensyn
 
@@ -52,7 +52,7 @@ En virksomhet har beregnede feriepenger på 51–¯000Â NOK og arbeidsgiveravg
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 5182:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 5182:
 
 * [Konto 5180 - Feriepenger beregnet](/blogs/kontoplan/5180-feriepenger-beregnet "Konto 5180 - Feriepenger beregnet")
 * [Konto 2780 - Påløpt arbeidsgiveravgift](/blogs/kontoplan/2780-palopte-arbeidsgiveravgift "Konto 2780 - Påløpt arbeidsgiveravgift")

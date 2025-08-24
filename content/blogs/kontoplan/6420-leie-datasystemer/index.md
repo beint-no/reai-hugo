@@ -28,7 +28,7 @@ description: '**Konto 6420 - Leie datasystemer** er en konto i Norsk Standard Ko
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 50Â 000Â NOK            | 25Â %       | 62Â 500Â NOK         |
+| 50 000 NOK            | 25 %       | 62 500 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -38,7 +38,7 @@ description: '**Konto 6420 - Leie datasystemer** er en konto i Norsk Standard Ko
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6420:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6420:
 
 * [Konto 6300 - Leie lokaler](/blogs/kontoplan/6300-leie-lokaler "Konto 6300 - Leie lokaler")
 * [Konto 6400 - Leie maskiner](/blogs/kontoplan/6400-leie-maskiner "Konto 6400 - Leie maskiner")

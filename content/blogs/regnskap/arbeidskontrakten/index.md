@@ -15,7 +15,7 @@ En arbeidskontrakt er det juridiske beviset på at et arbeidsforhold er inngått
 
 ## Seksjon 2: Lovpålagte krav til innhold
 
-I henhold til arbeidsmiljøloven Â§14-6 må skriftlige arbeidsavtaler som hovedregel inneholde følgende **obligatoriske opplysninger**:
+I henhold til arbeidsmiljøloven §14-6 må skriftlige arbeidsavtaler som hovedregel inneholde følgende **obligatoriske opplysninger**:
 
 | Element                | Beskrivelse                                                       |
 |------------------------|-------------------------------------------------------------------|
@@ -55,7 +55,7 @@ For mer om grunnleggende regnskapsprinsipper, se [Hva er Regnskap?](/blogs/regns
 
 ## Seksjon 5: Oppbevaring og dokumentasjon
 
-I henhold til bokføringsforskriften Â§5-1 skal skriftlige arbeidskontrakter oppbevares i minst 5 år etter regnskapsårets slutt. Korrekt dokumentasjon er avgjørende for:
+I henhold til bokføringsforskriften §5-1 skal skriftlige arbeidskontrakter oppbevares i minst 5 år etter regnskapsårets slutt. Korrekt dokumentasjon er avgjørende for:
 
 - Revisjon og internkontroll (se [Hva er Internkontroll?](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll?"))
 - Skatte- og avgiftskontroll (se [Hva er dokumentasjon i regnskap og bokføring?](/blogs/regnskap/hva-er-dokumentasjon-regnskap-bokforing "Hva er dokumentasjon i regnskap og bokføring?"))

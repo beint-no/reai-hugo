@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7150 - Diettkostnader, oppgavepliktig"
 seoTitle: "7150-diettkostnader-oppgavepliktig"
-description: '**Konto 7150 - Diettkostnader, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **oppgavepliktige diettkostna...'
+description: '**Konto 7150 - Diettkostnader, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **oppgavepliktige diettkostna...'
 ---
 
-**Konto 7150 - Diettkostnader, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **oppgavepliktige diettkostnader**.
+**Konto 7150 - Diettkostnader, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **oppgavepliktige diettkostnader**.
 
 ![Illustrasjon av konto 7150 Diettkostnader, oppgavepliktig](7150-diettkostnader-oppgavepliktig-image.svg)
 
@@ -19,9 +19,9 @@ Tabellen under viser Skatteetatens normaltariffer for diett ved innenlands reise
 
 | Type diett                       | Dokumentasjon          | Skatteetatens normaltariff  |
 |----------------------------------|------------------------|-----------------------------|
-| Enkelt diett (innenlands)        | Bilag med måltider     | 313Â NOK per hel dag         |
-| Dobbel diett (innenlands)        | Bilag med måltider     | 627Â NOK per hel dag         |
-| Måltidsfradrag ved delvis fravær | Bilag eller egenattest | 20Â % av enkel diett         |
+| Enkelt diett (innenlands)        | Bilag med måltider     | 313 NOK per hel dag         |
+| Dobbel diett (innenlands)        | Bilag med måltider     | 627 NOK per hel dag         |
+| Måltidsfradrag ved delvis fravær | Bilag eller egenattest | 20 % av enkel diett         |
 
 Beløp som overstiger normaltariffene regnes som **fordelsbeskatning** og skal **rapporteres i A-meldingen**.
 
@@ -35,8 +35,8 @@ Beløp som overstiger normaltariffene regnes som **fordelsbeskatning** og skal *
 ## Eksempel på bokføring
 
 ```plaintext
-Debet: Konto 7150 - Diettkostnader      5Â 000Â NOK
-Kredit: Konto 2400 - Leverandørgjeld     5Â 000Â NOK
+Debet: Konto 7150 - Diettkostnader      5 000 NOK
+Kredit: Konto 2400 - Leverandørgjeld     5 000 NOK
 ```
 
 ## Nøkkelfunksjoner

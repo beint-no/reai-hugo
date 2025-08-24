@@ -48,7 +48,7 @@ Lønnslipp viser også alle trekk som gjøres i lønnen:
 
 ### Arbeidsmiljølovens Krav
 
-I henhold til **Arbeidsmiljøloven Â§ 14-15** skal arbeidsgiver gi den ansatte skriftlig oppgave over:
+I henhold til **Arbeidsmiljøloven § 14-15** skal arbeidsgiver gi den ansatte skriftlig oppgave over:
 
 ![Lovkrav til lønnslipp](lonnslipp-lovkrav.svg)
 

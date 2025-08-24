@@ -224,7 +224,7 @@ Effektiv lagerstyring optimaliserer balansen mellom tilgjengelighet og kapitalbi
 * **Etterspørselsmønstre:** Årlig forbruk og variabilitet
 
 **EOQ-formel:**
-EOQ = âˆš(2 Ã— Årlig etterspørsel Ã— Bestillingskostnad Ã· Årlig lagerholdkostnad per enhet)
+EOQ = ˆš(2 Ã— Årlig etterspørsel Ã— Bestillingskostnad Ã· Årlig lagerholdkostnad per enhet)
 
 #### Just-in-Time (JIT)
 
@@ -244,7 +244,7 @@ EOQ = âˆš(2 Ã— Årlig etterspørsel Ã— Bestillingskostnad Ã· Årlig l
 * Sesongmessige svingninger
 * Leverandørforstyrrelser
 
-**Sikkerhetslager = Z-score Ã— âˆš(Leveringstid) Ã— Standardavvik i etterspørsel**
+**Sikkerhetslager = Z-score Ã— ˆš(Leveringstid) Ã— Standardavvik i etterspørsel**
 
 #### Servicenivå-optimalisering
 
@@ -653,7 +653,7 @@ Systematisk analyse av lagerprestasjon gjennom relevante nøkkeltall gir ledelse
 | **Aktivitet** | **Kostnaddriver** | **Kostnad per enhet** | **Total kostnad** |
 |---------------|-------------------|----------------------|-------------------|
 | **Mottak** | Antall leveranser | 450 kr/leveranse | 234.000 kr |
-| **Lagring** | Lagerdager Ã— volum | 2,5 kr/mÂ³/dag | 456.750 kr |
+| **Lagring** | Lagerdager Ã— volum | 2,5 kr/m³/dag | 456.750 kr |
 | **Plukking** | Antall plukk | 15 kr/plukk | 189.000 kr |
 | **Forsendelse** | Antall sendinger | 85 kr/sending | 297.500 kr |
 

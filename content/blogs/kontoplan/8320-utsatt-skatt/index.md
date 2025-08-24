@@ -26,7 +26,7 @@ description: '**Konto 8320 - Utsatt skatt** er en konto i Norsk Standard Kontopl
 | 8300   | Betalbar skatt                                                 | Balansen (kortsiktig gjeld)                |
 | 2500   | Betalbar skatt, ikke utlignet                                  | Balansen (kortsiktig gjeld)                |
 | 2510   | Betalbar skatt, utlignet                                       | Balansen (kortsiktig gjeld)                |
-| 2530   | Refusjon skatt etter Skatteloven Â§–¯31 femte ledd               | Balansen (kortsiktig fordring)             |
+| 2530   | Refusjon skatt etter Skatteloven §–¯31 femte ledd               | Balansen (kortsiktig fordring)             |
 
 ## Regnskapsføring av utsatt skatt
 
@@ -50,9 +50,9 @@ Kredit: Konto 8320 - Utsatt skatt                    YYY NOK
 
 | Post                                        | Endring i midlertidig forskjell | Skattesats | Endring utsatt skatt |
 |---------------------------------------------|---------------------------------:|-----------:|----------------------:|
-| Forskjell ved avskrivningsgrunnlag          |                        500Â 000  | 22Â %       |              110Â 000  |
-| Forskjell ved nedskrivning av eiendel       |                        200Â 000  | 22Â %       |               44Â 000  |
-| **Total**                                   |                                  |            |             **154Â 000** |
+| Forskjell ved avskrivningsgrunnlag          |                        500 000  | 22 %       |              110 000  |
+| Forskjell ved nedskrivning av eiendel       |                        200 000  | 22 %       |               44 000  |
+| **Total**                                   |                                  |            |             **154 000** |
 
 ## Presentasjon i regnskapet
 
@@ -65,7 +65,7 @@ Skattekostnaden som er periodisert i **Konto 8320 - Utsatt skatt** inngår i [re
 * [Konto 1070 - Utsatt skattfordel](/blogs/kontoplan/1070-utsatt-skattfordel "Konto 1070 - Utsatt skattfordel")
 * [Konto 2500 - Betalbar skatt, ikke utlignet](/blogs/kontoplan/2500-betalbar-skatt-ikke-utlignet "Konto 2500 - Betalbar skatt, ikke utlignet")
 * [Konto 2510 - Betalbar skatt, utlignet](/blogs/kontoplan/2510-betalbar-skatt-utlignet "Konto 2510 - Betalbar skatt, utlignet")
-* [Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd](/blogs/kontoplan/2530-refusjon-skatt-etter-skatteloven-31-5-ledd "Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd")
+* [Konto 2530 - Refusjon skatt etter Skatteloven §31 5. ledd](/blogs/kontoplan/2530-refusjon-skatt-etter-skatteloven-31-5-ledd "Konto 2530 - Refusjon skatt etter Skatteloven §31 5. ledd")
 * [Resultatregnskap](/blogs/regnskap/hva-er-resultatregnskap "Hva er Resultatregnskap? Oppbygning og Analyse")
 
 

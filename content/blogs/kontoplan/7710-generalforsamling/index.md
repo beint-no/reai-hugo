@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7710 - Generalforsamling"
 seoTitle: "7710-generalforsamling"
-description: '**Konto 7710 - Generalforsamling** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kostnader ved generalforsamling**, inklu...'
+description: '**Konto 7710 - Generalforsamling** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kostnader ved generalforsamling**, inklu...'
 ---
 
-**Konto 7710 - Generalforsamling** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kostnader ved generalforsamling**, inkludert leie av lokale, servering, honorarer og administrasjon.
+**Konto 7710 - Generalforsamling** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kostnader ved generalforsamling**, inkludert leie av lokale, servering, honorarer og administrasjon.
 
 ![Illustrasjon av konto 7710 Generalforsamling](7710-generalforsamling-image.svg)
 

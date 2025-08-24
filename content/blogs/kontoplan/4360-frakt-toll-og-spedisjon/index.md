@@ -33,7 +33,7 @@ description: '**Konto 4360 - Frakt, toll og spedisjon** er en konto i Norsk Stan
 
 | Beløp ekskl. MVA | MVA (25 %) | Total inkl. MVA |
 |------------------|------------|-----------------|
-| 2Â 000 NOK        | 500 NOK    | 2Â 500 NOK       |
+| 2 000 NOK        | 500 NOK    | 2 500 NOK       |
 
 ## Fordeler ved korrekt bruk
 

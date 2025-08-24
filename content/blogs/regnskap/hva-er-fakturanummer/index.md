@@ -10,7 +10,7 @@ Fakturanummer spiller en kritisk rolle i [bilagsføring](/blogs/regnskap/hva-er-
 
 ## Lovkrav til Fakturanummer i Norge
 
-I henhold til bokføringsforskriften Â§ 5-1 må alle fakturaer ha et **unikt, maskinelt tildelt nummer** som er en del av en **sammenhengende serie**. Dette kravet sikrer at ingen fakturaer kan forsvinne eller manipuleres uten at det oppdages.
+I henhold til bokføringsforskriften § 5-1 må alle fakturaer ha et **unikt, maskinelt tildelt nummer** som er en del av en **sammenhengende serie**. Dette kravet sikrer at ingen fakturaer kan forsvinne eller manipuleres uten at det oppdages.
 
 ![Fakturanummer System og Struktur](fakturanummer-system.svg)
 

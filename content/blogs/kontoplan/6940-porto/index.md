@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 6940 - Porto"
 seoTitle: "6940-porto"
-description: '**Konto 6940 - Porto** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **portokostnader** for virksomhetens post og forsendel...'
+description: '**Konto 6940 - Porto** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **portokostnader** for virksomhetens post og forsendel...'
 ---
 
-**Konto 6940 - Porto** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **portokostnader** for virksomhetens post og forsendelser.
+**Konto 6940 - Porto** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **portokostnader** for virksomhetens post og forsendelser.
 
 ![Illustrasjon av konto 6940 Porto](6940-porto-image.svg)
 
@@ -35,12 +35,12 @@ description: '**Konto 6940 - Porto** er en konto i **Norsk Standard Kontoplan (N
 
 ## Eksempel
 
-En virksomhet mottar faktura på 1Â 000Â NOK for porto og posttjenester.
+En virksomhet mottar faktura på 1 000 NOK for porto og posttjenester.
 
 ```plaintext
-Debet: Konto 6940 - Porto                         1Â 000 NOK
+Debet: Konto 6940 - Porto                         1 000 NOK
 Debet: Konto 2701 - Utgående merverdiavgift høy sats 250 NOK
-Kredit: Konto 2400 - Leverandørgjeld              1Â 250 NOK
+Kredit: Konto 2400 - Leverandørgjeld              1 250 NOK
 ```
 
 ## Beste praksis for porto og posthåndtering

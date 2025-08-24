@@ -32,20 +32,20 @@ For å oppfylle bokføringsloven og bokføringsforskriften må alle salgstransak
 
 ## Regnskapsmessig behandling
 
-Bokføring av salg følger prinsippene for dobbel bokføring. Eksempel ved salg av varer for 10Â 000Â kr + 2Â 500Â kr MVA på faktura:
+Bokføring av salg følger prinsippene for dobbel bokføring. Eksempel ved salg av varer for 10 000 kr + 2 500 kr MVA på faktura:
 
 | Konto | Kontonavn        | Debet  | Kredit  |
 |-------|------------------|--------|---------|
-| 1500  | Kundefordringer  | 12Â 500 |         |
-| 3000  | Salgsinntekt     |        | 10Â 000  |
-| 2700  | Utgående MVA     |        | 2Â 500   |
+| 1500  | Kundefordringer  | 12 500 |         |
+| 3000  | Salgsinntekt     |        | 10 000  |
+| 2700  | Utgående MVA     |        | 2 500   |
 
 Ved betaling av faktura reverseres debetposten på kundefordringer:
 
 | Konto | Kontonavn        | Debet  | Kredit  |
 |-------|------------------|--------|---------|
-| 1900  | Bank             | 12Â 500 |         |
-| 1500  | Kundefordringer  |        | 12Â 500  |
+| 1900  | Bank             | 12 500 |         |
+| 1500  | Kundefordringer  |        | 12 500  |
 
 ## Internkontroll og rutiner
 

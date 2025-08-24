@@ -34,8 +34,8 @@ Regnskapsføring av eiendoms- og festeavgifter kan se slik ut:
 ## Eksempel på bokføring
 
 ```plaintext
-Debet: Konto 7750 - Eiendoms- og festeavgifter    25Â 000 NOK
-Kredit: Konto 1920 - Bankinnskudd                 25Â 000 NOK
+Debet: Konto 7750 - Eiendoms- og festeavgifter    25 000 NOK
+Kredit: Konto 1920 - Bankinnskudd                 25 000 NOK
 ```
 
 ## Intern lenking og relaterte kontoer

@@ -126,13 +126,13 @@ I Norge følger de fleste virksomheter den standardiserte [**kontoplanen**](/blo
 
 | Klasse | Kategori | Debet øker | Kredit øker | Eksempler |
 |---|---|---|---|---|
-| 1 | Anleggsmidler | âœ“ | | Bygninger, maskiner, goodwill |
-| 2 | Omløpsmidler | âœ“ | | Varelager, kundefordringer, bank |
-| 3 | Egenkapital | | âœ“ | [Aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Komplett Guide til Aksjekapital i AS"), opptjent egenkapital |
-| 4 | Langsiktig gjeld | | âœ“ | Banklån, obligasjoner |
-| 5 | Kortsiktig gjeld | | âœ“ | Leverandørgjeld, skyldige skatter |
-| 6 | Kostnader | âœ“ | | Lønn, husleie, [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder") |
-| 7 | Salgsinntekter | | âœ“ | Salg av varer og tjenester |
+| 1 | Anleggsmidler | œ“ | | Bygninger, maskiner, goodwill |
+| 2 | Omløpsmidler | œ“ | | Varelager, kundefordringer, bank |
+| 3 | Egenkapital | | œ“ | [Aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Komplett Guide til Aksjekapital i AS"), opptjent egenkapital |
+| 4 | Langsiktig gjeld | | œ“ | Banklån, obligasjoner |
+| 5 | Kortsiktig gjeld | | œ“ | Leverandørgjeld, skyldige skatter |
+| 6 | Kostnader | œ“ | | Lønn, husleie, [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder") |
+| 7 | Salgsinntekter | | œ“ | Salg av varer og tjenester |
 | 8 | Finansposter | Varierer | Varierer | Renteinntekter, rentekostnader |
 
 ## Praktisk Implementering av Dobbel Bokføring
@@ -229,7 +229,7 @@ Dobbel bokføring muliggjør beregning av viktige finansielle nøkkeltall:
 **De mest vanlige feilene i dobbel bokføring:**
 
 1. **Feil [kontering](/blogs/regnskap/hva-er-kontering "Hva er Kontering? En Komplett Guide til Kontokoding i Regnskap"):** Bruk av feil kontonummer
-2. **Ubalanserte poster:** Debet â‰  kredit
+2. **Ubalanserte poster:** Debet ‰  kredit
 3. **Manglende bilag:** Transaksjoner uten dokumentasjon
 4. **Periodiseringsfeil:** Feil tidspunkt for registrering
 5. **Avrundingsfeil:** Små differanser som akkumuleres

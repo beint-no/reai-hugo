@@ -52,11 +52,11 @@ Bokføringsloven stiller spesifikke krav til **bokføringssystemet**:
 
 | Krav | Beskrivelse | Lovhjemmel |
 |------|-------------|------------|
-| **Kronologisk registrering** | Alle transaksjoner skal registreres i tidsmessig rekkefølge | Â§ 4 |
-| **Systematisk registrering** | Transaksjoner skal klassifiseres etter art | Â§ 4 |
-| **Sporbarhet** | Klar sammenheng mellom [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Typer, Krav og Håndtering") og registreringer | Â§ 5 |
-| **Sikkerhet** | Beskyttelse mot tap og uautoriserte endringer | Â§ 6 |
-| **Tilgjengelighet** | Regnskapet skal være tilgjengelig for kontroll | Â§ 7 |
+| **Kronologisk registrering** | Alle transaksjoner skal registreres i tidsmessig rekkefølge | § 4 |
+| **Systematisk registrering** | Transaksjoner skal klassifiseres etter art | § 4 |
+| **Sporbarhet** | Klar sammenheng mellom [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? Typer, Krav og Håndtering") og registreringer | § 5 |
+| **Sikkerhet** | Beskyttelse mot tap og uautoriserte endringer | § 6 |
+| **Tilgjengelighet** | Regnskapet skal være tilgjengelig for kontroll | § 7 |
 
 ![Krav til bokføringssystem og dokumentasjon](bokforingssystem-krav.svg)
 
@@ -106,11 +106,11 @@ Bokføringsloven krever **systematisk oppbevaring** av regnskapsmateriale:
 
 | Materiale | Oppbevaringstid | Lovhjemmel |
 |-----------|-----------------|------------|
-| **Regnskapsbilag** | 5 år | Â§ 13 |
-| **Årsregnskap** | 10 år | Â§ 13 |
-| **Revisjonsberetning** | 10 år | Â§ 13 |
-| **Dokumentasjon av bokføringssystem** | 5 år | Â§ 13 |
-| **Korrespondanse** | 5 år | Â§ 13 |
+| **Regnskapsbilag** | 5 år | § 13 |
+| **Årsregnskap** | 10 år | § 13 |
+| **Revisjonsberetning** | 10 år | § 13 |
+| **Dokumentasjon av bokføringssystem** | 5 år | § 13 |
+| **Korrespondanse** | 5 år | § 13 |
 
 For en omfattende guide til **[oppbevaring av regnskapsmateriale](/blogs/regnskap/oppbevaring-av-regnskapsmateriale "Oppbevaring av Regnskapsmateriale - Krav, Frister og Beste Praksis i Norge")**, inkludert detaljerte oppbevaringsfrister, digitale løsninger, sikkerhetskrav og praktiske implementeringsstrategier, se vår spesialiserte artikkel.
 

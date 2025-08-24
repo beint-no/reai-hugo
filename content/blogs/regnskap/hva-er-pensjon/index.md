@@ -9,7 +9,7 @@ description: '**Pensjon** er et system designet for å sikre økonomisk trygghet
 
 ![Oversikt over det norske pensjonssystemet](pensjonssystem-oversikt.svg)
 
-Skattetrekk for pensjons- og trygdeutbetalinger beregnes iht. [TabellÂ 7100](/blogs/regnskap/tabell-7100 "Tabell 7100: Skattetabell for Pensjon og Trygdeutbetalinger"), som gir oversikt over trekkprosent for ulike utbetalingstyper og inntektsnivåer.
+Skattetrekk for pensjons- og trygdeutbetalinger beregnes iht. [Tabell 7100](/blogs/regnskap/tabell-7100 "Tabell 7100: Skattetabell for Pensjon og Trygdeutbetalinger"), som gir oversikt over trekkprosent for ulike utbetalingstyper og inntektsnivåer.
 
 ## Det Norske Pensjonssystemet
 

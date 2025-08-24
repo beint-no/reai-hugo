@@ -23,7 +23,7 @@ Kryptovalutaer opererer på en **desentralisert** hovedbok kalt *blokkjede* (blo
 
 | Type             | Eksempel       | Hovedegenskap                     |
 |------------------|----------------|-----------------------------------|
-| **Bitcoin**      | BTC            | Desentralisert Â«digitalt gullÂ»     |
+| **Bitcoin**      | BTC            | Desentralisert «digitalt gull»     |
 | **Ethereum**     | ETH            | Smartkontrakter og DApps          |
 | **Stablecoins**  | USDT, USDC     | Prisstabilitet knyttet til fiat   |
 | **Tokens**       | ERC-20, BEP-20 | Bygger på eksisterende blokkjeder |

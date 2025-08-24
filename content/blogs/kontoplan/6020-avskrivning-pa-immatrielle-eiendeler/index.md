@@ -28,7 +28,7 @@ Følgende kostnadskomponenter inngår i avskrivningsgrunnlaget for immaterielle 
 | Kostnadstype                   | Beskrivelse                                         |
 |--------------------------------|-----------------------------------------------------|
 | Anskaffelseskostnad            | Inkluderer kjøpesum, toll, frakt og installasjonskostnader |
-| Utviklingskostnader (FoU)      | Aktiverbare utviklingskostnader etter IASÂ 38/NRFS   |
+| Utviklingskostnader (FoU)      | Aktiverbare utviklingskostnader etter IAS 38/NRFS   |
 | Programvare og lisenser        | Kjøp og intern utvikling                            |
 | Juridiske og registreringskostnader | Gebyrer for varemerker, patenter og konsesjoner    |
 
@@ -50,7 +50,7 @@ Kredit: Konto 1020 - Immaterielle eiendeler (opprinnelig anskaffelseskost)
 
 ## Regnskapsstandarder og merverdier
 
-Bokføring av amortisering må følge gjeldende standarder som [IASÂ 38/NRFS](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?") og krav til [aktivering av immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?").
+Bokføring av amortisering må følge gjeldende standarder som [IAS 38/NRFS](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?") og krav til [aktivering av immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?").
 
 ## Se også
 

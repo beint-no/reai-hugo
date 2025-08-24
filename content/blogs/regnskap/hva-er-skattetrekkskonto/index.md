@@ -87,8 +87,8 @@ Skattetrekkskonto skiller seg fra **ordinære bankkontoer** på flere måter:
 
 **Månedlig syklus:**
 ```
-Lønnskjøring â†’ Beregn skattetrekk â†’ Overfør til skattetrekkskonto â†’ 
-Innbetaling til Skatteetaten (innen 15.) â†’ Rapportering i a-melding
+Lønnskjøring †’ Beregn skattetrekk †’ Overfør til skattetrekkskonto †’ 
+Innbetaling til Skatteetaten (innen 15.) †’ Rapportering i a-melding
 ```
 
 ![Skattetrekkskonto Transaksjonsflow](skattetrekkskonto-transaksjoner.svg)

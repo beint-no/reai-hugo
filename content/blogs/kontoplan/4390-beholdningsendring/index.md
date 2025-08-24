@@ -14,7 +14,7 @@ description: '**Konto 4390 - Beholdningsendring** er en konto i Norsk Standard K
 
 **Formel for beholdningsendring:**
 
-> **Beholdningsendring = Beholdning ved slutten av perioden âˆ’ Beholdning ved begynnelsen av perioden**
+> **Beholdningsendring = Beholdning ved slutten av perioden ˆ’ Beholdning ved begynnelsen av perioden**
 
 ## Regnskapsføring
 
@@ -33,8 +33,8 @@ Valg av **vurderingsmetode** for ferdige varer påvirker beregningen av beholdni
 
 ## Praktiske eksempler
 
-1. **Positiv beholdningsendring:** Hvis beholdningen av ferdige varer øker fraÂ 500Â 000Â kr tilÂ 580Â 000Â kr, blir beholdningsendringen **+Â 80Â 000Â kr**.
-2. **Negativ beholdningsendring:** Hvis beholdningen av ferdige varer reduseres fraÂ 600Â 000Â kr tilÂ 550Â 000Â kr, blir beholdningsendringen **âˆ’Â 50Â 000Â kr**.
+1. **Positiv beholdningsendring:** Hvis beholdningen av ferdige varer øker fra 500 000 kr til 580 000 kr, blir beholdningsendringen **+ 80 000 kr**.
+2. **Negativ beholdningsendring:** Hvis beholdningen av ferdige varer reduseres fra 600 000 kr til 550 000 kr, blir beholdningsendringen **ˆ’ 50 000 kr**.
 
 ## Praktiske tips
 

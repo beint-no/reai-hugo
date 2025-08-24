@@ -38,11 +38,11 @@ For at aksjonærbidrag skal være gyldig, må flere vilkår være oppfylt:
 
 ## Eksempel på bokføring
 
-Selskapet mottar aksjonærbidrag på 250Â 000Â kr:
+Selskapet mottar aksjonærbidrag på 250 000 kr:
 
 ```plaintext
-Debet: Konto 1920 - Bankinnskudd    250Â 000Â kr
-Kredit: Konto 8940 - Aksjonærbidrag 250Â 000Â kr
+Debet: Konto 1920 - Bankinnskudd    250 000 kr
+Kredit: Konto 8940 - Aksjonærbidrag 250 000 kr
 ```
 
 ## Relaterte artikler

@@ -14,7 +14,7 @@ Kjøreboken er ikke bare et administrativt krav, men en strategisk ressurs som k
 
 ### Skattelovens Bestemmelser
 
-I henhold til **skatteloven Â§ 6-2** og **skatteforvaltningsforskriften Â§ 8-2-1** må alle som krever fradrag for bilkostnader kunne dokumentere forretningsbruken av kjøretøyet. Kjøreboken er det primære dokumentasjonsverktøyet som skattemyndighetene aksepterer.
+I henhold til **skatteloven § 6-2** og **skatteforvaltningsforskriften § 8-2-1** må alle som krever fradrag for bilkostnader kunne dokumentere forretningsbruken av kjøretøyet. Kjøreboken er det primære dokumentasjonsverktøyet som skattemyndighetene aksepterer.
 
 ### Minimumskrav til Dokumentasjon
 

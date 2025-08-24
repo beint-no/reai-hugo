@@ -32,14 +32,14 @@ Bruk av internrente i investeringsanalyse hjelper med å:
 
 ## Eksempel på beregning av Internrente
 
-Anta en opprinnelig investering på 100Â 000 kr som gir følgende kontantstrømmer:
+Anta en opprinnelig investering på 100 000 kr som gir følgende kontantstrømmer:
 
 | År | Kontantstrøm |
 |----|--------------|
-| 0  | -100Â 000 kr  |
-| 1  | 30Â 000 kr    |
-| 2  | 40Â 000 kr    |
-| 3  | 50Â 000 kr    |
+| 0  | -100 000 kr  |
+| 1  | 30 000 kr    |
+| 2  | 40 000 kr    |
+| 3  | 50 000 kr    |
 
 Ved å løse likningen for internrenten (_r_) finner vi:
 
@@ -47,14 +47,14 @@ Ved å løse likningen for internrenten (_r_) finner vi:
 0 = -100000 + 30000/(1+r) + 40000/(1+r)^2 + 50000/(1+r)^3
 ```
 
-Resultatet blir omtrent **14,5Â %**.
+Resultatet blir omtrent **14,5 %**.
 
 ## Internrente vs. Netto Nåverdi (NPV)
 
 | Aspekt                  | Internrente                      | NPV (Netto Nåverdi)                         |
 |-------------------------|----------------------------------|----------------------------------------------|
 | Måleparameter           | Rente (_%_)                      | Verdi (kr)                                   |
-| Beslutningsregel        | _r_ > avkastningskrav â†’ Godkjenn | NPV > 0 â†’ Godkjenn                           |
+| Beslutningsregel        | _r_ > avkastningskrav †’ Godkjenn | NPV > 0 †’ Godkjenn                           |
 | Forutsetning om reinvestering | Samme rate (_r_)               | Diskonteringsrenten (_r_ eller alternativer) |
 
 

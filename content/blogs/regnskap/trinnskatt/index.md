@@ -14,11 +14,11 @@ For en overordnet introduksjon til *marginalskatt*, se [Hva er Marginalskatt?](/
 
 | Inntektstrinn | Inntektsintervall            | Trinnskatt sats |
 |---------------|------------------------------|-----------------|
-| **Trinn 1**   | 208Â 051Â “Â 292Â 850Â kr         | 1,7 %           |
-| **Trinn 2**   | 292Â 851Â “Â 670Â 000Â kr         | 4,0 %           |
-| **Trinn 3**   | 670Â 001Â “Â 937Â 900Â kr         | 13,4 %          |
-| **Trinn 4**   | 937Â 901Â “Â 1Â 350Â 000Â kr       | 16,4 %          |
-| **Trinn 5**   | OverÂ 1Â 350Â 000Â kr            | 17,4 %          |
+| **Trinn 1**   | 208 051 “ 292 850 kr         | 1,7 %           |
+| **Trinn 2**   | 292 851 “ 670 000 kr         | 4,0 %           |
+| **Trinn 3**   | 670 001 “ 937 900 kr         | 13,4 %          |
+| **Trinn 4**   | 937 901 “ 1 350 000 kr       | 16,4 %          |
+| **Trinn 5**   | Over 1 350 000 kr            | 17,4 %          |
 
 *Satser for inntektsåret 2024.*
 
@@ -33,19 +33,19 @@ For å beregne trinnskatt følger du disse trinnene:
 
 ## Praktiske eksempler
 
-### Eksempel 1: Årsinntekt på 500Â 000Â kr
+### Eksempel 1: Årsinntekt på 500 000 kr
 
-- **Trinn 1**: 0Â kr innenfor trinn 1 (under nedre grense)
-- **Trinn 2**: (500Â 000Â krÂ “Â 292Â 851Â kr)Â Ã—Â 4,0Â %Â =Â 8Â 685,96Â kr
-- **Total trinnskatt**: 8Â 685,96Â kr
+- **Trinn 1**: 0 kr innenfor trinn 1 (under nedre grense)
+- **Trinn 2**: (500 000 kr “ 292 851 kr) Ã— 4,0 % = 8 685,96 kr
+- **Total trinnskatt**: 8 685,96 kr
 
-### Eksempel 2: Årsinntekt på 1Â 200Â 000Â kr
+### Eksempel 2: Årsinntekt på 1 200 000 kr
 
-- **Trinn 1**: (292Â 850Â krÂ “Â 208Â 051Â kr)Â Ã—Â 1,7Â %Â =Â 1Â 456,70Â kr
-- **Trinn 2**: (670Â 000Â krÂ “Â 292Â 850Â kr)Â Ã—Â 4,0Â %Â =Â 15Â 286Â kr
-- **Trinn 3**: (937Â 900Â krÂ “Â 670Â 000Â kr)Â Ã—Â 13,4Â %Â =Â 36Â 408Â kr
-- **Trinn 4**: (1Â 200Â 000Â krÂ “Â 937Â 900Â kr)Â Ã—Â 16,4Â %Â =Â 42Â 004Â kr
-- **Total trinnskatt**: 95Â 154,70Â kr
+- **Trinn 1**: (292 850 kr “ 208 051 kr) Ã— 1,7 % = 1 456,70 kr
+- **Trinn 2**: (670 000 kr “ 292 850 kr) Ã— 4,0 % = 15 286 kr
+- **Trinn 3**: (937 900 kr “ 670 000 kr) Ã— 13,4 % = 36 408 kr
+- **Trinn 4**: (1 200 000 kr “ 937 900 kr) Ã— 16,4 % = 42 004 kr
+- **Total trinnskatt**: 95 154,70 kr
 
 ## Regnskapsmessig behandling
 
@@ -58,7 +58,7 @@ I regnskapet bør trinnskatt:
 ## Tips for skatteoptimalisering
 
 * **Pensjonssparing**: Reduserer skattepliktig inntekt.
-* **BSU**: Gir skattefradrag på inntil 25Â 000Â kr per år.
+* **BSU**: Gir skattefradrag på inntil 25 000 kr per år.
 * **Frivillige innskudd**: Reduserer nettoinntekt og trinnskatt.
 * **Timing av inntekter**: Flytt inntektsføringer til lavere inntektsår.
 

@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7420 - Gaver, fradragsberettiget"
 seoTitle: "7420-gaver-fradragsberettiget"
-description: '**Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **fradragsberettigede gaver**.'
+description: '**Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **fradragsberettigede gaver**.'
 ---
 
-**Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **fradragsberettigede gaver**.
+**Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **fradragsberettigede gaver**.
 
 ![Illustrasjon av konto 7420 Gaver, fradragsberettiget](7420-gaver-fradragsberettiget-image.svg)
 
@@ -21,8 +21,8 @@ description: '**Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk S
 
 ## Skatteregler og begrensninger
 
-* **Grenseverdi for smågaver:** Inntil NOKÂ 200 per mottaker per år for gaver uten skattemessig konsekvens.
-* **Firmagaver:** Maksimalt NOKÂ 400 per mottaker per år ved jubileum eller høytid.
+* **Grenseverdi for smågaver:** Inntil NOK 200 per mottaker per år for gaver uten skattemessig konsekvens.
+* **Firmagaver:** Maksimalt NOK 400 per mottaker per år ved jubileum eller høytid.
 * **Dokumentasjon:** Oppbevar kvitteringer og liste over mottakere for å dokumentere fradragsrett.
 * **Formål:** Gaven må være knyttet til virksomhetens forretningsdrift.
 
@@ -32,9 +32,9 @@ For mer informasjon om skattefrie gaver til ansatte, se [Konto 5900 - Gaver til 
 
 ## Praktiske eksempler
 
-1. Virksomheten gir kunder gavekort på NOKÂ 150 ved større bestillinger.
-2. Leverandører får firmagave på NOKÂ 350 ved samarbeidets 10-årsjubileum.
-3. Ansatte mottar profilartikler til en verdi av NOKÂ 200 i forbindelse med bedriftsarrangement.
+1. Virksomheten gir kunder gavekort på NOK 150 ved større bestillinger.
+2. Leverandører får firmagave på NOK 350 ved samarbeidets 10-årsjubileum.
+3. Ansatte mottar profilartikler til en verdi av NOK 200 i forbindelse med bedriftsarrangement.
 
 
 

@@ -13,7 +13,7 @@ summary: "Kort forklart: Konto 4190 viser periodens lagerendring og påvirker dr
 
 *Beholdningsendring* (også kalt lagerendring) viser differansen mellom verdien av varelageret ved periodens slutt og ved periodens begynnelse. Formelt kan dette uttrykkes slik:
 
-> **Beholdningsendring = Varelager ved periodens slutt âˆ’ Varelager ved periodens begynnelse**
+> **Beholdningsendring = Varelager ved periodens slutt ˆ’ Varelager ved periodens begynnelse**
 
 En positiv beholdningsendring indikerer at lagerbeholdningen har økt i perioden, mens en negativ beholdningsendring viser at lagerbeholdningen har blitt redusert.
 
@@ -44,8 +44,8 @@ For mer om lagervurdering, se [Hva er Varelager?](/blogs/regnskap/hva-er-varelag
 
 ## Eksempler på beholdningsendring
 
-1. **Positiv beholdningsendring:** Hvis varelageret på krÂ 100Â 000 øker til krÂ 120Â 000, blir beholdningsendringen **+Â krÂ 20Â 000**.
-2. **Negativ beholdningsendring:** Hvis varelageret på krÂ 150Â 000 reduseres til krÂ 130Â 000, blir beholdningsendringen **âˆ’Â krÂ 20Â 000**.
+1. **Positiv beholdningsendring:** Hvis varelageret på kr 100 000 øker til kr 120 000, blir beholdningsendringen **+ kr 20 000**.
+2. **Negativ beholdningsendring:** Hvis varelageret på kr 150 000 reduseres til kr 130 000, blir beholdningsendringen **ˆ’ kr 20 000**.
 
 ## Praktiske tips
 

@@ -5,7 +5,7 @@ description: "Konto 2930 brukes til å registrere skyldig lønn som kortsiktig g
 summary: "Konto 2930: skyldig lønn. Når den brukes, periodisering og bokføring."
 ---
 
-**Konto 2930 - Lønn** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **skyldig lønn** som en del av **kortsiktig gjeld**.
+**Konto 2930 - Lønn** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **skyldig lønn** som en del av **kortsiktig gjeld**.
 
 ![Illustrasjon av konto 2930 Lønn](2930-lonn-image.svg)
 
@@ -52,7 +52,7 @@ En ansatt har påløpt lønn på 50–¯000 NOK i måneden:
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 2930:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 2930:
 
 * [Konto 2600 - Skyldig forskuddstrekk](/blogs/kontoplan/2600-forskuddstrekk "Konto 2600 - Skyldig forskuddstrekk")
 * [Konto 2610 - Påleggstrekk](/blogs/kontoplan/2610-paalleggstrekk "Konto 2610 - Påleggstrekk")

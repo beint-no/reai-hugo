@@ -39,9 +39,9 @@ Ved kjøp av spesialverktøy bør man vurdere:
 ## Eksempel på bokføring
 
 ```text
-Debet  Konto 6530 - Spesialverktøy        50Â 000Â NOK
-Debet  Konto 2710 - Inngående merverdiavgift 12Â 500Â NOK
-Kredit Konto 2400 - Leverandørgjeld       62Â 500Â NOK
+Debet  Konto 6530 - Spesialverktøy        50 000 NOK
+Debet  Konto 2710 - Inngående merverdiavgift 12 500 NOK
+Kredit Konto 2400 - Leverandørgjeld       62 500 NOK
 ```
 
 ## Fordeler med korrekt bruk av konto 6530

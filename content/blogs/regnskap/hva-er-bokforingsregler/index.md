@@ -184,7 +184,7 @@ Norske virksomheter følger et standardisert kontoplansystem som sikrer konsiste
 | Virksomhetstype | Revisjonsplikt | Grunnlag |
 |---|---|---|
 | Allmennaksjeselskap (ASA) | Ja, alltid | Allmennaksjeloven |
-| Aksjeselskap (AS) | Ja, med unntak | Aksjeloven Â§ 7-1 |
+| Aksjeselskap (AS) | Ja, med unntak | Aksjeloven § 7-1 |
 | Stiftelser | Avhengig av størrelse | Stiftelsesloven |
 | Foreninger | Avhengig av aktivitet | Særlovgivning |
 

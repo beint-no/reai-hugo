@@ -26,21 +26,21 @@ Der:
 
 | **Eiendomstype/Eiendel**   | **Standardprosent** | **Kommentar**                            |
 |----------------------------|---------------------|------------------------------------------|
-| Primærbolig                | 25Â %                | Eierbolig brukt som hovedbosted         |
-| Sekundærbolig/Fritidsbolig | 25Â %                | Hytte eller fritidsbolig                 |
-| Næringseiendom             | 100Â %               | Næringseiendom og kommersielle bygg      |
-| Aksjer (børsnoterte)       | 100Â %               | Børsverdi på beregningstidspunktet       |
-| Aksjer (unoterte)          | 60Â %                | Estimert markedsverdi ved sammenlignbare transaksjoner |
-| Bankinnskudd               | 100Â %               | Nominell verdi                            |
+| Primærbolig                | 25 %                | Eierbolig brukt som hovedbosted         |
+| Sekundærbolig/Fritidsbolig | 25 %                | Hytte eller fritidsbolig                 |
+| Næringseiendom             | 100 %               | Næringseiendom og kommersielle bygg      |
+| Aksjer (børsnoterte)       | 100 %               | Børsverdi på beregningstidspunktet       |
+| Aksjer (unoterte)          | 60 %                | Estimert markedsverdi ved sammenlignbare transaksjoner |
+| Bankinnskudd               | 100 %               | Nominell verdi                            |
 
 ## Eksempler på Ligningsverdi
 
 | **Eiendel**        | **Markedsverdi (NOK)** | **Prosentsats** | **Ligningsverdi (NOK)** |
 |--------------------|------------------------|-----------------|-------------------------|
-| Primærbolig        | 5Â 000Â 000              | 25Â %            | 1Â 250Â 000               |
-| Hytte              | 2Â 000Â 000              | 25Â %            | 500Â 000                 |
-| Børsnoterte aksjer | 300Â 000                | 100Â %           | 300Â 000                 |
-| Unoterte aksjer    | 500Â 000                | 60Â %            | 300Â 000                 |
+| Primærbolig        | 5 000 000              | 25 %            | 1 250 000               |
+| Hytte              | 2 000 000              | 25 %            | 500 000                 |
+| Børsnoterte aksjer | 300 000                | 100 %           | 300 000                 |
+| Unoterte aksjer    | 500 000                | 60 %            | 300 000                 |
 
 ## Betydning for Skatt og Regnskap
 

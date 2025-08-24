@@ -21,9 +21,9 @@ description: '**Konto 6340 - Lys, varme** er en konto i Norsk Standard Kontoplan
 
 | Kostnadstype           | Eksempelverdi  | Andel (%) |
 |------------------------|----------------|-----------|
-| Lysforbruk             | 3Â 000Â NOK      | 30–¯%      |
-| Varmeforbruk           | 5Â 000Â NOK      | 50–¯%      |
-| Vedlikehold og service | 2Â 000Â NOK      | 20–¯%      |
+| Lysforbruk             | 3 000 NOK      | 30–¯%      |
+| Varmeforbruk           | 5 000 NOK      | 50–¯%      |
+| Vedlikehold og service | 2 000 NOK      | 20–¯%      |
 
 ## Regnskapsføring av lys- og varmekostnader
 
@@ -36,7 +36,7 @@ description: '**Konto 6340 - Lys, varme** er en konto i Norsk Standard Kontoplan
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 8Â 000Â NOK             | 25–¯%       | 10Â 000Â NOK         |
+| 8 000 NOK             | 25–¯%       | 10 000 NOK         |
 
 ## Budsjett og prognoser
 
@@ -44,9 +44,9 @@ God **budsjettstyring** krever at lys- og varmekostnader inngår i det løpende 
 
 | Måned | Forbruk Lys (NOK) | Forbruk Varme (NOK) | Total (NOK) |
 |-------|-------------------|---------------------|-------------|
-| Jan   | 2Â 500             | 4Â 200               | 6Â 700       |
-| Feb   | 2Â 800             | 4Â 500               | 7Â 300       |
-| Mar   | 2Â 900             | 4Â 800               | 7Â 700       |
+| Jan   | 2 500             | 4 200               | 6 700       |
+| Feb   | 2 800             | 4 500               | 7 300       |
+| Mar   | 2 900             | 4 800               | 7 700       |
 
 ## Miljø og bærekraft
 
@@ -65,7 +65,7 @@ Ved å følge kostnader på konto 6340 kan virksomheter dokumentere energiforbru
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6340:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6340:
 
 * [Konto 6200 - Elektrisitet](/blogs/kontoplan/6200-elektrisitet "Konto 6200 - Elektrisitet")
 * [Konto 6210 - Gass](/blogs/kontoplan/6210-gass "Konto 6210 - Gass")

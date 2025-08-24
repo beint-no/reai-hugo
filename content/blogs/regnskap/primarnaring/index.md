@@ -45,7 +45,7 @@ Primærnæringer har høyere omsetningsgrense for MVA-plikt:
 
 | Virksomhetstype  | Omsetningsgrense | Registreringsplikt |
 |------------------|------------------|--------------------|
-| Primærnæringer   | 70Â 000 kr        | Obligatorisk       |
+| Primærnæringer   | 70 000 kr        | Obligatorisk       |
 
 For mer om MVA-plikt i primærnæringer, se [Hva er Avgiftsplikt (MVA)?](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge").
 

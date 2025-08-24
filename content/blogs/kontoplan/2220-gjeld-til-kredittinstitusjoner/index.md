@@ -5,7 +5,7 @@ description: "Konto 2220 brukes til å registrere gjeld til kredittinstitusjoner
 summary: "Konto 2220: gjeld til kredittinstitusjoner, hva som inngår, og hvordan det bokføres og presenteres i balansen."
 ---
 
-**Konto 2220 - Gjeld til kredittinstitusjoner** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **gjeld til kredittinstitusjoner**, det vil si lån, kassekreditt og andre kredittavtaler inngått med banker og finansinstitusjoner.
+**Konto 2220 - Gjeld til kredittinstitusjoner** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **gjeld til kredittinstitusjoner**, det vil si lån, kassekreditt og andre kredittavtaler inngått med banker og finansinstitusjoner.
 
 ![Illustrasjon av konto 2220 gjeld til kredittinstitusjoner](2220-gjeld-til-kredittinstitusjoner-image.svg)
 
@@ -46,7 +46,7 @@ _*Resultat- og balanseposter kan variere ved avtaler med avdragsfrihet eller ren
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2220:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2220:
 
 * [Konto 2200 - Konvertible lån](/blogs/kontoplan/2200-konvertible-lan "Konto 2200 - Konvertible lån i Norsk Standard Kontoplan")
 * [Konto 2300 - Konvertible lån](/blogs/kontoplan/2300-konvertible-lan "Konto 2300 - Konvertible lån i Norsk Standard Kontoplan")

@@ -53,11 +53,11 @@ Debet/Kredit: Konto 8170 - Urealiserte gevinster/tap verdipapirer YYY kroner
 
 ## Bokføringseksempel
 
-En bedrift inngår en valutaterminkontrakt for 100–¯000Â EUR:
+En bedrift inngår en valutaterminkontrakt for 100–¯000 EUR:
 
 ```plaintext
-Debet: Konto 1880 - Andre finansielle instrumenter        900Â 000Â kr
-Kredit: Konto 1920 - Bankinnskudd                         900Â 000Â kr
+Debet: Konto 1880 - Andre finansielle instrumenter        900 000 kr
+Kredit: Konto 1920 - Bankinnskudd                         900 000 kr
 ```
 
 ## Relaterte artikler

@@ -30,9 +30,9 @@ Eksempel på beregning:
 
 | Post          | Beløp (kr) |
 |---------------|------------|
-| Inntekter     | 1Â 000Â 000  |
-| Kostnader     |  Â 750Â 000  |
-| **Bunnlinje** |  Â 250Â 000  |
+| Inntekter     | 1 000 000  |
+| Kostnader     |   750 000  |
+| **Bunnlinje** |   250 000  |
 
 ## Eksempelgrafikk
 

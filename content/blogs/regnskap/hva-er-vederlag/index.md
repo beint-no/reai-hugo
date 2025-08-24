@@ -37,7 +37,7 @@ For å måle vederlag må man vurdere pris, mengde og eventuelle rabatt- eller r
 I praksis beregnes vederlaget ofte slik:
 
 ```text
-Vederlag = Enhetspris Ã— Antall âˆ’ Rabatter âˆ’ Returer
+Vederlag = Enhetspris Ã— Antall ˆ’ Rabatter ˆ’ Returer
 ```
 
 ## Relevans i Regnskap

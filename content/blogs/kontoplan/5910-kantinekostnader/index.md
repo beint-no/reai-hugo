@@ -1,10 +1,10 @@
 ﻿---
 title: "Hva er Konto 5910 - Kantinekostnader?"
 seoTitle: "5910-kantinekostnader"
-description: '**Konto 5910 - Kantinekostnader** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kantinekostnader** som en **ansattfordel*...'
+description: '**Konto 5910 - Kantinekostnader** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kantinekostnader** som en **ansattfordel*...'
 ---
 
-**Konto 5910 - Kantinekostnader** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kantinekostnader** som en **ansattfordel** for bedriftens ansatte.
+**Konto 5910 - Kantinekostnader** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kantinekostnader** som en **ansattfordel** for bedriftens ansatte.
 
 ![Illustrasjon av konto 5910 Kantinekostnader](5910-kantinekostnader-image.svg)
 
@@ -62,7 +62,7 @@ Kredit: Konto 2400 - Leverandørgjeld      10–¯000 kr
 * [Konto 5230 - Fri losji og bolig](/blogs/kontoplan/5230-fri-losji-og-bolig "Konto 5230 - Fri losji og bolig")
 * [Konto 5240 - Rentefordel](/blogs/kontoplan/5240-rentefordel "Konto 5240 - Rentefordel")
 * [Konto 5280 - Annen fordel i arbeidsforhold](/blogs/kontoplan/5280-annen-fordel-i-arbeidsforhold "Konto 5280 - Annen fordel i arbeidsforhold")
-* [Konto 5290 - Motkonto for gruppeÂ 52](/blogs/kontoplan/5290-motkonto-for-gruppe-52 "Konto 5290 - Motkonto for gruppeÂ 52")
+* [Konto 5290 - Motkonto for gruppe 52](/blogs/kontoplan/5290-motkonto-for-gruppe-52 "Konto 5290 - Motkonto for gruppe 52")
 * [Konto 5500 - Annen kostnadsgodtgjørelse](/blogs/kontoplan/5500-annen-kostnadsgodtgjorelse "Konto 5500 - Annen kostnadsgodtgjørelse")
 * [Konto 5900 - Gaver til ansatte](/blogs/kontoplan/5900-gaver-til-ansatte "Konto 5900 - Gaver til ansatte")
 * [Konto 5920 - Yrkesskadeforsikring](/blogs/kontoplan/5920-yrkesskadeforsikring "Konto 5920 - Yrkesskadeforsikring")

@@ -69,12 +69,12 @@ Ved **anskaffelse** av andre rettigheter registreres [anskaffelseskostnaden](/bl
 
 | Kostnadskategori | Inkluderes | Eksempel |
 |------------------|------------|----------|
-| **Kjøpspris** | âœ“ | Faktisk betalt beløp |
-| **Juridiske kostnader** | âœ“ | Advokat- og notariuskostnader |
-| **Konsulenthonorar** | âœ“ | Profesjonelle tjenester |
-| **Registreringsgebyrer** | âœ“ | Offentlige avgifter |
-| **Transaksjonskostnader** | âœ“ | Meglerkostnader |
-| **Vedlikeholdskostnader** | âœ— | Kostnadsføres løpende |
+| **Kjøpspris** | œ“ | Faktisk betalt beløp |
+| **Juridiske kostnader** | œ“ | Advokat- og notariuskostnader |
+| **Konsulenthonorar** | œ“ | Profesjonelle tjenester |
+| **Registreringsgebyrer** | œ“ | Offentlige avgifter |
+| **Transaksjonskostnader** | œ“ | Meglerkostnader |
+| **Vedlikeholdskostnader** | œ— | Kostnadsføres løpende |
 
 ### Internt utviklede rettigheter
 For **internt utviklede rettigheter** kan disse kostnadene aktiveres:

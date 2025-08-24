@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 5820 - Refusjon av arbeidsgiveravgift"
 seoTitle: "5820-refusjon-av-arbeidsgiveravgift"
-description: '**Konto 5820 - Refusjon av arbeidsgiveravgift** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **refusjon av arbeidsgiveravg...'
+description: '**Konto 5820 - Refusjon av arbeidsgiveravgift** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **refusjon av arbeidsgiveravg...'
 ---
 
-**Konto 5820 - Refusjon av arbeidsgiveravgift** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **refusjon av arbeidsgiveravgift** fra myndighetene som en reduksjon av arbeidsgiveravgiftskostnader.
+**Konto 5820 - Refusjon av arbeidsgiveravgift** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **refusjon av arbeidsgiveravgift** fra myndighetene som en reduksjon av arbeidsgiveravgiftskostnader.
 
 ![Illustrasjon av konto 5820 Refusjon av arbeidsgiveravgift](5820-refusjon-av-arbeidsgiveravgift-image.svg)
 
@@ -35,7 +35,7 @@ description: '**Konto 5820 - Refusjon av arbeidsgiveravgift** er en konto i **No
 
 ## Eksempel på bokføring
 
-En virksomhet mottar en refusjon på 5–¯000Â NOK for arbeidsgiveravgift:
+En virksomhet mottar en refusjon på 5–¯000 NOK for arbeidsgiveravgift:
 
 | Beskrivelse                            | Debet (NOK) | Kredit (NOK) |
 |----------------------------------------|------------:|-------------:|
@@ -50,7 +50,7 @@ En virksomhet mottar en refusjon på 5–¯000Â NOK for arbeidsgiveravgift:
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 5820:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 5820:
 
 * [Konto 5400 - Arbeidsgiveravgift](/blogs/kontoplan/5400-arbeidsgiveravgift "Konto 5400 - Arbeidsgiveravgift")
 * [Konto 2770 - Skyldig arbeidsgiveravgift](/blogs/kontoplan/2770-skyldig-arbeidsgiveravgift "Konto 2770 - Skyldig arbeidsgiveravgift")

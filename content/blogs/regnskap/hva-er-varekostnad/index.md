@@ -349,7 +349,7 @@ Inkluderer kun variable kostnader direkte knyttet til varen:
 | **Aktivitet** | **Kostnadrdriver** | **Eksempel** |
 |---------------|-------------------|--------------|
 | **Innkjøp** | Antall bestillinger | 500 kr per bestilling |
-| **Lagerhold** | Kubikkmeter lagerplass | 100 kr per mÂ³ måned |
+| **Lagerhold** | Kubikkmeter lagerplass | 100 kr per m³ måned |
 | **Kvalitetskontroll** | Antall tester | 50 kr per test |
 | **Transport** | Vekt og avstand | 2 kr per kg/km |
 

@@ -23,7 +23,7 @@ En komplett tolldeklarasjon inneholder flere obligatoriske opplysninger som må 
 | **Declarant**             | Registrert identifikasjon av deklarant (EORI‘nummer) | NO123456789                       |
 | **Varens beskrivelse**    | Detaljert beskrivelse av varen                      | Kontormøbler, stoler og bord      |
 | **KN‘nummer**             | Kombinert Nomenklatur (tariffkode)                  | 94033000                          |
-| **Tollverdi (CIF)**       | Verdi inkl. forsikring og frakt frem til grensen    | 50Â 000 NOK                        |
+| **Tollverdi (CIF)**       | Verdi inkl. forsikring og frakt frem til grensen    | 50 000 NOK                        |
 | **Opprinnelsesland**      | Land der varen er fremstilt eller bearbeidet         | DE (Tyskland)                     |
 | **Mengde og vekt**        | Antall enheter og totalvekt                          | 100 enheter, 750 kg               |
 | **Leverandørfaktura**     | Referanse til original faktura fra leverandør       | INV‘2024‘0456                     |
@@ -63,9 +63,9 @@ Tolldeklarasjoner er regnskapsbilag og omfattes av krav til oppbevaring i henhol
 
 | **Dokumenttype**         | **Oppbevaringstid** | **Lovgrunnlag**                               |
 |--------------------------|---------------------|------------------------------------------------|
-| **Tolldeklarasjon**      | Minst 5 år          | Bokføringsforskriften Â§ 13-2, Tolloven Â§ 12-1  |
-| **Leverandørfaktura**    | Minst 5 år          | Bokføringsforskriften Â§ 13-2                  |
-| **Transportdokumenter**  | Minst 5 år          | Bokføringsforskriften Â§ 13-2                  |
+| **Tolldeklarasjon**      | Minst 5 år          | Bokføringsforskriften § 13-2, Tolloven § 12-1  |
+| **Leverandørfaktura**    | Minst 5 år          | Bokføringsforskriften § 13-2                  |
+| **Transportdokumenter**  | Minst 5 år          | Bokføringsforskriften § 13-2                  |
 
 For mer informasjon om oppbevaringskrav, se [Oppbevaring av regnskapsmateriale](/blogs/regnskap/oppbevaring-av-regnskapsmateriale "Oppbevaring av Regnskapsmateriale - Krav og frister").
 

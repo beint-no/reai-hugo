@@ -41,7 +41,7 @@ _*Tilpass resultatkontoer etter selskapets kontoplan og transaksjonstype.*_
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2180:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2180:
 
 * [Konto 1580 - Avsetning tap på fordringer](/blogs/kontoplan/1580-avsetning-tap-pa-fordringer "Konto 1580 - Avsetning tap på fordringer: Guide til tapsavsetninger for fordringer i Norsk kontoplan")
 * [Konto 7860 - Tap på kontrakter](/blogs/kontoplan/7860-tap-pa-kontrakter "Konto 7860 - Tap på kontrakter")

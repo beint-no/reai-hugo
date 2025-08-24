@@ -36,7 +36,7 @@ Saldo på konto 2160 presenteres som **kortsiktig gjeld (omløpsforpliktelser)**
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2160:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2160:
 
 * [Konto 1530 - Opptjent ikke fakturert inntekt](/blogs/kontoplan/1530-opptjent-ikke-fakturert-inntekt "Konto 1530 - Opptjent ikke fakturert inntekt")
 * [Konto 1790 - Interimskonto](/blogs/kontoplan/1790-interimskonto "Konto 1790 - Interimskonto")

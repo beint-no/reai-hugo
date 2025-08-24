@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er BankID?"
-seoTitle: "Hva er BankID?"
-description: 'BankID er **den mest brukte digitale identitets- og signaturløsningen** i Norge, og spiller en sentral rolle innen **regnskap**, **banktjenester** og **offentl...'
+seoTitle: "BankID | Slik brukes BankID i regnskap og bank"
+description: "BankID er den mest brukte løsningen for digital identitet og signering i Norge. Her får du en rask forklaring av hva BankID er, bruksområder i regnskap og bank, og hvordan sikkerheten ivaretas."
+summary: "Kort forklaring av BankID: hva det er, hvordan det brukes i regnskap og bank, og hvilke fordeler det gir."
 ---
 
 BankID er **den mest brukte digitale identitets- og signaturløsningen** i Norge, og spiller en sentral rolle innen **regnskap**, **banktjenester** og **offentlige systemer**. Med BankID kan brukere autentisere seg sikkert og signere dokumenter elektronisk, noe som forenkler arbeidsflyter og ivaretar strenge sikkerhetskrav.

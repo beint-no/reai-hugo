@@ -169,7 +169,7 @@ Arbeidskapital fremkommer ikke direkte i [regnskapet](/blogs/regnskap/hva-er-reg
 
 **EIENDELER (AKTIVA)**
 * Anleggsmidler
-* **Omløpsmidler** â† Del av arbeidskapital
+* **Omløpsmidler** † Del av arbeidskapital
   - Varelager
   - Kundefordringer
   - Kontanter og bankinnskudd
@@ -177,7 +177,7 @@ Arbeidskapital fremkommer ikke direkte i [regnskapet](/blogs/regnskap/hva-er-reg
 **GJELD OG EGENKAPITAL**
 * Egenkapital
 * Langsiktig gjeld
-* **Kortsiktig gjeld** â† Del av arbeidskapital
+* **Kortsiktig gjeld** † Del av arbeidskapital
   - Leverandørgjeld
   - Annen kortsiktig gjeld
 

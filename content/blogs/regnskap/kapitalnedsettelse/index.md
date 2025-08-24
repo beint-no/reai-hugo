@@ -41,8 +41,8 @@ Kapitalnedsettelse reguleres av [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "
 
 | Beskrivelse                                                   | Beløp (NOK) |
 |---------------------------------------------------------------|-------------|
-| Kapitalnedsettelse for tilbakebetaling (1000 aksjer Ã— 5Â kr)   | 5Â 000       |
-| Underskudd dekket ved kapitalreduksjon                         | 10Â 000      |
+| Kapitalnedsettelse for tilbakebetaling (1000 aksjer Ã— 5 kr)   | 5 000       |
+| Underskudd dekket ved kapitalreduksjon                         | 10 000      |
 
 ## Fordeler og ulemper
 

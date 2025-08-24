@@ -52,7 +52,7 @@ Denne prosessen hjelper deg å sikre korrekt og rettidig innsending:
 Altinn er den digitale plattformen for innlevering av skattemelding. Følg disse trinnene:
 
 1. Gå til din innboks i Altinn
-2. Velg skjema RF-1175 / RF-1167 under Â«InnrapporteringÂ»
+2. Velg skjema RF-1175 / RF-1167 under «Innrapportering»
 3. Fyll ut eller last opp ferdig utfylt XML
 4. Send inn og noter bekreftelses-ID
 

@@ -25,7 +25,7 @@ summary: "Hva er æresgjeld, og hvordan håndteres den i norsk regnskap? Oversik
 Regnskapsføring av æresgjeld krever at virksomheten vurderer prinsippene for pålitelig måling og dokumentasjon:
 
 * **Vurder erstattes:** Før formell gjeldsbekreftelse må beløpet vurderes og dokumenteres internt
-* **Klassifisering:** Legges til Â«Annen kortsiktig gjeldÂ» når forpliktelsen er bekreftet
+* **Klassifisering:** Legges til «Annen kortsiktig gjeld» når forpliktelsen er bekreftet
 * **Noteopplysninger:** Forklar formål, beløp og tilbakebetalingsvilkår i noter til [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon")
 
 ## Risiko og vurderinger

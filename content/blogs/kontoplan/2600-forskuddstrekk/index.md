@@ -71,7 +71,7 @@ For å sikre korrekt regnskapsrapportering bør man regelmessig avstemme saldoen
 * [Konto 1950 - Bankinnskudd for skattetrekk](/blogs/kontoplan/1950-bankinnskudd-for-skattetrekk "Konto 1950 - Bankinnskudd for skattetrekk")
 * [Konto 2500 - Betalbar skatt, ikke utlignet](/blogs/kontoplan/2500-betalbar-skatt-ikke-utlignet "Konto 2500 - Betalbar skatt, ikke utlignet")
 * [Konto 2510 - Betalbar skatt, utlignet](/blogs/kontoplan/2510-betalbar-skatt-utlignet "Konto 2510 - Betalbar skatt, utlignet")
-* [Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd](/blogs/kontoplan/2530-refusjon-skatt-etter-skatteloven-31-5-ledd "Konto 2530 - Refusjon skatt etter Skatteloven Â§31 5. ledd")
+* [Konto 2530 - Refusjon skatt etter Skatteloven §31 5. ledd](/blogs/kontoplan/2530-refusjon-skatt-etter-skatteloven-31-5-ledd "Konto 2530 - Refusjon skatt etter Skatteloven §31 5. ledd")
 * [Konto 2540 - Forhåndsskatt](/blogs/kontoplan/2540-forhaandskatt "Konto 2540 - Forhåndsskatt")
 * [Konto 2610 - Påleggstrekk](/blogs/kontoplan/2610-paalleggstrekk "Konto 2610 - Påleggstrekk")
 * [Konto 2620 - Bidragstrekk](/blogs/kontoplan/2620-bidragstrekk "Konto 2620 - Bidragstrekk")

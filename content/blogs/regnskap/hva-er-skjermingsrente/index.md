@@ -22,17 +22,17 @@ description: '**Skjermingsrente** er den **risikofrie renten** som brukes til å
 
 **Teoretisk sammenheng:**
 ```
-Skjermingsrente = Risikofri rente â‰ˆ Statsobligasjonsrente (3 år)
+Skjermingsrente = Risikofri rente ‰ˆ Statsobligasjonsrente (3 år)
 ```
 
 ### 1.2 Juridisk Forankring
 
-**Skjermingsrenten** er hjemlet i **skatteloven Â§ 10-12** og tilhørende forskrifter:
+**Skjermingsrenten** er hjemlet i **skatteloven § 10-12** og tilhørende forskrifter:
 
 | **Regelverknivå** | **Bestemmelse** | **Innhold** |
 |-------------------|-----------------|-------------|
-| **Skatteloven** | Â§ 10-12 | Grunnleggende skjermingsprinsipp |
-| **FSFIN** | Â§ 10-12 | Detaljerte beregningsregler |
+| **Skatteloven** | § 10-12 | Grunnleggende skjermingsprinsipp |
+| **FSFIN** | § 10-12 | Detaljerte beregningsregler |
 | **Skattedirektoratet** | Årlig vedtak | Fastsettelse av rentesats |
 
 #### Sentrale definisjoner:
@@ -497,8 +497,8 @@ Skjermingseffekter allokeres til segmenter basert på:
 
 **Teknisk arkitektur:**
 ```
-Data Sources â†’ Processing Engine â†’ Calculation Module â†’ Reporting Interface
-    â†“              â†“                  â†“                 â†“
+Data Sources †’ Processing Engine †’ Calculation Module †’ Reporting Interface
+    †“              †“                  †“                 †“
 Børsdata       Real-time          Skjermings-       Dashboard +
 Rentekurver    oppdatering        beregning         Rapporter
 Transaksjoner  Validering         Optimalisering    Compliance
@@ -716,7 +716,7 @@ Q3: Systemoppdateringer og forbedringer
 
 **Oppbevaringskrav:**
 ```
-Skatteloven Â§ 10-12: Minimum 10 år
+Skatteloven § 10-12: Minimum 10 år
 Bokføringsloven: 5 år for transaksjonsdata
 Best practice: Permanent digital arkiv
 ```
@@ -756,7 +756,7 @@ Blockchain-basert lagring:
 **Historisk volatilitet:**
 ```
 Skjermingsrente standardavvik (2006-2024): 1,2 prosentpoeng
-95% konfidensintervall: Â±2,4 prosentpoeng
+95% konfidensintervall: ±2,4 prosentpoeng
 Maksimal årlig endring: +2,5 prosentpoeng (2022)
 ```
 

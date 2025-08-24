@@ -5,7 +5,7 @@ description: "Konto 2100 brukes til å registrere pensjonsforpliktelser som lang
 summary: "Konto 2100: oversikt over pensjonsforpliktelser i regnskapet, periodisering, balanseføring og bokføring."
 ---
 
-**Konto 2100 - Pensjonsforpliktelser** er en konto innen **langsiktige forpliktelser** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **pensjonsforpliktelser** for ansatte.
+**Konto 2100 - Pensjonsforpliktelser** er en konto innen **langsiktige forpliktelser** i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **pensjonsforpliktelser** for ansatte.
 
 ![Illustrasjon av konto 2100 pensjonsforpliktelser](2100-pensjonsforpliktelser-image.svg)
 

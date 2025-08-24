@@ -13,7 +13,7 @@ description: '**Konto 6220 - Fyringsolje** er en konto i Norsk Standard Kontopla
 *Fyringsolje* omfatter kostnader forbundet med **oppvarming** ved bruk av olje, inkludert:
 
 * **Løpende forbruk** av fyringsolje for oppvarming av bygg og anlegg.
-* **Miljørelaterte avgifter** som COâ‚‚-avgift og fyringsoljeavgift.
+* **Miljørelaterte avgifter** som CO‚‚-avgift og fyringsoljeavgift.
 
 ## Regnskapsføring av fyringsoljekostnader
 
@@ -26,7 +26,7 @@ description: '**Konto 6220 - Fyringsolje** er en konto i Norsk Standard Kontopla
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 15Â 000 NOK            | 25Â %       | 18Â 750 NOK         |
+| 15 000 NOK            | 25 %       | 18 750 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -36,7 +36,7 @@ description: '**Konto 6220 - Fyringsolje** er en konto i Norsk Standard Kontopla
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6220:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6220:
 
 * [Konto 6200 - Elektrisitet](/blogs/kontoplan/6200-elektrisitet "Konto 6200 - Elektrisitet")
 * [Konto 6210 - Gass](/blogs/kontoplan/6210-gass "Konto 6210 - Gass")

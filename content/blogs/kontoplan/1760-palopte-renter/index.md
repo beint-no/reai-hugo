@@ -35,7 +35,7 @@ Ved årsavslutning presenteres saldo på konto 1760 som **kortsiktig gjeld**, vu
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 1760:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 1760:
 
 * [Konto 1710 - Forskuddsbetalte renter](/blogs/kontoplan/1710-forskuddsbetalte-renter "Konto 1710 - Forskuddsbetalte renter: Regnskapsføring av forskuddsbetalte renteutgifter")
 * [Konto 1750 - Påløpte leier](/blogs/kontoplan/1750-palopte-leier "Konto 1750 - Påløpte leier: Regnskapsføring av påløpte leiekostnader")

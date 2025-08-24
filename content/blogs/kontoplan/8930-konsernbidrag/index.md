@@ -31,11 +31,11 @@ For at konsernbidrag skal være gyldig, må flere **vilkår** være oppfylt:
 
 ## Eksempel på bokføring
 
-Givende selskap yter konsernbidrag på 500–¯000Â kr til datterselskap:
+Givende selskap yter konsernbidrag på 500–¯000 kr til datterselskap:
 
 ```plaintext
-Debet: Konto 8930 - Konsernbidrag   500Â 000Â kr
-Kredit: Konto 1920 - Bankinnskudd    500Â 000Â kr
+Debet: Konto 8930 - Konsernbidrag   500 000 kr
+Kredit: Konto 1920 - Bankinnskudd    500 000 kr
 ```
 
 ## Relaterte artikler

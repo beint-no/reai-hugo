@@ -158,7 +158,7 @@ Bruttofortjeneste er grunnlaget for flere viktige [nøkkeltall](/blogs/regnskap/
 | Nøkkeltall | Beregning | Formål |
 |------------|-----------|---------|
 | **Bruttofortjeneste per ansatt** | Bruttofortjeneste / Antall ansatte | Produktivitetsmåling |
-| **Bruttofortjeneste per mÂ²** | Bruttofortjeneste / Butikkareal | Effektivitet i detaljhandel |
+| **Bruttofortjeneste per m²** | Bruttofortjeneste / Butikkareal | Effektivitet i detaljhandel |
 | **Bruttofortjeneste per kunde** | Bruttofortjeneste / Antall kunder | Kundelønnsomhet |
 
 ![Nøkkeltall Dashboard](nokkeltall-dashboard.svg)

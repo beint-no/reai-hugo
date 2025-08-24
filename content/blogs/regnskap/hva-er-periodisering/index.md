@@ -226,9 +226,9 @@ En systematisk tilnærming til periodisering:
 
 | **Område** | **Sjekkliste** |
 |-----------|---------------|
-| **Inntekter** | â˜ Utført arbeid ikke fakturert<br>â˜ Opptjente renter<br>â˜ Forskuddsbetalt fra kunder |
-| **Kostnader** | â˜ Mottatte varer/tjenester uten faktura<br>â˜ Påløpte lønnskostnader<br>â˜ Rentebelastninger |
-| **Forskudd** | â˜ Forhåndsbetalte forsikringer<br>â˜ Forskuddsbetalt husleie<br>â˜ Programvarelisenser |
+| **Inntekter** | ˜ Utført arbeid ikke fakturert<br>˜ Opptjente renter<br>˜ Forskuddsbetalt fra kunder |
+| **Kostnader** | ˜ Mottatte varer/tjenester uten faktura<br>˜ Påløpte lønnskostnader<br>˜ Rentebelastninger |
+| **Forskudd** | ˜ Forhåndsbetalte forsikringer<br>˜ Forskuddsbetalt husleie<br>˜ Programvarelisenser |
 
 ### 6.3 Systemstøtte og Automatisering
 

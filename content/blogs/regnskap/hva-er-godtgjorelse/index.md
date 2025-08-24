@@ -196,7 +196,7 @@ Moderne bedrifter implementerer digitale systemer for:
 
 [Arbeidsmiljøloven](https://lovdata.no/dokument/NL/lov/2005-06-17-62) regulerer arbeidsgivers plikt til å dekke nødvendige utgifter:
 
-* **Â§ 14-15:** Arbeidsgiver skal dekke nødvendige utgifter ved tjenestereiser
+* **§ 14-15:** Arbeidsgiver skal dekke nødvendige utgifter ved tjenestereiser
 * **Rimelighetsprinsippet:** Utgifter må være rimelige og nødvendige
 * **Dokumentasjonsplikt:** Arbeidstaker må dokumentere utgiftene
 
@@ -204,8 +204,8 @@ Moderne bedrifter implementerer digitale systemer for:
 
 Skattemessig behandling reguleres av:
 
-* **Skatteloven Â§ 5-1:** Definisjon av skattepliktig inntekt
-* **Skatteloven Â§ 6-44:** Fradrag for reisekostnader
+* **Skatteloven § 5-1:** Definisjon av skattepliktig inntekt
+* **Skatteloven § 6-44:** Fradrag for reisekostnader
 * **FSFIN (Finansdepartementets forskrift):** Detaljerte regler for godtgjørelser
 
 ### 6.3 Bokføringsloven

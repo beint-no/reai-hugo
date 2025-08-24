@@ -5,7 +5,7 @@ description: "Konto 2200 brukes til å registrere konvertible lån, lån som kan
 summary: "Konto 2200: konvertible lån, hvordan de fungerer og hvordan de bokføres og presenteres i balansen."
 ---
 
-**Konto 2200 - Konvertible lån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **konvertible lån**, dvs. lån som gir långiver rett til å konvertere gjelden til egenkapital under gitte vilkår.
+**Konto 2200 - Konvertible lån** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **konvertible lån**, dvs. lån som gir långiver rett til å konvertere gjelden til egenkapital under gitte vilkår.
 
 ![Illustrasjon av konto 2200 konvertible lån](2200-konvertible-lan-image.svg)
 
@@ -45,7 +45,7 @@ _*Resultat- og balanseposter kan variere etter selskapets kontoplan.*_
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte benyttes sammen med konto 2200:
+Andre kontoer i NS 4102 som ofte benyttes sammen med konto 2200:
 
 * [Konto 2100 - Pensjonsforpliktelser](/blogs/kontoplan/2100-pensjonsforpliktelser "Konto 2100 - Pensjonsforpliktelser i Norsk Standard Kontoplan")
 * [Konto 2120 - Utsatt skatt](/blogs/kontoplan/2120-utsatt-skatt "Konto 2120 - Utsatt skatt i Norsk Standard Kontoplan")

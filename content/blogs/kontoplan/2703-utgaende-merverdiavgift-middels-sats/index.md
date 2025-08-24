@@ -30,8 +30,8 @@ summary: "Konto 2703: oppgjør av utgående MVA middels sats. Bruk, avstemming o
 
 | Salgsbeløp uten MVA | MVA (15–¯%)   | Salgsbeløp inkl. MVA |
 |---------------------|--------------|----------------------|
-| 8–¯000Â NOK           | 1–¯200Â NOK    | 9–¯200Â NOK            |
-| 20–¯000Â NOK          | 3–¯000Â NOK    | 23–¯000Â NOK           |
+| 8–¯000 NOK           | 1–¯200 NOK    | 9–¯200 NOK            |
+| 20–¯000 NOK          | 3–¯000 NOK    | 23–¯000 NOK           |
 
 ## Fordeler med egen oppgjørskonto for middels sats
 

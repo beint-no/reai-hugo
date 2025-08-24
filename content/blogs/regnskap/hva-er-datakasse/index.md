@@ -35,7 +35,7 @@ En **datakasse** er et integrert system som kombinerer kassefunksjonalitet med r
 
 ### Bokføringsloven og Datakasse
 
-I henhold til **bokføringsloven Â§ 5** må alle forretningshendelser dokumenteres forsvarlig. For kontantsalg innebærer dette:
+I henhold til **bokføringsloven § 5** må alle forretningshendelser dokumenteres forsvarlig. For kontantsalg innebærer dette:
 
 * **Umiddelbar registrering** av alle transaksjoner
 * **Sikker oppbevaring** av transaksonsdata

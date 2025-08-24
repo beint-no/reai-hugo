@@ -31,9 +31,9 @@ For obligasjoner angir pålydende det beløpet som utstedes og som skal tilbakeb
 
 | Kurs/Verdi    | Beskrivelse                                  | Eksempel             |
 | ------------- | --------------------------------------------- | -------------------- |
-| Pålydende     | Nominell verdi ved utstedelse               | 1Â 000 kr             |
-| Emisjonskurs  | Kurs ved nytegning eller emisjon            | 95Â % (950 kr)        |
-| Markedskurs   | Nåværende markedspris på instrumentet       | 102Â % (1Â 020 kr)     |
+| Pålydende     | Nominell verdi ved utstedelse               | 1 000 kr             |
+| Emisjonskurs  | Kurs ved nytegning eller emisjon            | 95 % (950 kr)        |
+| Markedskurs   | Nåværende markedspris på instrumentet       | 102 % (1 020 kr)     |
 
 ## Formel for beregning
 

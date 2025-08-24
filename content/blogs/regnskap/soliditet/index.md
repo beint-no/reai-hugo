@@ -45,7 +45,7 @@ Soliditet bør vurderes sammen med andre finansielle nøkkeltall som [likviditet
 
 ## Oppsummering
 
-Soliditet gir et viktig bilde av virksomhetens evne til å stå imot økonomiske påkjenninger. Ved å overvåke egenkapitalandelen kan ledelsen fatteÂ informerte beslutninger om finansiering, utbytte og bærekraftig vekst.
+Soliditet gir et viktig bilde av virksomhetens evne til å stå imot økonomiske påkjenninger. Ved å overvåke egenkapitalandelen kan ledelsen fatte informerte beslutninger om finansiering, utbytte og bærekraftig vekst.
 
 
 

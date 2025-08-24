@@ -15,7 +15,7 @@ summary: "Kort forklart: Konto 4290 viser lagerendring for ferdige varer og påv
 
 Formelt kan endringen uttrykkes slik:
 
-> **Beholdningsendring = Varelager ved periodens slutt âˆ’ Varelager ved periodens begynnelse**
+> **Beholdningsendring = Varelager ved periodens slutt ˆ’ Varelager ved periodens begynnelse**
 
 ## Regnskapsføring
 
@@ -36,8 +36,8 @@ For mer om lagervurdering, se [Hva er Varelager?](/blogs/regnskap/hva-er-varelag
 
 ## Eksempler på beholdningsendring
 
-1. **Positiv beholdningsendring:** Hvis beholdningen av ferdige varer øker fra krÂ 200Â 000 til krÂ 230Â 000, blir beholdningsendringen **+Â krÂ 30Â 000**.
-2. **Negativ beholdningsendring:** Hvis beholdningen av ferdige varer reduseres fra krÂ 250Â 000 til krÂ 220Â 000, blir beholdningsendringen **âˆ’Â krÂ 30Â 000**.
+1. **Positiv beholdningsendring:** Hvis beholdningen av ferdige varer øker fra kr 200 000 til kr 230 000, blir beholdningsendringen **+ kr 30 000**.
+2. **Negativ beholdningsendring:** Hvis beholdningen av ferdige varer reduseres fra kr 250 000 til kr 220 000, blir beholdningsendringen **ˆ’ kr 30 000**.
 
 ## Praktiske tips
 

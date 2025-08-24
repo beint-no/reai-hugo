@@ -29,13 +29,13 @@ summary: "Kort forklart: Konto 4130 gjelder innkjøp av varer under tilvirkning 
 
 ## Eksempel på bokføring
 
-Anta at en bedrift kjøper varer under tilvirkning for **NOK 10Â 000** med middels MVA-sats. Bokføringen blir:
+Anta at en bedrift kjøper varer under tilvirkning for **NOK 10 000** med middels MVA-sats. Bokføringen blir:
 
 | Beskrivelse                     | Debet                                               | Kredit                                       |
 |---------------------------------|-----------------------------------------------------|-----------------------------------------------|
-| Innkjøp varer under tilvirkning | Konto 4130 - Innkjøp varer under tilvirkning middels sats | **NOK 10Â 000**                               |
-| Inngående merverdiavgift (15 %) | Konto 1613 - Inngående merverdiavgift middels sats        | **NOK 1Â 500**                                |
-| Leverandørgjeld                 |                                                     | Konto 2400 - Leverandørgjeld (**NOK 11Â 500**) |
+| Innkjøp varer under tilvirkning | Konto 4130 - Innkjøp varer under tilvirkning middels sats | **NOK 10 000**                               |
+| Inngående merverdiavgift (15 %) | Konto 1613 - Inngående merverdiavgift middels sats        | **NOK 1 500**                                |
+| Leverandørgjeld                 |                                                     | Konto 2400 - Leverandørgjeld (**NOK 11 500**) |
 
 ### Trinn for bokføring
 

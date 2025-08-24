@@ -30,11 +30,11 @@ description: '**Konto 8120 - Nedskrivning finansielle anleggsmidler** er en kont
 ## Eksempel på bokføring
 
 ```plaintext
-Debet: Konto 8120 - Nedskrivning finansielle anleggsmidler   50Â 000 kr
-Kredit: Konto 1830 - Markedsbaserte obligasjoner              50Â 000 kr
+Debet: Konto 8120 - Nedskrivning finansielle anleggsmidler   50 000 kr
+Kredit: Konto 1830 - Markedsbaserte obligasjoner              50 000 kr
 ```
 
-*(Eksempel der langsiktig investering i obligasjoner med bokført verdi på 200Â 000Â kr nedskrives til virkelig verdi på 150Â 000Â kr.)*
+*(Eksempel der langsiktig investering i obligasjoner med bokført verdi på 200 000 kr nedskrives til virkelig verdi på 150 000 kr.)*
 
 ## Klassifisering i kontoplanen
 

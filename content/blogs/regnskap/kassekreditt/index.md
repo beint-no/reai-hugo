@@ -24,10 +24,10 @@ Under ser du en oversikt over typiske kostnadselementer for **kassekreditt**:
 
 | **Faktor**          | **Beskrivelse**                                                |
 |---------------------|----------------------------------------------------------------|
-| Kredittramme        | 100Â 000 “ 5Â 000Â 000Â NOK, avhengig av selskapets behov og sikkerhet |
+| Kredittramme        | 100 000 “ 5 000 000 NOK, avhengig av selskapets behov og sikkerhet |
 | Rente               | NIBOR + 1“3 % margin                                            |
-| Opprettelsesgebyr   | 0 “ 20Â 000Â NOK ved innvilgelse                                  |
-| Termingebyr         | 0 “ 2Â 000Â NOK per måned                                        |
+| Opprettelsesgebyr   | 0 “ 20 000 NOK ved innvilgelse                                  |
+| Termingebyr         | 0 “ 2 000 NOK per måned                                        |
 
 ## Regnskapsføring av kassekreditt
 

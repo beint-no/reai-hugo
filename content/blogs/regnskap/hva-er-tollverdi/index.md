@@ -60,7 +60,7 @@ Tollregelverket opererer med **seks forskjellige metoder** for å fastsette toll
 Når transaksjonsverdien ikke kan anvendes, brukes tollverdien for **identiske varer** importert under sammenlignbare forhold:
 
 * **Samme produsent** og opprinnelsesland
-* **Samme tidspunkt** for import (Â±60 dager)
+* **Samme tidspunkt** for import (±60 dager)
 * **Sammenlignbart handelsnivå** og kvantum
 * **Tilsvarende handelsvilkår**
 

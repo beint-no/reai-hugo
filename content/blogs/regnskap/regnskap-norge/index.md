@@ -8,7 +8,7 @@ description: '**Regnskap Norge** er bransjeorganisasjonen for **regnskapsførere
 
 ## Om Regnskap Norge
 
-Regnskap Norge ble etablert i 1970 og har i dag over 2Â 000 medlemsbedrifter. Som en **interesseorganisasjon** tilbyr Regnskap Norge:
+Regnskap Norge ble etablert i 1970 og har i dag over 2 000 medlemsbedrifter. Som en **interesseorganisasjon** tilbyr Regnskap Norge:
 
 * Nettverk og faglig fellesskap for medlemmer
 * Kurs, seminarer og sertifiseringsprogrammer
@@ -45,7 +45,7 @@ For å bli medlem i Regnskap Norge må virksomheten oppfylle visse **kvalifikasj
 | Kriterium             | Minimumskrav                                 |
 |-----------------------|----------------------------------------------|
 | **Autorisasjon**      | Autoriserte regnskapsførere                  |
-| **Forretningsomfang** | Minst 5 klienter eller 10Â mill. i omsetning    |
+| **Forretningsomfang** | Minst 5 klienter eller 10 mill. i omsetning    |
 | **Etiske retningslinjer** | Godkjent yrkesetisk regelverk               |
 
 *Medlemskontingent* beregnes ut fra omsetning og antall autoriserte regnskapsførere.

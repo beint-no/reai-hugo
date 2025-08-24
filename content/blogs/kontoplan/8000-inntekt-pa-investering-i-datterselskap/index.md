@@ -23,11 +23,11 @@ Inntekt fra investering i datterselskap bokføres normalt når den er **vedtatt*
 
 ## Eksempel på bokføring
 
-Ved mottatt utbytte på 100Â 000Â kr fra datterselskapet:
+Ved mottatt utbytte på 100 000 kr fra datterselskapet:
 
 ```plaintext
-Debet: Konto 1920 - Bankinnskudd                                   100Â 000 kr
-Kredit: Konto 8000 - Inntekt på investering i datterselskap       100Â 000 kr
+Debet: Konto 1920 - Bankinnskudd                                   100 000 kr
+Kredit: Konto 8000 - Inntekt på investering i datterselskap       100 000 kr
 ```
 
 ## Klassifisering i kontoplanen

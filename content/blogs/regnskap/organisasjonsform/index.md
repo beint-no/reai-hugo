@@ -94,7 +94,7 @@ Kommandittselskapet kombinerer ulike ansvarsformer:
 #### [Allmennaksjeselskap (ASA)](/blogs/regnskap/hva-er-asa "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)")
 For større selskaper med behov for børsnotering, se vår guide om [Hva er ASA? En Guide til Allmennaksjeselskap (ASA)](/blogs/regnskap/hva-er-asa "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)").
 
-*   **Minimum 1Â 000Â 000 kr** i aksjekapital
+*   **Minimum 1 000 000 kr** i aksjekapital
 *   **Strengere krav til rapportering og styring**
 *   **Kan noteres på børs**
 *   **Høyere grad av offentlighet og transparens**
@@ -148,7 +148,7 @@ For ideelle og allmennyttige formål:
 | **Ansvarlig Selskap** | Ingen krav | Deltakernes kapital | Moderat - solidarisk ansvar |
 | **Kommandittselskap** | Ingen krav | Komplementar + kommandittist | God - passive investorer |
 | **Aksjeselskap** | 30 000 kr | Aksjeemisjon | Meget god - aksjer og lån |
-| **[Allmennaksjeselskap (ASA)](/blogs/regnskap/hva-er-asa "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)")** | 1Â 000Â 000 kr | Børsnotering mulig | Utmerket - offentlig marked |
+| **[Allmennaksjeselskap (ASA)](/blogs/regnskap/hva-er-asa "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)")** | 1 000 000 kr | Børsnotering mulig | Utmerket - offentlig marked |
 | **NUF** | Varierer | Gjennom morselskap | Avhenger av morselskap |
 
 ### Skattemessige Forhold
@@ -225,9 +225,9 @@ Små foretak som oppfyller **to av tre kriterier**:
 * Er det behov for å skille privat og bedriftens økonomi?
 
 **Anbefaling:**
-* **Høy risiko** â†’ Velg kapitalselskap (AS/ASA)
-* **Lav risiko** â†’ Personlig foretak kan være aktuelt
-* **Usikker risiko** â†’ Start med AS for sikkerhet
+* **Høy risiko** †’ Velg kapitalselskap (AS/ASA)
+* **Lav risiko** †’ Personlig foretak kan være aktuelt
+* **Usikker risiko** †’ Start med AS for sikkerhet
 
 ### 2. Kapitalbehovet
 
@@ -238,9 +238,9 @@ Små foretak som oppfyller **to av tre kriterier**:
 * Skal det tas inn partnere eller investorer?
 
 **Anbefaling:**
-* **Stort kapitalbehov** â†’ AS eller ASA
-* **Lite kapitalbehov** â†’ ENK eller ANS
-* **Investorbehov** â†’ AS med mulighet for aksjeemisjon
+* **Stort kapitalbehov** †’ AS eller ASA
+* **Lite kapitalbehov** †’ ENK eller ANS
+* **Investorbehov** †’ AS med mulighet for aksjeemisjon
 
 ### 3. Skatteoptimalisering
 
@@ -251,9 +251,9 @@ Små foretak som oppfyller **to av tre kriterier**:
 * Muligheter for skatteplanlegging
 
 **Anbefaling:**
-* **Høy personlig skattesats** â†’ Vurder AS for 22% selskapsskatt
-* **Lavt inntektsnivå** â†’ ENK kan gi lavere total skatt
-* **Reinvestering** â†’ AS gir mulighet for skattemessig utsettelse
+* **Høy personlig skattesats** †’ Vurder AS for 22% selskapsskatt
+* **Lavt inntektsnivå** †’ ENK kan gi lavere total skatt
+* **Reinvestering** †’ AS gir mulighet for skattemessig utsettelse
 
 ### 4. Administrativ Belastning
 
@@ -264,9 +264,9 @@ Små foretak som oppfyller **to av tre kriterier**:
 * Kostnader til revisjon og rådgivning
 
 **Anbefaling:**
-* **Enkel drift** â†’ ENK har lavest administrativ belastning
-* **Profesjonell drift** â†’ AS gir struktur og troverdighet
-* **Vekstambisjoner** â†’ AS forbereder for fremtidig kompleksitet
+* **Enkel drift** †’ ENK har lavest administrativ belastning
+* **Profesjonell drift** †’ AS gir struktur og troverdighet
+* **Vekstambisjoner** †’ AS forbereder for fremtidig kompleksitet
 
 ![Beslutningstre for valg av organisasjonsform](organisasjonsform-valg.svg)
 

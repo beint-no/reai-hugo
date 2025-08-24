@@ -33,7 +33,7 @@ description: '**Konto 4500 - Fremmedytelser og underentreprise** er en konto i N
 
 | Beløp ekskl. MVA | MVA (25 %)  | Total inkl. MVA |
 |------------------|-------------|-----------------|
-| 50Â 000 NOK       | 12Â 500 NOK  | 62Â 500 NOK      |
+| 50 000 NOK       | 12 500 NOK  | 62 500 NOK      |
 
 ## Intern lenking og relaterte kontoer
 

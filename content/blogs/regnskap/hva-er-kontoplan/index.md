@@ -71,7 +71,7 @@ Den norske standardkontoplanen er delt inn i **fem hovedklasser**:
 
 ### Norsk Standardkontoplan (NS 4102)
 
-For en grundig gjennomgang av **Norsk Standardkontoplan (NSÂ 4102)**, se [NSÂ 4102](/blogs/regnskap/ns-4102 "NSÂ 4102 - Norsk Standardkontoplan for kommunal regnskap og regnskapsføring").
+For en grundig gjennomgang av **Norsk Standardkontoplan (NS 4102)**, se [NS 4102](/blogs/regnskap/ns-4102 "NS 4102 - Norsk Standardkontoplan for kommunal regnskap og regnskapsføring").
 
 ### Tilpasning til Egen Virksomhet
 

@@ -18,7 +18,7 @@ For eksempler på delvis fradragsberettigede kostnader som faller under represen
 
 ## Grunnleggende prinsipper for fradragsberettigede kostnader
 
-I norsk skatterett er hovedregelen at **fradrag** kun gis for kostnader pådratt for å erverve, sikre eller vedlikeholde skattepliktig inntekt (skatteloven Â§ 6‘1). For at en kostnad skal være **[fradragsberettiget](/blogs/regnskap/fradragsberettiget "Hva betyr Fradragsberettiget?")**, må følgene vilkår være oppfylt:
+I norsk skatterett er hovedregelen at **fradrag** kun gis for kostnader pådratt for å erverve, sikre eller vedlikeholde skattepliktig inntekt (skatteloven § 6‘1). For at en kostnad skal være **[fradragsberettiget](/blogs/regnskap/fradragsberettiget "Hva betyr Fradragsberettiget?")**, må følgene vilkår være oppfylt:
 
 * **Ervervstilknytning:** Kostnaden må ha klar kobling til inntektsgivende aktivitet
 * **Faktisk pådratt:** Det må foreligge reell utbetaling eller forpliktelse

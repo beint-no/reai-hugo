@@ -1,7 +1,8 @@
 ﻿---
 title: "Bærekraftsrapportering"
-seoTitle: "Bærekraftsrapportering"
-description: 'Bærekraftsrapportering handler om å kommunisere en virksomhets **miljømessige**, **sosiale** og **styringsrelaterte** (ESG) prestasjoner til interessenter, i...'
+seoTitle: "Bærekraftsrapportering | Krav, rammeverk og beste praksis"
+description: "Bærekraftsrapportering kommuniserer virksomhetens miljømessige, sosiale og styringsrelaterte prestasjoner. Denne guiden går gjennom krav, rammeverk som CSRD og EU-taksonomien, og hvordan du etablerer gode prosesser og KPI-er."
+summary: "Kort guide til bærekraftsrapportering: krav, rammeverk (CSRD) og praktisk gjennomføring."
 ---
 
 Bærekraftsrapportering handler om å kommunisere en virksomhets **miljømessige**, **sosiale** og **styringsrelaterte** (ESG) prestasjoner til interessenter, investorer og myndigheter. I Norge er bærekraftsrapportering et viktig verktøy for å sikre **åpenhet**, **ansvarlighet** og **langsiktig verdiskaping** gjennom integrering av bærekraftsmål i virksomhetens regnskap og strategiske planer.
@@ -15,7 +16,7 @@ I en tid med økende fokus på klimaendringer, sosiale utfordringer og god selsk
 * **Styrket omdømme** og tillit hos kunder, investorer og samfunnet.
 * **Redusert risiko** ved å identifisere og håndtere ESG-utfordringer.
 * **Bedre beslutningsgrunnlag** gjennom systematisk datainnsamling og analyse.
-* Oppfyllelse av lovpålagte krav som [CSRD-direktivet](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide"), [Regnskapsloven Â§–¯3-3c](/blogs/regnskap/hva-er-opplysningsplikt "Hva er Opplysningsplikt? Guide til Regnskapsloven Â§–¯3-3c og samfunnsansvar") og [Åpenhetsloven](/blogs/regnskap/hva-er-opplysningsplikt "Hva er Opplysningsplikt? Guide til Åpenhetsloven og due diligence").
+* Oppfyllelse av lovpålagte krav som [CSRD-direktivet](/blogs/regnskap/hva-er-csrd "Hva er CSRD? Corporate Sustainability Reporting Directive - Komplett Guide"), [Regnskapsloven §–¯3-3c](/blogs/regnskap/hva-er-opplysningsplikt "Hva er Opplysningsplikt? Guide til Regnskapsloven §–¯3-3c og samfunnsansvar") og [Åpenhetsloven](/blogs/regnskap/hva-er-opplysningsplikt "Hva er Opplysningsplikt? Guide til Åpenhetsloven og due diligence").
 * For implementering av prinsipper for [Sirkulær økonomi](/blogs/regnskap/sirkulaer-okonomi "Sirkulær økonomi i Regnskap: En Guide til Sirkulær økonomi og Regnskapspraksis"), se vår artikkel om sirkulær økonomi.
 
 ## Nøkkelrammeverk og lovverk
@@ -23,7 +24,7 @@ I en tid med økende fokus på klimaendringer, sosiale utfordringer og god selsk
 | Rammeverk/lovverk                      | Hovedformål                                     | Gjelder for                 |
 |----------------------------------------|--------------------------------------------------|-----------------------------|
 | **CSRD-direktivet**                    | Standardisert EU-rapportering av ESG-data        | Store EU/EØS-selskaper      |
-| **Regnskapsloven Â§–¯3-3c**              | Redegjørelse for samfunnsansvar i årsrapporten   | Alle regnskapspliktige      |
+| **Regnskapsloven §–¯3-3c**              | Redegjørelse for samfunnsansvar i årsrapporten   | Alle regnskapspliktige      |
 | **Åpenhetsloven**                      | Due diligence for menneskerettigheter            | Virksomheter med >50 ansatte|
 | **SFDR**                               | Transparens for finansielle produkter            | Finansmarkedsaktører        |
 | **EU-taksonomien**                     | Klassifisering av bærekraftige økonomiske aktiviteter | [Hva er EU-taksonomien?](/blogs/regnskap/hva-er-eu-taksonomien "EU-taksonomien: Klassifiseringssystem for Bærekraftige Aktiviteter") |
@@ -32,7 +33,7 @@ I en tid med økende fokus på klimaendringer, sosiale utfordringer og god selsk
 
 1. **Vesentlighetsanalyse** “ Identifisere de ESG-temaene som er mest relevante for virksomheten og interessenter.
 2. **Datainnsamling** “ Etablere systemer for å samle inn nøyaktige og pålitelige ESG-data.
-3. **Oppstilling av KPI-er** “ Definere målbare indikatorer (f.eks. COâ‚‚-utslipp, antall arbeidsskader).
+3. **Oppstilling av KPI-er** “ Definere målbare indikatorer (f.eks. CO‚‚-utslipp, antall arbeidsskader).
 4. **Utforming av rapport** “ Velge format (integrert rapport vs. separat rapport) og standarder (ESRS, GRI).
 5. **Intern kontroll og revisjon** “ Sikre kvalitet og pålitelighet gjennom intern kontroll og ekstern verifikasjon.
 6. **Publisering og kommunikasjon** “ Dele rapporten med interessenter via nettsider, årsrapporter og andre kanaler.

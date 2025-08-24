@@ -407,7 +407,7 @@ Arbeidskapital: -25% (normal sesongmessig reduksjon)
 #### Integrert rapportering:
 | **ESG-faktor** | **Terminmåling** | **Finansiell sammenheng** |
 |----------------|------------------|--------------------------|
-| COâ‚‚-utslipp | Månedlig måling | Karbonkostnad per enhet |
+| CO‚‚-utslipp | Månedlig måling | Karbonkostnad per enhet |
 | Medarbeiderturnover | Kvartalsvis | Rekruttering- og opplæringskostnader |
 | Compliance-score | Kontinuerlig | Risikojustert verdsettelse |
 

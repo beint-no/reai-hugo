@@ -154,9 +154,9 @@ Avregning må følge norske regnskapsstandarder:
 
 ### Regnskapsloven
 
-* **Â§ 4-1:** Krav til [god regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God regnskapsskikk - Komplett Guide til Regnskapsprinsipper og Beste Praksis")
-* **Â§ 5-1:** Krav til regnskapets innhold og oppstilling
-* **Â§ 6-1:** Krav til [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er internkontroll? Komplett Guide til Internkontroll i Norske Bedrifter")
+* **§ 4-1:** Krav til [god regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God regnskapsskikk - Komplett Guide til Regnskapsprinsipper og Beste Praksis")
+* **§ 5-1:** Krav til regnskapets innhold og oppstilling
+* **§ 6-1:** Krav til [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er internkontroll? Komplett Guide til Internkontroll i Norske Bedrifter")
 
 ### Norsk Regnskapsstandard (NRS)
 

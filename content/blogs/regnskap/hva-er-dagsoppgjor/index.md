@@ -202,10 +202,10 @@ Dagsoppgjør må oppfylle **strenge juridiske krav** i henhold til norsk regnska
 [Bokføringsloven](/blogs/regnskap/hva-er-bokføringsloven "Bokføringsloven - Krav, Regler og Praktisk Anvendelse") stiller **spesifikke krav** til daglig regnskapsføring:
 
 #### Lovpålagte Krav
-- **Â§ 4:** Krav til løpende registrering av transaksjoner
-- **Â§ 5:** Dokumentasjon og bilagskrav
-- **Â§ 6:** Oppbevaring og arkivering
-- **Â§ 13:** Internkontroll og kvalitetssikring
+- **§ 4:** Krav til løpende registrering av transaksjoner
+- **§ 5:** Dokumentasjon og bilagskrav
+- **§ 6:** Oppbevaring og arkivering
+- **§ 13:** Internkontroll og kvalitetssikring
 
 ### Revisjons- og Kontrollhensyn
 

@@ -5,7 +5,7 @@ description: "Konto 2000 brukes til å registrere innskutt aksjekapital ved stif
 summary: "Konto 2000 er aksjekapital. Når brukes den, hvilke krav gjelder og hvordan bokføres den?"
 ---
 
-**Konto 2000 - Aksjekapital** er den første kontoen innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102). Denne kontoen brukes for å registrere aksjonærenes innskutte **aksjekapital** ved stiftelse eller emisjoner.
+**Konto 2000 - Aksjekapital** er den første kontoen innen **egenkapital** i Norsk Standard Kontoplan (NS 4102). Denne kontoen brukes for å registrere aksjonærenes innskutte **aksjekapital** ved stiftelse eller emisjoner.
 
 ![Illustrasjon av konto 2000 aksjekapital](2000-aksjekapital-image.svg)
 
@@ -17,9 +17,9 @@ Aksjekapital er den delen av egenkapitalen som aksjonærene har innbetalt eller 
 
 | Parameter                    | Beskrivelse                                                      |
 |------------------------------|------------------------------------------------------------------|
-| Minimum aksjekapital         | 30Â 000Â NOK                                                       |
+| Minimum aksjekapital         | 30 000 NOK                                                       |
 | Krav til innbetaling          | Full innbetaling ved stiftelse eller innen vedtatte tidsfrister  |
-| Regulert av                  | Aksjeloven Â§–¯2-1                                                 |
+| Regulert av                  | Aksjeloven §–¯2-1                                                 |
 
 ## Registrering av aksjekapital
 
@@ -43,21 +43,21 @@ Aksjekapital registreres vanligvis i to trinn:
 
 | Beskrivelse                    | Beløp (NOK) |
 |--------------------------------|-------------|
-| Aksjekapital ved stiftelse     | 100Â 000     |
-| Kapitalforhøyelse              | 50Â 000      |
+| Aksjekapital ved stiftelse     | 100 000     |
+| Kapitalforhøyelse              | 50 000      |
 
 >**Bokføring ved stiftelse:**
 >
 >```plaintext
->Debet: Konto 1920 - Bankinnskudd       100Â 000
->Kredit: Konto 2000 - Aksjekapital      100Â 000
+>Debet: Konto 1920 - Bankinnskudd       100 000
+>Kredit: Konto 2000 - Aksjekapital      100 000
 >```
 >
 >**Bokføring ved emisjon:**
 >
 >```plaintext
->Debet: Konto 1920 - Bankinnskudd       50Â 000
->Kredit: Konto 2000 - Aksjekapital      50Â 000
+>Debet: Konto 1920 - Bankinnskudd       50 000
+>Kredit: Konto 2000 - Aksjekapital      50 000
 >```
 
 ## Relaterte artikler

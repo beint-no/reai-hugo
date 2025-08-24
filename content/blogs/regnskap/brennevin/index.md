@@ -1,16 +1,16 @@
 ﻿---
 title: "Brennevin"
 seoTitle: "Brennevin"
-description: 'Brennevin er en **alkoholholdig drikk** med minimum 22Â % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likører. **Brennevi...'
+description: 'Brennevin er en **alkoholholdig drikk** med minimum 22 % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likører. **Brennevi...'
 ---
 
-Brennevin er en **alkoholholdig drikk** med minimum 22Â % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likører. **Brennevin** er underlagt særavgifter og særskilt regnskapsbehandling i Norge.
+Brennevin er en **alkoholholdig drikk** med minimum 22 % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likører. **Brennevin** er underlagt særavgifter og særskilt regnskapsbehandling i Norge.
 
 ![Brennevin](brennevin-image.svg)
 
 ## Hva er Brennevin og Relevant Lovverk
 
-Brennevin reguleres av særavgiftsloven og merverdiavgiftsloven (MVA). I tillegg gjelder krav til bokføring i henhold til [bokføringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften? Komplett Guide til Regnskapsførsel") og prinsipper for Norsk Standard Kontoplan (NSÂ 4102).
+Brennevin reguleres av særavgiftsloven og merverdiavgiftsloven (MVA). I tillegg gjelder krav til bokføring i henhold til [bokføringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften? Komplett Guide til Regnskapsførsel") og prinsipper for Norsk Standard Kontoplan (NS 4102).
 
 ## Alkoholavgift og Beregningsgrunnlag
 
@@ -21,12 +21,12 @@ Brennevin reguleres av særavgiftsloven og merverdiavgiftsloven (MVA). I tillegg
 | Parameter                    | Formel                                                  |
 |------------------------------|---------------------------------------------------------|
 | Alkoholvolum                 | Volum (L) Ã— Alkoholprosent (%)                          |
-| Sats for spritalkoholavgift  | 437,50Â NOK per liter ren alkohol                        |
+| Sats for spritalkoholavgift  | 437,50 NOK per liter ren alkohol                        |
 | Total alkoholavgift          | Alkoholvolum (L) Ã— Sats                                  |
 
 ## Merverdiavgift (MVA) på Brennevin
 
-> Brennevin er **MVA-pliktig** vare og avgiftsbelegges med ordinær sats (25Â %) i henhold til [mva-loven](/blogs/regnskap/mva-loven "MVA-loven: Komplett Guide til Merverdiavgiftsloven").
+> Brennevin er **MVA-pliktig** vare og avgiftsbelegges med ordinær sats (25 %) i henhold til [mva-loven](/blogs/regnskap/mva-loven "MVA-loven: Komplett Guide til Merverdiavgiftsloven").
 
 ## Bokføring av Brennevin-transaksjoner
 
@@ -34,11 +34,11 @@ For riktig føring av kjøp, avgiftene og salg av brennevin anbefales det å bru
 
 | Transaksjon                    | Debet (Norsk Standard Kontoplan)     | Kredit                              |
 |--------------------------------|--------------------------------------|-------------------------------------|
-| Kjøp av brennevin (varen)      | KontoÂ 4000 - Varekjøp               | KontoÂ 2400 - Leverandørgjeld        |
-| Beregnet alkoholavgift         | KontoÂ 5800 - Særavgifter            | KontoÂ 2750 - Avgiftsgjeld           |
-| Beregnet MVA                   | KontoÂ 2720 - Utgående merverdiavgift | KontoÂ 2750 - Avgiftsgjeld           |
-| Salg av brennevin med MVA      | KontoÂ 1500 - Varelager               | KontoÂ 3000 - Salgsinntekt           |
-|                                |                                      | KontoÂ 2770 - Inngående merverdiavgift |
+| Kjøp av brennevin (varen)      | Konto 4000 - Varekjøp               | Konto 2400 - Leverandørgjeld        |
+| Beregnet alkoholavgift         | Konto 5800 - Særavgifter            | Konto 2750 - Avgiftsgjeld           |
+| Beregnet MVA                   | Konto 2720 - Utgående merverdiavgift | Konto 2750 - Avgiftsgjeld           |
+| Salg av brennevin med MVA      | Konto 1500 - Varelager               | Konto 3000 - Salgsinntekt           |
+|                                |                                      | Konto 2770 - Inngående merverdiavgift |
 
 ## Praktiske Tips og Internlenking
 

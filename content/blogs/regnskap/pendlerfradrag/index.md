@@ -16,8 +16,8 @@ Pendlerfradrag gir rett til fradrag for merutgifter som følger av pendling når
 
 | Krav               | Beskrivelse                                         |
 |--------------------|-----------------------------------------------------|
-| **Minste avstand** | 40Â km én vei                                        |
-| **Minste reisetid**| 60Â min én vei                                       |
+| **Minste avstand** | 40 km én vei                                        |
+| **Minste reisetid**| 60 min én vei                                       |
 | **Minste oppholdstid** | 2 netter per uke                                 |
 | **Dokumentasjon**  | Kjørebok, billetter og attestasjon fra arbeidsgiver |
 

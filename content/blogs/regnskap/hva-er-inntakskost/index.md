@@ -50,11 +50,11 @@ Visse indirekte kostnader kan også inngå i inntakskost:
 
 | Kostnadselement | Inkluderes | Kommentar |
 |:----------------|:-----------|:----------|
-| Kvalitetskontroll | âœ“ | Nødvendig for å sikre varekvalitet |
-| Lagerkostnader (kortsiktig) | âœ“ | Direkte knyttet til mottak |
-| Administrasjonskostnader | âœ— | Generelle overhead-kostnader |
-| Finansieringskostnader | âœ— | Renter på kreditt |
-| Markedsføringskostnader | âœ— | Ikke direkte knyttet til anskaffelse |
+| Kvalitetskontroll | œ“ | Nødvendig for å sikre varekvalitet |
+| Lagerkostnader (kortsiktig) | œ“ | Direkte knyttet til mottak |
+| Administrasjonskostnader | œ— | Generelle overhead-kostnader |
+| Finansieringskostnader | œ— | Renter på kreditt |
+| Markedsføringskostnader | œ— | Ikke direkte knyttet til anskaffelse |
 
 ## Seksjon 3: Beregning av Kostpris
 

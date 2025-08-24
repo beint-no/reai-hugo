@@ -347,11 +347,11 @@ FCFF = EBIT(1-T) + Avskrivninger - Kapitalinvesteringer - Endring i arbeidskapit
 
 #### Gordon Growth Model:
 ```
-Verdi = FCFâ‚ / (r - g)
+Verdi = FCF‚ / (r - g)
 ```
 
 Hvor:
-* **FCFâ‚** = Neste års fri kontantstrøm
+* **FCF‚** = Neste års fri kontantstrøm
 * **r** = Avkastningskrav
 * **g** = Evig vekstrate
 

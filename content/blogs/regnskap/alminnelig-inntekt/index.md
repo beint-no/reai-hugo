@@ -21,7 +21,7 @@ Alminnelig inntekt defineres som det netto skattegrunnlaget som legges til grunn
 
 ## Juridisk grunnlag
 
-Definisjonen av alminnelig inntekt finnes i skatteloven Â§Â 5‘2 og bokføringsloven Â§Â 4‘1, som fastsetter hvordan inntekter og kostnader skal periodiseres og dokumenteres.
+Definisjonen av alminnelig inntekt finnes i skatteloven § 5‘2 og bokføringsloven § 4‘1, som fastsetter hvordan inntekter og kostnader skal periodiseres og dokumenteres.
 
 ## Hvem omfattes?
 
@@ -43,8 +43,8 @@ Alminnelig inntekt beregnes ved å summere alle inntekter, trekke fra kostnader 
 | Element               | Beskrivelse                                       |
 |-----------------------|---------------------------------------------------|
 | Inntekter             | Sum skattemessige inntekter                       |
-| âˆ’ Kostnader           | Sum fradragsberettigede kostnader                 |
-| Â± Justeringer         | Periodisering, avskrivninger og andre korreksjoner |
+| ˆ’ Kostnader           | Sum fradragsberettigede kostnader                 |
+| ± Justeringer         | Periodisering, avskrivninger og andre korreksjoner |
 | **= Alminnelig inntekt** | Netto skattegrunnlag                              |
 
 ## Periodisering og avskrivninger

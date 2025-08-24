@@ -1,24 +1,24 @@
 ﻿---
 title: "Internkontrollforskriften"
 seoTitle: "Internkontrollforskriften"
-description: '**Internkontrollforskriften** (FOR-2016-12-06-1721) fastsetter krav til internkontroll i virksomheter som faller inn under arbeidsmiljøloven Â§–¯3-1. Denne fo...'
+description: '**Internkontrollforskriften** (FOR-2016-12-06-1721) fastsetter krav til internkontroll i virksomheter som faller inn under arbeidsmiljøloven §–¯3-1. Denne fo...'
 ---
 
-**Internkontrollforskriften** (FOR-2016-12-06-1721) fastsetter krav til internkontroll i virksomheter som faller inn under arbeidsmiljøloven Â§–¯3-1. Denne forskriften utdyper de generelle kravene til [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er internkontroll? En Komplett Guide til Internkontroll i Norge") og beskriver struktur, *risikovurdering*, dokumentasjon og oppfølging.
+**Internkontrollforskriften** (FOR-2016-12-06-1721) fastsetter krav til internkontroll i virksomheter som faller inn under arbeidsmiljøloven §–¯3-1. Denne forskriften utdyper de generelle kravene til [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er internkontroll? En Komplett Guide til Internkontroll i Norge") og beskriver struktur, *risikovurdering*, dokumentasjon og oppfølging.
 
 ![Internkontrollforskriften](internkontrollforskriften-image.svg)
 
 ## Lovgrunnlag og Formål
 
-Internkontrollforskriften har som formål å sikre systematisk **internkontroll** i virksomheter på en måte som forebygger skader, sikrer godt arbeidsmiljø og etterlevelse av gjeldende krav. Forskriften er hjemlet i Arbeidsmiljøloven Â§–¯3-1 og gjelder for alle virksomheter som omfattes av denne bestemmelsen.
+Internkontrollforskriften har som formål å sikre systematisk **internkontroll** i virksomheter på en måte som forebygger skader, sikrer godt arbeidsmiljø og etterlevelse av gjeldende krav. Forskriften er hjemlet i Arbeidsmiljøloven §–¯3-1 og gjelder for alle virksomheter som omfattes av denne bestemmelsen.
 
 | Kapittel | Tema                              | Relevante Paragrafer |
 |----------|-----------------------------------|----------------------|
-| 1        | Formål og virkeområde             | Â§–¯1“2               |
-| 2        | Definisjoner                      | Â§–¯3                 |
-| 3        | Krav til internkontrollsystemet   | Â§–¯4                 |
-| 4        | Risikovurdering                   | Â§–¯5                 |
-| 5        | Dokumentasjon og oppfølging       | Â§–¯6“7               |
+| 1        | Formål og virkeområde             | §–¯1“2               |
+| 2        | Definisjoner                      | §–¯3                 |
+| 3        | Krav til internkontrollsystemet   | §–¯4                 |
+| 4        | Risikovurdering                   | §–¯5                 |
+| 5        | Dokumentasjon og oppfølging       | §–¯6“7               |
 
 ## Hovedkomponenter i internkontrollsystemet
 

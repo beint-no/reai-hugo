@@ -46,11 +46,11 @@ La oss si du har en effektiv rente på 5–¯% som rentetilskrives kvartalsvis (
 
 | Effektiv rente | Rentetilskrivninger | Nominell rente |
 | -------------- | ------------------- | -------------- |
-| 5–¯%            | 4                   | â‰ˆÂ 4,90–¯%       |
+| 5–¯%            | 4                   | ‰ˆ 4,90–¯%       |
 
 Beregningen blir:
 ```
-i_nom = 4 * ((1 + 0,05)^(1/4) - 1) â‰ˆ 0,0490 eller 4,90–¯%.
+i_nom = 4 * ((1 + 0,05)^(1/4) - 1) ‰ˆ 0,0490 eller 4,90–¯%.
 ```
 
 ## Relaterte konsepter

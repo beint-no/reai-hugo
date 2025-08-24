@@ -14,7 +14,7 @@ description: '**Skatt på utbytte** omfatter skattereglene for utbytte som utdel
 |------------------------------------|-----------------------------------------|-----------------------------------|------------------------------|
 | Privatperson (ordinært utbytte)    | Aksjonærmodellen med skjermingsfradrag   | 100% av utbytte etter skjerming   | 22% av netto utbytte         |
 | Privatperson (ASK)                 | Aksjesparekonto (ASK)                   | 22% ved uttak av overskudd        | 22% ved uttak                |
-| Selskap                            | Fritaksmetoden                           | 3% av utbytte                     | 0,66% (3%Â Ã—Â 22%)             |
+| Selskap                            | Fritaksmetoden                           | 3% av utbytte                     | 0,66% (3% Ã— 22%)             |
 | Utenlandsk aksjonær                | Kildeskatt                               | Vanligvis 15% (avhengig av land)  | Ca. 15%                      |
 
 ## Privatpersoner: Ordinært utbytte og skjermingsfradrag
@@ -22,7 +22,7 @@ description: '**Skatt på utbytte** omfatter skattereglene for utbytte som utdel
 Ordinært utbytte beskattes etter **aksjonærmodellen**, som sikrer at en normalavkastning blir skattefri gjennom **skjermingsfradrag**.
 
 * Skjermingsfradrag beregnes som:  
-  _SkjermingsgrunnlagÂ Ã—Â Skjermingsrente_  
+  _Skjermingsgrunnlag Ã— Skjermingsrente_  
 * Resterende utbytte etter skjerming beskattes som alminnelig inntekt (22%).  
 * Les mer i vår [Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning](/blogs/regnskap/aksjonaermodellen-guide "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning").
 
@@ -30,7 +30,7 @@ Ordinært utbytte beskattes etter **aksjonærmodellen**, som sikrer at en normal
 
 En [aksjesparekonto](/blogs/regnskap/hva-er-aksjesparekonto "Hva er Aksjesparekonto? Fordeler, begrensninger og regler") lar privatpersoner utsette skatt på utbytte og gevinst. Innenfor kontoen er både utbytte og kursgevinster skattefrie inntil uttak.
 
-* **Innskuddsramme:** 300Â 000Â kr (2024)  
+* **Innskuddsramme:** 300 000 kr (2024)  
 * **Skatteutsettelse:** Utbytte og gevinst skattefritt inntil uttak  
 * **Uttaksskatt:** 22% beregnes ved uttak av overskudd
 
@@ -40,7 +40,7 @@ For selskapsaksjonærer gjelder **fritaksmetoden**, som gir **skattefritak** for
 
 * 97% av utbyttet er skattefritt  
 * 3% av utbyttet er skattepliktig  
-* Effektiv skattesats: 0,66% (3%Â Ã—Â 22%)  
+* Effektiv skattesats: 0,66% (3% Ã— 22%)  
 * Se vår [Fritaksmetoden - Skattefritak for aksjegevinst og utbytte](/blogs/regnskap/hva-er-fritaksmetoden "Fritaksmetoden - Komplett guide til skattefritak av aksjegevinst og utbytte") for detaljer.
 
 ## Kildeskatt for utenlandske aksjonærer

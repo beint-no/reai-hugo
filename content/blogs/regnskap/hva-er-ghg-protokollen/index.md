@@ -90,7 +90,7 @@ For større norske selskaper gjelder [CSRD](/blogs/regnskap/hva-er-csrd "Hva er 
 
 Norske myndigheter har implementert flere krav som påvirker klimarapportering:
 
-* **Regnskapsloven Â§ 3-3c:** Krav til redegjørelse for samfunnsansvar
+* **Regnskapsloven § 3-3c:** Krav til redegjørelse for samfunnsansvar
 * **Åpenhetsloven:** Rapportering om menneskerettigheter og arbeidsforhold
 * **Grunnrenteskatt:** Spesielle krav for petroleumssektoren
 
@@ -110,14 +110,14 @@ Utslipp = Aktivitetsdata Ã— Utslippsfaktor Ã— Oppvarmingspotensial
 
 **Eksempel på beregning:**
 * Forbruk av diesel: 1000 liter
-* Utslippsfaktor diesel: 2,67 kg COâ‚‚/liter
-* Totalt COâ‚‚-utslipp: 1000 Ã— 2,67 = 2670 kg COâ‚‚
+* Utslippsfaktor diesel: 2,67 kg CO‚‚/liter
+* Totalt CO‚‚-utslipp: 1000 Ã— 2,67 = 2670 kg CO‚‚
 
 ### Norske Utslippsfaktorer
 
 Miljødirektoratet publiserer årlig oppdaterte utslippsfaktorer for Norge:
 
-| Energikilde | COâ‚‚-ekvivalenter (kg/kWh) | Kilde |
+| Energikilde | CO‚‚-ekvivalenter (kg/kWh) | Kilde |
 |-------------|---------------------------|-------|
 | Norsk strømmiks | 0,017 | Miljødirektoratet |
 | Fyringsolje | 0,279 | Miljødirektoratet |
@@ -139,7 +139,7 @@ Etter kartlegging av utslipp må bedrifter sette **vitenskapelig baserte klimam�
 
 ### Science Based Targets (SBT)
 
-Science Based Targets-initiativet gir rammer for klimamål som er i tråd med Parisavtalens 1,5Â°C-mål:
+Science Based Targets-initiativet gir rammer for klimamål som er i tråd med Parisavtalens 1,5°C-mål:
 
 * **Kortsiktige mål:** 5-10 års reduksjon (minimum 4,2% årlig)
 * **Langsiktige mål:** Netto null utslipp innen 2050
@@ -184,7 +184,7 @@ GHG-protokollen hjelper bedrifter å identifisere og kvantifisere klimarelaterte
 
 | Risikotype | Beskrivelse | Regnskapsmessig behandling |
 |------------|-------------|---------------------------|
-| Overgangsrisiko | Kostnader ved COâ‚‚-avgifter og reguleringer | [Avsetninger](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld? Komplett Guide til Kortsiktig og Langsiktig Gjeld") for fremtidige avgifter |
+| Overgangsrisiko | Kostnader ved CO‚‚-avgifter og reguleringer | [Avsetninger](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld? Komplett Guide til Kortsiktig og Langsiktig Gjeld") for fremtidige avgifter |
 | Fysisk risiko | Skader fra klimaendringer | Nedskrivning av [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Varige Driftsmidler") |
 | Omdømmerisiko | Tap av kunder og investorer | Nedskrivning av [goodwill](/blogs/regnskap/hva-er-goodwill "Hva er Goodwill? Komplett Guide til Immateriell Kapital") |
 | Markedsrisiko | Endrede forbrukerpref. | Nedskrivning av varelager |
@@ -259,7 +259,7 @@ Klimarapportering vil bli stadig mer integrert med finansiell rapportering:
 
 * **Integrerte rapporter:** Kombinert finansiell og bærekraftsrapportering
 * **Klimajusterte regnskaper:** Justering av [balanseførte verdier](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap og Finansiell Stilling") for klimarisiko
-* **Karbonprising:** Internprising av COâ‚‚-utslipp i investeringsbeslutninger
+* **Karbonprising:** Internprising av CO‚‚-utslipp i investeringsbeslutninger
 * **ESG-måltall:** Kobling mellom klimamål og lederkompensasjon
 
 GHG-protokollen representerer et paradigmeskifte i hvordan bedrifter måler og rapporterer sin miljøpåvirkning. For norske bedrifter er det essensielt å etablere robuste systemer for klimarapportering som både oppfyller regulatoriske krav og støtter strategiske beslutninger for bærekraftig verdiskaping.

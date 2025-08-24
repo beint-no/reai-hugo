@@ -439,7 +439,7 @@ Utsatt skatteforpliktelse: 100.000 Ã— 22% = 22.000 kr
 
 **Bærekraftige skatteordninger** blir stadig viktigere:
 
-#### COâ‚‚-avgifter og miljøskatter:
+#### CO‚‚-avgifter og miljøskatter:
 * **Karbon-lekkasje** beskyttelse for eksportindustri
 * **Grønne sertifikater** og skattefradrag
 * **Plastikavgift** og emballasjeavgifter

@@ -28,7 +28,7 @@ description: '**Konto 6440 - Leie transportmidler** er en konto i Norsk Standard
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 100Â 000Â NOK           | 25Â %       | 125Â 000Â NOK        |
+| 100 000 NOK           | 25 %       | 125 000 NOK        |
 
 ## Fordeler ved korrekt bruk
 
@@ -38,7 +38,7 @@ description: '**Konto 6440 - Leie transportmidler** er en konto i Norsk Standard
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6440:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6440:
 
 * [Konto 6300 - Leie lokaler](/blogs/kontoplan/6300-leie-lokaler "Konto 6300 - Leie lokaler")
 * [Konto 6400 - Leie maskiner](/blogs/kontoplan/6400-leie-maskiner "Konto 6400 - Leie maskiner")

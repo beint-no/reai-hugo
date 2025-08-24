@@ -336,24 +336,24 @@ Ved **komplekse eierstrukturer** må følgende vurderes:
 
 **Månedlig oppfølging** (anbefalt):
 
-* âœ… **Kontroller** at alle aksjeendringer er registrert
-* âœ… **Verifiser** kontaktinformasjon for aksjonærer
-* âœ… **Dokumenter** alle transaksjoner med dato og beløp
-* âœ… **Oppdater** stemmerettigheter ved endringer
+* œ… **Kontroller** at alle aksjeendringer er registrert
+* œ… **Verifiser** kontaktinformasjon for aksjonærer
+* œ… **Dokumenter** alle transaksjoner med dato og beløp
+* œ… **Oppdater** stemmerettigheter ved endringer
 
 **Kvartalsvis gjennomgang:**
 
-* âœ… **Avstem** aksjekapital mot regnskapstall
-* âœ… **Kontroller** utenlandske aksjonærer sitt skattemessige bosted
-* âœ… **Gjennomgå** alle endringer i aksjeklasser
-* âœ… **Forbered** dokumentasjon for komplekse strukturer
+* œ… **Avstem** aksjekapital mot regnskapstall
+* œ… **Kontroller** utenlandske aksjonærer sitt skattemessige bosted
+* œ… **Gjennomgå** alle endringer i aksjeklasser
+* œ… **Forbered** dokumentasjon for komplekse strukturer
 
 **Før 31. mai deadline:**
 
-* âœ… **Fullfør** kvalitetssikring av alle data
-* âœ… **Test** elektronisk innleveringssystem
-* âœ… **Forbered** eventuelle vedlegg og tilleggsopplysninger
-* âœ… **Lever** oppgaven minst 1 uke før fristen
+* œ… **Fullfør** kvalitetssikring av alle data
+* œ… **Test** elektronisk innleveringssystem
+* œ… **Forbered** eventuelle vedlegg og tilleggsopplysninger
+* œ… **Lever** oppgaven minst 1 uke før fristen
 
 ### Kvalitetssikring
 

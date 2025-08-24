@@ -27,7 +27,7 @@ description: '**Konto 6300 - Leie lokaler** er en konto i Norsk Standard Kontopl
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 50Â 000Â NOK            | 25Â %       | 62Â 500Â NOK         |
+| 50 000 NOK            | 25 %       | 62 500 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -37,7 +37,7 @@ description: '**Konto 6300 - Leie lokaler** er en konto i Norsk Standard Kontopl
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6300:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6300:
 
 * [Konto 6200 - Elektrisitet](/blogs/kontoplan/6200-elektrisitet "Konto 6200 - Elektrisitet")
 * [Konto 6210 - Gass](/blogs/kontoplan/6210-gass "Konto 6210 - Gass")

@@ -25,10 +25,10 @@ Privat bruk av firmabil regnes som en skattepliktig fordel. Skatteloven regulere
 
 | Biltype             | Beskatningsgrunnlag                                                | Sats                   |
 |---------------------|--------------------------------------------------------------------|------------------------|
-| Personbil           | 30 % av listepris inntil kr 314Â 400, 20 % av overskytende pris      | Skattepliktig fordel   |
-| El- eller hybridbil | 40 % av listepris inntil kr 314Â 400, 20 % av overskytende pris      | Skattepliktig fordel   |
+| Personbil           | 30 % av listepris inntil kr 314 400, 20 % av overskytende pris      | Skattepliktig fordel   |
+| El- eller hybridbil | 40 % av listepris inntil kr 314 400, 20 % av overskytende pris      | Skattepliktig fordel   |
 
-*Eksempel:* En firmabil med listepris krÂ 350Â 000 gir en skattemessig fordel på (30Â % Ã— 314Â 400) + (20Â % Ã— 35Â 600) = krÂ 109Â 920.
+*Eksempel:* En firmabil med listepris kr 350 000 gir en skattemessig fordel på (30 % Ã— 314 400) + (20 % Ã— 35 600) = kr 109 920.
 
 ## Regnskapsføring av Firmabil
 

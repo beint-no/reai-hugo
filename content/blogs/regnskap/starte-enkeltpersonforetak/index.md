@@ -22,21 +22,21 @@ Se vår [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonfore
 
 | Steg                        | Ansvarlig    | Kostnad      | Estimert tid   |
 |-----------------------------|--------------|--------------|---------------|
-| Planlegging og forberedelser| GrÃ¼nder      | 0Â kr         | 1“3 dager     |
+| Planlegging og forberedelser| GrÃ¼nder      | 0 kr         | 1“3 dager     |
 | Registrering i Enhetsregisteret| GrÃ¼nder  | Gratis*      | 1“2 dager     |
 | Opprettelse av bankkonto    | GrÃ¼nder      | Gratis       | 1 dag         |
 | MVA-registrering            | GrÃ¼nder      | Gratis       | 0“5 dager     |
 | Oppsett regnskapssystem     | GrÃ¼nder      | Variabel     | 1“2 dager     |
-| **Totalt**                  | “            | **0Â kr***    | **3“10 dager**|
+| **Totalt**                  | “            | **0 kr***    | **3“10 dager**|
 
-*Obligatorisk ved omsetning over 50Â 000Â kr.
+*Obligatorisk ved omsetning over 50 000 kr.
 
 ## Detaljerte krav for oppstart
 
 ### Registrering
 
-* **Frivillig registrering** i [Enhetsregisteret](/blogs/regnskap/hva-er-enhetsregisteret "Hva er Enhetsregisteret?") hvis forventet omsetning <Â 50Â 000Â kr.
-* **Obligatorisk registrering** hvis omsetning >Â 50Â 000Â kr. MVA-plikt ved omsetning >Â 50Â 000Â kr per år.
+* **Frivillig registrering** i [Enhetsregisteret](/blogs/regnskap/hva-er-enhetsregisteret "Hva er Enhetsregisteret?") hvis forventet omsetning < 50 000 kr.
+* **Obligatorisk registrering** hvis omsetning > 50 000 kr. MVA-plikt ved omsetning > 50 000 kr per år.
 * Digital registrering via Altinn eller Brønnøysund.
 
 ### Navn og eierskap
@@ -52,7 +52,7 @@ Se vår [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonfore
 ## Skatt og avgifter
 
 * **Personinntekt**: Overskuddet beskattes som [personinntekt](/blogs/regnskap/personinntekt "Personinntekt “ Komplett guide til personinntekt i norsk regnskap").
-* **MVA-registrering** ved omsetning >Â 50Â 000Â kr: se [MVA-plikt](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge").
+* **MVA-registrering** ved omsetning > 50 000 kr: se [MVA-plikt](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge").
 * Levering av **næringsoppgave** via [skattemelding for næringsdrivende](/blogs/regnskap/hva-er-naeringsoppgave "Hva er Næringsoppgave? Komplett Guide til Næringsoppgaven i Norge").
 
 ## Gode råd for en vellykket oppstart

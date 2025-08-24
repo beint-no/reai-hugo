@@ -35,15 +35,15 @@ Resultat er differansen mellom **totale inntekter** og **totale kostnader**, og 
 |------------------|-----------------------------------|
 | Totale Inntekter | Î£ inntekter                       |
 | Totale Kostnader | Î£ kostnader                       |
-| **Resultat**     | Totale Inntekter âˆ’ Totale Kostnader |
+| **Resultat**     | Totale Inntekter ˆ’ Totale Kostnader |
 
 Eksempel:
 
 | Post      | Beløp (kr) |
 |-----------|------------|
-| Inntekter | 2Â 000Â 000  |
-| Kostnader | 1Â 500Â 000  |
-| **Resultat** | 500Â 000 |
+| Inntekter | 2 000 000  |
+| Kostnader | 1 500 000  |
+| **Resultat** | 500 000 |
 
 ## Relaterte Artikler
 

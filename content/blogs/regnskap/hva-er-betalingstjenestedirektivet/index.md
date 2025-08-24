@@ -98,8 +98,8 @@ Norge har implementert PSD2 med enkelte nasjonale tilpasninger:
 | Område | EU-krav | Norsk implementering | Regnskapsmessig påvirkning |
 |--------|---------|---------------------|---------------------------|
 | **Rapportering** | Kvartalsvis | Månedlig for store aktører | Økte administrative kostnader |
-| **Kapitalkrav** | â‚¬125.000 minimum | NOK 1.250.000 minimum | Høyere [aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Beregning, Endringer og Regnskapsføring") |
-| **Forsikring** | â‚¬1 million | NOK 10 millioner | Høyere forsikringspremier |
+| **Kapitalkrav** | ‚¬125.000 minimum | NOK 1.250.000 minimum | Høyere [aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Beregning, Endringer og Regnskapsføring") |
+| **Forsikring** | ‚¬1 million | NOK 10 millioner | Høyere forsikringspremier |
 | **Revisjonsplikt** | Ikke spesifisert | Obligatorisk for PSD2-aktører | Økte revisjonskostnader |
 
 ## Regnskapsføring av PSD2-Transaksjoner

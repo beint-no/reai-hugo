@@ -1,10 +1,10 @@
 ﻿---
 title: "Konto 7730 - Kostnader ved egne aksjer"
 seoTitle: "7730-kostnader-ved-egne-aksjer"
-description: '**Konto 7730 - Kostnader ved egne aksjer** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kostnader ved egne aksjer** som ...'
+description: '**Konto 7730 - Kostnader ved egne aksjer** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kostnader ved egne aksjer** som ...'
 ---
 
-**Konto 7730 - Kostnader ved egne aksjer** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kostnader ved egne aksjer** som oppstår i forbindelse med tilbakekjøp og håndtering av egne aksjer (treasury shares).
+**Konto 7730 - Kostnader ved egne aksjer** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kostnader ved egne aksjer** som oppstår i forbindelse med tilbakekjøp og håndtering av egne aksjer (treasury shares).
 
 ![Illustrasjon av konto 7730 kostnader ved egne aksjer](7730-kostnader-ved-egne-aksjer-image.svg)
 
@@ -28,7 +28,7 @@ description: '**Konto 7730 - Kostnader ved egne aksjer** er en konto i **Norsk S
 
 ## Regler og begrensninger
 
-* Kostnader må finansieres av fri egenkapital, jf. aksjeloven Â§–¯8-7.
+* Kostnader må finansieres av fri egenkapital, jf. aksjeloven §–¯8-7.
 * Kostnader knyttet til egne aksjer reduserer selskapets egenkapital.
 * Dokumentasjonskrav: Oppbevar fakturaer, handelsbekreftelser og avtaler som dokumentasjon.
 

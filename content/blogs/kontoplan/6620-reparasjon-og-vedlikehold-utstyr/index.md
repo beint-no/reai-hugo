@@ -29,7 +29,7 @@ description: '**Konto 6620 - Reparasjon og vedlikehold utstyr** er en konto i No
 
 | Beløp ekskl. avgifter | Avgift (%) | Total inkl. avgift |
 |-----------------------|------------|--------------------|
-| 30Â 000Â NOK            | 25Â %       | 37Â 500Â NOK         |
+| 30 000 NOK            | 25 %       | 37 500 NOK         |
 
 ## Fordeler ved korrekt bruk
 
@@ -40,7 +40,7 @@ description: '**Konto 6620 - Reparasjon og vedlikehold utstyr** er en konto i No
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer i NSÂ 4102 som ofte brukes sammen med konto 6620:
+Andre kontoer i NS 4102 som ofte brukes sammen med konto 6620:
 
 * [Konto 6500 - Motordrevet verktøy](/blogs/kontoplan/6500-motordrevet-verktoy "Konto 6500 - Motordrevet verktøy")
 * [Konto 6510 - Håndverktøy](/blogs/kontoplan/6510-handverktoy "Konto 6510 - Håndverktøy")

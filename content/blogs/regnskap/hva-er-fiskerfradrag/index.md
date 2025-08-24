@@ -8,7 +8,7 @@ description: '**Fiskerfradrag** er et særskilt **skattefradrag** for fiskeri- o
 
 ## Grunnleggende om Fiskerfradrag
 
-Fiskerfradrag er regulert i skatteloven Â§–¯6-11 og skal kompensere for bransjens usikre fangstforhold og høye investeringskostnader.
+Fiskerfradrag er regulert i skatteloven §–¯6-11 og skal kompensere for bransjens usikre fangstforhold og høye investeringskostnader.
 
 ![Fiskerfradrag Oversikt](fiskerfradrag-oversikt.svg)
 
@@ -24,7 +24,7 @@ Fiskerfradraget ble innført på 1980-tallet for å:
 
 Det rettslige grunnlaget for fiskerfradrag finnes i:
 
-* **Skatteloven Â§–¯6-11** “ Hovedbestemmelsen om fiskerfradrag
+* **Skatteloven §–¯6-11** “ Hovedbestemmelsen om fiskerfradrag
 * **Forskrift om særfradrag for fiskere** “ Detaljerte regler og satser
 
 ## Beregning av Fiskerfradrag

@@ -14,7 +14,7 @@ Det norske lovverket etablerer klare rammer for hvordan helligdager skal håndte
 
 ### 1.1 Arbeidsmiljølovens Bestemmelser
 
-Arbeidsmiljøloven Â§ 10-12 regulerer helligdager og gir arbeidstakere rett til fri på **offentlige helligdager**. Dette skaper regnskapsmessige forpliktelser for arbeidsgivere som må planlegges og bokføres korrekt.
+Arbeidsmiljøloven § 10-12 regulerer helligdager og gir arbeidstakere rett til fri på **offentlige helligdager**. Dette skaper regnskapsmessige forpliktelser for arbeidsgivere som må planlegges og bokføres korrekt.
 
 ![Helligdager og Lønnsplikt](helligdager-lonnsplikt.svg)
 
@@ -274,12 +274,12 @@ For å sikre korrekt håndtering av helligdager i regnskapet, anbefaler vi følg
 ### 10.2 Nøkkelkontroller for Bedriftseiere
 
 **Månedlig sjekkliste:**
-* âœ“ Alle helligdager korrekt registrert i lønnssystem
-* âœ“ Helligdagslønn beregnet for alle ansatte
-* âœ“ Feriepengeavsetning inkluderer helligdagslønn
-* âœ“ [Arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? En Komplett Guide til Norges Lønnsavgift") beregnet korrekt
-* âœ“ A-melding inneholder korrekte opplysninger
-* âœ“ Regnskapsposter stemmer med lønnsutbetalinger
+* œ“ Alle helligdager korrekt registrert i lønnssystem
+* œ“ Helligdagslønn beregnet for alle ansatte
+* œ“ Feriepengeavsetning inkluderer helligdagslønn
+* œ“ [Arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? En Komplett Guide til Norges Lønnsavgift") beregnet korrekt
+* œ“ A-melding inneholder korrekte opplysninger
+* œ“ Regnskapsposter stemmer med lønnsutbetalinger
 
 ### 10.3 Når Søke Profesjonell Hjelp
 

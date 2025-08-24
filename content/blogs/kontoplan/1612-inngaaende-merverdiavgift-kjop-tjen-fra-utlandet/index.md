@@ -32,8 +32,8 @@ For en grundig innføring i merverdiavgift, se [Hva er MVA?](/blogs/regnskap/hva
 
 | Beløp uten MVA   | MVA (25 %) | MVA å føre som inngående MVA |
 |------------------|------------|-------------------------------|
-| 10–¯000Â NOK       | 2–¯500Â NOK  | 2–¯500Â NOK                     |
-| 5–¯000Â NOK        | 1–¯250Â NOK  | 1–¯250Â NOK                     |
+| 10–¯000 NOK       | 2–¯500 NOK  | 2–¯500 NOK                     |
+| 5–¯000 NOK        | 1–¯250 NOK  | 1–¯250 NOK                     |
 
 ## Regler og begrensninger
 

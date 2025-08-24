@@ -26,12 +26,12 @@ Under er et enkelt eksempel på føring av gevinst og tap ved avhending:
 
 | Konto                        | Debet       | Kredit      | Beskrivelse                     |
 |------------------------------|-------------|-------------|---------------------------------|
-| Anleggsmidler (anskaffelse)  |             | 100Â 000Â kr  | Salg av anleggsmiddel           |
-| Bankinnskudd                 | 120Â 000Â kr  |             | Mottatt betaling                |
-| Gevinst- og tapskonto        |             | 20Â 000Â kr   | Gevinst ved salg                |
+| Anleggsmidler (anskaffelse)  |             | 100 000 kr  | Salg av anleggsmiddel           |
+| Bankinnskudd                 | 120 000 kr  |             | Mottatt betaling                |
+| Gevinst- og tapskonto        |             | 20 000 kr   | Gevinst ved salg                |
 | **Alternativt ved tap**      |             |             |                                 |
-| Gevinst- og tapskonto        | 15Â 000Â kr   |             | Tap ved salg                    |
-| Anleggsmidler (bokført verdi)|             | 15Â 000Â kr   | Nedskrivning for tap           |
+| Gevinst- og tapskonto        | 15 000 kr   |             | Tap ved salg                    |
+| Anleggsmidler (bokført verdi)|             | 15 000 kr   | Nedskrivning for tap           |
 
 ## 3. Skattemessige vurderinger
 

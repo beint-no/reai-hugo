@@ -169,8 +169,8 @@ I skattemessig saldosystem:
 
 Forskjeller mellom regnskaps- og skattemessige [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder") skaper **midlertidige forskjeller** som påvirker [utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Komplett Guide til Skattemessige Forskjeller"):
 
-* **Høyere skattemessig avskrivning** â†’ Utsatt skattefordel
-* **Høyere regnskapsmessig avskrivning** â†’ Utsatt skattegjeld
+* **Høyere skattemessig avskrivning** †’ Utsatt skattefordel
+* **Høyere regnskapsmessig avskrivning** †’ Utsatt skattegjeld
 
 ![Forskjeller Regnskap Skatt](forskjeller-regnskap-skatt.svg)
 

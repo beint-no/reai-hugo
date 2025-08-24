@@ -99,8 +99,8 @@ Selv om Norge ikke er EU-medlem, påvirkes norske aktører gjennom:
 | GHG-utslipp Scope 1 | tCO2eq | Årlig |
 | GHG-utslipp Scope 2 | tCO2eq | Årlig |
 | GHG-utslipp Scope 3 | tCO2eq | Årlig |
-| Carbon footprint | tCO2eq/Mâ‚¬ investert | Årlig |
-| GHG-intensitet | tCO2eq/Mâ‚¬ omsetning | Årlig |
+| Carbon footprint | tCO2eq/M‚¬ investert | Årlig |
+| GHG-intensitet | tCO2eq/M‚¬ omsetning | Årlig |
 | Energiforbruk | MWh | Årlig |
 | Biodiversitetspåvirkning | Prosent av investeringer | Årlig |
 | Vannforbruk | Kubikkmeter | Årlig |
@@ -136,7 +136,7 @@ SFDR krever integrasjon med eksisterende regnskapsstandarder:
 #### Norske Regnskapsstandarder (NGRS)
 * [God regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Prinsipper og Praksis for Norsk Regnskap") og bærekraftstransparens
 * **NRS 16** Finansielle instrumenter
-* **Årsregnskapslovens** Â§3-3c om bærekraftsrapportering
+* **Årsregnskapslovens** §3-3c om bærekraftsrapportering
 
 ### 4.2 SFDR Data i [Balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon")
 
@@ -226,11 +226,11 @@ SFDR krever integrasjon med eksisterende regnskapsstandarder:
 
 | **Kostnadskategori** | **Engangsbeløp** | **Årlige kostnader** |
 |---------------------|------------------|---------------------|
-| IT-systemer | â‚¬50,000-200,000 | â‚¬20,000-50,000 |
-| ESG-data | â‚¬10,000-100,000 | â‚¬25,000-150,000 |
-| Personell | â‚¬100,000-300,000 | â‚¬150,000-500,000 |
-| Konsulenter | â‚¬25,000-100,000 | â‚¬10,000-50,000 |
-| **Total** | **â‚¬185,000-700,000** | **â‚¬205,000-750,000** |
+| IT-systemer | ‚¬50,000-200,000 | ‚¬20,000-50,000 |
+| ESG-data | ‚¬10,000-100,000 | ‚¬25,000-150,000 |
+| Personell | ‚¬100,000-300,000 | ‚¬150,000-500,000 |
+| Konsulenter | ‚¬25,000-100,000 | ‚¬10,000-50,000 |
+| **Total** | **‚¬185,000-700,000** | **‚¬205,000-750,000** |
 
 ![SFDR Implementeringsprosess](sfdr-implementeringsprosess.svg)
 
@@ -276,9 +276,9 @@ SFDR krever at **bærekraftsrisiko** integreres i tradisjonelle risikostyringspr
 
 **SFDR har drevet betydelige kapitalstrømmer:**
 
-* **â‚¬300+ milliarder** inn i Artikkel 8-produkter siden 2021
-* **â‚¬50+ milliarder** inn i Artikkel 9-produkter  
-* **"Brown to Green" reallokering** på â‚¬100+ milliarder
+* **‚¬300+ milliarder** inn i Artikkel 8-produkter siden 2021
+* **‚¬50+ milliarder** inn i Artikkel 9-produkter  
+* **"Brown to Green" reallokering** på ‚¬100+ milliarder
 * **Priseffekter:** ESG-premiums og "brown discounts"
 
 ### 8.2 Produktinnovasjon og Utvikling

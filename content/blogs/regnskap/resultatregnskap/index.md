@@ -30,11 +30,11 @@ En typisk struktur for resultatregnskapet i norsk regnskap kan settes opp slik:
 |--------------------------|----------------------------------------------------------|
 | **Driftsinntekter**      | Alle inntekter fra ordinær virksomhet                    |
 | **Driftskostnader**      | Kostnader knyttet til den daglige driften               |
-| **Driftsresultat**       | Driftsinntekter âˆ’ Driftskostnader                       |
+| **Driftsresultat**       | Driftsinntekter ˆ’ Driftskostnader                       |
 | **Finansielle poster**   | Renteinntekter, rentekostnader og finansielle gevinster/tap |
 | **Resultat før skatt**   | Driftsresultat + Finansielle poster                     |
 | **Skattekostnad**        | Beregnet skatt for perioden                              |
-| **[Årsresultat](/blogs/regnskap/aarsresultat "Årsresultat")** | Resultat før skatt âˆ’ Skattekostnad                       |
+| **[Årsresultat](/blogs/regnskap/aarsresultat "Årsresultat")** | Resultat før skatt ˆ’ Skattekostnad                       |
 
 ![Struktur av Resultatregnskap](resultatregnskap-struktur.svg)
 

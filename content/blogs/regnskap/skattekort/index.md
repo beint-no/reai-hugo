@@ -18,7 +18,7 @@ description: '**Skattekort** er den digitale **bekreftelsen** fra [Skatteetaten]
 |-------------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | **Ordinært skattekort** | Tabelltrekk (tabellnummer)          | Standard skattekort hvor du får et tabellnummer basert på forventet inntekt og fradrag.                       |
 | **Prosentkort**         | Prosenttrekk                        | Fast prosentsats som trekkes av utbetalingene, uavhengig av tabell.                                          |
-| **Frikort**             | 0Â % trekk                           | Skattefritt for inntekt opp til frikortgrensen. Se [Frikort](/blogs/regnskap/frikort "Frikort - Skattefri Inntekt for Lavinntektsgrupper"). |
+| **Frikort**             | 0 % trekk                           | Skattefritt for inntekt opp til frikortgrensen. Se [Frikort](/blogs/regnskap/frikort "Frikort - Skattefri Inntekt for Lavinntektsgrupper"). |
 
 ## Hvordan søke om skattekort?
 
@@ -62,7 +62,7 @@ Arbeidsgiver rapporterer skattekortopplysninger i **A-meldingen** hver måned:
 
 **Hva skjer hvis jeg ikke leverer skattekort?**
 
-* Det trekkes som regel med **tabellnummerÂ 710** (maksimal trekk). Dette kan føre til for høyt trekk.
+* Det trekkes som regel med **tabellnummer 710** (maksimal trekk). Dette kan føre til for høyt trekk.
 
 **Hvordan kombinerer jeg frikort og ordinært skattekort?**
 

@@ -41,7 +41,7 @@ For mer informasjon om periodisering av lønn, se [Konto 5180 - Feriepenger bere
 
 ## Intern lenking og relaterte kontoer
 
-Andre kontoer for godtgjørelser og tilknyttede ytelser i NSÂ 4102:
+Andre kontoer for godtgjørelser og tilknyttede ytelser i NS 4102:
 
 * [Konto 5200 - Fri bil](/blogs/kontoplan/5200-fri-bil "Konto 5200 - Fri bil")
 * [Konto 5210 - Fri telefon](/blogs/kontoplan/5210-fri-telefon "Konto 5210 - Fri telefon")

@@ -32,12 +32,12 @@ Selv om betaling skjer kontant, må alle kontantkjøp dokumenteres i henhold til
 
 ## Regnskapsmessig behandling
 
-Ved bokføring av kontantkjøp registreres både kostnad og betaling i samme bilag. Eksempel ved kjøp av kontorrekvisita for 1Â 000Â kr inkludert 25Â % MVA:
+Ved bokføring av kontantkjøp registreres både kostnad og betaling i samme bilag. Eksempel ved kjøp av kontorrekvisita for 1 000 kr inkludert 25 % MVA:
 
 ```
 Debet: Kontorrekvisita (kostnad)      800 kr
-Debet: Inngående MVA (25Â %)          200 kr
-Kredit: Kasse                        1Â 000 kr
+Debet: Inngående MVA (25 %)          200 kr
+Kredit: Kasse                        1 000 kr
 ```
 
 Dette sikrer at både kostnaden og kontantutbetalingen er dokumentert og bokført korrekt.
@@ -67,8 +67,8 @@ For å sikre korrekt håndtering av kontantkjøp og redusere risiko for svinn og
 
 | **Scenario**                                         | **Bokføring ved kontantkjøp**                                    |
 |------------------------------------------------------|------------------------------------------------------------------|
-| Kjøp av kontorrekvisita for 1Â 000Â kr inkl. 25Â % MVA   | Debet: Kontorrekvisita 800Â kr<br>Debet: Inngående MVA 200Â kr<br>Kredit: Kasse 1Â 000Â kr |
-| Betaling av årsavgift for 5Â 000Â kr (ingen MVA)       | Debet: Avgift 5Â 000Â kr<br>Kredit: Kasse 5Â 000Â kr                  |
+| Kjøp av kontorrekvisita for 1 000 kr inkl. 25 % MVA   | Debet: Kontorrekvisita 800 kr<br>Debet: Inngående MVA 200 kr<br>Kredit: Kasse 1 000 kr |
+| Betaling av årsavgift for 5 000 kr (ingen MVA)       | Debet: Avgift 5 000 kr<br>Kredit: Kasse 5 000 kr                  |
 
 ## Fallgruver og risikohåndtering
 

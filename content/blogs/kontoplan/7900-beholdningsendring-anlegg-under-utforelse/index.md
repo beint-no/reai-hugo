@@ -37,8 +37,8 @@ Ved periodisering av interne tilvirkningskostnader justeres beholdningen for å 
 Et selskap avslutter periodens anlegg under utførelse med en økning på 200–¯000–¯NOK:
 
 ```plaintext
-Debet: Konto 1300 - Anlegg under utførelse               200Â 000 NOK
-Kredit: Konto 7900 - Beholdningsendring anlegg under utførelse  200Â 000 NOK
+Debet: Konto 1300 - Anlegg under utførelse               200 000 NOK
+Kredit: Konto 7900 - Beholdningsendring anlegg under utførelse  200 000 NOK
 ```
 
 ## Intern lenking og relaterte kontoer

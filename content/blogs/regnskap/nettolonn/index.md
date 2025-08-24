@@ -10,7 +10,7 @@ description: '**Nettolønn** er beløpet en ansatt mottar etter at alle lovpåla
 
 ## Hva er Nettolønn?
 
-Nettolønn er Â«netto utbetalt lønnÂ» etter at alle obligatoriske trekk er gjort. Det inkluderer skattetrekk, trygdeavgift, pensjonsinnskudd og andre eventuelle trekk som fagforeningskontingent eller forskuddstrekk.
+Nettolønn er «netto utbetalt lønn» etter at alle obligatoriske trekk er gjort. Det inkluderer skattetrekk, trygdeavgift, pensjonsinnskudd og andre eventuelle trekk som fagforeningskontingent eller forskuddstrekk.
 
 ## Hvordan beregnes Nettolønn?
 
@@ -32,11 +32,11 @@ Nettolønn = Bruttolønn - Skattetrekk - Trygdeavgift - Pensjonsinnskudd - Andre
 
 | Beskrivelse                 | Beløp (kr)                                                                                                          |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Bruttolønn                  | 50Â 000                                                                                                              |
-| Skattetrekk (30Â %)          | -15Â 000                                                                                                             |
-| Trygdeavgift (8,2Â %)        | -4Â 100                                                                                                              |
-| Pensjonsinnskudd (2Â %)      | -1Â 000                                                                                                              |
-| **Nettolønn**               | **29Â 900**                                                                                                          |
+| Bruttolønn                  | 50 000                                                                                                              |
+| Skattetrekk (30 %)          | -15 000                                                                                                             |
+| Trygdeavgift (8,2 %)        | -4 100                                                                                                              |
+| Pensjonsinnskudd (2 %)      | -1 000                                                                                                              |
+| **Nettolønn**               | **29 900**                                                                                                          |
 
 ## Vanlige spørsmål om Nettolønn
 

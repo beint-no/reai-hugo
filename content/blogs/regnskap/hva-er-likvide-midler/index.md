@@ -35,7 +35,7 @@ Se [Hva er Omløpsmidler?](/blogs/regnskap/hva-er-omlopsmiddel "Hva er Omløpsmi
 
 ## Betydning for likviditetsanalyse
 
-Likvide midler er essensielle for å beregne nøkkeltall som [likviditetsgradÂ 1](/blogs/regnskap/hva-er-likviditetsgrad "Hva er Likviditetsgrad? Beregning, Analyse og Tolkning av Likviditetsnøkkeltall") og [likviditetsgradÂ 2](/blogs/regnskap/hva-er-likviditetsgrad "Hva er Likviditetsgrad? Beregning, Analyse og Tolkning av Likviditetsnøkkeltall"). Høyere likvide midler gir bedre evne til å dekke kortsiktig gjeld og håndtere uforutsette økonomiske svingninger.
+Likvide midler er essensielle for å beregne nøkkeltall som [likviditetsgrad 1](/blogs/regnskap/hva-er-likviditetsgrad "Hva er Likviditetsgrad? Beregning, Analyse og Tolkning av Likviditetsnøkkeltall") og [likviditetsgrad 2](/blogs/regnskap/hva-er-likviditetsgrad "Hva er Likviditetsgrad? Beregning, Analyse og Tolkning av Likviditetsnøkkeltall"). Høyere likvide midler gir bedre evne til å dekke kortsiktig gjeld og håndtere uforutsette økonomiske svingninger.
 
 ## Beste praksis for håndtering av likvide midler
 
