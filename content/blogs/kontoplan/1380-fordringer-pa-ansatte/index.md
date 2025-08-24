@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1380 - Fordringer på ansatte"
 seoTitle: "Konto 1380 | Fordringer på ansatte | Kontoplan"
-description: '**Konto 1380 - Fordringer på ansatte** brukes til å registrere **lån**, **[forskudd på lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn")** og **andre forskuddsutlegg til ansatte**. Lær om avtaler, periodisering, vurdering og bokføring.'
+description: "Konto 1380 brukes til å registrere lån, forskudd på lønn og andre forskuddsutlegg til ansatte. Les om avtaler, periodisering, vurdering og bokføring."
 summary: "Konto 1380 dekker lån og forskudd til ansatte. Oppsummerer avtaler, periodisering, vurdering og bokføring med eksempler."
 ---
 

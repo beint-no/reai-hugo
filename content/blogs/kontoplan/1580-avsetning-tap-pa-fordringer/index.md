@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1580 - Avsetning tap på fordringer"
 seoTitle: "Konto 1580 | Avsetning tap på fordringer | Kontoplan"
-description: '**Konto 1580 - Avsetning tap på fordringer** brukes som **motkonto** til fordringskontoer for å reflektere forventede tap. Les om når kontoen skal brukes, beregning, bokføring og eksempel.'
+description: "Konto 1580 brukes som motkonto til fordringskontoer for å reflektere forventede tap. Lær når kontoen brukes, hvordan tapsavsetning beregnes, og hvordan bokføring utføres med eksempel."
 summary: "Konto 1580 dekker avsetning for tap på fordringer. Oppsummerer når kontoen brukes, beregning og bokføring."
 ---
 
