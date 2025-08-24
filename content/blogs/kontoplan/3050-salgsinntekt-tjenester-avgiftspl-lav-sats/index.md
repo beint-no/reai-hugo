@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3050 - Salgsinntekt tjenester avgiftspl. lav sats"
-seoTitle: "3050-salgsinntekt-tjenester-avgiftspl-lav-sats"
-description: '**Konto 3050 - Salgsinntekt tjenester avgiftspl. lav sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **tjenest...'
+seoTitle: "Konto 3050 | Salgsinntekt tjenester lav sats | Kontoplan"
+description: "Konto 3050 brukes til å registrere salgsinntekt fra tjenester med lav MVA-sats (12 %). Dekker bruksområder, bokføring, periodisering og rapportering."
+summary: "Konto 3050: salgsinntekt tjenester med lav MVA-sats. Når og hvordan bokføre."
 ---
 
 **Konto 3050 - Salgsinntekt tjenester avgiftspl. lav sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **tjenester** som er **avgiftspliktige med lav MVA-sats**.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3020 - Salgsinntekt tjenester avgiftspl. høy sats"
-seoTitle: "3020-salgsinntekt-tjenester-avgiftspl-hoy-sats"
-description: '**Konto 3020 - Salgsinntekt tjenester avgiftspl. høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **tjenes...'
+seoTitle: "Konto 3020 | Salgsinntekt tjenester høy sats | Kontoplan"
+description: "Konto 3020 brukes til å registrere salgsinntekt fra tjenester med 25 % MVA. Omfatter bruksområder, bokføring, periodisering og rapportering."
+summary: "Konto 3020: salgsinntekt tjenester med høy MVA-sats. Når og hvordan bokføre."
 ---
 
 **Konto 3020 - Salgsinntekt tjenester avgiftspl. høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **tjenester** som er **avgiftspliktige med høy MVA-sats**.

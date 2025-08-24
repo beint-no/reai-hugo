@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3000 - Salgsinntekt handelsvarer avgiftspl. høy sats"
-seoTitle: "3000-salgsinntekt-handelsvarer-avgiftspl-hoy-sats"
-description: '**Konto 3000 - Salgsinntekt handelsvarer avgiftspl. høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **han...'
+seoTitle: "Konto 3000 | Salgsinntekt handelsvarer høy sats | Kontoplan"
+description: "Konto 3000 brukes til å registrere salgsinntekt fra handelsvarer med 25 % MVA. Gjennomgang av bruksområder, bokføring, periodisering og rapportering."
+summary: "Konto 3000: salgsinntekt handelsvarer med høy MVA-sats. Når og hvordan bokføre."
 ---
 
 **Konto 3000 - Salgsinntekt handelsvarer avgiftspl. høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsvarer** som er **avgiftspliktige med høy MVA-sats**.

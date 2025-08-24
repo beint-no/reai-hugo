@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. høy sats"
-seoTitle: "3010-salgsinntekt-egentilvirkede-varer"
-description: '**Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** f...'
+seoTitle: "Konto 3010 | Salgsinntekt egentilvirkede varer høy sats | Kontoplan"
+description: "Konto 3010 brukes til å registrere salgsinntekt fra egentilvirkede varer med 25 % MVA. Dekker bruksområder, bokføring, periodisering og rapportering."
+summary: "Konto 3010: salgsinntekt egentilvirkede varer med høy MVA-sats. Når og hvordan bokføre."
 ---
 
 **Konto 3010 - Salgsinntekt egentilvirkede varer avgiftspl. høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **egentilvirkede varer** som er **avgiftspliktige med høy MVA-sats**.

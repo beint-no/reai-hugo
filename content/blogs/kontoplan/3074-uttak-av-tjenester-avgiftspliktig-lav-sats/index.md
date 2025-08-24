@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3074 - Uttak av tjenester avgiftspliktig lav sats"
-seoTitle: "3074-uttak-av-tjenester-avgiftspliktig-lav-sats"
-description: '**Konto 3074 - Uttak av tjenester avgiftspliktig lav sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av tjenester** til bruk ...'
+seoTitle: "Konto 3074 | Uttak av tjenester lav sats | Kontoplan"
+description: "Konto 3074 brukes til å registrere uttak av tjenester til intern bruk med 12 % MVA. Inneholder bruksområder, bokføring, periodisering og rapportering."
+summary: "Konto 3074: uttak av tjenester med lav MVA-sats. Når og hvordan bokføre."
 ---
 
 **Konto 3074 - Uttak av tjenester avgiftspliktig lav sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av tjenester** til bruk i virksomheten, der uttaket er **avgiftspliktig med lav MVA-sats**.

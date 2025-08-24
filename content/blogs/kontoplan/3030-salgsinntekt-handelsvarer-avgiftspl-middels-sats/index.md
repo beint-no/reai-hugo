@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats"
-seoTitle: "3030-salgsinntekt-handelsvarer-avgiftspl-middels-sats"
-description: '**Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **...'
+seoTitle: "Konto 3030 | Salgsinntekt handelsvarer middels sats | Kontoplan"
+description: "Konto 3030 brukes til å registrere salgsinntekt fra handelsvarer med 15 % MVA. Inkluderer bruksområder, bokføring, periodisering og rapportering."
+summary: "Konto 3030: salgsinntekt handelsvarer med middels MVA-sats. Når og hvordan bokføre."
 ---
 
 **Konto 3030 - Salgsinntekt handelsvarer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsvarer** som er **avgiftspliktige med middels MVA-sats**.

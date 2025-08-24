@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2960 - Påløpt kostnad og forskuddsbetalt inntekt"
-seoTitle: "2960-palopte-kostnad-og-forskuddsbetalt-inntekt"
-description: '**Konto 2960 - Påløpt kostnad og forskuddsbetalt inntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte kostnader** for var...'
+seoTitle: "Konto 2960 | Påløpt kostnad og forskuddsbetalt inntekt | Kontoplan"
+description: "Konto 2960 brukes til periodisering av påløpte kostnader og forskuddsbetalte inntekter. Forklarer bruksområder, balanseføring, bokføring og eksempler i Norsk Standard Kontoplan."
+summary: "Konto 2960: periodisering av påløpte kostnader og forskuddsbetalte inntekter. Når og hvordan bokføre."
 ---
 
 **Konto 2960 - Påløpt kostnad og forskuddsbetalt inntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte kostnader** for varer eller tjenester som er påløpt uten betaling og **forskuddsbetalt inntekt** mottatt for varer eller tjenester som ennå ikke er levert.

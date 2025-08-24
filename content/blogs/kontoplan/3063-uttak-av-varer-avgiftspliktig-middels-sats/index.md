@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3063 - Uttak av varer avgiftspliktig middels sats"
-seoTitle: "3063-uttak-av-varer-avgiftspliktig-middels-sats"
-description: '**Konto 3063 - Uttak av varer avgiftspliktig middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelager...'
+seoTitle: "Konto 3063 | Uttak av varer middels sats | Kontoplan"
+description: "Konto 3063 brukes til å registrere uttak av varer fra lager som er avgiftspliktig med 15 % MVA. Inneholder bruksområder, bokføring, periodisering og rapportering."
+summary: "Konto 3063: uttak av varer med middels MVA-sats. Når og hvordan bokføre."
 ---
 
 **Konto 3063 - Uttak av varer avgiftspliktig middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelageret til bruk i virksomheten, der uttaket er **avgiftspliktig med middels MVA-sats**.

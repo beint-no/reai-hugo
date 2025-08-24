@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3100 - Salgsinntekt handelsvarer avgiftsfri"
-seoTitle: "3100-salgsinntekt-handelsvarer-avgiftsfri"
-description: '**Konto 3100 - Salgsinntekt handelsvarer avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsvarer*...'
+seoTitle: "Konto 3100 | Salgsinntekt handelsvarer avgiftsfri | Kontoplan"
+description: "Konto 3100 brukes til å registrere salgsinntekt fra handelsvarer som er avgiftsfrie (0 % MVA). Inkluderer bruksområder, bokføring, periodisering og rapportering."
+summary: "Konto 3100: salgsinntekt handelsvarer avgiftsfri. Når og hvordan bokføre."
 ---
 
 **Konto 3100 - Salgsinntekt handelsvarer avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **handelsvarer** som er **avgiftsfrie (0 % MVA)**.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3060 - Uttak av varer avgiftspliktig høy sats"
-seoTitle: "3060-uttak-av-varer-avgiftspliktig-hoy-sats"
-description: '**Konto 3060 - Uttak av varer avgiftspliktig høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelageret ...'
+seoTitle: "Konto 3060 | Uttak av varer høy sats | Kontoplan"
+description: "Konto 3060 brukes til å registrere uttak av varer fra lager som er avgiftspliktig med 25 % MVA. Inneholder bruksområder, bokføring, periodisering og rapportering."
+summary: "Konto 3060: uttak av varer med høy MVA-sats. Når og hvordan bokføre."
 ---
 
 **Konto 3060 - Uttak av varer avgiftspliktig høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelageret til bruk i virksomheten, der uttaket er **avgiftspliktig med høy MVA-sats**.
