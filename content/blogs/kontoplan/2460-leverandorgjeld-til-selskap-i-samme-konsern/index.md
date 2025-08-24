@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 2460 - Leverandørgjeld til selskap i samme konsern?"
-seoTitle: "2460-leverandorgjeld-til-selskap-i-samme-konsern"
-description: '**Konto 2460 - Leverandørgjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kortsiktig leverandørgjeld*...'
+seoTitle: "Konto 2460 | Leverandørgjeld konsern | Kontoplan"
+description: "Konto 2460 brukes til å registrere leverandørgjeld til selskap i samme konsern. Les om når kontoen brukes, regnskapsføring av intercompany-kjøp, valuta- og konsolideringshensyn og forskjeller mot relaterte konti."
+summary: "Konto 2460: leverandørgjeld i konsern. Bruk, bokføring og praktiske hensyn."
 ---
 
 **Konto 2460 - Leverandørgjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kortsiktig leverandørgjeld** til konsernselskaper.

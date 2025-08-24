@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 2360 - Byggelån?"
-seoTitle: "2360-byggelan"
-description: '**Konto 2360 - Byggelån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **lån til byggeprosjekter**, både kortsiktige og lan...'
+seoTitle: "Konto 2360 | Byggelån | Kontoplan"
+description: "Konto 2360 brukes til å registrere byggelån knyttet til finansiering av byggeprosjekter. Les om hvordan kontoen brukes i byggeperioden, bokføring av renter og utbetalinger, samt overføring til langsiktig lån ved ferdigstillelse."
+summary: "Konto 2360: byggelån. Bruk i byggeperioden, bokføring og omklassifisering ved ferdigstillelse."
 ---
 
 **Konto 2360 - Byggelån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **lån til byggeprosjekter**, både kortsiktige og langsiktige finansieringsbehov under oppføring eller rehabilitering.

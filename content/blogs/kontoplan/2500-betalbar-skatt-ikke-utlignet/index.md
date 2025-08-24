@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 2500 - Betalbar skatt, ikke utlignet?"
-seoTitle: "2500-betalbar-skatt-ikke-utlignet"
-description: '**Konto 2500 - Betalbar skatt, ikke utlignet** er en konto i Norsk Standard Kontoplan som brukes til å vise **betalbar skatt** som er beregnet, men som ikke er...'
+seoTitle: "Konto 2500 | Betalbar skatt, ikke utlignet | Kontoplan"
+description: "Konto 2500 viser betalbar skatt som er beregnet men ikke utlignet per balansedagen. Les om når kontoen brukes, forskjeller mot relaterte konti, bokføring av periodisering og utligning og praktiske tips."
+summary: "Konto 2500: betalbar skatt, ikke utlignet. Bruk, forskjeller, bokføring og tips."
 ---
 
 **Konto 2500 - Betalbar skatt, ikke utlignet** er en konto i Norsk Standard Kontoplan som brukes til å vise **betalbar skatt** som er beregnet, men som ikke er utlignet mot forskuddsskatt eller andre oppgjør. Denne kontoen presenteres som **kortsiktig gjeld** i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og fungerer som en mellompost frem til faktisk betaling.

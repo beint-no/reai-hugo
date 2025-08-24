@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2270 - Andre valutalån"
-seoTitle: "2270-andre-valutalan"
-description: '**Konto 2270 - Andre valutalån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **andre valutalån**, det vil si lån denominer...'
+seoTitle: "Konto 2270 | Andre valutalån | Kontoplan"
+description: "Konto 2270 er en konto i Norsk Standard Kontoplan som brukes til å registrere andre valutalån, altså lån i utenlandsk valuta som ikke dekkes av andre konti. Les om når kontoen brukes, bokføring, valutarisiko og klassifisering i balansen."
+summary: "Kort guide til konto 2270: andre valutalån, typiske bruksområder, bokføring og vurdering."
 ---
 
 **Konto 2270 - Andre valutalån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **andre valutalån**, det vil si lån denominert i utenlandsk valuta som ikke dekkes av andre kontoer.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2340 - Andre valutalån"
-seoTitle: "2340-andre-valutalan"
-description: '**Konto 2340 - Andre valutalån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **andre valutalån**, det vil si *kortsiktige* ...'
+seoTitle: "Konto 2340 | Andre valutalån | Kontoplan"
+description: "Konto 2340 brukes til å registrere kortsiktige andre valutalån, altså lån i utenlandsk valuta som ikke dekkes av andre konti. Les om bruksområder, bokføring, valutarisiko og klassifisering som kortsiktig gjeld."
+summary: "Konto 2340: kortsiktige valutalån. Når kontoen brukes, bokføring og vurdering."
 ---
 
 **Konto 2340 - Andre valutalån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **andre valutalån**, det vil si *kortsiktige* lån denominert i utenlandsk valuta som ikke dekkes av andre kontoer.
