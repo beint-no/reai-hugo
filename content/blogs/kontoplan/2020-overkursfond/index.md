@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2020 - Overkursfond"
-seoTitle: "2020-overkursfond"
-description: '**Konto 2020 - Overkursfond** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **innskutt overkurs** ved emi...'
+seoTitle: "Konto 2020 | Overkursfond | Kontoplan"
+description: "Konto 2020 brukes til å registrere innskutt overkurs ved emisjoner. Les når kontoen brukes, bokføring og balanseplassering under innskutt egenkapital."
+summary: "Konto 2020 er overkursfond. Kort om bruk, bokføring og balanseføring."
 ---
 
 **Konto 2020 - Overkursfond** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **innskutt overkurs** ved emisjoner.

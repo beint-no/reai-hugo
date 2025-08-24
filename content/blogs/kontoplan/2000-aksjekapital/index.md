@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2000 - Aksjekapital"
-seoTitle: "2000-aksjekapital"
-description: '**Konto 2000 - Aksjekapital** er den første kontoen innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102). Denne kontoen brukes for å registrere aksjonÃ...'
+seoTitle: "Konto 2000 | Aksjekapital | Kontoplan"
+description: "Konto 2000 brukes til å registrere innskutt aksjekapital ved stiftelse og emisjoner. Les om lovkrav, bokføring og presentasjon i balansen."
+summary: "Konto 2000 er aksjekapital. Når brukes den, hvilke krav gjelder og hvordan bokføres den?"
 ---
 
 **Konto 2000 - Aksjekapital** er den første kontoen innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102). Denne kontoen brukes for å registrere aksjonærenes innskutte **aksjekapital** ved stiftelse eller emisjoner.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2010 - Egne aksjer"
-seoTitle: "2010-egne-aksjer"
-description: '**Konto 2010 - Egne aksjer** er en konto i Norsk Standard Kontoplan som brukes til å registrere selskapets **egne aksjer** (også kalt **treasury shares**) som...'
+seoTitle: "Konto 2010 | Egne aksjer | Kontoplan"
+description: "Konto 2010 brukes til å registrere egne aksjer som selskapet har kjøpt tilbake. Se regler, bokføring og presentasjon i balansen."
+summary: "Konto 2010 gjelder egne aksjer. Kort om lovkrav, bokføring og balanseføring."
 ---
 
 **Konto 2010 - Egne aksjer** er en konto i Norsk Standard Kontoplan som brukes til å registrere selskapets **egne aksjer** (også kalt **treasury shares**) som selskapet har kjøpt tilbake.

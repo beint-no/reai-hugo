@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2050 - Annen egenkapital"
-seoTitle: "2050-annen-egenkapital"
-description: '**Konto 2050 - Annen egenkapital** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **annen egenkapital** fo...'
+seoTitle: "Konto 2050 | Annen egenkapital | Kontoplan"
+description: "Konto 2050 brukes til å registrere annen egenkapital, som tilbakeholdt overskudd og overføringer. Se bruksområder, bokføring og balanseføring."
+summary: "Konto 2050 er annen egenkapital. Kort om hva som inngår, bokføring og presentasjon."
 ---
 
 **Konto 2050 - Annen egenkapital** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **annen egenkapital** for poster som ikke har egne standardkontoer.

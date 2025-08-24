@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2040 - Fond for vurderingsforskjeller"
-seoTitle: "2040-fond-for-vurderingsforskjeller"
-description: '**Konto 2040 - Fond for vurderingsforskjeller** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **fond for ...'
+seoTitle: "Konto 2040 | Fond for vurderingsforskjeller | Kontoplan"
+description: "Konto 2040 brukes til fond for vurderingsforskjeller ved omvurdering av anleggsmidler. Les om bruk, bokføring og balanseføring under egenkapital."
+summary: "Konto 2040 er fond for vurderingsforskjeller. Kort om når den brukes og føringsmåte."
 ---
 
 **Konto 2040 - Fond for vurderingsforskjeller** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **fond for vurderingsforskjeller** ved omvurdering av anleggsmidler.
