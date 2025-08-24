@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 5330 - Godtgjørelse til styre- og bedriftsforsamling"
 seoTitle: "5330-godtgjorelse-til-styre-og-bedriftsforsamling"
-meta_description: '**Konto 5330 - Godtgjørelse til styre- og bedriftsforsamling** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **styrehonora...'
-slug: 5330-godtgjorelse-til-styre-og-bedriftsforsamling
-type: blog
-layout: pages/single
+description: '**Konto 5330 - Godtgjørelse til styre- og bedriftsforsamling** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **styrehonora...'
 ---
 
 **Konto 5330 - Godtgjørelse til styre- og bedriftsforsamling** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **styrehonorar** og **godtgjørelse til bedriftsforsamling** i regnskapet.

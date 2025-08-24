@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 4270 - Innkjøpsprisreduksjon, avgiftspliktig"
 seoTitle: "4270-innkjopsprisreduksjon-avgiftspliktig"
-meta_description: '**Konto 4270 - Innkjøpsprisreduksjon, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avgiftspliktige prisavslag** fra l...'
-slug: 4270-innkjopsprisreduksjon-avgiftspliktig
-type: blog
-layout: pages/single
+description: '**Konto 4270 - Innkjøpsprisreduksjon, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avgiftspliktige prisavslag** fra l...'
 ---
 
 **Konto 4270 - Innkjøpsprisreduksjon, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avgiftspliktige prisavslag** fra leverandører på kjøp av varer og tjenester.

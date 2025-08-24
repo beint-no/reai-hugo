@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Selvfinansiering?"
 seoTitle: "Hva er Selvfinansiering?"
-meta_description: '**Selvfinansiering** er en fundamental strategi for å finansiere bedriftens drift og vekst gjennom egen [kapitaltilførsel](/blogs/regnskap/hva-er-kapital "Hva...'
-slug: hva-er-selvfinansiering
-type: blog
-layout: pages/single
+description: '**Selvfinansiering** er en fundamental strategi for å finansiere bedriftens drift og vekst gjennom egen [kapitaltilførsel](/blogs/regnskap/hva-er-kapital "Hva...'
 ---
 
 **Selvfinansiering** er en fundamental strategi for å finansiere bedriftens drift og vekst gjennom egen [kapitaltilførsel](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitalformer og Kapitalforvaltning") og [tilbakeholdt overskudd](/blogs/regnskap/hva-er-overskudd "Hva er Overskudd? Komplett Guide til Resultatet av Bedriftens Virksomhet"). Dette finansieringsverktøyet gir bedrifter større kontroll over sin økonomiske fremtid, reduserer avhengigheten av eksterne långivere og skaper et solid fundament for bærekraftig vekst. For norske bedrifter representerer selvfinansiering ofte den mest kostnadseffektive måten å finansiere utviklingen på, spesielt i lys av [SFDR-krav](/blogs/regnskap/hva-er-sfdr "Hva er SFDR? Guide til Sustainable Finance Disclosure Regulation") som påvirker tilgang til bærekraftig kapital.

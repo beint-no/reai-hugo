@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 6200 - Elektrisitet"
 seoTitle: "6200-elektrisitet"
-meta_description: '**Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontoplan som brukes til å registrere **strøm- og energikostnader** i virksomhetens drift.'
-slug: 6200-elektrisitet
-type: blog
-layout: pages/single
+description: '**Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontoplan som brukes til å registrere **strøm- og energikostnader** i virksomhetens drift.'
 ---
 
 **Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontoplan som brukes til å registrere **strøm- og energikostnader** i virksomhetens drift.

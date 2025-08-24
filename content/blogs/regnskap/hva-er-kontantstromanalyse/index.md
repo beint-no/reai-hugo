@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er kontantstrømanalyse?"
 seoTitle: "Hva er kontantstrømanalyse?"
-meta_description: '**Kontantstrømanalyse** er en av de mest kritiske finansielle analyseteknikkene for å forstå en bedrifts reelle økonomiske helse og likviditet. Mens [result...'
-slug: hva-er-kontantstromanalyse
-type: blog
-layout: pages/single
+description: '**Kontantstrømanalyse** er en av de mest kritiske finansielle analyseteknikkene for å forstå en bedrifts reelle økonomiske helse og likviditet. Mens [result...'
 ---
 
 **Kontantstrømanalyse** er en av de mest kritiske finansielle analyseteknikkene for å forstå en bedrifts reelle økonomiske helse og likviditet. Mens [resultatregnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") viser lønnsomhet, avslører kontantstrømanalysen hvordan kontanter faktisk strømmer inn og ut av virksomheten.

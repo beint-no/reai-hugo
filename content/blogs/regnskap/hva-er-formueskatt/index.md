@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Formueskatt?"
 seoTitle: "Hva er Formueskatt?"
-meta_description: '**Formueskatt** er en skatt på **nettoformue** som ilegges privatpersoner med formue over et fastsatt **bunnfradrag**. Skatten beregnes av differansen mellom n...'
-slug: hva-er-formueskatt
-type: blog
-layout: pages/single
+description: '**Formueskatt** er en skatt på **nettoformue** som ilegges privatpersoner med formue over et fastsatt **bunnfradrag**. Skatten beregnes av differansen mellom n...'
 ---
 
 **Formueskatt** er en skatt på **nettoformue** som ilegges privatpersoner med formue over et fastsatt **bunnfradrag**. Skatten beregnes av differansen mellom nettoformue og bunnfradraget og uttrykkes som en prosentandel.

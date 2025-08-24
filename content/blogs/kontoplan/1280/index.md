@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1280 - Kontormaskiner"
 seoTitle: "1280"
-meta_description: '**Konto 1280 - Kontormaskiner** er en konto i norsk kontoplan som brukes for **kontormaskiner** og **mindre I–¯T-utstyr**.'
-slug: 1280
-type: blog
-layout: pages/single
+description: '**Konto 1280 - Kontormaskiner** er en konto i norsk kontoplan som brukes for **kontormaskiner** og **mindre I–¯T-utstyr**.'
 ---
 
 **Konto 1280 - Kontormaskiner** er en konto i norsk kontoplan som brukes for **kontormaskiner** og **mindre I–¯T-utstyr**.

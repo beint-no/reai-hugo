@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er reindriftsfradrag?"
 seoTitle: "Hva er reindriftsfradrag?"
-meta_description: '**Reindriftsfradrag** er et særskilt **skattefradrag** for reindriftsnæringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkår, beregning, do...'
-slug: hva-er-reindriftsfradrag
-type: blog
-layout: pages/single
+description: '**Reindriftsfradrag** er et særskilt **skattefradrag** for reindriftsnæringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkår, beregning, do...'
 ---
 
 **Reindriftsfradrag** er et særskilt **skattefradrag** for reindriftsnæringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkår, beregning, dokumentasjonskrav og regnskapsføring av reindriftsfradrag.

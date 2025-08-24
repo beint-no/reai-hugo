@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Lønnslipp i Regnskap?"
 seoTitle: "Hva er Lønnslipp i Regnskap?"
-meta_description: '**Lønnslipp** er en detaljert oversikt over lønn og trekk som alle arbeidsgivere i Norge er lovpålagt å gi til sine ansatte. Dette dokumentet, også kalt **...'
-slug: hva-er-lonnslipp
-type: blog
-layout: pages/single
+description: '**Lønnslipp** er en detaljert oversikt over lønn og trekk som alle arbeidsgivere i Norge er lovpålagt å gi til sine ansatte. Dette dokumentet, også kalt **...'
 ---
 
 **Lønnslipp** er en detaljert oversikt over lønn og trekk som alle arbeidsgivere i Norge er lovpålagt å gi til sine ansatte. Dette dokumentet, også kalt **lønnsspecifikasjon**, viser en fullstendig oversikt over bruttolønn, forskuddstrekk, arbeidsgiveravgift og andre viktige lønnsopplysninger. Lønnslipp er et viktig dokument både for den ansatte og for regnskapsføringen i bedriften.

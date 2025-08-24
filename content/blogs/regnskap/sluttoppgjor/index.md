@@ -1,10 +1,7 @@
 ﻿---
 title: "Sluttoppgjør i regnskap"
 seoTitle: "Sluttoppgjør i regnskap"
-meta_description: '**Sluttoppgjør i regnskap** er den siste fasen i regnskapsprosessen hvor alle kontoer avstemmes, justeringer gjennomføres og regnskapet endelig godkjennes. Sl...'
-slug: sluttoppgjor
-type: blog
-layout: pages/single
+description: '**Sluttoppgjør i regnskap** er den siste fasen i regnskapsprosessen hvor alle kontoer avstemmes, justeringer gjennomføres og regnskapet endelig godkjennes. Sl...'
 ---
 
 **Sluttoppgjør i regnskap** er den siste fasen i regnskapsprosessen hvor alle kontoer avstemmes, justeringer gjennomføres og regnskapet endelig godkjennes. Sluttoppgjøret sikrer at [årsavslutningen](/blogs/regnskap/hva-er-aarsavslutning "Årsavslutning i regnskap") er komplett og at regnskapet gir et **rettvisende bilde** av virksomhetens økonomiske situasjon.

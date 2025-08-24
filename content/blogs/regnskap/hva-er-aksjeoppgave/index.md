@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Aksjeoppgave? En Komplett Guide"
 seoTitle: "Hva er en Aksjeoppgave? En Komplett Guide"
-meta_description: 'Aksjeoppgaven, offisielt kjent som **RF-1086**, er en årlig og obligatorisk rapportering for alle norske aksjeselskaper (AS) og allmennaksjeselskaper (ASA). De...'
-slug: hva-er-aksjeoppgave
-type: blog
-layout: pages/single
+description: 'Aksjeoppgaven, offisielt kjent som **RF-1086**, er en årlig og obligatorisk rapportering for alle norske aksjeselskaper (AS) og allmennaksjeselskaper (ASA). De...'
 ---
 
 Aksjeoppgaven, offisielt kjent som **RF-1086**, er en årlig og obligatorisk rapportering for alle norske aksjeselskaper (AS) og allmennaksjeselskaper (ASA). Denne rapporten gir Skatteetaten en detaljert oversikt over alle bevegelser og hendelser knyttet til selskapets aksjer gjennom inntektsåret. Informasjonen brukes til å forhåndsutfylle aksjonærenes personlige skattemeldinger og sikre korrekt skattlegging av aksjeinntekter og -formue.

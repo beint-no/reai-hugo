@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er GLN-nummer?"
 seoTitle: "Hva er GLN-nummer?"
-meta_description: '**GLN-nummer** (Global Location Number) er en internasjonal GS1-standard som brukes for entydig identifikasjon av fysiske lokasjoner, partnere og adresser i ver...'
-slug: hva-er-gln-nummer
-type: blog
-layout: pages/single
+description: '**GLN-nummer** (Global Location Number) er en internasjonal GS1-standard som brukes for entydig identifikasjon av fysiske lokasjoner, partnere og adresser i ver...'
 ---
 
 **GLN-nummer** (Global Location Number) er en internasjonal GS1-standard som brukes for entydig identifikasjon av fysiske lokasjoner, partnere og adresser i verdikjeden. For norske bedrifter er **GLN-nummer** essensielt for effektiv [lagerstyring](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Varige Driftsmidler og Avskrivninger") og nøyaktig [leverandør- og kundeidentifikasjon](/blogs/regnskap/hva-er-organisasjonsnummer "Hva er Organisasjonsnummer? Komplett Guide til Identifikatorer i Norge").

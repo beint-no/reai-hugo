@@ -1,10 +1,7 @@
 ﻿---
 title: "Udekket tap"
 seoTitle: "Udekket tap"
-meta_description: '**Udekket tap** er et viktig begrep i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap") som viser akkumulerte tap ...'
-slug: udekket-tap
-type: blog
-layout: pages/single
+description: '**Udekket tap** er et viktig begrep i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap") som viser akkumulerte tap ...'
 ---
 
 **Udekket tap** er et viktig begrep i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap") som viser akkumulerte tap som ikke er dekket av innskutt egenkapital. Begrepet er sentralt for å forstå når et selskap har negativ egenkapital og hvilke tiltak som må vurderes.

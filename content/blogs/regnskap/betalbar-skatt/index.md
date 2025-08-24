@@ -1,10 +1,7 @@
 ﻿---
 title: "Betalbar skatt"
 seoTitle: "Betalbar skatt"
-meta_description: '**Betalbar skatt** er det beløpet en virksomhet må betale i [firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selska...'
-slug: betalbar-skatt
-type: blog
-layout: pages/single
+description: '**Betalbar skatt** er det beløpet en virksomhet må betale i [firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selska...'
 ---
 
 **Betalbar skatt** er det beløpet en virksomhet må betale i [firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selskaper") (også kalt **selskapsskatt**) basert på det skattemessige resultatet. Dette er den **faktiske skatteforpliktelsen** som føres som gjeld i balansen og forfaller til betaling når [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering") er behandlet.

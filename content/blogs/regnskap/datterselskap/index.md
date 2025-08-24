@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Datterselskap?"
 seoTitle: "Hva er Datterselskap?"
-meta_description: '**Datterselskap** er et selskap som er kontrollert av et [morselskap](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og ...'
-slug: datterselskap
-type: blog
-layout: pages/single
+description: '**Datterselskap** er et selskap som er kontrollert av et [morselskap](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og ...'
 ---
 
 **Datterselskap** er et selskap som er kontrollert av et [morselskap](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og Konsernledelse"). I en [konsernstruktur](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukturer og Konsolidering") er datterselskapene de selskapene som står under morselskapets bestemmende innflytelse. Dette har viktige juridiske og regnskapsmessige konsekvenser for både morselskapet og konsernet som helhet.

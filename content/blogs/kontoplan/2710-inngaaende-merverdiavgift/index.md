@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2710 - Inngående merverdiavgift"
 seoTitle: "2710-inngaaende-merverdiavgift"
-meta_description: '**Konto 2710 - Inngående merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift (MVA)** som et fradra...'
-slug: 2710-inngaaende-merverdiavgift
-type: blog
-layout: pages/single
+description: '**Konto 2710 - Inngående merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift (MVA)** som et fradra...'
 ---
 
 **Konto 2710 - Inngående merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift (MVA)** som et fradrag i regnskapet for kjøp av varer og tjenester.

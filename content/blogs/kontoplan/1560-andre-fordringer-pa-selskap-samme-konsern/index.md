@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 1560 - Andre fordringer på selskap samme konsern?"
 seoTitle: "1560-andre-fordringer-pa-selskap-samme-konsern"
-meta_description: '**Konto 1560 - Andre fordringer på selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige fordringer**...'
-slug: 1560-andre-fordringer-pa-selskap-samme-konsern
-type: blog
-layout: pages/single
+description: '**Konto 1560 - Andre fordringer på selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige fordringer**...'
 ---
 
 **Konto 1560 - Andre fordringer på selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige fordringer** mot selskaper i samme konsern som ikke faller inn under kundefordringer.

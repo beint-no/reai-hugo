@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Brutto i Regnskap?"
 seoTitle: "Hva er Brutto i Regnskap?"
-meta_description: '**Brutto** er et grunnleggende begrep i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som refererer til **totalbeløpet fø...'
-slug: hva-er-brutto
-type: blog
-layout: pages/single
+description: '**Brutto** er et grunnleggende begrep i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som refererer til **totalbeløpet fø...'
 ---
 
 **Brutto** er et grunnleggende begrep i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som refererer til **totalbeløpet før fradrag** av skatter, avgifter, kostnader eller andre reduksjoner. Begrepet brukes i mange sammenhenger og er essensielt for å forstå forskjellen mellom brutto- og nettoverdier i regnskapsføringen.

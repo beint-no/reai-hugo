@@ -1,10 +1,7 @@
 ﻿---
 title: "Rammelån"
 seoTitle: "Rammelån"
-meta_description: 'Rammelån er en **fleksibel finansieringsløsning** hvor banken etablerer en **rammekreditt** som virksomheten kan disponere innenfor en forhåndsdefinert grens...'
-slug: rammelan
-type: blog
-layout: pages/single
+description: 'Rammelån er en **fleksibel finansieringsløsning** hvor banken etablerer en **rammekreditt** som virksomheten kan disponere innenfor en forhåndsdefinert grens...'
 ---
 
 Rammelån er en **fleksibel finansieringsløsning** hvor banken etablerer en **rammekreditt** som virksomheten kan disponere innenfor en forhåndsdefinert grense. Dette gir bedrifter mulighet til å låne etter behov, med flytende rente og _avdragsfrihet_ så lenge kredittrammen ikke overskrides.

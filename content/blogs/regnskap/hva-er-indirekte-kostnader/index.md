@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Indirekte kostnader?"
 seoTitle: "Hva er Indirekte kostnader?"
-meta_description: '**Indirekte kostnader** (også kalt _overhead_ eller **felleskostnader**) er kostnader som ikke kan spores direkte til et spesifikt produkt, en tjeneste eller e...'
-slug: hva-er-indirekte-kostnader
-type: blog
-layout: pages/single
+description: '**Indirekte kostnader** (også kalt _overhead_ eller **felleskostnader**) er kostnader som ikke kan spores direkte til et spesifikt produkt, en tjeneste eller e...'
 ---
 
 **Indirekte kostnader** (også kalt _overhead_ eller **felleskostnader**) er kostnader som ikke kan spores direkte til et spesifikt produkt, en tjeneste eller et kostnadssted. Disse kostnadene oppstår for å støtte den generelle driften av virksomheten og må fordeles på en hensiktsmessig måte.

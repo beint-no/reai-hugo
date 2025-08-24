@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Balansebasert Verdivurdering?"
 seoTitle: "Hva er Balansebasert Verdivurdering?"
-meta_description: '**Balansebasert verdivurdering** er prosessen med å fastsette verdien av [eiendeler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler...'
-slug: hva-er-balansebasert-verdivurdering
-type: blog
-layout: pages/single
+description: '**Balansebasert verdivurdering** er prosessen med å fastsette verdien av [eiendeler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler...'
 ---
 
 **Balansebasert verdivurdering** er prosessen med å fastsette verdien av [eiendeler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Balansen") og gjeld i [balansen](/blogs/regnskap/hva-er-avslutningsbalanse "Hva er Avslutningsbalanse? Guide til Årsoppgjør og Balanseoppsett"). Dette er et **grunnleggende prinsipp** i regnskapsføring som påvirker hvordan selskaper presenterer sin finansielle stilling og verdiskapning. I motsetning til [inntjeningsbasert verdivurdering](/blogs/regnskap/hva-er-inntjeningsbasert-verdivurdering "Inntjeningsbasert Verdivurdering - DCF, P/E og Verdsettelsesmetoder") som fokuserer på fremtidig inntjening, ser balansebasert verdivurdering på nåværende eiendeler og forpliktelser. For å forstå sammenhengen mellom markedsverdi og bokført verdi, se [Q-ratio](/blogs/regnskap/hva-er-q-ratio "Hva er Q-ratio (Tobin's Q)? Komplett Guide til Verdivurdering og Markedsanalyse").

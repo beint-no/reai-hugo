@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er goodwill?"
 seoTitle: "Hva er goodwill?"
-meta_description: '**Goodwill** er en **immateriell [eiendel](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som oppstår nå...'
-slug: hva-er-goodwill
-type: blog
-layout: pages/single
+description: '**Goodwill** er en **immateriell [eiendel](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som oppstår nå...'
 ---
 
 **Goodwill** er en **immateriell [eiendel](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som oppstår når et selskap kjøper et annet selskap for en pris som overstiger den virkelige verdien av de identifiserbare [eiendelene](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier") minus gjeld. Goodwill representerer **[imaterielle verdier](/blogs/regnskap/hva-er-imaterielle-rettigheter "Hva er Imaterielle Rettigheter? Komplett Guide til Regnskapsføring og Verdivurdering")** som merkevaregjenkjenning, kundelojalitet, ansattes kompetanse og markedsposisjon som ikke kan måles direkte, men som bidrar til selskapets fremtidige inntjeningsevne. I norsk kontoplan registreres goodwill på [konto 1080](/blogs/kontoplan/1080-goodwill "Konto 1080 - Goodwill").

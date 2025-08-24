@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Regnskapskonto?"
 seoTitle: "Hva er en Regnskapskonto?"
-meta_description: 'En **regnskapskonto** er en unik konto i en [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")...'
-slug: hva-er-regnskapskonto
-type: blog
-layout: pages/single
+description: 'En **regnskapskonto** er en unik konto i en [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")...'
 ---
 
 En **regnskapskonto** er en unik konto i en [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap") som brukes til å registrere og rapportere spesifikke økonomiske transaksjoner i et selskaps [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring i Norge"). Regnskapskontoen består av et **kontonummer** og en **kontobeskrivelse**, og er selve byggesteinen i bokføringen.

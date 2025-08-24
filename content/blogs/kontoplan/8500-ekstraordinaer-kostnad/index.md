@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 8500 - Ekstraordinær kostnad"
 seoTitle: "8500-ekstraordinaer-kostnad"
-meta_description: '**Konto 8500 - Ekstraordinær kostnad** er en konto i Norsk Standard Kontoplan som brukes til å registrere **ekstraordinær kostnad**, dvs. engangs- eller ufor...'
-slug: 8500-ekstraordinaer-kostnad
-type: blog
-layout: pages/single
+description: '**Konto 8500 - Ekstraordinær kostnad** er en konto i Norsk Standard Kontoplan som brukes til å registrere **ekstraordinær kostnad**, dvs. engangs- eller ufor...'
 ---
 
 **Konto 8500 - Ekstraordinær kostnad** er en konto i Norsk Standard Kontoplan som brukes til å registrere **ekstraordinær kostnad**, dvs. engangs- eller uforutsigbare utgifter utenom ordinær drift.

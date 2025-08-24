@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1840 - Andre obligasjoner"
 seoTitle: "1840-andre-obligasjoner"
-meta_description: '**Konto 1840 - Andre obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre obligasjoner** som ikke dekkes av markedsbaserte...'
-slug: 1840-andre-obligasjoner
-type: blog
-layout: pages/single
+description: '**Konto 1840 - Andre obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre obligasjoner** som ikke dekkes av markedsbaserte...'
 ---
 
 **Konto 1840 - Andre obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre obligasjoner** som ikke dekkes av markedsbaserte eller langsiktige obligasjoner. Disse instrumentene måles som regel til **anskaffelseskost** i [balansen](/blogs/regnskap/hva-er-balanseregnskap "Hva er Balanseregnskap?").

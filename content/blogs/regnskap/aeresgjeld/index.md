@@ -1,10 +1,7 @@
 ﻿---
 title: "Æresgjeld – Forståelse av æresbasert forpliktelse i norsk regnskap"
 seoTitle: "Æresgjeld “ Forståelse av æresbasert forpliktelse i norsk regnskap"
-meta_description: '**Æresgjeld** er en forpliktelse basert på tillit og ære uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap når muntlige avtaler gir gj...'
-slug: aeresgjeld
-type: blog
-layout: pages/single
+description: '**Æresgjeld** er en forpliktelse basert på tillit og ære uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap når muntlige avtaler gir gj...'
 ---
 
 **Æresgjeld** er en forpliktelse basert på tillit og ære uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap når muntlige avtaler gir gjeldsforpliktelser som må håndteres korrekt.

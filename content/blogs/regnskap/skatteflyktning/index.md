@@ -1,10 +1,7 @@
 ﻿---
 title: "Skatteflyktning"
 seoTitle: "Skatteflyktning"
-meta_description: 'En **skatteflyktning** er en person eller et selskap som bytter skattemessig bosted til et annet land for å oppnå lavere **skattebelastning**. Dette gjøres v...'
-slug: skatteflyktning
-type: blog
-layout: pages/single
+description: 'En **skatteflyktning** er en person eller et selskap som bytter skattemessig bosted til et annet land for å oppnå lavere **skattebelastning**. Dette gjøres v...'
 ---
 
 En **skatteflyktning** er en person eller et selskap som bytter skattemessig bosted til et annet land for å oppnå lavere **skattebelastning**. Dette gjøres ved å flytte skattemessig hjemsted, eierskap eller reell økonomisk aktivitet til jurisdiksjoner med gunstigere skatteregler.

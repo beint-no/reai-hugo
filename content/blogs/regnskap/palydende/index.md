@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Pålydende?"
 seoTitle: "Hva er Pålydende?"
-meta_description: '**Pålydende**, også kjent som **nominell verdi**, beskriver den fastsatte verdien av et finansielt instrument ved utstedelse. For aksjer angir pålydende den ...'
-slug: palydende
-type: blog
-layout: pages/single
+description: '**Pålydende**, også kjent som **nominell verdi**, beskriver den fastsatte verdien av et finansielt instrument ved utstedelse. For aksjer angir pålydende den ...'
 ---
 
 **Pålydende**, også kjent som **nominell verdi**, beskriver den fastsatte verdien av et finansielt instrument ved utstedelse. For aksjer angir pålydende den verdi hver aksje representerer av selskapets aksjekapital, mens for obligasjoner angir pålydende det beløpet som vil bli tilbakebetalt ved forfall (face value). Pålydende skiller seg fra [emisjonskurs](/blogs/regnskap/emisjon "Hva er Emisjon? En komplett guide til kapitalforhøyelse og aksjeutstedelse") og **markedskurs** i hvordan de fastsettes og anvendes i praksis.

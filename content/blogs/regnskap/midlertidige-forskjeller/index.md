@@ -1,10 +1,7 @@
 ﻿---
 title: "Midlertidige forskjeller i regnskap og skatt"
 seoTitle: "Midlertidige forskjeller i regnskap og skatt"
-meta_description: '**Midlertidige forskjeller** oppstår når den regnskapsmessige verdien av en eiendel eller forpliktelse avviker fra dens skattemessige grunnlag. Slike avvik sk...'
-slug: midlertidige-forskjeller
-type: blog
-layout: pages/single
+description: '**Midlertidige forskjeller** oppstår når den regnskapsmessige verdien av en eiendel eller forpliktelse avviker fra dens skattemessige grunnlag. Slike avvik sk...'
 ---
 
 **Midlertidige forskjeller** oppstår når den regnskapsmessige verdien av en eiendel eller forpliktelse avviker fra dens skattemessige grunnlag. Slike avvik skaper grunnlag for [utsatt skatt](/blogs/regnskap/hva-er-utsatt-skatt "Hva er Utsatt Skatt? Beregning og Regnskapsføring") i balansen.

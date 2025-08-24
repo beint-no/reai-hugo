@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 7630 - Kontroll-, prøve- og stempelavgifter?"
 seoTitle: "7630"
-meta_description: '**Konto 7630 - Kontroll-, prøve- og stempelavgifter** er en kostnadskonto i norsk kontoplan som benyttes for å registrere **kontrollavgifter**, **prøveavgift...'
-slug: 7630
-type: blog
-layout: pages/single
+description: '**Konto 7630 - Kontroll-, prøve- og stempelavgifter** er en kostnadskonto i norsk kontoplan som benyttes for å registrere **kontrollavgifter**, **prøveavgift...'
 ---
 
 **Konto 7630 - Kontroll-, prøve- og stempelavgifter** er en kostnadskonto i norsk kontoplan som benyttes for å registrere **kontrollavgifter**, **prøveavgifter** og **stempelavgifter** ved offentlige kontrolltiltak, testing og stempling av dokumenter eller varer.

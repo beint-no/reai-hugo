@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er omløpshastighet?"
 seoTitle: "Hva er omløpshastighet?"
-meta_description: '**Omløpshastighet** er et nøkkeltall som måler hvor effektivt en bedrift selger og erstatter sitt varelager i løpet av en periode. Dette tallet er viktig fo...'
-slug: hva-er-omlops-hastighet
-type: blog
-layout: pages/single
+description: '**Omløpshastighet** er et nøkkeltall som måler hvor effektivt en bedrift selger og erstatter sitt varelager i løpet av en periode. Dette tallet er viktig fo...'
 ---
 
 **Omløpshastighet** er et nøkkeltall som måler hvor effektivt en bedrift selger og erstatter sitt varelager i løpet av en periode. Dette tallet er viktig for å vurdere lagerstyring, kontantstrøm og [arbeidskapitalen](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? En Komplett Guide til Working Capital") i selskapet.

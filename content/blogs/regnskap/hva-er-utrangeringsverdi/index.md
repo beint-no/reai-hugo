@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Utrangeringsverdi i Regnskap?"
 seoTitle: "Hva er Utrangeringsverdi i Regnskap?"
-meta_description: '**Utrangeringsverdi** er den **estimerte salgsverdien** av et [anleggsmiddel](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Materielle, Immateriel...'
-slug: hva-er-utrangeringsverdi
-type: blog
-layout: pages/single
+description: '**Utrangeringsverdi** er den **estimerte salgsverdien** av et [anleggsmiddel](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Materielle, Immateriel...'
 ---
 
 **Utrangeringsverdi** er den **estimerte salgsverdien** av et [anleggsmiddel](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Materielle, Immaterielle og Finansielle Eiendeler") ved utløpet av dets **brukstid**, også kalt **restverdi** eller **sluttverdi**. Dette er en kritisk komponent i [avskrivningsberegninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler") og påvirker både [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Bokføringsprinsipper") og **investeringsbeslutninger**.

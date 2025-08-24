@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Nettolønn?"
 seoTitle: "Hva er Nettolønn?"
-meta_description: '**Nettolønn** er beløpet en ansatt mottar etter at alle lovpålagte fradrag, skatter og avgifter er trukket fra [bruttolønnen](/blogs/regnskap/hva-er-bruttol...'
-slug: nettolonn
-type: blog
-layout: pages/single
+description: '**Nettolønn** er beløpet en ansatt mottar etter at alle lovpålagte fradrag, skatter og avgifter er trukket fra [bruttolønnen](/blogs/regnskap/hva-er-bruttol...'
 ---
 
 **Nettolønn** er beløpet en ansatt mottar etter at alle lovpålagte fradrag, skatter og avgifter er trukket fra [bruttolønnen](/blogs/regnskap/hva-er-bruttolonn "Hva er Bruttolønn? Definisjon, Beregning og Praktisk Anvendelse"). Dette er den endelige utbetalingen som overføres til bankkontoen og som arbeidstaker kan disponere fritt.

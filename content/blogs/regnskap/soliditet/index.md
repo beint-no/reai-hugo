@@ -1,10 +1,7 @@
 ﻿---
 title: "Soliditet"
 seoTitle: "Soliditet"
-meta_description: '**Soliditet** er en sentral **soliditetsindikator** som måler andelen egenkapital i forhold til totalkapitalen og gir innsikt i en virksomhets langsiktige fina...'
-slug: soliditet
-type: blog
-layout: pages/single
+description: '**Soliditet** er en sentral **soliditetsindikator** som måler andelen egenkapital i forhold til totalkapitalen og gir innsikt i en virksomhets langsiktige fina...'
 ---
 
 **Soliditet** er en sentral **soliditetsindikator** som måler andelen egenkapital i forhold til totalkapitalen og gir innsikt i en virksomhets langsiktige finansielle robusthet.

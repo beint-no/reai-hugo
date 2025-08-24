@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Emisjon? En komplett guide til kapitalforhøyelse og aksjeutstedelse"
 seoTitle: "Hva er Emisjon? En komplett guide til kapitalforhøyelse og aksjeutstedelse"
-meta_description: '**Emisjon** er prosessen hvor et selskap utsteder nye aksjer eller andeler for å hente inn **egenkapital**. En emisjon er en måte å gjennomføre en [kapitalf...'
-slug: emisjon
-type: blog
-layout: pages/single
+description: '**Emisjon** er prosessen hvor et selskap utsteder nye aksjer eller andeler for å hente inn **egenkapital**. En emisjon er en måte å gjennomføre en [kapitalf...'
 ---
 
 **Emisjon** er prosessen hvor et selskap utsteder nye aksjer eller andeler for å hente inn **egenkapital**. En emisjon er en måte å gjennomføre en [kapitalforhøyelse](/blogs/regnskap/kapitalforhoyelse "Kapitalforhøyelse: Metoder og Regnskapsføring") på for å finansiere vekst, investeringer eller nedbetaling av gjeld.

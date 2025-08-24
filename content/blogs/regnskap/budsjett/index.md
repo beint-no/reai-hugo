@@ -1,10 +1,7 @@
 ﻿---
 title: "Budsjett"
 seoTitle: "Budsjett"
-meta_description: '**Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") for ...'
-slug: budsjett
-type: blog
-layout: pages/single
+description: '**Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") for ...'
 ---
 
 **Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") for en fremtidig periode. Et godt budsjett hjelper bedrifter med å styre ressurser, sette mål og kontrollere økonomien.

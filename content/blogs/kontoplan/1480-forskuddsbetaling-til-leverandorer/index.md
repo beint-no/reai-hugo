@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1480 - Forskuddsbetaling til leverandører"
 seoTitle: "1480-forskuddsbetaling-til-leverandorer"
-meta_description: '**Konto 1480 - Forskuddsbetaling til leverandører** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forskuddsbetalinger** til leverandør...'
-slug: 1480-forskuddsbetaling-til-leverandorer
-type: blog
-layout: pages/single
+description: '**Konto 1480 - Forskuddsbetaling til leverandører** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forskuddsbetalinger** til leverandør...'
 ---
 
 **Konto 1480 - Forskuddsbetaling til leverandører** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forskuddsbetalinger** til leverandører som betales før levering av varer eller tjenester.

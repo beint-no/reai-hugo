@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Styringsrente?"
 seoTitle: "Hva er Styringsrente?"
-meta_description: '**Styringsrente** er den **renten** Norges Bank fastsetter for å styre pengepolitikken og sikre prisstabilitet i norsk økonomi.'
-slug: styringsrente
-type: blog
-layout: pages/single
+description: '**Styringsrente** er den **renten** Norges Bank fastsetter for å styre pengepolitikken og sikre prisstabilitet i norsk økonomi.'
 ---
 
 **Styringsrente** er den **renten** Norges Bank fastsetter for å styre pengepolitikken og sikre prisstabilitet i norsk økonomi.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Skatt?"
 seoTitle: "Hva er Skatt?"
-meta_description: '**Skatt** er en grunnleggende del av alle virksomheters økonomi og regnskap. Det er en obligatorisk avgift som pålegges av staten for å finansiere offentlige...'
-slug: hva-er-skatt
-type: blog
-layout: pages/single
+description: '**Skatt** er en grunnleggende del av alle virksomheters økonomi og regnskap. Det er en obligatorisk avgift som pålegges av staten for å finansiere offentlige...'
 ---
 
 **Skatt** er en grunnleggende del av alle virksomheters økonomi og regnskap. Det er en obligatorisk avgift som pålegges av staten for å finansiere offentlige tjenester og infrastruktur. For bedrifter innebærer skatteplanlegging og -håndtering komplekse regnskaps- og juridiske prosesser som påvirker både [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Bedriftens Betalingsevne") og [lønnsomhet](/blogs/regnskap/hva-er-loennsomhet "Hva er Lønnsomhet? Måling og Analyse av Bedriftens Økonomiske Ytelse"). Den praktiske rapporteringen av skatteinformasjon skjer gjennom [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering"), som er det viktigste dokumentet for skatteoppgjøret.

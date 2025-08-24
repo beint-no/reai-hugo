@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Sykepenger?"
 seoTitle: "Hva er Sykepenger?"
-meta_description: '**Sykepenger** er en viktig del av det norske trygdesystemet som sikrer lønnsmottakere økonomisk trygghet ved sykdom. For arbeidsgivere innebærer sykepengeor...'
-slug: hva-er-sykepenger
-type: blog
-layout: pages/single
+description: '**Sykepenger** er en viktig del av det norske trygdesystemet som sikrer lønnsmottakere økonomisk trygghet ved sykdom. For arbeidsgivere innebærer sykepengeor...'
 ---
 
 **Sykepenger** er en viktig del av det norske trygdesystemet som sikrer lønnsmottakere økonomisk trygghet ved sykdom. For arbeidsgivere innebærer sykepengeordningen betydelige administrative og økonomiske forpliktelser som påvirker [lønnskostnader](/blogs/regnskap/hva-er-loennskostnad "Hva er Lønnskostnad? Beregning og Regnskapsføring") og [kontantstrøm](/blogs/regnskap/hva-er-kontantstrom "Hva er Kontantstrøm? Analyse og Forvaltning av Bedriftens Pengestrøm"). Forståelse av sykepengeordningen er essensielt for korrekt regnskapsføring og effektiv personaladministrasjon.

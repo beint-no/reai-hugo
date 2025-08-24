@@ -1,10 +1,7 @@
 ﻿---
 title: "Konsolidering"
 seoTitle: "Konsolidering"
-meta_description: '**Konsolidering** er prosessen med å utarbeide ett samlet [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukt...'
-slug: konsolidering
-type: blog
-layout: pages/single
+description: '**Konsolidering** er prosessen med å utarbeide ett samlet [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukt...'
 ---
 
 **Konsolidering** er prosessen med å utarbeide ett samlet [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukturer og Konsolidering") for flere selskaper som står under felles kontroll. Det innebærer **sammenstilling** av regnskaper, **eliminering** av interne transaksjoner og **justering** for minoritetsinteresser.

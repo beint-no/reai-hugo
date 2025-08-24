@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3180 - Rabatter og annen salgsinntektsreduksjon avgiftsfri"
 seoTitle: "3180-rabatter-og-annen-salgsinntektsreduksjon-avgiftsfri"
-meta_description: '**Konto 3180 - Rabatter og annen salgsinntektsreduksjon avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **rabatter** og annen *...'
-slug: 3180-rabatter-og-annen-salgsinntektsreduksjon-avgiftsfri
-type: blog
-layout: pages/single
+description: '**Konto 3180 - Rabatter og annen salgsinntektsreduksjon avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **rabatter** og annen *...'
 ---
 
 **Konto 3180 - Rabatter og annen salgsinntektsreduksjon avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **rabatter** og annen **salgsinntektsreduksjon** for varer eller tjenester som er **avgiftsfrie (0 % MVA)**.

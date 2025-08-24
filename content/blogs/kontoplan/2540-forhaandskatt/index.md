@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 2540 - Forhåndsskatt?"
 seoTitle: "2540-forhaandskatt"
-meta_description: '**Konto 2540 - Forhåndsskatt** er en konto i Norsk Standard Kontoplan som brukes for å vise innbetalte **forskuddsbetalinger av skatt** som en kortsiktig gjel...'
-slug: 2540-forhaandskatt
-type: blog
-layout: pages/single
+description: '**Konto 2540 - Forhåndsskatt** er en konto i Norsk Standard Kontoplan som brukes for å vise innbetalte **forskuddsbetalinger av skatt** som en kortsiktig gjel...'
 ---
 
 **Konto 2540 - Forhåndsskatt** er en konto i Norsk Standard Kontoplan som brukes for å vise innbetalte **forskuddsbetalinger av skatt** som en kortsiktig gjeld.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Prosjektregnskap?"
 seoTitle: "Hva er Prosjektregnskap?"
-meta_description: '**Prosjektregnskap** er en regnskapsmetode for å spore kostnader og inntekter knyttet til enkeltprosjekter. Dette gir bedrifter innsikt i prosjektets økonomis...'
-slug: hva-er-prosjektregnskap
-type: blog
-layout: pages/single
+description: '**Prosjektregnskap** er en regnskapsmetode for å spore kostnader og inntekter knyttet til enkeltprosjekter. Dette gir bedrifter innsikt i prosjektets økonomis...'
 ---
 
 **Prosjektregnskap** er en regnskapsmetode for å spore kostnader og inntekter knyttet til enkeltprosjekter. Dette gir bedrifter innsikt i prosjektets økonomiske status, forbedret kontroll og et bedre beslutningsgrunnlag.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Alminnelig inntekt"
 seoTitle: "Alminnelig inntekt"
-meta_description: '**Alminnelig inntekt** er grunnlaget for å beregne skatt (22–¯%) for norske selskaper og [personlig næringsdrivende](/blogs/regnskap/naeringsinntekt Næring...'
-slug: alminnelig-inntekt
-type: blog
-layout: pages/single
+description: '**Alminnelig inntekt** er grunnlaget for å beregne skatt (22–¯%) for norske selskaper og [personlig næringsdrivende](/blogs/regnskap/naeringsinntekt Næring...'
 ---
 
 **Alminnelig inntekt** er grunnlaget for å beregne skatt (22–¯%) for norske selskaper og [personlig næringsdrivende](/blogs/regnskap/naeringsinntekt "Næringsinntekt “ Komplett guide til næringsinntekt for selvstendig næringsdrivende"). Forståelsen av alminnelig inntekt er avgjørende for korrekt rapportering til Skatteetaten og optimal skatteplanlegging.

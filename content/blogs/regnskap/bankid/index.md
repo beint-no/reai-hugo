@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er BankID?"
 seoTitle: "Hva er BankID?"
-meta_description: 'BankID er **den mest brukte digitale identitets- og signaturløsningen** i Norge, og spiller en sentral rolle innen **regnskap**, **banktjenester** og **offentl...'
-slug: bankid
-type: blog
-layout: pages/single
+description: 'BankID er **den mest brukte digitale identitets- og signaturløsningen** i Norge, og spiller en sentral rolle innen **regnskap**, **banktjenester** og **offentl...'
 ---
 
 BankID er **den mest brukte digitale identitets- og signaturløsningen** i Norge, og spiller en sentral rolle innen **regnskap**, **banktjenester** og **offentlige systemer**. Med BankID kan brukere autentisere seg sikkert og signere dokumenter elektronisk, noe som forenkler arbeidsflyter og ivaretar strenge sikkerhetskrav.

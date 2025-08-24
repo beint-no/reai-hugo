@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er honorar (regnskap)?"
 seoTitle: "Hva er honorar (regnskap)?"
-meta_description: '**Honorar** i regnskapssammenheng refererer til [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensas...'
-slug: hva-er-honorar
-type: blog
-layout: pages/single
+description: '**Honorar** i regnskapssammenheng refererer til [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensas...'
 ---
 
 **Honorar** i regnskapssammenheng refererer til [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensasjon") som utbetales til personer for utførte tjenester, uten at det foreligger et tradisjonelt arbeidsforhold. Dette er et viktig konsept i [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring i Norge") som krever spesiell oppmerksomhet når det gjelder [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring og Bokføringsprinsipper") og skattemessig behandling.

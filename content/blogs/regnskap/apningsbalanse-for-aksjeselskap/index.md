@@ -1,10 +1,7 @@
 ﻿---
 title: "Åpningsbalanse for aksjeselskap"
 seoTitle: "Åpningsbalanse for aksjeselskap"
-meta_description: 'En **åpningsbalanse** for et **aksjeselskap (AS)** er den første balansen som viser selskapets finansielle stilling ved oppstart eller ved nytt regnskapsår. ...'
-slug: apningsbalanse-for-aksjeselskap
-type: blog
-layout: pages/single
+description: 'En **åpningsbalanse** for et **aksjeselskap (AS)** er den første balansen som viser selskapets finansielle stilling ved oppstart eller ved nytt regnskapsår. ...'
 ---
 
 En **åpningsbalanse** for et **aksjeselskap (AS)** er den første balansen som viser selskapets finansielle stilling ved oppstart eller ved nytt regnskapsår. Den definerer alle **eiendeler**, **gjeld** og **egenkapital**, deriblant den innbetalte [aksjekapitalen](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring") og eventuell overkurs.

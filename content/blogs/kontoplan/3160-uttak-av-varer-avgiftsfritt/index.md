@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3160 - Uttak av varer avgiftsfritt"
 seoTitle: "3160-uttak-av-varer-avgiftsfritt"
-meta_description: '**Konto 3160 - Uttak av varer avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelageret til bruk i v...'
-slug: 3160-uttak-av-varer-avgiftsfritt
-type: blog
-layout: pages/single
+description: '**Konto 3160 - Uttak av varer avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelageret til bruk i v...'
 ---
 
 **Konto 3160 - Uttak av varer avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av varer** fra varelageret til bruk i virksomheten, der uttaket er **avgiftsfritt (0 % MVA)**.

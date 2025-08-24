@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Nøkkeltall?"
 seoTitle: "Hva er Nøkkeltall?"
-meta_description: '**Nøkkeltall** er finansielle måleinstrumenter som brukes til å analysere og vurdere en virksomhets økonomiske prestasjon, finansielle stilling og operasjon...'
-slug: hva-er-nokkeltall
-type: blog
-layout: pages/single
+description: '**Nøkkeltall** er finansielle måleinstrumenter som brukes til å analysere og vurdere en virksomhets økonomiske prestasjon, finansielle stilling og operasjon...'
 ---
 
 **Nøkkeltall** er finansielle måleinstrumenter som brukes til å analysere og vurdere en virksomhets økonomiske prestasjon, finansielle stilling og operasjonelle effektivitet. Disse tallene gir verdifull innsikt i hvordan selskapet presterer sammenlignet med tidligere perioder, konkurrenter og bransjestandarder.

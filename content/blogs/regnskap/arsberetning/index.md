@@ -1,10 +1,7 @@
 ﻿---
 title: "Årsberetning"
 seoTitle: "Årsberetning"
-meta_description: '![Årsberetning Oversikt](arsberetning-image.svg)'
-slug: arsberetning
-type: blog
-layout: pages/single
+description: '![Årsberetning Oversikt](arsberetning-image.svg)'
 ---
 
 ![Årsberetning Oversikt](arsberetning-image.svg)

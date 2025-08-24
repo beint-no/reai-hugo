@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er CSRD? Corporate Sustainability Reporting Directive"
 seoTitle: "Hva er CSRD? Corporate Sustainability Reporting Directive"
-meta_description: '**CSRD** (Corporate Sustainability Reporting Directive) er EUs nye direktiv for [**bærekraftsrapportering**](/blogs/regnskap/baerekraftsrapportering "Bærekraf...'
-slug: hva-er-csrd
-type: blog
-layout: pages/single
+description: '**CSRD** (Corporate Sustainability Reporting Directive) er EUs nye direktiv for [**bærekraftsrapportering**](/blogs/regnskap/baerekraftsrapportering "Bærekraf...'
 ---
 
 **CSRD** (Corporate Sustainability Reporting Directive) er EUs nye direktiv for [**bærekraftsrapportering**](/blogs/regnskap/baerekraftsrapportering "Bærekraftsrapportering: En komplett guide til bærekraftsrapportering") som påvirker norske bedrifter gjennom EØS-avtalen. Direktivet krever omfattende rapportering om **miljø, sosiale forhold og selskapsstyring** ([ESG](/blogs/regnskap/hva-er-esg "Hva er ESG? En Komplett Guide til Miljø, Sosial og Styring i Regnskap")) og representerer den mest omfattende endringen i bærekraftsrapportering i Europa.

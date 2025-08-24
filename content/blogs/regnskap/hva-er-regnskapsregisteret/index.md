@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Regnskapsregisteret?"
 seoTitle: "Hva er Regnskapsregisteret?"
-meta_description: '**Regnskapsregisteret** er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregis...'
-slug: hva-er-regnskapsregisteret
-type: blog
-layout: pages/single
+description: '**Regnskapsregisteret** er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregis...'
 ---
 
 **Regnskapsregisteret** er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregistrene? En Guide til Norges Registerforvalter"). Registeret samler inn og offentliggjør årsregnskap fra norske foretak, noe som sikrer **åpenhet** og tilgjengelighet for myndigheter, kreditorer og publikum.

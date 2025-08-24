@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Faste kostnader?"
 seoTitle: "Hva er Faste kostnader?"
-meta_description: '**Faste kostnader** er kostnader som forblir _konstante_ uavhengig av aktivitets- eller produksjonsvolum innenfor et relevant tidsintervall. Disse kostnadene mÃ...'
-slug: faste-kostnader
-type: blog
-layout: pages/single
+description: '**Faste kostnader** er kostnader som forblir _konstante_ uavhengig av aktivitets- eller produksjonsvolum innenfor et relevant tidsintervall. Disse kostnadene mÃ...'
 ---
 
 **Faste kostnader** er kostnader som forblir _konstante_ uavhengig av aktivitets- eller produksjonsvolum innenfor et relevant tidsintervall. Disse kostnadene må dekkes uansett om virksomheten produserer varer eller leverer tjenester.

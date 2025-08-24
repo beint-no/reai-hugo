@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Opsjonsavtale?"
 seoTitle: "Hva er en Opsjonsavtale?"
-meta_description: 'En **opsjonsavtale** er en juridisk bindende kontrakt som gir innehaveren rett, men ikke plikt, til å kjøpe eller selge en eiendel til en forhåndsbestemt pri...'
-slug: hva-er-opsjonsavtale
-type: blog
-layout: pages/single
+description: 'En **opsjonsavtale** er en juridisk bindende kontrakt som gir innehaveren rett, men ikke plikt, til å kjøpe eller selge en eiendel til en forhåndsbestemt pri...'
 ---
 
 En **opsjonsavtale** er en juridisk bindende kontrakt som gir innehaveren rett, men ikke plikt, til å kjøpe eller selge en eiendel til en forhåndsbestemt pris innenfor en spesifisert tidsperiode. I regnskapssammenheng spiller opsjonsavtaler en viktig rolle for både verdsettelse, risikostyring og finansiell rapportering.

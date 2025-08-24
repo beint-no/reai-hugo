@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2701 - Utgående merverdiavgift høy sats"
 seoTitle: "2701-utgaende-merverdiavgift-hoy-sats"
-meta_description: '**Konto 2701 - Utgående merverdiavgift høy sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av utgående merverdiavgift m...'
-slug: 2701-utgaende-merverdiavgift-hoy-sats
-type: blog
-layout: pages/single
+description: '**Konto 2701 - Utgående merverdiavgift høy sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av utgående merverdiavgift m...'
 ---
 
 **Konto 2701 - Utgående merverdiavgift høy sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av utgående merverdiavgift med høy sats** (25 %) for å skille dette fra andre MVA-satser før overføring til betalingskonto.

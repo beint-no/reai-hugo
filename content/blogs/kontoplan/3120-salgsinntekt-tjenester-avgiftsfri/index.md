@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3120 - Salgsinntekt tjenester avgiftsfri"
 seoTitle: "3120-salgsinntekt-tjenester-avgiftsfri"
-meta_description: '**Konto 3120 - Salgsinntekt tjenester avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **tjenester** som ...'
-slug: 3120-salgsinntekt-tjenester-avgiftsfri
-type: blog
-layout: pages/single
+description: '**Konto 3120 - Salgsinntekt tjenester avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **tjenester** som ...'
 ---
 
 **Konto 3120 - Salgsinntekt tjenester avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **tjenester** som er **avgiftsfrie (0 % MVA)**.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1880 - Andre finansielle instrumenter"
 seoTitle: "1880-andre-finansielle-instrumenter"
-meta_description: '**Konto 1880 - Andre finansielle instrumenter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige finansielle instrumenter...'
-slug: 1880-andre-finansielle-instrumenter
-type: blog
-layout: pages/single
+description: '**Konto 1880 - Andre finansielle instrumenter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige finansielle instrumenter...'
 ---
 
 **Konto 1880 - Andre finansielle instrumenter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige finansielle instrumenter** som ikke dekkes av spesifikke markedsbaserte kontoer som aksjer, obligasjoner eller sertifikater.

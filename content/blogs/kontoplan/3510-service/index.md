@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 3510 - Service?"
 seoTitle: "3510-service"
-meta_description: '**Konto 3510 - Service** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inntekter fra serviceytelser**, som support, vedlikehold, konsult...'
-slug: 3510-service
-type: blog
-layout: pages/single
+description: '**Konto 3510 - Service** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inntekter fra serviceytelser**, som support, vedlikehold, konsult...'
 ---
 
 **Konto 3510 - Service** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inntekter fra serviceytelser**, som support, vedlikehold, konsultasjon og andre **tjenester** utenom ordinært varesalg.

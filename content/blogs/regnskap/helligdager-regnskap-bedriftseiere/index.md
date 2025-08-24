@@ -1,10 +1,7 @@
 ﻿---
 title: "Helligdager (regnskap, bedriftseiere)"
 seoTitle: "Helligdager (regnskap, bedriftseiere)"
-meta_description: '**Helligdager** representerer en kompleks regnskapsmessig utfordring for norske bedriftseiere, hvor juridiske krav, lønnsforpliktelser og regnskapsføring må ...'
-slug: helligdager-regnskap-bedriftseiere
-type: blog
-layout: pages/single
+description: '**Helligdager** representerer en kompleks regnskapsmessig utfordring for norske bedriftseiere, hvor juridiske krav, lønnsforpliktelser og regnskapsføring må ...'
 ---
 
 **Helligdager** representerer en kompleks regnskapsmessig utfordring for norske bedriftseiere, hvor juridiske krav, lønnsforpliktelser og regnskapsføring må håndteres korrekt. Denne artikkelen gir en omfattende analyse av hvordan bedrifter skal behandle helligdager i regnskapssammenheng, fra [feriepenger](/blogs/regnskap/hva-er-feriepenger "Hva er Feriepenger? Komplett Guide til Beregning og Regnskapsføring") til komplekse avsetninger og rapportering.

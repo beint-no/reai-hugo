@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er kontingent?"
 seoTitle: "Hva er kontingent?"
-meta_description: '**Kontingent** er en regelmessig avgift eller medlemsavgift som betales til en organisasjon, forening eller institusjon for å opprettholde medlemskap eller til...'
-slug: hva-er-kontingent
-type: blog
-layout: pages/single
+description: '**Kontingent** er en regelmessig avgift eller medlemsavgift som betales til en organisasjon, forening eller institusjon for å opprettholde medlemskap eller til...'
 ---
 
 **Kontingent** er en regelmessig avgift eller medlemsavgift som betales til en organisasjon, forening eller institusjon for å opprettholde medlemskap eller tilgang til tjenester. I regnskapssammenheng representerer kontingent både en inntektskilde for mottakende organisasjoner og en driftskostnad for betalende bedrifter. Kontingent skiller seg fra andre avgifter ved at den typisk er **frivillig**, **periodisk** og knyttet til et spesifikt medlemskap eller abonnement.

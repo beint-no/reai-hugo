@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en CSV-fil?"
 seoTitle: "Hva er en CSV-fil?"
-meta_description: 'En **CSV-fil** (Comma-Separated Values) er et enkelt tekstfilformat som brukes til å lagre og utveksle strukturerte data mellom ulike systemer. I regnskapssamm...'
-slug: hva-er-csv-fil
-type: blog
-layout: pages/single
+description: 'En **CSV-fil** (Comma-Separated Values) er et enkelt tekstfilformat som brukes til å lagre og utveksle strukturerte data mellom ulike systemer. I regnskapssamm...'
 ---
 
 En **CSV-fil** (Comma-Separated Values) er et enkelt tekstfilformat som brukes til å lagre og utveksle strukturerte data mellom ulike systemer. I regnskapssammenheng er CSV-filer et kritisk verktøy for [datautveksling](/blogs/regnskap/hva-er-bilagsmottak "Bilagsmottak - Komplett Guide til Dokumentmottak og Fakturabehandling") mellom regnskapssystemer, banker og andre finansielle tjenester. CSV-formatet gjør det mulig å importere og eksportere store mengder regnskapsdata på en effektiv og standardisert måte.

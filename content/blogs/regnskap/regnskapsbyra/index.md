@@ -1,10 +1,7 @@
 ﻿---
 title: "Regnskapsbyrå - Hva gjør de og hvorfor er det viktig?"
 seoTitle: "Regnskapsbyrå - Hva gjør de og hvorfor er det viktig?"
-meta_description: '**Regnskapsbyrå** er selskaper som tilbyr tjenester innen **bokføring**, **rapportering**, **rådgivning** og **lønnsadministrasjon** til bedrifter og organi...'
-slug: regnskapsbyra
-type: blog
-layout: pages/single
+description: '**Regnskapsbyrå** er selskaper som tilbyr tjenester innen **bokføring**, **rapportering**, **rådgivning** og **lønnsadministrasjon** til bedrifter og organi...'
 ---
 
 **Regnskapsbyrå** er selskaper som tilbyr tjenester innen **bokføring**, **rapportering**, **rådgivning** og **lønnsadministrasjon** til bedrifter og organisasjoner. I Norge er regnskapsbyråer sentrale for å sikre at virksomheter følger gjeldende lover og forskrifter, og at regnskapet gir et korrekt bilde av økonomien.

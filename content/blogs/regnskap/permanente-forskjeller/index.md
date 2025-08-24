@@ -1,10 +1,7 @@
 ﻿---
 title: "Permanente forskjeller i regnskap og skatt"
 seoTitle: "Permanente forskjeller i regnskap og skatt"
-meta_description: '**Permanente forskjeller** er inntekter eller kostnader som påvirker det regnskapsmessige resultatet, men som **skattemessig aldri utlignes** over tid. Slike f...'
-slug: permanente-forskjeller
-type: blog
-layout: pages/single
+description: '**Permanente forskjeller** er inntekter eller kostnader som påvirker det regnskapsmessige resultatet, men som **skattemessig aldri utlignes** over tid. Slike f...'
 ---
 
 **Permanente forskjeller** er inntekter eller kostnader som påvirker det regnskapsmessige resultatet, men som **skattemessig aldri utlignes** over tid. Slike forskjeller inngår i det skattemessige grunnlaget uten å skape utsatt skatt.

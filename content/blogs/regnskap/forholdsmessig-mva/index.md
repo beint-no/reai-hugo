@@ -1,10 +1,7 @@
 ﻿---
 title: "Forholdsmessig MVA"
 seoTitle: "Forholdsmessig MVA"
-meta_description: '**Forholdsmessig MVA** (også kalt *forholdsmessig fradragsrett*) er metoden for å fordele **inngående merverdiavgift** når en virksomhet har både avgiftspl...'
-slug: forholdsmessig-mva
-type: blog
-layout: pages/single
+description: '**Forholdsmessig MVA** (også kalt *forholdsmessig fradragsrett*) er metoden for å fordele **inngående merverdiavgift** når en virksomhet har både avgiftspl...'
 ---
 
 **Forholdsmessig MVA** (også kalt *forholdsmessig fradragsrett*) er metoden for å fordele **inngående merverdiavgift** når en virksomhet har både avgiftspliktige og avgiftsfrie omsetninger. Denne metoden er viktig for å sikre korrekt fradrag av MVA i samsvar med [merverdiavgiftsloven](/blogs/regnskap/mva-loven "Mva-loven") og [MVA-plikt](/blogs/regnskap/mva-plikt "MVA-plikt").

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Obligasjonsfond?"
 seoTitle: "Hva er Obligasjonsfond?"
-meta_description: '**Obligasjonsfond** er en type **investeringsfond** som samler kapital fra flere investorer for å plassere den i ulike rentebærende verdipapirer, primært obl...'
-slug: hva-er-obligasjonsfond
-type: blog
-layout: pages/single
+description: '**Obligasjonsfond** er en type **investeringsfond** som samler kapital fra flere investorer for å plassere den i ulike rentebærende verdipapirer, primært obl...'
 ---
 
 **Obligasjonsfond** er en type **investeringsfond** som samler kapital fra flere investorer for å plassere den i ulike rentebærende verdipapirer, primært obligasjoner. Dette gir investorer tilgang til en **diversifisert portefølje** av rentepapirer med profesjonell forvaltning.

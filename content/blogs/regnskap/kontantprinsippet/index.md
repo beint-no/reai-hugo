@@ -1,10 +1,7 @@
 ﻿---
 title: "Kontantprinsippet"
 seoTitle: "Kontantprinsippet"
-meta_description: '**Kontantprinsippet** er et regnskapsprinsipp hvor inntekter og utgifter bokføres når kontanter faktisk **mottas** eller **betales**, i motsetning til periodi...'
-slug: kontantprinsippet
-type: blog
-layout: pages/single
+description: '**Kontantprinsippet** er et regnskapsprinsipp hvor inntekter og utgifter bokføres når kontanter faktisk **mottas** eller **betales**, i motsetning til periodi...'
 ---
 
 **Kontantprinsippet** er et regnskapsprinsipp hvor inntekter og utgifter bokføres når kontanter faktisk **mottas** eller **betales**, i motsetning til periodiseringsprinsippet som tar utgangspunkt i når den økonomiske hendelsen finner sted. Dette gir et enkelt og tydelig bilde av virksomhetens **kontantstrømmer**, men kan også medføre at resultatet ikke reflekterer virksomhetens økonomiske tilstand.

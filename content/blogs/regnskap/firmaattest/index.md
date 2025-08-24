@@ -1,10 +1,7 @@
 ﻿---
 title: "Firmaattest"
 seoTitle: "Firmaattest"
-meta_description: 'En **firmaattest** er et offisielt dokument utstedt av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversikt over ...'
-slug: firmaattest
-type: blog
-layout: pages/single
+description: 'En **firmaattest** er et offisielt dokument utstedt av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversikt over ...'
 ---
 
 En **firmaattest** er et offisielt dokument utstedt av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversikt over Norske Registere") som bekrefter de registrerte opplysningene om et selskap i [Foretaksregisteret](/blogs/regnskap/ansvarlig-selskap "Hva er Ansvarlig Selskap?"). Firmaattesten er et av de viktigste dokumentene for å vise at et selskap er lovlig registrert og kan brukes i en rekke sammenhenger, for eksempel ved søknad om kreditt, inngåelse av kontrakter og offentlig rapportering.

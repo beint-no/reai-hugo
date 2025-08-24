@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 1270 - Verktøy mv.?"
 seoTitle: "1270"
-meta_description: '**Konto 1270 - Verktøy mv.** er en konto i norsk kontoplan som benyttes for **verktøy** og **mindre driftsmidler**.'
-slug: 1270
-type: blog
-layout: pages/single
+description: '**Konto 1270 - Verktøy mv.** er en konto i norsk kontoplan som benyttes for **verktøy** og **mindre driftsmidler**.'
 ---
 
 **Konto 1270 - Verktøy mv.** er en konto i norsk kontoplan som benyttes for **verktøy** og **mindre driftsmidler**.

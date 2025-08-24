@@ -1,10 +1,7 @@
 ﻿---
 title: "LEI-nummer"
 seoTitle: "LEI-nummer"
-meta_description: '**LEI-nummer** (Legal Entity Identifier) er en **global identifikator** som entydig identifiserer juridiske enheter i finansielle transaksjoner. For norske sels...'
-slug: lei-nummer
-type: blog
-layout: pages/single
+description: '**LEI-nummer** (Legal Entity Identifier) er en **global identifikator** som entydig identifiserer juridiske enheter i finansielle transaksjoner. For norske sels...'
 ---
 
 **LEI-nummer** (Legal Entity Identifier) er en **global identifikator** som entydig identifiserer juridiske enheter i finansielle transaksjoner. For norske selskaper er både [organisasjonsnummer](/blogs/regnskap/hva-er-organisasjonsnummer "Hva er Organisasjonsnummer? En Guide til Norske Foretaksregister") og LEI-nummer sentralt for korrekt [finansiell rapportering](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregistrene? En Guide til Norges Registerforvalter") og etterlevelse av internasjonale krav.

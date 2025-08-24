@@ -1,10 +1,7 @@
 ﻿---
 title: "Protokoll"
 seoTitle: "Protokoll"
-meta_description: '**Protokoll** er det formelle dokumentet som **dokumenterer** vedtak, diskusjoner og beslutningsprosesser i **generalforsamlinger**, **styremøter** og andre fo...'
-slug: protokoll
-type: blog
-layout: pages/single
+description: '**Protokoll** er det formelle dokumentet som **dokumenterer** vedtak, diskusjoner og beslutningsprosesser i **generalforsamlinger**, **styremøter** og andre fo...'
 ---
 
 **Protokoll** er det formelle dokumentet som **dokumenterer** vedtak, diskusjoner og beslutningsprosesser i **generalforsamlinger**, **styremøter** og andre formelle selskapsorganer. En korrekt ført protokoll er avgjørende for å sikre **sporbarhet** og **gjennomsiktighet** i regnskapet.

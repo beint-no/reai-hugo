@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Crowdfunding i Regnskap?"
 seoTitle: "Hva er Crowdfunding i Regnskap?"
-meta_description: '**Crowdfunding** er en moderne [finansieringsmetode](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Finans...'
-slug: hva-er-crowdfunding
-type: blog
-layout: pages/single
+description: '**Crowdfunding** er en moderne [finansieringsmetode](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Finans...'
 ---
 
 **Crowdfunding** er en moderne [finansieringsmetode](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Finansieringsformer") hvor mange personer bidrar med små beløp for å finansiere et prosjekt, produkt eller bedrift. Som en del av det bredere konseptet [crowdsourcing](/blogs/regnskap/hva-er-crowdsourcing "Hva er Crowdsourcing i Regnskap? Fordeler, Utfordringer og Praktisk Anvendelse"), representerer crowdfunding en spesifikk form for folkefinansiering. Fra et regnskapsperspektiv bringer crowdfunding unike utfordringer knyttet til [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk Regnskapsføring"), skattemessig behandling og juridiske krav. For norske bedrifter som benytter crowdfunding, er det essensielt å forstå hvordan disse midlene skal behandles i henhold til [bokføringsloven](/blogs/regnskap/hva-er-bokføringsloven "Hva er Bokføringsloven? Komplett Guide til Norske Bokføringsregler") og gjeldende regnskapsregler.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 7800 - Tap ved avgang driftsmidler"
 seoTitle: "7800-tap-ved-avgang-driftsmidler"
-meta_description: '**Konto 7800 - Tap ved avgang driftsmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap ved avgang driftsmidler**.'
-slug: 7800-tap-ved-avgang-driftsmidler
-type: blog
-layout: pages/single
+description: '**Konto 7800 - Tap ved avgang driftsmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap ved avgang driftsmidler**.'
 ---
 
 **Konto 7800 - Tap ved avgang driftsmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap ved avgang driftsmidler**.

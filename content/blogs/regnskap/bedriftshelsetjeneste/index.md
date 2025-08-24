@@ -1,10 +1,7 @@
 ﻿---
 title: "Bedriftshelsetjeneste"
 seoTitle: "Bedriftshelsetjeneste"
-meta_description: '**Bedriftshelsetjeneste** er en lovpålagt [Helse, miljø og sikkerhet (HMS)](/blogs/regnskap/hms "Helse, miljø og sikkerhet (HMS)")-tjeneste i Norge som har s...'
-slug: bedriftshelsetjeneste
-type: blog
-layout: pages/single
+description: '**Bedriftshelsetjeneste** er en lovpålagt [Helse, miljø og sikkerhet (HMS)](/blogs/regnskap/hms "Helse, miljø og sikkerhet (HMS)")-tjeneste i Norge som har s...'
 ---
 
 **Bedriftshelsetjeneste** er en lovpålagt [Helse, miljø og sikkerhet (HMS)](/blogs/regnskap/hms "Helse, miljø og sikkerhet (HMS)")-tjeneste i Norge som har som formål å forebygge arbeidsrelaterte sykdommer og skader. Tjenesten yter faglig støtte til virksomheter og ansatte innenfor ulike bransjer, og arbeider tett med både ledelse og arbeidsmiljøutvalg.

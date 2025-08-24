@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en kreditnota?"
 seoTitle: "Hva er en kreditnota?"
-meta_description: 'En **kreditnota** er et regnskapsdokument som fungerer som en "negativ faktura" - den reduserer eller annullerer helt eller delvis en tidligere utstedt [faktura...'
-slug: hva-er-kreditnota
-type: blog
-layout: pages/single
+description: 'En **kreditnota** er et regnskapsdokument som fungerer som en "negativ faktura" - den reduserer eller annullerer helt eller delvis en tidligere utstedt [faktura...'
 ---
 
 En **kreditnota** er et regnskapsdokument som fungerer som en "negativ faktura" - den reduserer eller annullerer helt eller delvis en tidligere utstedt [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"). Kreditnotaer er essensielle verktøy i moderne [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring i Norge") og spiller en kritisk rolle i korrekt regnskapsbehandling av returer, prisavslag og fakturakorrigeringer. I norsk regnskap må kreditnotaer følge samme lovkrav som ordinære fakturaer og er regulert av [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Komplett Guide til Norsk Regnskapslovgivning").

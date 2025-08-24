@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er eiendeler?"
 seoTitle: "Hva er eiendeler?"
-meta_description: '**Eiendeler** (også kalt **aktiva**) er alle ressurser som en virksomhet eier eller kontrollerer og som forventes å gi fremtidige økonomiske fordeler. I nors...'
-slug: hva-er-eiendeler
-type: blog
-layout: pages/single
+description: '**Eiendeler** (også kalt **aktiva**) er alle ressurser som en virksomhet eier eller kontrollerer og som forventes å gi fremtidige økonomiske fordeler. I nors...'
 ---
 
 **Eiendeler** (også kalt **aktiva**) er alle ressurser som en virksomhet eier eller kontrollerer og som forventes å gi fremtidige økonomiske fordeler. I norsk regnskap presenteres eiendeler i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Oppbygging og Analyse") og deles i hovedkategoriene [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler") og [omløpsmidler](/blogs/regnskap/hva-er-omlopsmiddel "Hva er Omløpsmidler? Komplett Guide til Kortsiktige Eiendeler i Regnskap").

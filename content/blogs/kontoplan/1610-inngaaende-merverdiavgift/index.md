@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1610 - Inngående merverdiavgift"
 seoTitle: "1610-inngaaende-merverdiavgift"
-meta_description: '**Konto 1610 - Inngående merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift (MVA)** som et fradra...'
-slug: 1610-inngaaende-merverdiavgift
-type: blog
-layout: pages/single
+description: '**Konto 1610 - Inngående merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift (MVA)** som et fradra...'
 ---
 
 **Konto 1610 - Inngående merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift (MVA)** som et fradrag i regnskapet for kjøp av varer og tjenester.

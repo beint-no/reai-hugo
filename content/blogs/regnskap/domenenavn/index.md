@@ -1,10 +1,7 @@
 ﻿---
 title: "Domenenavn i Regnskap – Behandling og Klassifisering"
 seoTitle: "Domenenavn i Regnskap “ Behandling og Klassifisering"
-meta_description: '**Domenenavn** er registrerte internettadresser som bedrifter bruker som unike identifikatorer på nettet, og representerer en viktig **immateriell eiendel** fo...'
-slug: domenenavn
-type: blog
-layout: pages/single
+description: '**Domenenavn** er registrerte internettadresser som bedrifter bruker som unike identifikatorer på nettet, og representerer en viktig **immateriell eiendel** fo...'
 ---
 
 **Domenenavn** er registrerte internettadresser som bedrifter bruker som unike identifikatorer på nettet, og representerer en viktig **immateriell eiendel** for digital tilstedeværelse og merkevarebygging. I denne artikkelen går vi gjennom hvordan domenenavn **regnskapsføres** i tråd med norske regnskapsregler, inkludert innregning, avskrivning, nedskrivning og opplysningskrav.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Tillitsvalgt – Rolle og ansvar i norsk regnskap"
 seoTitle: "Tillitsvalgt “ Rolle og ansvar i norsk regnskap"
-meta_description: '![Tillitsvalgt](tillitsvalgt-image.svg)'
-slug: tillitsvalgt
-type: blog
-layout: pages/single
+description: '![Tillitsvalgt](tillitsvalgt-image.svg)'
 ---
 
 ![Tillitsvalgt](tillitsvalgt-image.svg)

@@ -1,10 +1,7 @@
 ﻿---
 title: "Totalkapital"
 seoTitle: "Totalkapital"
-meta_description: '**Totalkapital** er den totale kapitalen som finansierer en virksomhet, definert som summen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapi...'
-slug: totalkapital
-type: blog
-layout: pages/single
+description: '**Totalkapital** er den totale kapitalen som finansierer en virksomhet, definert som summen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapi...'
 ---
 
 **Totalkapital** er den totale kapitalen som finansierer en virksomhet, definert som summen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") og [gjeld](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld? Guide til Gjeldstyper i Regnskap"). Totalkapitalen tilsvarer også [aktiva](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Oversikt over Aktiva og Totalkapital") i balansen og gir innsikt i bedriftens kapitalstruktur.

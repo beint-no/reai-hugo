@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2080 - Udekket tap"
 seoTitle: "2080-udekket-tap"
-meta_description: '**Konto 2080 - Udekket tap** er en del av **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **udekket tap** som ikke dekkes av ...'
-slug: 2080-udekket-tap
-type: blog
-layout: pages/single
+description: '**Konto 2080 - Udekket tap** er en del av **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **udekket tap** som ikke dekkes av ...'
 ---
 
 **Konto 2080 - Udekket tap** er en del av **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **udekket tap** som ikke dekkes av andre egenkapitalkontoer.

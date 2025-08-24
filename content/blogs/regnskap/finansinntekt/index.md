@@ -1,10 +1,7 @@
 ﻿---
 title: "Finansinntekt"
 seoTitle: "Finansinntekt"
-meta_description: '**Finansinntekt** er inntekter som oppstår fra virksomhetens finansielle aktiviteter, som **renter**, **utbytte** og **kapitalgevinster**. Forståelse av finan...'
-slug: finansinntekt
-type: blog
-layout: pages/single
+description: '**Finansinntekt** er inntekter som oppstår fra virksomhetens finansielle aktiviteter, som **renter**, **utbytte** og **kapitalgevinster**. Forståelse av finan...'
 ---
 
 **Finansinntekt** er inntekter som oppstår fra virksomhetens finansielle aktiviteter, som **renter**, **utbytte** og **kapitalgevinster**. Forståelse av finansinntekt er viktig for korrekt regnskapsføring og skatteberegning i norsk regnskap.

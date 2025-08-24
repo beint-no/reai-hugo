@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Kontoutskrift i Regnskap?"
 seoTitle: "Hva er Kontoutskrift i Regnskap?"
-meta_description: '**Kontoutskrift** er en **dokumentasjon av alle transaksjoner** på en bankkonto i en gitt periode. Den viser dato, beskrivelse, beløp og saldo for hver post, ...'
-slug: hva-er-kontoutskrift
-type: blog
-layout: pages/single
+description: '**Kontoutskrift** er en **dokumentasjon av alle transaksjoner** på en bankkonto i en gitt periode. Den viser dato, beskrivelse, beløp og saldo for hver post, ...'
 ---
 
 **Kontoutskrift** er en **dokumentasjon av alle transaksjoner** på en bankkonto i en gitt periode. Den viser dato, beskrivelse, beløp og saldo for hver post, og er et sentralt grunnlag for [bankavstemming](/blogs/regnskap/hva-er-bankavstemming "Hva er Bankavstemming i Regnskap? En komplett guide til bankavstemminger") og andre avstemmingsprosesser i regnskapet.

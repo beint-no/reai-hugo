@@ -1,10 +1,7 @@
 ﻿---
 title: "Halv skatt"
 seoTitle: "Halv skatt"
-meta_description: '**Halv skatt** er en ordning der ansatte får redusert skattetrekk i visse måneder, vanligvis **juni** og **desember**, for å lette likviditeten i ferie- og h...'
-slug: halv-skatt
-type: blog
-layout: pages/single
+description: '**Halv skatt** er en ordning der ansatte får redusert skattetrekk i visse måneder, vanligvis **juni** og **desember**, for å lette likviditeten i ferie- og h...'
 ---
 
 **Halv skatt** er en ordning der ansatte får redusert skattetrekk i visse måneder, vanligvis **juni** og **desember**, for å lette likviditeten i ferie- og høytidssesonger.

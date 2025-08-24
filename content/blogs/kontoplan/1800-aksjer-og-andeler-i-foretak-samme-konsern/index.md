@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1800 - Aksjer og andeler i foretak samme konsern"
 seoTitle: "1800-aksjer-og-andeler-i-foretak-samme-konsern"
-meta_description: '**Konto 1800 - Aksjer og andeler i foretak samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **aksjer og andeler** i andre for...'
-slug: 1800-aksjer-og-andeler-i-foretak-samme-konsern
-type: blog
-layout: pages/single
+description: '**Konto 1800 - Aksjer og andeler i foretak samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **aksjer og andeler** i andre for...'
 ---
 
 **Konto 1800 - Aksjer og andeler i foretak samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **aksjer og andeler** i andre foretak innen samme konsernstruktur.

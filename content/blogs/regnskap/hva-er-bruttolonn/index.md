@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Bruttolønn?"
 seoTitle: "Hva er Bruttolønn?"
-meta_description: '**Bruttolønn** er den totale lønnen en ansatt tjener før fradrag av skatt, avgifter og andre kostnader. Bruttolønn danner grunnlaget for [A‘meldingen](/bl...'
-slug: hva-er-bruttolonn
-type: blog
-layout: pages/single
+description: '**Bruttolønn** er den totale lønnen en ansatt tjener før fradrag av skatt, avgifter og andre kostnader. Bruttolønn danner grunnlaget for [A‘meldingen](/bl...'
 ---
 
 **Bruttolønn** er den totale lønnen en ansatt tjener før fradrag av skatt, avgifter og andre kostnader. Bruttolønn danner grunnlaget for [A‘meldingen](/blogs/regnskap/hva-er-a-melding "Hva er A‘melding? Komplett Guide til Innlevering og Frister"), beregning av [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Definisjon og Beregning i Norge"), feriepenger og flere lønnsrelaterte nøkkeltall.

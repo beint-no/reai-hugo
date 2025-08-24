@@ -1,10 +1,7 @@
 ﻿---
 title: "Maskimalt Utbytte"
 seoTitle: "Maskimalt Utbytte"
-meta_description: '**Maskimalt utbytte** er det høyeste beløpet et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskap...'
-slug: maskimalt-utbytte
-type: blog
-layout: pages/single
+description: '**Maskimalt utbytte** er det høyeste beløpet et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskap...'
 ---
 
 **Maskimalt utbytte** er det høyeste beløpet et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen") kan dele ut til aksjonærene uten å bryte lovens krav til [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") og soliditet. Dette er et sentralt begrep i norsk selskapsrett og regnskapspraksis som sikrer at selskaper opprettholder tilstrekkelig finansiell stabilitet.

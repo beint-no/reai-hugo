@@ -1,10 +1,7 @@
 ﻿---
 title: "Personfradrag i Norge - Alt du trenger å vite"
 seoTitle: "Personfradrag i Norge - Alt du trenger å vite"
-meta_description: '**Personfradrag** er et personlig fradrag som alle skattytere i Norge får. Det reduserer den skattepliktige inntekten **før** beregning av kommunal- og fylkes...'
-slug: personfradrag
-type: blog
-layout: pages/single
+description: '**Personfradrag** er et personlig fradrag som alle skattytere i Norge får. Det reduserer den skattepliktige inntekten **før** beregning av kommunal- og fylkes...'
 ---
 
 **Personfradrag** er et personlig fradrag som alle skattytere i Norge får. Det reduserer den skattepliktige inntekten **før** beregning av kommunal- og fylkesskatt, og er en sentral del av det norske skattesystemet.

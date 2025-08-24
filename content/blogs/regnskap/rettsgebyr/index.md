@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er rettsgebyr?"
 seoTitle: "Hva er rettsgebyr?"
-meta_description: '**Rettsgebyr** er gebyrer som kreves av det offentlige, vanligvis domstolene, for å dekke kostnader knyttet til rettslige prosesser og tvangsfullbyrdelse. Dett...'
-slug: rettsgebyr
-type: blog
-layout: pages/single
+description: '**Rettsgebyr** er gebyrer som kreves av det offentlige, vanligvis domstolene, for å dekke kostnader knyttet til rettslige prosesser og tvangsfullbyrdelse. Dett...'
 ---
 
 **Rettsgebyr** er gebyrer som kreves av det offentlige, vanligvis domstolene, for å dekke kostnader knyttet til rettslige prosesser og tvangsfullbyrdelse. Dette omfatter blant annet gebyrer i sivile saker, ankegebyr, tvangsfullbyrdelsesgebyr og registreringsgebyr.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Revisor"
 seoTitle: "Revisor"
-meta_description: 'Revisor er en kvalifisert profesjonell som har ansvaret for å gjennomføre **revisjon** av årsregnskap og sikre at regnskapet er korrekt, pålitelig og i sams...'
-slug: revisor
-type: blog
-layout: pages/single
+description: 'Revisor er en kvalifisert profesjonell som har ansvaret for å gjennomføre **revisjon** av årsregnskap og sikre at regnskapet er korrekt, pålitelig og i sams...'
 ---
 
 Revisor er en kvalifisert profesjonell som har ansvaret for å gjennomføre **revisjon** av årsregnskap og sikre at regnskapet er korrekt, pålitelig og i samsvar med gjeldende lover og standarder, slik som [Regnskapsloven](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? En Komplett Guide til Norske Regnskapslover og Forskrifter"). Revisorens arbeid legger grunnlaget for tillit hos investorer, kreditorer og andre interessenter.

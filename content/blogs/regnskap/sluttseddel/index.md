@@ -1,10 +1,7 @@
 ﻿---
 title: "Sluttseddel i regnskap"
 seoTitle: "Sluttseddel i regnskap"
-meta_description: '**Sluttseddel** er et dokument som oppsummerer den endelige avregningen ved levering av varer og tjenester. Sluttseddelen fungerer som et **bilag** som dokument...'
-slug: sluttseddel
-type: blog
-layout: pages/single
+description: '**Sluttseddel** er et dokument som oppsummerer den endelige avregningen ved levering av varer og tjenester. Sluttseddelen fungerer som et **bilag** som dokument...'
 ---
 
 **Sluttseddel** er et dokument som oppsummerer den endelige avregningen ved levering av varer og tjenester. Sluttseddelen fungerer som et **bilag** som dokumenterer saldoer, eventuelle justeringer og grunnlag for sluttføring av regnskapet.

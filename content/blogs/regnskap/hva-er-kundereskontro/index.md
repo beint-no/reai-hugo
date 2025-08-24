@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er kundereskontro?"
 seoTitle: "Hva er kundereskontro?"
-meta_description: '**Kundereskontro** er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt kunde. Dette er en **underreskontro** til [...'
-slug: hva-er-kundereskontro
-type: blog
-layout: pages/single
+description: '**Kundereskontro** er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt kunde. Dette er en **underreskontro** til [...'
 ---
 
 **Kundereskontro** er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt kunde. Dette er en **underreskontro** til [hovedboken](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok i Regnskap? Komplett Guide til Regnskapsføring") som gir en komplett oversikt over [kundefordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordringer? Komplett Guide til Fordringsstyring") og betalingshistorikk for hver kunde individuelt.

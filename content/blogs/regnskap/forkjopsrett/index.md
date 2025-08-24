@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Forkjøpsrett?"
 seoTitle: "Hva er en Forkjøpsrett?"
-meta_description: 'En **forkjøpsrett** gir eksisterende aksjonærer eller andre parter rett, men ikke plikt, til å **kjøpe aksjer** før de tilbys eksterne kjøpere. Denne meka...'
-slug: forkjopsrett
-type: blog
-layout: pages/single
+description: 'En **forkjøpsrett** gir eksisterende aksjonærer eller andre parter rett, men ikke plikt, til å **kjøpe aksjer** før de tilbys eksterne kjøpere. Denne meka...'
 ---
 
 En **forkjøpsrett** gir eksisterende aksjonærer eller andre parter rett, men ikke plikt, til å **kjøpe aksjer** før de tilbys eksterne kjøpere. Denne mekanismen sikrer at eierstrukturen i et aksjeselskap forblir stabil, og gir aksjonærer mulighet til å opprettholde kontroll og verdiskaping.

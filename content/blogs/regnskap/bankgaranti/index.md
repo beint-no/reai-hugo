@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Bankgaranti?"
 seoTitle: "Hva er en Bankgaranti?"
-meta_description: 'En **bankgaranti** er en form for **sikkerhetsstillelse** der en bank forplikter seg skriftlig til å dekke et beløp til en mottaker dersom bankens kunde ikke ...'
-slug: bankgaranti
-type: blog
-layout: pages/single
+description: 'En **bankgaranti** er en form for **sikkerhetsstillelse** der en bank forplikter seg skriftlig til å dekke et beløp til en mottaker dersom bankens kunde ikke ...'
 ---
 
 En **bankgaranti** er en form for **sikkerhetsstillelse** der en bank forplikter seg skriftlig til å dekke et beløp til en mottaker dersom bankens kunde ikke oppfyller avtalte forpliktelser. En bankgaranti reduserer **motpartsrisiko** ved at mottaker kan kreve direkte betaling fra banken uten å måtte gå via kundens hovedavtale.

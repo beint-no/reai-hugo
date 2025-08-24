@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er et Enkeltpersonforetak?"
 seoTitle: "Hva er et Enkeltpersonforetak?"
-meta_description: 'For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").'
-slug: hva-er-enkeltpersonforetak
-type: blog
-layout: pages/single
+description: 'For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").'
 ---
 
 For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").

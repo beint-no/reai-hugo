@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2320 - Sertifikatlån"
 seoTitle: "2320-sertifikatlan"
-meta_description: '**Konto 2320 - Sertifikatlån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **sertifikatlån**, dvs. kortsiktige rentebærend...'
-slug: 2320-sertifikatlan
-type: blog
-layout: pages/single
+description: '**Konto 2320 - Sertifikatlån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **sertifikatlån**, dvs. kortsiktige rentebærend...'
 ---
 
 **Konto 2320 - Sertifikatlån** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **sertifikatlån**, dvs. kortsiktige rentebærende gjeldsinstrumenter utstedt som sertifikater.

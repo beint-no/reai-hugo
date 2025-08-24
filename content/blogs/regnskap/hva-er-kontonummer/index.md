@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er kontonummer?"
 seoTitle: "Hva er kontonummer?"
-meta_description: 'Et **kontonummer** er en unik numerisk identifikator som banker bruker for å identifisere individuelle bankkontoer. I Norge følger kontonummer en standardiser...'
-slug: hva-er-kontonummer
-type: blog
-layout: pages/single
+description: 'Et **kontonummer** er en unik numerisk identifikator som banker bruker for å identifisere individuelle bankkontoer. I Norge følger kontonummer en standardiser...'
 ---
 
 Et **kontonummer** er en unik numerisk identifikator som banker bruker for å identifisere individuelle bankkontoer. I Norge følger kontonummer en standardisert struktur som sikrer entydig identifikasjon av alle bankkontoer i det norske finanssystemet. Kontonummer er essensielt for alle [banktransaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Komplett Guide til Bankoperasjoner og Regnskapsføring") og spiller en kritisk rolle i [bankavstemming](/blogs/regnskap/hva-er-bankavstemming "Hva er Bankavstemming? Komplett Guide til Avstemming av Bankkontoer") og regnskapsføring.

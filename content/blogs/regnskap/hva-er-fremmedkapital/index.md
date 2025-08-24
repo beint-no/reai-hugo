@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Fremmedkapital?"
 seoTitle: "Hva er Fremmedkapital?"
-meta_description: '**Fremmedkapital** er den delen av et selskaps totale [kapital](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Ø...'
-slug: hva-er-fremmedkapital
-type: blog
-layout: pages/single
+description: '**Fremmedkapital** er den delen av et selskaps totale [kapital](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Ø...'
 ---
 
 **Fremmedkapital** er den delen av et selskaps totale [kapital](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Økonomi") som kommer fra kreditorer og långivere. Som motsetning til [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap"), representerer fremmedkapital all gjeld som selskapet har påtatt seg og som må tilbakebetales med renter. Fremmedkapital er en fundamental del av [finanskapital](/blogs/regnskap/hva-er-finanskapital "Hva er Finanskapital? Definisjon, Typer og Betydning i Regnskap") og spiller en viktig rolle i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og finansiell analyse.

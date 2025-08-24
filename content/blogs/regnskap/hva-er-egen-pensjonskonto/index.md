@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Egen Pensjonskonto?"
 seoTitle: "Hva er Egen Pensjonskonto?"
-meta_description: '![Illustrasjon av Egen Pensjonskonto](hva-er-egen-pensjonskonto-image.svg)'
-slug: hva-er-egen-pensjonskonto
-type: blog
-layout: pages/single
+description: '![Illustrasjon av Egen Pensjonskonto](hva-er-egen-pensjonskonto-image.svg)'
 ---
 
 ![Illustrasjon av Egen Pensjonskonto](hva-er-egen-pensjonskonto-image.svg)

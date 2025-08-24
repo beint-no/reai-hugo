@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er amortisering?"
 seoTitle: "Hva er amortisering?"
-meta_description: '**Amortisering** er en regnskapsmessig metode for å fordele [kostnaden](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader i Regnskap? Komplett Guide til Kostn...'
-slug: hva-er-amortisering
-type: blog
-layout: pages/single
+description: '**Amortisering** er en regnskapsmessig metode for å fordele [kostnaden](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader i Regnskap? Komplett Guide til Kostn...'
 ---
 
 **Amortisering** er en regnskapsmessig metode for å fordele [kostnaden](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader i Regnskap? Komplett Guide til Kostnadstyper og Regnskapsføring") av [imaterielle rettigheter](/blogs/regnskap/hva-er-imaterielle-rettigheter "Hva er Imaterielle Rettigheter? Komplett Guide til Regnskapsføring og Verdivurdering") over deres økonomiske levetid. I motsetning til [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler") som gjelder materielle eiendeler, brukes amortisering spesifikt for å redusere verdien av immaterielle eiendeler som patenter, [varemerker](/blogs/kontoplan/1050-varemerker "Konto 1050 - Varemerker") (se [Hva er varemerke?](/blogs/regnskap/hva-er-varemerke "Hva er varemerke? En Guide til Immaterielle Eiendeler i Regnskap")), goodwill og programvare.

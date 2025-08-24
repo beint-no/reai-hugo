@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er MVA-registeret?"
 seoTitle: "Hva er MVA-registeret?"
-meta_description: '**MVA-registeret** er Skatteetatens offisielle register over alle virksomheter som er registrert for [merverdiavgift](/blogs/regnskap/hva-er-avgiftsplikt-mva "H...'
-slug: hva-er-mva-registeret
-type: blog
-layout: pages/single
+description: '**MVA-registeret** er Skatteetatens offisielle register over alle virksomheter som er registrert for [merverdiavgift](/blogs/regnskap/hva-er-avgiftsplikt-mva "H...'
 ---
 
 **MVA-registeret** er Skatteetatens offisielle register over alle virksomheter som er registrert for [merverdiavgift](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge") i Norge. Registeret fungerer som grunnlaget for MVA-systemet og sikrer at alle avgiftspliktige virksomheter oppfyller sine forpliktelser overfor staten. For [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til AS i Norge") og andre selskapsformer er MVA-registrering ofte obligatorisk fra oppstart.

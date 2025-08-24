@@ -1,10 +1,7 @@
 ﻿---
 title: "Underenhet"
 seoTitle: "Underenhet"
-meta_description: '![Illustrasjon av Underenhet](underenhet-image.svg)'
-slug: underenhet
-type: blog
-layout: pages/single
+description: '![Illustrasjon av Underenhet](underenhet-image.svg)'
 ---
 
 ![Illustrasjon av Underenhet](underenhet-image.svg)

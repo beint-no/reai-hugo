@@ -1,10 +1,7 @@
 ﻿---
 title: "Avrunding i Regnskap"
 seoTitle: "Avrunding i Regnskap"
-meta_description: '**Avrunding i regnskap** er et viktig prinsipp som handler om hvordan tall skal presenteres og behandles i [regnskapsføring](/blogs/regnskap/hva-er-regnskap "H...'
-slug: avrunding-regnskap
-type: blog
-layout: pages/single
+description: '**Avrunding i regnskap** er et viktig prinsipp som handler om hvordan tall skal presenteres og behandles i [regnskapsføring](/blogs/regnskap/hva-er-regnskap "H...'
 ---
 
 **Avrunding i regnskap** er et viktig prinsipp som handler om hvordan tall skal presenteres og behandles i [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"). Korrekt avrunding sikrer konsistens, klarhet og overholdelse av regnskapsregler.

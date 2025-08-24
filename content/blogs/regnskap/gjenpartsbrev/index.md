@@ -1,10 +1,7 @@
 ﻿---
 title: "Gjenpartsbrev"
 seoTitle: "Gjenpartsbrev"
-meta_description: '**Gjenpartsbrev** er et attestert eksemplar av et originalbilag som benyttes for å sikre **dokumentasjon** og sporbarhet i regnskapet. Gjennom å utstede et gj...'
-slug: gjenpartsbrev
-type: blog
-layout: pages/single
+description: '**Gjenpartsbrev** er et attestert eksemplar av et originalbilag som benyttes for å sikre **dokumentasjon** og sporbarhet i regnskapet. Gjennom å utstede et gj...'
 ---
 
 **Gjenpartsbrev** er et attestert eksemplar av et originalbilag som benyttes for å sikre **dokumentasjon** og sporbarhet i regnskapet. Gjennom å utstede et gjenpartsbrev kan bedriften håndtere kopier av viktige bilag uten å måtte distribuere originalen, samtidig som kravene i [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Krav, regler og veiledning") og god regnskapsskikk oppfylles.

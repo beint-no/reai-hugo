@@ -1,10 +1,7 @@
 ﻿---
 title: "Firmaskatt"
 seoTitle: "Firmaskatt"
-meta_description: '**Firmaskatt** (også kalt **selskapsskatt**) er den skatten et selskap må betale av sitt skattemessige overskudd. Firmaskatt er en sentral del av bedriftens *...'
-slug: firmaskatt
-type: blog
-layout: pages/single
+description: '**Firmaskatt** (også kalt **selskapsskatt**) er den skatten et selskap må betale av sitt skattemessige overskudd. Firmaskatt er en sentral del av bedriftens *...'
 ---
 
 **Firmaskatt** (også kalt **selskapsskatt**) er den skatten et selskap må betale av sitt skattemessige overskudd. Firmaskatt er en sentral del av bedriftens **økonomiske planlegging** og påvirker både likviditet og lønnsomhet.

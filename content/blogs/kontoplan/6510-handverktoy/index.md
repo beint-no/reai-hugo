@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 6510 - Håndverktøy"
 seoTitle: "6510-handverktoy"
-meta_description: '**Konto 6510 - Håndverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til håndverktøy** og relaterte driftsmidler i v...'
-slug: 6510-handverktoy
-type: blog
-layout: pages/single
+description: '**Konto 6510 - Håndverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til håndverktøy** og relaterte driftsmidler i v...'
 ---
 
 **Konto 6510 - Håndverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til håndverktøy** og relaterte driftsmidler i virksomhetens drift.

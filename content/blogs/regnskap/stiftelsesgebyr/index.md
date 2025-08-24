@@ -1,10 +1,7 @@
 ﻿---
 title: "Stiftelsesgebyr"
 seoTitle: "Stiftelsesgebyr"
-meta_description: '**Stiftelsesgebyr** er gebyret som påløper ved registrering av en ny enhet i [Brønnøysundregistrene](/blogs/regnskap/hva-er-bronnoeysundregistrene "Hva er B...'
-slug: stiftelsesgebyr
-type: blog
-layout: pages/single
+description: '**Stiftelsesgebyr** er gebyret som påløper ved registrering av en ny enhet i [Brønnøysundregistrene](/blogs/regnskap/hva-er-bronnoeysundregistrene "Hva er B...'
 ---
 
 **Stiftelsesgebyr** er gebyret som påløper ved registrering av en ny enhet i [Brønnøysundregistrene](/blogs/regnskap/hva-er-bronnoeysundregistrene "Hva er Brønnøysundregistrene? Org.nr, Registrering og Tjenester"), enten det gjelder en **stiftelse** eller et **aksjeselskap** (AS). Gebyret dekker behandling av stiftelsesdokumenter og registrering i relevante registre.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er et Investeringsselskap?"
 seoTitle: "Hva er et Investeringsselskap?"
-meta_description: 'Et **investeringsselskap** er et [finansielt selskap](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Finansieringsformer") som sam...'
-slug: hva-er-investeringsselskap
-type: blog
-layout: pages/single
+description: 'Et **investeringsselskap** er et [finansielt selskap](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Finansieringsformer") som sam...'
 ---
 
 Et **investeringsselskap** er et [finansielt selskap](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Finansieringsformer") som samler kapital fra mange investorer for å investere i verdipapirer, eiendom eller andre finansielle instrumenter. Disse selskapene tilbyr profesjonell forvaltning og spredning av risiko for investorer som ønsker eksponering mot ulike markeder og aktivaklasser.

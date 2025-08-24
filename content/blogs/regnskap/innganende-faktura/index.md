@@ -1,10 +1,7 @@
 ﻿---
 title: "Inngående Faktura"
 seoTitle: "Inngående Faktura"
-meta_description: 'En **inngående faktura** er en [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") som bedriften mottar fra lever...'
-slug: innganende-faktura
-type: blog
-layout: pages/single
+description: 'En **inngående faktura** er en [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") som bedriften mottar fra lever...'
 ---
 
 En **inngående faktura** er en [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") som bedriften mottar fra leverandører for kjøp av varer eller tjenester. Dette er motsatsen til utgående fakturaer som bedriften sender til sine kunder. Inngående fakturaer representerer bedriftens kostnader og gjeld, og må behandles systematisk for å sikre korrekt [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring i Norge") og kontroll med bedriftens utgifter.

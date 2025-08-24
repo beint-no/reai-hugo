@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Bilagsmottak?"
 seoTitle: "Hva er Bilagsmottak?"
-meta_description: '**Bilagsmottak** er den systematiske prosessen for mottak, registrering, kontroll og behandling av alle regnskapsdokumenter som kommer inn til en virksomhet. De...'
-slug: hva-er-bilagsmottak
-type: blog
-layout: pages/single
+description: '**Bilagsmottak** er den systematiske prosessen for mottak, registrering, kontroll og behandling av alle regnskapsdokumenter som kommer inn til en virksomhet. De...'
 ---
 
 **Bilagsmottak** er den systematiske prosessen for mottak, registrering, kontroll og behandling av alle regnskapsdokumenter som kommer inn til en virksomhet. Dette omfatter primært [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"), men også andre viktige bilag som [kvitteringer](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap"), kontoutskrifter, lønnslipper og andre dokumenter som skal bokføres. En effektiv bilagsmottaksprosess er grunnleggende for korrekt regnskapsføring og god internkontroll.

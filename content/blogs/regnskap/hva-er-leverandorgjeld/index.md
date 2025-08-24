@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Leverandørgjeld i Regnskap?"
 seoTitle: "Hva er Leverandørgjeld i Regnskap?"
-meta_description: '**Leverandørgjeld** er en av de mest sentrale komponentene i [kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til K...'
-slug: hva-er-leverandorgjeld
-type: blog
-layout: pages/single
+description: '**Leverandørgjeld** er en av de mest sentrale komponentene i [kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til K...'
 ---
 
 **Leverandørgjeld** er en av de mest sentrale komponentene i [kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til Kortsiktige Forpliktelser") og representerer virksomhetens forpliktelser overfor leverandører av varer og tjenester. Som en kritisk del av [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon"), påvirker leverandørgjeld både virksomhetens [likviditet](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet") og leverandørforhold. Denne artikkelen gir en omfattende gjennomgang av leverandørgjeld, regnskapsføring, håndtering og optimalisering.

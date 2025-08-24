@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er inkassosalær?"
 seoTitle: "Hva er inkassosalær?"
-meta_description: '**Inkassosalær** er den kompensasjonen som inkassoselskaper og advokater mottar for å drive inn forfalte fordringer på vegne av kreditorer. Dette omfatter bÃ...'
-slug: hva-er-inkassosalaer
-type: blog
-layout: pages/single
+description: '**Inkassosalær** er den kompensasjonen som inkassoselskaper og advokater mottar for å drive inn forfalte fordringer på vegne av kreditorer. Dette omfatter bÃ...'
 ---
 
 **Inkassosalær** er den kompensasjonen som inkassoselskaper og advokater mottar for å drive inn forfalte fordringer på vegne av kreditorer. Dette omfatter både faste gebyrer og prosentbaserte honorarer som er regulert av norsk lov. Forståelse av inkassosalær er viktig for både bedrifter som bruker inkassotjenester og skyldnere som mottar inkassokrav.

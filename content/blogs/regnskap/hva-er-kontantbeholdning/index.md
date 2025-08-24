@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Kontantbeholdning?"
 seoTitle: "Hva er Kontantbeholdning?"
-meta_description: '**Kontantbeholdning** er den totale mengden kontanter og kontantekvivalenter som et selskap holder tilgjengelig for å møte sine kortsiktige forpliktelser og o...'
-slug: hva-er-kontantbeholdning
-type: blog
-layout: pages/single
+description: '**Kontantbeholdning** er den totale mengden kontanter og kontantekvivalenter som et selskap holder tilgjengelig for å møte sine kortsiktige forpliktelser og o...'
 ---
 
 **Kontantbeholdning** er den totale mengden kontanter og kontantekvivalenter som et selskap holder tilgjengelig for å møte sine kortsiktige forpliktelser og operasjonelle behov. Som en fundamental del av [likviditetsstyring](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedrifter"), representerer kontantbeholdning selskapets evne til å håndtere uforutsette utgifter og gripe investeringsmuligheter når de oppstår.

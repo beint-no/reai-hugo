@@ -1,10 +1,7 @@
 ﻿---
 title: "Utlignet skatt"
 seoTitle: "Utlignet skatt"
-meta_description: '**Utlignet skatt** er den endelige skatteposten som fastsettes av skattemyndighetene i skatteoppgjøret. Den representerer det beløpet virksomheten enten må b...'
-slug: utlignet-skatt
-type: blog
-layout: pages/single
+description: '**Utlignet skatt** er den endelige skatteposten som fastsettes av skattemyndighetene i skatteoppgjøret. Den representerer det beløpet virksomheten enten må b...'
 ---
 
 **Utlignet skatt** er den endelige skatteposten som fastsettes av skattemyndighetene i skatteoppgjøret. Den representerer det beløpet virksomheten enten må betale ved restskatt eller får til gode ved tilgodebeløp.

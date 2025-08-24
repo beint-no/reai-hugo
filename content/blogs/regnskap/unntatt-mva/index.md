@@ -1,10 +1,7 @@
 ﻿---
 title: "Unntatt MVA"
 seoTitle: "Unntatt MVA"
-meta_description: '**Unntatt MVA** refererer til varer og tjenester som i henhold til norsk regelverk ikke belastes merverdiavgift. Å kjenne til hvilke leveranser som er **unntat...'
-slug: unntatt-mva
-type: blog
-layout: pages/single
+description: '**Unntatt MVA** refererer til varer og tjenester som i henhold til norsk regelverk ikke belastes merverdiavgift. Å kjenne til hvilke leveranser som er **unntat...'
 ---
 
 **Unntatt MVA** refererer til varer og tjenester som i henhold til norsk regelverk ikke belastes merverdiavgift. Å kjenne til hvilke leveranser som er **unntatt MVA** er avgjørende for korrekt fakturering og regnskapsføring i bedriften.

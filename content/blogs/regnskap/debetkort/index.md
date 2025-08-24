@@ -1,10 +1,7 @@
 ﻿---
 title: "Debetkort"
 seoTitle: "Debetkort"
-meta_description: '**Debetkort** er et betalingskort som gir innehaveren mulighet til å trekke midler direkte fra sin bankkonto ved betaling av varer og tjenester. I denne artikk...'
-slug: debetkort
-type: blog
-layout: pages/single
+description: '**Debetkort** er et betalingskort som gir innehaveren mulighet til å trekke midler direkte fra sin bankkonto ved betaling av varer og tjenester. I denne artikk...'
 ---
 
 **Debetkort** er et betalingskort som gir innehaveren mulighet til å trekke midler direkte fra sin bankkonto ved betaling av varer og tjenester. I denne artikkelen får du en komplett gjennomgang av hva et debetkort er, hvordan det fungerer, og hvordan det påvirker regnskapet i norske bedrifter.

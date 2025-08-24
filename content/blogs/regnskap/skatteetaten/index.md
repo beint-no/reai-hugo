@@ -1,10 +1,7 @@
 ﻿---
 title: "Skatteetaten"
 seoTitle: "Skatteetaten"
-meta_description: '## Innledning'
-slug: skatteetaten
-type: blog
-layout: pages/single
+description: '## Innledning'
 ---
 
 ## Innledning

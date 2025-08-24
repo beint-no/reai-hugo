@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Bedriftsbank?"
 seoTitle: "Hva er Bedriftsbank?"
-meta_description: '**Bedriftsbank** er en helhetlig tjenesteportefølje som hjelper norske bedrifter med å **håndtere likviditet**, **utføre betalinger** og **opprettholde øko...'
-slug: bedriftsbank
-type: blog
-layout: pages/single
+description: '**Bedriftsbank** er en helhetlig tjenesteportefølje som hjelper norske bedrifter med å **håndtere likviditet**, **utføre betalinger** og **opprettholde øko...'
 ---
 
 **Bedriftsbank** er en helhetlig tjenesteportefølje som hjelper norske bedrifter med å **håndtere likviditet**, **utføre betalinger** og **opprettholde økonomisk kontroll**. En moderne bedriftsbank omfatter både **bankkontoer**, **betalingstjenester**, **finansieringsløsninger**, **sikkerhetsmekanismer** og **integrasjon med regnskapssystemer**.

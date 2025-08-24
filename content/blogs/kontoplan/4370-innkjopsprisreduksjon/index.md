@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 4370 - Innkjøpsprisreduksjon"
 seoTitle: "4370-innkjopsprisreduksjon"
-meta_description: '**Konto 4370 - Innkjøpsprisreduksjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **prisavslag** fra leverandører på kjøp av varer ...'
-slug: 4370-innkjopsprisreduksjon
-type: blog
-layout: pages/single
+description: '**Konto 4370 - Innkjøpsprisreduksjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **prisavslag** fra leverandører på kjøp av varer ...'
 ---
 
 **Konto 4370 - Innkjøpsprisreduksjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **prisavslag** fra leverandører på kjøp av varer for videresalg.

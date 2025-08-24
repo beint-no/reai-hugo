@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Fordring?"
 seoTitle: "Hva er Fordring?"
-meta_description: '**Fordring** er et **økonomisk krav** på betaling, hvor én part (creditor) har levert varer, tjenester eller ytelser, og en annen part (debitor) skylder beta...'
-slug: hva-er-fordring
-type: blog
-layout: pages/single
+description: '**Fordring** er et **økonomisk krav** på betaling, hvor én part (creditor) har levert varer, tjenester eller ytelser, og en annen part (debitor) skylder beta...'
 ---
 
 **Fordring** er et **økonomisk krav** på betaling, hvor én part (creditor) har levert varer, tjenester eller ytelser, og en annen part (debitor) skylder betaling for disse. I regnskapet klassifiseres fordringer som [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er en Eiendel? Komplett Guide til Eiendeler i Regnskap"), og de representerer fremtidige kontantstrømmer som forventes mottatt.

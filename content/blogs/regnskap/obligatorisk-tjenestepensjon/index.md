@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er obligatorisk tjenestepensjon?"
 seoTitle: "Hva er obligatorisk tjenestepensjon?"
-meta_description: '**Obligatorisk tjenestepensjon** (OTP) er en lovpålagt pensjonsordning som alle norske arbeidsgivere må etablere for sine ansatte. Ordningen ble innført i 20...'
-slug: obligatorisk-tjenestepensjon
-type: blog
-layout: pages/single
+description: '**Obligatorisk tjenestepensjon** (OTP) er en lovpålagt pensjonsordning som alle norske arbeidsgivere må etablere for sine ansatte. Ordningen ble innført i 20...'
 ---
 
 **Obligatorisk tjenestepensjon** (OTP) er en lovpålagt pensjonsordning som alle norske arbeidsgivere må etablere for sine ansatte. Ordningen ble innført i 2006 gjennom lov om obligatorisk tjenestepensjon, og representerer en viktig del av det norske pensjonssystemet ved siden av [folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Offentlige Pensjonssystem"). For en komplett oversikt over [tjenestepensjon](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? Komplett Guide til Bedriftspensjon og Regnskapsføring") generelt, inkludert ulike typer ordninger og regnskapsbehandling.

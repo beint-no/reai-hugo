@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er forskuddstrekk?"
 seoTitle: "Hva er forskuddstrekk?"
-meta_description: '**Forskuddstrekk** er et system hvor arbeidsgivere trekker skatt fra ansattes lønn før utbetaling, og sender denne skatten direkte til Skatteetaten på vegne ...'
-slug: hva-er-forskuddstrekk
-type: blog
-layout: pages/single
+description: '**Forskuddstrekk** er et system hvor arbeidsgivere trekker skatt fra ansattes lønn før utbetaling, og sender denne skatten direkte til Skatteetaten på vegne ...'
 ---
 
 **Forskuddstrekk** er et system hvor arbeidsgivere trekker skatt fra ansattes lønn før utbetaling, og sender denne skatten direkte til Skatteetaten på vegne av den ansatte. Dette systemet sikrer at arbeidstakere betaler skatt løpende gjennom året, i stedet for å måtte betale hele skatten på en gang ved årets slutt. Forskuddstrekk er en fundamental del av det norske skattesystemet og påvirker både arbeidsgivere og arbeidstakere.

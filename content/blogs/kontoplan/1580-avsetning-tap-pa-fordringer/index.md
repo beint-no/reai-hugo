@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1580 - Avsetning tap på fordringer"
 seoTitle: "1580-avsetning-tap-pa-fordringer"
-meta_description: '**Konto 1580 - Avsetning tap på fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avsetning for tap på fordringer** som en **...'
-slug: 1580-avsetning-tap-pa-fordringer
-type: blog
-layout: pages/single
+description: '**Konto 1580 - Avsetning tap på fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avsetning for tap på fordringer** som en **...'
 ---
 
 **Konto 1580 - Avsetning tap på fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avsetning for tap på fordringer** som en **motkonto** til fordringskontoer som [Konto 1500 - Kundefordringer](/blogs/kontoplan/1500-kundefordringer "Konto 1500 - Kundefordringer") og [Konto 1390 - Andre fordringer](/blogs/kontoplan/1390-andre-fordringer "Konto 1390 - Andre fordringer") i balansen.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Bærekraftsrapportering"
 seoTitle: "Bærekraftsrapportering"
-meta_description: 'Bærekraftsrapportering handler om å kommunisere en virksomhets **miljømessige**, **sosiale** og **styringsrelaterte** (ESG) prestasjoner til interessenter, i...'
-slug: baerekraftsrapportering
-type: blog
-layout: pages/single
+description: 'Bærekraftsrapportering handler om å kommunisere en virksomhets **miljømessige**, **sosiale** og **styringsrelaterte** (ESG) prestasjoner til interessenter, i...'
 ---
 
 Bærekraftsrapportering handler om å kommunisere en virksomhets **miljømessige**, **sosiale** og **styringsrelaterte** (ESG) prestasjoner til interessenter, investorer og myndigheter. I Norge er bærekraftsrapportering et viktig verktøy for å sikre **åpenhet**, **ansvarlighet** og **langsiktig verdiskaping** gjennom integrering av bærekraftsmål i virksomhetens regnskap og strategiske planer.

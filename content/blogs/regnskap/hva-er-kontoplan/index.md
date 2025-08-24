@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Kontoplan?"
 seoTitle: "Hva er en Kontoplan?"
-meta_description: 'En **kontoplan** er et systematisk register over alle kontoer som brukes i et selskaps [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Gui...'
-slug: hva-er-kontoplan
-type: blog
-layout: pages/single
+description: 'En **kontoplan** er et systematisk register over alle kontoer som brukes i et selskaps [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Gui...'
 ---
 
 En **kontoplan** er et systematisk register over alle kontoer som brukes i et selskaps [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring i Norge"). Den fungerer som ryggraden i enhver [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Bokføringsregler og -praksis") og gir struktur og oversikt over alle økonomiske transaksjoner.

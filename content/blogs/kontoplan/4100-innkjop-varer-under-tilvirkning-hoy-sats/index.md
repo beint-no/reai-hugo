@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 4100 - Innkjøp varer under tilvirkning høy sats"
 seoTitle: "4100-innkjop-varer-under-tilvirkning-hoy-sats"
-meta_description: '**Konto 4100 - Innkjøp varer under tilvirkning høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av varer under tilvirkni...'
-slug: 4100-innkjop-varer-under-tilvirkning-hoy-sats
-type: blog
-layout: pages/single
+description: '**Konto 4100 - Innkjøp varer under tilvirkning høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av varer under tilvirkni...'
 ---
 
 **Konto 4100 - Innkjøp varer under tilvirkning høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av varer under tilvirkning** som er **avgiftspliktige med høy MVA-sats (25 %)**.

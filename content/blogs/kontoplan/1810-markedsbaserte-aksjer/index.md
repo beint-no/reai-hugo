@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1810 - Markedsbaserte aksjer"
 seoTitle: "1810-markedsbaserte-aksjer"
-meta_description: '**Konto 1810 - Markedsbaserte aksjer** er en konto i Norsk Standard Kontoplan som brukes for å registrere **markedsbaserte aksjer** som omsettes på regulerte ...'
-slug: 1810-markedsbaserte-aksjer
-type: blog
-layout: pages/single
+description: '**Konto 1810 - Markedsbaserte aksjer** er en konto i Norsk Standard Kontoplan som brukes for å registrere **markedsbaserte aksjer** som omsettes på regulerte ...'
 ---
 
 **Konto 1810 - Markedsbaserte aksjer** er en konto i Norsk Standard Kontoplan som brukes for å registrere **markedsbaserte aksjer** som omsettes på regulerte markeder, og som måles til virkelig verdi i [balansen](/blogs/regnskap/hva-er-balanseregnskap "Hva er Balanseregnskap?").

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er varemerke?"
 seoTitle: "Hva er varemerke?"
-meta_description: '**Varemerke** er et juridisk beskyttet kjennetegn som identifiserer varer eller tjenester og gir rettighetshaver enerett til bruk. I norsk regnskap klassifisere...'
-slug: hva-er-varemerke
-type: blog
-layout: pages/single
+description: '**Varemerke** er et juridisk beskyttet kjennetegn som identifiserer varer eller tjenester og gir rettighetshaver enerett til bruk. I norsk regnskap klassifisere...'
 ---
 
 **Varemerke** er et juridisk beskyttet kjennetegn som identifiserer varer eller tjenester og gir rettighetshaver enerett til bruk. I norsk regnskap klassifiseres varemerker som **immaterielle eiendeler** og behandles etter prinsippene for aktivering, amortisering og mulige nedskrivninger.

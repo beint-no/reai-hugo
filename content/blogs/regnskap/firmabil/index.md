@@ -1,10 +1,7 @@
 ﻿---
 title: "Firmabil"
 seoTitle: "Firmabil"
-meta_description: '**Firmabil** er et kjøretøy som eies, leases eller disponeres av virksomheten og stilles til rådighet for ansatte. Bruken av firmabil har både **regnskapsme...'
-slug: firmabil
-type: blog
-layout: pages/single
+description: '**Firmabil** er et kjøretøy som eies, leases eller disponeres av virksomheten og stilles til rådighet for ansatte. Bruken av firmabil har både **regnskapsme...'
 ---
 
 **Firmabil** er et kjøretøy som eies, leases eller disponeres av virksomheten og stilles til rådighet for ansatte. Bruken av firmabil har både **regnskapsmessige** og **skattemessige** konsekvenser i Norge.

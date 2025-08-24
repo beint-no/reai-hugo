@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er kreditere?"
 seoTitle: "Hva er kreditere?"
-meta_description: '**Kreditere** er en fundamental handling i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bo...'
-slug: hva-er-kreditere
-type: blog
-layout: pages/single
+description: '**Kreditere** er en fundamental handling i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bo...'
 ---
 
 **Kreditere** er en fundamental handling i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem") som innebærer å registrere et beløp på høyre side av en konto. Sammen med [debet](/blogs/regnskap/hva-er-debet "Hva er Debet i Regnskap? Komplett Guide til Debetposter og Bokføring") utgjør kreditering grunnlaget for all systematisk [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") og [kontering](/blogs/regnskap/hva-er-kontering "Hva er Kontering? En Komplett Guide til Kontokoding i Regnskap").

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Skatteloven?"
 seoTitle: "Hva er Skatteloven?"
-meta_description: '***Skatteloven*** er hovedloven som regulerer skattelegging i Norge. Den inneholder regler om fastsetting, beregning og innkreving av skatt for både **personer...'
-slug: hva-er-skatteloven
-type: blog
-layout: pages/single
+description: '***Skatteloven*** er hovedloven som regulerer skattelegging i Norge. Den inneholder regler om fastsetting, beregning og innkreving av skatt for både **personer...'
 ---
 
 ***Skatteloven*** er hovedloven som regulerer skattelegging i Norge. Den inneholder regler om fastsetting, beregning og innkreving av skatt for både **personer** og **foretak**, og er avgjørende for korrekt regnskapsføring og skatteplanlegging.

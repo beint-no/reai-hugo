@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1400 - Råvarer og innkjøpte halvfabrikater"
 seoTitle: "1400-raavarer-og-innkjopte-halvfabrikater"
-meta_description: '**Konto 1400 - Råvarer og innkjøpte halvfabrikater** er en konto i Norsk Standard Kontoplan som brukes til å registrere **råvarer** og **innkjøpte halvfabr...'
-slug: 1400-raavarer-og-innkjopte-halvfabrikater
-type: blog
-layout: pages/single
+description: '**Konto 1400 - Råvarer og innkjøpte halvfabrikater** er en konto i Norsk Standard Kontoplan som brukes til å registrere **råvarer** og **innkjøpte halvfabr...'
 ---
 
 **Konto 1400 - Råvarer og innkjøpte halvfabrikater** er en konto i Norsk Standard Kontoplan som brukes til å registrere **råvarer** og **innkjøpte halvfabrikater** som inngår i selskapets varelager.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 2650 - Trukket fagforeningskontingent?"
 seoTitle: "2650-trukket-fagforeningskontingent"
-meta_description: '**Konto 2650 - Trukket fagforeningskontingent** er en konto i Norsk Standard Kontoplan som brukes til å vise **fagforeningskontingent** som er trukket fra ansa...'
-slug: 2650-trukket-fagforeningskontingent
-type: blog
-layout: pages/single
+description: '**Konto 2650 - Trukket fagforeningskontingent** er en konto i Norsk Standard Kontoplan som brukes til å vise **fagforeningskontingent** som er trukket fra ansa...'
 ---
 
 **Konto 2650 - Trukket fagforeningskontingent** er en konto i Norsk Standard Kontoplan som brukes til å vise **fagforeningskontingent** som er trukket fra ansattes [lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn") for fagorganisasjonsmedlemskap. Kontoen presenteres som **kortsiktig gjeld** i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og reflekterer forpliktelsen inntil betaling til fagforeningen er gjennomført.

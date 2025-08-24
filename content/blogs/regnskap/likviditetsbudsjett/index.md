@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er likviditetsbudsjett?"
 seoTitle: "Hva er likviditetsbudsjett?"
-meta_description: '**Likviditetsbudsjett** er et spesialisert finansielt planleggingsverktøy som fokuserer på å forutsi og styre bedriftens kontantstrømmer over en bestemt per...'
-slug: likviditetsbudsjett
-type: blog
-layout: pages/single
+description: '**Likviditetsbudsjett** er et spesialisert finansielt planleggingsverktøy som fokuserer på å forutsi og styre bedriftens kontantstrømmer over en bestemt per...'
 ---
 
 **Likviditetsbudsjett** er et spesialisert finansielt planleggingsverktøy som fokuserer på å forutsi og styre bedriftens kontantstrømmer over en bestemt periode. Dette budsjettet er kritisk for å sikre at bedriften har tilstrekkelig [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet") til å møte sine løpende forpliktelser og opprettholde god [betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet"). Likviditetsbudsjettet er en sentral del av [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging for Bedrifter") og arbeider tett sammen med [kontantstrømanalyse](/blogs/regnskap/hva-er-kontantstromanalyse "Hva er Kontantstrømanalyse? Komplett Guide til Analyse av Bedriftens Kontantstrøm") for å gi ledelsen full oversikt over bedriftens likviditetssituasjon.

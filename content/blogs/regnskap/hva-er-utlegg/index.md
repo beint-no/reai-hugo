@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Utlegg? En Komplett Guide til Utleggsregnskapet"
 seoTitle: "Hva er Utlegg? En Komplett Guide til Utleggsregnskapet"
-meta_description: '**Utlegg** er penger som ansatte eller andre forbundne parter legger ut på vegne av et selskap eller en organisasjon, som deretter refunderes av arbeidsgiver. ...'
-slug: hva-er-utlegg
-type: blog
-layout: pages/single
+description: '**Utlegg** er penger som ansatte eller andre forbundne parter legger ut på vegne av et selskap eller en organisasjon, som deretter refunderes av arbeidsgiver. ...'
 ---
 
 **Utlegg** er penger som ansatte eller andre forbundne parter legger ut på vegne av et selskap eller en organisasjon, som deretter refunderes av arbeidsgiver. Utlegg kan omfatte alt fra [reiseregning](/blogs/regnskap/reiseregning "Reiseregning - Guide til reiseregninger i Norsk Regnskap") for transport- og reiseutlegg (kilometergodtgjørelse dokumenteres gjennom en [kjørebok](/blogs/regnskap/hva-er-kjorebok "Hva er kjørebok? Komplett Guide til Kjørebok for Bedrifter i Norge")) og representasjonskostnader til innkjøp av kontormateriell og andre driftsrelaterte utgifter. Forståelse av utlegg er essensiell for riktig [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Regnskapsføring") og [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? En Guide til Effektiv Risikostyring") i bedrifter.

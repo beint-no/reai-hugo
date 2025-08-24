@@ -1,10 +1,7 @@
 ﻿---
 title: "Revisjonsberetning"
 seoTitle: "Revisjonsberetning"
-meta_description: '**Revisjonsberetning** er den offisielle rapporten som en revisor utarbeider etter fullført revisjon for å uttrykke sin mening om om årsregnskapet er utarbei...'
-slug: hva-er-revisjonsberetning
-type: blog
-layout: pages/single
+description: '**Revisjonsberetning** er den offisielle rapporten som en revisor utarbeider etter fullført revisjon for å uttrykke sin mening om om årsregnskapet er utarbei...'
 ---
 
 **Revisjonsberetning** er den offisielle rapporten som en revisor utarbeider etter fullført revisjon for å uttrykke sin mening om om årsregnskapet er utarbeidet i samsvar med gjeldende lover, forskrifter og god regnskapsskikk. Revisjonsberetningen er et viktig verktøy for brukerne av regnskapet, som eiere, långivere og andre interessenter, for å vurdere selskapets finansielle troverdighet.

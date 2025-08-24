@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er KPI?"
 seoTitle: "Hva er KPI?"
-meta_description: '**KPI** (Key Performance Indicators) er målbare verdier som viser hvor effektivt en bedrift oppnår sine viktigste forretningsmål. I [regnskap](/blogs/regnska...'
-slug: hva-er-kpi
-type: blog
-layout: pages/single
+description: '**KPI** (Key Performance Indicators) er målbare verdier som viser hvor effektivt en bedrift oppnår sine viktigste forretningsmål. I [regnskap](/blogs/regnska...'
 ---
 
 **KPI** (Key Performance Indicators) er målbare verdier som viser hvor effektivt en bedrift oppnår sine viktigste forretningsmål. I [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring og Bokføring") og finansiell analyse brukes KPI-er for å evaluere bedriftens prestasjon, identifisere forbedringsområder og støtte strategiske beslutninger.

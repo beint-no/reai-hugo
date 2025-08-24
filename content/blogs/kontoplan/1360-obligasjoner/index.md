@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1360 - Obligasjoner"
 seoTitle: "1360-obligasjoner"
-meta_description: '**Konto 1360 - Obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige obligasjoner** og **rentebærende verdipapirer**...'
-slug: 1360-obligasjoner
-type: blog
-layout: pages/single
+description: '**Konto 1360 - Obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige obligasjoner** og **rentebærende verdipapirer**...'
 ---
 
 **Konto 1360 - Obligasjoner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige obligasjoner** og **rentebærende verdipapirer** som holdes som anleggsmidler for å oppnå avkastning og diversifisering.

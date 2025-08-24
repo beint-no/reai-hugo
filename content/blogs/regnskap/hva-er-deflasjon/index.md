@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Deflasjon?"
 seoTitle: "Hva er Deflasjon?"
-meta_description: '**Deflasjon** er den generelle nedgangen i prisnivået på varer og tjenester over tid, som resulterer i økt kjøpekraft for penger. Dette fenomenet er motstyk...'
-slug: hva-er-deflasjon
-type: blog
-layout: pages/single
+description: '**Deflasjon** er den generelle nedgangen i prisnivået på varer og tjenester over tid, som resulterer i økt kjøpekraft for penger. Dette fenomenet er motstyk...'
 ---
 
 **Deflasjon** er den generelle nedgangen i prisnivået på varer og tjenester over tid, som resulterer i økt kjøpekraft for penger. Dette fenomenet er motstykket til [inflasjon](/blogs/regnskap/hva-er-inflasjon "Hva er Inflasjon? Komplett Guide til Inflasjon i Regnskap og Økonomi"), og har viktige implikasjoner for [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring"), [investeringer](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Guide til Investeringsavkastning og Beregning") og bedriftsdrift.

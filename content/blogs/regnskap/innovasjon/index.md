@@ -1,10 +1,7 @@
 ﻿---
 title: "Innovasjon"
 seoTitle: "Innovasjon"
-meta_description: '**Innovasjon** er en kritisk driver for langsiktig vekst og konkurranseevne i norske virksomheter. I regnskapssammenheng innebærer innovasjon både behandling ...'
-slug: innovasjon
-type: blog
-layout: pages/single
+description: '**Innovasjon** er en kritisk driver for langsiktig vekst og konkurranseevne i norske virksomheter. I regnskapssammenheng innebærer innovasjon både behandling ...'
 ---
 
 **Innovasjon** er en kritisk driver for langsiktig vekst og konkurranseevne i norske virksomheter. I regnskapssammenheng innebærer innovasjon både behandling av **utviklingskostnader** som immaterielle eiendeler og strategisk rapportering av FoU-investeringer.

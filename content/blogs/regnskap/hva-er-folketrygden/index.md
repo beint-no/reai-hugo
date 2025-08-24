@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"
 seoTitle: "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"
-meta_description: '**Folketrygden** er Norges nasjonale trygdesystem som sikrer økonomisk trygghet for alle som bor eller arbeider i Norge. Dette omfattende systemet er en hjørn...'
-slug: hva-er-folketrygden
-type: blog
-layout: pages/single
+description: '**Folketrygden** er Norges nasjonale trygdesystem som sikrer økonomisk trygghet for alle som bor eller arbeider i Norge. Dette omfattende systemet er en hjørn...'
 ---
 
 **Folketrygden** er Norges nasjonale trygdesystem som sikrer økonomisk trygghet for alle som bor eller arbeider i Norge. Dette omfattende systemet er en hjørnestein i den norske velferdsstaten og har betydelige implikasjoner for både privatpersoner og bedrifter når det gjelder [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og økonomisk planlegging.

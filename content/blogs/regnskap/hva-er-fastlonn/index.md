@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Fastlønn i Regnskap?"
 seoTitle: "Hva er Fastlønn i Regnskap?"
-meta_description: '**Fastlønn** er en fast månedlig eller årlig lønn som utbetales til en ansatt uavhengig av antall arbeidstimer, produksjon eller prestasjoner. Dette er den ...'
-slug: hva-er-fastlonn
-type: blog
-layout: pages/single
+description: '**Fastlønn** er en fast månedlig eller årlig lønn som utbetales til en ansatt uavhengig av antall arbeidstimer, produksjon eller prestasjoner. Dette er den ...'
 ---
 
 **Fastlønn** er en fast månedlig eller årlig lønn som utbetales til en ansatt uavhengig av antall arbeidstimer, produksjon eller prestasjoner. Dette er den vanligste lønnsformen i Norge og representerer en **forutsigbar inntekt** for arbeidstakeren og en **fast [lønnskostnad](/blogs/regnskap/lonnskostnad "Hva er Lønnskostnad i Regnskap?")** for arbeidsgiveren. Fastlønn står i kontrast til andre lønnsformer som [akkordlønn](/blogs/regnskap/hva-er-akkordlonn "Hva er Akkordlønn? En Guide til Prestasjonslønn") eller timelønn.

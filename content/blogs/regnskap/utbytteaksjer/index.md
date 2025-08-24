@@ -1,10 +1,7 @@
 ﻿---
 title: "Utbytteaksjer"
 seoTitle: "Utbytteaksjer"
-meta_description: '**Utbytteaksjer** er aksjer i selskaper som deler ut jevnlige kontantutbetalinger til aksjonærene, kalt *utbytte*. Slike aksjer er populære blant investorer s...'
-slug: utbytteaksjer
-type: blog
-layout: pages/single
+description: '**Utbytteaksjer** er aksjer i selskaper som deler ut jevnlige kontantutbetalinger til aksjonærene, kalt *utbytte*. Slike aksjer er populære blant investorer s...'
 ---
 
 **Utbytteaksjer** er aksjer i selskaper som deler ut jevnlige kontantutbetalinger til aksjonærene, kalt *utbytte*. Slike aksjer er populære blant investorer som søker **stabil inntekt** og langsiktig avkastning. Denne guiden gir deg alt du trenger å vite om utbytteaksjer i norsk marked, inkludert hvordan utbytteavkastning beregnes, eksempler på investeringer, risikofaktorer og kriterier for å velge de beste utbytteaksjene.

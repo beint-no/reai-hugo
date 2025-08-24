@@ -1,10 +1,7 @@
 ﻿---
 title: "Mva-loven"
 seoTitle: "Mva-loven"
-meta_description: '**Mva-loven** (merverdiavgiftsloven) er det sentrale regelverket som regulerer merverdiavgift i Norge. Loven fastsetter reglene for når bedrifter må registrer...'
-slug: mva-loven
-type: blog
-layout: pages/single
+description: '**Mva-loven** (merverdiavgiftsloven) er det sentrale regelverket som regulerer merverdiavgift i Norge. Loven fastsetter reglene for når bedrifter må registrer...'
 ---
 
 **Mva-loven** (merverdiavgiftsloven) er det sentrale regelverket som regulerer merverdiavgift i Norge. Loven fastsetter reglene for når bedrifter må registrere seg i Merverdiavgiftsregisteret, hvilke satser som gjelder, og hvordan [merverdiavgift skal håndteres i regnskapet](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring og Bokføringsregler"). For norske bedrifter er forståelse av mva-loven essensielt for korrekt [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring og Finansiell Rapportering") og unngåelse av sanksjoner.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er AvtaleGiro?"
 seoTitle: "Hva er AvtaleGiro?"
-meta_description: '**AvtaleGiro** er Norges mest brukte system for automatisk betaling av regninger. Dette betalingssystemet gjør det mulig for både privatpersoner og bedrifter ...'
-slug: hva-er-avtalegiro
-type: blog
-layout: pages/single
+description: '**AvtaleGiro** er Norges mest brukte system for automatisk betaling av regninger. Dette betalingssystemet gjør det mulig for både privatpersoner og bedrifter ...'
 ---
 
 **AvtaleGiro** er Norges mest brukte system for automatisk betaling av regninger. Dette betalingssystemet gjør det mulig for både privatpersoner og bedrifter å automatisere regelmessige betalinger, slik at regninger betales automatisk fra bankkonto uten manuell inngripen. Som en av de mest populære [elektroniske betalingsmidlene](/blogs/regnskap/hva-er-betalingsmidler "Hva er Betalingsmidler? Tvungne, Elektroniske og Tradisjonelle Metoder") i Norge, representerer AvtaleGiro en viktig del av det moderne betalingslandskapet.

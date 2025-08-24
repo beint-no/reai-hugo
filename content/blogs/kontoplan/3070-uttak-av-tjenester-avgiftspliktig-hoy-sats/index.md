@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3070 - Uttak av tjenester avgiftspliktig høy sats"
 seoTitle: "3070-uttak-av-tjenester-avgiftspliktig-hoy-sats"
-meta_description: '**Konto 3070 - Uttak av tjenester avgiftspliktig høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av tjenester** til bruk...'
-slug: 3070-uttak-av-tjenester-avgiftspliktig-hoy-sats
-type: blog
-layout: pages/single
+description: '**Konto 3070 - Uttak av tjenester avgiftspliktig høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av tjenester** til bruk...'
 ---
 
 **Konto 3070 - Uttak av tjenester avgiftspliktig høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uttak av tjenester** til bruk i virksomheten, der uttaket er **avgiftspliktig med høy MVA-sats**.

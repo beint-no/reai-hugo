@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3190 - Refunderbare utlegg for kjøpers regning avgiftsfri"
 seoTitle: "3190-refunderbare-utlegg-for-kjopers-regning-avgiftsfri"
-meta_description: '**Konto 3190 - Refunderbare utlegg for kjøpers regning avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **refunderbare utlegg**...'
-slug: 3190-refunderbare-utlegg-for-kjopers-regning-avgiftsfri
-type: blog
-layout: pages/single
+description: '**Konto 3190 - Refunderbare utlegg for kjøpers regning avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **refunderbare utlegg**...'
 ---
 
 **Konto 3190 - Refunderbare utlegg for kjøpers regning avgiftsfri** er en konto i Norsk Standard Kontoplan som brukes til å registrere **refunderbare utlegg** på vegne av kunden som er **avgiftsfrie (0 % MVA)**.

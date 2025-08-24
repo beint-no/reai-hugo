@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 4360 - Frakt, toll og spedisjon"
 seoTitle: "4360-frakt-toll-og-spedisjon"
-meta_description: '**Konto 4360 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** knyttet til kjøp av ...'
-slug: 4360-frakt-toll-og-spedisjon
-type: blog
-layout: pages/single
+description: '**Konto 4360 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** knyttet til kjøp av ...'
 ---
 
 **Konto 4360 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** knyttet til kjøp av varer for videresalg.

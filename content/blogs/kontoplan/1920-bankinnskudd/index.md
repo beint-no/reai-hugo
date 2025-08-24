@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1920 - Bankinnskudd"
 seoTitle: "1920-bankinnskudd"
-meta_description: '**Konto 1920 - Bankinnskudd** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **bankinnskudd**, det vil si midler plassert på...'
-slug: 1920-bankinnskudd
-type: blog
-layout: pages/single
+description: '**Konto 1920 - Bankinnskudd** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **bankinnskudd**, det vil si midler plassert på...'
 ---
 
 **Konto 1920 - Bankinnskudd** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **bankinnskudd**, det vil si midler plassert på bankkontoer. Bankinnskudd er en del av **omløpsmidler** i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og en naturlig forlengelse av [Konto 1900 - Kontanter](/blogs/kontoplan/1900-kontanter "Konto 1900 - Kontanter"), [Konto 1910 - Kasse](/blogs/kontoplan/1910-kasse "Konto 1910 - Kasse") og [Konto 1950 - Bankinnskudd for skattetrekk](/blogs/kontoplan/1950-bankinnskudd-for-skattetrekk "Konto 1950 - Bankinnskudd for skattetrekk").

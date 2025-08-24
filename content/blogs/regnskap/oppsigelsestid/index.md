@@ -1,10 +1,7 @@
 ﻿---
 title: "Oppsigelsestid"
 seoTitle: "Oppsigelsestid"
-meta_description: '![Oppsigelsestid](oppsigelsestid-image.svg)'
-slug: oppsigelsestid
-type: blog
-layout: pages/single
+description: '![Oppsigelsestid](oppsigelsestid-image.svg)'
 ---
 
 ![Oppsigelsestid](oppsigelsestid-image.svg)

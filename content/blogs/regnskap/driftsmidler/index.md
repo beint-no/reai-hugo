@@ -1,10 +1,7 @@
 ﻿---
 title: "Driftsmidler"
 seoTitle: "Driftsmidler"
-meta_description: '**Driftsmidler** er de **eiendelene** en bedrift benytter i sin daglige drift. Driftsmidler omfatter både kortsiktige og langsiktige eiendeler som støtter pro...'
-slug: driftsmidler
-type: blog
-layout: pages/single
+description: '**Driftsmidler** er de **eiendelene** en bedrift benytter i sin daglige drift. Driftsmidler omfatter både kortsiktige og langsiktige eiendeler som støtter pro...'
 ---
 
 **Driftsmidler** er de **eiendelene** en bedrift benytter i sin daglige drift. Driftsmidler omfatter både kortsiktige og langsiktige eiendeler som støtter produksjon, levering av tjenester og administrasjon.

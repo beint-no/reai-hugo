@@ -1,10 +1,7 @@
 ﻿---
 title: "Skattefradrag for Gaver til Veldedige Organisasjoner"
 seoTitle: "Skattefradrag for Gaver til Veldedige Organisasjoner"
-meta_description: '**Skattefradrag for gaver til veldedige organisasjoner** er en viktig del av norsk skattepolitikk som både fremmer filantropi og gir skattemessige fordeler for...'
-slug: skattefradrag-gaver-veldedige-organisasjoner
-type: blog
-layout: pages/single
+description: '**Skattefradrag for gaver til veldedige organisasjoner** er en viktig del av norsk skattepolitikk som både fremmer filantropi og gir skattemessige fordeler for...'
 ---
 
 **Skattefradrag for gaver til veldedige organisasjoner** er en viktig del av norsk skattepolitikk som både fremmer filantropi og gir skattemessige fordeler for givere. Disse fradragene reduserer den [skattepliktige inntekten](/blogs/regnskap/hva-er-skattepliktig-inntekt "Hva er Skattepliktig Inntekt? Beregning og Optimalisering") og kan være betydelige for både privatpersoner og bedrifter. Ordningen balanserer samfunnets behov for frivillig støtte til veldedige formål med skattemessige incentiver.

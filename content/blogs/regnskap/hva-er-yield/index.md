@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Yield?"
 seoTitle: "Hva er Yield?"
-meta_description: '**Yield** er et finansielt nøkkeltall som måler den **årlige avkastningen** på en investering uttrykt som en prosentandel av investeringens markedsverdi. De...'
-slug: hva-er-yield
-type: blog
-layout: pages/single
+description: '**Yield** er et finansielt nøkkeltall som måler den **årlige avkastningen** på en investering uttrykt som en prosentandel av investeringens markedsverdi. De...'
 ---
 
 **Yield** er et finansielt nøkkeltall som måler den **årlige avkastningen** på en investering uttrykt som en prosentandel av investeringens markedsverdi. Dette konseptet er sentralt innen regnskapsføring, finansanalyse og investeringsevaluering, og brukes til å sammenligne [avkastning](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Guide til Investeringsavkastning og Beregning") på ulike investeringsalternativer.

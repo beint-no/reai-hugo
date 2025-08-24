@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er anskaffelseskost?"
 seoTitle: "Hva er anskaffelseskost?"
-meta_description: '**Anskaffelseskost** er det totale beløpet en bedrift betaler for å anskaffe og klargjøre en eiendel for bruk. Dette inkluderer ikke bare kjøpsprisen, men o...'
-slug: hva-er-anskaffelseskost
-type: blog
-layout: pages/single
+description: '**Anskaffelseskost** er det totale beløpet en bedrift betaler for å anskaffe og klargjøre en eiendel for bruk. Dette inkluderer ikke bare kjøpsprisen, men o...'
 ---
 
 **Anskaffelseskost** er det totale beløpet en bedrift betaler for å anskaffe og klargjøre en eiendel for bruk. Dette inkluderer ikke bare kjøpsprisen, men også alle direkte kostnader som er nødvendige for å få eiendelen klar til sitt tiltenkte formål. Anskaffelseskost danner grunnlaget for verdsettelse av [aktiva](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler") og er avgjørende for korrekt beregning av avskrivninger og [amortisering](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering? Fordeling av Immaterielle Eiendeler").

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Bokføringsforskriften?"
 seoTitle: "Hva er Bokføringsforskriften?"
-meta_description: '**Bokføringsforskriften** er det sentrale regelverket som regulerer hvordan norske virksomheter skal føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er R...'
-slug: hva-er-bokforingsforskriften
-type: blog
-layout: pages/single
+description: '**Bokføringsforskriften** er det sentrale regelverket som regulerer hvordan norske virksomheter skal føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er R...'
 ---
 
 **Bokføringsforskriften** er det sentrale regelverket som regulerer hvordan norske virksomheter skal føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"). Forskriften fastsetter **detaljerte krav** til bokføringsplikt, [bilagsføring](/blogs/regnskap/hva-er-bilagsføring "Hva er Bilagsføring? Komplett Guide til Korrekt Registrering"), oppbevaring og regnskapsstandarder for å sikre **transparent** og **korrekt regnskapsføring**.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Helse, miljø og sikkerhet (HMS)"
 seoTitle: "Helse, miljø og sikkerhet (HMS)"
-meta_description: '**Helse, miljø og sikkerhet (HMS)** er et rammeverk for å sikre et trygt, sunt og bærekraftig arbeidsmiljø i norske virksomheter.'
-slug: hms
-type: blog
-layout: pages/single
+description: '**Helse, miljø og sikkerhet (HMS)** er et rammeverk for å sikre et trygt, sunt og bærekraftig arbeidsmiljø i norske virksomheter.'
 ---
 
 **Helse, miljø og sikkerhet (HMS)** er et rammeverk for å sikre et trygt, sunt og bærekraftig arbeidsmiljø i norske virksomheter.

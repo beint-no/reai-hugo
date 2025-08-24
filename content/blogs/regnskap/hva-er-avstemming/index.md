@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Avstemming i Regnskap?"
 seoTitle: "Hva er Avstemming i Regnskap?"
-meta_description: '**Avstemming i regnskap** er en kritisk prosess som sikrer at regnskapsdata er nøyaktige og pålitelige. Dette innebærer å sammenligne og kontrollere regnska...'
-slug: hva-er-avstemming
-type: blog
-layout: pages/single
+description: '**Avstemming i regnskap** er en kritisk prosess som sikrer at regnskapsdata er nøyaktige og pålitelige. Dette innebærer å sammenligne og kontrollere regnska...'
 ---
 
 **Avstemming i regnskap** er en kritisk prosess som sikrer at regnskapsdata er nøyaktige og pålitelige. Dette innebærer å sammenligne og kontrollere regnskapsposter mot eksterne kilder og interne kontroller for å identifisere og korrigere eventuelle avvik. Avstemming er en sentral del av [QA (Quality Assurance)](/blogs/regnskap/hva-er-qa-kvalitetssikring "Hva er QA (Quality Assurance) i Regnskap? Komplett Guide til Kvalitetssikring") i regnskapsføring.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konkurs?"
 seoTitle: "Hva er Konkurs?"
-meta_description: '**Konkurs** er en juridisk prosess som igangsettes når en virksomhet ikke kan betale sine forpliktelser, og har som mål å realisere eiendeler, dekke kreditor...'
-slug: konkurs
-type: blog
-layout: pages/single
+description: '**Konkurs** er en juridisk prosess som igangsettes når en virksomhet ikke kan betale sine forpliktelser, og har som mål å realisere eiendeler, dekke kreditor...'
 ---
 
 **Konkurs** er en juridisk prosess som igangsettes når en virksomhet ikke kan betale sine forpliktelser, og har som mål å realisere eiendeler, dekke kreditorenes krav og eventuelt avslutte eller reorganisere selskapet.

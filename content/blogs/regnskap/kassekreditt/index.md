@@ -1,10 +1,7 @@
 ﻿---
 title: "Kassekreditt"
 seoTitle: "Kassekreditt"
-meta_description: 'Kassekreditt er en fleksibel, kortsiktig finansieringsløsning som gir bedrifter tilgang til likvide midler ved å opprette en kredittramme på bedriftskontoen....'
-slug: kassekreditt
-type: blog
-layout: pages/single
+description: 'Kassekreditt er en fleksibel, kortsiktig finansieringsløsning som gir bedrifter tilgang til likvide midler ved å opprette en kredittramme på bedriftskontoen....'
 ---
 
 Kassekreditt er en fleksibel, kortsiktig finansieringsløsning som gir bedrifter tilgang til likvide midler ved å opprette en kredittramme på bedriftskontoen. Denne **overdraft-fasiliteten** brukes ofte for å håndtere svingninger i [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditet og Likviditetsstyring"), dekke uforutsette utgifter eller finansiere sesongbaserte behov.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Lønnstype? Oversikt over ulike lønnstyper i Regnskap"
 seoTitle: "Hva er Lønnstype? Oversikt over ulike lønnstyper i Regnskap"
-meta_description: '**Lønnstype** refererer til klassifisering av ulike **lønnsformer** som bedrifter i Norge bruker for å kompensere ansatte. Å forstå de forskjellige lønnst...'
-slug: lonnstype
-type: blog
-layout: pages/single
+description: '**Lønnstype** refererer til klassifisering av ulike **lønnsformer** som bedrifter i Norge bruker for å kompensere ansatte. Å forstå de forskjellige lønnst...'
 ---
 
 **Lønnstype** refererer til klassifisering av ulike **lønnsformer** som bedrifter i Norge bruker for å kompensere ansatte. Å forstå de forskjellige lønnstypene er viktig for korrekt [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring"), lønnsplanlegging og budsjettering.

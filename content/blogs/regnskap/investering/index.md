@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Investering?"
 seoTitle: "Hva er Investering?"
-meta_description: '**Investering** er handlingen av å allokere kapital med forventning om fremtidig [avkastning](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Gu...'
-slug: investering
-type: blog
-layout: pages/single
+description: '**Investering** er handlingen av å allokere kapital med forventning om fremtidig [avkastning](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Gu...'
 ---
 
 **Investering** er handlingen av å allokere kapital med forventning om fremtidig [avkastning](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Guide til Investeringsavkastning og Beregning"). Fra et regnskapsperspektiv innebærer investeringer komplekse vurderinger knyttet til klassifisering, måling, regnskapsføring og rapportering av finansielle og ikke-finansielle eiendeler.

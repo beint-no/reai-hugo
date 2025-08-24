@@ -1,10 +1,7 @@
 ﻿---
 title: "Norsk regnskapsstandard (NRS)"
 seoTitle: "Norsk regnskapsstandard (NRS)"
-meta_description: '**Norsk regnskapsstandard (NRS)** er det nasjonale rammeverket for regnskapsføring i Norge, utviklet spesielt for norske virksomheter som ikke er pålagt å fÃ...'
-slug: norsk-regnskapsstandard-nrs
-type: blog
-layout: pages/single
+description: '**Norsk regnskapsstandard (NRS)** er det nasjonale rammeverket for regnskapsføring i Norge, utviklet spesielt for norske virksomheter som ikke er pålagt å fÃ...'
 ---
 
 **Norsk regnskapsstandard (NRS)** er det nasjonale rammeverket for regnskapsføring i Norge, utviklet spesielt for norske virksomheter som ikke er pålagt å følge [IFRS](/blogs/regnskap/hva-er-ifrs "Hva er IFRS? Komplett Guide til International Financial Reporting Standards"). NRS representerer en balanse mellom internasjonale regnskapsprinsipper og norske særegenheter, og sikrer at norske bedrifter kan føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som både oppfyller nasjonale krav og gir sammenlignbar finansiell informasjon.

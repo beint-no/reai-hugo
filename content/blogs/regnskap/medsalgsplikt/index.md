@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Medsalgsplikt?"
 seoTitle: "Hva er Medsalgsplikt?"
-meta_description: '**Medsalgsplikt** oppstår når en virksomhet selger varer på vegne av en annen part (*kommisjonær*), og må beregne og innrapportere merverdiavgift som om de...'
-slug: medsalgsplikt
-type: blog
-layout: pages/single
+description: '**Medsalgsplikt** oppstår når en virksomhet selger varer på vegne av en annen part (*kommisjonær*), og må beregne og innrapportere merverdiavgift som om de...'
 ---
 
 **Medsalgsplikt** oppstår når en virksomhet selger varer på vegne av en annen part (*kommisjonær*), og må beregne og innrapportere merverdiavgift som om de var eier av varene. Dette prinsippet sikrer at **MVA** behandles korrekt ved videresalg, og forhindrer omgåelse av [MVA-plikt](/blogs/regnskap/mva-plikt "MVA-plikt").

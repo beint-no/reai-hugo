@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Likviditetsgrad i Regnskap?"
 seoTitle: "Hva er Likviditetsgrad i Regnskap?"
-meta_description: '**Likviditetsgrad** er et sentralt **[finansielt nøkkeltall](/blogs/regnskap/hva-er-nokkeltall "Hva er Nøkkeltall? Komplett Guide til Finansielle Nøkkeltall ...'
-slug: hva-er-likviditetsgrad
-type: blog
-layout: pages/single
+description: '**Likviditetsgrad** er et sentralt **[finansielt nøkkeltall](/blogs/regnskap/hva-er-nokkeltall "Hva er Nøkkeltall? Komplett Guide til Finansielle Nøkkeltall ...'
 ---
 
 **Likviditetsgrad** er et sentralt **[finansielt nøkkeltall](/blogs/regnskap/hva-er-nokkeltall "Hva er Nøkkeltall? Komplett Guide til Finansielle Nøkkeltall i Regnskap")** som måler bedriftens evne til å dekke kortsiktige forpliktelser med tilgjengelige likvide midler. Dette er et kritisk verktøy for å vurdere [betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne i Regnskap? Analyse, Nøkkeltall og Vurdering av Likviditet") og finansiell stabilitet.

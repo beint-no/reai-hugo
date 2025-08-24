@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 2510 - Betalbar skatt, utlignet?"
 seoTitle: "2510-betalbar-skatt-utlignet"
-meta_description: '**Konto 2510 - Betalbar skatt, utlignet** er en konto i Norsk Standard Kontoplan som brukes til å vise **betalbar skatt** som er utlignet mot forskuddsskatt el...'
-slug: 2510-betalbar-skatt-utlignet
-type: blog
-layout: pages/single
+description: '**Konto 2510 - Betalbar skatt, utlignet** er en konto i Norsk Standard Kontoplan som brukes til å vise **betalbar skatt** som er utlignet mot forskuddsskatt el...'
 ---
 
 **Konto 2510 - Betalbar skatt, utlignet** er en konto i Norsk Standard Kontoplan som brukes til å vise **betalbar skatt** som er utlignet mot forskuddsskatt eller andre innbetalte skatteforhåndsbetalinger. Denne kontoen presenteres som **kortsiktig gjeld** i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og reflekterer den delen av skatt som er regnskapsført og samtidig motregnet.

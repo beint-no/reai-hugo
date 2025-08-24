@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 8160 - Valutatap (Disagio)?"
 seoTitle: "8160-valutatap-disagio"
-meta_description: '**Konto 8160 - Valutatap (Disagio)** er en konto i Norsk Standard Kontoplan som brukes for å registrere **tap ved valutakursendringer** (ofte kalt *disagio*) s...'
-slug: 8160-valutatap-disagio
-type: blog
-layout: pages/single
+description: '**Konto 8160 - Valutatap (Disagio)** er en konto i Norsk Standard Kontoplan som brukes for å registrere **tap ved valutakursendringer** (ofte kalt *disagio*) s...'
 ---
 
 **Konto 8160 - Valutatap (Disagio)** er en konto i Norsk Standard Kontoplan som brukes for å registrere **tap ved valutakursendringer** (ofte kalt *disagio*) som oppstår ved omregning av utenlandsk valuta.

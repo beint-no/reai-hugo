@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 1500 - Kundefordringer?"
 seoTitle: "1500-kundefordringer"
-meta_description: '**Konto 1500 - Kundefordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salg på kreditt** til kunder som kortsiktige fordringer ...'
-slug: 1500-kundefordringer
-type: blog
-layout: pages/single
+description: '**Konto 1500 - Kundefordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salg på kreditt** til kunder som kortsiktige fordringer ...'
 ---
 
 **Konto 1500 - Kundefordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salg på kreditt** til kunder som kortsiktige fordringer i balansen.

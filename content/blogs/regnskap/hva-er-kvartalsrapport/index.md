@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er kvartalsrapport?"
 seoTitle: "Hva er kvartalsrapport?"
-meta_description: 'En **kvartalsrapport** er en finansiell rapport som selskaper utarbeider og publiserer hver tredje måned for å gi interessenter oppdatert informasjon om selsk...'
-slug: hva-er-kvartalsrapport
-type: blog
-layout: pages/single
+description: 'En **kvartalsrapport** er en finansiell rapport som selskaper utarbeider og publiserer hver tredje måned for å gi interessenter oppdatert informasjon om selsk...'
 ---
 
 En **kvartalsrapport** er en finansiell rapport som selskaper utarbeider og publiserer hver tredje måned for å gi interessenter oppdatert informasjon om selskapets økonomiske utvikling og resultater. Kvartalsrapportering følger bedriftens [terminer](/blogs/regnskap/hva-er-termin "Hva er Termin? Regnskapsperioder og Terminplanlegging") og er en sentral del av [finansregnskapet](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering") som spiller en viktig rolle i å opprettholde transparens og tillit i finansmarkedene.

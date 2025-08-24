@@ -1,10 +1,7 @@
 ﻿---
 title: "Pendlerfradrag"
 seoTitle: "Pendlerfradrag"
-meta_description: '**Pendlerfradrag** er et **skattefradrag** for ansatte som pendler mellom hjem og arbeidssted og har dokumenterte merutgifter til reise, kost og losji. Dette fr...'
-slug: pendlerfradrag
-type: blog
-layout: pages/single
+description: '**Pendlerfradrag** er et **skattefradrag** for ansatte som pendler mellom hjem og arbeidssted og har dokumenterte merutgifter til reise, kost og losji. Dette fr...'
 ---
 
 **Pendlerfradrag** er et **skattefradrag** for ansatte som pendler mellom hjem og arbeidssted og har dokumenterte merutgifter til reise, kost og losji. Dette fradraget sikrer at pendlere får kompensert ekstra kostnader som følge av lengre pendlerreise.

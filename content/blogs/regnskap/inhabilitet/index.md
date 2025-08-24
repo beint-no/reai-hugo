@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Inhabilitet i Regnskap?"
 seoTitle: "Hva er Inhabilitet i Regnskap?"
-meta_description: '**Inhabilitet** i norsk regnskap handler om regler og prinsipper som sikrer at beslutninger fattes uten interessekonflikter.'
-slug: inhabilitet
-type: blog
-layout: pages/single
+description: '**Inhabilitet** i norsk regnskap handler om regler og prinsipper som sikrer at beslutninger fattes uten interessekonflikter.'
 ---
 
 **Inhabilitet** i norsk regnskap handler om regler og prinsipper som sikrer at beslutninger fattes uten interessekonflikter.

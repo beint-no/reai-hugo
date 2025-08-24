@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Crowdsourcing i Regnskap?"
 seoTitle: "Hva er Crowdsourcing i Regnskap?"
-meta_description: '**Crowdsourcing** i regnskapssammenheng refererer til hvordan bedrifter kan bruke **folkefinansiering** og eksterne ressurser for å finansiere prosjekter og op...'
-slug: hva-er-crowdsourcing
-type: blog
-layout: pages/single
+description: '**Crowdsourcing** i regnskapssammenheng refererer til hvordan bedrifter kan bruke **folkefinansiering** og eksterne ressurser for å finansiere prosjekter og op...'
 ---
 
 **Crowdsourcing** i regnskapssammenheng refererer til hvordan bedrifter kan bruke **folkefinansiering** og eksterne ressurser for å finansiere prosjekter og operasjoner. Dette konseptet har revolusjonert måten selskaper skaffer [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet") og finansierer sine aktiviteter på.

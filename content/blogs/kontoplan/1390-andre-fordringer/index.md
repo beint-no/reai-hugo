@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1390 - Andre fordringer"
 seoTitle: "1390-andre-fordringer"
-meta_description: '**Konto 1390 - Andre fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige fordringer uten sikkerhet** som ikke d...'
-slug: 1390-andre-fordringer
-type: blog
-layout: pages/single
+description: '**Konto 1390 - Andre fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige fordringer uten sikkerhet** som ikke d...'
 ---
 
 **Konto 1390 - Andre fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige fordringer uten sikkerhet** som ikke dekkes av spesifikke fordringskontoer som kundefordringer, fordringer på eiere eller ansatte.

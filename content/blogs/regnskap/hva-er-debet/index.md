@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er debet?"
 seoTitle: "Hva er debet?"
-meta_description: '**Debet** er et av de mest fundamentale begrepene i regnskap og [bokføring](/blogs/regnskap/hva-er-bokføring "Hva er Bokføring? En Komplett Guide til Norsk B...'
-slug: hva-er-debet
-type: blog
-layout: pages/single
+description: '**Debet** er et av de mest fundamentale begrepene i regnskap og [bokføring](/blogs/regnskap/hva-er-bokføring "Hva er Bokføring? En Komplett Guide til Norsk B...'
 ---
 
 **Debet** er et av de mest fundamentale begrepene i regnskap og [bokføring](/blogs/regnskap/hva-er-bokføring "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"). Ordet kommer fra det latinske "debere" som betyr "å skylde", og representerer venstre side av en regnskapskonto. Forståelse av debet er essensielt for alle som arbeider med regnskap, da det danner grunnlaget for [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem") som brukes i moderne regnskapsføring.

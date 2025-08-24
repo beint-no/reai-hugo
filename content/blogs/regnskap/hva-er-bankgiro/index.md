@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er BankGiro?"
 seoTitle: "Hva er BankGiro?"
-meta_description: '**BankGiro** er et av Norges mest brukte betalingssystemer for fakturaer og regninger. Dette elektroniske betalingssystemet gjør det enkelt for både privatper...'
-slug: hva-er-bankgiro
-type: blog
-layout: pages/single
+description: '**BankGiro** er et av Norges mest brukte betalingssystemer for fakturaer og regninger. Dette elektroniske betalingssystemet gjør det enkelt for både privatper...'
 ---
 
 **BankGiro** er et av Norges mest brukte betalingssystemer for fakturaer og regninger. Dette elektroniske betalingssystemet gjør det enkelt for både privatpersoner og bedrifter å betale og motta betalinger med automatisk avstemming gjennom [OCR-nummer](/blogs/regnskap/hva-er-ocr "Hva er OCR? OCR i Norske Regnskapsprosesser “ En Komplett Guide"). Som en av de tradisjonelle [betalingstjenestene](/blogs/regnskap/betalingstjeneste "Hva er betalingstjeneste? Komplett Guide til Betalingstjenester i Norge") i Norge, utgjør BankGiro en viktig del av det moderne betalingslandskapet.

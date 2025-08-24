@@ -1,10 +1,7 @@
 ﻿---
 title: "Opptjent egenkapital"
 seoTitle: "Opptjent egenkapital"
-meta_description: '**Opptjent egenkapital** er den delen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap og Øko...'
-slug: opptjent-egenkapital
-type: blog
-layout: pages/single
+description: '**Opptjent egenkapital** er den delen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap og Øko...'
 ---
 
 **Opptjent egenkapital** er den delen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap og Økonomi") 

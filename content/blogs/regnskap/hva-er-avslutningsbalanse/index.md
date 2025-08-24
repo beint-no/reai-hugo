@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Avslutningsbalanse?"
 seoTitle: "Hva er Avslutningsbalanse?"
-meta_description: 'En **avslutningsbalanse** er den endelige [balansen](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Balansen") som viser et selska...'
-slug: hva-er-avslutningsbalanse
-type: blog
-layout: pages/single
+description: 'En **avslutningsbalanse** er den endelige [balansen](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Balansen") som viser et selska...'
 ---
 
 En **avslutningsbalanse** er den endelige [balansen](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Balansen") som viser et selskaps finansielle stilling ved slutten av et [regnskapsår](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"). Dette er balansen etter at alle transaksjoner er registrert, justeringsposter er ført, og [årsavslutningsprosessen](/blogs/regnskap/hva-er-aarsavslutning "Hva er Årsavslutning i Regnskap? Komplett Guide til Årsoppgjør og Regnskapsavslutning") er fullført.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Næringskode"
 seoTitle: "Næringskode"
-meta_description: '**Næringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhørighet** i norsk regnskap og offentlig registrering. Koden benyttes av [En...'
-slug: naeringskode
-type: blog
-layout: pages/single
+description: '**Næringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhørighet** i norsk regnskap og offentlig registrering. Koden benyttes av [En...'
 ---
 
 **Næringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhørighet** i norsk regnskap og offentlig registrering. Koden benyttes av [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret “ Oversikt over virksomheters grunninformasjon i Norge") og [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversikt over Norske Registere") for å systematisere økonomisk statistikk, skatter og avgifter.

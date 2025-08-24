@@ -1,10 +1,7 @@
 ﻿---
 title: "Bærekraft"
 seoTitle: "Bærekraft"
-meta_description: '**Bærekraft** er et overordnet prinsipp som omfatter økonomisk, miljømessig og sosial ansvarlighet i virksomheters drift og rapportering. I regnskapssammenhe...'
-slug: baerekraft
-type: blog
-layout: pages/single
+description: '**Bærekraft** er et overordnet prinsipp som omfatter økonomisk, miljømessig og sosial ansvarlighet i virksomheters drift og rapportering. I regnskapssammenhe...'
 ---
 
 **Bærekraft** er et overordnet prinsipp som omfatter økonomisk, miljømessig og sosial ansvarlighet i virksomheters drift og rapportering. I regnskapssammenheng innebærer bærekraft å integrere målbare miljø- og samfunnspåvirkninger i finansielle beslutninger, rapportering og strategisk planlegging.

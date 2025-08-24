@@ -1,10 +1,7 @@
 ﻿---
 title: "Varetelling"
 seoTitle: "Varetelling"
-meta_description: '**Varetelling** er en systematisk prosess for å kontrollere og verifisere **lagerbeholdningen** i regnskapet. Gjennom regelmessige opptellinger sikrer virksomh...'
-slug: varetelling
-type: blog
-layout: pages/single
+description: '**Varetelling** er en systematisk prosess for å kontrollere og verifisere **lagerbeholdningen** i regnskapet. Gjennom regelmessige opptellinger sikrer virksomh...'
 ---
 
 **Varetelling** er en systematisk prosess for å kontrollere og verifisere **lagerbeholdningen** i regnskapet. Gjennom regelmessige opptellinger sikrer virksomheter at det fysiske lageret stemmer med det regnskapsførte, noe som er avgjørende for korrekt [balanseføring](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseføring"), [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming i regnskap?") og rapportering. Riktig varetelling støtter også nøyaktig kostprisberegning og optimal arbeidskapitalstyring.

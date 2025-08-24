@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1760 - Påløpte renter"
 seoTitle: "1760-palopte-renter"
-meta_description: '**Konto 1760 - Påløpte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte renteutgifter**.'
-slug: 1760-palopte-renter
-type: blog
-layout: pages/single
+description: '**Konto 1760 - Påløpte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte renteutgifter**.'
 ---
 
 **Konto 1760 - Påløpte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte renteutgifter**.

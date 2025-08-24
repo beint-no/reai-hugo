@@ -1,10 +1,7 @@
 ﻿---
 title: "Leasing"
 seoTitle: "Leasing"
-meta_description: '**Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten å måtte kjøpe dem kontant. I norsk regnskap har leasing gjennomgått en betydelig e...'
-slug: leasing
-type: blog
-layout: pages/single
+description: '**Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten å måtte kjøpe dem kontant. I norsk regnskap har leasing gjennomgått en betydelig e...'
 ---
 
 **Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten å måtte kjøpe dem kontant. I norsk regnskap har leasing gjennomgått en betydelig endring etter innføringen av **IFRSÂ 16**, hvor de fleste leasingavtaler nå må balanseføres som **leasingforpliktelser** og **bruksretteiendeler**.

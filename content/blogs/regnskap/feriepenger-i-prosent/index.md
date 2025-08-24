@@ -1,10 +1,7 @@
 ﻿---
 title: "Feriepenger i prosent"
 seoTitle: "Feriepenger i prosent"
-meta_description: '**Feriepenger i prosent** er satsen som benyttes for å beregne **feriepenger** i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om f...'
-slug: feriepenger-i-prosent
-type: blog
-layout: pages/single
+description: '**Feriepenger i prosent** er satsen som benyttes for å beregne **feriepenger** i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om f...'
 ---
 
 **Feriepenger i prosent** er satsen som benyttes for å beregne **feriepenger** i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")**. Å forstå de ulike prosentsatsene, unntakene og praktiske beregningseksempler sikrer korrekt håndtering av feriepengeplikten.

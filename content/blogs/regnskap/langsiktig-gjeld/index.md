@@ -1,10 +1,7 @@
 ﻿---
 title: "langsiktig-gjeld"
 seoTitle: "langsiktig-gjeld"
-meta_description: '**Langsiktig gjeld** er en fundamental komponent i virksomhetens finansieringsstruktur som representerer forpliktelser med forfallstid på mer enn ett år fra b...'
-slug: langsiktig-gjeld
-type: blog
-layout: pages/single
+description: '**Langsiktig gjeld** er en fundamental komponent i virksomhetens finansieringsstruktur som representerer forpliktelser med forfallstid på mer enn ett år fra b...'
 ---
 
 **Langsiktig gjeld** er en fundamental komponent i virksomhetens finansieringsstruktur som representerer forpliktelser med forfallstid på mer enn ett år fra balansedagen. Som en kritisk del av [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon"), påvirker langsiktig gjeld virksomhetens [kapitalstruktur](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper og Kapitalforvaltning"), finansielle fleksibilitet og langsiktige strategiske muligheter. Denne artikkelen gir en omfattende gjennomgang av langsiktig gjeld, dens komponenter, regnskapsføring og strategisk betydning for virksomheten.

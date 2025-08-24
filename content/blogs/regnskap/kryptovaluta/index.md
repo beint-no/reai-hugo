@@ -1,10 +1,7 @@
 ﻿---
 title: "kryptovaluta"
 seoTitle: "kryptovaluta"
-meta_description: '**Kryptovaluta** er digitale verdienheter basert på kryptografi og distribuert på **blokkjeder** (blockchain). Kryptovalutaer muliggjør **desentraliserte** t...'
-slug: kryptovaluta
-type: blog
-layout: pages/single
+description: '**Kryptovaluta** er digitale verdienheter basert på kryptografi og distribuert på **blokkjeder** (blockchain). Kryptovalutaer muliggjør **desentraliserte** t...'
 ---
 
 **Kryptovaluta** er digitale verdienheter basert på kryptografi og distribuert på **blokkjeder** (blockchain). Kryptovalutaer muliggjør **desentraliserte** transaksjoner uten behov for tradisjonelle finansinstitusjoner, og har blitt en viktig del av moderne finans- og regnskapspraksis.

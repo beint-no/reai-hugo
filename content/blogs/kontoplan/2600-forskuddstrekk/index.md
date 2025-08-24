@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 2600 - Skyldig forskuddstrekk?"
 seoTitle: "2600-forskuddstrekk"
-meta_description: '**Konto 2600 - Skyldig forskuddstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **skyldig forskuddstrekk** på [lønn](/blogs/kontop...'
-slug: 2600-forskuddstrekk
-type: blog
-layout: pages/single
+description: '**Konto 2600 - Skyldig forskuddstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **skyldig forskuddstrekk** på [lønn](/blogs/kontop...'
 ---
 
 **Konto 2600 - Skyldig forskuddstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **skyldig forskuddstrekk** på [lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn") og andre ytelser som en del av **kortsiktig gjeld**.

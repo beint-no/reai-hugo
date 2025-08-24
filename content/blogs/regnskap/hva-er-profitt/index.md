@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Profitt i Regnskap?"
 seoTitle: "Hva er Profitt i Regnskap?"
-meta_description: '**Profitt** er kanskje det mest grunnleggende målet for enhver forretningsvirksomhet - det representerer bedriftens evne til å generere overskudd ved å lever...'
-slug: hva-er-profitt
-type: blog
-layout: pages/single
+description: '**Profitt** er kanskje det mest grunnleggende målet for enhver forretningsvirksomhet - det representerer bedriftens evne til å generere overskudd ved å lever...'
 ---
 
 **Profitt** er kanskje det mest grunnleggende målet for enhver forretningsvirksomhet - det representerer bedriftens evne til å generere overskudd ved å levere varer eller tjenester som markedet verdsetter høyere enn kostnadene ved å produsere dem. I regnskapssammenheng er profitt ikke bare et enkelt tall, men et komplekst konsept som påvirker alt fra [beskatning](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Komplett Guide til Skatteregler og Skattetyper") til [utbytteutdelinger](/blogs/regnskap/hva-er-utbytte "Hva er Utbytte? Regnskapsføring og Skattemessige Konsekvenser") og [egenkapitalendringer](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap").

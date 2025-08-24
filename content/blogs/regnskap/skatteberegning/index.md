@@ -1,10 +1,7 @@
 ﻿---
 title: "Skatteberegning"
 seoTitle: "Skatteberegning"
-meta_description: '**Skatteberegning** er prosessen for å fastsette **skattepliktig inntekt** og beregne skatt som skal betales av både bedrifter og privatpersoner. Dette innebÃ...'
-slug: skatteberegning
-type: blog
-layout: pages/single
+description: '**Skatteberegning** er prosessen for å fastsette **skattepliktig inntekt** og beregne skatt som skal betales av både bedrifter og privatpersoner. Dette innebÃ...'
 ---
 
 **Skatteberegning** er prosessen for å fastsette **skattepliktig inntekt** og beregne skatt som skal betales av både bedrifter og privatpersoner. Dette innebærer å justere regnskapsmessige resultater for skattemessige forskjeller, anvende gjeldende skattesatser og rapportere korrekt via [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering").

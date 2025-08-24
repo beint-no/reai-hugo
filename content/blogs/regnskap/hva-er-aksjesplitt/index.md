@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Aksjesplitt? En Komplett Guide"
 seoTitle: "Hva er en Aksjesplitt? En Komplett Guide"
-meta_description: 'En **aksjesplitt** er en handling et selskap foretar for å øke antallet utestående aksjer ved å dele hver eksisterende aksje opp i flere nye aksjer. Selv om...'
-slug: hva-er-aksjesplitt
-type: blog
-layout: pages/single
+description: 'En **aksjesplitt** er en handling et selskap foretar for å øke antallet utestående aksjer ved å dele hver eksisterende aksje opp i flere nye aksjer. Selv om...'
 ---
 
 En **aksjesplitt** er en handling et selskap foretar for å øke antallet utestående aksjer ved å dele hver eksisterende aksje opp i flere nye aksjer. Selv om antallet aksjer øker, forblir den totale markedsverdien av selskapet uendret, ettersom prisen per aksje justeres tilsvarende. Dette kan sammenlignes med å veksle en 200-kroneseddel i to 100-kronesedler; verdien er den samme, men den er fordelt på flere enheter.

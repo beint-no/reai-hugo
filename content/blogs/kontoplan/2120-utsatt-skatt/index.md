@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 2120 - Utsatt skatt?"
 seoTitle: "2120-utsatt-skatt"
-meta_description: '**Konto 2120 - Utsatt skatt** er en viktig konto for å registrere **utsatt skatt** – en forpliktelse som oppstår når midlertidige forskjeller mellom regnsk...'
-slug: 2120-utsatt-skatt
-type: blog
-layout: pages/single
+description: '**Konto 2120 - Utsatt skatt** er en viktig konto for å registrere **utsatt skatt** – en forpliktelse som oppstår når midlertidige forskjeller mellom regnsk...'
 ---
 
 **Konto 2120 - Utsatt skatt** er en viktig konto for å registrere **utsatt skatt** – en forpliktelse som oppstår når midlertidige forskjeller mellom regnskapsmessige og skattemessige verdier fører til økt fremtidig skatt. Kontoen sikrer korrekt periodisering av skattekostnader i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?").

@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1860 - Andre sertifikater"
 seoTitle: "1860-andre-sertifikater"
-meta_description: '**Konto 1860 - Andre sertifikater** er en konto i Norsk Standard Kontoplan som brukes til å registrere **sertifikater og kortsiktige rentebærende verdipapirer...'
-slug: 1860-andre-sertifikater
-type: blog
-layout: pages/single
+description: '**Konto 1860 - Andre sertifikater** er en konto i Norsk Standard Kontoplan som brukes til å registrere **sertifikater og kortsiktige rentebærende verdipapirer...'
 ---
 
 **Konto 1860 - Andre sertifikater** er en konto i Norsk Standard Kontoplan som brukes til å registrere **sertifikater og kortsiktige rentebærende verdipapirer** som ikke dekkes av aksjer eller obligasjoner.

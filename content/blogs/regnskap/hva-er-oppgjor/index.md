@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Oppgjør i Regnskap?"
 seoTitle: "Hva er Oppgjør i Regnskap?"
-meta_description: '(**Oppgjør i regnskap** er prosessen for å **avslutte** og **oppgjøre** regnskapsposter for å sikre at alle transaksjoner og periodiseringer er korrekt bokf...'
-slug: hva-er-oppgjor
-type: blog
-layout: pages/single
+description: '(**Oppgjør i regnskap** er prosessen for å **avslutte** og **oppgjøre** regnskapsposter for å sikre at alle transaksjoner og periodiseringer er korrekt bokf...'
 ---
 
 (**Oppgjør i regnskap** er prosessen for å **avslutte** og **oppgjøre** regnskapsposter for å sikre at alle transaksjoner og periodiseringer er korrekt bokført og rapportert.)

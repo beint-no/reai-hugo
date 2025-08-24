@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Kalkulatoriske kostnader?"
 seoTitle: "Hva er Kalkulatoriske kostnader?"
-meta_description: '![Illustrasjon som viser kalkulatoriske kostnader](kalkulatoriske-kostnader-image.svg)'
-slug: kalkulatoriske-kostnader
-type: blog
-layout: pages/single
+description: '![Illustrasjon som viser kalkulatoriske kostnader](kalkulatoriske-kostnader-image.svg)'
 ---
 
 ![Illustrasjon som viser kalkulatoriske kostnader](kalkulatoriske-kostnader-image.svg)

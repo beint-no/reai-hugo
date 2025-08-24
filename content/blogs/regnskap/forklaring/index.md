@@ -1,10 +1,7 @@
 ﻿---
 title: "Forklaring i regnskap"
 seoTitle: "Forklaring i regnskap"
-meta_description: '**Forklaring** i regnskap refererer til tekstlige beskrivelser og kommentarer som gir kontekst og utdyper tallene i regnskapsoppstillinger som balanse, resultat...'
-slug: forklaring
-type: blog
-layout: pages/single
+description: '**Forklaring** i regnskap refererer til tekstlige beskrivelser og kommentarer som gir kontekst og utdyper tallene i regnskapsoppstillinger som balanse, resultat...'
 ---
 
 **Forklaring** i regnskap refererer til tekstlige beskrivelser og kommentarer som gir kontekst og utdyper tallene i regnskapsoppstillinger som balanse, resultatregnskap og kontantstrømoppstilling. Forklaringer er essensielle for **transparens** og **forståelse** i finansiell rapportering.

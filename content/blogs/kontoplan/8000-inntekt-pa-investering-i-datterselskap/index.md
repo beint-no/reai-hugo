@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 8000 - Inntekt på investering i datterselskap?"
 seoTitle: "8000-inntekt-pa-investering-i-datterselskap"
-meta_description: '**Konto 8000 - Inntekt på investering i datterselskap** er en konto i Norsk Standard Kontoplan som brukes til å resultatføre **løpende inntekt** fra investe...'
-slug: 8000-inntekt-pa-investering-i-datterselskap
-type: blog
-layout: pages/single
+description: '**Konto 8000 - Inntekt på investering i datterselskap** er en konto i Norsk Standard Kontoplan som brukes til å resultatføre **løpende inntekt** fra investe...'
 ---
 
 **Konto 8000 - Inntekt på investering i datterselskap** er en konto i Norsk Standard Kontoplan som brukes til å resultatføre **løpende inntekt** fra investeringer i datterselskaper.

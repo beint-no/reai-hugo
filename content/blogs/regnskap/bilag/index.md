@@ -1,10 +1,7 @@
 ﻿---
 title: "Bilag i Regnskap – Guide til Dokumentasjon og Behandling"
 seoTitle: "Bilag i Regnskap “ Guide til Dokumentasjon og Behandling"
-meta_description: '**Bilag** er grunnlaget for all **regnskapsføring** og dokumenterer hver forretningshendelse med nødvendig informasjon for korrekt [bokføring](/blogs/regnska...'
-slug: bilag
-type: blog
-layout: pages/single
+description: '**Bilag** er grunnlaget for all **regnskapsføring** og dokumenterer hver forretningshendelse med nødvendig informasjon for korrekt [bokføring](/blogs/regnska...'
 ---
 
 **Bilag** er grunnlaget for all **regnskapsføring** og dokumenterer hver forretningshendelse med nødvendig informasjon for korrekt [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"). Som fundamentet for pålitelig [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk Regnskapsføring"), sikrer bilag sporbarhet, etterprøvbarhet og overholdelse av norske lovkrav. Denne omfattende artikkelen gir en grundig gjennomgang av hva bilag er, hvordan de håndteres i norsk regnskapspraksis, og hvordan moderne bedrifter kan effektivisere bilagsbehandlingen.

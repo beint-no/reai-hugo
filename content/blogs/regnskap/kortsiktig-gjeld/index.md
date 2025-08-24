@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Kortsiktig Gjeld?"
 seoTitle: "Hva er Kortsiktig Gjeld?"
-meta_description: '**Kortsiktig gjeld** er en fundamental komponent i regnskapsføring som representerer virksomhetens forpliktelser som forfaller til betaling innen ett år fra b...'
-slug: kortsiktig-gjeld
-type: blog
-layout: pages/single
+description: '**Kortsiktig gjeld** er en fundamental komponent i regnskapsføring som representerer virksomhetens forpliktelser som forfaller til betaling innen ett år fra b...'
 ---
 
 **Kortsiktig gjeld** er en fundamental komponent i regnskapsføring som representerer virksomhetens forpliktelser som forfaller til betaling innen ett år fra balansedagen. Som en kritisk del av [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon"), påvirker kortsiktig gjeld direkte virksomhetens [likviditet](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet") og [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Analyse av Driftskapital"). Denne artikkelen gir en omfattende gjennomgang av kortsiktig gjeld, dens komponenter, regnskapsføring og strategisk betydning.

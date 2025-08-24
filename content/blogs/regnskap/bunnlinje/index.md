@@ -1,10 +1,7 @@
 ﻿---
 title: "Bunnlinje i Norsk Regnskap"
 seoTitle: "Bunnlinje i Norsk Regnskap"
-meta_description: '**Bunnlinje**, også kjent som **nettoresultat**, er det endelige resultatet i regnskapet som viser bedriftens lønnsomhet etter at alle kostnader, finansposter...'
-slug: bunnlinje
-type: blog
-layout: pages/single
+description: '**Bunnlinje**, også kjent som **nettoresultat**, er det endelige resultatet i regnskapet som viser bedriftens lønnsomhet etter at alle kostnader, finansposter...'
 ---
 
 **Bunnlinje**, også kjent som **nettoresultat**, er det endelige resultatet i regnskapet som viser bedriftens lønnsomhet etter at alle kostnader, finansposter og skatt er trukket fra inntektene.

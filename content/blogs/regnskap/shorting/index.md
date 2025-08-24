@@ -1,10 +1,7 @@
 ﻿---
 title: "Shorting (Short-salg)"
 seoTitle: "Shorting (Short-salg)"
-meta_description: 'En **shorting** (også kalt *short-salg*) er en spekulativ strategi der en investor låner og selger **aksjer** fra en meglervirksomhet med forventning om at ak...'
-slug: shorting
-type: blog
-layout: pages/single
+description: 'En **shorting** (også kalt *short-salg*) er en spekulativ strategi der en investor låner og selger **aksjer** fra en meglervirksomhet med forventning om at ak...'
 ---
 
 En **shorting** (også kalt *short-salg*) er en spekulativ strategi der en investor låner og selger **aksjer** fra en meglervirksomhet med forventning om at aksjekursen vil falle. Målet er å kjøpe aksjene tilbake til en lavere kurs, returnere dem til långiver, og realisere gevinst i forskjellen.

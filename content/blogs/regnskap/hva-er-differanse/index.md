@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er differanse i regnskap?"
 seoTitle: "Hva er differanse i regnskap?"
-meta_description: '**Differanse** i regnskap refererer til forskjeller mellom ulike regnskapsmessige størrelser, verdier eller beregninger. Dette begrepet omfatter flere viktige ...'
-slug: hva-er-differanse
-type: blog
-layout: pages/single
+description: '**Differanse** i regnskap refererer til forskjeller mellom ulike regnskapsmessige størrelser, verdier eller beregninger. Dette begrepet omfatter flere viktige ...'
 ---
 
 **Differanse** i regnskap refererer til forskjeller mellom ulike regnskapsmessige størrelser, verdier eller beregninger. Dette begrepet omfatter flere viktige områder innen regnskap og økonomi, fra [budsjettavvik](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging") til skattemessige forskjeller og [avstemminger](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming i Regnskap? Guide til Kontroll og Balansering").

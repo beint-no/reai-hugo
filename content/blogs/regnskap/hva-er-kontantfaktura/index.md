@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er kontantfaktura?"
 seoTitle: "Hva er kontantfaktura?"
-meta_description: 'En **kontantfaktura** er en spesiell type [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") som krever umiddelba...'
-slug: hva-er-kontantfaktura
-type: blog
-layout: pages/single
+description: 'En **kontantfaktura** er en spesiell type [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") som krever umiddelba...'
 ---
 
 En **kontantfaktura** er en spesiell type [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") som krever umiddelbar betaling ved levering av varer eller tjenester. I motsetning til vanlige fakturaer med betalingsfrist, må kontantfakturaer betales på stedet, vanligvis kontant, med kort eller via mobile betalingsløsninger. Dette gjør kontantfaktura til et viktig verktøy for bedrifter som ønsker å sikre øyeblikkelig [kontantstrøm](/blogs/regnskap/hva-er-kassebeholdning "Hva er Kassebeholdning? Komplett Guide til Kontantstyring") og eliminere kredittrisiko.

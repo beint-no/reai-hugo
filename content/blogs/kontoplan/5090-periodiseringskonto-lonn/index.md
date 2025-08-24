@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 5090 - Periodiseringskonto lønn"
 seoTitle: "5090-periodiseringskonto-lonn"
-meta_description: '**Konto 5090 - Periodiseringskonto lønn** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å periodisere **lønnskostnader** som er påløpt, ...'
-slug: 5090-periodiseringskonto-lonn
-type: blog
-layout: pages/single
+description: '**Konto 5090 - Periodiseringskonto lønn** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å periodisere **lønnskostnader** som er påløpt, ...'
 ---
 
 **Konto 5090 - Periodiseringskonto lønn** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å periodisere **lønnskostnader** som er påløpt, men ennå ikke utbetalt ved regnskapsperiodens slutt.

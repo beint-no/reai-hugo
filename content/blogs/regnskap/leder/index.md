@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Leder?"
 seoTitle: "Hva er Leder?"
-meta_description: '**Leder** er en sentral rolle i norske selskaper med ansvar for **drift**, **økonomi** og **internkontroll**. Rollen dekker ulike posisjoner som **styreleder**...'
-slug: leder
-type: blog
-layout: pages/single
+description: '**Leder** er en sentral rolle i norske selskaper med ansvar for **drift**, **økonomi** og **internkontroll**. Rollen dekker ulike posisjoner som **styreleder**...'
 ---
 
 **Leder** er en sentral rolle i norske selskaper med ansvar for **drift**, **økonomi** og **internkontroll**. Rollen dekker ulike posisjoner som **styreleder**, **daglig leder** og andre nøkkelstillinger. En tydelig rollefordeling og godt samarbeid mellom ledelsen og styret er avgjørende for god selskapsstyring og **nøyaktig regnskapsrapportering**.

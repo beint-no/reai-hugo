@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 5400 - Arbeidsgiveravgift"
 seoTitle: "5400-arbeidsgiveravgift"
-meta_description: '**Konto 5400 - Arbeidsgiveravgift** er en lovpålagt avgift som arbeidsgivere betaler til folketrygden basert på [lønn](/blogs/kontoplan/2930-lonn Konto 2930...'
-slug: 5400-arbeidsgiveravgift
-type: blog
-layout: pages/single
+description: '**Konto 5400 - Arbeidsgiveravgift** er en lovpålagt avgift som arbeidsgivere betaler til folketrygden basert på [lønn](/blogs/kontoplan/2930-lonn Konto 2930...'
 ---
 
 **Konto 5400 - Arbeidsgiveravgift** er en lovpålagt avgift som arbeidsgivere betaler til folketrygden basert på [lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn"), pensjoner og naturalytelser.

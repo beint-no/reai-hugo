@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Verdiskapning?"
 seoTitle: "Hva er Verdiskapning?"
-meta_description: '**Verdiskapning** er prosessen hvor en bedrift skaper **økonomisk verdi** og **bærekraftig vekst** gjennom effektiv ressursbruk, innovasjon og smart kapitalal...'
-slug: verdiskapning
-type: blog
-layout: pages/single
+description: '**Verdiskapning** er prosessen hvor en bedrift skaper **økonomisk verdi** og **bærekraftig vekst** gjennom effektiv ressursbruk, innovasjon og smart kapitalal...'
 ---
 
 **Verdiskapning** er prosessen hvor en bedrift skaper **økonomisk verdi** og **bærekraftig vekst** gjennom effektiv ressursbruk, innovasjon og smart kapitalallokering. Å forstå verdiskapning er essensielt for å vurdere selskapets *lønnsomhet*, *soliditet* og *langsiktige konkurransekraft*.

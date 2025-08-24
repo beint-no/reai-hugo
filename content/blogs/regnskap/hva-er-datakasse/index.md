@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Datakasse (Kassasystem)?"
 seoTitle: "Hva er Datakasse (Kassasystem)?"
-meta_description: '**Datakasse** er et elektronisk kassasystem som registrerer og dokumenterer alle kontantsalg i en bedrift. Dette systemet er essensielt for [regnskapsføring](/...'
-slug: hva-er-datakasse
-type: blog
-layout: pages/single
+description: '**Datakasse** er et elektronisk kassasystem som registrerer og dokumenterer alle kontantsalg i en bedrift. Dette systemet er essensielt for [regnskapsføring](/...'
 ---
 
 **Datakasse** er et elektronisk kassasystem som registrerer og dokumenterer alle kontantsalg i en bedrift. Dette systemet er essensielt for [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og sikrer at alle transaksjoner blir korrekt registrert i henhold til [bokføringsloven](/blogs/regnskap/hva-er-bokføringsloven "Bokføringsloven - Krav, Regler og Praktisk Anvendelse") og [bokføringsreglene](/blogs/regnskap/hva-er-bokføringsregler "Bokføringsregler - Grunnleggende Prinsipper og Praktisk Anvendelse").

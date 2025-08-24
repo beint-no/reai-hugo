@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er inntakskost og kostpris?"
 seoTitle: "Hva er inntakskost og kostpris?"
-meta_description: '**Inntakskost** og **kostpris** er fundamentale begreper i regnskapsføring og økonomistyring som beskriver de totale kostnadene knyttet til anskaffelse, produ...'
-slug: hva-er-inntakskost
-type: blog
-layout: pages/single
+description: '**Inntakskost** og **kostpris** er fundamentale begreper i regnskapsføring og økonomistyring som beskriver de totale kostnadene knyttet til anskaffelse, produ...'
 ---
 
 **Inntakskost** og **kostpris** er fundamentale begreper i regnskapsføring og økonomistyring som beskriver de totale kostnadene knyttet til anskaffelse, produksjon eller levering av varer og tjenester. Disse begrepene er avgjørende for korrekt [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring"), lønnsomhetsanalyse og prissetting av produkter og tjenester.

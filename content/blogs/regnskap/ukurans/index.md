@@ -1,10 +1,7 @@
 ﻿---
 title: "Ukurans"
 seoTitle: "Ukurans"
-meta_description: '**Ukurans** er **nedskrivning** av varelager som ikke lenger kan realiseres til full verdi. Korrekt håndtering av ukurans sikrer at balansen gjenspeiler reell ...'
-slug: ukurans
-type: blog
-layout: pages/single
+description: '**Ukurans** er **nedskrivning** av varelager som ikke lenger kan realiseres til full verdi. Korrekt håndtering av ukurans sikrer at balansen gjenspeiler reell ...'
 ---
 
 **Ukurans** er **nedskrivning** av varelager som ikke lenger kan realiseres til full verdi. Korrekt håndtering av ukurans sikrer at balansen gjenspeiler reell **netto realisasjonsverdi** av lagerbeholdningen, i samsvar med [regnskapsregler](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Oversikt over Regnskapets Lovverk").

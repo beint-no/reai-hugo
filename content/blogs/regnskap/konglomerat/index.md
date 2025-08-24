@@ -1,10 +1,7 @@
 ﻿---
 title: "konglomerat"
 seoTitle: "konglomerat"
-meta_description: 'Et **konglomerat** er en *konsernstruktur* der **datterselskapene** opererer i helt ulike bransjer, ofte for å spre risiko og dra nytte av **synergier** på tv...'
-slug: konglomerat
-type: blog
-layout: pages/single
+description: 'Et **konglomerat** er en *konsernstruktur* der **datterselskapene** opererer i helt ulike bransjer, ofte for å spre risiko og dra nytte av **synergier** på tv...'
 ---
 
 Et **konglomerat** er en *konsernstruktur* der **datterselskapene** opererer i helt ulike bransjer, ofte for å spre risiko og dra nytte av **synergier** på tvers av sektorer.

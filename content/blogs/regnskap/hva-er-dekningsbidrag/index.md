@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Dekningsbidrag i Regnskap?"
 seoTitle: "Hva er Dekningsbidrag i Regnskap?"
-meta_description: '**Dekningsbidrag** er differansen mellom [salgsinntekter](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i R...'
-slug: hva-er-dekningsbidrag
-type: blog
-layout: pages/single
+description: '**Dekningsbidrag** er differansen mellom [salgsinntekter](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i R...'
 ---
 
 **Dekningsbidrag** er differansen mellom [salgsinntekter](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap") og **variable kostnader**. Det viser hvor mye hver solgte enhet bidrar til å dekke faste kostnader og generere overskudd, og er et grunnleggende verktøy for **lønnsomhetsanalyse** i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide").

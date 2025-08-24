@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er egeninkasso?"
 seoTitle: "Hva er egeninkasso?"
-meta_description: '**Egeninkasso** er når en kreditor selv driver inkassovirksomhet for å kreve inn forfalte fordringer, i stedet for å overlate oppgaven til et profesjonelt in...'
-slug: hva-er-egeninkasso
-type: blog
-layout: pages/single
+description: '**Egeninkasso** er når en kreditor selv driver inkassovirksomhet for å kreve inn forfalte fordringer, i stedet for å overlate oppgaven til et profesjonelt in...'
 ---
 
 **Egeninkasso** er når en kreditor selv driver inkassovirksomhet for å kreve inn forfalte fordringer, i stedet for å overlate oppgaven til et profesjonelt inkassoselskap. Dette er en lovlig og ofte kostnadseffektiv metode for bedrifter som ønsker å beholde kontrollen over [kundeoppfølging](/blogs/regnskap/hva-er-ansattreskontro "Hva er Ansattreskontro? Komplett Guide til Kundeoppfølging og Fordringsstyring") og inkassoprosessen. Egeninkasso krever imidlertid grundig kunnskap om juridiske rammer og korrekte prosedyrer.

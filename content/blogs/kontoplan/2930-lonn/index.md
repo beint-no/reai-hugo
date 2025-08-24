@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2930 - Lønn"
 seoTitle: "2930-lonn"
-meta_description: '**Konto 2930 - Lønn** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **skyldig lønn** som en del av **kortsiktig gjeld**.'
-slug: 2930-lonn
-type: blog
-layout: pages/single
+description: '**Konto 2930 - Lønn** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **skyldig lønn** som en del av **kortsiktig gjeld**.'
 ---
 
 **Konto 2930 - Lønn** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **skyldig lønn** som en del av **kortsiktig gjeld**.

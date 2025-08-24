@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er budsjettering?"
 seoTitle: "Hva er budsjettering?"
-meta_description: '**Budsjettering** er en systematisk planleggingsprosess hvor bedrifter estimerer fremtidige inntekter, kostnader og kontantstrømmer for bestemte [terminer](/bl...'
-slug: hva-er-budsjettering
-type: blog
-layout: pages/single
+description: '**Budsjettering** er en systematisk planleggingsprosess hvor bedrifter estimerer fremtidige inntekter, kostnader og kontantstrømmer for bestemte [terminer](/bl...'
 ---
 
 **Budsjettering** er en systematisk planleggingsprosess hvor bedrifter estimerer fremtidige inntekter, kostnader og kontantstrømmer for bestemte [terminer](/blogs/regnskap/hva-er-termin "Hva er Termin? Regnskapsperioder og Terminplanlegging"). Dette er et fundamentalt verktøy for økonomistyring som hjelper ledelsen med å sette mål, allokere ressurser og kontrollere den økonomiske utviklingen. Budsjettering er tett knyttet til [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk Regnskapsføring") og er en sentral komponent i [internregnskap](/blogs/regnskap/hva-er-internregnskap "Hva er Internregnskap? Komplett Guide til Intern Finansiell Styring og Rapportering"), hvor det fungerer som et styringsverktøy for å oppnå bedriftens strategiske mål over ulike regnskapsperioder.

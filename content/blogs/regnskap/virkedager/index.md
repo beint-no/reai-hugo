@@ -1,10 +1,7 @@
 ﻿---
 title: "Virkedager (regnskap)"
 seoTitle: "Virkedager (regnskap)"
-meta_description: '**Virkedager** er de dagene i kalenderen hvor det utføres ordinært arbeid og regnskapsoppgaver, og som danner grunnlag for beregning av **frister** og **forfa...'
-slug: virkedager
-type: blog
-layout: pages/single
+description: '**Virkedager** er de dagene i kalenderen hvor det utføres ordinært arbeid og regnskapsoppgaver, og som danner grunnlag for beregning av **frister** og **forfa...'
 ---
 
 **Virkedager** er de dagene i kalenderen hvor det utføres ordinært arbeid og regnskapsoppgaver, og som danner grunnlag for beregning av **frister** og **forfallsdatoer** i norsk regnskap. Å forstå begrepet virkedager er avgjørende for å sikre korrekt rapportering og betaling til myndigheter og leverandører.

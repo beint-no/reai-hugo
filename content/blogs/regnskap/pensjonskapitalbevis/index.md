@@ -1,10 +1,7 @@
 ﻿---
 title: "Pensjonskapitalbevis"
 seoTitle: "Pensjonskapitalbevis"
-meta_description: '**Pensjonskapitalbevis** er en ordning som gjør det mulig å overføre oppsparte pensjonsmidler fra **ytelsesbasert tjenestepensjon** til en individuell konto ...'
-slug: pensjonskapitalbevis
-type: blog
-layout: pages/single
+description: '**Pensjonskapitalbevis** er en ordning som gjør det mulig å overføre oppsparte pensjonsmidler fra **ytelsesbasert tjenestepensjon** til en individuell konto ...'
 ---
 
 **Pensjonskapitalbevis** er en ordning som gjør det mulig å overføre oppsparte pensjonsmidler fra **ytelsesbasert tjenestepensjon** til en individuell konto når et arbeidsforhold avsluttes. Dette gir rettighetsbevarende håndtering av pensjonskapital ved jobbskifte og økt fleksibilitet i forvaltningen.

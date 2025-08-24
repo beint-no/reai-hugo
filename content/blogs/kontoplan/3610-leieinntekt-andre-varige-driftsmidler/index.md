@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3610 - Leieinntekt andre varige driftsmidler"
 seoTitle: "3610-leieinntekt-andre-varige-driftsmidler"
-meta_description: '**Konto 3610 - Leieinntekt andre varige driftsmidler** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **leieinntekter** fra **varige drif...'
-slug: 3610-leieinntekt-andre-varige-driftsmidler
-type: blog
-layout: pages/single
+description: '**Konto 3610 - Leieinntekt andre varige driftsmidler** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **leieinntekter** fra **varige drif...'
 ---
 
 **Konto 3610 - Leieinntekt andre varige driftsmidler** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **leieinntekter** fra **varige driftsmidler**, for eksempel maskiner, inventar og utstyr.

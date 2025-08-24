@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er jordbruksfradrag?"
 seoTitle: "Hva er jordbruksfradrag?"
-meta_description: '**Jordbruksfradrag** er spesielle skattefradrag som gis til landbruksvirksomheter i Norge for å kompensere for sektorens særegne utfordringer og bidra til opp...'
-slug: hva-er-jordbruksfradrag
-type: blog
-layout: pages/single
+description: '**Jordbruksfradrag** er spesielle skattefradrag som gis til landbruksvirksomheter i Norge for å kompensere for sektorens særegne utfordringer og bidra til opp...'
 ---
 
 **Jordbruksfradrag** er spesielle skattefradrag som gis til landbruksvirksomheter i Norge for å kompensere for sektorens særegne utfordringer og bidra til opprettholdelse av landbruksaktivitet. Dette er et viktig virkemiddel i norsk landbrukspolitikk som påvirker både [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er regnskap?") og skatteplanlegging for landbruksforetak.

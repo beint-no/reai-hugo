@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Skippertak i Regnskap?"
 seoTitle: "Hva er Skippertak i Regnskap?"
-meta_description: '**Skippertak** er et kjent fenomen i **norsk regnskap** der virksomheter utsetter viktige oppgaver som [årsavslutning](/blogs/regnskap/hva-er-aarsavslutning "H...'
-slug: skippertak
-type: blog
-layout: pages/single
+description: '**Skippertak** er et kjent fenomen i **norsk regnskap** der virksomheter utsetter viktige oppgaver som [årsavslutning](/blogs/regnskap/hva-er-aarsavslutning "H...'
 ---
 
 **Skippertak** er et kjent fenomen i **norsk regnskap** der virksomheter utsetter viktige oppgaver som [årsavslutning](/blogs/regnskap/hva-er-aarsavslutning "Hva er Årsavslutning? Prosess og Viktige Steg") og [periodeavstemming](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler") til siste liten. Et skippertak innebærer en **hektisk** og *intens* arbeidsperiode mot årsslutt, som kan føre til stress, økt feilmargin og redusert kvalitet i regnskapsrapporteringen.

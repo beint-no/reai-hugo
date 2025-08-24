@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Saldoavskrivning i Regnskap?"
 seoTitle: "Hva er Saldoavskrivning i Regnskap?"
-meta_description: '**Saldoavskrivning** er en av de mest brukte avskrivningsmetodene i norsk regnskap, hvor [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmid...'
-slug: hva-er-saldoavskrivning
-type: blog
-layout: pages/single
+description: '**Saldoavskrivning** er en av de mest brukte avskrivningsmetodene i norsk regnskap, hvor [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmid...'
 ---
 
 **Saldoavskrivning** er en av de mest brukte avskrivningsmetodene i norsk regnskap, hvor [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler") avskrives med en fast prosentsats av den gjenstående bokførte verdien hvert år. Metoden brukes ofte for [varige driftsmidler](/blogs/regnskap/hva-er-varige-driftsmidler "Hva er Varige Driftsmidler? Komplett Guide til Avskrivbare Anleggsmidler") som maskiner, biler og IT-utstyr. Denne metoden gir høyere avskrivninger i de første årene og lavere avskrivninger senere, noe som gjenspeiler den typiske verdiforringelsen av mange [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier"). Denne artikkelen gir en grundig gjennomgang av saldoavskrivning, beregningsmetoder og praktisk anvendelse.

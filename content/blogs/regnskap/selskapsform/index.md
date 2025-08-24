@@ -1,10 +1,7 @@
 ﻿---
 title: "Selskapsform"
 seoTitle: "Selskapsform"
-meta_description: '![Oversikt over selskapsformer i Norge](selskapsform-image.svg)'
-slug: selskapsform
-type: blog
-layout: pages/single
+description: '![Oversikt over selskapsformer i Norge](selskapsform-image.svg)'
 ---
 
 ![Oversikt over selskapsformer i Norge](selskapsform-image.svg)

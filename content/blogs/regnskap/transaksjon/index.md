@@ -1,10 +1,7 @@
 ﻿---
 title: "Transaksjon"
 seoTitle: "Transaksjon"
-meta_description: 'En **transaksjon** er enhver økonomisk hendelse eller bytte av verdier mellom to parter som påvirker et foretaks **finansielle stilling**. I norsk regnskap da...'
-slug: transaksjon
-type: blog
-layout: pages/single
+description: 'En **transaksjon** er enhver økonomisk hendelse eller bytte av verdier mellom to parter som påvirker et foretaks **finansielle stilling**. I norsk regnskap da...'
 ---
 
 En **transaksjon** er enhver økonomisk hendelse eller bytte av verdier mellom to parter som påvirker et foretaks **finansielle stilling**. I norsk regnskap danner transaksjoner grunnlaget for all [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"), [bilagsføring](/blogs/regnskap/hva-er-bilagsforing "Hva er Bilagsføring? Komplett Guide til Bilagsbehandling og Dokumentasjon") og [dobbel bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel bokføring? En Komplett Guide til Dobbelt Bokføringssystem").

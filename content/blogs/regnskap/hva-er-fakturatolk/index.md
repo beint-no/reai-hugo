@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Fakturatolk? Automatisk Fakturabehandling og OCR-teknologi"
 seoTitle: "Hva er Fakturatolk? Automatisk Fakturabehandling og OCR-teknologi"
-meta_description: '**Fakturatolk** er en avansert teknologi som kombinerer **OCR (Optical Character Recognition)** og **kunstig intelligens** for å automatisk lese, tolke og beha...'
-slug: hva-er-fakturatolk
-type: blog
-layout: pages/single
+description: '**Fakturatolk** er en avansert teknologi som kombinerer **OCR (Optical Character Recognition)** og **kunstig intelligens** for å automatisk lese, tolke og beha...'
 ---
 
 **Fakturatolk** er en avansert teknologi som kombinerer **OCR (Optical Character Recognition)** og **kunstig intelligens** for å automatisk lese, tolke og behandle fakturaer. Denne teknologien har revolusjonert måten bedrifter håndterer [fakturabehandling](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") på, og reduserer betydelig det manuelle arbeidet som tradisjonelt har vært nødvendig for å behandle innkommende fakturaer.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Inkubator?"
 seoTitle: "Hva er en Inkubator?"
-meta_description: 'En **inkubator** er en organisasjon som støtter oppstartsselskaper og entreprenører gjennom de kritiske tidlige utviklingsfasene. Inkubatorer tilbyr en kombin...'
-slug: hva-er-inkubator
-type: blog
-layout: pages/single
+description: 'En **inkubator** er en organisasjon som støtter oppstartsselskaper og entreprenører gjennom de kritiske tidlige utviklingsfasene. Inkubatorer tilbyr en kombin...'
 ---
 
 En **inkubator** er en organisasjon som støtter oppstartsselskaper og entreprenører gjennom de kritiske tidlige utviklingsfasene. Inkubatorer tilbyr en kombinasjon av **finansiering**, **rådgivning**, **arbeidsplasser** og **nettverk** for å øke sannsynligheten for at nye bedrifter skal lykkes.

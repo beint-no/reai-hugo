@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er diskontering?"
 seoTitle: "Hva er diskontering?"
-meta_description: '**Diskontering** er en fundamental finansiell teknikk som brukes til å beregne nåverdien av fremtidige kontantstrømmer. I regnskaps- og finanssammenheng er d...'
-slug: hva-er-diskontering
-type: blog
-layout: pages/single
+description: '**Diskontering** er en fundamental finansiell teknikk som brukes til å beregne nåverdien av fremtidige kontantstrømmer. I regnskaps- og finanssammenheng er d...'
 ---
 
 **Diskontering** er en fundamental finansiell teknikk som brukes til å beregne nåverdien av fremtidige kontantstrømmer. I regnskaps- og finanssammenheng er diskontering essensielt for å sammenligne verdien av penger på ulike tidspunkter, siden en krone i dag er verdt mer enn en krone i fremtiden på grunn av inflasjon og alternativkostnad.

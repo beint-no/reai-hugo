@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Gevinst- og tapskonto i Regnskap?"
 seoTitle: "Hva er Gevinst- og tapskonto i Regnskap?"
-meta_description: '**Gevinst- og tapskonto** er en regnskapskonto som brukes for å bokføre **gevinster** og **tap** ved avhending av [anleggsmidler](/blogs/regnskap/hva-er-anleg...'
-slug: gevinst-og-tapskonto
-type: blog
-layout: pages/single
+description: '**Gevinst- og tapskonto** er en regnskapskonto som brukes for å bokføre **gevinster** og **tap** ved avhending av [anleggsmidler](/blogs/regnskap/hva-er-anleg...'
 ---
 
 **Gevinst- og tapskonto** er en regnskapskonto som brukes for å bokføre **gevinster** og **tap** ved avhending av [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? En guide til anleggsmidler i regnskap") og andre langsiktige eiendeler. Kontoen bidrar til å synliggjøre realiserte resultater i resultatregnskapet og skille dem fra ordinære driftsinntekter og -kostnader.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 2640 - Forsikringstrekk?"
 seoTitle: "2640-forsikringstrekk"
-meta_description: '**Konto 2640 - Forsikringstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forsikringstrekk** som arbeidsgiver foretar i ansattes l...'
-slug: 2640-forsikringstrekk
-type: blog
-layout: pages/single
+description: '**Konto 2640 - Forsikringstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forsikringstrekk** som arbeidsgiver foretar i ansattes l...'
 ---
 
 **Konto 2640 - Forsikringstrekk** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forsikringstrekk** som arbeidsgiver foretar i ansattes lønn for dekning av lovpålagte og avtalte forsikringsordninger.

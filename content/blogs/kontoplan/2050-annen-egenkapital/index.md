@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2050 - Annen egenkapital"
 seoTitle: "2050-annen-egenkapital"
-meta_description: '**Konto 2050 - Annen egenkapital** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **annen egenkapital** fo...'
-slug: 2050-annen-egenkapital
-type: blog
-layout: pages/single
+description: '**Konto 2050 - Annen egenkapital** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **annen egenkapital** fo...'
 ---
 
 **Konto 2050 - Annen egenkapital** er en konto innen **egenkapital** i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **annen egenkapital** for poster som ikke har egne standardkontoer.

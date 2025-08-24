@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Kasseoppgjør?"
 seoTitle: "Hva er Kasseoppgjør?"
-meta_description: '**Kasseoppgjør** er den daglige prosessen med å avstemme fysisk kassebeholdning mot registrerte salg og transaksjoner i kassasystemet. Dette er en kritisk kon...'
-slug: hva-er-kasseoppgjor
-type: blog
-layout: pages/single
+description: '**Kasseoppgjør** er den daglige prosessen med å avstemme fysisk kassebeholdning mot registrerte salg og transaksjoner i kassasystemet. Dette er en kritisk kon...'
 ---
 
 **Kasseoppgjør** er den daglige prosessen med å avstemme fysisk kassebeholdning mot registrerte salg og transaksjoner i kassasystemet. Dette er en kritisk kontrollrutine som sikrer at alle kontanttransaksjoner er korrekt registrert og at det ikke er avvik mellom faktisk kontantbeholdning og det som er registrert i [datakassen](/blogs/regnskap/hva-er-datakasse "Hva er Datakasse? Komplett Guide til Kassasystem, Krav og Regnskapsføring"). Kasseoppgjør er en sentral del av [internkontrollen](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Komplett Guide til Risikostyring og Kontrollsystemer") og bidrar til å opprettholde god [regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Komplett Guide til Regnskapsprinsipper og Beste Praksis").

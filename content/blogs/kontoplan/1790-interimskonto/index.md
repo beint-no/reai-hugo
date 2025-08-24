@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1790 - Interimskonto"
 seoTitle: "1790-interimskonto"
-meta_description: '**Konto 1790 - Interimskonto** er en konto i Norsk Standard Kontoplan som brukes til å registrere **midlertidige fordringer og gjeld** som gjelder periodiserin...'
-slug: 1790-interimskonto
-type: blog
-layout: pages/single
+description: '**Konto 1790 - Interimskonto** er en konto i Norsk Standard Kontoplan som brukes til å registrere **midlertidige fordringer og gjeld** som gjelder periodiserin...'
 ---
 
 **Konto 1790 - Interimskonto** er en konto i Norsk Standard Kontoplan som brukes til å registrere **midlertidige fordringer og gjeld** som gjelder periodisering mellom regnskapsperioder, når beløp er kjent, men endelig klassifisering ikke er fastsatt.

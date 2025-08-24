@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er GHG-protokollen?"
 seoTitle: "Hva er GHG-protokollen?"
-meta_description: '**GHG-protokollen** (Greenhouse Gas Protocol) er den mest anerkjente internasjonale standarden for måling og rapportering av klimagassutslipp fra bedrifter og ...'
-slug: hva-er-ghg-protokollen
-type: blog
-layout: pages/single
+description: '**GHG-protokollen** (Greenhouse Gas Protocol) er den mest anerkjente internasjonale standarden for måling og rapportering av klimagassutslipp fra bedrifter og ...'
 ---
 
 **GHG-protokollen** (Greenhouse Gas Protocol) er den mest anerkjente internasjonale standarden for måling og rapportering av klimagassutslipp fra bedrifter og organisasjoner. Protokollen ble utviklet av World Resources Institute (WRI) og World Business Council for Sustainable Development (WBCSD), og fungerer som grunnlaget for klimarapportering i [ESG-regnskap](/blogs/regnskap/hva-er-esg "Hva er ESG? Environmental, Social & Governance i Regnskap og Rapportering") og bærekraftsrapportering.

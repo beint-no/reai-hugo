@@ -1,10 +1,7 @@
 ﻿---
 title: "Norges Bank"
 seoTitle: "Norges Bank"
-meta_description: '**Norges Bank** er **Norges sentralbank** og ansvarlig for å gjennomføre pengepolitikken, utstede norske kroner, forvalte valutareserver og sikre finansiell s...'
-slug: norges-bank
-type: blog
-layout: pages/single
+description: '**Norges Bank** er **Norges sentralbank** og ansvarlig for å gjennomføre pengepolitikken, utstede norske kroner, forvalte valutareserver og sikre finansiell s...'
 ---
 
 **Norges Bank** er **Norges sentralbank** og ansvarlig for å gjennomføre pengepolitikken, utstede norske kroner, forvalte valutareserver og sikre finansiell stabilitet. Banken spiller en sentral rolle i norsk økonomi og påvirker både renter, inflasjon og rammebetingelsene for norske virksomheters regnskapsføring.

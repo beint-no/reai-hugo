@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er kjørebok?"
 seoTitle: "Hva er kjørebok?"
-meta_description: 'En **kjørebok** er et systematisk register over kjøretøybruk som dokumenterer alle tjenestereiser og private kjøreturer. Dette er et kritisk verktøy for be...'
-slug: hva-er-kjorebok
-type: blog
-layout: pages/single
+description: 'En **kjørebok** er et systematisk register over kjøretøybruk som dokumenterer alle tjenestereiser og private kjøreturer. Dette er et kritisk verktøy for be...'
 ---
 
 En **kjørebok** er et systematisk register over kjøretøybruk som dokumenterer alle tjenestereiser og private kjøreturer. Dette er et kritisk verktøy for bedrifter og selvstendig næringsdrivende som ønsker å maksimere skattefradrag og opprettholde korrekt [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") i henhold til norske regnskapsregler.

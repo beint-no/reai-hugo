@@ -1,10 +1,7 @@
 ﻿---
 title: "Oppjustering av aksjeutbytte"
 seoTitle: "Oppjustering av aksjeutbytte"
-meta_description: '**Oppjustering av aksjeutbytte** er en prosess hvor et aksjeselskap justerer tidligere vedtatt utbytte som følge av revidert resultat, feil eller endret juridi...'
-slug: oppjustering-av-aksjeutbytte
-type: blog
-layout: pages/single
+description: '**Oppjustering av aksjeutbytte** er en prosess hvor et aksjeselskap justerer tidligere vedtatt utbytte som følge av revidert resultat, feil eller endret juridi...'
 ---
 
 **Oppjustering av aksjeutbytte** er en prosess hvor et aksjeselskap justerer tidligere vedtatt utbytte som følge av revidert resultat, feil eller endret juridisk vurdering. Oppjustering kan være nødvendig for å sikre at selskapet oppfyller kravene til korrekt egenkapital etter [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Introduksjon til norsk aksjelovgivning") og for å unngå underdekning i egenkapitalkrav.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Q1-Q4 Regnskapskvartaler - Komplett Guide til Kvartalsstyring"
 seoTitle: "Q1-Q4 Regnskapskvartaler - Komplett Guide til Kvartalsstyring"
-meta_description: '**Regnskapskvartaler Q1-Q4** er en grunnleggende organisering av regnskapsåret som deler de tolv månedene inn i fire kvartaler. Denne inndelingen er sentral f...'
-slug: regnskapskvartaler-q1-q4
-type: blog
-layout: pages/single
+description: '**Regnskapskvartaler Q1-Q4** er en grunnleggende organisering av regnskapsåret som deler de tolv månedene inn i fire kvartaler. Denne inndelingen er sentral f...'
 ---
 
 **Regnskapskvartaler Q1-Q4** er en grunnleggende organisering av regnskapsåret som deler de tolv månedene inn i fire kvartaler. Denne inndelingen er sentral for **finansiell rapportering**, [budsjettplanlegging](/blogs/regnskap/hva-er-budsjett "Hva er Budsjett? Komplett Guide til Budsjettplanlegging og Budsjettstyring") og økonomisk analyse både for norske og internasjonale selskaper. Forståelse av regnskapskvartaler er avgjørende for alle som arbeider med regnskap, finans eller forretningsanalyse.

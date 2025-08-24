@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Crowdlending i Regnskap?"
 seoTitle: "Hva er Crowdlending i Regnskap?"
-meta_description: '**Crowdlending** er en form for peer-to-peer (P2P) utlån hvor private personer eller investorer låner penger direkte til bedrifter eller enkeltpersoner gjenno...'
-slug: hva-er-crowdlending
-type: blog
-layout: pages/single
+description: '**Crowdlending** er en form for peer-to-peer (P2P) utlån hvor private personer eller investorer låner penger direkte til bedrifter eller enkeltpersoner gjenno...'
 ---
 
 **Crowdlending** er en form for peer-to-peer (P2P) utlån hvor private personer eller investorer låner penger direkte til bedrifter eller enkeltpersoner gjennom digitale plattformer, uten å gå gjennom tradisjonelle finansinstitusjoner som banker. Fra et regnskapsperspektiv medfører crowdlending spesifikke krav til [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk Regnskapsføring"), dokumentasjon og skattemessig behandling som norske bedrifter må forholde seg til i henhold til [bokføringsloven](/blogs/regnskap/hva-er-bokføringsloven "Hva er Bokføringsloven? Komplett Guide til Norske Bokføringsregler").

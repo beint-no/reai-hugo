@@ -1,10 +1,7 @@
 ﻿---
 title: "Databriller i Regnskap – Visualisering og Analyse av Regnskapsdata"
 seoTitle: "Databriller i Regnskap “ Visualisering og Analyse av Regnskapsdata"
-meta_description: '**Databriller** er moderne **dashboards** og **datavisualiseringsverktøy** som gir regnskapsførere og ledere sanntidsinnsikt i økonomiske [nøkkeltall](/blog...'
-slug: databriller
-type: blog
-layout: pages/single
+description: '**Databriller** er moderne **dashboards** og **datavisualiseringsverktøy** som gir regnskapsførere og ledere sanntidsinnsikt i økonomiske [nøkkeltall](/blog...'
 ---
 
 **Databriller** er moderne **dashboards** og **datavisualiseringsverktøy** som gir regnskapsførere og ledere sanntidsinnsikt i økonomiske [nøkkeltall](/blogs/regnskap/hva-er-nokkeltall "Hva er Nøkkeltall? Komplett Guide til Finansielle Nøkkeltall i Regnskap"). Ved hjelp av databriller kan norske bedrifter forbedre beslutningsprosesser, styrke **internkontroll**, og effektivisere rapportering.

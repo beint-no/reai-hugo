@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er kostnader?"
 seoTitle: "Hva er kostnader?"
-meta_description: '**Kostnader** er en av de mest fundamentale begrepene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og representere...'
-slug: hva-er-kostnader
-type: blog
-layout: pages/single
+description: '**Kostnader** er en av de mest fundamentale begrepene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og representere...'
 ---
 
 **Kostnader** er en av de mest fundamentale begrepene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og representerer de økonomiske ofrene en virksomhet gjør for å generere inntekter og opprettholde driften. Forståelse av kostnader er avgjørende for effektiv [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"), lønnsomhetsanalyse og strategisk beslutningstagning.

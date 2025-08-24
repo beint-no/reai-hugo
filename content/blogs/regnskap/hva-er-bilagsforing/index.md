@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Bilagsføring?"
 seoTitle: "Hva er Bilagsføring?"
-meta_description: '**Bilagsføring** er den systematiske prosessen med å registrere, organisere og arkivere alle regnskapsdokumenter som danner grunnlaget for [bokføring](/blogs...'
-slug: hva-er-bilagsforing
-type: blog
-layout: pages/single
+description: '**Bilagsføring** er den systematiske prosessen med å registrere, organisere og arkivere alle regnskapsdokumenter som danner grunnlaget for [bokføring](/blogs...'
 ---
 
 **Bilagsføring** er den systematiske prosessen med å registrere, organisere og arkivere alle regnskapsdokumenter som danner grunnlaget for [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"). Dette omfatter alt fra [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og [kvitteringer](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap") til [arbeidskontrakter](/blogs/regnskap/arbeidskontrakten "Arbeidskontrakten") og banktransaksjoner. Korrekt bilagsføring er ikke bare et lovkrav, men også fundamentet for pålitelig regnskapsføring og effektiv [attestering](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning") av forretningsdokumenter.

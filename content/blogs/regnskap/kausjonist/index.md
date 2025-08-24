@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Kausjonist? Rolle, Ansvar og Risiko"
 seoTitle: "Hva er en Kausjonist? Rolle, Ansvar og Risiko"
-meta_description: '![Illustrasjon av konseptet kausjonist](kausjonist.svg)'
-slug: kausjonist
-type: blog
-layout: pages/single
+description: '![Illustrasjon av konseptet kausjonist](kausjonist.svg)'
 ---
 
 ![Illustrasjon av konseptet kausjonist](kausjonist.svg)

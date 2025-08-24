@@ -1,10 +1,7 @@
 ﻿---
 title: "Tabell 7100"
 seoTitle: "Tabell 7100"
-meta_description: '**Tabell 7100** er skattetabellen som brukes for **pensjons-** og **trygdeutbetalinger**. Denne tabellen gir arbeidsgivere og utbetalingsansvarlige en enkel ove...'
-slug: tabell-7100
-type: blog
-layout: pages/single
+description: '**Tabell 7100** er skattetabellen som brukes for **pensjons-** og **trygdeutbetalinger**. Denne tabellen gir arbeidsgivere og utbetalingsansvarlige en enkel ove...'
 ---
 
 **Tabell 7100** er skattetabellen som brukes for **pensjons-** og **trygdeutbetalinger**. Denne tabellen gir arbeidsgivere og utbetalingsansvarlige en enkel oversikt over hvilke trekkprosent som skal brukes for ulike inntektsnivåer og typer ytelser.

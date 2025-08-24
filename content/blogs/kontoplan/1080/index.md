@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 1080 - Goodwill?"
 seoTitle: "1080"
-meta_description: '**Konto 1080 - Goodwill** er en av de mest komplekse kontiene i norsk kontoplan og representerer den delen av [anskaffelseskostnaden](/blogs/regnskap/hva-er-ans...'
-slug: 1080
-type: blog
-layout: pages/single
+description: '**Konto 1080 - Goodwill** er en av de mest komplekse kontiene i norsk kontoplan og representerer den delen av [anskaffelseskostnaden](/blogs/regnskap/hva-er-ans...'
 ---
 
 **Konto 1080 - Goodwill** er en av de mest komplekse kontiene i norsk kontoplan og representerer den delen av [anskaffelseskostnaden](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost?") for en virksomhet som overstiger virkelig verdi av de identifiserbare [anleggsmidlene](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler?"). Denne kontoen brukes for å registrere **goodwill** som oppstår ved virksomhetsoppkjøp og representerer [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") som ikke kan identifiseres separat.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er næringsvirksomhet?"
 seoTitle: "Hva er næringsvirksomhet?"
-meta_description: '**Næringsvirksomhet** omfatter all økonomisk aktivitet som drives med **hensikt om overskudd** og vurderes som varig [virksomhet](/blogs/regnskap/hva-er-virks...'
-slug: naeringsvirksomhet
-type: blog
-layout: pages/single
+description: '**Næringsvirksomhet** omfatter all økonomisk aktivitet som drives med **hensikt om overskudd** og vurderes som varig [virksomhet](/blogs/regnskap/hva-er-virks...'
 ---
 
 **Næringsvirksomhet** omfatter all økonomisk aktivitet som drives med **hensikt om overskudd** og vurderes som varig [virksomhet](/blogs/regnskap/hva-er-virksomhet "Hva er en virksomhet? Definisjon og Regnskapsmessige Forhold") i henhold til norsk lovgivning. Dette er en grunnleggende forutsetning for mange regnskaps- og skattemessige plikter.

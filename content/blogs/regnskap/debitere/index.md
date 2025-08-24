@@ -1,10 +1,7 @@
 ﻿---
 title: "Debitere"
 seoTitle: "Debitere"
-meta_description: '**Debitere** er handlingen å registrere et beløp på venstre side (debet) av en konto i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er D...'
-slug: debitere
-type: blog
-layout: pages/single
+description: '**Debitere** er handlingen å registrere et beløp på venstre side (debet) av en konto i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er D...'
 ---
 
 **Debitere** er handlingen å registrere et beløp på venstre side (debet) av en konto i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem") som sikrer at [regnskapsligningen](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") alltid balanserer.

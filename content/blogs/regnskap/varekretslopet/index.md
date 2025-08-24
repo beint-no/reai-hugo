@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er varekretsløpet?"
 seoTitle: "Hva er varekretsløpet?"
-meta_description: '**Varekretsløpet** beskriver den helhetlige prosessen varer gjennomgår i en virksomhet, fra anskaffelse til salg og tilbakeføring av kapital. Prosessen er se...'
-slug: varekretslopet
-type: blog
-layout: pages/single
+description: '**Varekretsløpet** beskriver den helhetlige prosessen varer gjennomgår i en virksomhet, fra anskaffelse til salg og tilbakeføring av kapital. Prosessen er se...'
 ---
 
 **Varekretsløpet** beskriver den helhetlige prosessen varer gjennomgår i en virksomhet, fra anskaffelse til salg og tilbakeføring av kapital. Prosessen er sentral for å forstå sammenhengen mellom lagerstyring, **kontantstrøm** og **arbeidskapital**, og påvirker både likviditet og lønnsomhet.

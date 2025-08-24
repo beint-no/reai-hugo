@@ -1,10 +1,7 @@
 ﻿---
 title: "Årsverk"
 seoTitle: "Årsverk"
-meta_description: 'Årsverk er et mål på arbeidsinnsats som gjør det mulig å sammenligne ulike arbeidsforhold og stillingsprosenter i én enhet. I norsk regnskap og rapporteri...'
-slug: arsverk
-type: blog
-layout: pages/single
+description: 'Årsverk er et mål på arbeidsinnsats som gjør det mulig å sammenligne ulike arbeidsforhold og stillingsprosenter i én enhet. I norsk regnskap og rapporteri...'
 ---
 
 Årsverk er et mål på arbeidsinnsats som gjør det mulig å sammenligne ulike arbeidsforhold og stillingsprosenter i én enhet. I norsk regnskap og rapportering brukes årsverk blant annet for å definere terskelverdier for små foretak, revisjonsplikt og budsjettering av personalkostnader.

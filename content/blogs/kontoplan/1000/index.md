@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 1000 - Forskning og utvikling?"
 seoTitle: "1000"
-meta_description: '**Konto 1000 - Forskning og utvikling** er en av de viktigste kontiene for virksomheter som investerer i innovasjon og utvikling av nye produkter, tjenester ell...'
-slug: 1000
-type: blog
-layout: pages/single
+description: '**Konto 1000 - Forskning og utvikling** er en av de viktigste kontiene for virksomheter som investerer i innovasjon og utvikling av nye produkter, tjenester ell...'
 ---
 
 **Konto 1000 - Forskning og utvikling** er en av de viktigste kontiene for virksomheter som investerer i innovasjon og utvikling av nye produkter, tjenester eller prosesser. Denne kontoen brukes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") knyttet til forsknings- og utviklingsaktiviteter som tilfredsstiller kriteriene for [aktivering](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?").

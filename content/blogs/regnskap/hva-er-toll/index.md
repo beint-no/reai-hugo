@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er toll?"
 seoTitle: "Hva er toll?"
-meta_description: '**Toll** er en avgift som ilegges varer som krysser landegrenser, primært ved import til Norge. Toll er et sentralt element i internasjonal handel og påvirker...'
-slug: hva-er-toll
-type: blog
-layout: pages/single
+description: '**Toll** er en avgift som ilegges varer som krysser landegrenser, primært ved import til Norge. Toll er et sentralt element i internasjonal handel og påvirker...'
 ---
 
 **Toll** er en avgift som ilegges varer som krysser landegrenser, primært ved import til Norge. Toll er et sentralt element i internasjonal handel og påvirker både [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring i Norge"), [merverdiavgift](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge") og bedriftens totale [anskaffelseskostnader](/blogs/regnskap/hva-er-anskaffelser "Hva er Anskaffelser? En Komplett Guide til Offentlige og Private Innkjøp"). For bedrifter som driver med import må tollkostnader behandles korrekt i regnskapet og inkluderes i [hovedboken](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok? Grunnlaget for Regnskapsføring og Bokføring") som en del av varekostnadene.

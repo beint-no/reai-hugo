@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 7620 - Kostnader ved varemerker o.l.?"
 seoTitle: "7620-kostnader-ved-varemerker-o-l"
-meta_description: '**Konto 7620 - Kostnader ved varemerker o.l.** er en kostnadskonto i norsk kontoplan som benyttes for å registrere **kostnader** knyttet til varemerker og andr...'
-slug: 7620-kostnader-ved-varemerker-o-l
-type: blog
-layout: pages/single
+description: '**Konto 7620 - Kostnader ved varemerker o.l.** er en kostnadskonto i norsk kontoplan som benyttes for å registrere **kostnader** knyttet til varemerker og andr...'
 ---
 
 **Konto 7620 - Kostnader ved varemerker o.l.** er en kostnadskonto i norsk kontoplan som benyttes for å registrere **kostnader** knyttet til varemerker og andre lignende immaterielle rettigheter.

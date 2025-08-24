@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 8070 - Annen finansinntekt?"
 seoTitle: "8070-annen-finansinntekt"
-meta_description: '**Konto 8070 - Annen finansinntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **øvrige finansinntekter** som ikke inngår under rent...'
-slug: 8070-annen-finansinntekt
-type: blog
-layout: pages/single
+description: '**Konto 8070 - Annen finansinntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **øvrige finansinntekter** som ikke inngår under rent...'
 ---
 
 **Konto 8070 - Annen finansinntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **øvrige finansinntekter** som ikke inngår under renter eller valutagevinster.

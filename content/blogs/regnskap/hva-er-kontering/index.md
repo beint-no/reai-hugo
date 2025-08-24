@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er kontering?"
 seoTitle: "Hva er kontering?"
-meta_description: '**Kontering** er prosessen med å tildele riktige kontonummer til [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? En Komplett Guide til Regnskaps...'
-slug: hva-er-kontering
-type: blog
-layout: pages/single
+description: '**Kontering** er prosessen med å tildele riktige kontonummer til [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? En Komplett Guide til Regnskaps...'
 ---
 
 **Kontering** er prosessen med å tildele riktige kontonummer til [bilag](/blogs/regnskap/hva-er-bilag "Hva er Bilag i Regnskap? En Komplett Guide til Regnskapsdokumentasjon") og transaksjoner i [bokføringen](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Grunnleggende Regnskapsprinsipper"). Dette er en fundamental del av [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsprinsipper og -praksis") som sikrer at alle forretningshendelser registreres på riktige kontoer i henhold til [kontoplanen](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok? En Guide til Regnskapets Sentrale Register"). Korrekt kontering er avgjørende for å produsere pålitelige finansielle rapporter og overholde [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Regler og Krav til Norsk Bokføring").

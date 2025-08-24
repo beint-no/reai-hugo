@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Aksjeeierbok? En Komplett Guide"
 seoTitle: "Hva er en Aksjeeierbok? En Komplett Guide"
-meta_description: 'En **aksjeeierbok** er et register som alle norske [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap?") (AS) er lovpålagt å før...'
-slug: hva-er-en-aksjeeierbok
-type: blog
-layout: pages/single
+description: 'En **aksjeeierbok** er et register som alle norske [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap?") (AS) er lovpålagt å før...'
 ---
 
 En **aksjeeierbok** er et register som alle norske [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap?") (AS) er lovpålagt å føre. Den fungerer som selskapets offisielle, løpende oversikt over hvem som eier aksjene i selskapet. Tenk på det som en loggbok for eierskapet, som til enhver tid viser den nøyaktige fordelingen av **aksjer** og eiere.

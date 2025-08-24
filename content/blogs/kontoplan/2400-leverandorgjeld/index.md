@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 2400 - Leverandørgjeld?"
 seoTitle: "2400-leverandorgjeld"
-meta_description: '**Konto 2400 - Leverandørgjeld** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kortsiktig gjeld** til leverandører for varer og tjenes...'
-slug: 2400-leverandorgjeld
-type: blog
-layout: pages/single
+description: '**Konto 2400 - Leverandørgjeld** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kortsiktig gjeld** til leverandører for varer og tjenes...'
 ---
 
 **Konto 2400 - Leverandørgjeld** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kortsiktig gjeld** til leverandører for varer og tjenester mottatt på kreditt.

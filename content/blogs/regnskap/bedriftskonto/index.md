@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Bedriftskonto?"
 seoTitle: "Hva er Bedriftskonto?"
-meta_description: '**Bedriftskonto** er en **bankkonto** designet spesielt for **virksomheter** i Norge, tilpasset for **daglig økonomistyring**, betalinger og integrasjon med re...'
-slug: bedriftskonto
-type: blog
-layout: pages/single
+description: '**Bedriftskonto** er en **bankkonto** designet spesielt for **virksomheter** i Norge, tilpasset for **daglig økonomistyring**, betalinger og integrasjon med re...'
 ---
 
 **Bedriftskonto** er en **bankkonto** designet spesielt for **virksomheter** i Norge, tilpasset for **daglig økonomistyring**, betalinger og integrasjon med regnskapssystemer.

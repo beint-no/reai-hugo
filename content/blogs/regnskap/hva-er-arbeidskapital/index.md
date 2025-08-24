@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er arbeidskapital?"
 seoTitle: "Hva er arbeidskapital?"
-meta_description: '**Arbeidskapital** er differansen mellom [omløpsmidler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap") og kortsikti...'
-slug: hva-er-arbeidskapital
-type: blog
-layout: pages/single
+description: '**Arbeidskapital** er differansen mellom [omløpsmidler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap") og kortsikti...'
 ---
 
 **Arbeidskapital** er differansen mellom [omløpsmidler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap") og kortsiktig gjeld, og representerer bedriftens evne til å finansiere den daglige driften. Som en sentral komponent i bedriftens totale [kapital](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Økonomi") og [finanskapital](/blogs/regnskap/hva-er-finanskapital "Hva er Finanskapital? Definisjon, Typer og Betydning i Regnskap"), er arbeidskapital et kritisk mål på **[likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditetsstyring og Analyse")** og **finansiell helse** som viser om bedriften kan møte sine kortsiktige forpliktelser. God arbeidskapitalstyring er grunnleggende for å opprettholde [betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse, Nøkkeltall og Vurdering av Likviditet") og sikre bedriftens finansielle stabilitet.

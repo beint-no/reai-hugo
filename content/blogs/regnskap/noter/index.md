@@ -1,10 +1,7 @@
 ﻿---
 title: "Noter"
 seoTitle: "Noter"
-meta_description: '**Noter** er en integrert del av årsregnskapet som gir **detaljerte forklaringer** og tilleggsinformasjon til tallene i balanse, resultatregnskap og kontantstr...'
-slug: noter
-type: blog
-layout: pages/single
+description: '**Noter** er en integrert del av årsregnskapet som gir **detaljerte forklaringer** og tilleggsinformasjon til tallene i balanse, resultatregnskap og kontantstr...'
 ---
 
 **Noter** er en integrert del av årsregnskapet som gir **detaljerte forklaringer** og tilleggsinformasjon til tallene i balanse, resultatregnskap og kontantstrømoppstilling. Noter er ikke bare et lovpålagt krav, men et viktig verktøy for å sikre **transparens**, **sammenlignbarhet** og **forståelse** i finansiell rapportering.

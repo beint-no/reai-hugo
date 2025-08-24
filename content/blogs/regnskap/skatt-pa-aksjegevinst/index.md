@@ -1,10 +1,7 @@
 ﻿---
 title: "Skatt på aksjegevinst"
 seoTitle: "Skatt på aksjegevinst"
-meta_description: '**Skatt på aksjegevinst** omfatter skattereglene for gevinst ved salg av aksjer for både privatpersoner og bedrifter i Norge. Denne artikkelen går i dybden p...'
-slug: skatt-pa-aksjegevinst
-type: blog
-layout: pages/single
+description: '**Skatt på aksjegevinst** omfatter skattereglene for gevinst ved salg av aksjer for både privatpersoner og bedrifter i Norge. Denne artikkelen går i dybden p...'
 ---
 
 **Skatt på aksjegevinst** omfatter skattereglene for gevinst ved salg av aksjer for både privatpersoner og bedrifter i Norge. Denne artikkelen går i dybden på de ulike skatteregimene, inkludert aksjonærmodellen, skjermingsfradrag, fritaksmetoden og aksjesparekonto (ASK), samt praktiske eksempler på beregning og rapportering.

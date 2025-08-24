@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er varekjøp?"
 seoTitle: "Hva er varekjøp?"
-meta_description: '**Varekjøp** er anskaffelse av varer som skal selges videre til kunder, og utgjør en av de største kostnadene for handelsvirksomheter. Dette er [varelager](/...'
-slug: hva-er-varekjop
-type: blog
-layout: pages/single
+description: '**Varekjøp** er anskaffelse av varer som skal selges videre til kunder, og utgjør en av de største kostnadene for handelsvirksomheter. Dette er [varelager](/...'
 ---
 
 **Varekjøp** er anskaffelse av varer som skal selges videre til kunder, og utgjør en av de største kostnadene for handelsvirksomheter. Dette er [varelager](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til Lagerforvaltning og Regnskapsføring") som kjøpes inn for videresalg og representerer bedriftens [omløpsmidler](/blogs/regnskap/hva-er-omlopsmdler "Hva er Omløpsmidler? Komplett Guide til Kortsiktige Eiendeler"). Korrekt håndtering av varekjøp påvirker direkte bedriftens lønnsomhet, [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Komplett Guide til Driftskapital og Likviditet") og [lagerbeholdning](/blogs/regnskap/hva-er-lagerbeholdning "Hva er Lagerbeholdning? Komplett Guide til Lagerstyring og Regnskapsføring"). For nøyaktig kostnadsstyring er det kritisk å forstå alle komponenter i [varekostnad](/blogs/regnskap/hva-er-varekostnad "Hva er Varekostnad? Komplett Guide til Kostnadsstyring og Regnskapsføring"), som inkluderer både direkte og indirekte kostnader knyttet til innkjøp. Effektiv styring av varekjøp krever systematisk [anskaffelsesstyring](/blogs/regnskap/hva-er-anskaffelser "Hva er Anskaffelser? En Komplett Guide til Offentlige og Private Innkjøp") og god forståelse av regnskapsmessige konsekvenser.

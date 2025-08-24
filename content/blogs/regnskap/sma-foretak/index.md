@@ -1,10 +1,7 @@
 ﻿---
 title: "Små Foretak"
 seoTitle: "Små Foretak"
-meta_description: 'For en oversikt over generelle foretaksdefinisjoner, se [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksforme...'
-slug: sma-foretak
-type: blog
-layout: pages/single
+description: 'For en oversikt over generelle foretaksdefinisjoner, se [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksforme...'
 ---
 
 For en oversikt over generelle foretaksdefinisjoner, se [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge").

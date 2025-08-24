@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er forretningsplan?"
 seoTitle: "Hva er forretningsplan?"
-meta_description: 'En **forretningsplan** er et omfattende dokument som beskriver en virksomhets mål, strategier og finansielle prognoser. For regnskapsførere og bedriftseiere e...'
-slug: hva-er-forretningsplan
-type: blog
-layout: pages/single
+description: 'En **forretningsplan** er et omfattende dokument som beskriver en virksomhets mål, strategier og finansielle prognoser. For regnskapsførere og bedriftseiere e...'
 ---
 
 En **forretningsplan** er et omfattende dokument som beskriver en virksomhets mål, strategier og finansielle prognoser. For regnskapsførere og bedriftseiere er forretningsplanen et kritisk verktøy som ikke bare fungerer som en veikart for virksomheten, men også som grunnlag for [finansiell planlegging](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Finansieringsformer og Kapitalstruktur"), [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? En Komplett Guide til Budsjettplanlegging og Økonomistyring") og regnskapsmessig oppfølging.

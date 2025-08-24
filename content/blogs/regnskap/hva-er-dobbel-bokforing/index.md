@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem"
 seoTitle: "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem"
-meta_description: '**Dobbel bokføring** er det fundamentale regnskapssystemet som danner grunnlaget for moderne [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? ...'
-slug: hva-er-dobbel-bokforing
-type: blog
-layout: pages/single
+description: '**Dobbel bokføring** er det fundamentale regnskapssystemet som danner grunnlaget for moderne [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? ...'
 ---
 
 **Dobbel bokføring** er det fundamentale regnskapssystemet som danner grunnlaget for moderne [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") og [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En dybdeanalyse for Norge") verden over. Dette systemet, som har sine røtter tilbake til 1400-tallet, sikrer at alle økonomiske transaksjoner registreres på en måte som opprettholder den grunnleggende regnskapsligningen og gir fullstendig sporbarhet.

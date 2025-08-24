@@ -1,10 +1,7 @@
 ﻿---
 title: "aarsresultat"
 seoTitle: "aarsresultat"
-meta_description: '**Årsresultat** er et nøkkelbegrep i norsk regnskap som beskriver selskapets *netto fortjeneste* eller *underskudd* etter skatt for et regnskapsår. Årsresul...'
-slug: aarsresultat
-type: blog
-layout: pages/single
+description: '**Årsresultat** er et nøkkelbegrep i norsk regnskap som beskriver selskapets *netto fortjeneste* eller *underskudd* etter skatt for et regnskapsår. Årsresul...'
 ---
 
 **Årsresultat** er et nøkkelbegrep i norsk regnskap som beskriver selskapets *netto fortjeneste* eller *underskudd* etter skatt for et regnskapsår. Årsresultatet gir et konsist bilde av virksomhetens lønnsomhet og økonomiske helse.

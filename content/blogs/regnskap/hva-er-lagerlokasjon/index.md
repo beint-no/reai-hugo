@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Lagerlokasjon?"
 seoTitle: "Hva er Lagerlokasjon?"
-meta_description: '**Lagerlokasjon** er den spesifikke plasseringen av varer og produkter i et lager eller varelager. Dette omfatter både den fysiske posisjonen og den digitale r...'
-slug: hva-er-lagerlokasjon
-type: blog
-layout: pages/single
+description: '**Lagerlokasjon** er den spesifikke plasseringen av varer og produkter i et lager eller varelager. Dette omfatter både den fysiske posisjonen og den digitale r...'
 ---
 
 **Lagerlokasjon** er den spesifikke plasseringen av varer og produkter i et lager eller varelager. Dette omfatter både den fysiske posisjonen og den digitale registreringen av hvor hver vare befinner seg. Effektiv lagerlokasjonsstyring er avgjørende for optimal lagerdrift, nøyaktig [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring") og kostnadseffektiv drift.

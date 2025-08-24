@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Put-opsjon?"
 seoTitle: "Hva er en Put-opsjon?"
-meta_description: 'En **put-opsjon** (salgsopsjon) er en type opsjonsavtale som gir innehaveren rett, men ikke plikt, til å **selge** den underliggende eiendelen til en forhånds...'
-slug: put-opsjon
-type: blog
-layout: pages/single
+description: 'En **put-opsjon** (salgsopsjon) er en type opsjonsavtale som gir innehaveren rett, men ikke plikt, til å **selge** den underliggende eiendelen til en forhånds...'
 ---
 
 En **put-opsjon** (salgsopsjon) er en type opsjonsavtale som gir innehaveren rett, men ikke plikt, til å **selge** den underliggende eiendelen til en forhåndsbestemt pris (strike) innen eller på utløpsdatoen. Put-opsjoner er viktige for risikostyring, investeringsbeskyttelse og selskapers finansielle planlegging.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Aksjonær? En Komplett Guide"
 seoTitle: "Hva er en Aksjonær? En Komplett Guide"
-meta_description: 'En **aksjonær**, også kjent som en *aksjeeier*, er en person eller en juridisk enhet som eier én eller flere [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er...'
-slug: hva-er-en-aksjonaer
-type: blog
-layout: pages/single
+description: 'En **aksjonær**, også kjent som en *aksjeeier*, er en person eller en juridisk enhet som eier én eller flere [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er...'
 ---
 
 En **aksjonær**, også kjent som en *aksjeeier*, er en person eller en juridisk enhet som eier én eller flere [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje?") i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)?"). Ved å eie aksjer, eier aksjonæren en andel av selskapet og har visse rettigheter og plikter. Aksjonærenes rolle er fundamental for styringen og finansieringen av et aksjeselskap.

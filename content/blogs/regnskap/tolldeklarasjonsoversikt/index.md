@@ -1,10 +1,7 @@
 ﻿---
 title: "Tolldeklarasjonsoversikt – Guide til Tolldeklarasjon i Norsk Regnskap"
 seoTitle: "Tolldeklarasjonsoversikt “ Guide til Tolldeklarasjon i Norsk Regnskap"
-meta_description: '**Tolldeklarasjonsoversikt** gir en grundig gjennomgang av **tolldeklarasjon** (ofte kalt *SAD-dokument*) og hvordan dette komplekse skjemaet brukes i norsk reg...'
-slug: tolldeklarasjonsoversikt
-type: blog
-layout: pages/single
+description: '**Tolldeklarasjonsoversikt** gir en grundig gjennomgang av **tolldeklarasjon** (ofte kalt *SAD-dokument*) og hvordan dette komplekse skjemaet brukes i norsk reg...'
 ---
 
 **Tolldeklarasjonsoversikt** gir en grundig gjennomgang av **tolldeklarasjon** (ofte kalt *SAD-dokument*) og hvordan dette komplekse skjemaet brukes i norsk regnskap ved import og eksport. Vi dekker nøkkelopplysninger, fileringsprosess, digitale krav og beste praksis for norske bedrifter.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er fraktbrev?"
 seoTitle: "Hva er fraktbrev?"
-meta_description: 'Et **fraktbrev** er et juridisk bindende transportdokument som fungerer som kontrakt mellom avsender og transportør for frakt av varer. Dette dokumentet er sen...'
-slug: hva-er-fraktbrev
-type: blog
-layout: pages/single
+description: 'Et **fraktbrev** er et juridisk bindende transportdokument som fungerer som kontrakt mellom avsender og transportør for frakt av varer. Dette dokumentet er sen...'
 ---
 
 Et **fraktbrev** er et juridisk bindende transportdokument som fungerer som kontrakt mellom avsender og transportør for frakt av varer. Dette dokumentet er sentralt i både logistikk og regnskap, da det dokumenterer transportkostnader, ansvar og leveringsbetingelser. For bedrifter som driver med [engroshandel](/blogs/regnskap/hva-er-engroshandel "Hva er Engroshandel? Komplett Guide til Grossistvirksomhet og B2B-handel") eller [detaljhandel](/blogs/regnskap/hva-er-detaljhandel "Hva er Detaljhandel? Komplett Guide til Butikkdrift og Kundeservice") er korrekt håndtering av fraktbrev essensielt for [dokumentasjon i regnskap og bokføring](/blogs/regnskap/hva-er-dokumentasjon-regnskap-bokforing "Hva er Dokumentasjon i Regnskap og Bokføring? Komplett Guide til Bilag og Arkivering").

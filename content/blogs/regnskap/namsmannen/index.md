@@ -1,10 +1,7 @@
 ﻿---
 title: "namsmannen"
 seoTitle: "namsmannen"
-meta_description: '**Namsmannen**'
-slug: namsmannen
-type: blog
-layout: pages/single
+description: '**Namsmannen**'
 ---
 
 **Namsmannen**

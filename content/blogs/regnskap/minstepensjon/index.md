@@ -1,10 +1,7 @@
 ﻿---
 title: "Minstepensjon"
 seoTitle: "Minstepensjon"
-meta_description: 'Minstepensjon, ofte omtalt som **garantipensjon**, er en garantert minimumspensjon i [folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er folketrygden? En...'
-slug: minstepensjon
-type: blog
-layout: pages/single
+description: 'Minstepensjon, ofte omtalt som **garantipensjon**, er en garantert minimumspensjon i [folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er folketrygden? En...'
 ---
 
 Minstepensjon, ofte omtalt som **garantipensjon**, er en garantert minimumspensjon i [folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er folketrygden? En introduksjon til Norges offentlige pensjonssystem") for personer med lav eller ingen opptjening.

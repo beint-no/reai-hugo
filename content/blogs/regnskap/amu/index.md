@@ -1,10 +1,7 @@
 ﻿---
 title: "Arbeidsmiljøutvalg (AMU)"
 seoTitle: "Arbeidsmiljøutvalg (AMU)"
-meta_description: '**AMU** (Arbeidsmiljøutvalg) er et obligatorisk samarbeidsorgan i virksomheter for å sikre et trygt og forsvarlig arbeidsmiljø i henhold til **arbeidsmiljøl...'
-slug: amu
-type: blog
-layout: pages/single
+description: '**AMU** (Arbeidsmiljøutvalg) er et obligatorisk samarbeidsorgan i virksomheter for å sikre et trygt og forsvarlig arbeidsmiljø i henhold til **arbeidsmiljøl...'
 ---
 
 **AMU** (Arbeidsmiljøutvalg) er et obligatorisk samarbeidsorgan i virksomheter for å sikre et trygt og forsvarlig arbeidsmiljø i henhold til **arbeidsmiljøloven**. Formålet med AMU er å fremme samarbeid mellom arbeidsgiver og arbeidstakere om **HMS** (Helse, Miljø og Sikkerhet).

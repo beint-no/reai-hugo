@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er forsinkelsesrente?"
 seoTitle: "Hva er forsinkelsesrente?"
-meta_description: '**Forsinkelsesrente**, også kjent som **[morarente](/blogs/regnskap/hva-er-morarente "Hva er Morarente? Komplett Guide til Lovpålagt Forsinkelsesrente i Norge...'
-slug: hva-er-forsinkelsesrente
-type: blog
-layout: pages/single
+description: '**Forsinkelsesrente**, også kjent som **[morarente](/blogs/regnskap/hva-er-morarente "Hva er Morarente? Komplett Guide til Lovpålagt Forsinkelsesrente i Norge...'
 ---
 
 **Forsinkelsesrente**, også kjent som **[morarente](/blogs/regnskap/hva-er-morarente "Hva er Morarente? Komplett Guide til Lovpålagt Forsinkelsesrente i Norge")**, er en lovpålagt rente som påløper når en betaling ikke skjer innen avtalt forfallsdato. Dette er en viktig del av norsk kontraktsrett og regnskapsføring som beskytter kreditorer mot økonomiske tap ved forsinket betaling. Forsinkelsesrente gjelder for alle typer pengefordringer, inkludert [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"), lån og andre betalingsforpliktelser.

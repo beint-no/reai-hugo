@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er likviditet?"
 seoTitle: "Hva er likviditet?"
-meta_description: '**Likviditet** er et av de mest kritiske konseptene innen regnskap og finansstyring. Det refererer til en bedrifts evne til å møte sine kortsiktige finansiell...'
-slug: hva-er-likviditet
-type: blog
-layout: pages/single
+description: '**Likviditet** er et av de mest kritiske konseptene innen regnskap og finansstyring. Det refererer til en bedrifts evne til å møte sine kortsiktige finansiell...'
 ---
 
 **Likviditet** er et av de mest kritiske konseptene innen regnskap og finansstyring. Det refererer til en bedrifts evne til å møte sine kortsiktige finansielle forpliktelser når de forfaller, uten å måtte selge langsiktige eiendeler eller skaffe ekstern finansiering på ugunstige vilkår. Likviditet er fundamentalt for enhver virksomhets overlevelse og vekst.

@@ -1,10 +1,7 @@
 ﻿---
 title: "samvirkeforetak"
 seoTitle: "samvirkeforetak"
-meta_description: '![Illustrasjon av Samvirkeforetak](samvirkeforetak-image.svg)'
-slug: samvirkeforetak
-type: blog
-layout: pages/single
+description: '![Illustrasjon av Samvirkeforetak](samvirkeforetak-image.svg)'
 ---
 
 ![Illustrasjon av Samvirkeforetak](samvirkeforetak-image.svg)

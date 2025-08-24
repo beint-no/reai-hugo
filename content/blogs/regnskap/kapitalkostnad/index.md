@@ -1,10 +1,7 @@
 ﻿---
 title: "Kapitalkostnad"
 seoTitle: "Kapitalkostnad"
-meta_description: '**Kapitalkostnad** er den veide gjennomsnittlige kostnaden virksomheten har for kapital, både gjeld og egenkapital. Dette konseptet er sentralt for investering...'
-slug: kapitalkostnad
-type: blog
-layout: pages/single
+description: '**Kapitalkostnad** er den veide gjennomsnittlige kostnaden virksomheten har for kapital, både gjeld og egenkapital. Dette konseptet er sentralt for investering...'
 ---
 
 **Kapitalkostnad** er den veide gjennomsnittlige kostnaden virksomheten har for kapital, både gjeld og egenkapital. Dette konseptet er sentralt for investeringsbeslutninger, finansiering og verdsettelse, da kapitalkostnaden representerer avkastningskravet for å bære risiko.

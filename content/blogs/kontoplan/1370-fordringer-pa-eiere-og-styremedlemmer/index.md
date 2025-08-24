@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1370 - Fordringer på eiere og styremedlemmer"
 seoTitle: "1370-fordringer-pa-eiere-og-styremedlemmer"
-meta_description: '**Konto 1370 - Fordringer på eiere og styremedlemmer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **lån og forskudd til eiere og styr...'
-slug: 1370-fordringer-pa-eiere-og-styremedlemmer
-type: blog
-layout: pages/single
+description: '**Konto 1370 - Fordringer på eiere og styremedlemmer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **lån og forskudd til eiere og styr...'
 ---
 
 **Konto 1370 - Fordringer på eiere og styremedlemmer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **lån og forskudd til eiere og styremedlemmer** som finansielle anleggsmidler. Kontoen omfatter både rente- og rentefrie fordringer som er innvilget av selskapet til sine eiere eller tillitsvalgte, under forutsetning av at transaksjonene er godkjent i henhold til gjeldende lover og selskapets vedtekter.

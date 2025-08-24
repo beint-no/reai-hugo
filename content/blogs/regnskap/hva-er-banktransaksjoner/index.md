@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Banktransaksjoner i Regnskap?"
 seoTitle: "Hva er Banktransaksjoner i Regnskap?"
-meta_description: '**Banktransaksjoner** er alle finansielle bevegelser som skjer gjennom bedriftens [bankkontoer](/blogs/regnskap/hva-er-kontonummer "Hva er Kontonummer? Komplett...'
-slug: hva-er-banktransaksjoner
-type: blog
-layout: pages/single
+description: '**Banktransaksjoner** er alle finansielle bevegelser som skjer gjennom bedriftens [bankkontoer](/blogs/regnskap/hva-er-kontonummer "Hva er Kontonummer? Komplett...'
 ---
 
 **Banktransaksjoner** er alle finansielle bevegelser som skjer gjennom bedriftens [bankkontoer](/blogs/regnskap/hva-er-kontonummer "Hva er Kontonummer? Komplett Guide til Norske Bankkontonummer"). Korrekt håndtering av banktransaksjoner er grunnleggende for nøyaktig [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og sikrer at alle inn- og utbetalinger blir riktig registrert og kontrollert.

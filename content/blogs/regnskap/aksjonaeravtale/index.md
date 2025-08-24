@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Aksjonæravtale?"
 seoTitle: "Hva er en Aksjonæravtale?"
-meta_description: 'En **aksjonæravtale** er en omfattende **selskapsrettslig avtale** som regulerer forholdet mellom aksjonærene i et **aksjeselskap (AS)** i Norge. Denne skrift...'
-slug: aksjonaeravtale
-type: blog
-layout: pages/single
+description: 'En **aksjonæravtale** er en omfattende **selskapsrettslig avtale** som regulerer forholdet mellom aksjonærene i et **aksjeselskap (AS)** i Norge. Denne skrift...'
 ---
 
 En **aksjonæravtale** er en omfattende **selskapsrettslig avtale** som regulerer forholdet mellom aksjonærene i et **aksjeselskap (AS)** i Norge. Denne skriftlige avtalen supplerer [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge") og [vedtektene](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er Vedtekter for Aksjeselskap? Krav og Innhold") for å sikre klarhet i **eierstyring**, **stemmerettigheter** og **overføring av aksjer**.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1910 - Kasse"
 seoTitle: "1910-kasse"
-meta_description: '**Konto 1910 - Kasse** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **kassebeholdning**, det vil si de kontante midlene som...'
-slug: 1910-kasse
-type: blog
-layout: pages/single
+description: '**Konto 1910 - Kasse** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **kassebeholdning**, det vil si de kontante midlene som...'
 ---
 
 **Konto 1910 - Kasse** er en konto i norsk standard kontoplan som brukes til å registrere virksomhetens **kassebeholdning**, det vil si de kontante midlene som ligger tilgjengelig i kassen for daglige utlegg. Kasse er en delmengde av [Konto 1900 - Kontanter](/blogs/kontoplan/1900-kontanter "Konto 1900 - Kontanter") og føres som **omløpsmiddel** i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?").

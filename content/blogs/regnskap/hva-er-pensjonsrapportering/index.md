@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Pensjonsrapportering?"
 seoTitle: "Hva er Pensjonsrapportering?"
-meta_description: '**Pensjonsrapportering** er en kritisk del av norsk regnskapsføring som sikrer korrekt og transparent presentasjon av bedriftens [pensjonsforpliktelser](/blogs...'
-slug: hva-er-pensjonsrapportering
-type: blog
-layout: pages/single
+description: '**Pensjonsrapportering** er en kritisk del av norsk regnskapsføring som sikrer korrekt og transparent presentasjon av bedriftens [pensjonsforpliktelser](/blogs...'
 ---
 
 **Pensjonsrapportering** er en kritisk del av norsk regnskapsføring som sikrer korrekt og transparent presentasjon av bedriftens [pensjonsforpliktelser](/blogs/regnskap/hva-er-pensjon "Hva er Pensjon? Komplett Guide til Norsk Pensjonssystem") og pensjonskostnader. Dette omfatter både [lovpålagte krav](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Regler og Krav til Norsk Regnskap") til regnskapsføring og utvidet rapportering for interessenter.

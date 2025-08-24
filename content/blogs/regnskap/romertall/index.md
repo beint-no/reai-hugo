@@ -1,10 +1,7 @@
 ﻿---
 title: "Romertall i Regnskap: Bruk av Romertall i Tittel, Noter og Nummerering"
 seoTitle: "Romertall i Regnskap: Bruk av Romertall i Tittel, Noter og Nummerering"
-meta_description: '**Romertall** er et system for tallrepresentasjon som bruker kombinasjoner av bokstavsymboler fra det latinske alfabetet (I, V, X, L, C, D, M) for å angi numer...'
-slug: romertall
-type: blog
-layout: pages/single
+description: '**Romertall** er et system for tallrepresentasjon som bruker kombinasjoner av bokstavsymboler fra det latinske alfabetet (I, V, X, L, C, D, M) for å angi numer...'
 ---
 
 **Romertall** er et system for tallrepresentasjon som bruker kombinasjoner av bokstavsymboler fra det latinske alfabetet (I, V, X, L, C, D, M) for å angi numeriske verdier. Selv om arabiske tall er standard i moderne regnskap, har romertall fortsatt en viktig rolle, spesielt for nummerering av noter, kapitler og seksjoner i finansiell rapportering.

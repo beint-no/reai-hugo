@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er verdipapir?"
 seoTitle: "Hva er verdipapir?"
-meta_description: 'En **verdipapir** er et omsettelig finansielt instrument som gir innehaveren rettigheter eller krav som kan omsettes på et regulert marked eller utenom børs. ...'
-slug: hva-er-verdipapir
-type: blog
-layout: pages/single
+description: 'En **verdipapir** er et omsettelig finansielt instrument som gir innehaveren rettigheter eller krav som kan omsettes på et regulert marked eller utenom børs. ...'
 ---
 
 En **verdipapir** er et omsettelig finansielt instrument som gir innehaveren rettigheter eller krav som kan omsettes på et regulert marked eller utenom børs. Verdipapirer omfatter aksjer, obligasjoner, sertifikater, fondsenheter og derivater, og er sentrale byggesteiner i norsk kapitalforvaltning.

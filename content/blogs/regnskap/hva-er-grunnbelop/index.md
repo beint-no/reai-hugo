@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er grunnbeløp?"
 seoTitle: "Hva er grunnbeløp?"
-meta_description: '**Grunnbeløpet** (forkortet **G**) er en av de mest fundamentale størrelsene i det norske trygde- og skattesystemet. Det fungerer som en referanseenhet som br...'
-slug: hva-er-grunnbelop
-type: blog
-layout: pages/single
+description: '**Grunnbeløpet** (forkortet **G**) er en av de mest fundamentale størrelsene i det norske trygde- og skattesystemet. Det fungerer som en referanseenhet som br...'
 ---
 
 **Grunnbeløpet** (forkortet **G**) er en av de mest fundamentale størrelsene i det norske trygde- og skattesystemet. Det fungerer som en referanseenhet som brukes til å beregne en rekke offentlige ytelser, pensjon, skattefradrag og arbeidsgiverforhold. Denne artikkelen gir en omfattende gjennomgang av grunnbeløpets rolle, beregning og praktiske anvendelse i norsk økonomi.

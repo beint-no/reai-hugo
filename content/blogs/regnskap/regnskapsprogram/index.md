@@ -1,10 +1,7 @@
 ﻿---
 title: "Regnskapsprogram"
 seoTitle: "Regnskapsprogram"
-meta_description: '**Regnskapsprogram** er hjertet i moderne økonomistyring for norske bedrifter. En **alt-i-ett-løsning** som integrerer funksjoner for bokføring, fakturering,...'
-slug: regnskapsprogram
-type: blog
-layout: pages/single
+description: '**Regnskapsprogram** er hjertet i moderne økonomistyring for norske bedrifter. En **alt-i-ett-løsning** som integrerer funksjoner for bokføring, fakturering,...'
 ---
 
 **Regnskapsprogram** er hjertet i moderne økonomistyring for norske bedrifter. En **alt-i-ett-løsning** som integrerer funksjoner for bokføring, fakturering, lønn, rapportering og budsjettstyring i ett system.

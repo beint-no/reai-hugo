@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3600 - Leieinntekt fast eiendom"
 seoTitle: "3600-leieinntekt-fast-eiendom"
-meta_description: '**Konto 3600 - Leieinntekt fast eiendom** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leieinntekter** fra **fast eiendom**.'
-slug: 3600-leieinntekt-fast-eiendom
-type: blog
-layout: pages/single
+description: '**Konto 3600 - Leieinntekt fast eiendom** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leieinntekter** fra **fast eiendom**.'
 ---
 
 **Konto 3600 - Leieinntekt fast eiendom** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leieinntekter** fra **fast eiendom**.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Personinntekt"
 seoTitle: "Personinntekt"
-meta_description: '**Personinntekt** er det skattemessige grunnlaget for beregning av personskatt, **trygdeavgift** og **trinnskatt** for både lønnsmottakere og personlig nærin...'
-slug: personinntekt
-type: blog
-layout: pages/single
+description: '**Personinntekt** er det skattemessige grunnlaget for beregning av personskatt, **trygdeavgift** og **trinnskatt** for både lønnsmottakere og personlig nærin...'
 ---
 
 **Personinntekt** er det skattemessige grunnlaget for beregning av personskatt, **trygdeavgift** og **trinnskatt** for både lønnsmottakere og personlig næringsdrivende. For sammenligning med tilstøtende begreper, se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") og [Næringsinntekt](/blogs/regnskap/naeringsinntekt "Næringsinntekt “ Komplett guide til næringsinntekt i norsk regnskap").

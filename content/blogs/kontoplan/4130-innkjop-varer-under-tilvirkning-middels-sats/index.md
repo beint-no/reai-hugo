@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 4130 - Innkjøp varer under tilvirkning middels sats"
 seoTitle: "4130-innkjop-varer-under-tilvirkning-middels-sats"
-meta_description: '**Konto 4130 - Innkjøp varer under tilvirkning middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av varer under tilvir...'
-slug: 4130-innkjop-varer-under-tilvirkning-middels-sats
-type: blog
-layout: pages/single
+description: '**Konto 4130 - Innkjøp varer under tilvirkning middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av varer under tilvir...'
 ---
 
 **Konto 4130 - Innkjøp varer under tilvirkning middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av varer under tilvirkning** som er **avgiftspliktige med middels MVA-sats (15 %)**.

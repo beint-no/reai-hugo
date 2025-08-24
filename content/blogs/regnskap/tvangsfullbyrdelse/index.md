@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Tvangsfullbyrdelse?"
 seoTitle: "Hva er Tvangsfullbyrdelse?"
-meta_description: '**Tvangsfullbyrdelse** er prosessen for å *gjøre rettskraftige krav gjeldende* gjennom offentlige namsmyndigheter, med sikte på å dekke kreditorers krav ved...'
-slug: tvangsfullbyrdelse
-type: blog
-layout: pages/single
+description: '**Tvangsfullbyrdelse** er prosessen for å *gjøre rettskraftige krav gjeldende* gjennom offentlige namsmyndigheter, med sikte på å dekke kreditorers krav ved...'
 ---
 
 **Tvangsfullbyrdelse** er prosessen for å *gjøre rettskraftige krav gjeldende* gjennom offentlige namsmyndigheter, med sikte på å dekke kreditorers krav ved [Utleggsforretning](/blogs/regnskap/utleggsforretning "Hva er Utleggsforretning? Guide til utleggsforretning i Norge"), *tvangssalg* og *pantsettelser*.

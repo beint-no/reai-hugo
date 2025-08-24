@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Stiftelse?"
 seoTitle: "Hva er Stiftelse?"
-meta_description: '**Stiftelse** er en juridisk selvstendig organisasjonsform som etableres for å fremme bestemte formål av allmennyttig, vitenskapelig, kulturell eller veldedig...'
-slug: hva-er-stiftelse
-type: blog
-layout: pages/single
+description: '**Stiftelse** er en juridisk selvstendig organisasjonsform som etableres for å fremme bestemte formål av allmennyttig, vitenskapelig, kulturell eller veldedig...'
 ---
 
 **Stiftelse** er en juridisk selvstendig organisasjonsform som etableres for å fremme bestemte formål av allmennyttig, vitenskapelig, kulturell eller veldedig karakter. I regnskapssammenheng utgjør stiftelser en særegen kategori med spesifikke regler for [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Grunnleggende Prinsipper for Regnskapsføring"), [eiendelsstyring](/blogs/regnskap/hva-er-eiendeler "Hva er Eiendeler? Komplett Oversikt over Eiendelstyper") og [økonomisk rapportering](/blogs/regnskap/hva-er-arsrapport "Hva er Årsrapport? Komplett Guide til Årsrapportering"). For norske stiftelser gjelder særlige bestemmelser som påvirker hvordan [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") forvaltes, [skatter](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Regnskapsføring og Skatteplanlegging") håndteres og [kontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Systemer for Risikostyring og Compliance") utøves.

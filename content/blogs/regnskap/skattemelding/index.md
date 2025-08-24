@@ -1,10 +1,7 @@
 ﻿---
 title: "Skattemelding"
 seoTitle: "Skattemelding"
-meta_description: 'En **skattemelding** (tidligere kjent som [selvangivelse](/blogs/regnskap/selvangivelse "Selvangivelse - Guide til Norsk Skattemelding og Skatteoppgjør")) er d...'
-slug: skattemelding
-type: blog
-layout: pages/single
+description: 'En **skattemelding** (tidligere kjent som [selvangivelse](/blogs/regnskap/selvangivelse "Selvangivelse - Guide til Norsk Skattemelding og Skatteoppgjør")) er d...'
 ---
 
 En **skattemelding** (tidligere kjent som [selvangivelse](/blogs/regnskap/selvangivelse "Selvangivelse - Guide til Norsk Skattemelding og Skatteoppgjør")) er den offisielle dokumentasjonen som bedrifter og enkeltpersoner må sende inn til Skatteetaten for å rapportere inntekter, fradrag og beregne skyldig [skatt](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging"). For bedrifter er skattmeldingen en kritisk del av [regnskapsføringen](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Grunnleggende Prinsipper og Prosesser") og påvirker både [kontantstrøm](/blogs/regnskap/hva-er-kontantstrom "Hva er Kontantstrøm? Analyse og Forvaltning av Bedriftens Pengestrøm") og strategisk planlegging.

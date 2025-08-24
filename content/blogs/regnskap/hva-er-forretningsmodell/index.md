@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er forretningsmodell?"
 seoTitle: "Hva er forretningsmodell?"
-meta_description: 'En **forretningsmodell** beskriver hvordan en virksomhet **skaper, leverer og fanger verdi**. En grundig forretningsmodell gir et solid grunnlag for strategisk ...'
-slug: hva-er-forretningsmodell
-type: blog
-layout: pages/single
+description: 'En **forretningsmodell** beskriver hvordan en virksomhet **skaper, leverer og fanger verdi**. En grundig forretningsmodell gir et solid grunnlag for strategisk ...'
 ---
 
 En **forretningsmodell** beskriver hvordan en virksomhet **skaper, leverer og fanger verdi**. En grundig forretningsmodell gir et solid grunnlag for strategisk planlegging, forretningsplanlegging og regnskapsføring.

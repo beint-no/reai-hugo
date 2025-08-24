@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Avanse?"
 seoTitle: "Hva er Avanse?"
-meta_description: '**Avanse** er en forskuddsbetaling som kunden betaler til leverandøren før varer eller tjenester leveres. Dette er en vanlig forretningspraksis som sikrer kon...'
-slug: hva-er-avanse
-type: blog
-layout: pages/single
+description: '**Avanse** er en forskuddsbetaling som kunden betaler til leverandøren før varer eller tjenester leveres. Dette er en vanlig forretningspraksis som sikrer kon...'
 ---
 
 **Avanse** er en forskuddsbetaling som kunden betaler til leverandøren før varer eller tjenester leveres. Dette er en vanlig forretningspraksis som sikrer kontantstrøm for leverandøren og reduserer risiko ved større prosjekter eller spesialbestillinger.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er forretningsidé?"
 seoTitle: "Hva er forretningsidé?"
-meta_description: 'En **forretningsidé** er kjernen i enhver virksomhet. Den beskriver virksomhetens **verdiforslag**, målgruppe og unike posisjon i markedet. En klar forretning...'
-slug: hva-er-forretningside
-type: blog
-layout: pages/single
+description: 'En **forretningsidé** er kjernen i enhver virksomhet. Den beskriver virksomhetens **verdiforslag**, målgruppe og unike posisjon i markedet. En klar forretning...'
 ---
 
 En **forretningsidé** er kjernen i enhver virksomhet. Den beskriver virksomhetens **verdiforslag**, målgruppe og unike posisjon i markedet. En klar forretningsidé legger grunnlaget for både [forretningsplan](/blogs/regnskap/hva-er-forretningsplan "Hva er Forretningsplan? Komplett Guide til Forretningsplanlegging og Regnskapsoppfølging") og videre **regnskapsføring**. For å konkretisere hvordan en forretningsidé realiseres i praksis, bør du utvikle en klar [forretningsmodell](/blogs/regnskap/hva-er-forretningsmodell "Hva er forretningsmodell? Komplett guide til utforming og evaluering av forretningsmodell for regnskap og virksomhetsstyring").

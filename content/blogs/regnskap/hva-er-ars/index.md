@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er ARS (Autorisert Regnskapsførerselskap)?"
 seoTitle: "Hva er ARS (Autorisert Regnskapsførerselskap)?"
-meta_description: 'Et **ARS (Autorisert Regnskapsførerselskap)** er et regnskapsfirma som har fått offisiell autorisasjon fra Finanstilsynet til å utføre regnskapsførertjenes...'
-slug: hva-er-ars
-type: blog
-layout: pages/single
+description: 'Et **ARS (Autorisert Regnskapsførerselskap)** er et regnskapsfirma som har fått offisiell autorisasjon fra Finanstilsynet til å utføre regnskapsførertjenes...'
 ---
 
 Et **ARS (Autorisert Regnskapsførerselskap)** er et regnskapsfirma som har fått offisiell autorisasjon fra Finanstilsynet til å utføre regnskapsførertjenester i Norge. Autorisasjonen sikrer at selskapet oppfyller strenge krav til kompetanse, kvalitet og etikk, og gir bedrifter trygghet for at deres [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring") håndteres av kvalifiserte fagpersoner.

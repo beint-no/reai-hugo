@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er internregnskap?"
 seoTitle: "Hva er internregnskap?"
-meta_description: '**Internregnskap** er finansiell rapportering som er utarbeidet primært for **interne interessenter** som ledelse, avdelingsledere og andre beslutningstagere i...'
-slug: hva-er-internregnskap
-type: blog
-layout: pages/single
+description: '**Internregnskap** er finansiell rapportering som er utarbeidet primært for **interne interessenter** som ledelse, avdelingsledere og andre beslutningstagere i...'
 ---
 
 **Internregnskap** er finansiell rapportering som er utarbeidet primært for **interne interessenter** som ledelse, avdelingsledere og andre beslutningstagere i virksomheten. Dette står i motsetning til eksternregnskap, som er rettet mot eksterne interessenter. Internregnskapet er fleksibelt og tilpasset virksomhetens spesifikke behov for **styring**, **planlegging** og **kontroll** av den daglige driften.

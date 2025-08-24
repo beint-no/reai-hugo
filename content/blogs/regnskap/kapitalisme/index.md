@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Kapitalisme?"
 seoTitle: "Hva er Kapitalisme?"
-meta_description: '**Kapitalisme** er et *økonomisk system* basert på privat eierskap til produksjonsmidler, fri konkurranse og markedsbaserte priser. Som grunnlag for moderne [...'
-slug: kapitalisme
-type: blog
-layout: pages/single
+description: '**Kapitalisme** er et *økonomisk system* basert på privat eierskap til produksjonsmidler, fri konkurranse og markedsbaserte priser. Som grunnlag for moderne [...'
 ---
 
 **Kapitalisme** er et *økonomisk system* basert på privat eierskap til produksjonsmidler, fri konkurranse og markedsbaserte priser. Som grunnlag for moderne [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og økonomisk analyse, legger kapitalisme rammene for hvordan verdiskaping, investeringer og distribusjon av ressurser organiseres.

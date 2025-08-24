@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Dagsoppgjør i Regnskap?"
 seoTitle: "Hva er Dagsoppgjør i Regnskap?"
-meta_description: '**Dagsoppgjør** er en **daglig regnskapsprosess** som sikrer at alle [transaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Guide ...'
-slug: hva-er-dagsoppgjor
-type: blog
-layout: pages/single
+description: '**Dagsoppgjør** er en **daglig regnskapsprosess** som sikrer at alle [transaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Guide ...'
 ---
 
 **Dagsoppgjør** er en **daglig regnskapsprosess** som sikrer at alle [transaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Guide til Registrering og Oppfølging") er korrekt registrert, avstemt og kontrollert ved slutten av hver arbeidsdag. Dette er en **kritisk kontrollrutine** som danner grunnlaget for pålitelig [regnskapsføring](/blogs/regnskap/hva-er-bokføring "Hva er Bokføring? Komplett Guide til Regnskapsføring") og finansiell rapportering.

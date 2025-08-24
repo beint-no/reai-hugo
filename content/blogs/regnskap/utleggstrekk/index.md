@@ -1,10 +1,7 @@
 ﻿---
 title: "Utleggstrekk"
 seoTitle: "Utleggstrekk"
-meta_description: '**Utleggstrekk** er en **prosedyre** hvor arbeidsgivere pålegges å trekke deler av ansattes lønn for dekning av gjeld, basert på et varsel fra [Namsmannen](...'
-slug: utleggstrekk
-type: blog
-layout: pages/single
+description: '**Utleggstrekk** er en **prosedyre** hvor arbeidsgivere pålegges å trekke deler av ansattes lønn for dekning av gjeld, basert på et varsel fra [Namsmannen](...'
 ---
 
 **Utleggstrekk** er en **prosedyre** hvor arbeidsgivere pålegges å trekke deler av ansattes lønn for dekning av gjeld, basert på et varsel fra [Namsmannen](/blogs/regnskap/namsmannen "Namsmannen") eller annen tvangsmyndighet. Utleggstrekk brukes for å sikre at kreditorer får dekket utestående fordringer før utbetaling av nettolønn.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Juridisk Person?"
 seoTitle: "Hva er en Juridisk Person?"
-meta_description: 'En **juridisk person** er en grunnleggende juridisk konstruksjon som gir en organisasjon eller enhet rettigheter og plikter som er separate fra de fysiske perso...'
-slug: hva-er-juridisk-person
-type: blog
-layout: pages/single
+description: 'En **juridisk person** er en grunnleggende juridisk konstruksjon som gir en organisasjon eller enhet rettigheter og plikter som er separate fra de fysiske perso...'
 ---
 
 En **juridisk person** er en grunnleggende juridisk konstruksjon som gir en organisasjon eller enhet rettigheter og plikter som er separate fra de fysiske personene som eier eller kontrollerer den. I regnskapssammenheng er forståelsen av juridiske personer avgjørende for korrekt bokføring, rapportering og skattemessig behandling.

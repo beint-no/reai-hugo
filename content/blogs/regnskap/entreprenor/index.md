@@ -1,10 +1,7 @@
 ﻿---
 title: "Entreprenør"
 seoTitle: "Entreprenør"
-meta_description: '**Entreprenør** er en person eller virksomhet som påtar seg ansvaret for å planlegge, utføre og levere bygge- og anleggsarbeider, prosjekter eller tjenester...'
-slug: entreprenor
-type: blog
-layout: pages/single
+description: '**Entreprenør** er en person eller virksomhet som påtar seg ansvaret for å planlegge, utføre og levere bygge- og anleggsarbeider, prosjekter eller tjenester...'
 ---
 
 **Entreprenør** er en person eller virksomhet som påtar seg ansvaret for å planlegge, utføre og levere bygge- og anleggsarbeider, prosjekter eller tjenester for en oppdragsgiver. I norsk regnskaps- og avgiftssammenheng har entreprenøren en sentral rolle både juridisk, skattemessig og økonomisk.

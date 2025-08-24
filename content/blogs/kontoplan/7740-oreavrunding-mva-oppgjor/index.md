@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 7740 - Øreavrunding, MVA - oppgjør"
 seoTitle: "7740-oreavrunding-mva-oppgjor"
-meta_description: '**Konto 7740 - Øreavrunding, MVA - oppgjør** er en konto i **Norsk Standard Kontoplan** som brukes til å bokføre **øreavrunding** ved oppgjør av **merverd...'
-slug: 7740-oreavrunding-mva-oppgjor
-type: blog
-layout: pages/single
+description: '**Konto 7740 - Øreavrunding, MVA - oppgjør** er en konto i **Norsk Standard Kontoplan** som brukes til å bokføre **øreavrunding** ved oppgjør av **merverd...'
 ---
 
 **Konto 7740 - Øreavrunding, MVA - oppgjør** er en konto i **Norsk Standard Kontoplan** som brukes til å bokføre **øreavrunding** ved oppgjør av **merverdiavgift (MVA)** i forbindelse med periodeavslutning.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Tingsinnskudd?"
 seoTitle: "Hva er Tingsinnskudd?"
-meta_description: '**Tingsinnskudd** (også kalt **apportinnskudd** eller **naturalinnskudd**) er innskudd av eiendeler som maskiner, utstyr, eiendom eller andre verdier som egenk...'
-slug: tingsinnskudd
-type: blog
-layout: pages/single
+description: '**Tingsinnskudd** (også kalt **apportinnskudd** eller **naturalinnskudd**) er innskudd av eiendeler som maskiner, utstyr, eiendom eller andre verdier som egenk...'
 ---
 
 **Tingsinnskudd** (også kalt **apportinnskudd** eller **naturalinnskudd**) er innskudd av eiendeler som maskiner, utstyr, eiendom eller andre verdier som egenkapital i et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") ved [kapitalforhøyelse](/blogs/regnskap/kapitalforhoyelse "Kapitalforhøyelse: Metoder og Regnskapsføring"). Verdien fastsettes gjennom revisorattestasjon og registreres i [Foretaksregisteret](/blogs/regnskap/hva-er-foretaksregisteret "Hva er Foretaksregisteret? Komplett Guide til Foretaksregisteret i Norge").

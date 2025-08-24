@@ -1,10 +1,7 @@
 ﻿---
 title: "Skattekort"
 seoTitle: "Skattekort"
-meta_description: '**Skattekort** er den digitale **bekreftelsen** fra [Skatteetaten](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter") pÃ...'
-slug: skattekort
-type: blog
-layout: pages/single
+description: '**Skattekort** er den digitale **bekreftelsen** fra [Skatteetaten](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter") pÃ...'
 ---
 
 **Skattekort** er den digitale **bekreftelsen** fra [Skatteetaten](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter") på hvor mye du skal betale i forskuddstrekk gjennom året. *Les videre for alt du trenger å vite om skattekort i Norge.*

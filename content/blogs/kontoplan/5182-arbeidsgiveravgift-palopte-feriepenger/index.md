@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 5182 - Arbeidsgiveravgift påløpte feriepenger"
 seoTitle: "5182-arbeidsgiveravgift-palopte-feriepenger"
-meta_description: '**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **påløpt arbeidsg...'
-slug: 5182-arbeidsgiveravgift-palopte-feriepenger
-type: blog
-layout: pages/single
+description: '**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **påløpt arbeidsg...'
 ---
 
 **Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **påløpt arbeidsgiveravgift** knyttet til **feriepenger**.

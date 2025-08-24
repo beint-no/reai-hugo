@@ -1,10 +1,7 @@
 ﻿---
 title: "Tap på fordring"
 seoTitle: "Tap på fordring"
-meta_description: '**Tap på fordring** er en regnskapsmessig og skattemessig realitet som alle bedrifter med kreditsalg må forholde seg til. Når kunder ikke kan eller vil betal...'
-slug: tap-pa-fordring
-type: blog
-layout: pages/single
+description: '**Tap på fordring** er en regnskapsmessig og skattemessig realitet som alle bedrifter med kreditsalg må forholde seg til. Når kunder ikke kan eller vil betal...'
 ---
 
 **Tap på fordring** er en regnskapsmessig og skattemessig realitet som alle bedrifter med kreditsalg må forholde seg til. Når kunder ikke kan eller vil betale sine [kundefordringer](/blogs/regnskap/hva-er-kundefordring "Hva er kundefordring? En Guide til Norske Kundefordringer"), må bedriften ta høyde for at deler av eller hele fordringen kan gå tapt. En grundig forståelse av hvordan slike tap skal håndteres er avgjørende for [god regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God regnskapsskikk - prinsipper og retningslinjer") og korrekt skattebehandling.

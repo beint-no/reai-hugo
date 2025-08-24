@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er arbeidsforholdstype?"
 seoTitle: "Hva er arbeidsforholdstype?"
-meta_description: '**Arbeidsforholdstype** refererer til den juridiske og praktiske rammen som definerer forholdet mellom [arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver...'
-slug: hva-er-arbeidsforholdstype
-type: blog
-layout: pages/single
+description: '**Arbeidsforholdstype** refererer til den juridiske og praktiske rammen som definerer forholdet mellom [arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver...'
 ---
 
 **Arbeidsforholdstype** refererer til den juridiske og praktiske rammen som definerer forholdet mellom [arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver") og arbeidstaker. I Norge reguleres arbeidsforhold hovedsakelig av arbeidsmiljøloven, og valg av arbeidsforholdstype har betydelige konsekvenser for både juridiske rettigheter, økonomiske forpliktelser og regnskapsføring.

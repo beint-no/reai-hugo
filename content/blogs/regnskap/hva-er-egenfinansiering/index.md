@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Egenfinansiering?"
 seoTitle: "Hva er Egenfinansiering?"
-meta_description: '**Egenfinansiering** er finansiering av en bedrift gjennom egenkapital fra eierne, i motsetning til fremmedfinansiering gjennom lån og kreditt. Som en viktig m...'
-slug: hva-er-egenfinansiering
-type: blog
-layout: pages/single
+description: '**Egenfinansiering** er finansiering av en bedrift gjennom egenkapital fra eierne, i motsetning til fremmedfinansiering gjennom lån og kreditt. Som en viktig m...'
 ---
 
 **Egenfinansiering** er finansiering av en bedrift gjennom egenkapital fra eierne, i motsetning til fremmedfinansiering gjennom lån og kreditt. Som en viktig metode for å skaffe [finanskapital](/blogs/regnskap/hva-er-finanskapital "Hva er Finanskapital? Definisjon, Typer og Betydning i Regnskap"), er dette en grunnleggende [finansieringsform](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Finansieringsformer") som gir bedriften kapital uten å skape gjeld eller renteforpliktelser.

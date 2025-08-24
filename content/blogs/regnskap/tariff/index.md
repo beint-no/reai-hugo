@@ -1,10 +1,7 @@
 ﻿---
 title: "Tariff"
 seoTitle: "Tariff"
-meta_description: '**Tariff** er et begrep som beskriver **kollektive avtaler** om lønns- og arbeidsvilkår for bestemte bransjer eller grupper av ansatte. Slike avtaler forhandl...'
-slug: tariff
-type: blog
-layout: pages/single
+description: '**Tariff** er et begrep som beskriver **kollektive avtaler** om lønns- og arbeidsvilkår for bestemte bransjer eller grupper av ansatte. Slike avtaler forhandl...'
 ---
 
 **Tariff** er et begrep som beskriver **kollektive avtaler** om lønns- og arbeidsvilkår for bestemte bransjer eller grupper av ansatte. Slike avtaler forhandles vanligvis fram mellom arbeidsgiverforeninger og fagforeninger, og kan også allmenngjøres av staten.

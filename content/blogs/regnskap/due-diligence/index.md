@@ -1,10 +1,7 @@
 ﻿---
 title: "Due diligence i Norske Oppkjøp - En Komplett Guide"
 seoTitle: "Due diligence i Norske Oppkjøp - En Komplett Guide"
-meta_description: '**Due diligence** er en systematisk gjennomgang og **risikovurdering** av regnskaps-, juridiske og operasjonelle forhold i en transaksjon, spesielt ved oppkjøp...'
-slug: due-diligence
-type: blog
-layout: pages/single
+description: '**Due diligence** er en systematisk gjennomgang og **risikovurdering** av regnskaps-, juridiske og operasjonelle forhold i en transaksjon, spesielt ved oppkjøp...'
 ---
 
 **Due diligence** er en systematisk gjennomgang og **risikovurdering** av regnskaps-, juridiske og operasjonelle forhold i en transaksjon, spesielt ved oppkjøp, fusjoner og investeringer i Norge.

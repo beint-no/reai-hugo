@@ -1,10 +1,7 @@
 ﻿---
 title: "Skattesats"
 seoTitle: "Skattesats"
-meta_description: '![Skattesats](skattesats-image.svg)'
-slug: skattesats
-type: blog
-layout: pages/single
+description: '![Skattesats](skattesats-image.svg)'
 ---
 
 ![Skattesats](skattesats-image.svg)

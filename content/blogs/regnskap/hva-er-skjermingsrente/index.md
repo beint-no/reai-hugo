@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Skjermingsrente?"
 seoTitle: "Hva er Skjermingsrente?"
-meta_description: '**Skjermingsrente** er den **risikofrie renten** som brukes til å beregne [skjermingsfradrag](/blogs/regnskap/hva-er-skjermingsfradrag "Hva er Skjermingsfradra...'
-slug: hva-er-skjermingsrente
-type: blog
-layout: pages/single
+description: '**Skjermingsrente** er den **risikofrie renten** som brukes til å beregne [skjermingsfradrag](/blogs/regnskap/hva-er-skjermingsfradrag "Hva er Skjermingsfradra...'
 ---
 
 **Skjermingsrente** er den **risikofrie renten** som brukes til å beregne [skjermingsfradrag](/blogs/regnskap/hva-er-skjermingsfradrag "Hva er Skjermingsfradrag? Komplett Guide til Aksjonærbeskatning") i norsk skatterett. Denne renten fungerer som et **benchmark** for å skille mellom normalavkastning og meravkastning ved aksjonærinvesteringer, og sikrer at kun avkastning utover risikofri nivå beskattes. Skjermingsrenten fastsettes årlig av **Skattedirektoratet** basert på norske statsobligasjoner, og har fundamental betydning for [aksjonærbeskatning](/blogs/regnskap/hva-er-aksjonaer "Hva er Aksjonær? Rettigheter og Forpliktelser i Aksjeselskap"), [utbytteplanlegging](/blogs/regnskap/hva-er-utbytte "Hva er Utbytte? Regnskapsføring og Skattemessige Konsekvenser") og strategisk [skatteoptimalisering](/blogs/regnskap/hva-er-skatteplanlegging "Hva er Skatteplanlegging? Optimalisering av Skatteposisjon").

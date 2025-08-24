@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er næringsoppgave?"
 seoTitle: "Hva er næringsoppgave?"
-meta_description: '**Næringsoppgaven** er en sentral del av det norske skattesystemet og representerer den årlige skattemeldingen som alle norske bedrifter må levere til Skatte...'
-slug: hva-er-naeringsoppgave
-type: blog
-layout: pages/single
+description: '**Næringsoppgaven** er en sentral del av det norske skattesystemet og representerer den årlige skattemeldingen som alle norske bedrifter må levere til Skatte...'
 ---
 
 **Næringsoppgaven** er en sentral del av det norske skattesystemet og representerer den årlige skattemeldingen som alle norske bedrifter må levere til Skatteetaten. Som en viktig komponent i **[opplysningsplikten](/blogs/regnskap/hva-er-opplysningsplikt "Hva er opplysningsplikt? Komplett guide til rapporteringsplikt")**, fungerer næringsoppgaven som grunnlaget for beregning av **skatt på næringsinntekt** og er tett knyttet til bedriftens [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring i Norge") og [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis").

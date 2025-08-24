@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er arbeidsgiveravgift?"
 seoTitle: "Hva er arbeidsgiveravgift?"
-meta_description: '**Arbeidsgiveravgift** er en avgift som arbeidsgivere i Norge må betale til staten basert på [**lønn**](/blogs/regnskap/hva-er-lonn "Hva er Lønn i Regnskap?...'
-slug: hva-er-arbeidsgiveravgift
-type: blog
-layout: pages/single
+description: '**Arbeidsgiveravgift** er en avgift som arbeidsgivere i Norge må betale til staten basert på [**lønn**](/blogs/regnskap/hva-er-lonn "Hva er Lønn i Regnskap?...'
 ---
 
 **Arbeidsgiveravgift** er en avgift som arbeidsgivere i Norge må betale til staten basert på [**lønn**](/blogs/regnskap/hva-er-lonn "Hva er Lønn i Regnskap? Komplett Guide til Lønnsformer, Beregning og Regnskapsføring")sutbetalinger til sine ansatte. Denne avgiften utgjør en betydelig del av de totale [lønnskostnadene](/blogs/regnskap/lonnskostnad "Hva er Lønnskostnad i Regnskap?") for bedrifter og er en viktig inntektskilde for staten. Avgiften varierer geografisk og har flere unntak og fritak som gjør den til et komplekst, men essensielt element i norsk lønnshåndtering. Sammen med ansattes [trygdeavgift](/blogs/regnskap/hva-er-trygdeavgift "Hva er Trygdeavgift? Komplett Guide til Beregning og Regnskapsføring") finansierer arbeidsgiveravgift det norske velferdssystemet.

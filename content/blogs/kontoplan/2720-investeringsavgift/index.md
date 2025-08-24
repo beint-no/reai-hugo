@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2720 - Investeringsavgift"
 seoTitle: "2720-investeringsavgift"
-meta_description: '**Konto 2720 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere utgående **investeringsavgift** fra leverandøren v...'
-slug: 2720-investeringsavgift
-type: blog
-layout: pages/single
+description: '**Konto 2720 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere utgående **investeringsavgift** fra leverandøren v...'
 ---
 
 **Konto 2720 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere utgående **investeringsavgift** fra leverandøren ved etablering eller utvidelse av anleggsmidler.

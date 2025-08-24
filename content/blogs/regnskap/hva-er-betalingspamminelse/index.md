@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Betalingspåmminelse?"
 seoTitle: "Hva er Betalingspåmminelse?"
-meta_description: 'En **betalingspåmminelse** er en formell oppfordring til betaling av forfalt gjeld som sendes til en debitor som ikke har betalt innen forfallsdato. Dette er e...'
-slug: hva-er-betalingspamminelse
-type: blog
-layout: pages/single
+description: 'En **betalingspåmminelse** er en formell oppfordring til betaling av forfalt gjeld som sendes til en debitor som ikke har betalt innen forfallsdato. Dette er e...'
 ---
 
 En **betalingspåmminelse** er en formell oppfordring til betaling av forfalt gjeld som sendes til en debitor som ikke har betalt innen forfallsdato. Dette er et viktig verktøy i [kundeoppfølging](/blogs/regnskap/hva-er-ansattreskontro "Hva er Ansattreskontro? Komplett Guide til Kundeoppfølging og Fordringsstyring") og regnskapsstyring som sikrer bedriftens [betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet") og kontantstrøm.

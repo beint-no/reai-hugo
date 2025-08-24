@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1710 - Forskuddsbetalte renter"
 seoTitle: "1710-forskuddsbetalte-renter"
-meta_description: '**Konto 1710 - Forskuddsbetalte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forskuddsbetalte renteutgifter**.'
-slug: 1710-forskuddsbetalte-renter
-type: blog
-layout: pages/single
+description: '**Konto 1710 - Forskuddsbetalte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forskuddsbetalte renteutgifter**.'
 ---
 
 **Konto 1710 - Forskuddsbetalte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forskuddsbetalte renteutgifter**.

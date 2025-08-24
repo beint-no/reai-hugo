@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er lagerkorreksjon?"
 seoTitle: "Hva er lagerkorreksjon?"
-meta_description: '**Lagerkorreksjon** er en regnskapsmessig justering som gjøres for å korrigere avvik mellom det registrerte lageret i regnskapssystemet og det faktiske fysisk...'
-slug: hva-er-lagerkorreksjon
-type: blog
-layout: pages/single
+description: '**Lagerkorreksjon** er en regnskapsmessig justering som gjøres for å korrigere avvik mellom det registrerte lageret i regnskapssystemet og det faktiske fysisk...'
 ---
 
 **Lagerkorreksjon** er en regnskapsmessig justering som gjøres for å korrigere avvik mellom det registrerte lageret i regnskapssystemet og det faktiske fysiske lageret. Dette er en kritisk prosess for å sikre nøyaktig [lagerverdi](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Regnskapet") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap og Finansiell Stilling") og korrekt beregning av [varekostnad](/blogs/regnskap/hva-er-kostpris "Hva er Kostpris? Komplett Guide til Kostnadsberegning og Prissetting"). Lagerkorreksjon påvirker direkte bedriftens [driftsresultat](/blogs/regnskap/hva-er-driftsresultat "Hva er Driftsresultat? Analyse av Lønnsomhet og Operasjonell Ytelse") og er en sentral del av god [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Komplett Guide til Risikostyring og Kontrollsystemer").

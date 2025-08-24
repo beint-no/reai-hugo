@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Frikortgrense i Norge?"
 seoTitle: "Hva er Frikortgrense i Norge?"
-meta_description: '**Frikortgrense** er det maksimale beløpet du kan tjene skattefritt i Norge før du må betale skatt. **[Frikort](/blogs/regnskap/frikort "Frikort - Skattefri ...'
-slug: hva-er-frikortgrense
-type: blog
-layout: pages/single
+description: '**Frikortgrense** er det maksimale beløpet du kan tjene skattefritt i Norge før du må betale skatt. **[Frikort](/blogs/regnskap/frikort "Frikort - Skattefri ...'
 ---
 
 **Frikortgrense** er det maksimale beløpet du kan tjene skattefritt i Norge før du må betale skatt. **[Frikort](/blogs/regnskap/frikort "Frikort - Skattefri Inntekt for Lavinntektsgrupper")** er et viktig verktøy i det norske skattesystemet som sikrer at personer med lav inntekt ikke betaler skatt på sine første kroner. Dette er særlig relevant for [arbeidstakere](/blogs/regnskap/hva-er-arbeidsforholdstype "Arbeidsforholdstype - Guide til Ulike Ansettelsesformer") med deltidsjobber, studenter, pensjonister og andre med begrenset inntekt.

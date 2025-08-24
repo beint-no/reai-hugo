@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er opplysningsplikt?"
 seoTitle: "Hva er opplysningsplikt?"
-meta_description: '**Opplysningsplikt** er det lovpålagte ansvaret bedrifter og organisasjoner har for å rapportere økonomisk og administrativ informasjon til offentlige myndig...'
-slug: hva-er-opplysningsplikt
-type: blog
-layout: pages/single
+description: '**Opplysningsplikt** er det lovpålagte ansvaret bedrifter og organisasjoner har for å rapportere økonomisk og administrativ informasjon til offentlige myndig...'
 ---
 
 **Opplysningsplikt** er det lovpålagte ansvaret bedrifter og organisasjoner har for å rapportere økonomisk og administrativ informasjon til offentlige myndigheter. Dette omfatter en rekke rapporteringsordninger som sikrer at staten har nødvendig informasjon for skattlegging, statistikk, kontroll og utbetaling av offentlige ytelser. Den mest kjente formen for opplysningsplikt er **[a-meldingen](/blogs/regnskap/hva-er-a-melding "Hva er a-melding? En komplett guide")**, men det finnes mange andre rapporteringskrav som bedrifter må forholde seg til.

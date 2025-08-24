@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 2380 - Kassekreditt?"
 seoTitle: "2380-kassekreditt"
-meta_description: '**Konto 2380 - Kassekreditt** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kassekreditt**, en kortsiktig kredittramme i bank...'
-slug: 2380-kassekreditt
-type: blog
-layout: pages/single
+description: '**Konto 2380 - Kassekreditt** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kassekreditt**, en kortsiktig kredittramme i bank...'
 ---
 
 **Konto 2380 - Kassekreditt** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kassekreditt**, en kortsiktig kredittramme i bank.

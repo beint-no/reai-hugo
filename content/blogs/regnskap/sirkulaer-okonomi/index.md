@@ -1,10 +1,7 @@
 ﻿---
 title: "Sirkulær økonomi"
 seoTitle: "Sirkulær økonomi"
-meta_description: '**Sirkulær økonomi** er en modell for å **optimalisere ressursbruk** og redusere avfall ved å designe produkter og tjenester for gjenbruk, reparasjon og res...'
-slug: sirkulaer-okonomi
-type: blog
-layout: pages/single
+description: '**Sirkulær økonomi** er en modell for å **optimalisere ressursbruk** og redusere avfall ved å designe produkter og tjenester for gjenbruk, reparasjon og res...'
 ---
 
 **Sirkulær økonomi** er en modell for å **optimalisere ressursbruk** og redusere avfall ved å designe produkter og tjenester for gjenbruk, reparasjon og resirkulering. Denne tilnærmingen bygger på prinsippene for [Bærekraft](/blogs/regnskap/baerekraft "Bærekraft i Regnskap: En Komplett Guide til Bærekraft og Bærekraftsrapportering") og har økende betydning for norsk regnskapspraksis og rapportering.

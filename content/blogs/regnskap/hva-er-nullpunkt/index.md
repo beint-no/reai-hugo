@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Nullpunkt (Break-Even) i Regnskap?"
 seoTitle: "Hva er Nullpunkt (Break-Even) i Regnskap?"
-meta_description: '**Nullpunkt** (break-even) er det kritiske punktet hvor en bedrifts totale inntekter er lik totale kostnader, og bedriften verken går med overskudd eller under...'
-slug: hva-er-nullpunkt
-type: blog
-layout: pages/single
+description: '**Nullpunkt** (break-even) er det kritiske punktet hvor en bedrifts totale inntekter er lik totale kostnader, og bedriften verken går med overskudd eller under...'
 ---
 
 **Nullpunkt** (break-even) er det kritiske punktet hvor en bedrifts totale inntekter er lik totale kostnader, og bedriften verken går med overskudd eller underskudd. Nullpunkt-analyse (også kalt [dekningspunkt-analyse](/blogs/regnskap/hva-er-dekningspunkt "Hva er Dekningspunkt? Komplett Guide til Break-Even Analyse")) er et fundamentalt verktøy for **økonomisk planlegging** og lønnsomhetsvurdering som hjelper bedrifter med å forstå hvor mye de må selge for å dekke alle sine kostnader.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Altinn?"
 seoTitle: "Hva er Altinn?"
-meta_description: '**Altinn** er Norges felles internettportal for digital dialog mellom næringslivet, privatpersoner og offentlige etater. Siden oppstarten i 2003 har Altinn rev...'
-slug: hva-er-altinn
-type: blog
-layout: pages/single
+description: '**Altinn** er Norges felles internettportal for digital dialog mellom næringslivet, privatpersoner og offentlige etater. Siden oppstarten i 2003 har Altinn rev...'
 ---
 
 **Altinn** er Norges felles internettportal for digital dialog mellom næringslivet, privatpersoner og offentlige etater. Siden oppstarten i 2003 har Altinn revolusjonert måten nordmenn kommuniserer med det offentlige på, og har blitt en hjørnestein i Norges digitale infrastruktur. Plattformen håndterer millioner av transaksjoner årlig og er den primære kanalen for å levere lovpålagte skjemaer som MVA-meldinger, skattemeldinger og A-meldinger. Som den sentrale plattformen for **[opplysningsplikten](/blogs/regnskap/hva-er-opplysningsplikt "Hva er opplysningsplikt? Komplett guide til rapporteringsplikt")**, muliggjør Altinn **[egenmelding](/blogs/regnskap/hva-er-egenmelding "Hva er Egenmelding? Komplett Guide til Selvrapportering i Norsk Regnskap")** - selvrapportering hvor virksomheter og privatpersoner selv rapporterer sine økonomiske forhold til myndighetene.

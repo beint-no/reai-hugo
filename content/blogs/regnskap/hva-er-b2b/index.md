@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er B2B? Komplett Guide til Business-to-Business i Norsk Regnskap"
 seoTitle: "Hva er B2B? Komplett Guide til Business-to-Business i Norsk Regnskap"
-meta_description: '**B2B** (Business-to-Business) refererer til handel og kommersielle transaksjoner mellom **bedrifter**, i motsetning til [Business-to-Consumer (B2C)](/blogs/reg...'
-slug: hva-er-b2b
-type: blog
-layout: pages/single
+description: '**B2B** (Business-to-Business) refererer til handel og kommersielle transaksjoner mellom **bedrifter**, i motsetning til [Business-to-Consumer (B2C)](/blogs/reg...'
 ---
 
 **B2B** (Business-to-Business) refererer til handel og kommersielle transaksjoner mellom **bedrifter**, i motsetning til [Business-to-Consumer (B2C)](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap"). I norsk regnskap og [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring") stiller B2B-handel spesifikke krav til fakturering, MVA-håndtering, betalingsbetingelser og regnskapsmessig behandling.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Skatteoppgjør i Norsk Regnskap og Skatt"
 seoTitle: "Skatteoppgjør i Norsk Regnskap og Skatt"
-meta_description: '**Hva er Skatteoppgjør?**'
-slug: skatteoppgjor
-type: blog
-layout: pages/single
+description: '**Hva er Skatteoppgjør?**'
 ---
 
 **Hva er Skatteoppgjør?**

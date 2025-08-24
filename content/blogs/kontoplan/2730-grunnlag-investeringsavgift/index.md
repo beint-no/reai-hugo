@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2730 - Grunnlag investeringsavgift"
 seoTitle: "2730-grunnlag-investeringsavgift"
-meta_description: '**Konto 2730 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **grunnlaget for utgående investeringsavgi...'
-slug: 2730-grunnlag-investeringsavgift
-type: blog
-layout: pages/single
+description: '**Konto 2730 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **grunnlaget for utgående investeringsavgi...'
 ---
 
 **Konto 2730 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **grunnlaget for utgående investeringsavgift** ved fakturering av kunder ved etablering eller utvidelse av anleggsmidler.

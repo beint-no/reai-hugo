@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1900 - Kontanter"
 seoTitle: "1900-kontanter"
-meta_description: '**Konto 1900 - Kontanter** er den primære kontoen for å registrere virksomhetens **kontantbeholdning** som omfatter sedler, mynter og andre tilgjengelige kont...'
-slug: 1900-kontanter
-type: blog
-layout: pages/single
+description: '**Konto 1900 - Kontanter** er den primære kontoen for å registrere virksomhetens **kontantbeholdning** som omfatter sedler, mynter og andre tilgjengelige kont...'
 ---
 
 **Konto 1900 - Kontanter** er den primære kontoen for å registrere virksomhetens **kontantbeholdning** som omfatter sedler, mynter og andre tilgjengelige kontantmidler. Kontanter er en del av [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler?"), men føres ofte som **omløpsmidler** i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?").

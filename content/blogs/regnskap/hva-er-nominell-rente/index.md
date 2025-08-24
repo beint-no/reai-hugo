@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er nominell rente?"
 seoTitle: "Hva er nominell rente?"
-meta_description: '**Nominell rente** er en spesifikk type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som angir den oppgitte årsrenten uten...'
-slug: hva-er-nominell-rente
-type: blog
-layout: pages/single
+description: '**Nominell rente** er en spesifikk type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som angir den oppgitte årsrenten uten...'
 ---
 
 **Nominell rente** er en spesifikk type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som angir den oppgitte årsrenten uten hensyn til rentetilskrivninger (rente på rente), og brukes ofte i pristilbud og sammenligninger av lån og sparing i regnskap.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Næringsinntekt"
 seoTitle: "Næringsinntekt"
-meta_description: '**Næringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig næ...'
-slug: naeringsinntekt
-type: blog
-layout: pages/single
+description: '**Næringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig næ...'
 ---
 
 **Næringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig næringsdrivende](/blogs/regnskap/selvstendig-naeringsdrivende "Selvstendig næringsdrivende “ Guide til selvstendig næringsvirksomhet i Norge") utgjør **næringsinntekt** det grunnleggende skattegrunnlaget som rapporteres i næringsoppgaven (RF-1030).

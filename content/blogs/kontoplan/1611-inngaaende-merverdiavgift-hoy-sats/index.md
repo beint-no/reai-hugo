@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1611 - Inngående merverdiavgift høy sats"
 seoTitle: "1611-inngaaende-merverdiavgift-hoy-sats"
-meta_description: '**Konto 1611 - Inngående merverdiavgift høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift med høy sa...'
-slug: 1611-inngaaende-merverdiavgift-hoy-sats
-type: blog
-layout: pages/single
+description: '**Konto 1611 - Inngående merverdiavgift høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift med høy sa...'
 ---
 
 **Konto 1611 - Inngående merverdiavgift høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift med høy sats (25 %)** som et fradrag i regnskapet for kjøp av varer og tjenester med standard MVA-sats.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 5180 - Feriepenger beregnet"
 seoTitle: "5180-feriepenger-beregnet"
-meta_description: '**Konto 5180 - Feriepenger beregnet** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **beregnede feriepenger** som en del av...'
-slug: 5180-feriepenger-beregnet
-type: blog
-layout: pages/single
+description: '**Konto 5180 - Feriepenger beregnet** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **beregnede feriepenger** som en del av...'
 ---
 
 **Konto 5180 - Feriepenger beregnet** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **beregnede feriepenger** som en del av **lønnsrelaterte kostnader**.

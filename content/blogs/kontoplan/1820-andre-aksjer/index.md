@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 1820 - Andre aksjer"
 seoTitle: "1820-andre-aksjer"
-meta_description: '**Konto 1820 - Andre aksjer** er en konto i Norsk Standard Kontoplan som brukes for å registrere **andre aksjer** og eierandeler som ikke er notert på reguler...'
-slug: 1820-andre-aksjer
-type: blog
-layout: pages/single
+description: '**Konto 1820 - Andre aksjer** er en konto i Norsk Standard Kontoplan som brukes for å registrere **andre aksjer** og eierandeler som ikke er notert på reguler...'
 ---
 
 **Konto 1820 - Andre aksjer** er en konto i Norsk Standard Kontoplan som brukes for å registrere **andre aksjer** og eierandeler som ikke er notert på regulerte markeder, og som normalt måles til anskaffelseskost i balansen.

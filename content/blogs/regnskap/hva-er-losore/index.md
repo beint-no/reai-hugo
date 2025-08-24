@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Løsøre?"
 seoTitle: "Hva er Løsøre?"
-meta_description: '**Løsøre** omfatter alle **bevegelige eiendeler** som ikke regnes som fast eiendom i regnskap og juridisk sammenheng. Løsøre er en viktig underkategori av [...'
-slug: hva-er-losore
-type: blog
-layout: pages/single
+description: '**Løsøre** omfatter alle **bevegelige eiendeler** som ikke regnes som fast eiendom i regnskap og juridisk sammenheng. Løsøre er en viktig underkategori av [...'
 ---
 
 **Løsøre** omfatter alle **bevegelige eiendeler** som ikke regnes som fast eiendom i regnskap og juridisk sammenheng. Løsøre er en viktig underkategori av [eiendel](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier") og [aktiva](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap"), og omfatter for eksempel maskiner, inventar, kjøretøy og varelager.

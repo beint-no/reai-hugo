@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2980 - Avsetninger og forpliktelser"
 seoTitle: "2980-avsetninger-og-forpliktelser"
-meta_description: '**Konto 2980 - Avsetninger og forpliktelser** er en konto i Norsk Standard Kontoplan som brukes til å oppsummere **avsetninger og forpliktelser**, inkludert ul...'
-slug: 2980-avsetninger-og-forpliktelser
-type: blog
-layout: pages/single
+description: '**Konto 2980 - Avsetninger og forpliktelser** er en konto i Norsk Standard Kontoplan som brukes til å oppsummere **avsetninger og forpliktelser**, inkludert ul...'
 ---
 
 **Konto 2980 - Avsetninger og forpliktelser** er en konto i Norsk Standard Kontoplan som brukes til å oppsummere **avsetninger og forpliktelser**, inkludert ulike typer avsetninger for fremtidige kostnader og uspesifiserte forpliktelser. Kontoen gir en oversikt over generelle forpliktelser som ikke har en mer spesifikk konto i kontoplanen.

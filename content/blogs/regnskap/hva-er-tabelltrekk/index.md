@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Tabelltrekk?"
 seoTitle: "Hva er Tabelltrekk?"
-meta_description: '**Tabelltrekk** er et standardisert system for beregning av forskuddstrekk og andre skattemessige trekk basert på forhåndsbestemte tabeller. Dette systemet fo...'
-slug: hva-er-tabelltrekk
-type: blog
-layout: pages/single
+description: '**Tabelltrekk** er et standardisert system for beregning av forskuddstrekk og andre skattemessige trekk basert på forhåndsbestemte tabeller. Dette systemet fo...'
 ---
 
 **Tabelltrekk** er et standardisert system for beregning av forskuddstrekk og andre skattemessige trekk basert på forhåndsbestemte tabeller. Dette systemet forenkler lønnskjøring og sikrer korrekt skattetrekk for både arbeidsgivere og arbeidstakere. Tabelltrekk er fundamentalt for [lønnsadministrasjon](/blogs/regnskap/hva-er-loenn "Hva er Lønn? Beregning og Regnskapsføring av Lønnskostnader") og har direkte påvirkning på [skattetrekkskontoen](/blogs/regnskap/hva-er-skattetrekkskonto "Hva er Skattetrekkskonto? Komplett Guide til Administrasjon og Regnskapsføring") og [skatteregler](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging").

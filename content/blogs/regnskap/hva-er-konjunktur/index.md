@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er konjunktur?"
 seoTitle: "Hva er konjunktur?"
-meta_description: '**Konjunktur** refererer til de periodiske svingningene i økonomisk aktivitet som karakteriserer en markedsøkonomi. Disse **konjunktursyklusene** påvirker al...'
-slug: hva-er-konjunktur
-type: blog
-layout: pages/single
+description: '**Konjunktur** refererer til de periodiske svingningene i økonomisk aktivitet som karakteriserer en markedsøkonomi. Disse **konjunktursyklusene** påvirker al...'
 ---
 
 **Konjunktur** refererer til de periodiske svingningene i økonomisk aktivitet som karakteriserer en markedsøkonomi. Disse **konjunktursyklusene** påvirker alle aspekter av næringslivet, inkludert [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring"), [budsjettplanlegging](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging og Økonomisk Styring") og [finansiell rapportering](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? Komplett Guide til Finansiell Rapportering").

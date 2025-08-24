@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er omsetning?"
 seoTitle: "Hva er omsetning?"
-meta_description: '**Omsetning** er den totale verdien av alle varer og tjenester som et selskap selger i løpet av en bestemt periode, målt til salgspris inkludert merverdiavgif...'
-slug: hva-er-omsetning
-type: blog
-layout: pages/single
+description: '**Omsetning** er den totale verdien av alle varer og tjenester som et selskap selger i løpet av en bestemt periode, målt til salgspris inkludert merverdiavgif...'
 ---
 
 **Omsetning** er den totale verdien av alle varer og tjenester som et selskap selger i løpet av en bestemt periode, målt til salgspris inkludert merverdiavgift. Omsetning er et grunnleggende begrep i regnskap og skatt, og skiller seg fra [inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og Regnskapsføring") ved at den inkluderer MVA og måles til bruttoverdi før fradrag for kostnader.

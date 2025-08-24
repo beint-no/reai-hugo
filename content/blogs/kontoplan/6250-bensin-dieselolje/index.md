@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 6250 - Bensin, dieselolje"
 seoTitle: "6250-bensin-dieselolje"
-meta_description: '**Konto 6250 - Bensin, dieselolje** er en konto i Norsk Standard Kontoplan som brukes til å registrere **bensin-** og **dieseloljekostnader** i virksomhetens d...'
-slug: 6250-bensin-dieselolje
-type: blog
-layout: pages/single
+description: '**Konto 6250 - Bensin, dieselolje** er en konto i Norsk Standard Kontoplan som brukes til å registrere **bensin-** og **dieseloljekostnader** i virksomhetens d...'
 ---
 
 **Konto 6250 - Bensin, dieselolje** er en konto i Norsk Standard Kontoplan som brukes til å registrere **bensin-** og **dieseloljekostnader** i virksomhetens drift.

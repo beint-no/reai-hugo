@@ -1,10 +1,7 @@
 ﻿---
 title: "Speditør"
 seoTitle: "Speditør"
-meta_description: '**Speditør** (også kalt speditørfirma eller fraktmegler) er en spesialist som planlegger, koordinerer og administrerer transport av varer på vegne av avsend...'
-slug: speditor
-type: blog
-layout: pages/single
+description: '**Speditør** (også kalt speditørfirma eller fraktmegler) er en spesialist som planlegger, koordinerer og administrerer transport av varer på vegne av avsend...'
 ---
 
 **Speditør** (også kalt speditørfirma eller fraktmegler) er en spesialist som planlegger, koordinerer og administrerer transport av varer på vegne av avsendere. En speditør fungerer som mellomledd mellom kunder, transportører og offentlige myndigheter for å sikre effektiv, kostnadseffektiv og lovlig godshåndtering.

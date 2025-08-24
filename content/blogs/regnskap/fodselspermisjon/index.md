@@ -1,10 +1,7 @@
 ﻿---
 title: "Fødselspermisjon: Guide til foreldrepenger og regnskapsføring i Norge"
 seoTitle: "Fødselspermisjon: Guide til foreldrepenger og regnskapsføring i Norge"
-meta_description: '**Fødselspermisjon** er en periode i forbindelse med fødsel eller adopsjon der foreldre har rett til permisjon med **foreldrepenger** fra NAV for å ivareta o...'
-slug: fodselspermisjon
-type: blog
-layout: pages/single
+description: '**Fødselspermisjon** er en periode i forbindelse med fødsel eller adopsjon der foreldre har rett til permisjon med **foreldrepenger** fra NAV for å ivareta o...'
 ---
 
 **Fødselspermisjon** er en periode i forbindelse med fødsel eller adopsjon der foreldre har rett til permisjon med **foreldrepenger** fra NAV for å ivareta omsorgen for sitt barn. Ordningen er en del av [Folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Struktur og Ytelser") og gir økonomisk trygghet i permisjonsperioden.

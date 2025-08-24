@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Derivater?"
 seoTitle: "Hva er Derivater?"
-meta_description: '**Derivater** er finansielle kontrakter hvis verdi er avledet fra underliggende eiendeler, indekser eller andre referanseverdier. Derivater brukes til risikosty...'
-slug: derivater
-type: blog
-layout: pages/single
+description: '**Derivater** er finansielle kontrakter hvis verdi er avledet fra underliggende eiendeler, indekser eller andre referanseverdier. Derivater brukes til risikosty...'
 ---
 
 **Derivater** er finansielle kontrakter hvis verdi er avledet fra underliggende eiendeler, indekser eller andre referanseverdier. Derivater brukes til risikostyring, spekulasjon og effektiv kapitalallokering i norsk regnskaps- og finanspraksis.

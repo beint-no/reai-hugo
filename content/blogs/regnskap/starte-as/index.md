@@ -1,10 +1,7 @@
 ﻿---
 title: "Starte AS"
 seoTitle: "Starte AS"
-meta_description: 'Se vår [Hva er et Aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") for en oversikt over **aks...'
-slug: starte-as
-type: blog
-layout: pages/single
+description: 'Se vår [Hva er et Aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") for en oversikt over **aks...'
 ---
 
 Se vår [Hva er et Aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") for en oversikt over **aksjeselskapets** egenskaper før du starter prosessen.

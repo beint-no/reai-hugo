@@ -1,10 +1,7 @@
 ﻿---
 title: "Samordnet registermelding"
 seoTitle: "Samordnet registermelding"
-meta_description: 'Samordnet registermelding er en **enhetlig digital rapport** som samler alle krav til lønns- og arbeidsforholdrapportering for [arbeidsgivere](/blogs/regnskap/...'
-slug: samordnet-registermelding
-type: blog
-layout: pages/single
+description: 'Samordnet registermelding er en **enhetlig digital rapport** som samler alle krav til lønns- og arbeidsforholdrapportering for [arbeidsgivere](/blogs/regnskap/...'
 ---
 
 Samordnet registermelding er en **enhetlig digital rapport** som samler alle krav til lønns- og arbeidsforholdrapportering for [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") til én melding. Dette konseptet, også kjent som **A-melding** eller del av **[A-ordningen](/blogs/regnskap/hva-er-a-ordningen "Hva er A-ordningen?")**, forenkler rapporteringsprosessen og sikrer bedre datakvalitet mellom sentrale etater som Skatteetaten, NAV og SSB.

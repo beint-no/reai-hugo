@@ -1,10 +1,7 @@
 ﻿---
 title: "Styrehonorar i aksjeselskap"
 seoTitle: "Styrehonorar i aksjeselskap"
-meta_description: '![Styrehonorar](styrehonorar-image.svg)'
-slug: styrehonorar
-type: blog
-layout: pages/single
+description: '![Styrehonorar](styrehonorar-image.svg)'
 ---
 
 ![Styrehonorar](styrehonorar-image.svg)

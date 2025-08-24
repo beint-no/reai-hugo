@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Kapital?"
 seoTitle: "Hva er Kapital?"
-meta_description: '**Kapital** er de finansielle ressursene som er tilgjengelige for en bedrift eller organisasjon til å drive virksomhet, foreta investeringer og skape verdier. ...'
-slug: hva-er-kapital
-type: blog
-layout: pages/single
+description: '**Kapital** er de finansielle ressursene som er tilgjengelige for en bedrift eller organisasjon til å drive virksomhet, foreta investeringer og skape verdier. ...'
 ---
 
 **Kapital** er de finansielle ressursene som er tilgjengelige for en bedrift eller organisasjon til å drive virksomhet, foreta investeringer og skape verdier. Som et grunnleggende begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og økonomi, omfatter kapital alle former for finansiering som gjør det mulig for bedrifter å anskaffe [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendeler i Regnskapet") og drive forretningsvirksomhet.

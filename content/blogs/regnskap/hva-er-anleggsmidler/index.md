@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er anleggsmidler?"
 seoTitle: "Hva er anleggsmidler?"
-meta_description: '**Anleggsmidler** er **faste [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedrift pla...'
-slug: hva-er-anleggsmidler
-type: blog
-layout: pages/single
+description: '**Anleggsmidler** er **faste [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedrift pla...'
 ---
 
 **Anleggsmidler** er **faste [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedrift planlegger å beholde og bruke i mer enn ett år i sin løpende drift. Disse [eiendelene](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier") utgjør ryggraden i mange bedrifters operasjoner og representerer ofte den største delen av [totalkapitalen](/blogs/regnskap/totalkapital "Totalkapital “ Sum av egenkapital og gjeld i regnskapet"). Anleggsmidler skiller seg fra [omløpsmidler](/blogs/regnskap/hva-er-omlopsmiddel "Hva er Omløpsmidler? Komplett Guide til Kortsiktige Eiendeler i Regnskap") ved at de ikke er ment for salg eller konvertering til kontanter på kort sikt.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Produksjonslønn i Regnskap?"
 seoTitle: "Hva er Produksjonslønn i Regnskap?"
-meta_description: '**Produksjonslønn** er en lønnsform som kobler ansattes lønn direkte til **produksjonsmengde** eller **produksjonsverdi**. I motsetning til [fastlønn](/blog...'
-slug: hva-er-produksjonslonn
-type: blog
-layout: pages/single
+description: '**Produksjonslønn** er en lønnsform som kobler ansattes lønn direkte til **produksjonsmengde** eller **produksjonsverdi**. I motsetning til [fastlønn](/blog...'
 ---
 
 **Produksjonslønn** er en lønnsform som kobler ansattes lønn direkte til **produksjonsmengde** eller **produksjonsverdi**. I motsetning til [fastlønn](/blogs/regnskap/hva-er-fastlonn "Hva er Fastlønn i Regnskap?"), varierer produksjonslønn med hvor mye den ansatte produserer, noe som skaper et direkte insentiv for økt produktivitet. Denne lønnsformen er vanlig i produksjonsbedrifter, håndverksfag og servicetjenester hvor det er mulig å måle individuell eller gruppebasert produksjon.

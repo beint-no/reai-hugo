@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Betalingsevne i Regnskap?"
 seoTitle: "Hva er Betalingsevne i Regnskap?"
-meta_description: '**Betalingsevne** er bedriftens evne til å oppfylle sine **finansielle forpliktelser** når de forfaller. Dette er et kritisk aspekt av [arbeidskapital](/blogs...'
-slug: hva-er-betalingsevne
-type: blog
-layout: pages/single
+description: '**Betalingsevne** er bedriftens evne til å oppfylle sine **finansielle forpliktelser** når de forfaller. Dette er et kritisk aspekt av [arbeidskapital](/blogs...'
 ---
 
 **Betalingsevne** er bedriftens evne til å oppfylle sine **finansielle forpliktelser** når de forfaller. Dette er et kritisk aspekt av [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Drift")-styring og påvirker direkte bedriftens overlevelse og vekstmuligheter.

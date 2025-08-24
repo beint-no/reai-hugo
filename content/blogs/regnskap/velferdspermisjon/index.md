@@ -1,10 +1,7 @@
 ﻿---
 title: "Velferdspermisjon: Rettigheter, Regnskapsføring og Skattemessig Behandling"
 seoTitle: "Velferdspermisjon: Rettigheter, Regnskapsføring og Skattemessig Behandling"
-meta_description: '**Velferdspermisjon** gir ansatte rett til permisjon ved visse livshendelser eller behov utover ordinær **sykepenge**‘ og **foreldrepengelovgivning**. Dette ...'
-slug: velferdspermisjon
-type: blog
-layout: pages/single
+description: '**Velferdspermisjon** gir ansatte rett til permisjon ved visse livshendelser eller behov utover ordinær **sykepenge**‘ og **foreldrepengelovgivning**. Dette ...'
 ---
 
 **Velferdspermisjon** gir ansatte rett til permisjon ved visse livshendelser eller behov utover ordinær **sykepenge**‘ og **foreldrepengelovgivning**. Dette omfatter blant annet omsorg for nære familiemedlemmer, egen utdanning eller deltakelse i offentlige verv.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Utgift"
 seoTitle: "Utgift"
-meta_description: '**Utgift** er en **betaling** eller annen form for forbruk av økonomiske ressurser som medfører en reduksjon i virksomhetens likvide midler eller økning i gj...'
-slug: utgift
-type: blog
-layout: pages/single
+description: '**Utgift** er en **betaling** eller annen form for forbruk av økonomiske ressurser som medfører en reduksjon i virksomhetens likvide midler eller økning i gj...'
 ---
 
 **Utgift** er en **betaling** eller annen form for forbruk av økonomiske ressurser som medfører en reduksjon i virksomhetens likvide midler eller økning i gjeld. En utgift representerer tidspunktet for utbetalingen av en kostnad, og skiller seg dermed fra **kostnad**, som beskriver forbruket av økonomiske ressurser over perioder. For en dypere forståelse av kostnadsbegrepet, se [Hva er kostnader?](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader i Regnskap? Komplett Guide til Kostnadstyper og Regnskapsføring").

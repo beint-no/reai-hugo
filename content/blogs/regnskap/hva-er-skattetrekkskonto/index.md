@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Skattetrekkskonto?"
 seoTitle: "Hva er Skattetrekkskonto?"
-meta_description: '**Skattetrekkskonto** er en spesiell bankkonto som norske arbeidsgivere må opprette for å administrere trekk av forskuddsskatt fra lønn og andre ytelser til ...'
-slug: hva-er-skattetrekkskonto
-type: blog
-layout: pages/single
+description: '**Skattetrekkskonto** er en spesiell bankkonto som norske arbeidsgivere må opprette for å administrere trekk av forskuddsskatt fra lønn og andre ytelser til ...'
 ---
 
 **Skattetrekkskonto** er en spesiell bankkonto som norske arbeidsgivere må opprette for å administrere trekk av forskuddsskatt fra lønn og andre ytelser til ansatte. Kontoen fungerer som et mellomledd mellom arbeidsgiver og [Skatteetaten](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging"), og sikrer at alle skattetrekk blir korrekt innbetalt innen lovpålagte frister. Skattetrekkskontoens betydning for [regnskapet](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Grunnleggende Regnskapsprinsipper og Praksis") og [likviditetsplanleggingen](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Bedriftens Betalingsevne") gjør den til et sentralt element i bedriftens økonomiske drift.

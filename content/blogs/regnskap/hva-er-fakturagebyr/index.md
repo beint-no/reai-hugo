@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er fakturagebyr?"
 seoTitle: "Hva er fakturagebyr?"
-meta_description: 'Et **fakturagebyr** er et tilleggsgebyr som en leverandør kan kreve fra kunden for å dekke administrative kostnader knyttet til fakturering og betalingsbehand...'
-slug: hva-er-fakturagebyr
-type: blog
-layout: pages/single
+description: 'Et **fakturagebyr** er et tilleggsgebyr som en leverandør kan kreve fra kunden for å dekke administrative kostnader knyttet til fakturering og betalingsbehand...'
 ---
 
 Et **fakturagebyr** er et tilleggsgebyr som en leverandør kan kreve fra kunden for å dekke administrative kostnader knyttet til fakturering og betalingsbehandling. Dette gebyret er særlig vanlig når kunder velger tradisjonelle betalingsmetoder som papirfaktura fremfor elektroniske alternativer som [eFaktura](/blogs/regnskap/hva-er-efaktura "Hva er eFaktura? Komplett Guide til Elektronisk Fakturering i Norge") eller [AvtaleGiro](/blogs/regnskap/hva-er-avtalegiro "Hva er AvtaleGiro? Komplett Guide til Automatisk Betaling").

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Nullpunktsomsetning (Break-Even Omsetning)?"
 seoTitle: "Hva er Nullpunktsomsetning (Break-Even Omsetning)?"
-meta_description: '**Nullpunktsomsetning** er den kritiske [omsetningen](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt") (sa...'
-slug: hva-er-nullpunktsomsetning
-type: blog
-layout: pages/single
+description: '**Nullpunktsomsetning** er den kritiske [omsetningen](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt") (sa...'
 ---
 
 **Nullpunktsomsetning** er den kritiske [omsetningen](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt") (salgsvolum i kroner) som en bedrift må oppnå for å dekke alle sine kostnader og gå i balanse. Dette er et fundamentalt konsept innen [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring og Bokføring") og **økonomisk planlegging** som hjelper bedrifter med å forstå hvor mye de må selge for å unngå tap og begynne å generere overskudd.

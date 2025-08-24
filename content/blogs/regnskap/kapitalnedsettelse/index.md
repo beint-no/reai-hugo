@@ -1,10 +1,7 @@
 ﻿---
 title: "Kapitalnedsettelse: Metoder og Regnskapsføring"
 seoTitle: "Kapitalnedsettelse: Metoder og Regnskapsføring"
-meta_description: '**Kapitalnedsettelse** er prosessen hvor et aksjeselskap (AS) reduserer sin egenkapital ved tilbakeføring av kapital til aksjonærene eller ved å dekke unders...'
-slug: kapitalnedsettelse
-type: blog
-layout: pages/single
+description: '**Kapitalnedsettelse** er prosessen hvor et aksjeselskap (AS) reduserer sin egenkapital ved tilbakeføring av kapital til aksjonærene eller ved å dekke unders...'
 ---
 
 **Kapitalnedsettelse** er prosessen hvor et aksjeselskap (AS) reduserer sin egenkapital ved tilbakeføring av kapital til aksjonærene eller ved å dekke underskudd.

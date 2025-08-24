@@ -1,10 +1,7 @@
 ﻿---
 title: "Organisasjonskultur"
 seoTitle: "Organisasjonskultur"
-meta_description: '**Organisasjonskultur** omfatter de delte **verdiene**, **normene** og **holdningene** som former atferd og beslutninger i en organisasjon. En sterk og positiv ...'
-slug: organisasjonskultur
-type: blog
-layout: pages/single
+description: '**Organisasjonskultur** omfatter de delte **verdiene**, **normene** og **holdningene** som former atferd og beslutninger i en organisasjon. En sterk og positiv ...'
 ---
 
 **Organisasjonskultur** omfatter de delte **verdiene**, **normene** og **holdningene** som former atferd og beslutninger i en organisasjon. En sterk og positiv organisasjonskultur kan fremme god **internkontroll**, effektivitet og etterlevelse av lover og regler, mens en svak kultur kan øke risikoen for feil og misligheter.

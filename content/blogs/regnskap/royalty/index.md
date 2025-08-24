@@ -1,10 +1,7 @@
 ﻿---
 title: "Royalty"
 seoTitle: "Royalty"
-meta_description: 'Royalty er et [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensasjon") som betales for bruk av **im...'
-slug: royalty
-type: blog
-layout: pages/single
+description: 'Royalty er et [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensasjon") som betales for bruk av **im...'
 ---
 
 Royalty er et [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensasjon") som betales for bruk av **immaterielle rettigheter** som patenter, varemerker, opphavsrett og teknologi. Royaltyavtaler regulerer ofte nivå, beregningsgrunnlag og betalingsfrekvens. I norsk regnskap behandles royaltyinntekter og -kostnader iht. gjeldende prinsipper for **inntektsføring** og **kostnadsføring**.

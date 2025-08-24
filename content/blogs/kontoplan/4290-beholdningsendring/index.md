@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 4290 - Beholdningsendring"
 seoTitle: "4290-beholdningsendring"
-meta_description: '**Konto 4290 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i beholdningen av ferdige varer** i resultat...'
-slug: 4290-beholdningsendring
-type: blog
-layout: pages/single
+description: '**Konto 4290 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i beholdningen av ferdige varer** i resultat...'
 ---
 
 **Konto 4290 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i beholdningen av ferdige varer** i resultatregnskapet.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er inntekter?"
 seoTitle: "Hva er inntekter?"
-meta_description: '**Inntekter** er alle økonomiske fordeler som tilflyter en virksomhet i løpet av en regnskapsperiode, og som øker [egenkapitalen](/blogs/regnskap/hva-er-egen...'
-slug: hva-er-inntekter
-type: blog
-layout: pages/single
+description: '**Inntekter** er alle økonomiske fordeler som tilflyter en virksomhet i løpet av en regnskapsperiode, og som øker [egenkapitalen](/blogs/regnskap/hva-er-egen...'
 ---
 
 **Inntekter** er alle økonomiske fordeler som tilflyter en virksomhet i løpet av en regnskapsperiode, og som øker [egenkapitalen](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") uten at det skyldes tilskudd fra eierne. Inntekter utgjør grunnlaget for virksomhetens lønnsomhet og er avgjørende for å vurdere selskapets økonomiske prestasjoner og fremtidige potensial. Det er viktig å skille mellom inntekter og [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt"), hvor omsetning inkluderer merverdiavgift mens inntekter måles eksklusive MVA.

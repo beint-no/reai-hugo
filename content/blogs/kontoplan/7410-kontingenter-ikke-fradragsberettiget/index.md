@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 7410 - Kontingenter, ikke fradragsberettiget"
 seoTitle: "7410-kontingenter-ikke-fradragsberettiget"
-meta_description: '**Konto 7410 - Kontingenter, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kontingenter som ikk...'
-slug: 7410-kontingenter-ikke-fradragsberettiget
-type: blog
-layout: pages/single
+description: '**Konto 7410 - Kontingenter, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kontingenter som ikk...'
 ---
 
 **Konto 7410 - Kontingenter, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **kontingenter som ikke er fradragsberettiget**.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Ekstraordinært Utbytte"
 seoTitle: "Ekstraordinært Utbytte"
-meta_description: '**Ekstraordinært utbytte** er utdeling av overskudd fra et aksjeselskap som går utover det **ordinære utbyttet**, og krever særskilt vedtak i generalforsaml...'
-slug: ekstraordinart-utbytte
-type: blog
-layout: pages/single
+description: '**Ekstraordinært utbytte** er utdeling av overskudd fra et aksjeselskap som går utover det **ordinære utbyttet**, og krever særskilt vedtak i generalforsaml...'
 ---
 
 **Ekstraordinært utbytte** er utdeling av overskudd fra et aksjeselskap som går utover det **ordinære utbyttet**, og krever særskilt vedtak i generalforsamling og styre. Dette er en viktig mekanisme for å returnere overskudd i ekstraordinære situasjoner, for eksempel ved salg av eiendeler eller uventet høy overskudd.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er inkasso?"
 seoTitle: "Hva er inkasso?"
-meta_description: '**Inkasso** er prosessen med å kreve inn forfalte [fordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? En Komplett Guide til Kundefordringe...'
-slug: hva-er-inkasso
-type: blog
-layout: pages/single
+description: '**Inkasso** er prosessen med å kreve inn forfalte [fordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? En Komplett Guide til Kundefordringe...'
 ---
 
 **Inkasso** er prosessen med å kreve inn forfalte [fordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? En Komplett Guide til Kundefordringer i Regnskap") og ubetalt gjeld på vegne av en kreditor. Dette er en viktig del av [fordringshåndtering](/blogs/regnskap/hva-er-ansattreskontro "Hva er Ansattreskontro? Komplett Guide til Kundeoppfølging og Fordringsstyring") som sikrer at bedrifter får betalt for sine varer og tjenester. Inkassovirksomhet er strengt regulert i Norge og må følge spesifikke juridiske rammer for å beskytte både kreditorer og skyldnere. Hvis en fordring fortsatt ikke blir betalt etter inkasso, kan det føre til en [betalingsanmerkning](/blogs/regnskap/betalingsanmerkning "Betalingsanmerkning i Norsk Regnskap") som gir en offentlig merknad om betalingsmislighold.

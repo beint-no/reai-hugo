@@ -1,10 +1,7 @@
 ﻿---
 title: "Unoterte aksjer – Veileder til investering og regnskapsføring"
 seoTitle: "Unoterte aksjer “ Veileder til investering og regnskapsføring"
-meta_description: '**Unoterte aksjer** er aksjer i selskaper som ikke er notert på børs eller annen regulert markedsplass. Dette innebærer begrenset likviditet, lavere grad av ...'
-slug: unoterte-aksjer
-type: blog
-layout: pages/single
+description: '**Unoterte aksjer** er aksjer i selskaper som ikke er notert på børs eller annen regulert markedsplass. Dette innebærer begrenset likviditet, lavere grad av ...'
 ---
 
 **Unoterte aksjer** er aksjer i selskaper som ikke er notert på børs eller annen regulert markedsplass. Dette innebærer begrenset likviditet, lavere grad av offentlig informasjon og egne regler for verdsettelse og regnskapsføring.

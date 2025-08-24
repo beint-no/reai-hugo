@@ -1,10 +1,7 @@
 ﻿---
 title: "Organisasjonsform"
 seoTitle: "Organisasjonsform"
-meta_description: '**Organisasjonsform** er den juridiske og økonomiske strukturen som definerer hvordan en virksomhet er organisert, eiet og drevet. Valg av organisasjonsform er...'
-slug: organisasjonsform
-type: blog
-layout: pages/single
+description: '**Organisasjonsform** er den juridiske og økonomiske strukturen som definerer hvordan en virksomhet er organisert, eiet og drevet. Valg av organisasjonsform er...'
 ---
 
 **Organisasjonsform** er den juridiske og økonomiske strukturen som definerer hvordan en virksomhet er organisert, eiet og drevet. Valg av organisasjonsform er en av de viktigste beslutningene en grÃ¼nder må ta, da det påvirker alt fra personlig ansvar og beskatning til kapitalstruktur og regnskapskrav.

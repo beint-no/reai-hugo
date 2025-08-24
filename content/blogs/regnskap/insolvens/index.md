@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Insolvens?"
 seoTitle: "Hva er Insolvens?"
-meta_description: '**Insolvens** oppstår når en virksomhet ikke er i stand til å oppfylle sine forpliktelser ved forfall, noe som kan lede til betalingsproblemer, konkurs eller...'
-slug: insolvens
-type: blog
-layout: pages/single
+description: '**Insolvens** oppstår når en virksomhet ikke er i stand til å oppfylle sine forpliktelser ved forfall, noe som kan lede til betalingsproblemer, konkurs eller...'
 ---
 
 **Insolvens** oppstår når en virksomhet ikke er i stand til å oppfylle sine forpliktelser ved forfall, noe som kan lede til betalingsproblemer, konkurs eller rekonstruksjon. En klar forståelse av **insolvens** er viktig for både regnskapsføring, kreditorbeskyttelse og strategisk risikohåndtering.

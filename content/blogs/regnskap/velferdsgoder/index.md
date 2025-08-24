@@ -1,10 +1,7 @@
 ﻿---
 title: "Velferdsgoder"
 seoTitle: "Velferdsgoder"
-meta_description: '**Velferdsgoder** er ytelser eller fordeler som arbeidstakere mottar fra arbeidsgiver utover vanlig lønn. Slike godeordninger kan ha **betydelig verdi** for an...'
-slug: velferdsgoder
-type: blog
-layout: pages/single
+description: '**Velferdsgoder** er ytelser eller fordeler som arbeidstakere mottar fra arbeidsgiver utover vanlig lønn. Slike godeordninger kan ha **betydelig verdi** for an...'
 ---
 
 **Velferdsgoder** er ytelser eller fordeler som arbeidstakere mottar fra arbeidsgiver utover vanlig lønn. Slike godeordninger kan ha **betydelig verdi** for ansatte og stiller krav til riktig skattemessig behandling og regnskapsføring. For en dypere forståelse av relaterte konsepter, se også [Naturalytelser](/blogs/regnskap/naturalytelser "Naturalytelser i Norsk Regnskap: Guide til Naturlige Ytelser og Beskatning") og [Velferdstiltak](/blogs/regnskap/hva-er-velferdstiltak "Velferdstiltak - Komplett Guide til Ansattfordeler, Regnskapsføring og Skattebehandling").

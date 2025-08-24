@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er et Foretak?"
 seoTitle: "Hva er et Foretak?"
-meta_description: 'Et **foretak** er en organisert [virksomhet](/blogs/regnskap/hva-er-virksomhet "Hva er en virksomhet? Definisjon og Regnskapsmessige Forhold") som driver økono...'
-slug: hva-er-foretak
-type: blog
-layout: pages/single
+description: 'Et **foretak** er en organisert [virksomhet](/blogs/regnskap/hva-er-virksomhet "Hva er en virksomhet? Definisjon og Regnskapsmessige Forhold") som driver økono...'
 ---
 
 Et **foretak** er en organisert [virksomhet](/blogs/regnskap/hva-er-virksomhet "Hva er en virksomhet? Definisjon og Regnskapsmessige Forhold") som driver økonomisk aktivitet med sikte på å skape verdier. I Norge finnes det flere ulike foretaksformer, hver med sine særegne juridiske, økonomiske og regnskapsmessige karakteristikker.

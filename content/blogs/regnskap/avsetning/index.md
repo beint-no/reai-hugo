@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Avsetning i Regnskap?"
 seoTitle: "Hva er Avsetning i Regnskap?"
-meta_description: '**Avsetning** er en fundamental del av [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som sikrer at virksomheten tar h...'
-slug: avsetning
-type: blog
-layout: pages/single
+description: '**Avsetning** er en fundamental del av [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som sikrer at virksomheten tar h...'
 ---
 
 **Avsetning** er en fundamental del av [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som sikrer at virksomheten tar høyde for fremtidige **forpliktelser** og usikre kostnader. Avsetninger representerer en kritisk komponent i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? En Guide til Balanseregnskap") og påvirker både resultatregnskapet og virksomhetens finansielle stilling. Som en sentral del av [periodiseringsprinsippet](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Prinsipper og Praktiske Eksempler"), sikrer avsetninger at kostnader og forpliktelser regnskapsføres i riktig periode.

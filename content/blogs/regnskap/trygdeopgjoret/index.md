@@ -1,10 +1,7 @@
 ﻿---
 title: "Trygdeopgjøret"
 seoTitle: "Trygdeopgjøret"
-meta_description: '**Trygdeopgjøret** er det **årlige oppgjøret** av betalte trygdeavgifter og beregnede ytelser i **[folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er ...'
-slug: trygdeopgjoret
-type: blog
-layout: pages/single
+description: '**Trygdeopgjøret** er det **årlige oppgjøret** av betalte trygdeavgifter og beregnede ytelser i **[folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er ...'
 ---
 
 **Trygdeopgjøret** er det **årlige oppgjøret** av betalte trygdeavgifter og beregnede ytelser i **[folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem")**. Oppgjøret sikrer at både arbeidstakere, arbeidsgivere og myndigheter får oversikt over innbetalt trygdeavgift, opptjente rettigheter og eventuelle korrigeringer.

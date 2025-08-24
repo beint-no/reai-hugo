@@ -1,10 +1,7 @@
 ﻿---
 title: "Arbeidsgiver"
 seoTitle: "Arbeidsgiver"
-meta_description: 'Arbeidsgiver er den juridiske parten i et arbeidsforhold som inngår en avtale om å utføre arbeid mot vederlag. En **arbeidsgiver** har en rekke *juridiske fo...'
-slug: arbeidsgiver
-type: blog
-layout: pages/single
+description: 'Arbeidsgiver er den juridiske parten i et arbeidsforhold som inngår en avtale om å utføre arbeid mot vederlag. En **arbeidsgiver** har en rekke *juridiske fo...'
 ---
 
 Arbeidsgiver er den juridiske parten i et arbeidsforhold som inngår en avtale om å utføre arbeid mot vederlag. En **arbeidsgiver** har en rekke *juridiske forpliktelser*, økonomiske ansvar og må følge spesifikke krav til regnskapsføring. Denne artikkelen gir en helhetlig oversikt over hvem en arbeidsgiver er, hvilke plikter som følger med rollen, og hvordan det håndteres i regnskapet.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en regnskapsfører?"
 seoTitle: "Hva er en regnskapsfører?"
-meta_description: '![Hva er en regnskapsfører?](hva-er-en-regnskapsforer-image.svg)'
-slug: hva-er-en-regnskapsforer
-type: blog
-layout: pages/single
+description: '![Hva er en regnskapsfører?](hva-er-en-regnskapsforer-image.svg)'
 ---
 
 ![Hva er en regnskapsfører?](hva-er-en-regnskapsforer-image.svg)

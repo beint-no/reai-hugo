@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3910 - Utgående porto, avgiftspliktig"
 seoTitle: "3910-utgaende-porto-avgiftspliktig"
-meta_description: '**Konto 3910 - Utgående porto, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **portogebyrer** som faktureres kunder med ...'
-slug: 3910-utgaende-porto-avgiftspliktig
-type: blog
-layout: pages/single
+description: '**Konto 3910 - Utgående porto, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **portogebyrer** som faktureres kunder med ...'
 ---
 
 **Konto 3910 - Utgående porto, avgiftspliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **portogebyrer** som faktureres kunder med merverdiavgift.

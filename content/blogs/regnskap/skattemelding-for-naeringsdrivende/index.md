@@ -1,10 +1,7 @@
 ﻿---
 title: "Skattemelding for næringsdrivende"
 seoTitle: "Skattemelding for næringsdrivende"
-meta_description: '*Skattemelding for næringsdrivende* er den delen av din [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlever...'
-slug: skattemelding-for-naeringsdrivende
-type: blog
-layout: pages/single
+description: '*Skattemelding for næringsdrivende* er den delen av din [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlever...'
 ---
 
 *Skattemelding for næringsdrivende* er den delen av din [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering") som omhandler **næringsinntekter** og **fradrag** for selvstendig næringsdrivende og registrerte foretak. Denne guiden hjelper deg med å forstå leveringskrav, frister og digital innlevering i [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Digital kommunikasjonsplattform for offentlige etater").

@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3700 - Provisjonsinntekt"
 seoTitle: "3700-provisjonsinntekt"
-meta_description: '**Konto 3700 - Provisjonsinntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **provisjonsinntekter**.'
-slug: 3700-provisjonsinntekt
-type: blog
-layout: pages/single
+description: '**Konto 3700 - Provisjonsinntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **provisjonsinntekter**.'
 ---
 
 **Konto 3700 - Provisjonsinntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **provisjonsinntekter**.

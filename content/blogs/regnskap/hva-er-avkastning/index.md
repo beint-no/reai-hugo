@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Avkastning?"
 seoTitle: "Hva er Avkastning?"
-meta_description: '**Avkastning** er gevinsten eller tapet du får på en [investering](/blogs/regnskap/hva-er-investere "Hva er å Investere? Komplett Guide til Investeringer i R...'
-slug: hva-er-avkastning
-type: blog
-layout: pages/single
+description: '**Avkastning** er gevinsten eller tapet du får på en [investering](/blogs/regnskap/hva-er-investere "Hva er å Investere? Komplett Guide til Investeringer i R...'
 ---
 
 **Avkastning** er gevinsten eller tapet du får på en [investering](/blogs/regnskap/hva-er-investere "Hva er å Investere? Komplett Guide til Investeringer i Regnskap"), uttrykt som en prosentandel av det opprinnelige investerte beløpet. Dette er et grunnleggende konsept innen økonomi og finans som påvirker alle typer investeringsbeslutninger, fra [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring") til eiendom og [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen").

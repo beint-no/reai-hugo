@@ -1,10 +1,7 @@
 ﻿---
 title: "Selvangivelse"
 seoTitle: "Selvangivelse"
-meta_description: '**Selvangivelse** er den offisielle skattemeldingen som bedrifter og privatpersoner sender til Skatteetaten for å rapportere inntekter, fradrag og beregne skyl...'
-slug: selvangivelse
-type: blog
-layout: pages/single
+description: '**Selvangivelse** er den offisielle skattemeldingen som bedrifter og privatpersoner sender til Skatteetaten for å rapportere inntekter, fradrag og beregne skyl...'
 ---
 
 **Selvangivelse** er den offisielle skattemeldingen som bedrifter og privatpersoner sender til Skatteetaten for å rapportere inntekter, fradrag og beregne skyldig **skatt**. I Norge benyttes begrepet [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering") som synonym, men termen **selvangivelse** er fortsatt mye brukt.

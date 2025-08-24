@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Lønn i Regnskap?"
 seoTitle: "Hva er Lønn i Regnskap?"
-meta_description: '**Lønn** er kompensasjon som utbetales til ansatte for utført arbeid og representerer en av de største kostnadene for de fleste bedrifter. I regnskapssammenh...'
-slug: hva-er-lonn
-type: blog
-layout: pages/single
+description: '**Lønn** er kompensasjon som utbetales til ansatte for utført arbeid og representerer en av de største kostnadene for de fleste bedrifter. I regnskapssammenh...'
 ---
 
 **Lønn** er kompensasjon som utbetales til ansatte for utført arbeid og representerer en av de største kostnadene for de fleste bedrifter. I regnskapssammenheng omfatter lønn ikke bare grunnlønnen, men også alle tillegg, naturalytelser og arbeidsgiveravgift. Forståelse av ulike **lønnsformer** og deres regnskapsmessige behandling er avgjørende for korrekt [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring") og [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging").

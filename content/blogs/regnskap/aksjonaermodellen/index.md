@@ -1,10 +1,7 @@
 ﻿---
 title: "Aksjonærmodellen"
 seoTitle: "Aksjonærmodellen"
-meta_description: '**Aksjonærmodellen** er den skattemessige modellen som regulerer **beskatning av utbytte og gevinst** for [aksjonærer](/blogs/regnskap/hva-er-en-aksjonaer Hv...'
-slug: aksjonaermodellen
-type: blog
-layout: pages/single
+description: '**Aksjonærmodellen** er den skattemessige modellen som regulerer **beskatning av utbytte og gevinst** for [aksjonærer](/blogs/regnskap/hva-er-en-aksjonaer Hv...'
 ---
 
 **Aksjonærmodellen** er den skattemessige modellen som regulerer **beskatning av utbytte og gevinst** for [aksjonærer](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en Aksjonær? Rettigheter og Plikter for Aksjeeiere") i norske [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til AS som Selskapsform") (AS). Modellen kombinerer prinsipper fra **fritaksmetoden** med **skjermingsfradrag** for å sikre nøytralitet mellom ulike investeringsformer og unngå dobbelbeskatning.

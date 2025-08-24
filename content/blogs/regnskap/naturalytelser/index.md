@@ -1,10 +1,7 @@
 ﻿---
 title: "Naturalytelser"
 seoTitle: "Naturalytelser"
-meta_description: 'Naturalytelser er ytelser som arbeidstaker mottar fra arbeidsgiver i form av varer eller tjenester i stedet for kontantlønn. Disse **goder** kan ha betydelig Ã...'
-slug: naturalytelser
-type: blog
-layout: pages/single
+description: 'Naturalytelser er ytelser som arbeidstaker mottar fra arbeidsgiver i form av varer eller tjenester i stedet for kontantlønn. Disse **goder** kan ha betydelig Ã...'
 ---
 
 Naturalytelser er ytelser som arbeidstaker mottar fra arbeidsgiver i form av varer eller tjenester i stedet for kontantlønn. Disse **goder** kan ha betydelig økonomisk verdi og omfattes ofte av [fordelsbeskatning](/blogs/regnskap/fordelsbeskatning "Fordelsbeskatning - Beskatning av Naturalytelser og Personalfordeler").

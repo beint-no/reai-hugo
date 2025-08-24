@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er aktiva?"
 seoTitle: "Hva er aktiva?"
-meta_description: '**Aktiva**, også kjent som **[eiendeler](/blogs/regnskap/hva-er-eiendeler "Hva er Eiendeler? Komplett Oversikt over Eiendelstyper")**, er alle økonomiske ress...'
-slug: hva-er-aktiva
-type: blog
-layout: pages/single
+description: '**Aktiva**, også kjent som **[eiendeler](/blogs/regnskap/hva-er-eiendeler "Hva er Eiendeler? Komplett Oversikt over Eiendelstyper")**, er alle økonomiske ress...'
 ---
 
 **Aktiva**, også kjent som **[eiendeler](/blogs/regnskap/hva-er-eiendeler "Hva er Eiendeler? Komplett Oversikt over Eiendelstyper")**, er alle økonomiske ressurser som en bedrift kontrollerer og som forventes å gi fremtidige økonomiske fordeler. Aktiva utgjør venstre side av [regnskapsligningen](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og er fundamentale for å forstå en bedrifts finansielle stilling. Korrekt registrering og oppfølging av aktiva krever systematisk [bokføring](/blogs/regnskap/hva-er-bokføring "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") for å sikre nøyaktig dokumentasjon av alle [eiendeler](/blogs/regnskap/hva-er-eiendeler "Hva er Eiendeler? Komplett Oversikt over Eiendelstyper").

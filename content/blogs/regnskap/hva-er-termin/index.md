@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Termin?"
 seoTitle: "Hva er Termin?"
-meta_description: '**Termin** er et fundamentalt konsept i regnskap og økonomi som definerer en avgrenset tidsperiode for regnskapsføring, rapportering og økonomisk oppgjør. I...'
-slug: hva-er-termin
-type: blog
-layout: pages/single
+description: '**Termin** er et fundamentalt konsept i regnskap og økonomi som definerer en avgrenset tidsperiode for regnskapsføring, rapportering og økonomisk oppgjør. I...'
 ---
 
 **Termin** er et fundamentalt konsept i regnskap og økonomi som definerer en avgrenset tidsperiode for regnskapsføring, rapportering og økonomisk oppgjør. I regnskapssammenheng refererer termin til spesifikke **regnskapsperioder** som brukes for å strukturere og organisere finansiell informasjon. Forstelse av terminer er essensielt for korrekt [periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Grunnleggende Regnskapsprinsipp") og nøyaktig [årsregnskap](/blogs/regnskap/hva-er-arsregnskap "Hva er Årsregnskap? Innhold og Krav til Regnskapsrapportering"). Terminer påvirker direkte hvordan transaksjoner klassifiseres og når de påvirker [resultatregnskapet](/blogs/regnskap/hva-er-resultatregnskap "Hva er Resultatregnskap? Oppbygning og Analyse") og [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balansens Oppbygging og Funksjon").

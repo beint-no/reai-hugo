@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Fagforening? Regnskap for Fagforeninger i Norge"
 seoTitle: "Hva er Fagforening? Regnskap for Fagforeninger i Norge"
-meta_description: 'En **fagforening** er en type [forening](/blogs/regnskap/hva-er-forening "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner") som or...'
-slug: hva-er-fagforening
-type: blog
-layout: pages/single
+description: 'En **fagforening** er en type [forening](/blogs/regnskap/hva-er-forening "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner") som or...'
 ---
 
 En **fagforening** er en type [forening](/blogs/regnskap/hva-er-forening "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner") som organiserer arbeidstakere for å fremme felles arbeids- og lønnsinteresser. I regnskapssammenheng har fagforeninger både de samme kravene som andre foreninger og spesifikke regler knyttet til medlemskontingent, lønnstrekk og interne avtaler.

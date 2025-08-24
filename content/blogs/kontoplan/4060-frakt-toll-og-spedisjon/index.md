@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 4060 - Frakt, toll og spedisjon"
 seoTitle: "4060-frakt-toll-og-spedisjon"
-meta_description: '**Konto 4060 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** knyttet til anskaffel...'
-slug: 4060-frakt-toll-og-spedisjon
-type: blog
-layout: pages/single
+description: '**Konto 4060 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** knyttet til anskaffel...'
 ---
 
 **Konto 4060 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** knyttet til anskaffelser og leveranser.

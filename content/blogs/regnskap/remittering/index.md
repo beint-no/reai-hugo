@@ -1,10 +1,7 @@
 ﻿---
 title: "Remittering"
 seoTitle: "Remittering"
-meta_description: '**Remittering** er en grunnleggende **betalingsmetode** innen regnskap som omfatter både **direkte remittering** og **indirekte remittering**. Remittering besk...'
-slug: remittering
-type: blog
-layout: pages/single
+description: '**Remittering** er en grunnleggende **betalingsmetode** innen regnskap som omfatter både **direkte remittering** og **indirekte remittering**. Remittering besk...'
 ---
 
 **Remittering** er en grunnleggende **betalingsmetode** innen regnskap som omfatter både **direkte remittering** og **indirekte remittering**. Remittering beskriver prosessen med å overføre midler mellom kontoer gjennom et betalingssystem, ofte via bank eller tredjepartsleverandører.

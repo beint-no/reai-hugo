@@ -1,10 +1,7 @@
 ﻿---
 title: "Åndsverkloven - Komplett Guide til Opphavsrett i Norge"
 seoTitle: "Åndsverkloven - Komplett Guide til Opphavsrett i Norge"
-meta_description: '**Åndsverkloven** er den sentrale loven som regulerer opphavsretten i Norge. Denne artikkelen gir en omfattende oversikt over hva Åndsverkloven omfatter, inkl...'
-slug: aandsverkloven
-type: blog
-layout: pages/single
+description: '**Åndsverkloven** er den sentrale loven som regulerer opphavsretten i Norge. Denne artikkelen gir en omfattende oversikt over hva Åndsverkloven omfatter, inkl...'
 ---
 
 **Åndsverkloven** er den sentrale loven som regulerer opphavsretten i Norge. Denne artikkelen gir en omfattende oversikt over hva Åndsverkloven omfatter, inkludert hvilke verk som er beskyttet, rettighetshavernes rettigheter, unntak, **varighet**, overdragelse og regnskapsmessig behandling av opphavsrett.

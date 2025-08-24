@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Egenkapital?"
 seoTitle: "Hva er Egenkapital?"
-meta_description: '**Egenkapital** er den delen av et selskaps totale [kapital](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Økon...'
-slug: hva-er-egenkapital
-type: blog
-layout: pages/single
+description: '**Egenkapital** er den delen av et selskaps totale [kapital](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Økon...'
 ---
 
 **Egenkapital** er den delen av et selskaps totale [kapital](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Økonomi") som tilhører eierne. Som en fundamental form for [finanskapital](/blogs/regnskap/hva-er-finanskapital "Hva er Finanskapital? Definisjon, Typer og Betydning i Regnskap"), representerer egenkapital eiernes netto formue i selskapet og beregnes som forskjellen mellom selskapets [eiendeler (aktiva)](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Regnskapet") og gjeld (passiva). Egenkapital er et grunnleggende begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og finansiell analyse. [Styret](/blogs/regnskap/hva-er-styre "Hva er Styre? Ansvar, Rolle og Oppgaver i Aksjeselskap") har ansvaret for å sikre forsvarlig egenkapital og likviditet i selskapet.

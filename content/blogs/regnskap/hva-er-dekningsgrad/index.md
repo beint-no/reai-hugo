@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er dekningsgrad?"
 seoTitle: "Hva er dekningsgrad?"
-meta_description: '**Dekningsgrad** er et viktig finansielt nøkkeltall som måler en bedrifts evne til å dekke sine forpliktelser og kostnader. Dette begrepet omfatter flere uli...'
-slug: hva-er-dekningsgrad
-type: blog
-layout: pages/single
+description: '**Dekningsgrad** er et viktig finansielt nøkkeltall som måler en bedrifts evne til å dekke sine forpliktelser og kostnader. Dette begrepet omfatter flere uli...'
 ---
 
 **Dekningsgrad** er et viktig finansielt nøkkeltall som måler en bedrifts evne til å dekke sine forpliktelser og kostnader. Dette begrepet omfatter flere ulike typer dekningsgrader som hver gir innsikt i forskjellige aspekter av bedriftens [finansielle styrke](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Guide til Likviditet og Finansiell Stabilitet") og [soliditet](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap").

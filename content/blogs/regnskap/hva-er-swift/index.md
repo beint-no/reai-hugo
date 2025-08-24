@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er SWIFT?"
 seoTitle: "Hva er SWIFT?"
-meta_description: '(**SWIFT** (Society for Worldwide Interbank Financial Telecommunication) er et globalt nettverk som muliggjør sikker utveksling av meldinger mellom finansinsti...'
-slug: hva-er-swift
-type: blog
-layout: pages/single
+description: '(**SWIFT** (Society for Worldwide Interbank Financial Telecommunication) er et globalt nettverk som muliggjør sikker utveksling av meldinger mellom finansinsti...'
 ---
 
 (**SWIFT** (Society for Worldwide Interbank Financial Telecommunication) er et globalt nettverk som muliggjør sikker utveksling av meldinger mellom finansinstitusjoner. For norske bedrifter som håndterer internasjonale transaksjoner er det avgjørende å forstå hvordan SWIFT fungerer og hvilke **regnskapsmessige implikasjoner** det har.)

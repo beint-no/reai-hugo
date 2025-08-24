@@ -1,10 +1,7 @@
 ﻿---
 title: "Landbrukskontoplan - Komplett Guide til Regnskap for Landbruk"
 seoTitle: "Landbrukskontoplan - Komplett Guide til Regnskap for Landbruk"
-meta_description: 'En **landbrukskontoplan** er en spesialisert [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap"...'
-slug: landbrukskontoplan
-type: blog
-layout: pages/single
+description: 'En **landbrukskontoplan** er en spesialisert [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap"...'
 ---
 
 En **landbrukskontoplan** er en spesialisert [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap") som er tilpasset landbrukssektorens unike behov og krav. Den tar hensyn til landbrukets særegne inntektskilder, kostnadsstrukturer og regnskapsmessige utfordringer som skiller seg fra andre næringer.

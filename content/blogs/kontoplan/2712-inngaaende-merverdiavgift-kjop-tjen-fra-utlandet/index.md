@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2712 - Inngående merverdiavgift kjøp tjenester fra utlandet"
 seoTitle: "2712-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet"
-meta_description: '**Konto 2712 - Inngående merverdiavgift kjøp tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes til å presentere **inngående mer...'
-slug: 2712-inngaaende-merverdiavgift-kjop-tjen-fra-utlandet
-type: blog
-layout: pages/single
+description: '**Konto 2712 - Inngående merverdiavgift kjøp tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes til å presentere **inngående mer...'
 ---
 
 **Konto 2712 - Inngående merverdiavgift kjøp tjenester fra utlandet** er en konto i **Norsk Standard Kontoplan** som brukes til å presentere **inngående merverdiavgift** ved kjøp av tjenester fra utlandet i resultatregnskapet. Kontoen skiller periodisk MVA-oppgjør for utenlandstjenester fra øvrige inntekts- og kostnadskontoer.

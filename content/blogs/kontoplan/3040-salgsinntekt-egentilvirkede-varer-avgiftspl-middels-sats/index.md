@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats"
 seoTitle: "3040-salgsinntekt-egentilvirkede-varer-avgiftspl-middels-sats"
-meta_description: '**Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter*...'
-slug: 3040-salgsinntekt-egentilvirkede-varer-avgiftspl-middels-sats
-type: blog
-layout: pages/single
+description: '**Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter*...'
 ---
 
 **Konto 3040 - Salgsinntekt egentilvirkede varer avgiftspl. middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salgsinntekter** fra **egentilvirkede varer** som er **avgiftspliktige med middels MVA-sats**.

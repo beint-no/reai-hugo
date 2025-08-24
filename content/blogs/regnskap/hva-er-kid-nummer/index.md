@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er KID-nummer?"
 seoTitle: "Hva er KID-nummer?"
-meta_description: 'Et **KID-nummer** (Kunde-IDentifikasjon) er et unikt referansenummer som brukes i norsk betalingsformidling for å automatisk identifisere og knytte innbetaling...'
-slug: hva-er-kid-nummer
-type: blog
-layout: pages/single
+description: 'Et **KID-nummer** (Kunde-IDentifikasjon) er et unikt referansenummer som brukes i norsk betalingsformidling for å automatisk identifisere og knytte innbetaling...'
 ---
 
 Et **KID-nummer** (Kunde-IDentifikasjon) er et unikt referansenummer som brukes i norsk betalingsformidling for å automatisk identifisere og knytte innbetalinger til riktig kunde eller [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"). Dette systemet er fundamentalt for effektiv [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming? Komplett Guide til Regnskapsavstemming") og automatisering av betalingsprosesser i norske bedrifter.

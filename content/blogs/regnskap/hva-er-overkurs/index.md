@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Overkurs?"
 seoTitle: "Hva er Overkurs?"
-meta_description: '**Overkurs** er det beløpet aksjonærer betaler utover aksjens **[pålydende](/blogs/regnskap/palydende "Hva er Pålydende? Guide til pålydende verdi")** ved ...'
-slug: hva-er-overkurs
-type: blog
-layout: pages/single
+description: '**Overkurs** er det beløpet aksjonærer betaler utover aksjens **[pålydende](/blogs/regnskap/palydende "Hva er Pålydende? Guide til pålydende verdi")** ved ...'
 ---
 
 **Overkurs** er det beløpet aksjonærer betaler utover aksjens **[pålydende](/blogs/regnskap/palydende "Hva er Pålydende? Guide til pålydende verdi")** ved [emisjon](/blogs/regnskap/emisjon "Hva er Emisjon? En komplett guide til kapitalforhøyelse og aksjeutstedelse").

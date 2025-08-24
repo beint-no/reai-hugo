@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en Opsjon?"
 seoTitle: "Hva er en Opsjon?"
-meta_description: 'En **opsjon** er en kontrakt som gir innehaveren **rett**, men ikke plikt, til å *kjøpe* eller *selge* en underliggende eiendel til en forhåndsbestemt pris i...'
-slug: opsjon
-type: blog
-layout: pages/single
+description: 'En **opsjon** er en kontrakt som gir innehaveren **rett**, men ikke plikt, til å *kjøpe* eller *selge* en underliggende eiendel til en forhåndsbestemt pris i...'
 ---
 
 En **opsjon** er en kontrakt som gir innehaveren **rett**, men ikke plikt, til å *kjøpe* eller *selge* en underliggende eiendel til en forhåndsbestemt pris innen eller på en gitt utløpsdato. Opsjoner er et viktig finansielt instrument i **norsk regnskapsføring** og brukes for risikostyring, investeringer og medarbeiderinsentiver.

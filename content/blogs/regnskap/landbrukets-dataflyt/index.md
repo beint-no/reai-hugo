@@ -1,10 +1,7 @@
 ﻿---
 title: "Landbrukets Dataflyt"
 seoTitle: "Landbrukets Dataflyt"
-meta_description: '**Landbrukets dataflyt** refererer til den systematiske bevegelsen og behandlingen av informasjon gjennom hele den landbruksbaserte verdikjeden. Dette omfatter ...'
-slug: landbrukets-dataflyt
-type: blog
-layout: pages/single
+description: '**Landbrukets dataflyt** refererer til den systematiske bevegelsen og behandlingen av informasjon gjennom hele den landbruksbaserte verdikjeden. Dette omfatter ...'
 ---
 
 **Landbrukets dataflyt** refererer til den systematiske bevegelsen og behandlingen av informasjon gjennom hele den landbruksbaserte verdikjeden. Dette omfatter alt fra produksjonsdata på gården til [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring") og rapportering til myndigheter.

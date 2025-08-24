@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 1020 - Konsesjoner?"
 seoTitle: "1020"
-meta_description: '**Konto 1020 - Konsesjoner** er en viktig konto for virksomheter som har ervervede rettigheter, lisenser og konsesjoner som gir dem spesielle forrettigheter ell...'
-slug: 1020
-type: blog
-layout: pages/single
+description: '**Konto 1020 - Konsesjoner** er en viktig konto for virksomheter som har ervervede rettigheter, lisenser og konsesjoner som gir dem spesielle forrettigheter ell...'
 ---
 
 **Konto 1020 - Konsesjoner** er en viktig konto for virksomheter som har ervervede rettigheter, lisenser og konsesjoner som gir dem spesielle forrettigheter eller eksklusive bruksrettigheter. Denne kontoen brukes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") i form av konsesjoner som kan [aktiveres](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?") og amortiseres over tid i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?").

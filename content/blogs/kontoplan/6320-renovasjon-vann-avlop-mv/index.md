@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 6320 - Renovasjon, vann, avløp mv."
 seoTitle: "6320-renovasjon-vann-avlop-mv"
-meta_description: '**Konto 6320 - Renovasjon, vann, avløp mv.** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til renovasjon, vann, avløp og ti...'
-slug: 6320-renovasjon-vann-avlop-mv
-type: blog
-layout: pages/single
+description: '**Konto 6320 - Renovasjon, vann, avløp mv.** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til renovasjon, vann, avløp og ti...'
 ---
 
 **Konto 6320 - Renovasjon, vann, avløp mv.** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til renovasjon, vann, avløp og tilhørende kommunale avgifter** i virksomhetens drift.

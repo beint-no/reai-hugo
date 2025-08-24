@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er leverandørreskontro?"
 seoTitle: "Hva er leverandørreskontro?"
-meta_description: '**Leverandørreskontro** er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt leverandør. Dette er en **underresko...'
-slug: hva-er-leverandorreskontro
-type: blog
-layout: pages/single
+description: '**Leverandørreskontro** er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt leverandør. Dette er en **underresko...'
 ---
 
 **Leverandørreskontro** er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt leverandør. Dette er en **underreskontro** til [hovedboken](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok i Regnskap? Komplett Guide til Regnskapsføring") som gir en komplett oversikt over [leverandørgjeld](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld? Komplett Guide til Gjeldshåndtering i Regnskap") og betalingshistorikk for hver leverandør individuelt.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Konto 8300 - Betalbar skatt?"
 seoTitle: "8300-betalbar-skatt"
-meta_description: '**Konto 8300 - Betalbar skatt** er en konto i Norsk Standard Kontoplan som brukes til å vise **betalbar skatt** som kortsiktig gjeld i [balansen](/blogs/regnsk...'
-slug: 8300-betalbar-skatt
-type: blog
-layout: pages/single
+description: '**Konto 8300 - Betalbar skatt** er en konto i Norsk Standard Kontoplan som brukes til å vise **betalbar skatt** som kortsiktig gjeld i [balansen](/blogs/regnsk...'
 ---
 
 **Konto 8300 - Betalbar skatt** er en konto i Norsk Standard Kontoplan som brukes til å vise **betalbar skatt** som kortsiktig gjeld i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") før endelig oppgjør mot forskuddsskatt eller andre skattebetalinger.

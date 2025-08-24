@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 4160 - Frakt, toll og spedisjon"
 seoTitle: "4160-frakt-toll-og-spedisjon"
-meta_description: '**Konto 4160 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** som faktureres kunder...'
-slug: 4160-frakt-toll-og-spedisjon
-type: blog
-layout: pages/single
+description: '**Konto 4160 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** som faktureres kunder...'
 ---
 
 **Konto 4160 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** som faktureres kunder som en del av salgsinntekten.

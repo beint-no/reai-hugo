@@ -1,10 +1,7 @@
 ﻿---
 title: "hva-er-konsern"
 seoTitle: "hva-er-konsern"
-meta_description: 'Et **konsern** er en gruppe av selskaper hvor ett selskap ([morselskapet](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap...'
-slug: hva-er-konsern
-type: blog
-layout: pages/single
+description: 'Et **konsern** er en gruppe av selskaper hvor ett selskap ([morselskapet](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap...'
 ---
 
 Et **konsern** er en gruppe av selskaper hvor ett selskap ([morselskapet](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og Konsernledelse")) har bestemmende innflytelse over ett eller flere andre selskaper ([datterselskaper](/blogs/regnskap/datterselskap "Hva er Datterselskap? En Guide til Datterselskap og Konsernstruktur")). Konsernstrukturer er vanlige i næringslivet og har betydelige konsekvenser for regnskap, skatt og juridiske forhold.

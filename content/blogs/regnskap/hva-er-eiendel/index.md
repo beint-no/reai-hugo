@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er eiendel?"
 seoTitle: "Hva er eiendel?"
-meta_description: '**Eiendel** er et grunnleggende begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som omfatter alle verdier og r...'
-slug: hva-er-eiendel
-type: blog
-layout: pages/single
+description: '**Eiendel** er et grunnleggende begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som omfatter alle verdier og r...'
 ---
 
 **Eiendel** er et grunnleggende begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som omfatter alle verdier og ressurser som en person eller bedrift eier og kontrollerer. I regnskapssammenheng brukes ofte begrepet **[aktiva](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap")** synonymt med eiendel, men eiendel er det bredere norske begrepet som dekker alt fra fast eiendom til immaterielle rettigheter. Korrekt identifisering og [bokføring](/blogs/regnskap/hva-er-bokføring "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") av eiendeler er avgjørende for å gi et riktig bilde av en bedrifts økonomiske stilling.

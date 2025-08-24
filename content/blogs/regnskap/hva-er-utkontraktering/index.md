@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Utkontraktering?"
 seoTitle: "Hva er Utkontraktering?"
-meta_description: '**Utkontraktering** er en forretningsstrategi hvor virksomheter overlater spesifikke oppgaver, funksjoner eller prosesser til eksterne leverandører. Dette kan ...'
-slug: hva-er-utkontraktering
-type: blog
-layout: pages/single
+description: '**Utkontraktering** er en forretningsstrategi hvor virksomheter overlater spesifikke oppgaver, funksjoner eller prosesser til eksterne leverandører. Dette kan ...'
 ---
 
 **Utkontraktering** er en forretningsstrategi hvor virksomheter overlater spesifikke oppgaver, funksjoner eller prosesser til eksterne leverandører. Dette kan omfatte alt fra [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring") og [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Bokføringsregler") til IT-tjenester, kundeservice og produksjon.

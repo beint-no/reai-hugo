@@ -1,10 +1,7 @@
 ﻿---
 title: "God regnskapsskikk"
 seoTitle: "God regnskapsskikk"
-meta_description: '**God regnskapsskikk** er fundamentet for pålitelig finansiell rapportering og en forutsetning for tillit i næringslivet. Det omfatter ikke bare teknisk korre...'
-slug: god-regnskapsskikk
-type: blog
-layout: pages/single
+description: '**God regnskapsskikk** er fundamentet for pålitelig finansiell rapportering og en forutsetning for tillit i næringslivet. Det omfatter ikke bare teknisk korre...'
 ---
 
 **God regnskapsskikk** er fundamentet for pålitelig finansiell rapportering og en forutsetning for tillit i næringslivet. Det omfatter ikke bare teknisk korrekthet i [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"), men også etiske standarder, transparens og systematisk kvalitetssikring. I Norge reguleres god regnskapsskikk gjennom [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Komplett Guide til Norsk Bokføringslovgivning") og [bokføringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften? Detaljert Guide til Norske Bokføringsregler"), som setter rammene for hvordan virksomheter skal føre sitt [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge"). Moderne implementering av god regnskapsskikk støttes av [QA (Quality Assurance)](/blogs/regnskap/hva-er-qa-kvalitetssikring "Hva er QA (Quality Assurance) i Regnskap? Komplett Guide til Kvalitetssikring") systemer som sikrer kontinuerlig kvalitetskontroll.

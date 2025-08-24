@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Direkte kostnader?"
 seoTitle: "Hva er Direkte kostnader?"
-meta_description: '**Direkte kostnader** er kostnader som kan spores direkte til et spesifikt produkt, tjeneste eller kostnadssted. Disse kostnadene ville ikke påløpt hvis produ...'
-slug: hva-er-direkte-kostnader
-type: blog
-layout: pages/single
+description: '**Direkte kostnader** er kostnader som kan spores direkte til et spesifikt produkt, tjeneste eller kostnadssted. Disse kostnadene ville ikke påløpt hvis produ...'
 ---
 
 **Direkte kostnader** er kostnader som kan spores direkte til et spesifikt produkt, tjeneste eller kostnadssted. Disse kostnadene ville ikke påløpt hvis produktet eller tjenesten ikke ble produsert eller levert. Forståelse av direkte kostnader er grunnleggende for nøyaktig [kostnadsanalyse](/blogs/regnskap/hva-er-dekningsbidrag "Hva er Dekningsbidrag? Beregning og Analyse for Bedre Lønnsomhet"), [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging") og [prisstrategi](/blogs/regnskap/hva-er-avanse "Hva er Avanse? Beregning av Fortjenestemargin i Salg").

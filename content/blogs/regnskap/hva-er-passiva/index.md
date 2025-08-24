@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Passiva? En Guide til Gjeld og Egenkapital i Regnskap"
 seoTitle: "Hva er Passiva? En Guide til Gjeld og Egenkapital i Regnskap"
-meta_description: '**Passiva** er alle forpliktelser og egenkapital som et selskap har på et gitt tidspunkt. I enkel forstand representerer passiva "hvor pengene kommer fra" i en...'
-slug: hva-er-passiva
-type: blog
-layout: pages/single
+description: '**Passiva** er alle forpliktelser og egenkapital som et selskap har på et gitt tidspunkt. I enkel forstand representerer passiva "hvor pengene kommer fra" i en...'
 ---
 
 **Passiva** er alle forpliktelser og egenkapital som et selskap har på et gitt tidspunkt. I enkel forstand representerer passiva "hvor pengene kommer fra" i en bedrift, mens [aktiva](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Guide til Bedriftens Eiendeler") viser "hvor pengene er plassert". Sammen utgjør disse to sidene av [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? En Guide til Balansen i Regnskap") som alltid må være i likevekt.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Alternativkostnad?"
 seoTitle: "Hva er Alternativkostnad?"
-meta_description: '**Alternativkostnad** er verdien av beste alternative bruk av begrensede ressurser, og hjelper bedrifter med å forstå hva de gir avkall på når de velger én...'
-slug: alternativkostnad
-type: blog
-layout: pages/single
+description: '**Alternativkostnad** er verdien av beste alternative bruk av begrensede ressurser, og hjelper bedrifter med å forstå hva de gir avkall på når de velger én...'
 ---
 
 **Alternativkostnad** er verdien av beste alternative bruk av begrensede ressurser, og hjelper bedrifter med å forstå hva de gir avkall på når de velger én handling fremfor en annen. Dette konseptet er avgjørende for informerte beslutninger innen [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging"), [investering](/blogs/regnskap/hva-er-investere "Hva er å Investere? Komplett Guide til Investeringer i Regnskap") og generell ressursallokering.

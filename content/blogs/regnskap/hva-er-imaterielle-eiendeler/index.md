@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er imaterielle eiendeler?"
 seoTitle: "Hva er imaterielle eiendeler?"
-meta_description: '**Imaterielle eiendeler** er [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendom og Verdier") som mangler fysisk form, men so...'
-slug: hva-er-imaterielle-eiendeler
-type: blog
-layout: pages/single
+description: '**Imaterielle eiendeler** er [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendom og Verdier") som mangler fysisk form, men so...'
 ---
 
 **Imaterielle eiendeler** er [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendom og Verdier") som mangler fysisk form, men som likevel har betydelig økonomisk verdi for bedriften. I motsetning til materielle eiendeler som maskiner og bygninger, består imaterielle eiendeler av rettigheter, kunnskap og andre ikke-fysiske ressurser som kan generere fremtidige inntekter. Korrekt identifisering, verdsettelse og [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") av imaterielle eiendeler er avgjørende for å gi et riktig bilde av bedriftens totale verdi og konkurranseevne.

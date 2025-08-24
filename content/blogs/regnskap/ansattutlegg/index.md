@@ -1,10 +1,7 @@
 ﻿---
 title: "Ansattutlegg"
 seoTitle: "Ansattutlegg"
-meta_description: '**Ansattutlegg** er [utgifter](/blogs/regnskap/utgift Utgift “ Komplett Guide til Utgifter i Norsk Regnskap) som ansatte legger ut på vegne av virksomheten...'
-slug: ansattutlegg
-type: blog
-layout: pages/single
+description: '**Ansattutlegg** er [utgifter](/blogs/regnskap/utgift Utgift “ Komplett Guide til Utgifter i Norsk Regnskap) som ansatte legger ut på vegne av virksomheten...'
 ---
 
 **Ansattutlegg** er [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") som ansatte legger ut på vegne av virksomheten med egne midler, og som senere refunderes eller avregnes mot lønnen. Korrekt håndtering av ansattutlegg er kritisk for å sikre nøyaktig regnskapsføring, internkontroll og skattemessig korrekthet i norske virksomheter.

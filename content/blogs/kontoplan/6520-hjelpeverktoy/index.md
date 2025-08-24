@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 6520 - Hjelpeverktøy"
 seoTitle: "6520-hjelpeverktoy"
-meta_description: '**Konto 6520 - Hjelpeverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader knyttet til hjelpeverktøy** og tilhørende drif...'
-slug: 6520-hjelpeverktoy
-type: blog
-layout: pages/single
+description: '**Konto 6520 - Hjelpeverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader knyttet til hjelpeverktøy** og tilhørende drif...'
 ---
 
 **Konto 6520 - Hjelpeverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader knyttet til hjelpeverktøy** og tilhørende driftsmidler i virksomhetens drift.

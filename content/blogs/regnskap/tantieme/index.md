@@ -1,10 +1,7 @@
 ﻿---
 title: "Tantieme i aksjeselskap"
 seoTitle: "Tantieme i aksjeselskap"
-meta_description: '![Tantieme](tantieme-image.svg)'
-slug: tantieme
-type: blog
-layout: pages/single
+description: '![Tantieme](tantieme-image.svg)'
 ---
 
 ![Tantieme](tantieme-image.svg)

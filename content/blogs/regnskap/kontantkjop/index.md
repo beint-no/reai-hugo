@@ -1,10 +1,7 @@
 ﻿---
 title: "Kontantkjøp – Komplett Guide til Regnskapsføring av Kontantkjøp"
 seoTitle: "Kontantkjøp “ Komplett Guide til Regnskapsføring av Kontantkjøp"
-meta_description: '**Kontantkjøp** er direkte betaling med **kontanter** for varer eller tjenester som skjer umiddelbart ved transaksjonen. Dette skiller seg fra kredittkjøp, hv...'
-slug: kontantkjop
-type: blog
-layout: pages/single
+description: '**Kontantkjøp** er direkte betaling med **kontanter** for varer eller tjenester som skjer umiddelbart ved transaksjonen. Dette skiller seg fra kredittkjøp, hv...'
 ---
 
 **Kontantkjøp** er direkte betaling med **kontanter** for varer eller tjenester som skjer umiddelbart ved transaksjonen. Dette skiller seg fra kredittkjøp, hvor betaling skjer på et senere tidspunkt. I norsk regnskap har kontantkjøp både **regnskapsmessige** og **dokumentasjonsmessige** konsekvenser som krever bevissthet rundt bokføringskrav, merverdiavgift og internkontroll.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 7420 - Gaver, fradragsberettiget"
 seoTitle: "7420-gaver-fradragsberettiget"
-meta_description: '**Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **fradragsberettigede gaver**.'
-slug: 7420-gaver-fradragsberettiget
-type: blog
-layout: pages/single
+description: '**Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **fradragsberettigede gaver**.'
 ---
 
 **Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **fradragsberettigede gaver**.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 2703 - Utgående merverdiavgift middels sats"
 seoTitle: "2703-utgaende-merverdiavgift-middels-sats"
-meta_description: '**Konto 2703 - Utgående merverdiavgift middels sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av utgående merverdiavgif...'
-slug: 2703-utgaende-merverdiavgift-middels-sats
-type: blog
-layout: pages/single
+description: '**Konto 2703 - Utgående merverdiavgift middels sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av utgående merverdiavgif...'
 ---
 
 **Konto 2703 - Utgående merverdiavgift middels sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av utgående merverdiavgift med middels sats** (15–¯%) for å skille dette fra andre MVA-satser før overføring til betalingskonto.

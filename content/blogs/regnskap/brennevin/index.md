@@ -1,10 +1,7 @@
 ﻿---
 title: "Brennevin"
 seoTitle: "Brennevin"
-meta_description: 'Brennevin er en **alkoholholdig drikk** med minimum 22Â % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likører. **Brennevi...'
-slug: brennevin
-type: blog
-layout: pages/single
+description: 'Brennevin er en **alkoholholdig drikk** med minimum 22Â % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likører. **Brennevi...'
 ---
 
 Brennevin er en **alkoholholdig drikk** med minimum 22Â % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likører. **Brennevin** er underlagt særavgifter og særskilt regnskapsbehandling i Norge.

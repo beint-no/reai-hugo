@@ -1,10 +1,7 @@
 ﻿---
 title: "Utestående Fordring"
 seoTitle: "Utestående Fordring"
-meta_description: '**Utestående Fordring** er den delen av din **kundefordring** som ennå ikke er betalt innen forfallsdato, og representerer en risiko for likviditet og kreditt...'
-slug: utestaende-fordring
-type: blog
-layout: pages/single
+description: '**Utestående Fordring** er den delen av din **kundefordring** som ennå ikke er betalt innen forfallsdato, og representerer en risiko for likviditet og kreditt...'
 ---
 
 **Utestående Fordring** er den delen av din **kundefordring** som ennå ikke er betalt innen forfallsdato, og representerer en risiko for likviditet og kredittrisiko. Effektiv styring av utestående fordringer krever systematisk oppfølging, aldersanalyse og beslutningsprosesser for nedskrivning eller inkasso.

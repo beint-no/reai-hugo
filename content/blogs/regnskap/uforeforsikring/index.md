@@ -1,10 +1,7 @@
 ﻿---
 title: "Uføreforsikring"
 seoTitle: "Uføreforsikring"
-meta_description: 'Uføreforsikring er en privat **inntektssikring** som gir erstatning ved varig nedsatt arbeidsevne. En slik forsikring utfyller offentlige ytelser som [uføretr...'
-slug: uforeforsikring
-type: blog
-layout: pages/single
+description: 'Uføreforsikring er en privat **inntektssikring** som gir erstatning ved varig nedsatt arbeidsevne. En slik forsikring utfyller offentlige ytelser som [uføretr...'
 ---
 
 Uføreforsikring er en privat **inntektssikring** som gir erstatning ved varig nedsatt arbeidsevne. En slik forsikring utfyller offentlige ytelser som [uføretrygd](/blogs/regnskap/hva-er-uforetrygd "Hva er Uføretrygd? Komplett Guide til Trygdeordninger") og kan sikre en stabil økonomi for både privatpersoner og bedrifter.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 6530 - Spesialverktøy"
 seoTitle: "6530-spesialverktoy"
-meta_description: '**Konto 6530 - Spesialverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til spesialverktøy** i virksomhetens drift.'
-slug: 6530-spesialverktoy
-type: blog
-layout: pages/single
+description: '**Konto 6530 - Spesialverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til spesialverktøy** i virksomhetens drift.'
 ---
 
 **Konto 6530 - Spesialverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til spesialverktøy** i virksomhetens drift.

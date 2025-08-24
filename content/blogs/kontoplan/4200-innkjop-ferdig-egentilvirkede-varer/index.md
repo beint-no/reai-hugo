@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats"
 seoTitle: "4200-innkjop-ferdig-egentilvirkede-varer"
-meta_description: '**Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av ferdige egentilvi...'
-slug: 4200-innkjop-ferdig-egentilvirkede-varer
-type: blog
-layout: pages/single
+description: '**Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av ferdige egentilvi...'
 ---
 
 **Konto 4200 - Innkjøp ferdig egentilvirkede varer høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av ferdige egentilvirkede varer** som er **avgiftspliktige med høy MVA-sats (25 %)**.

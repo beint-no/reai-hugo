@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 8930 - Konsernbidrag"
 seoTitle: "8930-konsernbidrag"
-meta_description: '**Konto 8930 - Konsernbidrag** er en konto i Norsk Standard Kontoplan som brukes til å registrere **konsernbidrag** mellom selskaper i et konsern.'
-slug: 8930-konsernbidrag
-type: blog
-layout: pages/single
+description: '**Konto 8930 - Konsernbidrag** er en konto i Norsk Standard Kontoplan som brukes til å registrere **konsernbidrag** mellom selskaper i et konsern.'
 ---
 
 **Konto 8930 - Konsernbidrag** er en konto i Norsk Standard Kontoplan som brukes til å registrere **konsernbidrag** mellom selskaper i et konsern.

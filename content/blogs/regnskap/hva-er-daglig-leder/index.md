@@ -1,10 +1,7 @@
 ﻿---
 title: "hva-er-daglig-leder"
 seoTitle: "hva-er-daglig-leder"
-meta_description: 'En **daglig leder** er den personen som har det overordnede ansvaret for den daglige driften av et **aksjeselskap (AS)** i Norge. Rollen er fastsatt i [Aksjelov...'
-slug: hva-er-daglig-leder
-type: blog
-layout: pages/single
+description: 'En **daglig leder** er den personen som har det overordnede ansvaret for den daglige driften av et **aksjeselskap (AS)** i Norge. Rollen er fastsatt i [Aksjelov...'
 ---
 
 En **daglig leder** er den personen som har det overordnede ansvaret for den daglige driften av et **aksjeselskap (AS)** i Norge. Rollen er fastsatt i [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge") og krever at daglig leder rapporterer til [Styre](/blogs/regnskap/hva-er-styre "Hva er et Styre?").

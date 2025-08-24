@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Styre?"
 seoTitle: "Hva er Styre?"
-meta_description: 'Et **styre** er det sentrale ledelses- og styringsorganet i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guid...'
-slug: hva-er-styre
-type: blog
-layout: pages/single
+description: 'Et **styre** er det sentrale ledelses- og styringsorganet i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guid...'
 ---
 
 Et **styre** er det sentrale ledelses- og styringsorganet i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"), valgt av og ansvarlig overfor aksjonærene. Styret fungerer som selskapets øverste beslutningstaker og har det **overordnede ansvaret** for virksomhetens strategiske retning, risikoforvaltning og overvåking av daglig ledelse. I regnskapssammenheng spiller styret en kritisk rolle i finansiell rapportering, kontroll og [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Systemer for Risikoforvaltning og Compliance").

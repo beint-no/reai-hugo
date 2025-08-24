@@ -1,10 +1,7 @@
 ﻿---
 title: "Foretaksmodellen"
 seoTitle: "Foretaksmodellen"
-meta_description: '**Foretaksmodellen** er en **regnskaps- og skattevurderingsmodell** som brukes for å analysere og sammenstille regnskapet til et foretak i Norge. Modellen defi...'
-slug: foretaksmodellen
-type: blog
-layout: pages/single
+description: '**Foretaksmodellen** er en **regnskaps- og skattevurderingsmodell** som brukes for å analysere og sammenstille regnskapet til et foretak i Norge. Modellen defi...'
 ---
 
 **Foretaksmodellen** er en **regnskaps- og skattevurderingsmodell** som brukes for å analysere og sammenstille regnskapet til et foretak i Norge. Modellen definerer prinsipper for vurdering av **eiendeler**, **forpliktelser**, og **egenkapital**, samt bestemmelse av **skattegrunnlag** og rapporteringskrav.

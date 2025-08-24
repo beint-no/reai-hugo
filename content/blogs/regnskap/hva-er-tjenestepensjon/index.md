@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Tjenestepensjon?"
 seoTitle: "Hva er Tjenestepensjon?"
-meta_description: '**Tjenestepensjon** er en sentral del av norsk arbeidsliv og bedriftenes personalkostnader. Det er en pensjon som arbeidsgivere tilbyr sine ansatte som en del a...'
-slug: hva-er-tjenestepensjon
-type: blog
-layout: pages/single
+description: '**Tjenestepensjon** er en sentral del av norsk arbeidsliv og bedriftenes personalkostnader. Det er en pensjon som arbeidsgivere tilbyr sine ansatte som en del a...'
 ---
 
 **Tjenestepensjon** er en sentral del av norsk arbeidsliv og bedriftenes personalkostnader. Det er en pensjon som arbeidsgivere tilbyr sine ansatte som en del av lønnsvilkårene, og som er både lovpålagt og et viktig rekrutteringsverktøy. For bedrifter representerer tjenestepensjon en betydelig kostnad som må håndteres korrekt i [regnskapet](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Grunnleggende Guide til Regnskapsføring") og som påvirker [personalkostnadene](/blogs/regnskap/hva-er-lonnskostnad "Hva er Lønnskostnad? Beregning og Regnskapsføring av Personalkostnader") og den totale [kostnadsstrukturen](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader? Klassifisering og Regnskapsføring i Bedriften").

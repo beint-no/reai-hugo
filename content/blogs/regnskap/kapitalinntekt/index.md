@@ -1,10 +1,7 @@
 ﻿---
 title: "Kapitalinntekt"
 seoTitle: "Kapitalinntekt"
-meta_description: '**Kapitalinntekt** er inntekter fra investeringer og kapitalplasseringer, som **renter**, **utbytte**, **leieinntekter** og **kapitalgevinster**. Forståelse av...'
-slug: kapitalinntekt
-type: blog
-layout: pages/single
+description: '**Kapitalinntekt** er inntekter fra investeringer og kapitalplasseringer, som **renter**, **utbytte**, **leieinntekter** og **kapitalgevinster**. Forståelse av...'
 ---
 
 **Kapitalinntekt** er inntekter fra investeringer og kapitalplasseringer, som **renter**, **utbytte**, **leieinntekter** og **kapitalgevinster**. Forståelse av kapitalinntekter er viktig for korrekt regnskapsføring og skatt i norsk regnskap.

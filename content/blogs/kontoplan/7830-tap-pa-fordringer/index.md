@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 7830 - Tap på fordringer"
 seoTitle: "7830-tap-pa-fordringer"
-meta_description: '**Konto 7830 - Tap på fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap på fordringer** som en **driftskostnad** når kun...'
-slug: 7830-tap-pa-fordringer
-type: blog
-layout: pages/single
+description: '**Konto 7830 - Tap på fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap på fordringer** som en **driftskostnad** når kun...'
 ---
 
 **Konto 7830 - Tap på fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap på fordringer** som en **driftskostnad** når kundefordringer ikke blir innfridd.

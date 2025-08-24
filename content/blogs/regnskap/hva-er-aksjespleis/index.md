@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Aksjespleis? En Detaljert Guide"
 seoTitle: "Hva er Aksjespleis? En Detaljert Guide"
-meta_description: 'En **aksjespleis**, ofte kalt *omvendt aksjesplitt*, er en strategisk manøver et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap?...'
-slug: hva-er-aksjespleis
-type: blog
-layout: pages/single
+description: 'En **aksjespleis**, ofte kalt *omvendt aksjesplitt*, er en strategisk manøver et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap?...'
 ---
 
 En **aksjespleis**, ofte kalt *omvendt aksjesplitt*, er en strategisk manøver et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap?") kan gjennomføre for å redusere antall utestående aksjer. Dette fører til at verdien per aksje øker tilsvarende, uten at den totale verdien av [aksjekapitalen](/blogs/regnskap/hva-er-aksjekapital "Hva er aksjekapital?") endres.

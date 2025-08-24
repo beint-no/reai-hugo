@@ -1,10 +1,7 @@
 ﻿---
 title: "VPS-konto"
 seoTitle: "VPS-konto"
-meta_description: 'En **VPS-konto** er en sikker digital konto registrert hos **Verdipapirsentralen (VPS)** som brukes til oppbevaring og handel av [**verdipapirer**](/blogs/regns...'
-slug: vps-konto
-type: blog
-layout: pages/single
+description: 'En **VPS-konto** er en sikker digital konto registrert hos **Verdipapirsentralen (VPS)** som brukes til oppbevaring og handel av [**verdipapirer**](/blogs/regns...'
 ---
 
 En **VPS-konto** er en sikker digital konto registrert hos **Verdipapirsentralen (VPS)** som brukes til oppbevaring og handel av [**verdipapirer**](/blogs/regnskap/hva-er-verdipapir "Hva er et Verdipapir? En komplett guide") som aksjer, obligasjoner og fondsenheter.

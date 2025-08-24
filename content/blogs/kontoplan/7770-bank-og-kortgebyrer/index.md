@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 7770 - Bank og kortgebyrer"
 seoTitle: "7770-bank-og-kortgebyrer"
-meta_description: '**Konto 7770 - Bank og kortgebyrer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **bank- og kortgebyrer**, det vil si kostnader knyttet ...'
-slug: 7770-bank-og-kortgebyrer
-type: blog
-layout: pages/single
+description: '**Konto 7770 - Bank og kortgebyrer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **bank- og kortgebyrer**, det vil si kostnader knyttet ...'
 ---
 
 **Konto 7770 - Bank og kortgebyrer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **bank- og kortgebyrer**, det vil si kostnader knyttet til banktjenester og korttransaksjoner.

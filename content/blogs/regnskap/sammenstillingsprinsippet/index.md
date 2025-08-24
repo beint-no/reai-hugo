@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Sammenstillingsprinsippet?"
 seoTitle: "Hva er Sammenstillingsprinsippet?"
-meta_description: '**Sammenstillingsprinsippet** er et grunnleggende regnskapsprinsipp som krever at **kostnader** som er direkte knyttet til **inntektene** de genererer, regnskap...'
-slug: sammenstillingsprinsippet
-type: blog
-layout: pages/single
+description: '**Sammenstillingsprinsippet** er et grunnleggende regnskapsprinsipp som krever at **kostnader** som er direkte knyttet til **inntektene** de genererer, regnskap...'
 ---
 
 **Sammenstillingsprinsippet** er et grunnleggende regnskapsprinsipp som krever at **kostnader** som er direkte knyttet til **inntektene** de genererer, regnskapsføres i samme periode. Dette gir et mest mulig korrekt bilde av virksomhetens lønnsomhet og finansielle stilling.

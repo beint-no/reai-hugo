@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Oppbudsbegjæring?"
 seoTitle: "Hva er Oppbudsbegjæring?"
-meta_description: '**Oppbudsbegjæring** er en juridisk prosess (også kalt *begjæring om oppbud*) der en virksomhet som ikke kan dekke sine forpliktelser, formelt ber om åpning...'
-slug: oppbudsbegjering
-type: blog
-layout: pages/single
+description: '**Oppbudsbegjæring** er en juridisk prosess (også kalt *begjæring om oppbud*) der en virksomhet som ikke kan dekke sine forpliktelser, formelt ber om åpning...'
 ---
 
 **Oppbudsbegjæring** er en juridisk prosess (også kalt *begjæring om oppbud*) der en virksomhet som ikke kan dekke sine forpliktelser, formelt ber om åpning av konkurs.

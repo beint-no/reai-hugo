@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Utgående Balanse (UB) i Regnskap?"
 seoTitle: "Hva er Utgående Balanse (UB) i Regnskap?"
-meta_description: '**Utgående balanse (UB)** er en fundamental komponent i regnskapsføring som representerer saldoen på en konto ved slutten av en regnskapsperiode. Denne saldo...'
-slug: hva-er-utgaaende-balanse
-type: blog
-layout: pages/single
+description: '**Utgående balanse (UB)** er en fundamental komponent i regnskapsføring som representerer saldoen på en konto ved slutten av en regnskapsperiode. Denne saldo...'
 ---
 
 **Utgående balanse (UB)** er en fundamental komponent i regnskapsføring som representerer saldoen på en konto ved slutten av en regnskapsperiode. Denne saldoen danner grunnlaget for neste periodes [inngående balanse](/blogs/regnskap/hva-er-inngaaende-balanse "Hva er Inngående Balanse? Komplett Guide til IB og Periodens Start") og sikrer kontinuitet i den løpende regnskapsføringen. Forståelse av utgående balanse er essensielt for korrekt periodeslutt, [balanseoppsett](/blogs/regnskap/hva-er-balanse "Balanse i Regnskap - Komplett Guide til Balansens Oppbygging og Funksjon") og finansiell rapportering.

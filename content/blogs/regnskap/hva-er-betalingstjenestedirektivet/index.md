@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Betalingstjenestedirektivet (PSD2)?"
 seoTitle: "Hva er Betalingstjenestedirektivet (PSD2)?"
-meta_description: '**Betalingstjenestedirektivet (PSD2)** er EUs omfattende regelverk som regulerer [betalingstjenester](/blogs/regnskap/betalingstjeneste "Hva er betalingstjenest...'
-slug: hva-er-betalingstjenestedirektivet
-type: blog
-layout: pages/single
+description: '**Betalingstjenestedirektivet (PSD2)** er EUs omfattende regelverk som regulerer [betalingstjenester](/blogs/regnskap/betalingstjeneste "Hva er betalingstjenest...'
 ---
 
 **Betalingstjenestedirektivet (PSD2)** er EUs omfattende regelverk som regulerer [betalingstjenester](/blogs/regnskap/betalingstjeneste "Hva er betalingstjeneste?") og har betydelige konsekvenser for [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og finansiell rapportering. Direktivet påvirker hvordan bedrifter håndterer [betalingsmidler](/blogs/regnskap/hva-er-betalingsmidler "Hva er Betalingsmidler? Kontanter, Bankinnskudd og Digitale Betalingsløsninger"), [banktransaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Typer, Regnskapsføring og Automatisering") og **åpen bankvirksomhet**.

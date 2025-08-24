@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 3400 - Spesielt offentlig tilskudd for tilvirkede/solgte varer"
 seoTitle: "3400-spesielt-offentlig-tilskudd-for-tilv-solgte-varer"
-meta_description: '**Konto 3400 - Spesielt offentlig tilskudd for tilvirkede/solgte varer** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **offentlige ti...'
-slug: 3400-spesielt-offentlig-tilskudd-for-tilv-solgte-varer
-type: blog
-layout: pages/single
+description: '**Konto 3400 - Spesielt offentlig tilskudd for tilvirkede/solgte varer** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **offentlige ti...'
 ---
 
 **Konto 3400 - Spesielt offentlig tilskudd for tilvirkede/solgte varer** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **offentlige tilskudd** knyttet til produksjon eller salg av varer. Tilskuddet kan bidra til å dekke kostnader ved tilvirkning og utsalg, og behandles særskilt i regnskapet.

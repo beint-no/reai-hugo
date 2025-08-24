@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 5700 - Lærlingtilskudd"
 seoTitle: "5700-laerlingtilskudd"
-meta_description: '**Konto 5700 - Lærlingtilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **tilskudd virksomheter mottar for opplæring av lærl...'
-slug: 5700-laerlingtilskudd
-type: blog
-layout: pages/single
+description: '**Konto 5700 - Lærlingtilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **tilskudd virksomheter mottar for opplæring av lærl...'
 ---
 
 **Konto 5700 - Lærlingtilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **tilskudd virksomheter mottar for opplæring av lærlinger**.

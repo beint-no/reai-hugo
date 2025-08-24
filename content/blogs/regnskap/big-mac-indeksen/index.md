@@ -1,10 +1,7 @@
 ﻿---
 title: "Big Mac-indeksen"
 seoTitle: "Big Mac-indeksen"
-meta_description: '![Big Mac-indeksen](big-mac-indeksen-image.svg)'
-slug: big-mac-indeksen
-type: blog
-layout: pages/single
+description: '![Big Mac-indeksen](big-mac-indeksen-image.svg)'
 ---
 
 ![Big Mac-indeksen](big-mac-indeksen-image.svg)

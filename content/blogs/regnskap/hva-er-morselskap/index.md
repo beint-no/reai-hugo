@@ -1,10 +1,7 @@
 ﻿---
 title: "hva-er-morselskap"
 seoTitle: "hva-er-morselskap"
-meta_description: 'Et **morselskap** er et selskap som har bestemmende innflytelse over ett eller flere andre selskaper ([datterselskaper](/blogs/regnskap/datterselskap "Hva er Da...'
-slug: hva-er-morselskap
-type: blog
-layout: pages/single
+description: 'Et **morselskap** er et selskap som har bestemmende innflytelse over ett eller flere andre selskaper ([datterselskaper](/blogs/regnskap/datterselskap "Hva er Da...'
 ---
 
 Et **morselskap** er et selskap som har bestemmende innflytelse over ett eller flere andre selskaper ([datterselskaper](/blogs/regnskap/datterselskap "Hva er Datterselskap? En Guide til Datterselskap og Konsernstruktur")) gjennom eierskap av aksjer eller andeler. Morselskapet står på toppen av en [konsernstruktur](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukturer og Konsolidering") og har kontroll over datterselskapenes strategiske beslutninger.

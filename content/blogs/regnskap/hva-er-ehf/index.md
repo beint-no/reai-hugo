@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er EHF?"
 seoTitle: "Hva er EHF?"
-meta_description: '**EHF** (Elektronisk Handelsformat) er Norges nasjonale standard for elektronisk utveksling av handelsdokumenter, spesielt [fakturaer](/blogs/regnskap/hva-er-en...'
-slug: hva-er-ehf
-type: blog
-layout: pages/single
+description: '**EHF** (Elektronisk Handelsformat) er Norges nasjonale standard for elektronisk utveksling av handelsdokumenter, spesielt [fakturaer](/blogs/regnskap/hva-er-en...'
 ---
 
 **EHF** (Elektronisk Handelsformat) er Norges nasjonale standard for elektronisk utveksling av handelsdokumenter, spesielt [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og andre forretningsdokumenter. Denne standarden, utviklet av Difi (nå Digitaliseringsdirektoratet), bygger på internasjonale UBL-standarder (Universal Business Language) og er tilpasset norske juridiske krav og forretningspraksis for [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring og Bokføringsregler") og [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring og Rapportering").

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er internkontroll?"
 seoTitle: "Hva er internkontroll?"
-meta_description: '**Internkontroll** er et omfattende system av prosesser, retningslinjer og prosedyrer som er utformet for å sikre at en organisasjon oppnår sine mål innenfor...'
-slug: hva-er-internkontroll
-type: blog
-layout: pages/single
+description: '**Internkontroll** er et omfattende system av prosesser, retningslinjer og prosedyrer som er utformet for å sikre at en organisasjon oppnår sine mål innenfor...'
 ---
 
 **Internkontroll** er et omfattende system av prosesser, retningslinjer og prosedyrer som er utformet for å sikre at en organisasjon oppnår sine mål innenfor operasjonell effektivitet, pålitelig finansiell rapportering og overholdelse av lover og forskrifter. Det er et kritisk styringssystem som beskytter organisasjonen mot risiko og sikrer at virksomheten drives på en kontrollert og ansvarlig måte. [Styret](/blogs/regnskap/hva-er-styre "Hva er Styre? Ansvar, Rolle og Oppgaver i Aksjeselskap") har det overordnede ansvaret for å etablere og overvåke effektive internkontrollsystemer.

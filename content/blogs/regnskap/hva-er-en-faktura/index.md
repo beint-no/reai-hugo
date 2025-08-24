@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er en faktura?"
 seoTitle: "Hva er en faktura?"
-meta_description: 'En faktura er et formelt, juridisk bindende dokument som en selger utsteder til en kjøper for å kreve betaling for varer eller tjenester. Den fungerer som et ...'
-slug: hva-er-en-faktura
-type: blog
-layout: pages/single
+description: 'En faktura er et formelt, juridisk bindende dokument som en selger utsteder til en kjøper for å kreve betaling for varer eller tjenester. Den fungerer som et ...'
 ---
 
 En faktura er et formelt, juridisk bindende dokument som en selger utsteder til en kjøper for å kreve betaling for varer eller tjenester. Den fungerer som et sentralt bilag i regnskapet og er grunnlaget for korrekt bokføring av salgsinntekter og [merverdiavgift](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge"). En **regning** er et mer generelt betalingskrav til kjøper, og omtales nærmere i artikkelen [Regning](/blogs/regnskap/regning "Regning i Norsk Regnskap - Guide til Regning, Regnskapskrav og Forskjell fra Faktura").

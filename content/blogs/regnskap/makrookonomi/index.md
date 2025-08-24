@@ -1,10 +1,7 @@
 ﻿---
 title: "Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap"
 seoTitle: "Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap"
-meta_description: '![Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap](makrookonomi-image.svg)'
-slug: makrookonomi
-type: blog
-layout: pages/single
+description: '![Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap](makrookonomi-image.svg)'
 ---
 
 ![Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap](makrookonomi-image.svg)

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Bruttofortjeneste?"
 seoTitle: "Hva er Bruttofortjeneste?"
-meta_description: '**Bruttofortjeneste** er et av de mest fundamentale nøkkeltallene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskap...'
-slug: hva-er-bruttofortjeneste
-type: blog
-layout: pages/single
+description: '**Bruttofortjeneste** er et av de mest fundamentale nøkkeltallene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskap...'
 ---
 
 **Bruttofortjeneste** er et av de mest fundamentale nøkkeltallene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring") og finansiell analyse. Som en del av [bruttobegrepet](/blogs/regnskap/hva-er-brutto "Hva er Brutto i Regnskap? Definisjon, Beregning og Praktisk Anvendelse") i regnskapet, representerer den forskjellen mellom bedriftens [driftsinntekter](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Driftsinntekter i Regnskap") og de direkte kostnadene knyttet til produksjon eller innkjøp av varene som selges. Bruttofortjeneste viser bedriftens evne til å generere [profitt](/blogs/regnskap/hva-er-profitt "Hva er Profitt? Komplett Guide til Profitt og Lønnsomhet") på kjernevirksomheten før faste kostnader som lønn, husleie og andre driftskostnader trekkes fra.

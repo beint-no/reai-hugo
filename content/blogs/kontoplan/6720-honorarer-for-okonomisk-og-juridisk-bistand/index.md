@@ -1,10 +1,7 @@
 ﻿---
 title: "Konto 6720 - Honorarer for økonomisk og juridisk bistand"
 seoTitle: "6720-honorarer-for-okonomisk-og-juridisk-bistand"
-meta_description: '**Konto 6720 - Honorarer for økonomisk og juridisk bistand** er en konto i Norsk Standard Kontoplan som brukes til å registrere **honorarer knyttet til økono...'
-slug: 6720-honorarer-for-okonomisk-og-juridisk-bistand
-type: blog
-layout: pages/single
+description: '**Konto 6720 - Honorarer for økonomisk og juridisk bistand** er en konto i Norsk Standard Kontoplan som brukes til å registrere **honorarer knyttet til økono...'
 ---
 
 **Konto 6720 - Honorarer for økonomisk og juridisk bistand** er en konto i Norsk Standard Kontoplan som brukes til å registrere **honorarer knyttet til økonomisk rådgivning, juridisk bistand og andre profesjonelle tjenester**.

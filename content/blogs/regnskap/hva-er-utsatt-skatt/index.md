@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Utsatt Skatt?"
 seoTitle: "Hva er Utsatt Skatt?"
-meta_description: '**Utsatt skatt** oppstår når den regnskapsmessige verdien av en eiendel eller forpliktelse avviker fra dens skattemessige grunnlag, og skatteeffekten derfor s...'
-slug: hva-er-utsatt-skatt
-type: blog
-layout: pages/single
+description: '**Utsatt skatt** oppstår når den regnskapsmessige verdien av en eiendel eller forpliktelse avviker fra dens skattemessige grunnlag, og skatteeffekten derfor s...'
 ---
 
 **Utsatt skatt** oppstår når den regnskapsmessige verdien av en eiendel eller forpliktelse avviker fra dens skattemessige grunnlag, og skatteeffekten derfor skyves til fremtidige perioder.

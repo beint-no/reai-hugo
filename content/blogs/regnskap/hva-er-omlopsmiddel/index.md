@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er omløpsmidler?"
 seoTitle: "Hva er omløpsmidler?"
-meta_description: '**Omløpsmidler** er **kortsiktige [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedri...'
-slug: hva-er-omlopsmiddel
-type: blog
-layout: pages/single
+description: '**Omløpsmidler** er **kortsiktige [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedri...'
 ---
 
 **Omløpsmidler** er **kortsiktige [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som en bedrift forventer å konvertere til kontanter, selge eller forbruke innen ett år eller den normale driftssyklusen. Disse [eiendelene](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier") er avgjørende for bedriftens **likviditet** og daglige drift. Omløpsmidler skiller seg fra [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap") ved at de er ment for kortsiktig bruk og rask konvertering til kontanter.

@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er Næringsoppgave 1?"
 seoTitle: "Hva er Næringsoppgave 1?"
-meta_description: '**NæringsoppgaveÂ 1** (ofte forkortet **N1**) er den vanligste skattemeldingen for næringsdrivende små virksomheter i Norge. I motsetning til generelle overs...'
-slug: naeringsoppgave-1
-type: blog
-layout: pages/single
+description: '**NæringsoppgaveÂ 1** (ofte forkortet **N1**) er den vanligste skattemeldingen for næringsdrivende små virksomheter i Norge. I motsetning til generelle overs...'
 ---
 
 **NæringsoppgaveÂ 1** (ofte forkortet **N1**) er den vanligste skattemeldingen for næringsdrivende små virksomheter i Norge. I motsetning til generelle oversikter om næringsoppgaver, går denne artikkelen detaljert gjennom formålet, oppsettet og praktiske råd for utfylling av NæringsoppgaveÂ 1.

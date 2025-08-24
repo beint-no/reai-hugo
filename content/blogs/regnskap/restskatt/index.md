@@ -1,10 +1,7 @@
 ﻿---
 title: "Restskatt"
 seoTitle: "Restskatt"
-meta_description: '**Restskatt** er den skatten som oppstår når **forskuddsskatt** eller **betalbar skatt** ikke dekker den endelige skatteforpliktelsen ved [skattemeldingen](/b...'
-slug: restskatt
-type: blog
-layout: pages/single
+description: '**Restskatt** er den skatten som oppstår når **forskuddsskatt** eller **betalbar skatt** ikke dekker den endelige skatteforpliktelsen ved [skattemeldingen](/b...'
 ---
 
 **Restskatt** er den skatten som oppstår når **forskuddsskatt** eller **betalbar skatt** ikke dekker den endelige skatteforpliktelsen ved [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering"). Dette kan føre til uventede kostnader og likviditetspress for virksomheter.

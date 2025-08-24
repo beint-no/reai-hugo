@@ -1,10 +1,7 @@
 ﻿---
 title: "NAV i Regnskap – Rolle og Bruk av Arbeids- og velferdsdata"
 seoTitle: "NAV i Regnskap “ Rolle og Bruk av Arbeids- og velferdsdata"
-meta_description: '![NAV i Regnskap](nav-image.svg)'
-slug: hva-er-nav
-type: blog
-layout: pages/single
+description: '![NAV i Regnskap](nav-image.svg)'
 ---
 
 ![NAV i Regnskap](nav-image.svg)

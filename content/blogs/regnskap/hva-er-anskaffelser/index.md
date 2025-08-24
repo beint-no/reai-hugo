@@ -1,10 +1,7 @@
 ﻿---
 title: "Hva er anskaffelser?"
 seoTitle: "Hva er anskaffelser?"
-meta_description: '**Anskaffelser** er prosessen med å kjøpe varer, tjenester eller bygge- og anleggsarbeider for å dekke en organisasjons behov. I Norge skilles det mellom **o...'
-slug: hva-er-anskaffelser
-type: blog
-layout: pages/single
+description: '**Anskaffelser** er prosessen med å kjøpe varer, tjenester eller bygge- og anleggsarbeider for å dekke en organisasjons behov. I Norge skilles det mellom **o...'
 ---
 
 **Anskaffelser** er prosessen med å kjøpe varer, tjenester eller bygge- og anleggsarbeider for å dekke en organisasjons behov. I Norge skilles det mellom **offentlige anskaffelser**, som er underlagt strenge regelverk, og **private anskaffelser**, som har større frihet i valg av leverandører og prosedyrer. For handelsbedrifter utgjør [varekjøp](/blogs/regnskap/hva-er-varekjop "Hva er Varekjøp? Komplett Guide til Regnskapsføring og Innkjøpsstyring") en spesiell kategori anskaffelser som er ment for videresalg til kunder.
