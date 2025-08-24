@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4330 - Innkjøp varer for videresalg middels sats"
-seoTitle: "4330-innkjop-varer-for-videresalg-middels-sats"
-description: '**Konto 4330 - Innkjøp varer for videresalg middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av varer for videresalg*...'
+seoTitle: "Konto 4330 | Innkjøp varer for videresalg | Middels MVA"
+description: "Konto 4330 brukes for kjøp av varer til videresalg med 15 % MVA. Lær når kontoen benyttes, hvordan bokføring skjer og hvordan den forholder seg til varelager og inngående merverdiavgift."
+summary: "Praktisk veiledning til konto 4330 for kjøp av varer med 15 % MVA og tilhørende bokføring."
 ---
 
 **Konto 4330 - Innkjøp varer for videresalg middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av varer for videresalg** som er **avgiftspliktige med middels MVA-sats (15 %)**.

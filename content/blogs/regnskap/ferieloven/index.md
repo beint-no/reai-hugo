@@ -1,7 +1,8 @@
 ﻿---
 title: "Ferieloven - Lov om ferie og regler for ferieavvikling i Norge"
-seoTitle: "Ferieloven - Lov om ferie og regler for ferieavvikling i Norge"
-description: '**Ferieloven** (lov om ferie av 29. april 1988 nr. 21) er en av de viktigste lovene for norske arbeidstakere og arbeidsgivere. Den setter rammer for **ferieavvi...'
+seoTitle: "Ferieloven | Regler for ferie, varsling og feriepenger"
+description: "Ferieloven regulerer ferieavvikling i Norge. Denne guiden dekker minstekrav, hovedferie, varsling, beregning av feriepenger og praktiske råd for arbeidsgivere og ansatte."
+summary: "Oversikt over Ferieloven: rettigheter, plikter, varsling og feriepenger for arbeidsgiver og arbeidstaker."
 ---
 
 **Ferieloven** (lov om ferie av 29. april 1988 nr. 21) er en av de viktigste lovene for norske arbeidstakere og arbeidsgivere. Den setter rammer for **ferieavvikling**, **feriepengeoppsparing** og **minstekrav** til ferie.

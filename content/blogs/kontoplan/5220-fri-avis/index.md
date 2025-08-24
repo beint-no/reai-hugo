@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5220 - Fri avis"
-seoTitle: "5220-fri-avis"
-description: '**Konto 5220 - Fri avis** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri avis** som **ansattgode**.'
+seoTitle: "Konto 5220 | Fri avis | Ansattgode"
+description: "Konto 5220 brukes til å føre verdien av fri avis som ansattgode. Lær om beregning, periodisering, bokføring og relaterte kontoer."
+summary: "Kort innføring i konto 5220 for fri avis som ansattgode med eksempler på føring."
 ---
 
 **Konto 5220 - Fri avis** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri avis** som **ansattgode**.

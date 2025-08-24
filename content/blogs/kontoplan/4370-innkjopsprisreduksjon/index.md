@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4370 - Innkjøpsprisreduksjon"
-seoTitle: "4370-innkjopsprisreduksjon"
-description: '**Konto 4370 - Innkjøpsprisreduksjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **prisavslag** fra leverandører på kjøp av varer ...'
+seoTitle: "Konto 4370 | Innkjøpsprisreduksjon | Kontoplan"
+description: "Konto 4370 brukes til å registrere prisavslag fra leverandører ved kjøp av varer for videresalg. Se hvordan prisreduksjon bokføres og påvirker kostnader, inngående MVA og lagerverdi."
+summary: "Forklaring av konto 4370 for innkjøpsprisreduksjon og praktiske føringseksempler."
 ---
 
 **Konto 4370 - Innkjøpsprisreduksjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **prisavslag** fra leverandører på kjøp av varer for videresalg.

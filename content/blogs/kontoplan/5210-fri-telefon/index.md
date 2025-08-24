@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5210 - Fri telefon"
-seoTitle: "5210-fri-telefon"
-description: '**Konto 5210 - Fri telefon** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri telefon** som **ansattgode**.'
+seoTitle: "Konto 5210 | Fri telefon | Ansattgode"
+description: "Konto 5210 brukes til å føre verdien av fri telefon som ansattgode. Les om beregning, bokføring og relaterte kontoer i lønnsområdet."
+summary: "Praktisk innføring i konto 5210 for fri telefon som ansattgode med føringseksempler."
 ---
 
 **Konto 5210 - Fri telefon** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri telefon** som **ansattgode**.

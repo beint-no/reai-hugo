@@ -1,7 +1,8 @@
 ﻿---
 title: "Firmabil"
-seoTitle: "Firmabil"
-description: '**Firmabil** er et kjøretøy som eies, leases eller disponeres av virksomheten og stilles til rådighet for ansatte. Bruken av firmabil har både **regnskapsme...'
+seoTitle: "Firmabil | Beskatning, kjørebok og regnskapsføring"
+description: "Firmabil er et kjøretøy stilt til disposisjon av arbeidsgiver. Lær reglene for fordelsbeskatning, krav til kjørebok, og hvordan kostnader og avgifter bokføres i regnskapet."
+summary: "Regler for firmabil: skatt på privat bruk, kjørebokkrav og regnskapsføring."
 ---
 
 **Firmabil** er et kjøretøy som eies, leases eller disponeres av virksomheten og stilles til rådighet for ansatte. Bruken av firmabil har både **regnskapsmessige** og **skattemessige** konsekvenser i Norge.

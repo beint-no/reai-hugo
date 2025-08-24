@@ -1,7 +1,8 @@
 ﻿---
 title: "Fødselspermisjon: Guide til foreldrepenger og regnskapsføring i Norge"
-seoTitle: "Fødselspermisjon: Guide til foreldrepenger og regnskapsføring i Norge"
-description: '**Fødselspermisjon** er en periode i forbindelse med fødsel eller adopsjon der foreldre har rett til permisjon med **foreldrepenger** fra NAV for å ivareta o...'
+seoTitle: "Fødselspermisjon | Foreldrepenger, kvoter og regnskapsføring"
+description: "Fødselspermisjon gir rett til permisjon og foreldrepenger ved fødsel eller adopsjon. Lær om mødre- og fedrekvote, kompensasjonsnivåer, NAV-refusjon og regnskapsføring hos arbeidsgiver."
+summary: "Oversikt over fødselspermisjon: kvoter, foreldrepenger, NAV-refusjon og bokføring."
 ---
 
 **Fødselspermisjon** er en periode i forbindelse med fødsel eller adopsjon der foreldre har rett til permisjon med **foreldrepenger** fra NAV for å ivareta omsorgen for sitt barn. Ordningen er en del av [Folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Struktur og Ytelser") og gir økonomisk trygghet i permisjonsperioden.

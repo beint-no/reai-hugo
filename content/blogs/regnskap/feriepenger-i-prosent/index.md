@@ -1,7 +1,8 @@
 ﻿---
 title: "Feriepenger i prosent"
-seoTitle: "Feriepenger i prosent"
-description: '**Feriepenger i prosent** er satsen som benyttes for å beregne **feriepenger** i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om f...'
+seoTitle: "Feriepenger i prosent | Satser, beregning og eksempler"
+description: "Feriepenger i prosent er satsen som brukes for å beregne feriepenger. Guiden forklarer vanlige prosentsatser, hvordan beregningen gjøres i praksis og hvilke unntak som kan gjelde."
+summary: "Satser for feriepenger i prosent, hvordan du beregner dem og vanlige unntak."
 ---
 
 **Feriepenger i prosent** er satsen som benyttes for å beregne **feriepenger** i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")**. Å forstå de ulike prosentsatsene, unntakene og praktiske beregningseksempler sikrer korrekt håndtering av feriepengeplikten.

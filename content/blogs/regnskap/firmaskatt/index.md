@@ -1,7 +1,8 @@
 ﻿---
 title: "Firmaskatt"
-seoTitle: "Firmaskatt"
-description: '**Firmaskatt** (også kalt **selskapsskatt**) er den skatten et selskap må betale av sitt skattemessige overskudd. Firmaskatt er en sentral del av bedriftens *...'
+seoTitle: "Firmaskatt | Slik beregnes og bokføres selskapsskatt"
+description: "Firmaskatt, også kalt selskapsskatt, beregnes av alminnelig inntekt. Les om satser, betalingsfrister, forskuddsskatt, og hvordan betalbar skatt bokføres i regnskapet."
+summary: "Hva er firmaskatt, hvordan beregnes den og hvordan føres den i regnskapet."
 ---
 
 **Firmaskatt** (også kalt **selskapsskatt**) er den skatten et selskap må betale av sitt skattemessige overskudd. Firmaskatt er en sentral del av bedriftens **økonomiske planlegging** og påvirker både likviditet og lønnsomhet.

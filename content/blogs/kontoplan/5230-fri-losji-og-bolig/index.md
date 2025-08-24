@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5230 - Fri losji og bolig"
-seoTitle: "5230-fri-losji-og-bolig"
-description: '**Konto 5230 - Fri losji og bolig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri losji og bolig** som **ans...'
+seoTitle: "Konto 5230 | Fri losji og bolig | Ansattgode"
+description: "Konto 5230 brukes til å føre verdien av fri losji og bolig som ansattgode. Les om beregning, bokføring, periodisering og skattemessige forhold."
+summary: "Guide til konto 5230 for fri losji og bolig som ansattgode, med beregning og bokføring."
 ---
 
 **Konto 5230 - Fri losji og bolig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri losji og bolig** som **ansattgode**.

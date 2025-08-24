@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5180 - Feriepenger beregnet"
-seoTitle: "5180-feriepenger-beregnet"
-description: '**Konto 5180 - Feriepenger beregnet** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **beregnede feriepenger** som en del av...'
+seoTitle: "Konto 5180 | Feriepenger beregnet | Kontoplan"
+description: "Konto 5180 brukes for beregnede feriepenger som kostnadsføres i perioden de opptjenes. Les om periodisering, bokføring og avstemming mot konto 2940 og lønnssystem."
+summary: "Kort guide til konto 5180 for beregnede feriepenger med praktiske føringseksempler."
 ---
 
 **Konto 5180 - Feriepenger beregnet** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **beregnede feriepenger** som en del av **lønnsrelaterte kostnader**.

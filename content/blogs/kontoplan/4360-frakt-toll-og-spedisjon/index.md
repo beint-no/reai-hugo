@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4360 - Frakt, toll og spedisjon"
-seoTitle: "4360-frakt-toll-og-spedisjon"
-description: '**Konto 4360 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** knyttet til kjøp av ...'
+seoTitle: "Konto 4360 | Frakt, toll og spedisjon | Kontoplan"
+description: "Konto 4360 brukes for frakt, toll og spedisjon ved kjøp av varer for videresalg. Les om når kontoen benyttes, typiske transaksjoner og hvordan kostnadene påvirker lagerverdi og regnskap."
+summary: "Oversikt over konto 4360 for frakt, toll og spedisjon og hvordan kostnadene bokføres."
 ---
 
 **Konto 4360 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** knyttet til kjøp av varer for videresalg.

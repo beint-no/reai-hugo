@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Forhåndsfastsetting?"
-seoTitle: "Hva er Forhåndsfastsetting?"
-description: 'Forhåndsfastsetting er skattemyndighetenes **rett til å fastsette** en skattyters inntekts- og formuesgrunnlag på forhånd når skattemelding ikke er levert ...'
+seoTitle: "Forhåndsfastsetting | Når og hvordan Skatteetaten fastsetter skatt"
+description: "Forhåndsfastsetting brukes når skattemelding mangler eller er feil. Les om lovgrunnlag, prosess, frister og klagemuligheter, samt praktisk eksempel."
+summary: "Forklaring av forhåndsfastsetting: grunnlag, prosess, frister og klage."
 ---
 
 Forhåndsfastsetting er skattemyndighetenes **rett til å fastsette** en skattyters inntekts- og formuesgrunnlag på forhånd når skattemelding ikke er levert innen fristen eller når opplysningene er mangelfulle. Denne artikkelen gir en **detaljert gjennomgang** av det juridiske grunnlaget, prosessen, relevante frister og klagemuligheter.

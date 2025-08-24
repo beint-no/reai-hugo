@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4300 - Innkjøp varer for videresalg høy sats"
-seoTitle: "4300-innkjop-varer-for-videresalg-hoy-sats"
-description: '**Konto 4300 - Innkjøp varer for videresalg høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av varer for videresalg** s...'
+seoTitle: "Konto 4300 | Innkjøp varer for videresalg | Høy MVA-sats"
+description: "Konto 4300 brukes for kjøp av varer til videresalg med 25 % MVA. Lær hvordan kontoen bokføres, hvilke transaksjoner som hører til og hvordan den henger sammen med varelager og inngående merverdiavgift."
+summary: "Kort forklaring av konto 4300 for kjøp av varer til videresalg med 25 % MVA og praktiske bokføringseksempler."
 ---
 
 **Konto 4300 - Innkjøp varer for videresalg høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av varer for videresalg** som er **avgiftspliktige med høy MVA-sats (25 %)**.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4390 - Beholdningsendring"
-seoTitle: "4390-beholdningsendring"
-description: '**Konto 4390 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i beholdningen av ferdige varer** i resultat...'
+seoTitle: "Konto 4390 | Beholdningsendring | Ferdige varer"
+description: "Konto 4390 brukes til å føre endringer i beholdningen av ferdige varer i resultatregnskapet. Les om beregning, vurderingsmetoder og hvordan posteringen påvirker resultat."
+summary: "Slik fører du konto 4390 for beholdningsendring av ferdige varer, med metoder og eksempler."
 ---
 
 **Konto 4390 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i beholdningen av ferdige varer** i resultatregnskapet.

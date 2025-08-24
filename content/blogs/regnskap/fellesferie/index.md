@@ -1,7 +1,8 @@
 ﻿---
 title: "Fellesferie - Hva, regler og planlegging i Norge"
-seoTitle: "Fellesferie - Hva, regler og planlegging i Norge"
-description: '**Fellesferie** er en periode hvor arbeidstakere avvikler sommerferie samtidig i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om fe...'
+seoTitle: "Fellesferie i Norge | Regler, planlegging og regnskap"
+description: "Fellesferie er perioden der mange virksomheter legger sommerferie samlet. Denne guiden forklarer regler etter ferieloven, varsling og varighet, planlegging i bedrift, og hvordan kostnader og avsetninger håndteres i regnskapet."
+summary: "Kort forklaring av fellesferie med regler, varsling, planlegging og regnskapsmessig håndtering."
 ---
 
 **Fellesferie** er en periode hvor arbeidstakere avvikler sommerferie samtidig i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")**. Ordningen sikrer planlagt ferieavvikling for virksomheter og gode ferieopplevelser for ansatte.

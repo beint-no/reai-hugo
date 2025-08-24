@@ -1,7 +1,8 @@
 ﻿---
 title: "Foretaksmodellen"
-seoTitle: "Foretaksmodellen"
-description: '**Foretaksmodellen** er en **regnskaps- og skattevurderingsmodell** som brukes for å analysere og sammenstille regnskapet til et foretak i Norge. Modellen defi...'
+seoTitle: "Foretaksmodellen | Vurderingsmodell for regnskap og skatt"
+description: "Foretaksmodellen brukes til å vurdere eiendeler, forpliktelser og egenkapital, og til å beregne skattegrunnlag. Les prinsipper, bruksområder og eksempler."
+summary: "Hva er foretaksmodellen, hvilke prinsipper bygger den på, og når brukes den."
 ---
 
 **Foretaksmodellen** er en **regnskaps- og skattevurderingsmodell** som brukes for å analysere og sammenstille regnskapet til et foretak i Norge. Modellen definerer prinsipper for vurdering av **eiendeler**, **forpliktelser**, og **egenkapital**, samt bestemmelse av **skattegrunnlag** og rapporteringskrav.

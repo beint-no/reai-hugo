@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5182 - Arbeidsgiveravgift påløpte feriepenger"
-seoTitle: "5182-arbeidsgiveravgift-palopte-feriepenger"
-description: '**Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **påløpt arbeidsg...'
+seoTitle: "Konto 5182 | AGA på påløpte feriepenger | Kontoplan"
+description: "Konto 5182 brukes til periodisering av arbeidsgiveravgift på påløpte feriepenger. Les om beregning, bokføring og avstemming mot feriepenger og avgiftskontoer."
+summary: "Slik fører du konto 5182 for arbeidsgiveravgift på påløpte feriepenger, med eksempler."
 ---
 
 **Konto 5182 - Arbeidsgiveravgift påløpte feriepenger** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **påløpt arbeidsgiveravgift** knyttet til **feriepenger**.

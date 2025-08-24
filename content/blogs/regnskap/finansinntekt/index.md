@@ -1,7 +1,8 @@
 ﻿---
 title: "Finansinntekt"
-seoTitle: "Finansinntekt"
-description: '**Finansinntekt** er inntekter som oppstår fra virksomhetens finansielle aktiviteter, som **renter**, **utbytte** og **kapitalgevinster**. Forståelse av finan...'
+seoTitle: "Finansinntekt | Renter, utbytte og gevinster i regnskap"
+description: "Finansinntekt omfatter renteinntekter, utbytte, valutagevinster og andre kapitalgevinster. Les hvordan finansinntekter inntektsføres, beskattes og presenteres i regnskapet."
+summary: "Hva regnes som finansinntekt, hvordan bokføres og beskattes det i Norge."
 ---
 
 **Finansinntekt** er inntekter som oppstår fra virksomhetens finansielle aktiviteter, som **renter**, **utbytte** og **kapitalgevinster**. Forståelse av finansinntekt er viktig for korrekt regnskapsføring og skatteberegning i norsk regnskap.

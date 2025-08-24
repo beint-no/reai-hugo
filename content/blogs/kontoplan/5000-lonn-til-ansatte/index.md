@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5000 - Lønn til ansatte"
-seoTitle: "5000-lonn-til-ansatte"
-description: '**Konto 5000 - Lønn til ansatte** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **lønnskostnader** og **relaterte ytelser...'
+seoTitle: "Konto 5000 | Lønn til ansatte | Kontoplan"
+description: "Konto 5000 brukes til å føre lønnskostnader og relaterte ytelser. Se når kontoen brukes, vanlige posteringer og sammenhengen mot forskuddstrekk, arbeidsgiveravgift og periodisering."
+summary: "Guide til konto 5000 for lønn til ansatte med bokføring, avstemming og relaterte kontoer."
 ---
 
 **Konto 5000 - Lønn til ansatte** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **lønnskostnader** og **relaterte ytelser** til ansatte, inkludert **arbeidsgiveravgift**, **forskuddstrekk** og andre påløpte kostnader.

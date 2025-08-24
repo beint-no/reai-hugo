@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5200 - Fri bil"
-seoTitle: "5200-fri-bil"
-description: '**Konto 5200 - Fri bil** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri bil** som **ansattgode**.'
+seoTitle: "Konto 5200 | Fri bil | Ansattgode"
+description: "Konto 5200 brukes til å føre verdien av fri bil som ansattgode. Les om beregning etter Skatteetatens satser, bokføring og relaterte lønnskontoer."
+summary: "Slik bokfører du konto 5200 for fri bil som ansattgode med satser og eksempler."
 ---
 
 **Konto 5200 - Fri bil** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **verdi av fri bil** som **ansattgode**.

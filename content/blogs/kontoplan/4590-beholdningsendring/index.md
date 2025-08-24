@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4590 - Beholdningsendring"
-seoTitle: "4590-beholdningsendring"
-description: '**Konto 4590 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i varelagerets beholdning** i resultatregnsk...'
+seoTitle: "Konto 4590 | Beholdningsendring | Varelager"
+description: "Konto 4590 brukes til å føre endringer i varelagerets beholdning i resultatregnskapet. Les om beregning, bokføring og hvordan ulike lagermetoder påvirker perioden."
+summary: "Slik bokfører du konto 4590 for beholdningsendringer i varelageret, med eksempler."
 ---
 
 **Konto 4590 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i varelagerets beholdning** i resultatregnskapet.

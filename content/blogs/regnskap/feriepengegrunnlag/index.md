@@ -1,7 +1,8 @@
 ﻿---
 title: "Feriepengegrunnlag - Grunnlag for beregning av feriepenger i Norge"
-seoTitle: "Feriepengegrunnlag - Grunnlag for beregning av feriepenger i Norge"
-description: '**Feriepengegrunnlag** er det økonomiske **grunnlaget** for beregning av feriepenger i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lo...'
+seoTitle: "Feriepengegrunnlag | Slik beregnes feriepenger i Norge"
+description: "Feriepengegrunnlag er inntektene som danner grunnlag for feriepenger. Her får du en enkel forklaring av hva som inngår, satser, eksempel på beregning og hvordan grunnlaget periodiseres i regnskapet."
+summary: "Hva inngår i feriepengegrunnlaget, hvordan beregnes feriepenger og hvordan føres det i regnskapet."
 ---
 
 **Feriepengegrunnlag** er det økonomiske **grunnlaget** for beregning av feriepenger i henhold til **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")** og norsk regnskapspraksis. Et korrekt feriepengegrunnlag sikrer at arbeidstakere får riktig **kompensasjon** og at virksomheter oppfyller sine regnskaps- og rapporteringsforpliktelser.

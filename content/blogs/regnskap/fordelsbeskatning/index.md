@@ -1,7 +1,8 @@
 ﻿---
 title: "Fordelsbeskatning"
-seoTitle: "Fordelsbeskatning"
-description: '**Fordelsbeskatning** er beskatning av [naturalytelser](/blogs/regnskap/naturalytelser "Naturalytelser i Norsk Regnskap: Guide til Naturlige Ytelser og Beskatni...'
+seoTitle: "Fordelsbeskatning | Naturalytelser og skatteregler"
+description: "Fordelsbeskatning er skatt på naturalytelser som firmabil, fri telefon og personalrabatt. Les hvordan fordeler verdsettes, beskattes og føres i lønn og regnskap."
+summary: "Hva er fordelsbeskatning, hvilke ytelser omfattes og hvordan beregnes og bokføres det."
 ---
 
 **Fordelsbeskatning** er beskatning av [naturalytelser](/blogs/regnskap/naturalytelser "Naturalytelser i Norsk Regnskap: Guide til Naturlige Ytelser og Beskatning") og personalfordeler som ansatte mottar fra arbeidsgiver. Skattereglene for fordelsbeskatning sikrer at alle **fordeler** behandles rettferdig og at arbeidstaker beskattes for den økonomiske verdien av ytelsen. Fordelsbeskatning omfatter blant annet [Firmabil](/blogs/regnskap/firmabil "Firmabil - Regnskapsføring og Skattebehandling"), [Personalrabatt](/blogs/regnskap/hva-er-personalrabatt "Hva er Personalrabatt? Skatteplikt og Regnskapsføring") og [Tjenestepensjon](/blogs/regnskap/hva-er-tjenestepensjon "Hva er Tjenestepensjon? Regulering og Regnskapsføring").
