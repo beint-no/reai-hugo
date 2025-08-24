@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1613 - Inngående merverdiavgift middels sats"
-seoTitle: "1613-inngaaende-merverdiavgift-middels-sats"
-description: '**Konto 1613 - Inngående merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift med midd...'
+seoTitle: "Konto 1613 | Inngående MVA middels sats | Kontoplan"
+description: "Konto 1613 brukes til å registrere inngående merverdiavgift med middels sats (15 %) som fradrag i regnskapet. Les om regler, fradragsrett, bokføring og eksempler."
+summary: "Konto 1613: inngående MVA med middels sats. Når kontoen brukes, og hvordan bokføre riktig."
 ---
 
 **Konto 1613 - Inngående merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift med middels sats (15 %)** som et fradragsberettiget beløp i regnskapet for kjøp av varer og tjenester med redusert MVA-sats.

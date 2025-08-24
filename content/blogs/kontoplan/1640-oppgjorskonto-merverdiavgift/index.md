@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1640 - Oppgjørskonto merverdiavgift"
-seoTitle: "1640-oppgjorskonto-merverdiavgift"
-description: '**Konto 1640 - Oppgjørskonto merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å avstemme og oppgjøre **merverdiavgift (MVA)** mello...'
+seoTitle: "Konto 1640 | Oppgjørskonto merverdiavgift | Kontoplan"
+description: "Konto 1640 brukes til å avstemme og oppgjøre merverdiavgift (MVA) mellom utgående og inngående MVA ved periodeavslutning. Lær regler, bokføring, avstemming og eksempler."
+summary: "Konto 1640: oppgjørskonto for MVA. Slik avstemmer og bokfører du mellom utgående og inngående MVA."
 ---
 
 **Konto 1640 - Oppgjørskonto merverdiavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å avstemme og oppgjøre **merverdiavgift (MVA)** mellom utgående og inngående MVA.

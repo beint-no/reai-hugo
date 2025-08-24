@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1600 - Utgående merverdiavgift"
-seoTitle: "1600-utgaende-merverdiavgift"
-description: '**Konto 1600 - Utgående merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **utgående merverdiavgift (MVA)** som en gjeld ti...'
+seoTitle: "Konto 1600 | Utgående merverdiavgift | Kontoplan"
+description: "Konto 1600 brukes til å registrere utgående merverdiavgift (MVA) som gjeld frem til innbetaling. Lær regler, satser, bokføring og eksempler for korrekt MVA-rapportering."
+summary: "Kort guide til konto 1600: hva utgående MVA er, når kontoen brukes og hvordan bokføre og avregne riktig."
 ---
 
 **Konto 1600 - Utgående merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **utgående merverdiavgift (MVA)** som en gjeld til skattemyndighetene frem til innbetaling.

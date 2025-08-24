@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1620 - Investeringsavgift"
-seoTitle: "1620-investeringsavgift"
-description: '**Konto 1620 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **investeringsavgift** knyttet til investeringer i a...'
+seoTitle: "Konto 1620 | Investeringsavgift | Kontoplan"
+description: "Konto 1620 brukes til å registrere investeringsavgift knyttet til investeringer i anleggsmidler. Les om regler, aktivering i anskaffelseskost, bokføring og eksempler."
+summary: "Konto 1620: investeringsavgift. Når den aktiveres som del av anskaffelseskost, og hvordan bokføre."
 ---
 
 **Konto 1620 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **investeringsavgift** knyttet til investeringer i anleggsmidler.

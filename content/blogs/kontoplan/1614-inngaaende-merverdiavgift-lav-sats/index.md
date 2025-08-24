@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 1614 - Inngående merverdiavgift lav sats?"
-seoTitle: "1614-inngaaende-merverdiavgift-lav-sats"
-description: '**Konto 1614 - Inngående merverdiavgift lav sats** brukes for å bokføre *inngående merverdiavgift* på varer og tjenester som har den **reduserte MVA-satsen...'
+seoTitle: "Konto 1614 | Inngående MVA lav sats | Kontoplan"
+description: "Konto 1614 brukes til å bokføre inngående merverdiavgift med lav sats (12 %) på varer og tjenester. Les om regler, fradragsrett, bokføring og praktiske eksempler."
+summary: "Konto 1614: inngående MVA med lav sats. Når den brukes og hvordan bokføre riktig."
 ---
 
 **Konto 1614 - Inngående merverdiavgift lav sats** brukes for å bokføre *inngående merverdiavgift* på varer og tjenester som har den **reduserte MVA-satsen (12%)**. Denne kontoen er en del av [Norsk Standard Kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er Kontoplan?").

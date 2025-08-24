@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1603 - Utgående merverdiavgift middels sats"
-seoTitle: "1603-utgaende-merverdiavgift-middels-sats"
-description: '**Konto 1603 - Utgående merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **utgående merverdiavgift med middel...'
+seoTitle: "Konto 1603 | Utgående MVA middels sats | Kontoplan"
+description: "Konto 1603 brukes til å registrere utgående merverdiavgift med middels sats (15 %) som gjeld frem til innbetaling. Les om satser, regler, bokføring og eksempler."
+summary: "Konto 1603: utgående MVA med middels sats. Når kontoen brukes, og hvordan bokføre riktig."
 ---
 
 **Konto 1603 - Utgående merverdiavgift middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **utgående merverdiavgift med middels sats** (15–¯%) som en gjeld til skattemyndighetene frem til innbetaling.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1601 - Utgående merverdiavgift høy sats"
-seoTitle: "1601-utgaende-merverdiavgift-hoy-sats"
-description: '**Konto 1601 - Utgående merverdiavgift høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **utgående merverdiavgift med høy sats...'
+seoTitle: "Konto 1601 | Utgående MVA høy sats | Kontoplan"
+description: "Konto 1601 brukes til å registrere utgående merverdiavgift med høy sats (25 %) som gjeld frem til innbetaling. Les om regler, bokføring, satser og praktiske eksempler."
+summary: "Konto 1601: utgående MVA med høy sats. Når den brukes, og hvordan bokføre riktig."
 ---
 
 **Konto 1601 - Utgående merverdiavgift høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **utgående merverdiavgift med høy sats** (25 %) som en gjeld til skattemyndighetene fram til innbetaling.
