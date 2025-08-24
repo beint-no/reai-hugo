@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1400 - Råvarer og innkjøpte halvfabrikater"
-seoTitle: "1400-raavarer-og-innkjopte-halvfabrikater"
-description: '**Konto 1400 - Råvarer og innkjøpte halvfabrikater** er en konto i Norsk Standard Kontoplan som brukes til å registrere **råvarer** og **innkjøpte halvfabr...'
+seoTitle: "Konto 1400 | Råvarer og innkjøpte halvfabrikater | Kontoplan"
+description: '**Konto 1400 - Råvarer og innkjøpte halvfabrikater** brukes til å registrere **råvarer** og **innkjøpte halvfabrikater** i varelager. Les om lagerføring, verdsettelse, regnskapsføringsposter og relaterte kontoer.'
+summary: "Konto 1400 dekker råvarer og innkjøpte halvfabrikater. Oppsummerer lagerføring, verdsettelse og typiske bokføringsposter."
 ---
 
 **Konto 1400 - Råvarer og innkjøpte halvfabrikater** er en konto i Norsk Standard Kontoplan som brukes til å registrere **råvarer** og **innkjøpte halvfabrikater** som inngår i selskapets varelager.

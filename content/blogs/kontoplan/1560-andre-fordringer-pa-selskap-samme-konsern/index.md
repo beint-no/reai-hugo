@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1560 - Andre fordringer på selskap samme konsern?"
-seoTitle: "1560-andre-fordringer-pa-selskap-samme-konsern"
-description: '**Konto 1560 - Andre fordringer på selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige fordringer**...'
+title: "Konto 1560 - Andre fordringer på selskap samme konsern"
+seoTitle: "Konto 1560 | Andre fordringer på selskap samme konsern | Kontoplan"
+description: '**Konto 1560 - Andre fordringer på selskap samme konsern** brukes til å registrere **andre kortsiktige fordringer** mot konsernselskap utenom kundefordringer. Les om opprettelse, tilbakebetaling, konsolidering og praktiske hensyn.'
+summary: "Konto 1560 dekker andre intercompany fordringer. Oppsummerer opprettelse, tilbakebetaling og konsolidering."
 ---
 
 **Konto 1560 - Andre fordringer på selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige fordringer** mot selskaper i samme konsern som ikke faller inn under kundefordringer.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1580 - Avsetning tap på fordringer"
-seoTitle: "1580-avsetning-tap-pa-fordringer"
-description: '**Konto 1580 - Avsetning tap på fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avsetning for tap på fordringer** som en **...'
+seoTitle: "Konto 1580 | Avsetning tap på fordringer | Kontoplan"
+description: '**Konto 1580 - Avsetning tap på fordringer** brukes som **motkonto** til fordringskontoer for å reflektere forventede tap. Les om når kontoen skal brukes, beregning, bokføring og eksempel.'
+summary: "Konto 1580 dekker avsetning for tap på fordringer. Oppsummerer når kontoen brukes, beregning og bokføring."
 ---
 
 **Konto 1580 - Avsetning tap på fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avsetning for tap på fordringer** som en **motkonto** til fordringskontoer som [Konto 1500 - Kundefordringer](/blogs/kontoplan/1500-kundefordringer "Konto 1500 - Kundefordringer") og [Konto 1390 - Andre fordringer](/blogs/kontoplan/1390-andre-fordringer "Konto 1390 - Andre fordringer") i balansen.

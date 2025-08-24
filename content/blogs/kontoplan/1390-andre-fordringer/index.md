@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1390 - Andre fordringer"
-seoTitle: "1390-andre-fordringer"
-description: '**Konto 1390 - Andre fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige fordringer uten sikkerhet** som ikke d...'
+seoTitle: "Konto 1390 | Andre fordringer | Kontoplan"
+description: '**Konto 1390 - Andre fordringer** brukes til å registrere **andre kortsiktige fordringer uten sikkerhet** som ikke dekkes av andre spesifikke kontoer. Les om typiske eksempler, vurdering, nedskrivning og bokføring.'
+summary: "Konto 1390 dekker andre kortsiktige fordringer. Oppsummerer eksempler, vurdering, nedskrivning og bokføring."
 ---
 
 **Konto 1390 - Andre fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre kortsiktige fordringer uten sikkerhet** som ikke dekkes av spesifikke fordringskontoer som kundefordringer, fordringer på eiere eller ansatte.

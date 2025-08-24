@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1460 - Innkjøpte varer for videresalg"
-seoTitle: "1460-innkjopte-varer-for-videresalg"
-description: '**Konto 1460 - Innkjøpte varer for videresalg** er en konto i Norsk Standard Kontoplan som brukes til å registrere **handelsvarer** og **varekjøp** som skal ...'
+seoTitle: "Konto 1460 | Innkjøpte varer for videresalg | Kontoplan"
+description: '**Konto 1460 - Innkjøpte varer for videresalg** omfatter handelsvarer og varekjøp som skal selges videre uten bearbeiding. Les om lagerføring, vurdering og bokføring.'
+summary: "Konto 1460 dekker innkjøpte varer for videresalg. Oppsummerer lagerføring, vurdering og typiske bokføringsposter."
 ---
 
 **Konto 1460 - Innkjøpte varer for videresalg** er en konto i Norsk Standard Kontoplan som brukes til å registrere **handelsvarer** og **varekjøp** som skal videreselges uten ytterligere bearbeiding.

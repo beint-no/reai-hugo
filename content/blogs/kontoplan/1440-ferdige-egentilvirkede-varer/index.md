@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1440 - Ferdige egentilvirkede varer"
-seoTitle: "1440-ferdige-egentilvirkede-varer"
-description: '**Konto 1440 - Ferdige egentilvirkede varer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **ferdige egentilvirkede varer** som er fullst...'
+seoTitle: "Konto 1440 | Ferdige egentilvirkede varer | Kontoplan"
+description: '**Konto 1440 - Ferdige egentilvirkede varer** gjelder ferdig bearbeidede varer klare for salg. Les om kostnadskomponenter, overføring fra WIP, verdsettelse og bokføring.'
+summary: "Konto 1440 dekker ferdige egentilvirkede varer. Oppsummerer kostnader, overføring fra varer under utvikling, verdsettelse og bokføring."
 ---
 
 **Konto 1440 - Ferdige egentilvirkede varer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **ferdige egentilvirkede varer** som er fullstendig bearbeidet og klare for salg.

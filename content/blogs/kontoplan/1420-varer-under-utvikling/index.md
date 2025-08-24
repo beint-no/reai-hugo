@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1420 - Varer under utvikling"
-seoTitle: "1420-varer-under-utvikling"
-description: '**Konto 1420 - Varer under utvikling** er en konto i Norsk Standard Kontoplan som brukes til å registrere **varer under utvikling** som pågår i produksjonspr...'
+seoTitle: "Konto 1420 | Varer under utvikling | Kontoplan"
+description: '**Konto 1420 - Varer under utvikling** dekker varer under tilvirkning/arbeid under utførelse i produksjonsprosessen. Les om kostnadskomponenter, vurdering, regnskapsføringsposter og overføring til ferdigvare.'
+summary: "Konto 1420 gjelder varer under utvikling. Oppsummerer kostnadskomponenter, vurdering og bokføring frem til ferdigvare."
 ---
 
 **Konto 1420 - Varer under utvikling** er en konto i Norsk Standard Kontoplan som brukes til å registrere **varer under utvikling** som pågår i produksjonsprosessen før de klassifiseres som [ferdige varer](/blogs/kontoplan/1440-ferdige-egentilvirkede-varer "Konto 1440 - Ferdige egentilvirkede varer").

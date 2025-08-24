@@ -9,6 +9,7 @@ that would increase CTR when people search
 description: Only used in meta description, never rendred on page, should be longer than title targeting keywords people search for related to the title
 summary: Like description, but meant to be shown on the page
 layout: sometimes if the default page.html og section.html is not fitting our needs
+In description and summary there should be no bolding with **, just plaintext.
 
 * Blogs are always under /blogs
 * Individual pages are always top-level without any extra folder

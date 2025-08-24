@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1500 - Kundefordringer?"
-seoTitle: "1500-kundefordringer"
-description: '**Konto 1500 - Kundefordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salg på kreditt** til kunder som kortsiktige fordringer ...'
+title: "Konto 1500 - Kundefordringer"
+seoTitle: "Konto 1500 | Kundefordringer | Kontoplan"
+description: '**Konto 1500 - Kundefordringer** brukes til å registrere **salg på kreditt** som kortsiktige fordringer. Les om innregning, innbetaling, tapsavsetning og risikostyring.'
+summary: "Konto 1500 dekker kundefordringer. Oppsummerer førsteinnregning, innbetaling, tapsavsetning og risikofaktorer."
 ---
 
 **Konto 1500 - Kundefordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **salg på kreditt** til kunder som kortsiktige fordringer i balansen.

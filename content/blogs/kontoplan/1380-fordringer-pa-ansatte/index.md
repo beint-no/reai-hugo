@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1380 - Fordringer på ansatte"
-seoTitle: "1380-fordringer-pa-ansatte"
-description: '**Konto 1380 - Fordringer på ansatte** er en konto i Norsk Standard Kontoplan som brukes til å registrere **lån**, **[forskudd på lønn](/blogs/kontoplan/29...'
+seoTitle: "Konto 1380 | Fordringer på ansatte | Kontoplan"
+description: '**Konto 1380 - Fordringer på ansatte** brukes til å registrere **lån**, **[forskudd på lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn")** og **andre forskuddsutlegg til ansatte**. Lær om avtaler, periodisering, vurdering og bokføring.'
+summary: "Konto 1380 dekker lån og forskudd til ansatte. Oppsummerer avtaler, periodisering, vurdering og bokføring med eksempler."
 ---
 
 **Konto 1380 - Fordringer på ansatte** er en konto i Norsk Standard Kontoplan som brukes til å registrere **lån**, **[forskudd på lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn")** og **andre forskuddsutlegg til ansatte** som kortsiktige fordringer. Kontoen omfatter både rente- og rentefrie fordringer som er innvilget av selskapet til sine ansatte, under forutsetning av at transaksjonene er godkjent i henhold til selskapets interne retningslinjer.

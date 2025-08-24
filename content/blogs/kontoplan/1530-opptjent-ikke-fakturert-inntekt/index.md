@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1530 - Opptjent ikke fakturert inntekt"
-seoTitle: "1530-opptjent-ikke-fakturert-inntekt"
-description: '**Konto 1530 - Opptjent ikke fakturert inntekt** er en konto i Norsk Standard Kontoplan som brukes til å periodisere **opptjent inntekt** som ennå ikke er fak...'
+seoTitle: "Konto 1530 | Opptjent ikke fakturert inntekt | Kontoplan"
+description: '**Konto 1530 - Opptjent ikke fakturert inntekt** brukes til å periodisere **opptjent inntekt** som ikke er fakturert ved periodeavslutning. Les om periodisering, etterfølgende fakturering og praktiske eksempler.'
+summary: "Konto 1530 dekker opptjent ikke fakturert inntekt. Oppsummerer periodisering, fakturering i neste periode og eksempelposteringer."
 ---
 
 **Konto 1530 - Opptjent ikke fakturert inntekt** er en konto i Norsk Standard Kontoplan som brukes til å periodisere **opptjent inntekt** som ennå ikke er fakturert ved periodeavslutning.

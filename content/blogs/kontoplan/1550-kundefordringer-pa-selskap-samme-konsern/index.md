@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1550 - Kundefordringer på selskap samme konsern?"
-seoTitle: "1550-kundefordringer-pa-selskap-samme-konsern"
-description: '**Konto 1550 - Kundefordringer på selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kundefordringer** mellom selska...'
+title: "Konto 1550 - Kundefordringer på selskap samme konsern"
+seoTitle: "Konto 1550 | Kundefordringer på selskap samme konsern | Kontoplan"
+description: '**Konto 1550 - Kundefordringer på selskap samme konsern** brukes til å registrere **kundefordringer** mellom selskaper i samme konsern. Les om førsteinnregning, innbetaling, konsolidering og praktiske hensyn.'
+summary: "Konto 1550 dekker intercompany kundefordringer. Oppsummerer førsteinnregning, innbetaling og forhold ved konsolidering."
 ---
 
 **Konto 1550 - Kundefordringer på selskap samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kundefordringer** mellom selskaper i samme konsern som kortsiktige fordringer i balansen.
