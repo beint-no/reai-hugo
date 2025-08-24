@@ -1,7 +1,8 @@
 ﻿---
-title: "Ansvarlig Selskap (ANS)"
-seoTitle: "Ansvarlig Selskap (ANS)"
-description: '![Illustrasjon av Ansvarlig Selskap (ANS)](ansvarlig-selskap-image.svg)'
+title: "Ansvarlig selskap (ANS): Selskapsform med ubegrenset ansvar"
+seoTitle: "Ansvarlig selskap (ANS) | Regler, skatt og ansvar forklart"
+description: "Ansvarlig selskap (ANS) er en selskapsform der deltakerne har ubegrenset solidarisk ansvar. Denne guiden forklarer etablering, ansvar, skatt og regnskapskrav, samt forskjeller mot AS og andre alternativer."
+summary: "Hva er ANS? En praktisk oversikt over ansvar, skatt, regnskap og når formen passer."
 ---
 
 ![Illustrasjon av Ansvarlig Selskap (ANS)](ansvarlig-selskap-image.svg)

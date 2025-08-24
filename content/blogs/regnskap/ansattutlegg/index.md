@@ -1,7 +1,8 @@
 ﻿---
-title: "Ansattutlegg"
-seoTitle: "Ansattutlegg"
-description: '**Ansattutlegg** er [utgifter](/blogs/regnskap/utgift Utgift “ Komplett Guide til Utgifter i Norsk Regnskap) som ansatte legger ut på vegne av virksomheten...'
+title: "Ansattutlegg: Regler, bokføring og dokumentasjonskrav"
+seoTitle: "Ansattutlegg | Regler, bokføring og dokumentasjonskrav"
+description: "Ansattutlegg oppstår når ansatte legger ut for virksomheten med egne midler. Lær hvordan utlegg bokføres, hvilke kontoer som brukes, og hvilke dokumentasjonskrav som gjelder for korrekt refusjon og skatt."
+summary: "Praktisk veiledning til håndtering av ansattutlegg fra registrering til refusjon og internkontroll."
 ---
 
 **Ansattutlegg** er [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") som ansatte legger ut på vegne av virksomheten med egne midler, og som senere refunderes eller avregnes mot lønnen. Korrekt håndtering av ansattutlegg er kritisk for å sikre nøyaktig regnskapsføring, internkontroll og skattemessig korrekthet i norske virksomheter.

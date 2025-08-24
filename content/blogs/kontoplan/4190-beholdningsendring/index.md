@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4190 - Beholdningsendring"
-seoTitle: "4190-beholdningsendring"
-description: '**Konto 4190 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i varelagerets beholdning** i resultatregnsk...'
+seoTitle: "Konto 4190 | Beholdningsendring"
+description: "Konto 4190 brukes til å registrere endringer i varelagerets beholdning i resultatregnskapet, altså forskjellen mellom lagerverdi ved periodens slutt og begynnelse."
+summary: "Kort forklart: Konto 4190 viser periodens lagerendring og påvirker driftsresultatet."
 ---
 
 **Konto 4190 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i varelagerets beholdning** i resultatregnskapet.

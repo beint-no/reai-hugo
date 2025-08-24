@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4060 - Frakt, toll og spedisjon"
-seoTitle: "4060-frakt-toll-og-spedisjon"
-description: '**Konto 4060 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** knyttet til anskaffel...'
+seoTitle: "Konto 4060 | Frakt, toll og spedisjon"
+description: "Konto 4060 brukes til å registrere kostnader til frakt, toll og spedisjon knyttet til anskaffelser og leveranser, inkludert transport, importavgifter og håndteringsgebyrer."
+summary: "Kort forklart: Konto 4060 gjelder frakt-, toll- og spedisjonskostnader som bokføres ved innkjøp og levering."
 ---
 
 **Konto 4060 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** knyttet til anskaffelser og leveranser.

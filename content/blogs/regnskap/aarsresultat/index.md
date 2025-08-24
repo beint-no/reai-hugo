@@ -1,7 +1,8 @@
 ﻿---
-title: "aarsresultat"
-seoTitle: "aarsresultat"
-description: '**Årsresultat** er et nøkkelbegrep i norsk regnskap som beskriver selskapets *netto fortjeneste* eller *underskudd* etter skatt for et regnskapsår. Årsresul...'
+title: "Årsresultat: Definisjon, beregning og betydning"
+seoTitle: "Årsresultat | Definisjon, beregning og hvorfor det er viktig"
+description: "Årsresultat er selskapets netto overskudd eller underskudd etter skatt for regnskapsåret. Denne guiden forklarer hva årsresultat betyr, hvordan det beregnes fra inntekter og kostnader i resultatregnskapet, og hvorfor tallet er viktig for lønnsomhet, egenkapital og kredittvurdering."
+summary: "Kort forklaring av hva årsresultat er, hvordan det beregnes og hvorfor det er sentralt for å vurdere selskapets lønnsomhet."
 ---
 
 **Årsresultat** er et nøkkelbegrep i norsk regnskap som beskriver selskapets *netto fortjeneste* eller *underskudd* etter skatt for et regnskapsår. Årsresultatet gir et konsist bilde av virksomhetens lønnsomhet og økonomiske helse.

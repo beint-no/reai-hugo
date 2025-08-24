@@ -1,7 +1,8 @@
 ﻿---
-title: "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning"
-seoTitle: "Aksjonærmodellen - Komplett Guide til Norsk Aksjebeskatning"
-description: '**Aksjonærmodellen** er det sentrale skattesystemet for [aksjebeskatning](/blogs/regnskap/hva-er-en-aksje Hva er en aksje? Komplett guide til aksjer i Norge)...'
+title: "Aksjonærmodellen: Komplett guide til norsk aksjebeskatning"
+seoTitle: "Aksjonærmodellen | Skatt på aksjer og utbytte forklart"
+description: "Aksjonærmodellen er rammeverket for skatt på aksjegevinster og utbytte i Norge. Denne guiden dekker fritaksmetoden, skjermingsfradrag, vilkår, beregninger og praktiske eksempler for både privatpersoner og selskaper."
+summary: "Praktisk innføring i aksjonærmodellen: fritaksmetoden, skjermingsfradrag og sentrale beregninger."
 ---
 
 **Aksjonærmodellen** er det sentrale skattesystemet for [aksjebeskatning](/blogs/regnskap/hva-er-en-aksje "Hva er en aksje? Komplett guide til aksjer i Norge") i Norge, innført i 2006 for å skape et enhetlig og nøytralt system for beskatning av [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en aksje? Komplett guide til aksjer i Norge") og [utbytte](/blogs/regnskap/maskimalt-utbytte "Maksimalt utbytte fra AS - Beregning og regler"). Modellen bygger på to hovedprinsipper: **fritaksmetoden** og **skjermingsfradrag**, som sammen skal sikre at [aksjonærer](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en aksjonær? Rettigheter og plikter") ikke blir dobbeltbeskattet.

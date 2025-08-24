@@ -1,7 +1,8 @@
 ﻿---
-title: "Ansvarlig Selskap (ANS) og Delt Ansvar (DA)"
-seoTitle: "Ansvarlig Selskap (ANS) og Delt Ansvar (DA)"
-description: 'Et **ansvarlig selskap (ANS)**, også kalt **DA (Delt Ansvar)**, er en [foretaksform](/blogs/regnskap/hva-er-foretak Hva er et Foretak? Komplett Guide til Fore...'
+title: "Ansvarlig selskap (ANS) og delt ansvar (DA): Full oversikt"
+seoTitle: "ANS og DA | Ansvarlige selskaper forklart: ansvar og regler"
+description: "Ansvarlig selskap (ANS) og delt ansvar (DA) innebærer ubegrenset personlig ansvar for deltakerne. Artikkelen forklarer kjennetegn, fordeler og ulemper, skattemessige forhold, samt forskjeller mot AS og andre selskapsformer."
+summary: "Enkel guide til ANS og DA med tabeller for ansvarstyper, sammenligning og praktiske råd."
 ---
 
 Et **ansvarlig selskap (ANS)**, også kalt **DA (Delt Ansvar)**, er en [foretaksform](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge") hvor to eller flere deltakere driver virksomhet sammen med **ubegrenset solidarisk ansvar**. Dette betyr at hver deltaker kan holdes ansvarlig for hele selskapets gjeld og forpliktelser, ikke bare sin egen andel.

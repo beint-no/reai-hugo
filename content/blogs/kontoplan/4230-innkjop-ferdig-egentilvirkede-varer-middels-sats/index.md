@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4230 - Innkjøp ferdig egentilvirkede varer middels sats"
-seoTitle: "4230-innkjop-ferdig-egentilvirkede-varer-middels-sats"
-description: '**Konto 4230 - Innkjøp ferdig egentilvirkede varer middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av ferdige egenti...'
+seoTitle: "Konto 4230 | Innkjøp ferdig egentilvirkede varer middels sats"
+description: "Konto 4230 brukes til å registrere kjøp av ferdige egentilvirkede varer med middels MVA-sats (15 %), der varekostnad og inngående MVA føres separat."
+summary: "Kort forklart: Konto 4230 gjelder innkjøp av ferdige egentilvirkede varer med middels MVA-sats."
 ---
 
 **Konto 4230 - Innkjøp ferdig egentilvirkede varer middels sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av ferdige egentilvirkede varer** som er **avgiftspliktige med middels MVA-sats (15 %)**.

@@ -1,7 +1,8 @@
 ﻿---
-title: "Åpningsbalanse for aksjeselskap"
-seoTitle: "Åpningsbalanse for aksjeselskap"
-description: 'En **åpningsbalanse** for et **aksjeselskap (AS)** er den første balansen som viser selskapets finansielle stilling ved oppstart eller ved nytt regnskapsår. ...'
+title: "Åpningsbalanse for aksjeselskap (AS): Slik setter du opp IB"
+seoTitle: "Åpningsbalanse AS | Slik setter du opp inngående balanse (IB)"
+description: "Åpningsbalanse for aksjeselskap viser eiendeler, gjeld og egenkapital ved oppstart. Lær kravene i aksjeloven, typisk struktur, eksempler og hvordan IB videreføres i regnskapet."
+summary: "Praktisk veiledning til åpningsbalanse i AS med tabeller og eksempel."
 ---
 
 En **åpningsbalanse** for et **aksjeselskap (AS)** er den første balansen som viser selskapets finansielle stilling ved oppstart eller ved nytt regnskapsår. Den definerer alle **eiendeler**, **gjeld** og **egenkapital**, deriblant den innbetalte [aksjekapitalen](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Krav og Forklaring") og eventuell overkurs.

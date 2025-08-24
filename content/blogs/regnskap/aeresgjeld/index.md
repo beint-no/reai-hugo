@@ -1,7 +1,8 @@
 ﻿---
-title: "Æresgjeld – Forståelse av æresbasert forpliktelse i norsk regnskap"
-seoTitle: "Æresgjeld “ Forståelse av æresbasert forpliktelse i norsk regnskap"
-description: '**Æresgjeld** er en forpliktelse basert på tillit og ære uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap når muntlige avtaler gir gj...'
+title: "Æresgjeld: Forstå æresbaserte forpliktelser i regnskap"
+seoTitle: "Æresgjeld | Hva det er og hvordan det behandles i regnskap"
+description: "Æresgjeld er en forpliktelse basert på tillit uten skriftlig kontrakt. Artikkelen forklarer når slik gjeld kan oppstå, hvilke risikoer den medfører, og hvordan virksomheter bør vurdere, dokumentere og presentere æresgjeld i regnskap og noter."
+summary: "Hva er æresgjeld, og hvordan håndteres den i norsk regnskap? Oversikt over vurdering, klassifisering og risiko."
 ---
 
 **Æresgjeld** er en forpliktelse basert på tillit og ære uten skriftlig kontrakt. Dette konseptet har betydning i norsk regnskap når muntlige avtaler gir gjeldsforpliktelser som må håndteres korrekt.

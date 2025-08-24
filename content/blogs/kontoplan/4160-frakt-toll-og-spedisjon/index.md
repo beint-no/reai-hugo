@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4160 - Frakt, toll og spedisjon"
-seoTitle: "4160-frakt-toll-og-spedisjon"
-description: '**Konto 4160 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** som faktureres kunder...'
+seoTitle: "Konto 4160 | Frakt, toll og spedisjon"
+description: "Konto 4160 brukes til å registrere inntekter fra frakt, toll og spedisjon som faktureres kunden som del av salgsinntekten, med korrekt MVA-behandling."
+summary: "Kort forklart: Konto 4160 brukes når frakt, toll og spedisjon faktureres kunden og skal inntektsføres."
 ---
 
 **Konto 4160 - Frakt, toll og spedisjon** er en konto i Norsk Standard Kontoplan som brukes til å registrere **frakt, toll og spedisjon** som faktureres kunder som en del av salgsinntekten.

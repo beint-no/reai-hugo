@@ -1,7 +1,8 @@
 ﻿---
-title: "Ansiennitet"
-seoTitle: "Ansiennitet"
-description: '**Ansiennitet** er et grunnleggende konsept i norsk arbeidsrett og regnskapsføring som beskriver hvor lenge en ansatt har vært tilknyttet en virksomhet. Dette...'
+title: "Ansiennitet: Hva det betyr for lønn, rettigheter og regnskap"
+seoTitle: "Ansiennitet | Betydning for lønn, rettigheter og regnskap"
+description: "Ansiennitet beskriver hvor lenge en ansatt har jobbet i virksomheten og påvirker lønn, oppsigelsesfrister, ferie og pensjon. Denne guiden forklarer reglene, beregning og regnskapsmessige konsekvenser for arbeidsgivere."
+summary: "En oversikt over ansiennitet med praktiske tabeller for oppsigelsesfrist, feriepenger og pensjon."
 ---
 
 **Ansiennitet** er et grunnleggende konsept i norsk arbeidsrett og regnskapsføring som beskriver hvor lenge en ansatt har vært tilknyttet en virksomhet. Dette har omfattende juridiske, økonomiske og regnskapsmessige konsekvenser for både arbeidsgiver og arbeidstaker.

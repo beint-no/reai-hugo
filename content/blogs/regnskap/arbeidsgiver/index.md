@@ -1,7 +1,8 @@
 ﻿---
-title: "Arbeidsgiver"
-seoTitle: "Arbeidsgiver"
-description: 'Arbeidsgiver er den juridiske parten i et arbeidsforhold som inngår en avtale om å utføre arbeid mot vederlag. En **arbeidsgiver** har en rekke *juridiske fo...'
+title: "Arbeidsgiver: Plikter, kostnader og regnskapsføring"
+seoTitle: "Arbeidsgiver | Plikter, arbeidsgiveravgift og rapportering"
+description: "Arbeidsgiver er den juridiske parten i et arbeidsforhold og har ansvar for arbeidsmiljø, arbeidsavtaler, lønn, arbeidsgiveravgift og rapportering via A-meldingen. Denne guiden gir en praktisk oversikt over krav, frister og regnskapsføring."
+summary: "Kort og nyttig oversikt for arbeidsgivere: plikter, avgifter, frister og bokføring."
 ---
 
 Arbeidsgiver er den juridiske parten i et arbeidsforhold som inngår en avtale om å utføre arbeid mot vederlag. En **arbeidsgiver** har en rekke *juridiske forpliktelser*, økonomiske ansvar og må følge spesifikke krav til regnskapsføring. Denne artikkelen gir en helhetlig oversikt over hvem en arbeidsgiver er, hvilke plikter som følger med rollen, og hvordan det håndteres i regnskapet.

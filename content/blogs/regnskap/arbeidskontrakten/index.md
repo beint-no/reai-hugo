@@ -1,7 +1,8 @@
 ﻿---
-title: "Arbeidskontrakten"
-seoTitle: "Arbeidskontrakten"
-description: '![Arbeidskontrakten](arbeidskontrakten-image.svg)'
+title: "Arbeidskontrakten: Innhold, krav og regnskapsmessige effekter"
+seoTitle: "Arbeidskontrakt | Innhold, lovkrav og regnskapseffekter"
+description: "Arbeidskontrakten regulerer rettigheter og plikter i et ansettelsesforhold. Denne artikkelen viser lovpålagte punkter, kontraktstyper, oppbevaringskrav og hvordan kontrakten påvirker regnskap og rapportering."
+summary: "Alt du trenger å vite om arbeidskontrakten: obligatorisk innhold, typer og regnskapsmessige konsekvenser."
 ---
 
 ![Arbeidskontrakten](arbeidskontrakten-image.svg)

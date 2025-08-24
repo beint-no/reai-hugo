@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4000 - Innkjøp av råvarer og halvfabrikata høy sats"
-seoTitle: "4000-innkjop-av-raavarer-og-halvfabrikata-hoy-sats"
-description: '**Konto 4000 - Innkjøp av råvarer og halvfabrikata høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av råvarer og innk...'
+seoTitle: "Konto 4000 | Innkjøp av råvarer og halvfabrikata høy sats"
+description: "Konto 4000 brukes til å registrere kjøp av råvarer og innkjøpte halvfabrikata med høy MVA-sats (25 %), for virksomheter som produserer eller videreselger varer."
+summary: "Kort forklart: Konto 4000 gjelder varekjøp med høy MVA-sats, der varekostnad og inngående MVA føres korrekt i regnskapet."
 ---
 
 **Konto 4000 - Innkjøp av råvarer og halvfabrikata høy sats** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kjøp av råvarer og innkjøpte halvfabrikater** som er **avgiftspliktige med høy MVA-sats (25 %)**.

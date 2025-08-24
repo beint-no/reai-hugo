@@ -1,7 +1,8 @@
 ﻿---
-title: "Alminnelig inntekt"
-seoTitle: "Alminnelig inntekt"
-description: '**Alminnelig inntekt** er grunnlaget for å beregne skatt (22–¯%) for norske selskaper og [personlig næringsdrivende](/blogs/regnskap/naeringsinntekt Næring...'
+title: "Alminnelig inntekt: Grunnlag for selskapsskatt"
+seoTitle: "Alminnelig inntekt | Hva det er og hvordan den beregnes"
+description: "Alminnelig inntekt er skattegrunnlaget for selskapsskatt og personlig næringsdrivende. Her forklarer vi hva som inngår, typiske justeringer, satser og eksempler på beregning slik at du rapporterer korrekt og planlegger skatt bedre."
+summary: "Kort og praktisk forklaring av alminnelig inntekt med satser, justeringer og beregningseksempel."
 ---
 
 **Alminnelig inntekt** er grunnlaget for å beregne skatt (22–¯%) for norske selskaper og [personlig næringsdrivende](/blogs/regnskap/naeringsinntekt "Næringsinntekt “ Komplett guide til næringsinntekt for selvstendig næringsdrivende"). Forståelsen av alminnelig inntekt er avgjørende for korrekt rapportering til Skatteetaten og optimal skatteplanlegging.

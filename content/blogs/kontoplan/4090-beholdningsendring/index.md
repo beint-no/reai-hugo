@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 4090 - Beholdningsendring"
-seoTitle: "4090-beholdningsendring"
-description: '**Konto 4090 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i varelagerets beholdning** i resultatregnsk...'
+seoTitle: "Konto 4090 | Beholdningsendring"
+description: "Konto 4090 brukes til å registrere endringer i varelagerets beholdning i resultatregnskapet, både økning og reduksjon i lagerverdi gjennom perioden."
+summary: "Kort forklart: Konto 4090 viser periodens endring i varelagerets verdi og påvirker driftsresultatet."
 ---
 
 **Konto 4090 - Beholdningsendring** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i varelagerets beholdning** i resultatregnskapet.

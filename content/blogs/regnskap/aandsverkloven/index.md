@@ -1,7 +1,8 @@
 ﻿---
-title: "Åndsverkloven - Komplett Guide til Opphavsrett i Norge"
-seoTitle: "Åndsverkloven - Komplett Guide til Opphavsrett i Norge"
-description: '**Åndsverkloven** er den sentrale loven som regulerer opphavsretten i Norge. Denne artikkelen gir en omfattende oversikt over hva Åndsverkloven omfatter, inkl...'
+title: "Åndsverkloven: Komplett guide til opphavsrett i Norge"
+seoTitle: "Åndsverkloven | Opphavsrett i Norge: regler og unntak"
+description: "Åndsverkloven regulerer opphavsrett i Norge. Denne guiden forklarer hva loven dekker, hvilke verk som er vernet, rettigheter for opphavere, unntak som sitatrett og privat bruk, varighet, samt praktiske forhold som overdragelse og regnskapsmessig behandling."
+summary: "Praktisk innføring i Åndsverkloven med fokus på vernet om verk, rettigheter, unntak og varighet, samt relevans for virksomheter."
 ---
 
 **Åndsverkloven** er den sentrale loven som regulerer opphavsretten i Norge. Denne artikkelen gir en omfattende oversikt over hva Åndsverkloven omfatter, inkludert hvilke verk som er beskyttet, rettighetshavernes rettigheter, unntak, **varighet**, overdragelse og regnskapsmessig behandling av opphavsrett.

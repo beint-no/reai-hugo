@@ -1,7 +1,8 @@
 ﻿---
-title: "Arbeidsmiljøutvalg (AMU)"
-seoTitle: "Arbeidsmiljøutvalg (AMU)"
-description: '**AMU** (Arbeidsmiljøutvalg) er et obligatorisk samarbeidsorgan i virksomheter for å sikre et trygt og forsvarlig arbeidsmiljø i henhold til **arbeidsmiljøl...'
+title: "Arbeidsmiljøutvalg (AMU): Roller, krav og beste praksis"
+seoTitle: "AMU | Arbeidsmiljøutvalg: roller, krav og beste praksis"
+description: "Arbeidsmiljøutvalg (AMU) er et lovpålagt samarbeidsorgan for HMS i virksomheter. Artikkelen forklarer når AMU er påkrevd, hvordan det settes sammen, hva som skal dokumenteres og hvordan arbeidet knyttes til internkontroll og økonomi."
+summary: "Oversikt over AMU: formål, plikter, sammensetning og praktiske råd for effektivt HMS-arbeid."
 ---
 
 **AMU** (Arbeidsmiljøutvalg) er et obligatorisk samarbeidsorgan i virksomheter for å sikre et trygt og forsvarlig arbeidsmiljø i henhold til **arbeidsmiljøloven**. Formålet med AMU er å fremme samarbeid mellom arbeidsgiver og arbeidstakere om **HMS** (Helse, Miljø og Sikkerhet).

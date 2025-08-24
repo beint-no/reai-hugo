@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3970 - Utgående gebyrer, avgiftsfritt"
-seoTitle: "3970-utgaende-gebyrer-avgiftsfritt"
-description: '**Konto 3970 - Utgående gebyrer, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avgiftsfrie gebyrer** (for eksempel *serv...'
+seoTitle: "Konto 3970 | Utgående gebyrer, avgiftsfritt"
+description: "Konto 3970 i Norsk Standard Kontoplan brukes til å registrere avgiftsfrie gebyrer som faktureres kunder uten merverdiavgift, som service- og administrasjonsgebyrer."
+summary: "Kort forklart: Konto 3970 brukes for utgående gebyrer som faktureres med 0 % MVA, slik at inntekten føres korrekt som avgiftsfri."
 ---
 
 **Konto 3970 - Utgående gebyrer, avgiftsfritt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **avgiftsfrie gebyrer** (for eksempel *servicegebyrer*, *forsinkelsesgebyrer* og andre administrasjonsgebyrer) som faktureres kunder uten merverdiavgift.

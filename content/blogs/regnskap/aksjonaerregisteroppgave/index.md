@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Aksjonærregisteroppgave?"
-seoTitle: "Hva er Aksjonærregisteroppgave?"
-description: '**Aksjonærregisteroppgave** er en **obligatorisk årlig rapportering** som alle norske [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap Hva er et Aksje...'
+title: "Aksjonærregisteroppgave: Hva det er og frister du må vite om"
+seoTitle: "Aksjonærregisteroppgave | Hva det er, frister og innhold"
+description: "Aksjonærregisteroppgaven er en årlig rapportering alle norske aksjeselskaper må levere til Skatteetaten. Her forklarer vi hva som skal rapporteres, hvem som er pliktige, viktige frister og hvordan oppgaven henger sammen med aksjeeierboken og årsoppgaven."
+summary: "Enkelt forklart: aksjonærregisteroppgave, frister, rapporteringskrav og nyttige tips for korrekt levering."
 ---
 
 **Aksjonærregisteroppgave** er en **obligatorisk årlig rapportering** som alle norske [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Norske Aksjeselskap") må sende til **Skatteetaten** innen **31. mai** hvert år. Denne oppgaven inneholder detaljert informasjon om selskapets **aksjeeierstruktur**, [aksjonærer](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en Aksjonær? En Komplett Guide") og [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring"), og er en kritisk del av **skattekontroll** og **selskapsregisterføring** i Norge.
