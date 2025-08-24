@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2160 - Uopptjent inntekt"
-seoTitle: "2160-uopptjent-inntekt"
-description: '**Konto 2160 - Uopptjent inntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forskuddsinntekter**, altså inntekter som er mottatt p...'
+seoTitle: "Konto 2160 | Uopptjent inntekt | Kontoplan"
+description: "Konto 2160 brukes til å registrere uopptjent inntekt, altså forskuddsinntekter som mottas før levering av varer eller tjenester. Les om periodisering, balansepresentasjon og typiske bokføringer."
+summary: "Konto 2160: uopptjent inntekt og forskuddsinntekter, periodisering, balanseføring og bokføring."
 ---
 
 **Konto 2160 - Uopptjent inntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **forskuddsinntekter**, altså inntekter som er mottatt på forskudd før levering av varer eller tjenester.

@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 2260 - Gjeld til selskap i samme konsern?"
-seoTitle: "2260-gjeld-til-selskap-i-samme-konsern"
-description: '**Konto 2260 - Gjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kortsiktig gjeld** til andre...'
+title: "Konto 2260 - Gjeld til selskap i samme konsern"
+seoTitle: "Konto 2260 | Gjeld til selskap i samme konsern | Kontoplan"
+description: "Konto 2260 brukes til å registrere kortsiktig gjeld til andre selskaper i samme konsern. Les om typiske transaksjoner, balansepresentasjon, konsolidering og bokføring."
+summary: "Konto 2260: kortsiktig konserngjeld, når kontoen brukes og hvordan den bokføres og presenteres."
 ---
 
 **Konto 2260 - Gjeld til selskap i samme konsern** er en konto i Norsk Standard Kontoplan (NSÂ 4102) som brukes til å registrere **kortsiktig gjeld** til andre selskaper i samme konsern.

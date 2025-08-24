@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2180 - Andre avsetninger for forpliktelser"
-seoTitle: "2180-andre-avsetninger-for-forpliktelser"
-description: '**Konto 2180 - Andre avsetninger for forpliktelser** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre avsetninger for forpliktelser**...'
+seoTitle: "Konto 2180 | Andre avsetninger for forpliktelser | Kontoplan"
+description: "Konto 2180 brukes til å registrere andre avsetninger for forpliktelser som garantiforpliktelser, tapsavsetninger og lignende. Les om periodisering, vurdering, balansepresentasjon og bokføring."
+summary: "Konto 2180: andre avsetninger for forpliktelser, hva det er og hvordan det bokføres og presenteres i balansen."
 ---
 
 **Konto 2180 - Andre avsetninger for forpliktelser** er en konto i Norsk Standard Kontoplan som brukes til å registrere **andre avsetninger for forpliktelser**, som garantiforpliktelser, tapsavsetninger og andre uspesifiserte avsetninger. Denne kontoen er nært knyttet til [avsetningsbegrepet](/blogs/regnskap/avsetning "Hva er Avsetning i Regnskap? Komplett Guide til Avsetninger og Estimater") i regnskapsføring.
