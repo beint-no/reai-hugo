@@ -1,8 +1,8 @@
 ---
 title: "Bli Partner"
-seoTitle: "Bli partner hos ReAI – gratis regnskapssystem for regnskapsførere"
-description: "Bli en av våre partnere og voks din bedrift sammen med oss"
-summary: "Bli en av våre partnere og voks din bedrift sammen med oss"
+seoTitle: "Bli partner | Gratis regnskapssystem for regnskapsførere | ReAI"
+description: "Bli partner hos ReAI og tilby gratis, moderne regnskapssystem til dine kunder. Få støtte, materiell og API-tilgang – perfekt for regnskapsførere og byråer."
+summary: "Bli ReAI-partner og tilby gratis, moderne regnskapssystem til kundene. Støtte, materiell og API-tilgang for regnskapsførere og byråer."
 ---
 
 ## Å bli partner er enkelt

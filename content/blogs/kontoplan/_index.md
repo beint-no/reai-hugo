@@ -1,11 +1,8 @@
 ---
-# Norwegian title for Chart of Accounts
 title: "Kontoplan"
-# Optional summary shown on the section page
+seoTitle: "Kontoplan | Forklaring av kontoklasser og kontoer | ReAI"
+description: "Utforsk kontoplanen med kontoklasser og kontoer. Finn forklaringer, bruk og bokføring for kontoer i norsk standard kontoplan."
 summary: "Artikler om kontoplan, kontoklasser og oppsett."
-url: "/blogs/kontoplan/"
-aliases:
-  - "/blog/kontoplan/"
 ---
 
 Velkommen til kontoplan-bloggen.

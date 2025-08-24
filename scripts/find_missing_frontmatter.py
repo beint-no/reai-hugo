@@ -4,7 +4,7 @@ from typing import Dict, List, Tuple
 
 REQUIRED_KEYS = ["title", "seoTitle", "description", "summary"]
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BASE_DIR = os.path.join(ROOT, "content", "blogs", "kontoplan")
+BASE_DIR = os.path.join(ROOT, "content")
 
 
 def parse_frontmatter(path: str) -> Tuple[Dict[str, str], int]:
@@ -43,7 +43,7 @@ def main() -> int:
 
     files = find_index_files(base)
     if not files:
-        print("No index.md files found under kontoplan.")
+        print("No index.md files found under content.")
         return 1
 
     total = 0

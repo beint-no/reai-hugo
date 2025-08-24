@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6520 - Hjelpeverktøy"
-seoTitle: "6520-hjelpeverktoy"
-description: '**Konto 6520 - Hjelpeverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader knyttet til hjelpeverktøy** og tilhørende drif...'
+seoTitle: "Konto 6520 | Hjelpeverktøy | Kontoplan"
+description: "Konto 6520 brukes til kostnader for hjelpeverktøy og tilhørende driftsmidler. Lær når du kostnadsfører eller aktiverer, og se eksempler på korrekt bokføring."
+summary: "Kort forklaring av konto 6520: hjelpeverktøy, bruk og bokføring."
 ---
 
 **Konto 6520 - Hjelpeverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader knyttet til hjelpeverktøy** og tilhørende driftsmidler i virksomhetens drift.
@@ -76,7 +77,6 @@ Kredit Konto 2400 - Leverandørgjeld            3Â 750Â NOK
 * [Hva er en Kontoplan?](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")
 * [Hva er Avskrivning?](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Praktiske Eksempler")
 * [Hva er en Faktura?](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav")
-
 
 
 
