@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1310 - Investeringer annet foretak i samme konsern?"
-seoTitle: "1310"
-description: '**Konto 1310 - Investeringer annet foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i...'
+title: "Konto 1310 – Investeringer annet foretak i samme konsern"
+seoTitle: "Konto 1310 | Investeringer annet foretak i samme konsern | Kontoplan"
+description: "Konto 1310 brukes for investeringer i annet foretak i samme konsern. Lær om anskaffelse, vurdering, nedskrivning og konsernforhold med eksempler."
+summary: "Konto 1310 dekker investeringer i annet konsernforetak. Artikkelen oppsummerer bokføring, vurdering og konsernregler med tabeller og eksempler."
 ---
 
 **Konto 1310 - Investeringer annet foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i andre foretak innen samme konsernstruktur.

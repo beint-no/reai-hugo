@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1270 - Verktøy mv.?"
-seoTitle: "1270"
-description: '**Konto 1270 - Verktøy mv.** er en konto i norsk kontoplan som benyttes for **verktøy** og **mindre driftsmidler**.'
+title: "Konto 1270 – Verktøy mv."
+seoTitle: "Konto 1270 | Verktøy mv. | Kontoplan"
+description: "Konto 1270 brukes for verktøy og mindre driftsmidler. Lær typiske levetider, aktivering, avskrivning og bokføring av verktøy i regnskap."
+summary: "Konto 1270 dekker verktøy og mindre driftsmidler. Artikkelen forklarer anskaffelseskost, levetid, avskrivning og bokføring."
 ---
 
 **Konto 1270 - Verktøy mv.** er en konto i norsk kontoplan som benyttes for **verktøy** og **mindre driftsmidler**.

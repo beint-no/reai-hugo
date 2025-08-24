@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1030 - Patenter?"
-seoTitle: "1030"
-description: '**Konto 1030 - Patenter** er en sentral konto i norsk kontoplan for virksomheter som eier eller utvikler patentrettigheter. Denne kontoen brukes for å registre...'
+title: "Konto 1030 – Patenter"
+seoTitle: "Konto 1030 | Patenter | Kontoplan"
+description: "Konto 1030 brukes for patenter som immaterielle eiendeler. Les om aktivering, verdsettelse, amortisering og regnskapsføring av patentrettigheter i norsk kontoplan."
+summary: "Konto 1030 dekker patenter i kontoplanen. Artikkelen forklarer aktivering, amortisering og bokføring, med eksempler og typiske perioder."
 ---
 
 **Konto 1030 - Patenter** er en sentral konto i norsk kontoplan for virksomheter som eier eller utvikler patentrettigheter. Denne kontoen brukes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") knyttet til patenter som kan [aktiveres](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og [amortiseres](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?") over patentets levetid.

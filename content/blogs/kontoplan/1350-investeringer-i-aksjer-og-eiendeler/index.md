@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1350 - Investeringer i aksjer og eiendeler"
-seoTitle: "1350-investeringer-i-aksjer-og-eiendeler"
-description: '**Konto 1350 - Investeringer i aksjer og eiendeler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i aksjer,...'
+seoTitle: "Konto 1350 | Investeringer i aksjer og eiendeler | Kontoplan"
+description: '**Konto 1350 - Investeringer i aksjer og eiendeler** dekker langsiktige investeringer i aksjer, fond, obligasjoner og andre finansielle eiendeler. Lær om innregning, verdsettelse, nedskrivning og bokføring.'
+summary: "Konto 1350 brukes for langsiktige investeringer i aksjer og verdipapirer. Oppsummerer innregning, vurdering, nedskrivning og bokføring."
 ---
 
 **Konto 1350 - Investeringer i aksjer og eiendeler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i aksjer, verdipapirer og andre finansielle eiendeler som ikke er konserninvesteringer.

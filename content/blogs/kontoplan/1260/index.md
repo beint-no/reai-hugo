@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1260 - Bygninger med annen avskrivningstid?"
-seoTitle: "1260"
-description: '**Konto 1260 - Bygninger med annen avskrivningstid** er en konto i norsk kontoplan som benyttes for **bygninger** som krever **spesielle avskrivningsperioder** ...'
+title: "Konto 1260 – Bygninger med annen avskrivningstid"
+seoTitle: "Konto 1260 | Bygninger med annen avskrivningstid | Kontoplan"
+description: "Konto 1260 brukes for bygninger som har avvikende økonomisk levetid. Lær når kontoen brukes, hvordan avskrivning settes, og hvordan bokføring gjøres."
+summary: "Konto 1260 dekker bygninger med avvikende levetid. Artikkelen viser bruk, avskrivningsperioder og bokføring med tabeller og eksempler."
 ---
 
 **Konto 1260 - Bygninger med annen avskrivningstid** er en konto i norsk kontoplan som benyttes for **bygninger** som krever **spesielle avskrivningsperioder** utover standard levetid.

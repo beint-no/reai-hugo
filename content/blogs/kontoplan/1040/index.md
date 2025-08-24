@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1040 - Lisenser?"
-seoTitle: "1040"
-description: '**Konto 1040 - Lisenser** er en viktig konto i norsk kontoplan som benyttes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiende...'
+title: "Konto 1040 – Lisenser"
+seoTitle: "Konto 1040 | Lisenser | Kontoplan"
+description: "Konto 1040 benyttes for lisensrettigheter som immaterielle eiendeler. Les om aktivering, verdsettelse, amortisering og bokføring av lisenser i norsk kontoplan."
+summary: "Konto 1040 dekker lisenser. Denne guiden viser hvordan lisenser aktiveres, amortiseres og føres i regnskap."
 ---
 
 **Konto 1040 - Lisenser** er en viktig konto i norsk kontoplan som benyttes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") knyttet til lisensrettigheter. Denne kontoen brukes når virksomheter erverver eller utvikler lisenser som kan [aktiveres](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og [amortiseres](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?") over lisensens levetid.

@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1300 - Investeringer i datterselskaper?"
-seoTitle: "1300"
-description: '**Konto 1300 - Investeringer i datterselskaper** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i datterselsk...'
+title: "Konto 1300 – Investeringer i datterselskaper"
+seoTitle: "Konto 1300 | Investeringer i datterselskaper | Kontoplan"
+description: "Konto 1300 brukes for langsiktige investeringer i datterselskaper. Lær om anskaffelse, vurdering, nedskrivning og konsernrelasjoner med eksempler."
+summary: "Konto 1300 dekker investeringer i datterselskaper. Artikkelen oppsummerer bokføring, vurdering og konsernregler med tabeller og eksempler."
 ---
 
 **Konto 1300 - Investeringer i datterselskaper** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i datterselskaper som inngår i konsernregnskapet.

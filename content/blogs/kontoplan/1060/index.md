@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1060 - Andre rettigheter?"
-seoTitle: "1060"
-description: '**Konto 1060 - Andre rettigheter** er en viktig konto i norsk kontoplan som anvendes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imateriel...'
+title: "Konto 1060 – Andre rettigheter"
+seoTitle: "Konto 1060 | Andre rettigheter | Kontoplan"
+description: "Konto 1060 omfatter andre rettigheter som immaterielle eiendeler. Lær kriterier for aktivering, verdsettelse, amortisering og regnskapsføring i norsk kontoplan."
+summary: "Konto 1060 dekker ulike rettigheter. Guiden forklarer aktivering, amortisering og bokføring trinn for trinn."
 ---
 
 **Konto 1060 - Andre rettigheter** er en viktig konto i norsk kontoplan som anvendes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") knyttet til ulike typer rettigheter som ikke dekkes av andre spesifikke kontoer. Denne kontoen brukes når virksomheter erverver eller utvikler rettigheter som kan [aktiveres](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og [amortiseres](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?") over rettighetenes levetid.

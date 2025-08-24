@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 1340 - Lån til tilknyttede selskap"
-seoTitle: "1340-lan-til-tilknyttede-selskap"
-description: '**Konto 1340 - Lån til tilknyttede selskap** er en konto i Norsk Standard Kontoplan som brukes til å registrere **konserninterne lån til tilknyttede selskape...'
+seoTitle: "Konto 1340 | Lån til tilknyttede selskap | Kontoplan"
+description: '**Konto 1340 - Lån til tilknyttede selskap** brukes til å registrere **konserninterne lån** til tilknyttede selskaper med betydelig innflytelse. Les om utstedelse, renteberegning, tilbakebetaling og konsolidering.'
+summary: "Konto 1340 gjelder konserninterne lån til tilknyttede selskap. Oppsummering av utstedelse, rente, tilbakebetaling og konsolidering."
 ---
 
 **Konto 1340 - Lån til tilknyttede selskap** er en konto i Norsk Standard Kontoplan som brukes til å registrere **konserninterne lån til tilknyttede selskaper** hvor investoren har betydelig innflytelse uten full kontroll.

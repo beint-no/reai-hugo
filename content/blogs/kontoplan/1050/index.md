@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1050 - Varemerker?"
-seoTitle: "1050"
-description: '**Konto 1050 - Varemerker** er en sentral konto i norsk kontoplan som anvendes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eie...'
+title: "Konto 1050 – Varemerker"
+seoTitle: "Konto 1050 | Varemerker | Kontoplan"
+description: "Konto 1050 gjelder varemerker som immaterielle eiendeler. Les om aktivering, verdsettelse, amortisering og regnskapsføring av varemerker i norsk kontoplan."
+summary: "Konto 1050 dekker varemerker. Artikkelen forklarer aktivering, amortisering og bokføring med konkrete eksempler."
 ---
 
 **Konto 1050 - Varemerker** er en sentral konto i norsk kontoplan som anvendes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") knyttet til varemerkerettigheter. Denne kontoen brukes når virksomheter erverver eller utvikler varemerker som kan [aktiveres](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?") og [amortiseres](/blogs/regnskap/hva-er-amortisering "Hva er Amortisering?") over varemerkenes levetid.

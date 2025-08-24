@@ -1,7 +1,8 @@
 ﻿---
-title: "Konto 1280 - Kontormaskiner"
-seoTitle: "1280"
-description: '**Konto 1280 - Kontormaskiner** er en konto i norsk kontoplan som brukes for **kontormaskiner** og **mindre I–¯T-utstyr**.'
+title: "Konto 1280 – Kontormaskiner"
+seoTitle: "Konto 1280 | Kontormaskiner | Kontoplan"
+description: "Konto 1280 brukes for kontormaskiner og mindre IT-utstyr. Se typiske levetider, aktivering, avskrivning og bokføring av kontor- og IT-utstyr."
+summary: "Konto 1280 dekker kontormaskiner og IT-utstyr. Artikkelen oppsummerer levetider, aktivering, avskrivning og praktisk bokføring."
 ---
 
 **Konto 1280 - Kontormaskiner** er en konto i norsk kontoplan som brukes for **kontormaskiner** og **mindre I–¯T-utstyr**.

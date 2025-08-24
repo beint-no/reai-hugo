@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 1330 - Investeringer i tilknyttede selskap?"
-seoTitle: "1330-investeringer-i-tilknyttede-selskap"
-description: '**Konto 1330 - Investeringer i tilknyttede selskap** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i selskap...'
+title: "Konto 1330 - Investeringer i tilknyttede selskap"
+seoTitle: "Konto 1330 | Investeringer i tilknyttede selskap | Kontoplan"
+description: '**Konto 1330 - Investeringer i tilknyttede selskap** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i selskaper med betydelig innflytelse. Les om egenkapitalmetoden, klassifisering og bokføring.'
+summary: "Konto 1330 dekker investeringer i tilknyttede selskap. Artikkelen oppsummerer egenkapitalmetoden, klassifisering og eksempler på bokføring."
 ---
 
 **Konto 1330 - Investeringer i tilknyttede selskap** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i selskaper hvor investoren har betydelig innflytelse uten å eie majoriteten.
