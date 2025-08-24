@@ -5,7 +5,7 @@ description: "Lær grunnleggende regnskap: debet og kredit, bilagshåndtering, M
 summary: "Kom i gang med regnskap: bilag, bokføring, MVA og rapportering. Praktiske eksempler, tabeller og sjekklister."
 ---
 
-![Regnskapskurs oversikt](regnskapskurs-illustration.svg)
+![Regnskapskurs oversikt](regnskapskurs-image.svg)
 
 ## Om kurset
 Dette kurset gir en praktisk innføring i **regnskap**, fra bilag til **MVA** og rapportering. Du lærer hvordan du fører transaksjoner korrekt og setter opp gode rutiner.

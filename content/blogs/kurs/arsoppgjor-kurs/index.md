@@ -5,7 +5,7 @@ description: "Lær hele prosessen for årsoppgjør: avstemming, noter, skattemel
 summary: "Praktisk kurs i årsoppgjør: fra avstemming og noter til skattemelding og innsending. Inkluderer sjekklister, tabeller og maler."
 ---
 
-![Årsoppgjør oversikt](arsoppgjor-kurs-illustration.svg)
+![Årsoppgjør oversikt](arsoppgjor-kurs-image.svg)
 
 ## Om kurset
 Dette kurset tar deg gjennom hele prosessen med et komplett **årsoppgjør**: avstemming, periodisering, noteopplysninger, beregning av skatt, og innsending til **Altinn**.

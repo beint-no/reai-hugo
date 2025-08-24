@@ -5,7 +5,7 @@ description: "Lær lønn fra A til Å: lønnskjøring, feriepenger, A-melding, s
 summary: "Praktisk lønnskurs: oppsett, lønnskjøring, A-melding, feriepenger og arbeidsgiveravgift."
 ---
 
-![Lønnskurs oversikt](lonnskurs-illustration.svg)
+![Lønnskurs oversikt](lonnskurs-image.svg)
 
 ## Om kurset
 Dette kurset dekker hele prosessen for **lønn**: oppsett, lønnskjøring, **A-melding**, feriepenger, trekk og innrapportering.

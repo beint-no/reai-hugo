@@ -19,7 +19,7 @@ Brennevin reguleres av særavgiftsloven og merverdiavgiftsloven (MVA). I tillegg
 
 > **Alkoholavgift** beregnes ut fra volum ren alkohol og fastsatt sats per liter ren alkohol.
 
-![Alkoholavgiftsberegning for Brennevin](brennevin-excise-illustration.svg)
+![Alkoholavgiftsberegning for Brennevin](brennevin-excise-image.svg)
 
 | Parameter                    | Formel                                                  |
 |------------------------------|---------------------------------------------------------|

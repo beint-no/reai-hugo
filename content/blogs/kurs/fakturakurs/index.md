@@ -5,7 +5,7 @@ description: "Lær å fakturere riktig, sette opp purrerutiner, beregne purregeb
 summary: "Alt om fakturering: oppsett, purring, renter og inkasso. Maler, tabeller og beste praksis."
 ---
 
-![Fakturakurs oversikt](fakturakurs-illustration.svg)
+![Fakturakurs oversikt](fakturakurs-image.svg)
 
 ## Om kurset
 Dette kurset dekker hele **fakturaprosessen**: fra utstedelse til oppfølging, purring og eventuell **inkasso**.
