@@ -1,7 +1,8 @@
 ﻿---
 title: "Fakturering"
-seoTitle: "Fakturering"
-description: '**Fakturering** er prosessen med å **opprette**, **sende** og **følge opp fakturaer** for varer eller tjenester levert av en bedrift. Fakturering er et sentra...'
+seoTitle: "Fakturering | Prosess, beste praksis og regnskapskobling"
+description: "Fakturering er å opprette, sende og følge opp fakturaer. Lær steg i prosessen, typer fakturering og hvordan du automatiserer og kobler mot regnskap."
+summary: "Kort oversikt over faktureringsprosessen og tips for raskere betaling og bedre likviditet."
 ---
 
 **Fakturering** er prosessen med å **opprette**, **sende** og **følge opp fakturaer** for varer eller tjenester levert av en bedrift. Fakturering er et sentralt element i **likviditetsstyring**, **regnskapsføring** og **økonomisk rapportering**.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Diett"
-seoTitle: "Diett"
-description: '**Diett** refererer til den **skattefrie godtgjørelsen** for måltider og småforpleining ved tjenestereiser og arbeidsoppdrag. Dette er en viktig del av reise...'
+seoTitle: "Diett | Satser, skatteregler og bokføring"
+description: "Diett er skattefri godtgjørelse til måltider og småforpleining ved tjenestereiser. Se satser, skatteregler, dokumentasjonskrav og bokføring i norsk regnskap."
+summary: "Hva er diett? Enkelt forklart med satser, regler og hvordan det føres i regnskapet."
 ---
 
 **Diett** refererer til den **skattefrie godtgjørelsen** for måltider og småforpleining ved tjenestereiser og arbeidsoppdrag. Dette er en viktig del av reiseregningen og påvirker både skattereglene og regnskapsføringen.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Fakturaprogram"
-seoTitle: "Fakturaprogram"
-description: '**Fakturaprogram** er spesialisert programvare for å opprette, sende og følge opp fakturaer elektronisk. Moderne fakturaprogram tilbyr **automatisering**, **i...'
+seoTitle: "Fakturaprogram | Funksjoner, valg og integrasjon"
+description: "Fakturaprogram er programvare for å opprette, sende og følge opp fakturaer. Lær viktige funksjoner, valgkriterier og integrasjoner mot regnskap."
+summary: "Praktisk innføring i fakturaprogram: hva det er, hva du bør se etter og hvordan det henger sammen med regnskap."
 ---
 
 **Fakturaprogram** er spesialisert programvare for å opprette, sende og følge opp fakturaer elektronisk. Moderne fakturaprogram tilbyr **automatisering**, **integrasjon** med regnskapssystemer og fleksible maler for å sikre korrekt og profesjonell fakturabehandling i norske bedrifter.

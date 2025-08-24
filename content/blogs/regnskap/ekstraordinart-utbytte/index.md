@@ -1,7 +1,8 @@
 ﻿---
 title: "Ekstraordinært Utbytte"
-seoTitle: "Ekstraordinært Utbytte"
-description: '**Ekstraordinært utbytte** er utdeling av overskudd fra et aksjeselskap som går utover det **ordinære utbyttet**, og krever særskilt vedtak i generalforsaml...'
+seoTitle: "Ekstraordinært utbytte | Regler, vedtak og bokføring"
+description: "Ekstraordinært utbytte er utdeling utover ordinært utbytte og krever særskilt vedtak. Lær regler i aksjeloven, krav til fri egenkapital og bokføring."
+summary: "Hva er ekstraordinært utbytte? Kort om vilkår, beslutningsprosess og regnskapsmessig behandling."
 ---
 
 **Ekstraordinært utbytte** er utdeling av overskudd fra et aksjeselskap som går utover det **ordinære utbyttet**, og krever særskilt vedtak i generalforsamling og styre. Dette er en viktig mekanisme for å returnere overskudd i ekstraordinære situasjoner, for eksempel ved salg av eiendeler eller uventet høy overskudd.

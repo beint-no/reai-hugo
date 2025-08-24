@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Faste kostnader?"
-seoTitle: "Hva er Faste kostnader?"
-description: '**Faste kostnader** er kostnader som forblir _konstante_ uavhengig av aktivitets- eller produksjonsvolum innenfor et relevant tidsintervall. Disse kostnadene mÃ...'
+seoTitle: "Faste kostnader | Definisjon, eksempler og regnskap"
+description: "Faste kostnader er kostnader som ikke endrer seg med aktivitetsnivå. Lær kjennetegn, eksempler, betydning og regnskapsføring."
+summary: "Kort forklaring av faste kostnader og hvordan de håndteres i regnskap og analyse."
 ---
 
 **Faste kostnader** er kostnader som forblir _konstante_ uavhengig av aktivitets- eller produksjonsvolum innenfor et relevant tidsintervall. Disse kostnadene må dekkes uansett om virksomheten produserer varer eller leverer tjenester.

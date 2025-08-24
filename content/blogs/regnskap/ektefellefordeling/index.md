@@ -1,7 +1,8 @@
 ﻿---
 title: "Ektefellefordeling"
-seoTitle: "Ektefellefordeling"
-description: 'Ektefellefordeling er et sentralt prinsipp i norsk skatterett som gir ektefeller mulighet til å fordele visse **fradrag** og **inntekter** mellom seg for å op...'
+seoTitle: "Ektefellefordeling | Regler og praktiske eksempler"
+description: "Ektefellefordeling lar ektefeller fordele fradrag og inntekter for å optimalisere skatt. Lær hvordan fordelingen gjøres, begrensninger og dokumentasjonskrav."
+summary: "Kort guide til ektefellefordeling: når det kan brukes og hvordan rapportere riktig i skattemeldingen."
 ---
 
 Ektefellefordeling er et sentralt prinsipp i norsk skatterett som gir ektefeller mulighet til å fordele visse **fradrag** og **inntekter** mellom seg for å optimalisere sin samlede skattemessige posisjon. Ved å fordele kostnader og inntektsgrunnlag kan ektefeller jevne ut skattebelastningen og utnytte ulike fradragsmuligheter.

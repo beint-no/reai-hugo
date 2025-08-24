@@ -1,7 +1,8 @@
 ﻿---
 title: "Domenenavn i Regnskap – Behandling og Klassifisering"
-seoTitle: "Domenenavn i Regnskap “ Behandling og Klassifisering"
-description: '**Domenenavn** er registrerte internettadresser som bedrifter bruker som unike identifikatorer på nettet, og representerer en viktig **immateriell eiendel** fo...'
+seoTitle: "Domenenavn i regnskap | Behandling og klassifisering"
+description: "Domenenavn er registrerte internettadresser og en immateriell eiendel. Lær innregning, avskrivning, nedskrivning og opplysningskrav etter norske regler."
+summary: "Praktisk veiledning til hvordan domenenavn behandles i regnskapet, med levetid, avskrivning og noteopplysninger."
 ---
 
 **Domenenavn** er registrerte internettadresser som bedrifter bruker som unike identifikatorer på nettet, og representerer en viktig **immateriell eiendel** for digital tilstedeværelse og merkevarebygging. I denne artikkelen går vi gjennom hvordan domenenavn **regnskapsføres** i tråd med norske regnskapsregler, inkludert innregning, avskrivning, nedskrivning og opplysningskrav.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Brennevin"
-seoTitle: "Brennevin"
-description: 'Brennevin er en **alkoholholdig drikk** med minimum 22 % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likører. **Brennevi...'
+seoTitle: "Brennevin | Alkoholavgift, MVA og bokføring"
+description: "Brennevin er alkoholholdig drikk med minst 22 prosent alkohol. Lær hvordan særavgift, MVA og bokføring håndteres for brennevin i Norge, med satser, regler og kontoplan."
+summary: "Kort forklaring av brennevin, relevante avgifter og hvordan du bokfører kjøp og salg etter norske regler."
 ---
 
 Brennevin er en **alkoholholdig drikk** med minimum 22 % volumprosent alkohol, og omfatter ulike typer sprit som akevitt, whisky, vodka og likører. **Brennevin** er underlagt særavgifter og særskilt regnskapsbehandling i Norge.

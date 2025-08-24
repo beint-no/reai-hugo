@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Disagio? Emisjonsrabatt på lån og obligasjoner"
-seoTitle: "Hva er Disagio? Emisjonsrabatt på lån og obligasjoner"
-description: '**Disagio**, også kjent som *emisjonsrabatt* eller *utstedelsesrabatt*, er forskjellen mellom den nominelle verdien av et lån eller obligasjon og det faktiske...'
+seoTitle: "Disagio | Emisjonsrabatt på lån og obligasjoner"
+description: "Disagio er forskjellen mellom nominell verdi og netto mottatt beløp ved utstedelse av lån eller obligasjon. Lær beregning, regnskapsføring og skattemessig behandling."
+summary: "Kort forklaring av disagio, hvordan det beregnes og føres i regnskapet, med praktiske eksempler."
 ---
 
 **Disagio**, også kjent som *emisjonsrabatt* eller *utstedelsesrabatt*, er forskjellen mellom den nominelle verdien av et lån eller obligasjon og det faktiske beløpet som mottas ved utstedelse. Disagio oppstår når utstederen godtar en rabatt for å kompensere långiver eller investor for risiko, markedsforhold eller rentenivå.

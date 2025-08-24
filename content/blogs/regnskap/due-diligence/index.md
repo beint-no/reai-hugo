@@ -1,7 +1,8 @@
 ﻿---
 title: "Due diligence i Norske Oppkjøp - En Komplett Guide"
-seoTitle: "Due diligence i Norske Oppkjøp - En Komplett Guide"
-description: '**Due diligence** er en systematisk gjennomgang og **risikovurdering** av regnskaps-, juridiske og operasjonelle forhold i en transaksjon, spesielt ved oppkjøp...'
+seoTitle: "Due diligence | Prosess, sjekkliste og beste praksis"
+description: "Due diligence er en systematisk gjennomgang og risikovurdering før oppkjøp eller investering. Lær prosess, typer gjennomgang og beste praksis i Norge."
+summary: "En praktisk guide til due diligence i norske transaksjoner, fra planlegging til rapportering."
 ---
 
 **Due diligence** er en systematisk gjennomgang og **risikovurdering** av regnskaps-, juridiske og operasjonelle forhold i en transaksjon, spesielt ved oppkjøp, fusjoner og investeringer i Norge.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Driftsmidler"
-seoTitle: "Driftsmidler"
-description: '**Driftsmidler** er de **eiendelene** en bedrift benytter i sin daglige drift. Driftsmidler omfatter både kortsiktige og langsiktige eiendeler som støtter pro...'
+seoTitle: "Driftsmidler | Definisjon, typer og regnskapsføring"
+description: "Driftsmidler er eiendeler som brukes i den daglige driften. Lær om typer driftsmidler, hvorfor de er viktige og hvordan de klassifiseres og føres i regnskapet."
+summary: "Kort oversikt over driftsmidler, klassifisering og praktisk regnskapsbehandling."
 ---
 
 **Driftsmidler** er de **eiendelene** en bedrift benytter i sin daglige drift. Driftsmidler omfatter både kortsiktige og langsiktige eiendeler som støtter produksjon, levering av tjenester og administrasjon.

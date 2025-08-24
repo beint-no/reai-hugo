@@ -1,7 +1,8 @@
 ﻿---
 title: "Egenkapitalmetoden"
-seoTitle: "Egenkapitalmetoden"
-description: '**Egenkapitalmetoden** er en regnskapsmetode som benyttes for investeringer i tilknyttede selskaper og felleskontrollert virksomhet (joint ventures). Metoden gi...'
+seoTitle: "Egenkapitalmetoden | Investering i tilknyttede selskaper"
+description: "Egenkapitalmetoden brukes for investeringer med betydelig innflytelse. Lær når metoden brukes, bokføring, måling og forskjeller mot kostmetode og konsolidering."
+summary: "Kort innføring i egenkapitalmetoden: når den gjelder, hvordan den føres og nøkkelforskjeller mot andre metoder."
 ---
 
 **Egenkapitalmetoden** er en regnskapsmetode som benyttes for investeringer i tilknyttede selskaper og felleskontrollert virksomhet (joint ventures). Metoden gir et mer rettvisende bilde av investeringens verdi ved å reflektere investorens andel av resultat og egenkapital i målforetaket.

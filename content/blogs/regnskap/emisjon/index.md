@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Emisjon? En komplett guide til kapitalforhøyelse og aksjeutstedelse"
-seoTitle: "Hva er Emisjon? En komplett guide til kapitalforhøyelse og aksjeutstedelse"
-description: '**Emisjon** er prosessen hvor et selskap utsteder nye aksjer eller andeler for å hente inn **egenkapital**. En emisjon er en måte å gjennomføre en [kapitalf...'
+seoTitle: "Emisjon | Kapitalforhøyelse og utstedelse av aksjer"
+description: "Emisjon er utstedelse av nye aksjer for å hente egenkapital. Lær typer emisjon, juridisk prosess, fordeler, ulemper og regnskapsføring i Norge."
+summary: "Kort forklaring av emisjon, hovedtyper og hvordan prosessen gjennomføres etter norsk rett."
 ---
 
 **Emisjon** er prosessen hvor et selskap utsteder nye aksjer eller andeler for å hente inn **egenkapital**. En emisjon er en måte å gjennomføre en [kapitalforhøyelse](/blogs/regnskap/kapitalforhoyelse "Kapitalforhøyelse: Metoder og Regnskapsføring") på for å finansiere vekst, investeringer eller nedbetaling av gjeld.

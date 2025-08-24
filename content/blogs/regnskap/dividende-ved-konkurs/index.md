@@ -1,7 +1,8 @@
 ﻿---
 title: "Dividende ved konkurs"
-seoTitle: "Dividende ved konkurs"
-description: 'Dividende ved konkurs handler om fordelingen av tilgjengelige midler i et konkursbo etter at alle krav er oppfylt i henhold til konkursloven.'
+seoTitle: "Dividende ved konkurs | Prioritet, beregning og utbetaling"
+description: "Dividende ved konkurs er fordeling av midler i konkursbo etter prioriteringsrekkefølgen i konkursloven. Lær beregning, regler og praktiske hensyn."
+summary: "Enkelt forklart om hvordan dividende fordeles ved konkurs, med prioritet, beregning og eksempel."
 ---
 
 Dividende ved konkurs handler om fordelingen av tilgjengelige midler i et konkursbo etter at alle krav er oppfylt i henhold til konkursloven.

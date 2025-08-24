@@ -1,7 +1,8 @@
 ﻿---
 title: "Entreprenør"
-seoTitle: "Entreprenør"
-description: '**Entreprenør** er en person eller virksomhet som påtar seg ansvaret for å planlegge, utføre og levere bygge- og anleggsarbeider, prosjekter eller tjenester...'
+seoTitle: "Entreprenør | Definisjon, kontrakter og regnskapsføring"
+description: "Entreprenør påtar seg bygg- og anleggsarbeider for en oppdragsgiver. Lær om kontraktstyper, MVA-regler og regnskapsføring av entreprisekontrakter."
+summary: "Kort oversikt over entreprenørrollen i norsk regnskap, kontrakter og MVA."
 ---
 
 **Entreprenør** er en person eller virksomhet som påtar seg ansvaret for å planlegge, utføre og levere bygge- og anleggsarbeider, prosjekter eller tjenester for en oppdragsgiver. I norsk regnskaps- og avgiftssammenheng har entreprenøren en sentral rolle både juridisk, skattemessig og økonomisk.
