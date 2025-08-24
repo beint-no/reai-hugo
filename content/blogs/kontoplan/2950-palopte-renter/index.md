@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2950 - Påløpte renter"
-seoTitle: "2950-palopte-renter"
-description: '**Konto 2950 - Påløpte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte renteutgifter**.'
+seoTitle: "Konto 2950 | Påløpte renter | Kontoplan"
+description: "Konto 2950 brukes til å registrere påløpte renteutgifter som kortsiktig gjeld ved periodisering. Se typiske situasjoner, bokføring, balansepresentasjon og eksempel."
+summary: "Konto 2950: påløpte renter. Periodisering, bokføring og vurdering."
 ---
 
 **Konto 2950 - Påløpte renter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpte renteutgifter**.

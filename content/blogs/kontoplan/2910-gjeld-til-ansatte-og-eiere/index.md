@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2910 - Gjeld til ansatte og eiere"
-seoTitle: "2910-gjeld-til-ansatte-og-eiere"
-description: '**Konto 2910 - Gjeld til ansatte og eiere** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **gjeld til ansatte** og **gjeld til eiere**...'
+seoTitle: "Konto 2910 | Gjeld til ansatte og eiere | Kontoplan"
+description: "Konto 2910 brukes til å registrere gjeld til ansatte og eiere som kortsiktige forpliktelser i balansen. Lær om typiske situasjoner, periodisering, bokføring og eksempler."
+summary: "Konto 2910: gjeld til ansatte og eiere. Periodisering, typetilfeller og bokføring."
 ---
 
 **Konto 2910 - Gjeld til ansatte og eiere** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **gjeld til ansatte** og **gjeld til eiere** som kortsiktige forpliktelser i balansen.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2930 - Lønn"
-seoTitle: "2930-lonn"
-description: '**Konto 2930 - Lønn** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **skyldig lønn** som en del av **kortsiktig gjeld**.'
+seoTitle: "Konto 2930 | Lønn | Kontoplan"
+description: "Konto 2930 brukes til å registrere skyldig lønn som kortsiktig gjeld ved periodisering. Les om bruksområder, bokføring, eksempler og praktiske hensyn."
+summary: "Konto 2930: skyldig lønn. Når den brukes, periodisering og bokføring."
 ---
 
 **Konto 2930 - Lønn** er en konto i **Norsk Standard Kontoplan (NSÂ 4102)** som brukes til å registrere **skyldig lønn** som en del av **kortsiktig gjeld**.
