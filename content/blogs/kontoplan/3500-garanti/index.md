@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 3500 - Garanti?"
-seoTitle: "3500-garanti"
-description: '**Konto 3500 - Garanti** er en konto i Norsk Standard Kontoplan som brukes for å registrere **garantiforpliktelser**, inkludert depositum og garantistillelser ...'
+seoTitle: "Konto 3500 | Garanti og garantiforpliktelser | Kontoplan"
+description: "Konto 3500 i Norsk Standard Kontoplan brukes til å føre garanti og garantiforpliktelser, som depositum og bankgaranti. Se når kontoen brukes og hvordan den bokføres."
+summary: "Bruk av konto 3500 for garanti, eksempler og bokføring."
 ---
 
 **Konto 3500 - Garanti** er en konto i Norsk Standard Kontoplan som brukes for å registrere **garantiforpliktelser**, inkludert depositum og garantistillelser for produkter og tjenester.

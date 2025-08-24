@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3440 - Spesielt offentlig tilskudd for tjeneste"
-seoTitle: "3440-spesielt-offentlig-tilskudd-for-tjeneste"
-description: '**Konto 3440 - Spesielt offentlig tilskudd for tjeneste** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **offentlige tilskudd** knytte...'
+seoTitle: "Konto 3440 | Offentlig tilskudd for tjenester | Kontoplan"
+description: "Konto 3440 i Norsk Standard Kontoplan brukes for å føre spesielt offentlig tilskudd knyttet til tjenester. Les om definisjon, kriterier, bokføring og relaterte kontoer."
+summary: "Hva konto 3440 brukes til ved offentlige tilskudd for tjenester, bokføring og relaterte kontoer."
 ---
 
 **Konto 3440 - Spesielt offentlig tilskudd for tjeneste** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **offentlige tilskudd** knyttet til levering av tjenester. Dette tilskuddet kan bidra til å dekke kostnader ved utførelse av tjenester, og behandles særskilt i regnskapet.

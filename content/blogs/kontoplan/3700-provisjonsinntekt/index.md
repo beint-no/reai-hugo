@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 3700 - Provisjonsinntekt"
-seoTitle: "3700-provisjonsinntekt"
-description: '**Konto 3700 - Provisjonsinntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **provisjonsinntekter**.'
+seoTitle: "Konto 3700 | Provisjonsinntekt | Kontoplan"
+description: "Konto 3700 i Norsk Standard Kontoplan brukes til å registrere provisjonsinntekter. Les om bruksområde, bokføring, MVA og relaterte kontoer."
+summary: "Konto 3700: hva den brukes til, MVA og bokføring."
 ---
 
 **Konto 3700 - Provisjonsinntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **provisjonsinntekter**.

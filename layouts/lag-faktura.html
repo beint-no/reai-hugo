@@ -1,16 +1,370 @@
-{{ define "head" }}
-<link rel="stylesheet" href="/prose.css">
-{{ end }}
-
 {{ define "main" }}
-<article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-  <header class="mb-12 text-center">
-    <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">{{ .Title }}</h1>
+<article class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+  <header class="mb-8 text-center">
+    <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-2">{{ .Title }}</h1>
+    <p class="text-gray-600">Lag norsk faktura i nettleseren, lagre automatisk og last ned som PDF</p>
   </header>
 
-  <div class='article-content prose prose-lg max-w-none prose-headings:font-medium prose-a:text-primary-600 hover:prose-a:text-primary-700 prose-blockquote:border-l-4 prose-blockquote:border-primary-600 prose-blockquote:bg-gray-50 prose-blockquote:px-6 prose-blockquote:py-3 prose-blockquote:rounded-r-lg prose-img:rounded-xl prose-img:shadow-md'>
-    <p>... code missing for making pdf in browser ....</p>
+  <div class="article-content max-w-none">
+    <div class="grid lg:grid-cols-2 gap-6">
+      <section class="bg-white shadow-sm ring-1 ring-gray-200 rounded-xl p-5">
+        <div class="flex items-center justify-between mb-4">
+          <h2 class="text-xl font-semibold">Fakturadetaljer</h2>
+          <div class="flex gap-2">
+            <button id="resetBtn" class="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-gray-300 text-gray-700 hover:bg-gray-50">
+              <i class="bi bi-arrow-counterclockwise"></i><span>Nullstill</span>
+            </button>
+            <button id="downloadPdfBtn" class="inline-flex items-center gap-2 px-3 py-2 rounded-lg bg-primary-600 text-white hover:bg-primary-700">
+              <i class="bi bi-filetype-pdf"></i><span>Last ned PDF</span>
+            </button>
+          </div>
+        </div>
+        <div class="grid sm:grid-cols-2 gap-4">
+          <div>
+            <label class="block text-sm text-gray-600">Selger</label>
+            <input id="seller_name" type="text" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="Firmanavn AS">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">Org.nr</label>
+            <input id="seller_org" type="text" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="123 456 789">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">Adresse</label>
+            <input id="seller_address" type="text" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="Gate 1, 0001 Oslo">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">E-post</label>
+            <input id="seller_email" type="email" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="post@firma.no">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">Kontonummer</label>
+            <input id="seller_account" type="text" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="1234.56.78901">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">KID (valgfritt)</label>
+            <input id="seller_kid" type="text" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="">
+          </div>
+        </div>
+        <div class="grid sm:grid-cols-2 gap-4 mt-6">
+          <div>
+            <label class="block text-sm text-gray-600">Kunde</label>
+            <input id="buyer_name" type="text" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="Kunde AS">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">Kunderef.</label>
+            <input id="buyer_ref" type="text" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">Adresse</label>
+            <input id="buyer_address" type="text" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="Gate 2, 0002 Oslo">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">E-post</label>
+            <input id="buyer_email" type="email" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="faktura@kunde.no">
+          </div>
+        </div>
+        <div class="grid sm:grid-cols-4 gap-4 mt-6">
+          <div>
+            <label class="block text-sm text-gray-600">Fakturanr</label>
+            <input id="inv_number" type="text" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" placeholder="2025-001">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">Fakturadato</label>
+            <input id="inv_date" type="date" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">Forfallsdato</label>
+            <input id="due_date" type="date" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600">
+          </div>
+          <div>
+            <label class="block text-sm text-gray-600">Valuta</label>
+            <select id="currency" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600">
+              <option value="NOK">NOK</option>
+              <option value="EUR">EUR</option>
+              <option value="SEK">SEK</option>
+            </select>
+          </div>
+        </div>
+        <div class="mt-6">
+          <div class="flex items-center justify-between mb-2">
+            <h3 class="text-lg font-semibold">Linjer</h3>
+            <button id="addLineBtn" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg border border-gray-300 text-gray-700 hover:bg-gray-50">
+              <i class="bi bi-plus"></i><span>Legg til linje</span>
+            </button>
+          </div>
+          <div class="overflow-x-auto">
+            <table class="min-w-full text-sm">
+              <thead class="text-gray-600">
+                <tr>
+                  <th class="text-left font-medium px-2 py-2">Beskrivelse</th>
+                  <th class="text-right font-medium px-2 py-2">Antall</th>
+                  <th class="text-right font-medium px-2 py-2">Pris</th>
+                  <th class="text-right font-medium px-2 py-2">MVA</th>
+                  <th class="text-right font-medium px-2 py-2">Sum</th>
+                  <th class="px-2 py-2"></th>
+                </tr>
+              </thead>
+              <tbody id="linesTbody"></tbody>
+            </table>
+          </div>
+        </div>
+        <div class="mt-6 grid sm:grid-cols-2 gap-4">
+          <div>
+            <label class="block text-sm text-gray-600">Notat på faktura</label>
+            <textarea id="inv_note" class="mt-1 w-full rounded-lg border-gray-300 focus:ring-primary-600 focus:border-primary-600" rows="3" placeholder="Takk for samarbeidet"></textarea>
+          </div>
+          <div class="bg-gray-50 rounded-lg p-4">
+            <div class="flex justify-between text-sm"><span>Nettobeløp</span><span id="sum_net">0</span></div>
+            <div id="vatSummary" class="space-y-1 mt-1"></div>
+            <div class="border-t mt-2 pt-2 flex justify-between font-semibold"><span>Totalt å betale</span><span id="sum_total">0</span></div>
+          </div>
+        </div>
+      </section>
+      <section class="bg-white shadow-sm ring-1 ring-gray-200 rounded-xl p-5">
+        <div class="flex items-center justify-between mb-4">
+          <h2 class="text-xl font-semibold">Forhåndsvisning</h2>
+          <button id="downloadPdfBtnTop" class="inline-flex items-center gap-2 px-3 py-2 rounded-lg bg-primary-600 text-white hover:bg-primary-700"><i class="bi bi-filetype-pdf"></i><span>PDF</span></button>
+        </div>
+        <div id="invoicePreview" class="bg-white mx-auto max-w-3xl w-full border border-gray-200 rounded-lg p-6">
+          <div class="flex justify-between gap-6">
+            <div>
+              <div class="text-2xl font-bold" id="pv_seller_name">Firmanavn AS</div>
+              <div class="text-sm text-gray-600" id="pv_seller_address"></div>
+              <div class="text-sm text-gray-600" id="pv_seller_email"></div>
+              <div class="text-sm text-gray-600" id="pv_seller_org"></div>
+            </div>
+            <div class="text-right">
+              <div class="text-3xl font-bold">Faktura</div>
+              <div class="text-sm text-gray-600">Fakturanr <span id="pv_inv_number">2025-001</span></div>
+              <div class="text-sm text-gray-600">Dato <span id="pv_inv_date"></span></div>
+              <div class="text-sm text-gray-600">Forfall <span id="pv_due_date"></span></div>
+            </div>
+          </div>
+          <div class="mt-6 grid grid-cols-2 gap-4">
+            <div>
+              <div class="font-semibold">Faktureres til</div>
+              <div id="pv_buyer_name">Kunde AS</div>
+              <div class="text-sm text-gray-600" id="pv_buyer_address"></div>
+              <div class="text-sm text-gray-600" id="pv_buyer_email"></div>
+            </div>
+            <div class="text-right">
+              <div class="text-sm text-gray-600">Kontonummer <span id="pv_seller_account">1234.56.78901</span></div>
+              <div class="text-sm text-gray-600">KID <span id="pv_seller_kid"></span></div>
+              <div class="text-sm text-gray-600">Valuta <span id="pv_currency">NOK</span></div>
+            </div>
+          </div>
+          <div class="mt-6 overflow-hidden border border-gray-200 rounded-md">
+            <table class="w-full text-sm">
+              <thead class="bg-gray-50 text-gray-700">
+                <tr>
+                  <th class="text-left font-medium px-3 py-2">Beskrivelse</th>
+                  <th class="text-right font-medium px-3 py-2">Antall</th>
+                  <th class="text-right font-medium px-3 py-2">Pris</th>
+                  <th class="text-right font-medium px-3 py-2">MVA</th>
+                  <th class="text-right font-medium px-3 py-2">Sum</th>
+                </tr>
+              </thead>
+              <tbody id="pv_lines"></tbody>
+            </table>
+          </div>
+          <div class="mt-4 grid grid-cols-2 gap-4">
+            <div>
+              <div class="text-sm text-gray-600">Notat</div>
+              <div id="pv_inv_note" class="text-sm whitespace-pre-wrap"></div>
+            </div>
+            <div class="bg-gray-50 rounded-lg p-4">
+              <div class="flex justify-between text-sm"><span>Nettobeløp</span><span id="pv_sum_net">0</span></div>
+              <div id="pv_vatSummary" class="space-y-1 mt-1"></div>
+              <div class="border-t mt-2 pt-2 flex justify-between font-semibold"><span>Totalt å betale</span><span id="pv_sum_total">0</span></div>
+            </div>
+          </div>
+          <div class="mt-6 text-sm text-gray-600">
+            <div>Betalingsinformasjon</div>
+            <div>Org.nr <span id="pv_org_only">123 456 789</span> MVA</div>
+          </div>
+        </div>
+      </section>
+    </div>
   </div>
+
+  <script>
+    const $ = s => document.querySelector(s)
+    const $$ = s => Array.from(document.querySelectorAll(s))
+    const key = 'invoice_builder_v1'
+    const currencyFmt = (v, c) => new Intl.NumberFormat('nb-NO', { style: 'currency', currency: c || $('#currency').value || 'NOK' }).format(v || 0)
+    const today = () => new Date().toISOString().slice(0,10)
+    const defaultData = { seller_name:'Firmanavn AS', seller_org:'123 456 789', seller_address:'Gate 1, 0001 Oslo', seller_email:'post@firma.no', seller_account:'1234.56.78901', seller_kid:'', buyer_name:'Kunde AS', buyer_ref:'', buyer_address:'Gate 2, 0002 Oslo', buyer_email:'faktura@kunde.no', inv_number:'2025-001', inv_date: today(), due_date: today(), currency:'NOK', inv_note:'Takk for samarbeidet', lines:[{ desc:'Tjeneste', qty:1, price:1000, vat:25 }]} 
+
+    function load() {
+      const saved = localStorage.getItem(key)
+      const data = saved ? JSON.parse(saved) : defaultData
+      for (const [k,v] of Object.entries(data)) {
+        if (k === 'lines') continue
+        const el = document.getElementById(k)
+        if (el) el.value = v
+      }
+      renderLines(data.lines)
+      compute()
+    }
+
+    function save() {
+      const data = collect()
+      localStorage.setItem(key, JSON.stringify(data))
+    }
+
+    function collect() {
+      const data = {
+        seller_name: $('#seller_name').value,
+        seller_org: $('#seller_org').value,
+        seller_address: $('#seller_address').value,
+        seller_email: $('#seller_email').value,
+        seller_account: $('#seller_account').value,
+        seller_kid: $('#seller_kid').value,
+        buyer_name: $('#buyer_name').value,
+        buyer_ref: $('#buyer_ref').value,
+        buyer_address: $('#buyer_address').value,
+        buyer_email: $('#buyer_email').value,
+        inv_number: $('#inv_number').value,
+        inv_date: $('#inv_date').value,
+        due_date: $('#due_date').value,
+        currency: $('#currency').value,
+        inv_note: $('#inv_note').value,
+        lines: $$('#linesTbody tr').map(tr => ({
+          desc: tr.querySelector('.l-desc').value,
+          qty: parseFloat(tr.querySelector('.l-qty').value) || 0,
+          price: parseFloat(tr.querySelector('.l-price').value) || 0,
+          vat: parseFloat(tr.querySelector('.l-vat').value) || 0,
+        }))
+      }
+      return data
+    }
+
+    function renderLines(lines) {
+      const tbody = $('#linesTbody')
+      tbody.innerHTML = ''
+      lines.forEach((line, idx) => tbody.appendChild(lineRow(line, idx)))
+    }
+
+    function lineRow(line, idx) {
+      const tr = document.createElement('tr')
+      tr.innerHTML = `
+        <td class="px-2 py-1"><input type="text" class="l-desc w-full rounded-md border-gray-300" value="${line.desc ?? ''}"></td>
+        <td class="px-2 py-1 text-right"><input type="number" step="0.01" class="l-qty w-28 text-right rounded-md border-gray-300" value="${line.qty ?? 0}"></td>
+        <td class="px-2 py-1 text-right"><input type="number" step="0.01" class="l-price w-32 text-right rounded-md border-gray-300" value="${line.price ?? 0}"></td>
+        <td class="px-2 py-1 text-right">
+          <select class="l-vat w-24 text-right rounded-md border-gray-300">
+            ${[25,15,12,0].map(v => `<option ${Number(line.vat)==v?'selected':''} value="${v}">${v}%</option>`).join('')}
+          </select>
+        </td>
+        <td class="px-2 py-1 text-right"><span class="l-sum">0</span></td>
+        <td class="px-2 py-1 text-right">
+          <button class="del-line text-red-600 hover:text-red-700"><i class="bi bi-trash"></i></button>
+        </td>`
+      return tr
+    }
+
+    function compute() {
+      const data = collect()
+      const vatGroups = {}
+      let net = 0
+      data.lines.forEach((l, i) => {
+        const lineNet = round(l.qty * l.price)
+        const vatAmt = round(lineNet * (l.vat/100))
+        const total = round(lineNet + vatAmt)
+        net += lineNet
+        vatGroups[l.vat] = (vatGroups[l.vat] || 0) + vatAmt
+        const tr = $('#linesTbody').children[i]
+        if (tr) tr.querySelector('.l-sum').textContent = currencyFmt(total, data.currency)
+      })
+      const totalVat = Object.values(vatGroups).reduce((a,b)=>a+b,0)
+      const total = round(net + totalVat)
+      $('#sum_net').textContent = currencyFmt(net, data.currency)
+      $('#sum_total').textContent = currencyFmt(total, data.currency)
+      const vatEl = $('#vatSummary')
+      vatEl.innerHTML = Object.keys(vatGroups).sort((a,b)=>b-a).map(k => `<div class="flex justify-between text-sm"><span>MVA ${k}%</span><span>${currencyFmt(vatGroups[k], data.currency)}</span></div>`).join('')
+      updatePreview(data, net, vatGroups, total)
+      save()
+    }
+
+    function updatePreview(data, net, vatGroups, total) {
+      $('#pv_seller_name').textContent = data.seller_name || ''
+      $('#pv_seller_address').textContent = data.seller_address || ''
+      $('#pv_seller_email').textContent = data.seller_email || ''
+      $('#pv_seller_org').textContent = (data.seller_org? 'Org.nr '+data.seller_org : '')
+      $('#pv_org_only').textContent = data.seller_org || ''
+      $('#pv_seller_account').textContent = data.seller_account || ''
+      $('#pv_seller_kid').textContent = data.seller_kid || ''
+      $('#pv_buyer_name').textContent = data.buyer_name || ''
+      $('#pv_buyer_address').textContent = data.buyer_address || ''
+      $('#pv_buyer_email').textContent = data.buyer_email || ''
+      $('#pv_inv_number').textContent = data.inv_number || ''
+      $('#pv_inv_date').textContent = data.inv_date || ''
+      $('#pv_due_date').textContent = data.due_date || ''
+      $('#pv_currency').textContent = data.currency || 'NOK'
+      $('#pv_inv_note').textContent = data.inv_note || ''
+      const tbody = $('#pv_lines')
+      tbody.innerHTML = ''
+      data.lines.forEach(l => {
+        const lineNet = round(l.qty * l.price)
+        const vatAmt = round(lineNet * (l.vat/100))
+        const total = round(lineNet + vatAmt)
+        const tr = document.createElement('tr')
+        tr.innerHTML = `
+          <td class="px-3 py-2">${escapeHtml(l.desc || '')}</td>
+          <td class="px-3 py-2 text-right">${fmtNumber(l.qty)}</td>
+          <td class="px-3 py-2 text-right">${currencyFmt(l.price, data.currency)}</td>
+          <td class="px-3 py-2 text-right">${l.vat}%</td>
+          <td class="px-3 py-2 text-right">${currencyFmt(total, data.currency)}</td>`
+        tbody.appendChild(tr)
+      })
+      $('#pv_sum_net').textContent = currencyFmt(net, data.currency)
+      $('#pv_sum_total').textContent = currencyFmt(total, data.currency)
+      const vatEl = $('#pv_vatSummary')
+      vatEl.innerHTML = Object.keys(vatGroups).sort((a,b)=>b-a).map(k => `<div class="flex justify-between text-sm"><span>MVA ${k}%</span><span>${currencyFmt(vatGroups[k], data.currency)}</span></div>`).join('')
+    }
+
+    function round(n) { return Math.round((n + Number.EPSILON) * 100) / 100 }
+    function fmtNumber(n) { return (Number(n)||0).toLocaleString('nb-NO', { maximumFractionDigits: 2, minimumFractionDigits: 0 }) }
+    function escapeHtml(s) { return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') }
+
+    function addLine(line) {
+      const tbody = $('#linesTbody')
+      tbody.appendChild(lineRow(line || { desc:'', qty:1, price:0, vat:25 }))
+      compute()
+    }
+
+    document.addEventListener('input', e => {
+      if (e.target.closest('#linesTbody')) compute()
+      if (e.target.matches('#seller_name, #seller_org, #seller_address, #seller_email, #seller_account, #seller_kid, #buyer_name, #buyer_ref, #buyer_address, #buyer_email, #inv_number, #inv_date, #due_date, #currency, #inv_note')) compute()
+    })
+
+    document.addEventListener('change', e => {
+      if (e.target.matches('.l-vat, #currency')) compute()
+    })
+
+    document.addEventListener('click', e => {
+      if (e.target.closest('#addLineBtn')) { addLine(); }
+      if (e.target.closest('.del-line')) { e.target.closest('tr').remove(); compute(); }
+      if (e.target.closest('#downloadPdfBtn') || e.target.closest('#downloadPdfBtnTop')) { downloadPdf(); }
+      if (e.target.closest('#resetBtn')) { localStorage.removeItem(key); load(); }
+    })
+
+    function downloadPdf() {
+      const data = collect()
+      const node = document.getElementById('invoicePreview')
+      const opt = { margin: [10,10,10,10], filename: `${(data.inv_number||'faktura')}-${(data.buyer_name||'kunde').replace(/\s+/g,'_')}.pdf`, image: { type: 'jpeg', quality: 0.98 }, html2canvas: { scale: 2, useCORS: true, backgroundColor: '#ffffff' }, jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' } }
+      html2pdf().set(opt).from(node).save()
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      load()
+      if (!$('#inv_date').value) $('#inv_date').value = today()
+      if (!$('#due_date').value) {
+        const d = new Date(); d.setDate(d.getDate()+14); $('#due_date').value = d.toISOString().slice(0,10)
+      }
+      compute()
+    })
+  </script>
 </article>
 
 {{ end }}

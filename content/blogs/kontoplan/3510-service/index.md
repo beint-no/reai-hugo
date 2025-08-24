@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 3510 - Service?"
-seoTitle: "3510-service"
-description: '**Konto 3510 - Service** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inntekter fra serviceytelser**, som support, vedlikehold, konsult...'
+seoTitle: "Konto 3510 | Service og serviceytelser | Kontoplan"
+description: "Konto 3510 i Norsk Standard Kontoplan brukes til å registrere inntekter fra serviceytelser som support, vedlikehold, konsulenttjenester og abonnement. Se når kontoen brukes og hvordan den bokføres."
+summary: "Bruk av konto 3510 for serviceinntekter, eksempler og bokføring."
 ---
 
 **Konto 3510 - Service** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inntekter fra serviceytelser**, som support, vedlikehold, konsultasjon og andre **tjenester** utenom ordinært varesalg.
