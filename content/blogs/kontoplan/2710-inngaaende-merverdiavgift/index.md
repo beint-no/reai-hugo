@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2710 - Inngående merverdiavgift"
-seoTitle: "2710-inngaaende-merverdiavgift"
-description: '**Konto 2710 - Inngående merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift (MVA)** som et fradra...'
+seoTitle: "Konto 2710 | Inngående merverdiavgift | Kontoplan"
+description: "Konto 2710 brukes til å registrere inngående merverdiavgift (MVA) som fradrag i regnskapet. Lær regler, fradragsrett, bokføring, avstemming og eksempler knyttet til kontoen i Norsk Standard Kontoplan."
+summary: "Konto 2710: inngående MVA. Når den brukes, fradragsrett og bokføring."
 ---
 
 **Konto 2710 - Inngående merverdiavgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **inngående merverdiavgift (MVA)** som et fradrag i regnskapet for kjøp av varer og tjenester.

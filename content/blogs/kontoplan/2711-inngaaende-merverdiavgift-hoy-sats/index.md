@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2711 - Inngående merverdiavgift høy sats"
-seoTitle: "2711-inngaaende-merverdiavgift-hoy-sats"
-description: '**Konto 2711 - Inngående merverdiavgift høy sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av inngående merverdiavgift...'
+seoTitle: "Konto 2711 | Inngående merverdiavgift høy sats | Kontoplan"
+description: "Konto 2711 brukes ved periodisk oppgjør av inngående merverdiavgift med høy sats (25 %) i MVA-regnskapet. Lær regler, bokføring, avstemming og eksempler for korrekt føring i kontoplanen."
+summary: "Konto 2711: oppgjør av inngående MVA høy sats. Når den brukes, avstemming og bokføring."
 ---
 
 **Konto 2711 - Inngående merverdiavgift høy sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av inngående merverdiavgift med høy sats** (25 %) for å avstemme og registrere fradrag før betaling eller til gode i MVA-regnskapet.

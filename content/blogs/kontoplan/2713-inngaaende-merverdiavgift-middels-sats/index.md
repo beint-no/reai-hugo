@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2713 - Inngående merverdiavgift middels sats"
-seoTitle: "2713-inngaaende-merverdiavgift-middels-sats"
-description: '**Konto 2713 - Inngående merverdiavgift middels sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av inngående merverdiavg...'
+seoTitle: "Konto 2713 | Inngående merverdiavgift middels sats | Kontoplan"
+description: "Konto 2713 brukes ved periodisk oppgjør av inngående merverdiavgift med middels sats (15 %) for avstemming og fradrag i MVA-regnskapet. Se regler, bokføring og eksempler."
+summary: "Konto 2713: oppgjør av inngående MVA middels sats. Når den brukes og bokføring."
 ---
 
 **Konto 2713 - Inngående merverdiavgift middels sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av inngående merverdiavgift med middels sats** (15–¯%) for å avstemme og registrere fradrag før betaling eller til gode i MVA-regnskapet.

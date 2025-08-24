@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2714 - Inngående merverdiavgift lav sats"
-seoTitle: "2714-inngaaende-merverdiavgift-lav-sats"
-description: '**Konto 2714 - Inngående merverdiavgift lav sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av inngående merverdiavgift ...'
+seoTitle: "Konto 2714 | Inngående merverdiavgift lav sats | Kontoplan"
+description: "Konto 2714 brukes ved periodisk oppgjør av inngående merverdiavgift med lav sats (12 %) for avstemming og fradrag i MVA-regnskapet. Se regler, bokføring og eksempler."
+summary: "Konto 2714: oppgjør av inngående MVA lav sats. Når den brukes og bokføring."
 ---
 
 **Konto 2714 - Inngående merverdiavgift lav sats** er en konto i **Norsk Standard Kontoplan** som brukes ved periodisk **oppgjør av inngående merverdiavgift med lav sats** (12–¯%) for å avstemme og registrere fradrag før betaling eller til gode i MVA-regnskapet.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2730 - Grunnlag investeringsavgift"
-seoTitle: "2730-grunnlag-investeringsavgift"
-description: '**Konto 2730 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **grunnlaget for utgående investeringsavgi...'
+seoTitle: "Konto 2730 | Grunnlag investeringsavgift | Kontoplan"
+description: "Konto 2730 brukes til å føre grunnlaget for utgående investeringsavgift ved fakturering. Lær hva som inngår i avgiftsgrunnlaget, satser, beregning, bokføring og eksempler."
+summary: "Konto 2730: grunnlag for investeringsavgift. Hva inngår, satser og bokføring."
 ---
 
 **Konto 2730 - Grunnlag investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **grunnlaget for utgående investeringsavgift** ved fakturering av kunder ved etablering eller utvidelse av anleggsmidler.

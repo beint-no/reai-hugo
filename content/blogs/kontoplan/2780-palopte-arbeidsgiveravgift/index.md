@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2780 - Påløpt arbeidsgiveravgift"
-seoTitle: "2780-palopte-arbeidsgiveravgift"
-description: '**Konto 2780 - Påløpt arbeidsgiveravgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpt arbeidsgiveravgift** som kortsiktig ...'
+seoTitle: "Konto 2780 | Påløpt arbeidsgiveravgift | Kontoplan"
+description: "Konto 2780 brukes til å registrere påløpt arbeidsgiveravgift som kortsiktig gjeld ved periodisering av lønn og ytelser. Se regler, satser, bokføring, avstemming og eksempler."
+summary: "Konto 2780: påløpt arbeidsgiveravgift. Periodisering, satser og bokføring."
 ---
 
 **Konto 2780 - Påløpt arbeidsgiveravgift** er en konto i Norsk Standard Kontoplan som brukes til å registrere **påløpt arbeidsgiveravgift** som kortsiktig gjeld.

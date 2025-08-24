@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2720 - Investeringsavgift"
-seoTitle: "2720-investeringsavgift"
-description: '**Konto 2720 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere utgående **investeringsavgift** fra leverandøren v...'
+seoTitle: "Konto 2720 | Investeringsavgift | Kontoplan"
+description: "Konto 2720 brukes til å føre utgående investeringsavgift ved etablering eller utvidelse av anleggsmidler. Les om regler, sats, bokføring, periodisering og eksempler."
+summary: "Konto 2720: utgående investeringsavgift. Regler, sats og bokføring."
 ---
 
 **Konto 2720 - Investeringsavgift** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere utgående **investeringsavgift** fra leverandøren ved etablering eller utvidelse av anleggsmidler.

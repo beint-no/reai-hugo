@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 2970 - Uopptjent inntekt"
-seoTitle: "2970-uopptjent-inntekt"
-description: '**Konto 2970 - Uopptjent inntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uopptjent inntekt**, altså inntekter som er mottatt pÃ...'
+seoTitle: "Konto 2970 | Uopptjent inntekt | Kontoplan"
+description: "Konto 2970 brukes til å registrere uopptjent inntekt mottatt på forskudd før levering av varer eller tjenester. Se regler, periodisering, balanseføring, bokføring og eksempler."
+summary: "Konto 2970: uopptjent inntekt. Regler, periodisering og bokføring."
 ---
 
 **Konto 2970 - Uopptjent inntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **uopptjent inntekt**, altså inntekter som er mottatt på forskudd før levering av varer eller tjenester i kommende regnskapsperioder.
