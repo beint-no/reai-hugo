@@ -1,7 +1,8 @@
 ﻿---
 title: "Budsjett"
-seoTitle: "Budsjett"
-description: '**Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") for ...'
+seoTitle: "Budsjett | Typer, oppsett og bruk i økonomistyring"
+description: "Budsjett er en plan over forventede inntekter og utgifter for en periode. Artikkelen forklarer hvorfor budsjett er nyttig, ulike budsjetttyper og hvordan du setter det opp og følger det opp i praksis."
+summary: "Enkel guide til budsjett: hvorfor det er viktig, vanlige budsjetttyper og hvordan du lager et budsjett."
 ---
 
 **Budsjett** er en detaljert plan over forventede inntekter og [utgifter](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") for en fremtidig periode. Et godt budsjett hjelper bedrifter med å styre ressurser, sette mål og kontrollere økonomien.

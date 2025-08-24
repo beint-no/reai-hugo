@@ -1,7 +1,8 @@
 ﻿---
 title: "Bilag i Regnskap – Guide til Dokumentasjon og Behandling"
-seoTitle: "Bilag i Regnskap “ Guide til Dokumentasjon og Behandling"
-description: '**Bilag** er grunnlaget for all **regnskapsføring** og dokumenterer hver forretningshendelse med nødvendig informasjon for korrekt [bokføring](/blogs/regnska...'
+seoTitle: "Bilag i regnskap | Dokumentasjonskrav og effektiv behandling"
+description: "Bilag er dokumentasjonen som ligger til grunn for alle regnskapsposter. Denne guiden forklarer kravene i bokføringsloven og bokføringsforskriften, bilagstyper, prosess for kontroll og kontering, samt beste praksis for digital oppbevaring."
+summary: "Praktisk guide til bilag i norsk regnskap: krav, typer, prosess og effektiv digital behandling."
 ---
 
 **Bilag** er grunnlaget for all **regnskapsføring** og dokumenterer hver forretningshendelse med nødvendig informasjon for korrekt [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"). Som fundamentet for pålitelig [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk Regnskapsføring"), sikrer bilag sporbarhet, etterprøvbarhet og overholdelse av norske lovkrav. Denne omfattende artikkelen gir en grundig gjennomgang av hva bilag er, hvordan de håndteres i norsk regnskapspraksis, og hvordan moderne bedrifter kan effektivisere bilagsbehandlingen.

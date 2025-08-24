@@ -49,11 +49,11 @@ Den **bokførte verdien av [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Ei
 
 | **Eiendelstype** | **Inkludert i Q-ratio** | **Kommentarer** |
 |------------------|-------------------------|-----------------|
-| [Anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler") | œ“ | Bygninger, maskiner, utstyr |
-| Immaterielle eiendeler | œ“ | Patenter, varemerker, [goodwill](/blogs/regnskap/hva-er-goodwill "Hva er Goodwill? Komplett Guide til Immaterielle Eiendeler") |
-| [Varelager](/blogs/regnskap/hva-er-varelager "Hva er Varelager? En Komplett Guide til Lagerføring og Verdivurdering") | œ“ | Råvarer, ferdigvarer |
-| [Fordringer](/blogs/regnskap/hva-er-fordringer "Hva er Fordringer? Komplett Guide til Kundefordringer og Andre Fordringer") | œ“ | [Kundefordringer](/blogs/regnskap/hva-er-debitor "Hva er Debitor i Regnskap? Komplett Guide til Kundefordringer og Debitorhåndtering"), andre fordringer |
-| Kontanter | œ“ | [Bankinnskudd](/blogs/regnskap/hva-er-bankinnskudd "Hva er Bankinnskudd? Komplett Guide til Bankinnskudd i Regnskap"), likvide midler |
+| [Anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler") | Ja | Bygninger, maskiner, utstyr |
+| Immaterielle eiendeler | Ja | Patenter, varemerker, [goodwill](/blogs/regnskap/hva-er-goodwill "Hva er Goodwill? Komplett Guide til Immaterielle Eiendeler") |
+| [Varelager](/blogs/regnskap/hva-er-varelager "Hva er Varelager? En Komplett Guide til Lagerføring og Verdivurdering") | Ja | Råvarer, ferdigvarer |
+| [Fordringer](/blogs/regnskap/hva-er-fordringer "Hva er Fordringer? Komplett Guide til Kundefordringer og Andre Fordringer") | Ja | [Kundefordringer](/blogs/regnskap/hva-er-debitor "Hva er Debitor i Regnskap? Komplett Guide til Kundefordringer og Debitorhåndtering"), andre fordringer |
+| Kontanter | Ja | [Bankinnskudd](/blogs/regnskap/hva-er-bankinnskudd "Hva er Bankinnskudd? Komplett Guide til Bankinnskudd i Regnskap"), likvide midler |
 
 ### 2.3 Praktisk Beregningseksempel
 

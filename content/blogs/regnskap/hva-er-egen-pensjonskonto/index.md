@@ -19,11 +19,11 @@ description: '![Illustrasjon av Egen Pensjonskonto](hva-er-egen-pensjonskonto-im
 
 | Egenskap                  | Egen pensjonskonto (EPK)              | Tradisjonell OTP                     |
 |:--------------------------|:--------------------------------------|:-------------------------------------|
-| Kontosammenslåing         | œ”ï¸ Samler midler fra alle arbeidsgivere | Œ Separate kontoer per arbeidsgiver  |
-| Valg av leverandør        | œ”ï¸ Fritt valg uten kostnad             | Œ Leverandør valgt av arbeidsgiver   |
-| Investeringsvalg          | œ”ï¸ Fleksibelt utvalg                   | š ï¸ Begrensede alternativer           |
-| Automatiske overføringer  | œ”ï¸ Ved jobbskifte                      | Œ Må aktivt ønskes                   |
-| Oversikt i nettbank        | œ”ï¸ Oversiktlig personlig konto         | š ï¸ Flere løsninger å følge opp       |
+| Kontosammenslåing         | Samler midler fra alle arbeidsgivere  | Separate kontoer per arbeidsgiver    |
+| Valg av leverandør        | Fritt valg uten kostnad               | Leverandør valgt av arbeidsgiver     |
+| Investeringsvalg          | Fleksibelt utvalg                     | Begrensede alternativer              |
+| Automatiske overføringer  | Ved jobbskifte                        | Må aktivt ønskes                      |
+| Oversikt i nettbank        | Oversiktlig personlig konto           | Flere løsninger å følge opp          |
 
 ## Hvordan opprette og administrere Egen pensjonskonto
 
@@ -34,7 +34,7 @@ description: '![Illustrasjon av Egen Pensjonskonto](hva-er-egen-pensjonskonto-im
 
 ## Regnskaps- og skattemessige konsekvenser
 
-Selve Egen pensjonskonto påvirker normalt ikke regnskapsføringen for arbeidsgiver “ kostnaden for **obligatorisk tjenestepensjon** bokføres som vanlig i [lønns- og pensjonskostnader](/blogs/regnskap/hva-er-lonnskostnader "Hva er Lønnskostnader? Komplett Guide til Lønnskostnader i Regnskap"). For ansatte kan EPK ha skattemessige fordeler ved valg av spareprofil, men selve ordningen gir ikke ekstra fradrag.
+Selve Egen pensjonskonto påvirker normalt ikke regnskapsføringen for arbeidsgiver - kostnaden for **obligatorisk tjenestepensjon** bokføres som vanlig i [lønns- og pensjonskostnader](/blogs/regnskap/hva-er-lonnskostnader "Hva er Lønnskostnader? Komplett Guide til Lønnskostnader i Regnskap"). For ansatte kan EPK ha skattemessige fordeler ved valg av spareprofil, men selve ordningen gir ikke ekstra fradrag.
 
 ## Relaterte artikler
 

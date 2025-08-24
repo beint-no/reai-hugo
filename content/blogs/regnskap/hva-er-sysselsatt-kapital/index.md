@@ -57,17 +57,17 @@ Rentefrie forpliktelser som ikke regnes som sysselsatt kapital:
 | **Balanseposter** | **Beløp (NOK)** | **Inkludert** |
 |-------------------|-----------------|---------------|
 | **EIENDELER** | | |
-| Kontanter og bankinnskudd | 500 000 | œ“ |
-| Kundefordringer | 800 000 | œ“ |
-| Varelager | 600 000 | œ“ |
-| Maskiner og utstyr | 2 000 000 | œ“ |
+| Kontanter og bankinnskudd | 500 000 | Ja |
+| Kundefordringer | 800 000 | Ja |
+| Varelager | 600 000 | Ja |
+| Maskiner og utstyr | 2 000 000 | Ja |
 | **Sum eiendeler** | **3 900 000** | |
 | | | |
 | **GJELD OG EGENKAPITAL** | | |
-| Leverandørgjeld | 300 000 | œ— (Rentefri) |
-| Skyldig offentlige avgifter | 150 000 | œ— (Rentefri) |
-| Banklån | 1 200 000 | œ“ |
-| Egenkapital | 2 250 000 | œ“ |
+| Leverandørgjeld | 300 000 | Nei (Rentefri) |
+| Skyldig offentlige avgifter | 150 000 | Nei (Rentefri) |
+| Banklån | 1 200 000 | Ja |
+| Egenkapital | 2 250 000 | Ja |
 | **Sum gjeld og egenkapital** | **3 900 000** | |
 
 **Sysselsatt kapital = 3 900 000 - (300 000 + 150 000) = 3 450 000 NOK**
@@ -229,14 +229,14 @@ Sysselsatt kapital brukes til å vurdere:
 
 #### Tolkningsutfordringer
 **Høy ROCE kan skyldes:**
-- Utmerket drift og kapitaleffektivitet œ“
-- Underinvestering i fremtidig vekst œ—
-- Engangsgevinster eller uvanlige poster œ—
+- Utmerket drift og kapitaleffektivitet
+- Underinvestering i fremtidig vekst
+- Engangsgevinster eller uvanlige poster
 
 **Lav ROCE kan skyldes:**
-- Ineffektiv kapitalbruk œ—
-- Store investeringer som ikke har gitt avkastning ennå œ“
-- Midlertidige markedsutfordringer œ“
+- Ineffektiv kapitalbruk
+- Store investeringer som ikke har gitt avkastning ennå
+- Midlertidige markedsutfordringer
 
 ### Digitale Verktøy og Automatisering
 

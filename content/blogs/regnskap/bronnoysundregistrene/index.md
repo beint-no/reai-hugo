@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Brønnøysundregistrene?"
-seoTitle: "Hva er Brønnøysundregistrene?"
-description: '**Brønnøysundregistrene** er et offentlig forvaltningsorgan under Nærings- og fiskeridepartementet som administrerer flere sentrale norske registre. Dette in...'
+seoTitle: "Brønnøysundregistrene | Enhetsregisteret, Foretaksregisteret m.m."
+description: "Brønnøysundregistrene er statens registerforvaltning som drifter blant annet Enhetsregisteret, Foretaksregisteret, Regnskapsregisteret og MVA-registeret. Denne guiden forklarer hva de gjør, hvilke tjenester som finnes og hvordan du bruker dem i regnskapsarbeid."
+summary: "Oversikt over Brønnøysundregistrene, de viktigste registrene og hvordan de brukes i regnskap."
 ---
 
 **Brønnøysundregistrene** er et offentlig forvaltningsorgan under Nærings- og fiskeridepartementet som administrerer flere sentrale norske registre. Dette inkluderer blant annet Enhetsregisteret, Foretaksregisteret, Regnskapsregisteret og MVA-registeret, som alle er essensielle for norske virksomheters juridiske og regnskapsmessige status.

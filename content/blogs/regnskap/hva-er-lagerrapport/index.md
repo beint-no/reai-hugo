@@ -103,9 +103,9 @@ For bedrifter med komplekse lagerbehov kan rapporten også inneholde:
 
 | Metode | Fordeler | Ulemper | Tillatt i Norge |
 |--------|----------|---------|-----------------|
-| FIFO | Realistisk lagerverdi | Kan gi høyere skatt i inflasjonstider | œ“ Ja |
-| LIFO | Lavere skatt i inflasjonstider | Urealistisk lagerverdi | œ— Nei |
-| Vektet gjennomsnitt | Jevner ut prissvingninger | Mindre presist | œ“ Ja |
+| FIFO | Realistisk lagerverdi | Kan gi høyere skatt i inflasjonstider | Ja |
+| LIFO | Lavere skatt i inflasjonstider | Urealistisk lagerverdi | Nei |
+| Vektet gjennomsnitt | Jevner ut prissvingninger | Mindre presist | Ja |
 
 ### Nedskrivning av Lager
 

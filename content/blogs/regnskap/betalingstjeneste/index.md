@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er betalingstjeneste?"
-seoTitle: "Hva er betalingstjeneste?"
-description: 'En **betalingstjeneste** er en finansiell tjeneste som muliggjør igangsetting, behandling eller fullføring av betalingstransaksjoner mellom betaler og betalin...'
+seoTitle: "Betalingstjeneste | Typer, PSD2 og regnskapsmessig behandling"
+description: "En betalingstjeneste er en finansiell tjeneste som starter, behandler eller fullfører betalinger mellom betaler og mottaker. Denne guiden forklarer tradisjonelle banktjenester, PSD2-tjenester som PIS og AIS, mobile løsninger og reglene i norsk lov, med fokus på praktisk regnskapsføring og internkontroll."
+summary: "Oversikt over betalingstjenester i Norge: PSD2, mobile løsninger og hvordan de påvirker regnskap og likviditetsstyring."
 ---
 
 En **betalingstjeneste** er en finansiell tjeneste som muliggjør igangsetting, behandling eller fullføring av betalingstransaksjoner mellom betaler og betalingsmottaker. I det moderne digitale betalingslandskapet omfatter dette alt fra tradisjonelle [bankoverføringer](/blogs/regnskap/hva-er-bankgiro "Hva er BankGiro? Komplett Guide til Norsk Betalingssystem") til avanserte elektroniske tjenester som **PIS** (Payment Initiation Services) og **AIS** (Account Information Services) under [PSD2-direktivet](/blogs/regnskap/hva-er-betalingstjenestedirektivet "Hva er betalingstjenestedirektivet? PSD2 og Norske Regnskapsregler"). 

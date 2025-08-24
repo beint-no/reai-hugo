@@ -71,10 +71,10 @@ Se også vår artikkel om [Feriepengegrunnlag](/blogs/regnskap/feriepengegrunnla
 
 | Inntektstype | Beløp | Feriepengegivende |
 |--------------|-------|-------------------|
-| [Fastlønn](/blogs/regnskap/hva-er-fastlonn "Hva er Fastlønn i Regnskap?") | 450.000 kr | œ“ |
-| Overtidstillegg | 25.000 kr | œ“ |
-| Bilgodtgjørelse | 15.000 kr | œ— |
-| Bonus | 30.000 kr | œ“ |
+| [Fastlønn](/blogs/regnskap/hva-er-fastlonn "Hva er Fastlønn i Regnskap?") | 450.000 kr | Ja |
+| Overtidstillegg | 25.000 kr | Ja |
+| Bilgodtgjørelse | 15.000 kr | Nei |
+| Bonus | 30.000 kr | Ja |
 | **Total feriepengegivende** | **505.000 kr** | |
 
 **Beregning:**

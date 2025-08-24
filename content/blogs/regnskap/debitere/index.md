@@ -1,7 +1,8 @@
 ﻿---
 title: "Debitere"
-seoTitle: "Debitere"
-description: '**Debitere** er handlingen å registrere et beløp på venstre side (debet) av en konto i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er D...'
+seoTitle: "Debitere | Hva betyr det og når brukes debet i regnskap?"
+description: "Debitere betyr å føre et beløp på debetsiden av en konto i dobbel bokføring. Artikkelen forklarer hvordan debitering påvirker ulike kontotyper, praktiske eksempler og beste praksis i norsk regnskap."
+summary: "Kort forklaring av å debetere: betydning, eksempler og regler for ulike kontotyper."
 ---
 
 **Debitere** er handlingen å registrere et beløp på venstre side (debet) av en konto i [dobbelt bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel Bokføring? Komplett Guide til Dobbelt Bokføringssystem") som sikrer at [regnskapsligningen](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") alltid balanserer.

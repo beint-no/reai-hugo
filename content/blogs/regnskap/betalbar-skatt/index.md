@@ -1,7 +1,8 @@
 ﻿---
 title: "Betalbar skatt"
-seoTitle: "Betalbar skatt"
-description: '**Betalbar skatt** er det beløpet en virksomhet må betale i [firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selska...'
+seoTitle: "Betalbar skatt | Beregning og regnskapsføring for bedrifter"
+description: "Betalbar skatt er den delen av selskapsskatten et foretak faktisk skal betale basert på skattemessig resultat. Artikkelen forklarer hvordan betalbar skatt beregnes, når den forfaller, og hvordan den føres i balansen og mot forskuddsskatt og utsatt skatt."
+summary: "Kort forklaring av betalbar skatt med beregning, frister og bokføring i regnskapet."
 ---
 
 **Betalbar skatt** er det beløpet en virksomhet må betale i [firmaskatt](/blogs/regnskap/firmaskatt "Firmaskatt “ Komplett guide til skatteregler for selskaper") (også kalt **selskapsskatt**) basert på det skattemessige resultatet. Dette er den **faktiske skatteforpliktelsen** som føres som gjeld i balansen og forfaller til betaling når [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering") er behandlet.

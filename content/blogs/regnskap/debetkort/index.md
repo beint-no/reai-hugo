@@ -1,7 +1,8 @@
 ﻿---
 title: "Debetkort"
-seoTitle: "Debetkort"
-description: '**Debetkort** er et betalingskort som gir innehaveren mulighet til å trekke midler direkte fra sin bankkonto ved betaling av varer og tjenester. I denne artikk...'
+seoTitle: "Debetkort | Hva det er, hvordan det fungerer og regnskap"
+description: "Debetkort er et betalingskort som belaster bankkontoen din umiddelbart ved kjøp. Artikkelen forklarer hvordan debetkort fungerer, forskjellen mot kredittkort og hvordan transaksjonene bokføres og avstemmes i regnskap."
+summary: "Kort guide til debetkort: funksjon, forskjell fra kredittkort og regnskapsføring av transaksjoner."
 ---
 
 **Debetkort** er et betalingskort som gir innehaveren mulighet til å trekke midler direkte fra sin bankkonto ved betaling av varer og tjenester. I denne artikkelen får du en komplett gjennomgang av hva et debetkort er, hvordan det fungerer, og hvordan det påvirker regnskapet i norske bedrifter.

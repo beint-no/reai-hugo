@@ -126,13 +126,13 @@ I Norge følger de fleste virksomheter den standardiserte [**kontoplanen**](/blo
 
 | Klasse | Kategori | Debet øker | Kredit øker | Eksempler |
 |---|---|---|---|---|
-| 1 | Anleggsmidler | œ“ | | Bygninger, maskiner, goodwill |
-| 2 | Omløpsmidler | œ“ | | Varelager, kundefordringer, bank |
-| 3 | Egenkapital | | œ“ | [Aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Komplett Guide til Aksjekapital i AS"), opptjent egenkapital |
-| 4 | Langsiktig gjeld | | œ“ | Banklån, obligasjoner |
-| 5 | Kortsiktig gjeld | | œ“ | Leverandørgjeld, skyldige skatter |
-| 6 | Kostnader | œ“ | | Lønn, husleie, [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder") |
-| 7 | Salgsinntekter | | œ“ | Salg av varer og tjenester |
+| 1 | Anleggsmidler | Ja | | Bygninger, maskiner, goodwill |
+| 2 | Omløpsmidler | Ja | | Varelager, kundefordringer, bank |
+| 3 | Egenkapital | | Ja | [Aksjekapital](/blogs/regnskap/hva-er-aksjekapital "Hva er Aksjekapital? Komplett Guide til Aksjekapital i AS"), opptjent egenkapital |
+| 4 | Langsiktig gjeld | | Ja | Banklån, obligasjoner |
+| 5 | Kortsiktig gjeld | | Ja | Leverandørgjeld, skyldige skatter |
+| 6 | Kostnader | Ja | | Lønn, husleie, [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning? Komplett Guide til Avskrivningsmetoder") |
+| 7 | Salgsinntekter | | Ja | Salg av varer og tjenester |
 | 8 | Finansposter | Varierer | Varierer | Renteinntekter, rentekostnader |
 
 ## Praktisk Implementering av Dobbel Bokføring

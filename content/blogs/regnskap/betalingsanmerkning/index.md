@@ -1,7 +1,8 @@
 ﻿---
 title: "Betalingsanmerkning"
-seoTitle: "Betalingsanmerkning"
-description: '**Betalingsanmerkning** er en offentlig registrering av betalingsmislighold som får alvorlige konsekvenser for en virksomhets eller persons **[kredittverdighet...'
+seoTitle: "Betalingsanmerkning | Konsekvenser, sletting og regnskap"
+description: "Betalingsanmerkning er en offentlig registrering av betalingsmislighold som påvirker kredittverdighet, lån og leverandørkreditt. Her får du oversikt over prosessen, konsekvensene for bedrift og privatperson, og hvordan en anmerkning kan unngås eller slettes."
+summary: "Hva er en betalingsanmerkning, hvilke følger får den og hvordan kan den slettes? Praktisk guide for bedrifter og privatpersoner."
 ---
 
 **Betalingsanmerkning** er en offentlig registrering av betalingsmislighold som får alvorlige konsekvenser for en virksomhets eller persons **[kredittverdighet](/blogs/regnskap/hva-er-bonitet "Hva er bonitet?")**. I norsk regnskap og kredittvurdering er betalingsanmerkninger et kritisk signal til markedet om manglende betalingsevne og representerer sluttstadiet i [inkassoprosessen](/blogs/regnskap/hva-er-inkasso "Hva er Inkasso? Komplett Guide til Inkassoselskaper og Inkassoprosessen"). For regnskapsførere og bedriftseiere er forståelse av betalingsanmerkninger essensielt for effektiv [kredittrisikostyring](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? Komplett Guide til Kundefordringer og Kredittrisiko") og [arbeidskapitalstyring](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Analyse av Omløpsmidler og Likviditets­styring").

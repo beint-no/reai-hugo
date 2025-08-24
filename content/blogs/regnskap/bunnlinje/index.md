@@ -1,7 +1,8 @@
 ﻿---
 title: "Bunnlinje i Norsk Regnskap"
-seoTitle: "Bunnlinje i Norsk Regnskap"
-description: '**Bunnlinje**, også kjent som **nettoresultat**, er det endelige resultatet i regnskapet som viser bedriftens lønnsomhet etter at alle kostnader, finansposter...'
+seoTitle: "Bunnlinje | Hva det er, beregning og hvordan forbedre den"
+description: "Bunnlinje, eller nettoresultat, er resultatet etter alle kostnader, finansposter og skatt. Artikkelen forklarer hva bunnlinje betyr, hvordan den beregnes og hvilke tiltak som kan forbedre lønnsomheten."
+summary: "Kort forklaring av bunnlinjen i regnskap: definisjon, beregning og tiltak for bedre lønnsomhet."
 ---
 
 **Bunnlinje**, også kjent som **nettoresultat**, er det endelige resultatet i regnskapet som viser bedriftens lønnsomhet etter at alle kostnader, finansposter og skatt er trukket fra inntektene.

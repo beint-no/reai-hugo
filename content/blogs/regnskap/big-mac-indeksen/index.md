@@ -1,7 +1,8 @@
 ﻿---
 title: "Big Mac-indeksen"
-seoTitle: "Big Mac-indeksen"
-description: '![Big Mac-indeksen](big-mac-indeksen-image.svg)'
+seoTitle: "Big Mac-indeksen | Kjøpekraft, valuta og praktisk bruk"
+description: "Big Mac-indeksen er et uformelt mål på kjøpekraftparitet som sammenligner priser på en Big Mac på tvers av land for å indikere under- eller overvurderte valutaer. Her forklarer vi beregning, begrensninger og praktisk bruk for norske bedrifter."
+summary: "Forklaring av Big Mac-indeksen med eksempler, beregning og hva den betyr for norske virksomheter."
 ---
 
 ![Big Mac-indeksen](big-mac-indeksen-image.svg)

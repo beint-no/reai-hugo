@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er en Call-opsjon?"
-seoTitle: "Hva er en Call-opsjon?"
-description: 'En **call-opsjon** (kjøpsopsjon) er en type opsjonsavtale som gir innehaveren rett, men ikke plikt, til å **kjøpe** den underliggende eiendelen til en forhå...'
+seoTitle: "Call-opsjon | Definisjon, payoff og regnskapsføring"
+description: "En call-opsjon er en kjøpsopsjon som gir rett, men ikke plikt, til å kjøpe en underliggende eiendel til avtalt pris innen en periode. Her forklares nøkkelbegreper, payoff, påvirkningsfaktorer og regnskapsmessig behandling."
+summary: "Hva er en call-opsjon og hvordan fungerer den? Kort om payoff, nøkkelvariabler og regnskapsregler."
 ---
 
 En **call-opsjon** (kjøpsopsjon) er en type opsjonsavtale som gir innehaveren rett, men ikke plikt, til å **kjøpe** den underliggende eiendelen til en forhåndsbestemt pris (strike) innen eller på utløpsdatoen. Call-opsjoner er viktige for risikostyring, investeringsstrategier og selskapers finansielle planlegging.

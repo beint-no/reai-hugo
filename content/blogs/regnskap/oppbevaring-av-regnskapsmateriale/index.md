@@ -169,27 +169,27 @@ En **systematisk tilnærming** til arkivorganisering er avgjørende for effektiv
 #### Nivå 1: Regnskapsår
 ```
 2024/
-”œ”€”€ 2023/
-”œ”€”€ 2022/
-”””€”€ 2021/
+  2023/
+  2022/
+  2021/
 ```
 
 #### Nivå 2: Dokumentkategorier
 ```
 2024/
-”œ”€”€ Bilag/
-”œ”€”€ Rapporter/
-”œ”€”€ Kontrakter/
-”””€”€ Korrespondanse/
+  Bilag/
+  Rapporter/
+  Kontrakter/
+  Korrespondanse/
 ```
 
 #### Nivå 3: Månedlig/tematisk inndeling
 ```
 2024/Bilag/
-”œ”€”€ 01-Januar/
-”œ”€”€ 02-Februar/
-”œ”€”€ ...
-”””€”€ 12-Desember/
+  01-Januar/
+  02-Februar/
+  ...
+  12-Desember/
 ```
 
 ### Navngivningskonvensjoner

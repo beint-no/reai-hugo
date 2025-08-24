@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Bokettersyn i Regnskap?"
-seoTitle: "Hva er Bokettersyn i Regnskap?"
-description: '**Bokettersyn** er en kontrollaktivitet utført av **Skatteetaten** og andre offentlige instanser for å verifisere at virksomhetens [bokføringsplikt](/blogs/r...'
+seoTitle: "Bokettersyn | Slik foregår kontroll og hva du må forberede"
+description: "Bokettersyn er myndighetenes kontroll av at bokføringsplikt og andre regnskapskrav er oppfylt. Her får du oversikt over hva som kontrolleres, typer kontroller, hvordan du forbereder deg og hvilke konsekvenser avvik kan få."
+summary: "Hva er bokettersyn, hvordan gjennomføres det og hvordan forbereder du virksomheten? Kort og praktisk oversikt."
 ---
 
 **Bokettersyn** er en kontrollaktivitet utført av **Skatteetaten** og andre offentlige instanser for å verifisere at virksomhetens [bokføringsplikt](/blogs/regnskap/hva-er-bokforingsplikt "Hva er Bokføringsplikt i Norge? Hvem, Når og Hvordan?") og andre regnskapskrav overholdes. Bokettersyn bidrar til **transparens**, **etterprøvbarhet** og **tillit** i norsk næringsliv.

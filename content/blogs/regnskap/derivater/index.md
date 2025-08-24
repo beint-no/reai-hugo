@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Derivater?"
-seoTitle: "Hva er Derivater?"
-description: '**Derivater** er finansielle kontrakter hvis verdi er avledet fra underliggende eiendeler, indekser eller andre referanseverdier. Derivater brukes til risikosty...'
+seoTitle: "Derivater | Typer, bruk og regnskapsmessig behandling"
+description: "Derivater er finansielle kontrakter med verdi avledet fra en underliggende eiendel eller indeks. Denne guiden forklarer de vanligste typene, anvendelser, verdsettelsesmodeller og hvordan derivater føres i regnskap etter IFRS."
+summary: "Hva er derivater? Kort innføring i typer, bruk, verdsettelse og regnskapsregler."
 ---
 
 **Derivater** er finansielle kontrakter hvis verdi er avledet fra underliggende eiendeler, indekser eller andre referanseverdier. Derivater brukes til risikostyring, spekulasjon og effektiv kapitalallokering i norsk regnskaps- og finanspraksis.

@@ -274,12 +274,12 @@ For å sikre korrekt håndtering av helligdager i regnskapet, anbefaler vi følg
 ### 10.2 Nøkkelkontroller for Bedriftseiere
 
 **Månedlig sjekkliste:**
-* œ“ Alle helligdager korrekt registrert i lønnssystem
-* œ“ Helligdagslønn beregnet for alle ansatte
-* œ“ Feriepengeavsetning inkluderer helligdagslønn
-* œ“ [Arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? En Komplett Guide til Norges Lønnsavgift") beregnet korrekt
-* œ“ A-melding inneholder korrekte opplysninger
-* œ“ Regnskapsposter stemmer med lønnsutbetalinger
+* Alle helligdager korrekt registrert i lønnssystem
+* Helligdagslønn beregnet for alle ansatte
+* Feriepengeavsetning inkluderer helligdagslønn
+* [Arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? En Komplett Guide til Norges Lønnsavgift") beregnet korrekt
+* A-melding inneholder korrekte opplysninger
+* Regnskapsposter stemmer med lønnsutbetalinger
 
 ### 10.3 Når Søke Profesjonell Hjelp
 

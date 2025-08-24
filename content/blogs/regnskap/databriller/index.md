@@ -1,7 +1,8 @@
 ﻿---
 title: "Databriller i Regnskap – Visualisering og Analyse av Regnskapsdata"
-seoTitle: "Databriller i Regnskap “ Visualisering og Analyse av Regnskapsdata"
-description: '**Databriller** er moderne **dashboards** og **datavisualiseringsverktøy** som gir regnskapsførere og ledere sanntidsinnsikt i økonomiske [nøkkeltall](/blog...'
+seoTitle: "Databriller i regnskap | Dashboards, KPI og innsikt i sanntid"
+description: "Databriller er dashboards og datavisualiseringsverktøy som gir sanntidsinnsikt i økonomiske nøkkeltall for bedre styring. Denne guiden viser funksjoner, implementering, bruksområder og gevinster for norske virksomheter."
+summary: "Hvordan bruke databriller i regnskap? Oversikt over dashboards, KPI-er, implementering og gevinster."
 ---
 
 **Databriller** er moderne **dashboards** og **datavisualiseringsverktøy** som gir regnskapsførere og ledere sanntidsinnsikt i økonomiske [nøkkeltall](/blogs/regnskap/hva-er-nokkeltall "Hva er Nøkkeltall? Komplett Guide til Finansielle Nøkkeltall i Regnskap"). Ved hjelp av databriller kan norske bedrifter forbedre beslutningsprosesser, styrke **internkontroll**, og effektivisere rapportering.

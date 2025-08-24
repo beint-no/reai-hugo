@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Børs? En Guide til Norsk Børs og Aksjehandel"
-seoTitle: "Hva er Børs? En Guide til Norsk Børs og Aksjehandel"
-description: '**Børs** er det organiserte markedet for kjøp og salg av aksjer og andre finansielle instrumenter i Norge. **Børsen** gir en strukturert og gjennomsiktig han...'
+seoTitle: "Børs | Slik fungerer Oslo Børs og handel med aksjer"
+description: "Børs er den organiserte markedsplassen for kjøp og salg av aksjer og andre verdipapirer. Denne guiden forklarer hvordan Oslo Børs fungerer, sentrale begreper, åpningstider og praktiske steg for å handle aksjer trygt og effektivt."
+summary: "Hva er børs og hvordan fungerer Oslo Børs? Praktisk oversikt over handel, begreper og prosess."
 ---
 
 **Børs** er det organiserte markedet for kjøp og salg av aksjer og andre finansielle instrumenter i Norge. **Børsen** gir en strukturert og gjennomsiktig handelsplattform som legger til rette for prisdannelse, likviditet og kapitaltilgang for selskaper.

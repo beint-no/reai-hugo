@@ -56,11 +56,11 @@ For maskiner og produksjonsutstyr inkluderer anskaffelseskost typisk:
 
 | Kostnadselement | Eksempel | Inkluderes |
 |:----------------|:---------|:-----------|
-| Kjøpspris | 500 000 kr | œ“ |
-| Frakt | 15 000 kr | œ“ |
-| Installasjon | 25 000 kr | œ“ |
-| Testing | 10 000 kr | œ“ |
-| Opplæring | 20 000 kr | œ— |
+| Kjøpspris | 500 000 kr | Ja |
+| Frakt | 15 000 kr | Ja |
+| Installasjon | 25 000 kr | Ja |
+| Testing | 10 000 kr | Ja |
+| Opplæring | 20 000 kr | Nei |
 | **Total anskaffelseskost** | **550 000 kr** | |
 
 #### Bygninger og Eiendom

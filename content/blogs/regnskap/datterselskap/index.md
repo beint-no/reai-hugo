@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Datterselskap?"
-seoTitle: "Hva er Datterselskap?"
-description: '**Datterselskap** er et selskap som er kontrollert av et [morselskap](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og ...'
+seoTitle: "Datterselskap | Definisjon, kontroll og konsolidering"
+description: "Et datterselskap er et selskap som er kontrollert av et morselskap, vanligvis gjennom flertall av stemmeretter. Artikkelen forklarer kontrollkriterier, juridisk rammeverk og regnskapsmessig behandling i konsernregnskap."
+summary: "Hva er et datterselskap og hvordan behandles det i regnskap? Kort om kontroll, lovverk og konsolidering."
 ---
 
 **Datterselskap** er et selskap som er kontrollert av et [morselskap](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og Konsernledelse"). I en [konsernstruktur](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukturer og Konsolidering") er datterselskapene de selskapene som står under morselskapets bestemmende innflytelse. Dette har viktige juridiske og regnskapsmessige konsekvenser for både morselskapet og konsernet som helhet.

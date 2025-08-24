@@ -26,12 +26,12 @@ description: '**Varige driftsmidler** er en type [driftsmidler](/blogs/regnskap/
 
 | Eiendeltype | Varige driftsmidler | Andre typer |
 |:------------|:-------------------|:------------|
-| **Tomter** | œ— (ikke avskrivbare) | Anleggsmidler |
-| **Bygninger** | œ“ | - |
-| **Maskiner** | œ“ | - |
-| **Transportmidler** | œ“ | - |
-| **Goodwill** | œ— (immateriell) | Immateriell anleggsmiddel |
-| **Aksjer** | œ— (finansiell) | Finansiell anleggsmiddel |
+| **Tomter** | Nei (ikke avskrivbare) | Anleggsmidler |
+| **Bygninger** | Ja | - |
+| **Maskiner** | Ja | - |
+| **Transportmidler** | Ja | - |
+| **Goodwill** | Nei (immateriell) | Immateriell anleggsmiddel |
+| **Aksjer** | Nei (finansiell) | Finansiell anleggsmiddel |
 
 ## Klassifisering av Varige Driftsmidler
 
@@ -122,12 +122,12 @@ Moderne bedrifter er avhengige av **teknologiske driftsmidler**:
 
 | Kostnadselement | Inkluderes | Eksempel |
 |:----------------|:-----------|:---------|
-| **Kjøpspris** | œ“ | Fakturaverdi ekskl. mva |
-| **Transport** | œ“ | Frakt til bedriftens lokaler |
-| **Installasjon** | œ“ | Montering og tilkobling |
-| **Prøvekjøring** | œ“ | Testing og kalibrering |
-| **Opplæring av operatører** | œ— | Føres som driftskostnad |
-| **Finansieringskostnader** | œ— | Føres som rentekostnad |
+| **Kjøpspris** | Ja | Fakturaverdi ekskl. mva |
+| **Transport** | Ja | Frakt til bedriftens lokaler |
+| **Installasjon** | Ja | Montering og tilkobling |
+| **Prøvekjøring** | Ja | Testing og kalibrering |
+| **Opplæring av operatører** | Nei | Føres som driftskostnad |
+| **Finansieringskostnader** | Nei | Føres som rentekostnad |
 
 ### Bagatellgrense og Direkte Kostnadsføring
 
