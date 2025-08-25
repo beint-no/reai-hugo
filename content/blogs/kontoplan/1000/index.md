@@ -2,7 +2,7 @@
 title: "Konto 1000 – Forskning og utvikling"
 seoTitle: "Konto 1000 | Forskning og utvikling | Kontoplan"
 description: "Konto 1000 i norsk kontoplan (NS 4102) brukes til aktivering av utviklingskostnader som immaterielle eiendeler. Lær kriterier for aktivering, amortisering, bokføring, verditest og praktiske eksempler."
-summary: "Konto 1000 i kontoplanen: aktivering, amortisering, bokføring og verditest for forskning og utvikling (FoU)."
+summary: "Konto 1000 i norsk kontoplan: aktivering, amortisering, bokføring og verditest for forskning og utvikling (FoU)."
 ---
 
 **Konto 1000 - Forskning og utvikling** er en av de viktigste kontiene for virksomheter som investerer i innovasjon og utvikling av nye produkter, tjenester eller prosesser. Denne kontoen brukes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") knyttet til forsknings- og utviklingsaktiviteter som tilfredsstiller kriteriene for [aktivering](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?").

@@ -2,7 +2,7 @@
 title: "Konto 1300 – Investeringer i datterselskaper"
 seoTitle: "Konto 1300 | Investeringer i datterselskaper | Kontoplan"
 description: "Konto 1300 i norsk kontoplan (NS 4102) brukes for langsiktige investeringer i datterselskaper. Lær anskaffelse, vurdering, nedskrivning, konsernrelasjoner og bokføring."
-summary: "Konto 1300 i kontoplanen: bokføring, vurdering og konsernregler for datterselskaper."
+summary: "Konto 1300 i norsk kontoplan: bokføring, vurdering og konsernregler for datterselskaper."
 ---
 
 **Konto 1300 - Investeringer i datterselskaper** er en konto i Norsk Standard Kontoplan som brukes til å registrere **langsiktige investeringer** i datterselskaper som inngår i konsernregnskapet.

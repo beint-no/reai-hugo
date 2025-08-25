@@ -2,7 +2,7 @@
 title: "Konto 1320 - Lån til foretak samme konsern"
 seoTitle: "Konto 1320 | Lån til foretak samme konsern | Kontoplan"
 description: "Konto 1320 i norsk kontoplan (NS 4102) brukes til å registrere konserninterne lån til selskaper i samme konsern. Les om regnskapsføring, renteberegning, tilbakebetaling og konsolidert behandling."
-summary: "Konto 1320 i kontoplanen: regnskapsføring, renteberegning, tilbakebetaling og konsolidert behandling av konserninterne lån."
+summary: "Konto 1320 i norsk kontoplan: regnskapsføring, renteberegning, tilbakebetaling og konsolidert behandling av konserninterne lån."
 ---
 
 **Konto 1320 - Lån til foretak samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **konserninterne lån** til andre selskaper innen samme konsern.

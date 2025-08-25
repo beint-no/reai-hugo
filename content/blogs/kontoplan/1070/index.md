@@ -2,7 +2,7 @@
 title: "Konto 1070 – Utsatt skattfordel"
 seoTitle: "Konto 1070 | Utsatt skattfordel | Kontoplan"
 description: "Konto 1070 i norsk kontoplan (NS 4102) brukes for utsatt skattfordel som immateriell eiendel. Se kriterier for aktivering, beregning, regnskapsføring, presentasjon og vanlige vurderinger."
-summary: "Konto 1070 i kontoplanen: beregning, aktivering og bokføring av utsatt skattfordel i regnskapet."
+summary: "Konto 1070 i norsk kontoplan: beregning, aktivering og bokføring av utsatt skattfordel i regnskapet."
 ---
 
 **Konto 1070 - Utsatt skattfordel** er en spesialisert konto som brukes for å registrere **utsatt skattfordel** - en [immateriell eiendel](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") som oppstår når det er midlertidige forskjeller mellom regnskapsmessige og skattemessige verdier som vil resultere i lavere fremtidig skatt. Denne kontoen er sentral for å sikre korrekt periodisering og sammenstilling av skattekostnader i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?").
