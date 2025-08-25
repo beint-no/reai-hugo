@@ -2,6 +2,7 @@
 title: "Hva er A-ordningen?"
 seoTitle: "Hva er A-ordningen?"
 description: 'A-ordningen representerer en av de største moderniseringene i norsk offentlig forvaltning. Men hva er det egentlig?'
+summary: "Hva A-ordningen er, hvorfor den ble innført og hvordan den forenkler rapportering via a-melding for arbeidsgivere. Kort og praktisk oversikt."
 ---
 
 A-ordningen representerer en av de største moderniseringene i norsk offentlig forvaltning. Men hva er det egentlig?

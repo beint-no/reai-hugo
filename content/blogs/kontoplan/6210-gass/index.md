@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6210 - Gass"
-seoTitle: "6210-gass"
-description: '**Konto 6210 - Gass** er en konto i Norsk Standard Kontoplan som brukes til å registrere **gasskostnader** i virksomhetens drift.'
+seoTitle: "Konto 6210 | Gass | Kontoplan"
+description: "Konto 6210 i kontoplanen brukes til å bokføre gasskostnader i virksomhetens drift. Lær om typiske transaksjoner, føring og eksempler."
+summary: "Kort guide til konto 6210: bokføring av gasskostnader i virksomheten."
 ---
 
 **Konto 6210 - Gass** er en konto i Norsk Standard Kontoplan som brukes til å registrere **gasskostnader** i virksomhetens drift.

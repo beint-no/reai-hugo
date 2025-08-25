@@ -2,6 +2,7 @@
 title: "Hva er Aksjonærlån fra AS?"
 seoTitle: "Hva er Aksjonærlån fra AS?"
 description: 'Et **aksjonærlån fra AS** er et lån som et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen")...'
+summary: "Hva aksjonærlån fra AS er, skatteregler, normrente og krav til dokumentasjon. Praktiske eksempler og regnskapsføring steg for steg."
 ---
 
 Et **aksjonærlån fra AS** er et lån som et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") gir til en av sine [aksjonærer](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en Aksjonær? En Komplett Guide"). Dette er en vanlig finansieringsform i mindre selskaper, men det følger strenge regler og skattemessige konsekvenser som må følges nøye.

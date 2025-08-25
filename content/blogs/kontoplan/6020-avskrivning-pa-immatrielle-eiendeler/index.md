@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6020 - Avskrivning på immaterielle eiendeler"
-seoTitle: "6020-avskrivning-pa-immatrielle-eiendeler"
-description: '**Konto 6020 - Avskrivning på immaterielle eiendeler** er en konto i norsk kontoplan som benyttes for å fordele **anskaffelseskostnaden** til immaterielle eie...'
+seoTitle: "Konto 6020 | Avskrivning immaterielle eiendeler | Kontoplan"
+description: "Konto 6020 i kontoplanen brukes til å bokføre avskrivning (amortisering) av immaterielle eiendeler som programvare, patenter og varemerker. Lær regler, perioder og eksempler."
+summary: "Kort guide til konto 6020: amortisering av immaterielle eiendeler, regler og eksempler."
 ---
 
 **Konto 6020 - Avskrivning på immaterielle eiendeler** er en konto i norsk kontoplan som benyttes for å fordele **anskaffelseskostnaden** til immaterielle eiendeler over deres forventede økonomiske levetid.

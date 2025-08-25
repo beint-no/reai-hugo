@@ -2,6 +2,7 @@
 title: "Hva er Aksjonærregisteret?"
 seoTitle: "Hva er Aksjonærregisteret?"
 description: '**Aksjonærregisteret** er et offentlig register som inneholder informasjon om alle aksjonærer i norske [aksjeselskaper (AS)](/blogs/regnskap/hva-er-et-aksjese...'
+summary: "Hva aksjonærregisteret er, hvilke opplysninger som registreres og hvordan innsyn fungerer. Formål, frister og sammenheng med aksjeeierbok."
 ---
 
 **Aksjonærregisteret** er et offentlig register som inneholder informasjon om alle aksjonærer i norske [aksjeselskaper (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"). Registeret administreres av [**Brønnøysundregistrene**](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregistrene? En Guide til Norges Registerforvalter") og gir innsyn i eierskap og eierstruktur i norske selskaper.

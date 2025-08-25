@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6260 - Vann"
-seoTitle: "6260-vann"
-description: '**Konto 6260 - Vann** er en konto i Norsk Standard Kontoplan som brukes til å registrere **vannforbruk** og **vannavgifter** i virksomhetens drift.'
+seoTitle: "Konto 6260 | Vann | Kontoplan"
+description: "Konto 6260 i kontoplanen brukes til å bokføre kostnader for vannforbruk og avgifter. Lær om typiske transaksjoner, føring og eksempler."
+summary: "Kort guide til konto 6260: bokføring av vannkostnader og avgifter."
 ---
 
 **Konto 6260 - Vann** er en konto i Norsk Standard Kontoplan som brukes til å registrere **vannforbruk** og **vannavgifter** i virksomhetens drift.

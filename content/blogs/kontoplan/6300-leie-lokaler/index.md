@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6300 - Leie lokaler"
-seoTitle: "6300-leie-lokaler"
-description: '**Konto 6300 - Leie lokaler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av lokaler** i virksomhetens drift.'
+seoTitle: "Konto 6300 | Leie lokaler | Kontoplan"
+description: "Konto 6300 i kontoplanen brukes til å bokføre leiekostnader for kontor-, produksjons- og forretningslokaler. Lær om føring, felleskostnader og eksempler."
+summary: "Kort guide til konto 6300: bokføring av leie av lokaler og felleskostnader."
 ---
 
 **Konto 6300 - Leie lokaler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av lokaler** i virksomhetens drift.

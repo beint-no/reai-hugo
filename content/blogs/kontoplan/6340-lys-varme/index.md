@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6340 - Lys, varme"
-seoTitle: "6340-lys-varme"
-description: '**Konto 6340 - Lys, varme** er en konto i Norsk Standard Kontoplan som brukes til å registrere **lys- og varmekostnader** i virksomhetens drift.'
+seoTitle: "Konto 6340 | Lys og varme | Kontoplan"
+description: "Konto 6340 i kontoplanen brukes til å bokføre kostnader til lys og varme i virksomheten. Lær om føring, kostnadsfordeling og eksempler."
+summary: "Kort guide til konto 6340: bokføring av kostnader til lys og varme."
 ---
 
 **Konto 6340 - Lys, varme** er en konto i Norsk Standard Kontoplan som brukes til å registrere **lys- og varmekostnader** i virksomhetens drift.

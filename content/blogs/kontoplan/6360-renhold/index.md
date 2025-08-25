@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6360 - Renhold"
-seoTitle: "6360-renhold"
-description: '**Konto 6360 - Renhold** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes for å registrere **kostnader til renhold og rengjøring** i virksomhetens...'
+seoTitle: "Konto 6360 | Renhold | Kontoplan"
+description: "Konto 6360 i kontoplanen brukes til å bokføre kostnader til renhold og rengjøring i virksomheten. Lær om føring, kostnadsfordeling og eksempler."
+summary: "Kort guide til konto 6360: bokføring av renholds- og rengjøringskostnader."
 ---
 
 **Konto 6360 - Renhold** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes for å registrere **kostnader til renhold og rengjøring** i virksomhetens daglige drift.

@@ -2,6 +2,7 @@
 title: "Hva er Aksjekapital?"
 seoTitle: "Hva er Aksjekapital?"
 description: '**Aksjekapital** er den samlede verdien av eiernes innskudd i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Gu...'
+summary: "Definisjon av aksjekapital, lovkrav i Norge og hvordan kapitalen brukes og endres gjennom kapitalforhøyelse, nedsettelse og tingsinnskudd."
 ---
 
 **Aksjekapital** er den samlede verdien av eiernes innskudd i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") ved oppstart. Som en spesifikk form for [finanskapital](/blogs/regnskap/hva-er-finanskapital "Hva er Finanskapital? Definisjon, Typer og Betydning i Regnskap"), fungerer denne kapitalen som selskapets grunnleggende [egenfinansiering](/blogs/regnskap/hva-er-egenfinansiering "Hva er Egenfinansiering? Komplett Guide til Egenkapitalfinansiering") og utgjør en viktig del av selskapets [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap"). Aksjekapitalen inngår som en sentral del av [passiva](/blogs/regnskap/hva-er-passiva "Hva er Passiva? En Guide til Gjeld og Egenkapital i Regnskap") i balansen og må spesifiseres i selskapets [vedtekter](/blogs/regnskap/hva-er-vedtekter-for-aksjeselskap "Hva er Vedtekter for Aksjeselskap? Krav og Innhold").

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6230 - Kull og koks"
-seoTitle: "6230-kull-koks"
-description: '**Konto 6230 - Kull og koks** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kull-** og **kokskostnader** i virksomhetens drift.'
+seoTitle: "Konto 6230 | Kull og koks | Kontoplan"
+description: "Konto 6230 i kontoplanen brukes til å bokføre kostnader til kull og koks i virksomhetens drift. Lær om typiske transaksjoner, føring og eksempler."
+summary: "Kort guide til konto 6230: bokføring av kostnader til kull og koks."
 ---
 
 **Konto 6230 - Kull og koks** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kull-** og **kokskostnader** i virksomhetens drift.

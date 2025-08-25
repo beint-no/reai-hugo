@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6240 - Ved"
-seoTitle: "6240-ved"
-description: '**Konto 6240 - Ved** er en konto i Norsk Standard Kontoplan som brukes til å registrere **vedkostnader** i virksomhetens drift.'
+seoTitle: "Konto 6240 | Ved | Kontoplan"
+description: "Konto 6240 i kontoplanen brukes til å bokføre kostnader til ved for oppvarming i virksomheten. Lær om typiske transaksjoner, føring og eksempler."
+summary: "Kort guide til konto 6240: bokføring av kostnader til ved i virksomheten."
 ---
 
 **Konto 6240 - Ved** er en konto i Norsk Standard Kontoplan som brukes til å registrere **vedkostnader** i virksomhetens drift.

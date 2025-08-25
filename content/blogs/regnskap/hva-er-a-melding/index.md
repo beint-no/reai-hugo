@@ -2,6 +2,7 @@
 title: "Hva er a-melding?"
 seoTitle: "Hva er a-melding?"
 description: 'A-melding, også kjent som **[samordnet registermelding](/blogs/regnskap/samordnet-registermelding "Samordnet registermelding")**, er en månedlig digital rappo...'
+summary: "Kort forklaring av a-meldingen: hva den er, hvem som må levere, frister og hva som rapporteres. Praktisk guide for arbeidsgivere og små bedrifter."
 ---
 
 A-melding, også kjent som **[samordnet registermelding](/blogs/regnskap/samordnet-registermelding "Samordnet registermelding")**, er en månedlig digital rapport som alle [arbeidsgivere](/blogs/regnskap/arbeidsgiver "Arbeidsgiver “ Roller og Ansvar i Norsk Arbeidsliv og Regnskap") i Norge er lovpålagt å sende inn til myndighetene. Rapporten inneholder detaljerte opplysninger om **inntekter**, **arbeidsforhold** og **[forskuddstrekk](/blogs/regnskap/hva-er-forskuddstrekk "Hva er Forskuddstrekk? Komplett Guide til Skattetrekk i Lønn")** for hver enkelt ansatt. Formålet med a-meldingen er å forenkle rapporteringsprosessen for arbeidsgivere og samtidig sikre at sentrale etater som Skatteetaten, [NAV](/blogs/regnskap/hva-er-nav "NAV i Regnskap “ Rolle og Bruk av Arbeids- og velferdsdata") og Statistisk sentralbyrå (SSB) har et nøyaktig og oppdatert datagrunnlag.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6250 - Bensin, dieselolje"
-seoTitle: "6250-bensin-dieselolje"
-description: '**Konto 6250 - Bensin, dieselolje** er en konto i Norsk Standard Kontoplan som brukes til å registrere **bensin-** og **dieseloljekostnader** i virksomhetens d...'
+seoTitle: "Konto 6250 | Bensin og dieselolje | Kontoplan"
+description: "Konto 6250 i kontoplanen brukes til å bokføre kostnader til bensin og dieselolje i virksomheten. Lær om typiske transaksjoner, føring og eksempler."
+summary: "Kort guide til konto 6250: bokføring av bensin- og dieseloljekostnader."
 ---
 
 **Konto 6250 - Bensin, dieselolje** er en konto i Norsk Standard Kontoplan som brukes til å registrere **bensin-** og **dieseloljekostnader** i virksomhetens drift.

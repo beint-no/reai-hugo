@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6220 - Fyringsolje"
-seoTitle: "6220-fyringsolje"
-description: '**Konto 6220 - Fyringsolje** er en konto i Norsk Standard Kontoplan som brukes til å registrere **fyringsoljekostnader** i virksomhetens drift.'
+seoTitle: "Konto 6220 | Fyringsolje | Kontoplan"
+description: "Konto 6220 i kontoplanen brukes til å bokføre kostnader til fyringsolje for oppvarming i virksomheten. Lær om typiske transaksjoner, føring og eksempler."
+summary: "Kort guide til konto 6220: bokføring av kostnader til fyringsolje i drift."
 ---
 
 **Konto 6220 - Fyringsolje** er en konto i Norsk Standard Kontoplan som brukes til å registrere **fyringsoljekostnader** i virksomhetens drift.

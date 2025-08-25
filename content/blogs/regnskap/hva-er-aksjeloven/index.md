@@ -2,6 +2,7 @@
 title: "Hva er Aksjeloven?"
 seoTitle: "Hva er Aksjeloven?"
 description: '**Aksjeloven** er reglene som forteller hvordan du starter og driver selskaper med aksjer i Norge. Loven dekker alt fra hvordan du setter opp et selskap, til hv...'
+summary: "Oversikt over aksjeloven: hva den regulerer for aksjeselskaper, sentrale krav til kapital, styring, generalforsamling og utbytte."
 ---
 
 **Aksjeloven** er reglene som forteller hvordan du starter og driver selskaper med aksjer i Norge. Loven dekker alt fra hvordan du setter opp et selskap, til hvor mye penger du trenger for å starte, hvordan selskapet skal organiseres, og hvilke rettigheter og plikter de som eier [aksjer](/blogs/regnskap/hva-er-en-aksje "Hva er en Aksje? En Enkel Forklaring") har.

@@ -2,6 +2,7 @@
 title: "Hva er akkordlønn?"
 seoTitle: "Hva er akkordlønn?"
 description: '**Akkordlønn** er en form for **[produksjonslønn](/blogs/regnskap/hva-er-produksjonslonn "Hva er Produksjonslønn? Komplett Guide til Produksjonsbasert Lønn"...'
+summary: "Forklaring av akkordlønn: hvordan lønnsformen fungerer, bransjer den brukes i, fordeler, ulemper og regnskapsmessig håndtering."
 ---
 
 **Akkordlønn** er en form for **[produksjonslønn](/blogs/regnskap/hva-er-produksjonslonn "Hva er Produksjonslønn? Komplett Guide til Produksjonsbasert Lønn")** hvor betalingen avhenger direkte av mengden arbeid som utføres, i stedet for antall timer man jobber. Man får betalt per enhet som produseres eller per oppgave som fullføres. Dette kalles også å jobbe på akkord.

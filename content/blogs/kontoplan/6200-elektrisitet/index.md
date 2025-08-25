@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6200 - Elektrisitet"
-seoTitle: "6200-elektrisitet"
-description: '**Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontoplan som brukes til å registrere **strøm- og energikostnader** i virksomhetens drift.'
+seoTitle: "Konto 6200 | Elektrisitet | Kontoplan"
+description: "Konto 6200 i kontoplanen brukes til å bokføre strøm- og energikostnader i virksomheten. Lær om typiske transaksjoner, føring og eksempler."
+summary: "Kort guide til konto 6200: bokføring av strøm- og energikostnader i drift."
 ---
 
 **Konto 6200 - Elektrisitet** er en konto i Norsk Standard Kontoplan som brukes til å registrere **strøm- og energikostnader** i virksomhetens drift.
