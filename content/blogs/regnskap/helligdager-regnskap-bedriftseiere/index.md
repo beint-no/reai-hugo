@@ -1,7 +1,8 @@
 ﻿---
 title: "Helligdager (regnskap, bedriftseiere)"
-seoTitle: "Helligdager (regnskap, bedriftseiere)"
-description: '**Helligdager** representerer en kompleks regnskapsmessig utfordring for norske bedriftseiere, hvor juridiske krav, lønnsforpliktelser og regnskapsføring må ...'
+seoTitle: "Helligdager i regnskap | Regler, lønn og bokføring"
+description: "Helligdager i regnskap forklart for bedriftseiere: hvilke dager gir lønnsplikt, hvordan beregne tillegg, hvordan bokføre kostnader og avsetninger, og hva som må rapporteres i lønn og regnskap. Praktiske råd for budsjettering og internkontroll."
+summary: "Helligdager i regnskap: lønnsplikt, beregning, bokføring og rapportering for bedrifter."
 ---
 
 **Helligdager** representerer en kompleks regnskapsmessig utfordring for norske bedriftseiere, hvor juridiske krav, lønnsforpliktelser og regnskapsføring må håndteres korrekt. Denne artikkelen gir en omfattende analyse av hvordan bedrifter skal behandle helligdager i regnskapssammenheng, fra [feriepenger](/blogs/regnskap/hva-er-feriepenger "Hva er Feriepenger? Komplett Guide til Beregning og Regnskapsføring") til komplekse avsetninger og rapportering.

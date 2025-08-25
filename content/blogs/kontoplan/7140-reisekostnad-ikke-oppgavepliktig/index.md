@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 7140 - Reisekostnad, ikke oppgavepliktig?"
-seoTitle: "7140-reisekostnad-ikke-oppgavepliktig"
-description: '**Konto 7140 - Reisekostnad, ikke oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **reisekostnader som ikke ...'
+title: "Konto 7140 - Reisekostnad, ikke oppgavepliktig"
+seoTitle: "Konto 7140 | Reisekostnad, ikke oppgavepliktig | Kontoplan"
+description: "Konto 7140 brukes for reisekostnader som ikke er oppgavepliktige. Lær bokføring, skattefrie satser og dokumentasjonskrav i norsk kontoplan."
+summary: "Bokføring av ikke oppgavepliktige reisekostnader på konto 7140."
 ---
 
 **Konto 7140 - Reisekostnad, ikke oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **reisekostnader som ikke er oppgavepliktige**.

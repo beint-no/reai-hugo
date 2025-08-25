@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6940 - Porto"
-seoTitle: "6940-porto"
-description: '**Konto 6940 - Porto** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **portokostnader** for virksomhetens post og forsendel...'
+seoTitle: "Konto 6940 | Porto | Kontoplan"
+description: "Konto 6940 brukes til å registrere portokostnader for post og forsendelser. Lær bokføring, MVA-satser og typiske føringer i norsk kontoplan."
+summary: "Hvordan bokføre porto på konto 6940 med riktig MVA og kontering."
 ---
 
 **Konto 6940 - Porto** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **portokostnader** for virksomhetens post og forsendelser.

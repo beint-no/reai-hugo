@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7200 - Provisjonskostnader, oppgavepliktig"
-seoTitle: "7200-provisjonskostnader-oppgavepliktig"
-description: '**Konto 7200 - Provisjonskostnader, oppgavepliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **oppgavepliktige provisjonskostnader**...'
+seoTitle: "Konto 7200 | Provisjonskostnader, oppgavepliktig | Kontoplan"
+description: "Konto 7200 brukes til å registrere oppgavepliktige provisjonskostnader. Se bokføring, MVA og rapportering i norsk kontoplan."
+summary: "Bokføring av oppgavepliktige provisjonskostnader på konto 7200."
 ---
 
 **Konto 7200 - Provisjonskostnader, oppgavepliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere **oppgavepliktige provisjonskostnader**.

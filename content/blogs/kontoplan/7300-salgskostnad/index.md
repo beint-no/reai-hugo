@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7300 - Salgskostnad"
-seoTitle: "7300-salgskostnad"
-description: '**Konto 7300 - Salgskostnad** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader direkte knyttet til salgsinntekter**. S...'
+seoTitle: "Konto 7300 | Salgskostnad | Kontoplan"
+description: "Konto 7300 brukes til å registrere kostnader direkte knyttet til salgsinntekter. Lær bokføring, varekostnad, lagerendring og analyse i norsk kontoplan."
+summary: "Salgskostnad på konto 7300: bokføring, varekostnad og lagerendring."
 ---
 
 **Konto 7300 - Salgskostnad** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader direkte knyttet til salgsinntekter**. Salgskostnad reflekterer utgiftene forbundet med å produsere, kjøpe inn og distribuere varer som er solgt.

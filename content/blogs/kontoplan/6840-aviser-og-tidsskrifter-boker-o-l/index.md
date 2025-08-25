@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6840 - Aviser og tidsskrifter, bøker o.l."
-seoTitle: "6840-aviser-og-tidsskrifter-boker-o-l"
-description: '**Konto 6840 - Aviser og tidsskrifter, bøker o.l.** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til publiseringsmateriale**...'
+seoTitle: "Konto 6840 | Aviser og tidsskrifter, bøker o.l. | Kontoplan"
+description: "Konto 6840 dekker kostnader til aviser, tidsskrifter, bøker og digitale abonnementer for faglig oppdatering. Lær bokføring, MVA-behandling og typiske føringer i norsk kontoplan."
+summary: "Kort guide til bokføring av aviser, tidsskrifter, bøker og e-abonnementer på konto 6840."
 ---
 
 **Konto 6840 - Aviser og tidsskrifter, bøker o.l.** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til publiseringsmateriale**, inkludert aviser, tidsskrifter, bøker og e-abonnementer for faglig oppdatering eller intern bruk.

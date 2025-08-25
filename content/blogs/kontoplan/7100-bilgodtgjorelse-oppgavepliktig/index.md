@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7100 - Bilgodtgjørelse, oppgavepliktig"
-seoTitle: "7100-bilgodtgjorelse-oppgavepliktig"
-description: '**Konto 7100 - Bilgodtgjørelse, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **bilgodtgjørelse som er o...'
+seoTitle: "Konto 7100 | Bilgodtgjørelse, oppgavepliktig | Kontoplan"
+description: "Konto 7100 brukes til å registrere oppgavepliktig bilgodtgjørelse til ansatte. Se bokføring, satser, A-melding og typiske konteringer i norsk kontoplan."
+summary: "Bokføring av oppgavepliktig bilgodtgjørelse på konto 7100 med satser og rapportering."
 ---
 
 **Konto 7100 - Bilgodtgjørelse, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **bilgodtgjørelse som er oppgavepliktig**.

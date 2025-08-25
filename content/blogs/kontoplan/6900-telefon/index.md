@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 6900 - Telefon?"
-seoTitle: "6900-telefon"
-description: '**Konto 6900 - Telefon** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **telefonkostnader** og telekommunikasjonsutgifter i...'
+title: "Konto 6900 - Telefon"
+seoTitle: "Konto 6900 | Telefon | Kontoplan"
+description: "Konto 6900 brukes til å registrere telefon- og telekomkostnader i regnskapet. Lær bokføring, MVA-behandling og typiske føringer i norsk kontoplan."
+summary: "Guide til bokføring av telefonkostnader på konto 6900, inkludert MVA-regler."
 ---
 
 **Konto 6900 - Telefon** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **telefonkostnader** og telekommunikasjonsutgifter i regnskapet.

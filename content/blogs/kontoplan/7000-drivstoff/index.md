@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7000 - Drivstoff"
-seoTitle: "7000-drivstoff"
-description: '**Konto 7000 - Drivstoff** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader til drivstoff** for kjøretøy og maskiner...'
+seoTitle: "Konto 7000 | Drivstoff | Kontoplan"
+description: "Konto 7000 brukes til å registrere kostnader til drivstoff for kjøretøy og maskiner. Lær bokføring, MVA-regler og typiske konteringer i norsk kontoplan."
+summary: "Bokføring av drivstoff på konto 7000 med MVA og konteringseksempler."
 ---
 
 **Konto 7000 - Drivstoff** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader til drivstoff** for kjøretøy og maskiner.

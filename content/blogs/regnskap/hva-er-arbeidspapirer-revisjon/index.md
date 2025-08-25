@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Arbeidspapirer i Revisjon?"
-seoTitle: "Hva er Arbeidspapirer i Revisjon?"
-description: '**Arbeidspapirer i revisjon** er den systematiske dokumentasjonen som [revisorer](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") utarbeid...'
+seoTitle: "Arbeidspapirer i revisjon | Dokumentasjon og krav"
+description: "Arbeidspapirer i revisjon forklart: formål, innhold, krav i revisorloven og ISA 230, struktur, digitalisering og beste praksis for dokumentasjon og kvalitetskontroll."
+summary: "Arbeidspapirer i revisjon: formål, innhold, krav og beste praksis."
 ---
 
 **Arbeidspapirer i revisjon** er den systematiske dokumentasjonen som [revisorer](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") utarbeider under revisjonsoppdraget for å støtte sine konklusjoner og oppfylle profesjonelle standarder. Disse dokumentene utgjør grunnlaget for revisjonsuttalelsen og sikrer kvalitet og sporbarhet i revisjonsprosessen.

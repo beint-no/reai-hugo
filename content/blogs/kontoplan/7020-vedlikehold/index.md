@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7020 - Vedlikehold"
-seoTitle: "7020-vedlikehold"
-description: '**Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **vedlikeholdskostnader** i virksomhetens drift.'
+seoTitle: "Konto 7020 | Vedlikehold | Kontoplan"
+description: "Konto 7020 brukes til å registrere vedlikeholdskostnader i virksomheten. Se bokføring, MVA-satser og typiske konteringer i norsk kontoplan."
+summary: "Riktig bokføring av vedlikehold på konto 7020 med MVA og kontering."
 ---
 
 **Konto 7020 - Vedlikehold** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **vedlikeholdskostnader** i virksomhetens drift.

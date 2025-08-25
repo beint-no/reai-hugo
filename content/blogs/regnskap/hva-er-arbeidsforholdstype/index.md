@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er arbeidsforholdstype?"
-seoTitle: "Hva er arbeidsforholdstype?"
-description: '**Arbeidsforholdstype** refererer til den juridiske og praktiske rammen som definerer forholdet mellom [arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver...'
+seoTitle: "Hva er arbeidsforholdstype? | Typer, regler og rapportering"
+description: "Arbeidsforholdstype i Norge forklart: fast, midlertidig, vikariat, innleie og selvstendig. Konsekvenser for lønn, A-melding, rettigheter og regnskapsføring."
+summary: "Arbeidsforholdstyper: fast, midlertidig, vikariat, innleie og selvstendig forklart."
 ---
 
 **Arbeidsforholdstype** refererer til den juridiske og praktiske rammen som definerer forholdet mellom [arbeidsgiver](/blogs/regnskap/arbeidsgiver "Arbeidsgiver") og arbeidstaker. I Norge reguleres arbeidsforhold hovedsakelig av arbeidsmiljøloven, og valg av arbeidsforholdstype har betydelige konsekvenser for både juridiske rettigheter, økonomiske forpliktelser og regnskapsføring.

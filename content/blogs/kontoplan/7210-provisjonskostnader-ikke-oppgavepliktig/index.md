@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7210 - Provisjonskostnader, ikke oppgavepliktig"
-seoTitle: "7210-provisjonskostnader-ikke-oppgavepliktig"
-description: '**Konto 7210 - Provisjonskostnader, ikke oppgavepliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere provisjonskostnader som ikke er op...'
+seoTitle: "Konto 7210 | Provisjonskostnader, ikke oppgavepliktig | Kontoplan"
+description: "Konto 7210 brukes til å registrere provisjonskostnader som ikke er oppgavepliktige. Se bokføring, MVA og presentasjon i regnskapet."
+summary: "Bokføring av ikke-oppgavepliktige provisjonskostnader på konto 7210."
 ---
 
 **Konto 7210 - Provisjonskostnader, ikke oppgavepliktig** er en konto i Norsk Standard Kontoplan som brukes til å registrere provisjonskostnader som ikke er oppgavepliktige.

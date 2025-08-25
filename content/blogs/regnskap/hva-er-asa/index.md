@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)"
-seoTitle: "Hva er ASA? En Guide til Allmennaksjeselskap (ASA)"
-description: 'For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").'
+seoTitle: "Hva er ASA? | Allmennaksjeselskap forklart for bedrifter"
+description: "Hva er ASA i Norge? En praktisk guide til allmennaksjeselskap: krav til kapital, styre og revisjon, børsnotering, emisjoner og forskjeller fra AS."
+summary: "ASA forklart: kapital, styre, revisjon, børsnotering og forskjeller fra AS."
 ---
 
 For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").

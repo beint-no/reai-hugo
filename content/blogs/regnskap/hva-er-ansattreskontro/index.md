@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er ansattreskontro?"
-seoTitle: "Hva er ansattreskontro?"
-description: '**Ansattreskontro** er et sentralt element i norsk lønnsbuchholderi som fungerer som en individuell konto for hver ansatt i bedriften. Den registrerer alle øk...'
+seoTitle: "Hva er ansattreskontro? | Lønn, rapportering og regnskap"
+description: "Ansattreskontro forklart: hva kontoen inneholder, hvordan den brukes i lønn, A-melding og rapportering, og hvordan transaksjoner mellom arbeidsgiver og ansatte føres og avstemmes."
+summary: "Ansattreskontro: innhold, bruk i lønn og A-melding, føring og avstemming."
 ---
 
 **Ansattreskontro** er et sentralt element i norsk lønnsbuchholderi som fungerer som en individuell konto for hver ansatt i bedriften. Den registrerer alle økonomiske transaksjoner mellom arbeidsgiver og arbeidstaker, inkludert [**lønnslipp**](/blogs/regnskap/hva-er-lonnslipp "Lønnslipp - Komplett Guide til Lønnsspecifikasjon og Regnskapsføring"), [**lønn**](/blogs/regnskap/hva-er-lonn "Hva er Lønn i Regnskap? Komplett Guide til Lønnsformer, Beregning og Regnskapsføring"), fradrag, forskudd og andre ytelser. Ansattreskontro er grunnlaget for korrekt [lønnskjøring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk Regnskap") og rapportering til offentlige myndigheter.

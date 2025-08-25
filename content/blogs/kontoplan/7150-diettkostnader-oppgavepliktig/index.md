@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7150 - Diettkostnader, oppgavepliktig"
-seoTitle: "7150-diettkostnader-oppgavepliktig"
-description: '**Konto 7150 - Diettkostnader, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **oppgavepliktige diettkostna...'
+seoTitle: "Konto 7150 | Diettkostnader, oppgavepliktig | Kontoplan"
+description: "Konto 7150 brukes til å registrere oppgavepliktige diettkostnader. Lær skatteregler, satser, bokføring og rapportering i A‑meldingen."
+summary: "Oppgavepliktige diettkostnader på konto 7150: satser, bokføring og A‑melding."
 ---
 
 **Konto 7150 - Diettkostnader, oppgavepliktig** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **oppgavepliktige diettkostnader**.
