@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er driftsregnskap?"
 seoTitle: "Hva er driftsregnskap?"
-description: '**Driftsregnskap** er den delen av [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring i Norge") som viser bedrif...'
+description: 'Driftsregnskap er delen av regnskapet som viser bedriftens operative inntekter og kostnader fra daglig drift, uten finansposter.'
+summary: 'Hva driftsregnskap er, hvordan det er bygget opp, og hvordan det brukes til å analysere driftens lønnsomhet i praksis.'
 ---
 
 **Driftsregnskap** er den delen av [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring i Norge") som viser bedriftens **operative inntekter og kostnader** fra den daglige forretningsvirksomheten. Dette skiller seg fra totalregnskapet ved at det fokuserer utelukkende på kjernevirksomheten og ekskluderer finansielle poster og ekstraordinære hendelser.

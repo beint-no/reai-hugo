@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Egenkapitalrentabilitet?"
 seoTitle: "Hva er Egenkapitalrentabilitet?"
-description: '**Egenkapitalrentabilitet** (ROE - Return on Equity) er et av de viktigste nøkkeltallene for å måle hvor effektivt et selskap bruker eiernes kapital til å g...'
+description: 'Egenkapitalrentabilitet (ROE) måler hvor effektivt et selskap bruker eiernes kapital til å skape overskudd i prosent.'
+summary: 'Forklaring av ROE: definisjon, formler, DuPont-analyse, eksempler og hvordan investorer og ledelse bruker måltallet.'
 ---
 
 **Egenkapitalrentabilitet** (ROE - Return on Equity) er et av de viktigste nøkkeltallene for å måle hvor effektivt et selskap bruker eiernes kapital til å generere overskudd. Dette finansielle måltallet viser hvor mye avkastning eierne får på sin investerte [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") og er sentralt i [finansiell analyse](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og investeringsbeslutninger.

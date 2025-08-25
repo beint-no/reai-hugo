@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er en regnskapsfører?"
 seoTitle: "Hva er en regnskapsfører?"
-description: '![Hva er en regnskapsfører?](hva-er-en-regnskapsforer-image.svg)'
+description: 'En regnskapsfører håndterer bokføring, rapportering, skatt og avgift for virksomheter og sikrer etterlevelse av norske lover og standarder.'
+summary: 'Hva en regnskapsfører gjør, autorisasjonskrav, ansvar, tjenester og hvordan velge riktig regnskapsfører for din bedrift.'
 ---
 
 ![Hva er en regnskapsfører?](hva-er-en-regnskapsforer-image.svg)

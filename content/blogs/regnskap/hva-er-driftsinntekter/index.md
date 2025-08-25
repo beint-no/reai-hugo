@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er driftsinntekter?"
 seoTitle: "Hva er driftsinntekter?"
-description: '**Driftsinntekter** er inntekter som oppstår fra et selskaps ordinære forretningsvirksomhet og utgjør grunnlaget for å måle selskapets operative lønnsomhe...'
+description: 'Driftsinntekter er inntekter fra ordinær forretningsvirksomhet og danner grunnlaget for å måle et selskaps operative lønnsomhet.'
+summary: 'Kort forklaring av driftsinntekter i regnskap: hva de er, hvorfor de er viktige og hvordan de brukes til å vurdere lønnsomhet.'
 ---
 
 **Driftsinntekter** er inntekter som oppstår fra et selskaps ordinære forretningsvirksomhet og utgjør grunnlaget for å måle selskapets operative lønnsomhet. Som en viktig del av selskapets totale [inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektstyper og Regnskapsføring"), skiller driftsinntekter seg fra [Finansinntekter](/blogs/regnskap/finansinntekt "Finansinntekt “ Komplett guide til renter, utbytte og kapitalgevinster i norsk regnskap") som kommer fra investeringer og finansielle aktiviteter, ved at de representerer verdien av varer og tjenester som selskapet leverer til sine kunder. Driftsinntekter utgjør hovedkomponenten i selskapets [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt"), men måles eksklusive merverdiavgift.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er en Aksje?"
 seoTitle: "Hva er en Aksje?"
-description: 'En **aksje** er en eierandel i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"). Når ...'
+description: 'En aksje er en eierandel i et aksjeselskap som gir økonomiske og administrative rettigheter, som utbytte og stemmerett.'
+summary: 'Forklaring av hva en aksje er, pålydende vs. aksjekurs, rettigheter for aksjonærer og ulike aksjeklasser.'
 ---
 
 En **aksje** er en eierandel i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen"). Når du eier en aksje, eier du en liten del av selskapet, og dette eierskapet dokumenteres formelt gjennom et [**aksjebevis**](/blogs/regnskap/hva-er-et-aksjebevis "Hva er et Aksjebevis? En Komplett Guide"). Alle aksjene i et selskap har i utgangspunktet samme verdi, kjent som **pålydende verdi**.

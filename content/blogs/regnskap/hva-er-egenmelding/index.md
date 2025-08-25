@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Egenmelding?"
 seoTitle: "Hva er Egenmelding?"
-description: '**Egenmelding** er et grunnleggende prinsipp i norsk skatte- og regnskapsforvaltning som innebærer at skatteytere og virksomheter selv rapporterer sine økonom...'
+description: 'Egenmelding betyr at skatteytere og virksomheter selv rapporterer økonomiske forhold til myndighetene innenfor gitte frister og regler.'
+summary: 'Hva egenmelding er i skatt, MVA, a-melding og regnskap, inkludert prinsipper, kontroll og digitale løsninger i Altinn.'
 ---
 
 **Egenmelding** er et grunnleggende prinsipp i norsk skatte- og regnskapsforvaltning som innebærer at skatteytere og virksomheter selv rapporterer sine økonomiske forhold til myndighetene. Dette selvrapporteringssystemet bygger på tillit og er en hjørnestein i den norske forvaltningsmodellen, hvor borgere og bedrifter har ansvar for å gi korrekte og fullstendige opplysninger om sine inntekter, utgifter og økonomiske transaksjoner.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er driftsresultat?"
 seoTitle: "Hva er driftsresultat?"
-description: '**Driftsresultat** er et av de viktigste nøkkeltallene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring") ...'
+description: 'Driftsresultat viser lønnsomheten fra kjernevirksomheten og beregnes som driftsinntekter minus driftskostnader, før finansposter og skatt.'
+summary: 'En enkel forklaring av driftsresultat (EBIT), hvordan det beregnes og brukes i analyse av operasjonell lønnsomhet.'
 ---
 
 **Driftsresultat** er et av de viktigste nøkkeltallene i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring") og viser bedriftens lønnsomhet fra kjernevirksomheten. Det representerer forskjellen mellom driftsinntekter og driftskostnader, og gir et klart bilde av hvor godt selskapet presterer operasjonelt før finansielle poster og skatt.

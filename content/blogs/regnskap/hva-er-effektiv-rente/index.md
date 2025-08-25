@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er effektiv rente?"
 seoTitle: "Hva er effektiv rente?"
-description: '**Effektiv rente** er en type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som tar hensyn til renter på renter, gebyrer og...'
+description: 'Effektiv rente tar hensyn til renter på renter, gebyrer og betalingsfrekvens og gir et riktig bilde av kostnad ved lån eller avkastning på sparing.'
+summary: 'Hva effektiv rente betyr, hvordan den beregnes, og hvorfor den er nyttig for å sammenligne lån, kreditt og sparing.'
 ---
 
 **Effektiv rente** er en type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som tar hensyn til renter på renter, gebyrer og betalingsfrekvens, og gir en mer nøyaktig sammenligning av kostnader ved lån eller avkastning på sparing i regnskap.

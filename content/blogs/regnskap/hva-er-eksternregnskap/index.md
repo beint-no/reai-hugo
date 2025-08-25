@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er eksternregnskap?"
 seoTitle: "Hva er eksternregnskap?"
-description: '**Eksternregnskap** er finansiell rapportering som er utarbeidet primært for **eksterne interessenter** som investorer, kreditorer, myndigheter, kunder og leve...'
+description: 'Eksternregnskap er finansiell rapportering for eksterne interessenter som investorer, kreditorer og myndigheter, etter lov og standarder.'
+summary: 'Introduksjon til eksternregnskap: formål, standarder (IFRS/GRS), årsregnskapets deler og hvorfor transparens er viktig.'
 ---
 
 **Eksternregnskap** er finansiell rapportering som er utarbeidet primært for **eksterne interessenter** som investorer, kreditorer, myndigheter, kunder og leverandører. Dette står i motsetning til internregnskap, som er rettet mot ledelsen og interne beslutningstagere. Eksternregnskapet følger strenge regnskapsstandarder og lovkrav for å sikre **transparens**, **sammenlignbarhet** og **pålitelighet** i finansiell rapportering.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Elektronisk Fakturering?"
 seoTitle: "Hva er Elektronisk Fakturering?"
-description: '**Elektronisk fakturering** er et samlebegrep for alle digitale metoder for å sende, motta og behandle [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en...'
+description: 'Elektronisk fakturering er digitale metoder for å sende, motta og behandle fakturaer, fra PDF til strukturerte formater som eFaktura og EHF.'
+summary: 'En komplett intro til elektronisk fakturering: formater (eFaktura, EHF), standarder, integrasjon og gevinster for regnskap.'
 ---
 
 **Elektronisk fakturering** er et samlebegrep for alle digitale metoder for å sende, motta og behandle [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") elektronisk.
