@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er bonitet?"
-seoTitle: "Hva er bonitet?"
-description: '**Bonitet**, også kalt **kreditverdighet**, refererer til en virksomhets eller persons evne til å oppfylle finansielle forpliktelser. En god bonitet indikerer...'
+seoTitle: "Bonitet | Hva betyr kredittrating og hvordan vurderes den?"
+description: "Bonitet, eller kreditverdighet, beskriver evnen til å oppfylle finansielle forpliktelser. Lær hvordan rating fungerer, hvilke nøkkeltall som brukes og hvordan du kan forbedre boniteten."
+summary: "Bonitet forklart: definisjon, rating-skalaer, nøkkeltall og tiltak for bedre kredittscore."
 ---
 
 **Bonitet**, også kalt **kreditverdighet**, refererer til en virksomhets eller persons evne til å oppfylle finansielle forpliktelser. En god bonitet indikerer høy sannsynlighet for at gjeld betales tilbake i tide, og er avgjørende for tilgang til kreditt og finansiering i norsk næringsliv.

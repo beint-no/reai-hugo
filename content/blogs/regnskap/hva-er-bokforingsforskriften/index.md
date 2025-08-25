@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Bokføringsforskriften?"
-seoTitle: "Hva er Bokføringsforskriften?"
-description: '**Bokføringsforskriften** er det sentrale regelverket som regulerer hvordan norske virksomheter skal føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er R...'
+seoTitle: "Bokføringsforskriften | Krav, bokføringsplikt og dokumentasjon"
+description: "Bokføringsforskriften beskriver detaljerte krav til bokføring, bilag, oppbevaring og dokumentasjon i Norge. Lær hvem som er bokføringspliktig, hvilke systemkrav som gjelder og hvordan du oppfyller regelverket i praksis."
+summary: "Hva er bokføringsforskriften, hvem gjelder den for, og hvilke dokumentasjonskrav må du oppfylle?"
 ---
 
 **Bokføringsforskriften** er det sentrale regelverket som regulerer hvordan norske virksomheter skal føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"). Forskriften fastsetter **detaljerte krav** til bokføringsplikt, [bilagsføring](/blogs/regnskap/hva-er-bilagsføring "Hva er Bilagsføring? Komplett Guide til Korrekt Registrering"), oppbevaring og regnskapsstandarder for å sikre **transparent** og **korrekt regnskapsføring**.

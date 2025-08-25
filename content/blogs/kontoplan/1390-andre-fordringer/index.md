@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1390 - Andre fordringer"
 seoTitle: "Konto 1390 | Andre fordringer | Kontoplan"
-description: '**Konto 1390 - Andre fordringer** brukes til å registrere **andre kortsiktige fordringer uten sikkerhet** som ikke dekkes av andre spesifikke kontoer. Les om typiske eksempler, vurdering, nedskrivning og bokføring.'
+description: "Konto 1390 brukes til å registrere andre kortsiktige fordringer uten sikkerhet som ikke dekkes av andre spesifikke kontoer. Les om typiske eksempler, vurdering, nedskrivning og bokføring."
 summary: "Konto 1390 dekker andre kortsiktige fordringer. Oppsummerer eksempler, vurdering, nedskrivning og bokføring."
 ---
 

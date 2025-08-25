@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er debitor?"
-seoTitle: "Hva er debitor?"
-description: '**Debitor** er et sentralt begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og [bokføring](/blogs/regnskap/hva...'
+seoTitle: "Debitor | Hva betyr det i regnskap og hvordan bokføres det?"
+description: "Debitor er kunder som skylder virksomheten penger. Lær forskjellen på debitor og kreditor, hvordan kundefordringer bokføres og følges opp, samt nøkkeltall og beste praksis."
+summary: "Debitor forklart: definisjon, bokføring av kundefordringer, kredittid og oppfølging."
 ---
 
 **Debitor** er et sentralt begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og [bokføring](/blogs/regnskap/hva-er-bokføring "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") som refererer til [kunder](/blogs/regnskap/hva-er-kunde "Hva er en Kunde? Komplett Guide til Kundehåndtering i Regnskap") som skylder penger til virksomheten for leverte varer eller tjenester. Debitor representerer [kundefordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? En Komplett Guide til Kundefordringer i Regnskap") og er en viktig del av selskapets [aktiva](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap"). Effektiv debitorhåndtering er avgjørende for å opprettholde god likviditet og [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Guide til Likviditetsstyring").

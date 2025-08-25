@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1420 - Varer under utvikling"
 seoTitle: "Konto 1420 | Varer under utvikling | Kontoplan"
-description: '**Konto 1420 - Varer under utvikling** dekker varer under tilvirkning/arbeid under utførelse i produksjonsprosessen. Les om kostnadskomponenter, vurdering, regnskapsføringsposter og overføring til ferdigvare.'
+description: "Konto 1420 dekker varer under tilvirkning/arbeid under utførelse i produksjonsprosessen. Les om kostnadskomponenter, vurdering, regnskapsføringsposter og overføring til ferdigvare."
 summary: "Konto 1420 gjelder varer under utvikling. Oppsummerer kostnadskomponenter, vurdering og bokføring frem til ferdigvare."
 ---
 

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Crowdsourcing i Regnskap?"
-seoTitle: "Hva er Crowdsourcing i Regnskap?"
-description: '**Crowdsourcing** i regnskapssammenheng refererer til hvordan bedrifter kan bruke **folkefinansiering** og eksterne ressurser for å finansiere prosjekter og op...'
+seoTitle: "Crowdsourcing | Folkefinansiering, kostnader og regnskapsføring"
+description: "Crowdsourcing i regnskap dekker folkefinansiering og bruk av eksterne ressurser. Lær hvordan crowdfunding påvirker bokføring, MVA og skatt, og hvordan kostnader og plattformgebyr behandles."
+summary: "Crowdsourcing forklart: crowdfunding-typer, regnskapsføring, MVA og beste praksis."
 ---
 
 **Crowdsourcing** i regnskapssammenheng refererer til hvordan bedrifter kan bruke **folkefinansiering** og eksterne ressurser for å finansiere prosjekter og operasjoner. Dette konseptet har revolusjonert måten selskaper skaffer [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet") og finansierer sine aktiviteter på.

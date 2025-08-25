@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1370 - Fordringer på eiere og styremedlemmer"
 seoTitle: "Konto 1370 | Fordringer på eiere og styremedlemmer | Kontoplan"
-description: '**Konto 1370 - Fordringer på eiere og styremedlemmer** brukes til å registrere **lån og forskudd** til eiere og styremedlemmer. Lær om godkjenning, renteberegning, vurdering og bokføring.'
+description: "Konto 1370 brukes til å registrere lån og forskudd til eiere og styremedlemmer. Les om godkjenning, renteberegning, vurdering og bokføring."
 summary: "Konto 1370 gjelder lån og forskudd til eiere og styremedlemmer. Oppsummerer godkjenning, rente, vurdering og bokføring med eksempler."
 ---
 

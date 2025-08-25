@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Bokføringsregler? Komplett Guide til Norske Bokføringsstandarder"
-seoTitle: "Hva er Bokføringsregler? Komplett Guide til Norske Bokføringsstandarder"
-description: '**Bokføringsregler** utgjør det juridiske og praktiske rammeverket som regulerer hvordan norske virksomheter skal registrere, klassifisere og rapportere sine ...'
+seoTitle: "Bokføringsregler | Prinsipper, krav og beste praksis"
+description: "Bokføringsregler i Norge dekker prinsipper, metoder og krav for registrering, klassifisering og rapportering. Se hvordan lovverk og standarder brukes i praksis, og hvilke rutiner virksomheter bør følge."
+summary: "Oversikt over bokføringsregler: prinsipper, lovkrav, standarder og praktiske rutiner."
 ---
 
 **Bokføringsregler** utgjør det juridiske og praktiske rammeverket som regulerer hvordan norske virksomheter skal registrere, klassifisere og rapportere sine økonomiske transaksjoner. Disse reglene sikrer konsistens, sammenlignbarhet og pålitelighet i finansiell rapportering, og danner grunnlaget for [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") og [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En dybdeanalyse for Norge") i Norge.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Bruttolønn?"
-seoTitle: "Hva er Bruttolønn?"
-description: '**Bruttolønn** er den totale lønnen en ansatt tjener før fradrag av skatt, avgifter og andre kostnader. Bruttolønn danner grunnlaget for [A‘meldingen](/bl...'
+seoTitle: "Bruttolønn | Definisjon, beregning og vanlige fradrag"
+description: "Bruttolønn er total lønn før skatt og fradrag. Se hvordan bruttolønn beregnes, hvilke fradrag som gjelder og forskjellen mot nettolønn, feriepenger og arbeidsgiveravgift."
+summary: "Bruttolønn forklart: hva det er, hvordan det beregnes og hvilke fradrag som tas."
 ---
 
 **Bruttolønn** er den totale lønnen en ansatt tjener før fradrag av skatt, avgifter og andre kostnader. Bruttolønn danner grunnlaget for [A‘meldingen](/blogs/regnskap/hva-er-a-melding "Hva er A‘melding? Komplett Guide til Innlevering og Frister"), beregning av [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Definisjon og Beregning i Norge"), feriepenger og flere lønnsrelaterte nøkkeltall.

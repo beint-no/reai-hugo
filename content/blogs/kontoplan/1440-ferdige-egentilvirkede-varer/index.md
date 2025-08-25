@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1440 - Ferdige egentilvirkede varer"
 seoTitle: "Konto 1440 | Ferdige egentilvirkede varer | Kontoplan"
-description: '**Konto 1440 - Ferdige egentilvirkede varer** gjelder ferdig bearbeidede varer klare for salg. Les om kostnadskomponenter, overføring fra WIP, verdsettelse og bokføring.'
+description: "Konto 1440 gjelder ferdig bearbeidede varer klare for salg. Les om kostnadskomponenter, overføring fra WIP, verdsettelse og bokføring."
 summary: "Konto 1440 dekker ferdige egentilvirkede varer. Oppsummerer kostnader, overføring fra varer under utvikling, verdsettelse og bokføring."
 ---
 

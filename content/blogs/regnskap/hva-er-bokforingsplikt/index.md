@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Bokføringsplikt i Norge?"
-seoTitle: "Hva er Bokføringsplikt i Norge?"
-description: '**Bokføringsplikt** er den lovpålagte forpliktelsen for virksomheter i Norge til å føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komp...'
+seoTitle: "Bokføringsplikt | Hvem gjelder det for og hva kreves?"
+description: "Bokføringsplikt innebærer krav til registrering, dokumentasjon og oppbevaring av transaksjoner. Lær hvem som er bokføringspliktig, hvilke grenser som gjelder og hvordan du oppfyller lovkravene."
+summary: "Hva betyr bokføringsplikt, hvem omfatter det, og hvilke krav må oppfylles?"
 ---
 
 **Bokføringsplikt** er den lovpålagte forpliktelsen for virksomheter i Norge til å føre [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") i henhold til [bokføringsloven](/blogs/regnskap/hva-er-bokføringsloven "Bokføringsloven - Krav, Regler og Praktisk Veiledning for Norske Bedrifter"). Denne plikten sikrer **transparens**, **kontroll** og **etterprøvbarhet** i norsk næringsliv.

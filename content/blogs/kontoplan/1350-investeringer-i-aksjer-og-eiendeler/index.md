@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1350 - Investeringer i aksjer og eiendeler"
 seoTitle: "Konto 1350 | Investeringer i aksjer og eiendeler | Kontoplan"
-description: '**Konto 1350 - Investeringer i aksjer og eiendeler** dekker langsiktige investeringer i aksjer, fond, obligasjoner og andre finansielle eiendeler. Lær om innregning, verdsettelse, nedskrivning og bokføring.'
+description: "Konto 1350 dekker langsiktige investeringer i aksjer, fond, obligasjoner og andre finansielle eiendeler. Lær om innregning, verdsettelse, nedskrivning og bokføring."
 summary: "Konto 1350 brukes for langsiktige investeringer i aksjer og verdipapirer. Oppsummerer innregning, vurdering, nedskrivning og bokføring."
 ---
 
