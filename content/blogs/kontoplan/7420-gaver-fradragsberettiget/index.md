@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7420 - Gaver, fradragsberettiget"
-seoTitle: "7420-gaver-fradragsberettiget"
-description: '**Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **fradragsberettigede gaver**.'
+seoTitle: "Konto 7420 | Gaver, fradragsberettiget | Kontoplan"
+description: "Konto 7420 i Norsk Standard Kontoplan brukes for fradragsberettigede gaver. Les om beløpsgrenser, skatteregler, bokføring og dokumentasjon for korrekt kostnadsføring."
+summary: "Veiledning til konto 7420 for fradragsberettigede gaver med regler, grenser og bokføring."
 ---
 
 **Konto 7420 - Gaver, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **fradragsberettigede gaver**.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Avskrivning i Regnskap?"
-seoTitle: "Hva er Avskrivning i Regnskap?"
-description: '**Avskrivning** er en regnskapsmessig metode for å fordele [anskaffelseskosten](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Komplett Guid...'
+seoTitle: "Avskrivning | Metoder, satser og bokføring | ReAI"
+description: "Avskrivning fordeler anskaffelseskost på anleggsmidler over brukstid. Lær lineær og saldoavskrivning, skattemessige satser og praktisk bokføring med eksempler."
+summary: "Avskrivning forklart: metoder, skattemessige satser og bokføring."
 ---
 
 **Avskrivning** er en regnskapsmessig metode for å fordele [anskaffelseskosten](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Komplett Guide til Beregning og Regnskapsføring") til [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Materielle, Immaterielle og Finansielle Eiendeler") over deres **brukstid**. Dette gjelder spesielt for [varige driftsmidler](/blogs/regnskap/hva-er-varige-driftsmidler "Hva er Varige Driftsmidler? Komplett Guide til Avskrivbare Anleggsmidler") som maskiner, bygninger og [transportmidler](/blogs/kontoplan/6010-avskrivning-pa-transportmidler-mask-og-invent "Konto 6010 - Avskrivning på transportmidler, maskiner og inventar"). Avskrivning gjenspeiler at eiendeler mister verdi over tid og sikrer korrekt kostnadsfordeling i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide").

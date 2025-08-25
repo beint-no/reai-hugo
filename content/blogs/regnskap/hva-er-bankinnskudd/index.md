@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Bankinnskudd i Regnskap?"
-seoTitle: "Hva er Bankinnskudd i Regnskap?"
-description: '**Bankinnskudd** er penger som bedrifter og privatpersoner setter inn på [bankkontoer](/blogs/regnskap/hva-er-bankavstemming "Hva er Bankavstemming? Komplett G...'
+seoTitle: "Bankinnskudd | Typer, rente og bokføring | ReAI"
+description: "Bankinnskudd er likvide midler på bankkonto. Lær om brukskonto, sparekonto, terminskudd og valutakonto, samt rentehåndtering og regnskapsføring."
+summary: "Bankinnskudd forklart: kontotyper, rente og regnskapsføring."
 ---
 
 **Bankinnskudd** er penger som bedrifter og privatpersoner setter inn på [bankkontoer](/blogs/regnskap/hva-er-bankavstemming "Hva er Bankavstemming? Komplett Guide til Avstemming av Bankkontoer") for oppbevaring, sparing eller investering. I [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") klassifiseres bankinnskudd som **omløpsmidler** og utgjør en viktig del av bedriftens [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriften").

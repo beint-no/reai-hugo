@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7500 - Forsikringspremie"
-seoTitle: "7500-forsikringspremie"
-description: '**Konto 7500 - Forsikringspremie** er en **konto** i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere virksomhetens kostnader til **forsikri...'
+seoTitle: "Konto 7500 | Forsikringspremie | Kontoplan"
+description: "Konto 7500 i Norsk Standard Kontoplan brukes for kostnader til forsikringspremier. Les om typer forsikringer, periodisering, bokføring og praktiske eksempler for korrekt regnskapsføring."
+summary: "Oversikt over konto 7500 for forsikringspremier med periodisering, bokføring og eksempler."
 ---
 
 **Konto 7500 - Forsikringspremie** er en **konto** i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere virksomhetens kostnader til **forsikringspremier** og sikre korrekt periodisering og regnskapsføring.

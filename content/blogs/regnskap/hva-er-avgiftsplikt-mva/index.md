@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Avgiftsplikt (MVA)?"
-seoTitle: "Hva er Avgiftsplikt (MVA)?"
-description: '**Avgiftsplikt (MVA)** er plikten til å beregne, kreve inn og betale merverdiavgift til staten. Dette er en fundamental del av det norske skattesystemet som pÃ...'
+seoTitle: "Avgiftsplikt MVA | Plikter, satser og rapportering | ReAI"
+description: "Avgiftsplikt betyr plikt til å beregne, innkreve og betale merverdiavgift. Lær når MVA-plikt oppstår, satser, registrering og hvordan MVA rapporteres og bokføres korrekt."
+summary: "Avgiftsplikt (MVA) forklart: når den gjelder, satser og rapportering."
 ---
 
 **Avgiftsplikt (MVA)** er plikten til å beregne, kreve inn og betale merverdiavgift til staten. Dette er en fundamental del av det norske skattesystemet som påvirker de fleste [bedrifter](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") som selger varer og tjenester i Norge.

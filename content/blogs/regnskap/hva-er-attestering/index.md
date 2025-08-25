@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er attestering?"
-seoTitle: "Hva er attestering?"
-description: '**Attestering** er en kritisk internkontrollprosess hvor autoriserte personer godkjenner og bekrefter at bilag, fakturaer og andre regnskapsdokumenter er korrek...'
+seoTitle: "Hva er attestering? | Internkontroll i regnskap | ReAI"
+description: "Attestering er godkjenning av bilag og fakturaer før bokføring. Lær hvordan attestering sikrer internkontroll, sporbarhet og etterlevelse av bokføringsregler, og hvordan bedrifter etablerer gode rutiner."
+summary: "Attestering forklart: internkontroll, bilagsgodkjenning og gode rutiner."
 ---
 
 **Attestering** er en kritisk internkontrollprosess hvor autoriserte personer godkjenner og bekrefter at bilag, fakturaer og andre regnskapsdokumenter er korrekte, lovlige og i samsvar med bedriftens retningslinjer før de bokføres. Attestering sikrer at alle økonomiske transaksjoner er dokumentert, godkjent og sporbare. Effektiv attestering forutsetter systematisk [bilagsmottak](/blogs/regnskap/hva-er-bilagsmottak "Bilagsmottak - Komplett Guide til Dokumentmottak og Fakturabehandling") som grunnlag for korrekt dokumenthåndtering, og er en sentral komponent i [QA (Quality Assurance)](/blogs/regnskap/hva-er-qa-kvalitetssikring "Hva er QA (Quality Assurance) i Regnskap? Komplett Guide til Kvalitetssikring") for å sikre kvalitetssikring av regnskapsprosesser.

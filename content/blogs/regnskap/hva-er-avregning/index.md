@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Avregning i Regnskap?"
-seoTitle: "Hva er Avregning i Regnskap?"
-description: '**Avregning i regnskap** er prosessen for å **beregne** og **bokføre** korrekte beløp basert på estimater, delbetalinger, periodiseringer eller eksterne dat...'
+seoTitle: "Avregning i regnskap | Slik gjør du det riktig | ReAI"
+description: "Avregning i regnskap er beregning og bokføring av korrekte beløp ved delbetalinger, estimater og periodiseringer. Lær prosess, eksempler og kontoplan."
+summary: "Avregning forklart: prosess, eksempler og kontoplan i regnskap."
 ---
 
 **Avregning i regnskap** er prosessen for å **beregne** og **bokføre** korrekte beløp basert på estimater, delbetalinger, periodiseringer eller eksterne data. Korrekt avregning sikrer at regnskapet reflekterer den faktiske økonomiske situasjonen og bidrar til **pålitelig økonomistyring** i norske bedrifter.

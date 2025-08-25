@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 7550 - Garantikostnad?"
-seoTitle: "7550-garantikostnad"
-description: '**Konto 7550 - Garantikostnad** er en **kostnadskonto** i Norsk Standard Kontoplan som brukes til å registrere estimert kostnad knyttet til garantiforpliktelse...'
+title: "Konto 7550 - Garantikostnad"
+seoTitle: "Konto 7550 | Garantikostnad | Kontoplan"
+description: "Konto 7550 i Norsk Standard Kontoplan brukes til å bokføre garantikostnader. Les om avsetninger, periodisering, bokføringseksempler og hvordan konto 2180 brukes sammen med 7550."
+summary: "Oversikt over konto 7550 for garantikostnader med avsetning, periodisering og bokføring."
 ---
 
 **Konto 7550 - Garantikostnad** er en **kostnadskonto** i Norsk Standard Kontoplan som brukes til å registrere estimert kostnad knyttet til garantiforpliktelser for solgte varer og tjenester.

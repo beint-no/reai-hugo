@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Balanse i Regnskap?"
-seoTitle: "Hva er Balanse i Regnskap?"
-description: '**Balansen** er et av de mest fundamentale og viktige finansielle dokumentene i regnskapsføring. Den gir et øyeblikksbilde av en virksomhets økonomiske still...'
+seoTitle: "Balanse i regnskap | Aktiva, gjeld og egenkapital | ReAI"
+description: "Balansen viser eiendeler, gjeld og egenkapital på et tidspunkt. Lær struktur, nøkkeltall og sammenheng med resultat og kontantstrøm."
+summary: "Balanse forklart: oppbygging, nøkkeltall og analyse."
 ---
 
 **Balansen** er et av de mest fundamentale og viktige finansielle dokumentene i regnskapsføring. Den gir et øyeblikksbilde av en virksomhets økonomiske stilling på et bestemt tidspunkt og viser forholdet mellom det virksomheten eier ([**eiendeler**](/blogs/regnskap/hva-er-eiendeler "Hva er Eiendeler? Komplett Oversikt over Eiendelstyper"), også kalt **aktiva**) og hvordan dette er finansiert ([passiva](/blogs/regnskap/hva-er-passiva "Hva er Passiva? En Guide til Gjeld og Egenkapital i Regnskap")). Denne artikkelen gir en omfattende gjennomgang av balansens struktur, komponenter og praktiske anvendelse.

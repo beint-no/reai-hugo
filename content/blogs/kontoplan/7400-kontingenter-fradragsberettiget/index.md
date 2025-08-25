@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7400 - Kontingenter, fradragsberettiget"
-seoTitle: "7400-kontingenter-fradragsberettiget"
-description: '**Konto 7400 - Kontingenter, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kontingenter som er fradr...'
+seoTitle: "Konto 7400 | Kontingenter, fradragsberettiget | Kontoplan"
+description: "Konto 7400 i Norsk Standard Kontoplan brukes for kontingenter som er fradragsberettiget. Se regler, bokføring, dokumentasjonskrav og praktiske råd for riktig kostnadsføring."
+summary: "Veiledning til konto 7400 for fradragsberettigede kontingenter med regler, bokføring og dokumentasjon."
 ---
 
 **Konto 7400 - Kontingenter, fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kontingenter som er fradragsberettiget**.

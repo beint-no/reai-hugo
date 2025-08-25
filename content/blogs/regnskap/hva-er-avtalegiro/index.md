@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er AvtaleGiro?"
-seoTitle: "Hva er AvtaleGiro?"
-description: '**AvtaleGiro** er Norges mest brukte system for automatisk betaling av regninger. Dette betalingssystemet gjør det mulig for både privatpersoner og bedrifter ...'
+seoTitle: "AvtaleGiro | Automatisk betaling forklart | ReAI"
+description: "AvtaleGiro er automatisk betaling av regninger fra bankkonto på forfallsdato. Lær hvordan AvtaleGiro fungerer, fordeler, kostnader og oppsett for bedrifter og privatpersoner."
+summary: "AvtaleGiro forklart: slik fungerer automatisk betaling."
 ---
 
 **AvtaleGiro** er Norges mest brukte system for automatisk betaling av regninger. Dette betalingssystemet gjør det mulig for både privatpersoner og bedrifter å automatisere regelmessige betalinger, slik at regninger betales automatisk fra bankkonto uten manuell inngripen. Som en av de mest populære [elektroniske betalingsmidlene](/blogs/regnskap/hva-er-betalingsmidler "Hva er Betalingsmidler? Tvungne, Elektroniske og Tradisjonelle Metoder") i Norge, representerer AvtaleGiro en viktig del av det moderne betalingslandskapet.

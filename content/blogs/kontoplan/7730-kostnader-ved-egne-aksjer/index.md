@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7730 - Kostnader ved egne aksjer"
-seoTitle: "7730-kostnader-ved-egne-aksjer"
-description: '**Konto 7730 - Kostnader ved egne aksjer** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kostnader ved egne aksjer** som ...'
+seoTitle: "Konto 7730 | Kostnader ved egne aksjer | Kontoplan"
+description: "Konto 7730 i Norsk Standard Kontoplan brukes for kostnader ved egne aksjer, som meglerhonorarer, avgifter og rådgiverkostnader. Les om bokføring, regler og praktiske hensyn."
+summary: "Oversikt over konto 7730 for kostnader ved egne aksjer med bokføring, regler og hensyn."
 ---
 
 **Konto 7730 - Kostnader ved egne aksjer** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kostnader ved egne aksjer** som oppstår i forbindelse med tilbakekjøp og håndtering av egne aksjer (treasury shares).

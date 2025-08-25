@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7430 - Gaver, ikke fradragsberettiget"
-seoTitle: "7430-gaver-ikke-fradragsberettiget"
-description: '**Konto 7430 - Gaver, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **ikke-fradragsberettigede ga...'
+seoTitle: "Konto 7430 | Gaver, ikke fradragsberettiget | Kontoplan"
+description: "Konto 7430 i Norsk Standard Kontoplan brukes for gaver som ikke er fradragsberettiget. Les om regler, beløpsgrenser, representasjon, bokføring og dokumentasjonskrav."
+summary: "Guide til konto 7430 for ikke-fradragsberettigede gaver med regler, grenser og bokføring."
 ---
 
 **Konto 7430 - Gaver, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **ikke-fradragsberettigede gaver**.

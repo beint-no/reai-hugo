@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 7610 - Patentkostnad ved egen patent?"
-seoTitle: "7610-patentkostnad-ved-egen-patent"
-description: '**Konto 7610 - Patentkostnad ved egen patent** er en kostnadskonto i norsk kontoplan for virksomheter som utvikler og registrerer egne patenter. Kontoen brukes ...'
+title: "Konto 7610 - Patentkostnad ved egen patent"
+seoTitle: "Konto 7610 | Patentkostnad ved egen patent | Kontoplan"
+description: "Konto 7610 i Norsk Standard Kontoplan brukes til å bokføre kostnader ved egen patentsøknad og vedlikehold. Les om aktivering, amortisering, skatteregler og bokføringseksempler."
+summary: "Guide til konto 7610 for egne patentkostnader med aktivering, amortisering og skatteregler."
 ---
 
 **Konto 7610 - Patentkostnad ved egen patent** er en kostnadskonto i norsk kontoplan for virksomheter som utvikler og registrerer egne patenter. Kontoen brukes til å bokføre kostnader knyttet til egen patentsøknad, aktivering og vedlikehold.

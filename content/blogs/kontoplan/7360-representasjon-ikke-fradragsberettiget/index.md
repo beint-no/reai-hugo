@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7360 - Representasjon, ikke fradragsberettiget"
-seoTitle: "7360-representasjon-ikke-fradragsberettiget"
-description: '**Konto 7360 - Representasjon, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **representasjonskos...'
+seoTitle: "Konto 7360 | Representasjon, ikke fradragsberettiget | Kontoplan"
+description: "Konto 7360 i Norsk Standard Kontoplan brukes til å bokføre representasjonskostnader som ikke er fradragsberettiget. Lær regler, bokføring, dokumentasjonskrav og praktiske råd for korrekt håndtering i regnskapet."
+summary: "Kort guide til konto 7360 for ikke-fradragsberettiget representasjon, med regler, bokføring og dokumentasjon."
 ---
 
 **Konto 7360 - Representasjon, ikke fradragsberettiget** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **representasjonskostnader som ikke er fradragsberettiget**.

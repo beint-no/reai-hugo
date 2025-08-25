@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Avdelingsregnskap?"
-seoTitle: "Hva er Avdelingsregnskap?"
-description: '**Avdelingsregnskap** er en regnskapsmetode som fordeler kostnader og inntekter på ulike avdelinger eller divisjoner i en bedrift. Dette gir ledelsen mulighet ...'
+seoTitle: "Avdelingsregnskap | Kostnadsfordeling og styring | ReAI"
+description: "Avdelingsregnskap fordeler inntekter og kostnader per avdeling. Lær hvordan segmentregnskap brukes til lønnsomhetsanalyse, fordelingsnøkler og styring i norske virksomheter."
+summary: "Avdelingsregnskap: slik fordeler du kostnader og måler lønnsomhet."
 ---
 
 **Avdelingsregnskap** er en regnskapsmetode som fordeler kostnader og inntekter på ulike avdelinger eller divisjoner i en bedrift. Dette gir ledelsen mulighet til å måle **lønnsomhet og effektivitet** på avdelingsnivå, og er et viktig verktøy for intern styring og kontroll.

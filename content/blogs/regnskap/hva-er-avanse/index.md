@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Avanse?"
-seoTitle: "Hva er Avanse?"
-description: '**Avanse** er en forskuddsbetaling som kunden betaler til leverandøren før varer eller tjenester leveres. Dette er en vanlig forretningspraksis som sikrer kon...'
+seoTitle: "Hva er avanse? | Forskuddsbetaling forklart | ReAI"
+description: "Avanse er forskuddsbetaling fra kunden før levering. Lær hva avanse betyr, når den brukes, og hvordan forskuddsbetaling bokføres hos leverandør og kunde med MVA og kontraktsvilkår."
+summary: "Avanse forklart: forskuddsbetaling, bruk, bokføring og MVA."
 ---
 
 **Avanse** er en forskuddsbetaling som kunden betaler til leverandøren før varer eller tjenester leveres. Dette er en vanlig forretningspraksis som sikrer kontantstrøm for leverandøren og reduserer risiko ved større prosjekter eller spesialbestillinger.

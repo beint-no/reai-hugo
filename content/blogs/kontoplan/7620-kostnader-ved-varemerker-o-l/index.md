@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 7620 - Kostnader ved varemerker o.l.?"
-seoTitle: "7620-kostnader-ved-varemerker-o-l"
-description: '**Konto 7620 - Kostnader ved varemerker o.l.** er en kostnadskonto i norsk kontoplan som benyttes for å registrere **kostnader** knyttet til varemerker og andr...'
+title: "Konto 7620 - Kostnader ved varemerker o.l."
+seoTitle: "Konto 7620 | Kostnader ved varemerker | Kontoplan"
+description: "Konto 7620 i Norsk Standard Kontoplan brukes til å bokføre kostnader ved varemerker og lignende immaterielle rettigheter. Les om kostnadstyper, bokføring, periodisering og skatteregler."
+summary: "Forklaring av konto 7620 for kostnader ved varemerker med bokføring, periodisering og skatt."
 ---
 
 **Konto 7620 - Kostnader ved varemerker o.l.** er en kostnadskonto i norsk kontoplan som benyttes for å registrere **kostnader** knyttet til varemerker og andre lignende immaterielle rettigheter.

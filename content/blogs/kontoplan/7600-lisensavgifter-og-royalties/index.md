@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 7600 - Lisensavgifter og royalties?"
-seoTitle: "7600-lisensavgifter-og-royalties"
-description: '**Konto 7600 - Lisensavgifter og royalties** er en kostnadskonto i norsk kontoplan som benyttes for å registrere utgifter til **lisensavgifter** og **royalties...'
+title: "Konto 7600 - Lisensavgifter og royalties"
+seoTitle: "Konto 7600 | Lisensavgifter og royalties | Kontoplan"
+description: "Konto 7600 i Norsk Standard Kontoplan brukes til å bokføre lisensavgifter og royalties for immaterielle rettigheter. Les om kriterier, periodisering, bokføring, skatt og eksempler."
+summary: "Forklaring av konto 7600 for lisensavgifter og royalties med regler, periodisering og bokføring."
 ---
 
 **Konto 7600 - Lisensavgifter og royalties** er en kostnadskonto i norsk kontoplan som benyttes for å registrere utgifter til **lisensavgifter** og **royalties** knyttet til bruk av immaterielle rettigheter.
