@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1060 – Andre rettigheter"
-seoTitle: "Konto 1060 | Andre rettigheter | Kontoplan"
+seoTitle: "Konto 1060 | Andre rettigheter | Kontoplan | Regnskap"
 description: "Konto 1060 i norsk kontoplan (NS 4102) omfatter andre rettigheter som immaterielle eiendeler. Lær kriterier for aktivering, verdsettelse, amortisering, bokføring og praktiske vurderinger."
 summary: "Konto 1060 i norsk kontoplan: aktivering, amortisering og bokføring av andre immaterielle rettigheter."
 ---

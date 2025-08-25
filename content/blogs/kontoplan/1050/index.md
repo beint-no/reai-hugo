@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1050 – Varemerker"
-seoTitle: "Konto 1050 | Varemerker | Kontoplan"
+seoTitle: "Konto 1050 | Varemerker | Kontoplan | Regnskap"
 description: "Konto 1050 i norsk kontoplan (NS 4102) gjelder varemerker som immaterielle eiendeler. Les om aktivering, verdsettelse, amortisering, bokføring og typiske vurderinger."
 summary: "Konto 1050 i norsk kontoplan: aktivering, amortisering og bokføring av varemerker som immaterielle eiendeler."
 ---

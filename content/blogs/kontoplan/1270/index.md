@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1270 – Verktøy mv."
-seoTitle: "Konto 1270 | Verktøy mv. | Kontoplan"
+seoTitle: "Konto 1270 | Verktøy mv. | Kontoplan | Regnskap"
 description: "Konto 1270 i norsk kontoplan (NS 4102) brukes for verktøy og mindre driftsmidler. Lær typiske levetider, aktivering, avskrivning, bokføring og presentasjon."
 summary: "Konto 1270 i norsk kontoplan: anskaffelseskost, levetid, avskrivning og bokføring av verktøy mv."
 ---

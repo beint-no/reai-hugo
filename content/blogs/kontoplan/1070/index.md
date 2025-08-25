@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1070 – Utsatt skattfordel"
-seoTitle: "Konto 1070 | Utsatt skattfordel | Kontoplan"
+seoTitle: "Konto 1070 | Utsatt skattfordel | Kontoplan | Regnskap"
 description: "Konto 1070 i norsk kontoplan (NS 4102) brukes for utsatt skattfordel som immateriell eiendel. Se kriterier for aktivering, beregning, regnskapsføring, presentasjon og vanlige vurderinger."
 summary: "Konto 1070 i norsk kontoplan: beregning, aktivering og bokføring av utsatt skattfordel i regnskapet."
 ---

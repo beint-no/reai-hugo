@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1080 – Goodwill"
-seoTitle: "Konto 1080 | Goodwill | Kontoplan"
+seoTitle: "Konto 1080 | Goodwill | Kontoplan | Regnskap"
 description: "Konto 1080 i norsk kontoplan (NS 4102) brukes for goodwill ved virksomhetsoppkjøp. Lær beregning, nedskrivningstest, bokføring og presentasjon i regnskap."
 summary: "Konto 1080 i norsk kontoplan: beregning, nedskrivningstest og bokføring av goodwill ved oppkjøp."
 ---

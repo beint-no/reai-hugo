@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1020 – Konsesjoner"
-seoTitle: "Konto 1020 | Konsesjoner | Kontoplan"
+seoTitle: "Konto 1020 | Konsesjoner | Kontoplan | Regnskap"
 description: "Konto 1020 i norsk kontoplan (NS 4102) omfatter konsesjoner og bruksrettigheter som kan aktiveres som immaterielle eiendeler. Se kriterier for aktivering, verdsettelse, amortisering, regnskapsføring og vanlige vurderinger."
 summary: "Konto 1020 i norsk kontoplan: aktivering, amortisering, bokføring og nøkkelvurderinger for konsesjoner."
 ---

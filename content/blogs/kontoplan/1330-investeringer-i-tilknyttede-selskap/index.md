@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1330 - Investeringer i tilknyttede selskap"
-seoTitle: "Konto 1330 | Investeringer i tilknyttede selskap | Kontoplan"
+seoTitle: "Konto 1330 | Investeringer i tilknyttede selskap | Kontoplan | Regnskap"
 description: "Konto 1330 i norsk kontoplan (NS 4102) brukes til å registrere langsiktige investeringer i tilknyttede selskaper med betydelig innflytelse. Les om egenkapitalmetoden, klassifisering, nedskrivning og bokføring."
 summary: "Konto 1330 i kontoplanen: egenkapitalmetoden, klassifisering og bokføring for tilknyttede selskap."
 ---

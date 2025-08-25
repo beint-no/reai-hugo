@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1280 – Kontormaskiner"
-seoTitle: "Konto 1280 | Kontormaskiner | Kontoplan"
+seoTitle: "Konto 1280 | Kontormaskiner | Kontoplan | Regnskap"
 description: "Konto 1280 i norsk kontoplan (NS 4102) brukes for kontormaskiner og mindre IT-utstyr. Se typiske levetider, aktivering, avskrivning, bokføring og presentasjon."
 summary: "Konto 1280 i norsk kontoplan: levetider, aktivering, avskrivning og bokføring av kontormaskiner og IT-utstyr."
 ---

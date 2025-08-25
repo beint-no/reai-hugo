@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1310 – Investeringer annet foretak i samme konsern"
-seoTitle: "Konto 1310 | Investeringer annet foretak i samme konsern | Kontoplan"
+seoTitle: "Konto 1310 | Investeringer annet foretak i samme konsern | Kontoplan | Regnskap"
 description: "Konto 1310 i norsk kontoplan (NS 4102) brukes for investeringer i annet foretak i samme konsern. Lær anskaffelse, vurdering, nedskrivning, konsernforhold og bokføring."
 summary: "Konto 1310 i norsk kontoplan: bokføring, vurdering og konsernregler for interninvesteringer i samme konsern."
 ---

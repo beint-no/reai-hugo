@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1260 – Bygninger med annen avskrivningstid"
-seoTitle: "Konto 1260 | Bygninger med annen avskrivningstid | Kontoplan"
+seoTitle: "Konto 1260 | Bygninger med annen avskrivningstid | Kontoplan | Regnskap"
 description: "Konto 1260 i norsk kontoplan (NS 4102) brukes for bygninger som har avvikende økonomisk levetid. Lær når kontoen brukes, valg av avskrivningsperiode, bokføring og presentasjon."
 summary: "Konto 1260 i norsk kontoplan: bruk, avvikende avskrivningsperioder og bokføring for spesielle bygg."
 ---

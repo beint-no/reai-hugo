@@ -1,6 +1,6 @@
 ﻿---
 title: "Konto 1030 – Patenter"
-seoTitle: "Konto 1030 | Patenter | Kontoplan"
+seoTitle: "Konto 1030 | Patenter | Kontoplan | Regnskap"
 description: "Konto 1030 brukes for patenter som immaterielle eiendeler. Les om aktivering, verdsettelse, amortisering og regnskapsføring av patentrettigheter i norsk kontoplan."
 summary: "Konto 1030 i norsk kontoplan: patenter som immaterielle eiendeler, aktivering, amortisering og bokføring med eksempler."
 ---
