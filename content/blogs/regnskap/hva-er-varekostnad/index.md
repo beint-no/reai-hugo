@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er varekostnad?"
-seoTitle: "Hva er varekostnad?"
-description: '**Varekostnad** er den totale kostnaden en bedrift påløper for å anskaffe varer som skal selges videre til kunder. Dette begrepet er fundamentalt i regnskaps...'
+seoTitle: "Hva er varekostnad | Beregning og nøkkeltall"
+description: "Varekostnad er totale kostnader for å anskaffe varer som skal selges videre. Lær hvordan varekostnad beregnes, hvilke elementer som inngår, og hvordan den påvirker pris, bruttofortjeneste og resultatregnskap."
+summary: "Praktisk guide til varekostnad: komponenter, beregningsmetoder (FIFO, gjennomsnitt), avstemming mot lager og tips for bedre lønnsomhet."
 ---
 
 **Varekostnad** er den totale kostnaden en bedrift påløper for å anskaffe varer som skal selges videre til kunder. Dette begrepet er fundamentalt i regnskapsføring og omfatter ikke bare innkjøpsprisen, men alle direkte og indirekte kostnader som påløper for å få varene klare for salg. Varekostnad er en kritisk komponent i beregning av [kostpris](/blogs/regnskap/hva-er-kostpris "Hva er Kostpris? Komplett Guide til Kostnadsberegning") og påvirker direkte bedriftens [lønnsomhet](/blogs/regnskap/hva-er-overskudd "Hva er Overskudd? Komplett Guide til Lønnsomhet og Resultatberegning"). For handelsvirksomheter utgjør varekostnad ofte den største kostnadsposten og krever derfor nøyaktig beregning og oppfølging for å sikre korrekt [lagerbeholdning](/blogs/regnskap/hva-er-lagerbeholdning "Hva er Lagerbeholdning? Komplett Guide til Lagerstyring og Regnskapsføring") og optimal [varelager](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til Lagerforvaltning og Regnskapsføring")-styring som grunnlag for nøyaktig [resultatregnskap](/blogs/regnskap/hva-er-driftsregnskap "Hva er Driftsregnskap? Komplett Guide til Driftsresultat og Lønnsomhet").

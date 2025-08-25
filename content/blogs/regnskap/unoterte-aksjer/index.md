@@ -1,7 +1,8 @@
 ﻿---
 title: "Unoterte aksjer – Veileder til investering og regnskapsføring"
-seoTitle: "Unoterte aksjer “ Veileder til investering og regnskapsføring"
-description: '**Unoterte aksjer** er aksjer i selskaper som ikke er notert på børs eller annen regulert markedsplass. Dette innebærer begrenset likviditet, lavere grad av ...'
+seoTitle: "Unoterte aksjer | Investering, verdsettelse og regnskapsføring"
+description: "Unoterte aksjer er aksjer i selskaper uten børsnotering. Lær om risiko, likviditet, verdsettelsesmetoder og hvordan unoterte aksjer regnskapsføres i Norge."
+summary: "Hva er unoterte aksjer, hvordan verdsettes de og hvordan føres de i regnskap."
 ---
 
 **Unoterte aksjer** er aksjer i selskaper som ikke er notert på børs eller annen regulert markedsplass. Dette innebærer begrenset likviditet, lavere grad av offentlig informasjon og egne regler for verdsettelse og regnskapsføring.

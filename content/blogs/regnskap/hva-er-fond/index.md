@@ -2,6 +2,7 @@
 title: "Hva er Fond?"
 seoTitle: "Hva er Fond?"
 description: '**Fond** er en øremerket del av egenkapitalen som er bundet til et bestemt formål eller reserve. I norsk regnskap skilles det mellom **bundne fond** og **frie...'
+summary: 'Kort innføring i fond i regnskap: hva fond er, bundne vs. frie fond, typiske eksempler og hvordan de presenteres i balansen.'
 ---
 
 **Fond** er en øremerket del av egenkapitalen som er bundet til et bestemt formål eller reserve. I norsk regnskap skilles det mellom **bundne fond** og **frie fond**, som hver har ulike regler for disponering og bruk.

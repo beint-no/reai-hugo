@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er verdipapir?"
-seoTitle: "Hva er verdipapir?"
-description: 'En **verdipapir** er et omsettelig finansielt instrument som gir innehaveren rettigheter eller krav som kan omsettes på et regulert marked eller utenom børs. ...'
+seoTitle: "Hva er verdipapir | Typer og regnskapsmessig behandling"
+description: "Verdipapir er et omsettelig finansielt instrument som kan gi utbytte, rente eller kursgevinst. Lær om aksjer, obligasjoner, fond og derivater, samt hvordan verdipapirer klassifiseres og regnskapsføres."
+summary: "Kort innføring i verdipapirer: hovedtyper, hvorfor investere, og prinsipper for regnskapsføring i norske virksomheter."
 ---
 
 En **verdipapir** er et omsettelig finansielt instrument som gir innehaveren rettigheter eller krav som kan omsettes på et regulert marked eller utenom børs. Verdipapirer omfatter aksjer, obligasjoner, sertifikater, fondsenheter og derivater, og er sentrale byggesteiner i norsk kapitalforvaltning.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er varige driftsmidler?"
-seoTitle: "Hva er varige driftsmidler?"
-description: '**Varige driftsmidler** er en type [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler “ Komplett guide til betydning, klassifisering og regnskapsbehand...'
+seoTitle: "Hva er varige driftsmidler | Avskrivning og vurdering"
+description: "Varige driftsmidler er langsiktige materielle eiendeler som brukes i drift og avskrives over tid. Lær klassifisering, avskrivningsmetoder og regnskapsmessig behandling."
+summary: "Oversikt over varige driftsmidler: definisjon, eksempler, avskrivning og praktiske råd for korrekt bokføring."
 ---
 
 **Varige driftsmidler** er en type [driftsmidler](/blogs/regnskap/driftsmidler "Driftsmidler “ Komplett guide til betydning, klassifisering og regnskapsbehandling") og er **langsiktige materielle eiendeler** som brukes aktivt i bedriftens drift og er **avskrivbare** over tid. Disse eiendelene skiller seg fra andre [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap") ved at de har fysisk substans og brukes direkte i produksjon eller drift. Varige driftsmidler utgjør ofte den største delen av materielle [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Faste Eiendeler i Regnskap") og er kritiske for bedriftens operative kapasitet.

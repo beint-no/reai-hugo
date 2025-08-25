@@ -1,7 +1,8 @@
 ﻿---
 title: "Utbytteaksjer"
-seoTitle: "Utbytteaksjer"
-description: '**Utbytteaksjer** er aksjer i selskaper som deler ut jevnlige kontantutbetalinger til aksjonærene, kalt *utbytte*. Slike aksjer er populære blant investorer s...'
+seoTitle: "Utbytteaksjer | Hva er det, avkastning og risiko"
+description: "Utbytteaksjer er aksjer som gir jevnlige kontantutbetalinger til aksjonærer. Lær om utbytteavkastning, fordeler, risiko og hva du bør vurdere ved valg."
+summary: "En enkel guide til utbytteaksjer: definisjon, beregning av avkastning og vanlige fallgruver."
 ---
 
 **Utbytteaksjer** er aksjer i selskaper som deler ut jevnlige kontantutbetalinger til aksjonærene, kalt *utbytte*. Slike aksjer er populære blant investorer som søker **stabil inntekt** og langsiktig avkastning. Denne guiden gir deg alt du trenger å vite om utbytteaksjer i norsk marked, inkludert hvordan utbytteavkastning beregnes, eksempler på investeringer, risikofaktorer og kriterier for å velge de beste utbytteaksjene.

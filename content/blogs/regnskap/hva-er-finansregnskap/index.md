@@ -1,6 +1,7 @@
 ﻿---
 title: "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering"
 seoTitle: "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering"
+summary: 'Hva er finansregnskap? Kort guide til formål, standarder (NRS/IFRS), rapporter, måling og analyse for ekstern rapportering.'
 description: '**Finansregnskap** er den delen av [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som fokuserer på **ekstern rappor...'
 ---
 

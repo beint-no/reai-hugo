@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Utsatt Skatt?"
-seoTitle: "Hva er Utsatt Skatt?"
-description: '**Utsatt skatt** oppstår når den regnskapsmessige verdien av en eiendel eller forpliktelse avviker fra dens skattemessige grunnlag, og skatteeffekten derfor s...'
+title: "Hva er utsatt skatt?"
+seoTitle: "Hva er utsatt skatt | Midlertidige forskjeller forklart"
+description: "Utsatt skatt oppstår når regnskapsmessige verdier avviker fra skattemessige grunnlag. Lær hva utsatt skatt er, hvordan den beregnes, bokføres og skilles fra betalbar skatt."
+summary: "Kort guide til utsatt skatt, midlertidige forskjeller, beregning med norsk skattesats og praktiske eksempler på bokføring."
 ---
 
 **Utsatt skatt** oppstår når den regnskapsmessige verdien av en eiendel eller forpliktelse avviker fra dens skattemessige grunnlag, og skatteeffekten derfor skyves til fremtidige perioder.

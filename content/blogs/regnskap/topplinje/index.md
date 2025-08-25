@@ -1,7 +1,8 @@
 ﻿---
 title: "Topplinje i Norsk Regnskap"
-seoTitle: "Topplinje i Norsk Regnskap"
-description: '**Topplinje**, også kjent som **driftsinntekter** eller **omsetning**, er den øverste linjen i resultatregnskapet som viser selskapets totale inntekter før k...'
+seoTitle: "Topplinje i regnskap | Definisjon og beregning"
+description: "Topplinje i regnskap viser virksomhetens totale inntekter før kostnader, renter og skatt, og brukes til analyse av omsetning, vekst og nøkkeltall."
+summary: "Hva betyr topplinje i resultatregnskapet, hvordan beregnes den og hvorfor er den viktig for omsetning og nøkkeltall."
 ---
 
 **Topplinje**, også kjent som **driftsinntekter** eller **omsetning**, er den øverste linjen i resultatregnskapet som viser selskapets totale inntekter før kostnader, finansposter og skatt.

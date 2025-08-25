@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Velferdstiltak?"
-seoTitle: "Hva er Velferdstiltak?"
-description: '**Velferdstiltak** er ytelser og ordninger som sikrer arbeidstakernes velferd og trygghet gjennom arbeidsforholdet. For arbeidsgivere representerer velferdstilt...'
+title: "Hva er velferdstiltak?"
+seoTitle: "Hva er velferdstiltak | Skatteregler for ansatte"
+description: "Velferdstiltak er ordninger og ytelser som gir ansatte velferd og trygghet. Lær om lovpålagte og frivillige tiltak, skatteregler, regnskapsføring og beste praksis for arbeidsgivere."
+summary: "Oversikt over velferdstiltak: kategorier, skattemessig behandling, regnskapsføring og praktiske råd for utforming av ordninger."
 ---
 
 **Velferdstiltak** er ytelser og ordninger som sikrer arbeidstakernes velferd og trygghet gjennom arbeidsforholdet. For arbeidsgivere representerer velferdstiltak både en sosial forpliktelse og en strategisk investering som påvirker [lønnskostnader](/blogs/regnskap/lonnskostnad "Lønnskostnad - Komplett Guide til Beregning og Regnskapsføring"), [personaladministrasjon](/blogs/regnskap/hva-er-personaladministrasjon "Hva er Personaladministrasjon? Komplett Guide til HR og Lønnsrutiner") og [skattepliktige fordeler](/blogs/regnskap/hva-er-skattepliktig-inntekt "Hva er Skattepliktig Inntekt? Beregning og Optimalisering"). Forståelse av velferdstiltak er kritisk for korrekt regnskapsføring og optimalisering av ansattes totale kompensasjonspakke.

@@ -2,6 +2,7 @@
 title: "Hva er fiskerfradrag?"
 seoTitle: "Hva er fiskerfradrag?"
 description: '**Fiskerfradrag** er et særskilt **skattefradrag** for fiskeri- og havbruksnæringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkår, beregni...'
+summary: 'Hva fiskerfradrag er, hvem som kan få det, satser, vilkår, beregning og regnskapsføring.'
 ---
 
 **Fiskerfradrag** er et særskilt **skattefradrag** for fiskeri- og havbruksnæringen i Norge. Denne artikkelen gir en detaljert gjennomgang av vilkår, beregning, dokumentasjonskrav og regnskapsføring av fiskerfradrag.

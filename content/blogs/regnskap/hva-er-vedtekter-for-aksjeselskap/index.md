@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Vedtekter for Aksjeselskap?"
-seoTitle: "Hva er Vedtekter for Aksjeselskap?"
-description: '**Vedtekter for aksjeselskap** er obligatoriske juridiske bestemmelser som regulerer hvordan et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva ...'
+title: "Hva er vedtekter for aksjeselskap?"
+seoTitle: "Vedtekter for aksjeselskap | Krav og innhold"
+description: "Vedtekter er obligatoriske regler som styrer et aksjeselskap. Lær hvilke krav aksjeloven stiller, hva vedtekter må inneholde og hvordan endringer vedtas og registreres."
+summary: "En praktisk gjennomgang av vedtekter for AS: lovpålagte punkter, valgfrie bestemmelser, endringsprosesser og effekter på regnskap og styring."
 ---
 
 **Vedtekter for aksjeselskap** er obligatoriske juridiske bestemmelser som regulerer hvordan et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") skal organiseres og drives. Vedtektene fungerer som selskapets grunnlov og må utarbeides i henhold til [aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Hva er Aksjeloven? Regler for Aksjeselskaper i Norge"). De definerer selskapets **formål**, **aksjekapital**, **styringsstruktur** og andre fundamentale forhold som påvirker både [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring") og daglig drift.

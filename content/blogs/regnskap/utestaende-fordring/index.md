@@ -1,7 +1,8 @@
 ﻿---
 title: "Utestående Fordring"
-seoTitle: "Utestående Fordring"
-description: '**Utestående Fordring** er den delen av din **kundefordring** som ennå ikke er betalt innen forfallsdato, og representerer en risiko for likviditet og kreditt...'
+seoTitle: "Utestående fordring | Oppfølging, aldersanalyse og tap"
+description: "Utestående fordring er kundefordring som ikke er betalt ved forfall. Lær om oppfølging, aldersanalyse, tapsavsetninger og inkassoprosess."
+summary: "Hva betyr utestående fordring og hvordan følger du opp med aldersanalyse og inkasso."
 ---
 
 **Utestående Fordring** er den delen av din **kundefordring** som ennå ikke er betalt innen forfallsdato, og representerer en risiko for likviditet og kredittrisiko. Effektiv styring av utestående fordringer krever systematisk oppfølging, aldersanalyse og beslutningsprosesser for nedskrivning eller inkasso.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Utgift"
-seoTitle: "Utgift"
-description: '**Utgift** er en **betaling** eller annen form for forbruk av økonomiske ressurser som medfører en reduksjon i virksomhetens likvide midler eller økning i gj...'
+seoTitle: "Utgift | Definisjon, typer og regnskapsføring"
+description: "Utgift er betalingen for varer og tjenester og skiller seg fra kostnad som periodiseres. Lær hovedtyper, riktig bokføring og vanlige feil."
+summary: "Kort forklart: hva er en utgift, hvordan bokføres den og hva skiller den fra kostnad."
 ---
 
 **Utgift** er en **betaling** eller annen form for forbruk av økonomiske ressurser som medfører en reduksjon i virksomhetens likvide midler eller økning i gjeld. En utgift representerer tidspunktet for utbetalingen av en kostnad, og skiller seg dermed fra **kostnad**, som beskriver forbruket av økonomiske ressurser over perioder. For en dypere forståelse av kostnadsbegrepet, se [Hva er kostnader?](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader i Regnskap? Komplett Guide til Kostnadstyper og Regnskapsføring").

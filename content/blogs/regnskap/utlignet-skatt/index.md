@@ -1,7 +1,8 @@
 ﻿---
 title: "Utlignet skatt"
-seoTitle: "Utlignet skatt"
-description: '**Utlignet skatt** er den endelige skatteposten som fastsettes av skattemyndighetene i skatteoppgjøret. Den representerer det beløpet virksomheten enten må b...'
+seoTitle: "Utlignet skatt | Hva betyr resultatet i skatteoppgjøret"
+description: "Utlignet skatt er endelig fastsatt i skatteoppgjøret etter motregning av forskuddsskatt. Slik tolker du restskatt, tilgodebeløp og bokfører postene."
+summary: "Kort om utlignet skatt: definisjon, beregning og sammenheng med restskatt og tilgodebeløp."
 ---
 
 **Utlignet skatt** er den endelige skatteposten som fastsettes av skattemyndighetene i skatteoppgjøret. Den representerer det beløpet virksomheten enten må betale ved restskatt eller får til gode ved tilgodebeløp.

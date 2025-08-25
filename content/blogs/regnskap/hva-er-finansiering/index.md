@@ -2,6 +2,7 @@
 title: "Hva er Finansiering?"
 seoTitle: "Hva er Finansiering?"
 description: 'Finansiering er den kritiske prosessen med å skaffe kapital for å finansiere en bedrifts drift, investeringer og vekstambisjoner. Det er fundamentet som gjør...'
+summary: 'En lettlest oversikt over finansiering: kilder, strategier og regnskapseffekter, fra egenkapital og lån til factoring og crowdfunding.'
 ---
 
 Finansiering er den kritiske prosessen med å skaffe kapital for å finansiere en bedrifts drift, investeringer og vekstambisjoner. Det er fundamentet som gjør det mulig for bedrifter å etablere seg, ekspandere og opprettholde konkurranseevnen i markedet. Denne omfattende guiden utforsker alle aspekter ved bedriftsfinansiering, fra grunnleggende konsepter til avanserte strategier.

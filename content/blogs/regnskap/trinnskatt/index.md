@@ -1,7 +1,8 @@
 ﻿---
 title: "Trinnskatt"
-seoTitle: "Trinnskatt"
-description: '![Trinnskatt](trinnskatt-image.svg)'
+seoTitle: "Trinnskatt | Satser, beregning og eksempler"
+description: "Trinnskatt er en progressiv skatt på personinntekt i Norge. Lær om inntektstrinn, satser og beregning med eksempler for 2024."
+summary: "Oversikt over trinnskatt: innslagspunkter, satser og hvordan den beregnes."
 ---
 
 ![Trinnskatt](trinnskatt-image.svg)

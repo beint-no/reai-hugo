@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Tvangsmulkt?"
-seoTitle: "Hva er Tvangsmulkt?"
-description: '**Tvangsmulkt** er en **økonomisk sanksjon** som ilegges som dagbøter ved manglende eller forsinket **lovpålagt rapportering** til offentlige myndigheter som...'
+seoTitle: "Tvangsmulkt | Dagbøter, satser og hvordan unngå gebyr"
+description: "Tvangsmulkt er dagbøter ved manglende eller forsinket lovpålagt rapportering til myndighetene. Lær satser, lovgrunnlag og tiltak for å unngå gebyr."
+summary: "Hva er tvangsmulkt, hvilke satser gjelder og hvilke rutiner hindrer dagbøter."
 ---
 
 **Tvangsmulkt** er en **økonomisk sanksjon** som ilegges som dagbøter ved manglende eller forsinket **lovpålagt rapportering** til offentlige myndigheter som Skatteetaten via [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Norges Digitale Portal for Næringsliv og Privatpersoner"). Formålet er å sikre at bedrifter overholder sine rapporteringsfrister for blant annet [A-melding](/blogs/regnskap/hva-er-a-melding "Hva er A-meldingen?") og [MVA-melding](/blogs/regnskap/hva-er-mva-melding "Hva er MVA-melding?").

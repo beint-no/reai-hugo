@@ -1,7 +1,8 @@
 ﻿---
 title: "Totalkapital"
-seoTitle: "Totalkapital"
-description: '**Totalkapital** er den totale kapitalen som finansierer en virksomhet, definert som summen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapi...'
+seoTitle: "Totalkapital | Definisjon, formel og nøkkeltall"
+description: "Totalkapital er summen av egenkapital og gjeld, lik virksomhetens aktiva. Lær formel, bruk i analyse og sammenhengen med soliditet og rentabilitet."
+summary: "Hva er totalkapital, hvordan beregnes den og hvorfor er den viktig i regnskapsanalyse."
 ---
 
 **Totalkapital** er den totale kapitalen som finansierer en virksomhet, definert som summen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") og [gjeld](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld? Guide til Gjeldstyper i Regnskap"). Totalkapitalen tilsvarer også [aktiva](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Oversikt over Aktiva og Totalkapital") i balansen og gir innsikt i bedriftens kapitalstruktur.

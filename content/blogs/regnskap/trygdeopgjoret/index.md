@@ -1,7 +1,8 @@
 ﻿---
 title: "Trygdeopgjøret"
-seoTitle: "Trygdeopgjøret"
-description: '**Trygdeopgjøret** er det **årlige oppgjøret** av betalte trygdeavgifter og beregnede ytelser i **[folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er ...'
+seoTitle: "Trygdeopgjøret | Årlig oppgjør av trygdeavgift og ytelser"
+description: "Trygdeopgjøret er det årlige oppgjøret av betalte trygdeavgifter og beregnede ytelser i folketrygden. Slik forbereder virksomheter seg og unngår feil."
+summary: "Hva er trygdeopgjøret, frister, steg og konsekvenser ved feil rapportering."
 ---
 
 **Trygdeopgjøret** er det **årlige oppgjøret** av betalte trygdeavgifter og beregnede ytelser i **[folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem")**. Oppgjøret sikrer at både arbeidstakere, arbeidsgivere og myndigheter får oversikt over innbetalt trygdeavgift, opptjente rettigheter og eventuelle korrigeringer.

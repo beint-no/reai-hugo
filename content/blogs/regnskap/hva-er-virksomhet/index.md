@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er en virksomhet?"
-seoTitle: "Hva er en virksomhet?"
-description: '**Virksomhet** er den grunnleggende regnskapsenheten som omfatter alle aktiviteter, eiendeler og forpliktelser som tilhører en økonomisk enhet. I norsk regnsk...'
+seoTitle: "Hva er virksomhet | Definisjon i regnskap og skatt"
+description: "Virksomhet er regnskapsenheten som omfatter alle aktiviteter, eiendeler og forpliktelser i en økonomisk enhet. Lær hvordan virksomhetsbegrepet avgrenses i norsk regnskap og skatt."
+summary: "Kort forklaring av virksomhet som regnskapsenhet, forskjellen mot foretak og næringsvirksomhet, og krav til bokføring og rapportering."
 ---
 
 **Virksomhet** er den grunnleggende regnskapsenheten som omfatter alle aktiviteter, eiendeler og forpliktelser som tilhører en økonomisk enhet. I norsk regnskapslovgivning definerer virksomhetsbegrepet hva som skal inkluderes i regnskapet, og hvordan regnskapet skal avgrenses.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Unntatt MVA"
-seoTitle: "Unntatt MVA"
-description: '**Unntatt MVA** refererer til varer og tjenester som i henhold til norsk regelverk ikke belastes merverdiavgift. Å kjenne til hvilke leveranser som er **unntat...'
+seoTitle: "Unntatt MVA | Hva betyr unntak fra merverdiavgift"
+description: "Unntatt MVA betyr at varer og tjenester ikke belastes merverdiavgift etter norske regler. Lær forskjellen fra 0-sats og hvilke leveranser som er unntatt."
+summary: "Forklart: unntatt MVA, typiske eksempler og praktiske råd for fakturering."
 ---
 
 **Unntatt MVA** refererer til varer og tjenester som i henhold til norsk regelverk ikke belastes merverdiavgift. Å kjenne til hvilke leveranser som er **unntatt MVA** er avgjørende for korrekt fakturering og regnskapsføring i bedriften.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er varemerke?"
-seoTitle: "Hva er varemerke?"
-description: '**Varemerke** er et juridisk beskyttet kjennetegn som identifiserer varer eller tjenester og gir rettighetshaver enerett til bruk. I norsk regnskap klassifisere...'
+seoTitle: "Hva er varemerke | Immaterielle eiendeler i regnskap"
+description: "Varemerke er et juridisk beskyttet kjennetegn som identifiserer varer eller tjenester. Lær hvordan varemerker behandles som immaterielle eiendeler i regnskap med aktivering, amortisering og nedskrivning."
+summary: "Kort innføring i varemerker: rettslig grunnlag, regnskapsmessig behandling og praktiske eksempler på amortisering."
 ---
 
 **Varemerke** er et juridisk beskyttet kjennetegn som identifiserer varer eller tjenester og gir rettighetshaver enerett til bruk. I norsk regnskap klassifiseres varemerker som **immaterielle eiendeler** og behandles etter prinsippene for aktivering, amortisering og mulige nedskrivninger.

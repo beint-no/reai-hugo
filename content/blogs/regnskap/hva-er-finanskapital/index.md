@@ -2,6 +2,7 @@
 title: "Hva er Finanskapital?"
 seoTitle: "Hva er Finanskapital?"
 description: '**Finanskapital** er penger og finansielle instrumenter som kan brukes til å finansiere investeringer og drift i en bedrift. I motsetning til realkapital (fysi...'
+summary: 'Hva finanskapital er, hvilke typer som finnes, og hvordan den forvaltes og bokføres i regnskapet.'
 ---
 
 **Finanskapital** er penger og finansielle instrumenter som kan brukes til å finansiere investeringer og drift i en bedrift. I motsetning til realkapital (fysiske eiendeler som maskiner og bygninger), representerer finanskapital den likvide kapitalen som kan omdannes til andre former for [eiendeler](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Komplett Guide til Eiendeler i Regnskap") eller brukes direkte i forretningsoperasjoner.

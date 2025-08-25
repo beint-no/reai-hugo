@@ -2,6 +2,7 @@
 title: "Hva er Foretaksregisteret?"
 seoTitle: "Hva er Foretaksregisteret?"
 description: '**Foretaksregisteret** er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregist...'
+summary: 'Hva Foretaksregisteret er, hvilke opplysninger som registreres, hvilke selskaper som må registreres og hvordan prosessen foregår.'
 ---
 
 **Foretaksregisteret** er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregistrene? En Guide til Norges Registerforvalter") og inneholder informasjon om alle registrerte foretak i Norge. Registeret sikrer at selskapsinformasjon er tilgjengelig for myndigheter, næringsliv og publikum, og danner grunnlaget for juridiske og administrative prosesser knyttet til norske virksomheter.

@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Vederlag i Regnskap?"
-seoTitle: "Hva er Vederlag i Regnskap?"
-description: '**Vederlag** i regnskap refererer til den **økonomiske kompensasjonen** som mottas eller ytes som betaling for varer, tjenester eller andre ytelser. Dette er e...'
+title: "Hva er vederlag i regnskap?"
+seoTitle: "Hva er vederlag | Betydning i økonomi og kontrakter"
+description: "Vederlag er økonomisk kompensasjon for varer, tjenester eller andre ytelser. Lær betydningen av vederlag i regnskap, måling, periodisering og vanlige eksempler."
+summary: "Kort forklaring av vederlag, hvordan det beregnes og hvorfor korrekt måling er viktig for inntektsføring og kostnadsføring."
 ---
 
 **Vederlag** i regnskap refererer til den **økonomiske kompensasjonen** som mottas eller ytes som betaling for varer, tjenester eller andre ytelser. Dette er et avgjørende begrep i *norsk regnskapsføring* og danner grunnlaget for korrekt [inntektsføring](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektsføring i Regnskap") og [kostnadsføring](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader? Komplett Guide til Kostnadstyper og Regnskapsføring").

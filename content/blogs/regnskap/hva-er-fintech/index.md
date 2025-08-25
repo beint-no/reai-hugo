@@ -2,6 +2,7 @@
 title: "Hva er Fintech?"
 seoTitle: "Hva er Fintech?"
 description: '**Fintech** (finansteknologi) representerer den revolusjonerende sammensmeltingen av finansielle tjenester og avansert teknologi. Dette dynamiske feltet transfo...'
+summary: 'Hva fintech er, eksempler på løsninger og hvordan teknologien påvirker regnskap, betalinger og rapportering.'
 ---
 
 **Fintech** (finansteknologi) representerer den revolusjonerende sammensmeltingen av finansielle tjenester og avansert teknologi. Dette dynamiske feltet transformerer hvordan bedrifter håndterer [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring"), betalinger, og finansielle prosesser. Fra automatisert [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Bokføringsprinsipper") til kunstig intelligens-drevne analyser, fintech redefinerer den finansielle landskapet og skaper nye muligheter for effektivitet og innovasjon.

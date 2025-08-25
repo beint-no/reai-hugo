@@ -2,6 +2,7 @@
 title: "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner"
 seoTitle: "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner"
 description: 'En **forening** er en sammenslutning av personer som har sluttet seg sammen for å fremme felles interesser eller oppnå et bestemt formål. I regnskapssammenhe...'
+summary: 'Hva en forening er, regnskapsplikt og bokføringsregler, behandling av kontingent, tilskudd og beste praksis for økonomistyring.'
 ---
 
 En **forening** er en sammenslutning av personer som har sluttet seg sammen for å fremme felles interesser eller oppnå et bestemt formål. I regnskapssammenheng har foreninger særlige krav og regler som skiller seg fra ordinære [aksjeselskaper](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til AS i Norge") og [enkeltpersonforetak](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er Enkeltpersonforetak? Komplett Guide til ENK i Norge"). Denne artikkelen gir en omfattende oversikt over regnskapsføring for foreninger og organisasjoner i Norge.

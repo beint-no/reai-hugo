@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er varelager?"
-seoTitle: "Hva er varelager?"
-description: '**Varelager** består av varer som en bedrift holder på lager for videresalg til kunder, og representerer en av de mest kritiske [omløpsmidlene](/blogs/regnsk...'
+seoTitle: "Hva er varelager | Vurdering og regnskapsføring"
+description: "Varelager er varer som holdes for videresalg og er en sentral del av omløpsmidlene. Lær om verdivurdering, lagerstyring, metoder som FIFO og vektet gjennomsnitt, og hvordan lager påvirker kontantstrøm og resultat."
+summary: "Komplett guide til varelager: klassifisering, verdivurderingsmetoder, avstemming og beste praksis for nøyaktig regnskapsføring."
 ---
 
 **Varelager** består av varer som en bedrift holder på lager for videresalg til kunder, og representerer en av de mest kritiske [omløpsmidlene](/blogs/regnskap/hva-er-omlopsmiddel "Hva er Omløpsmidler? Komplett Guide til Kortsiktige Eiendeler") i balansen. Varelageret er et fysisk og regnskapsmessig lager av produkter som bedriften har kjøpt eller produsert med formål om å selge dem videre i sin ordinære virksomhet. For mange bedrifter utgjør varelageret den største enkeltposten blant omløpsmidlene og krever derfor nøyaktig [verdivurdering](/blogs/regnskap/hva-er-balansebasert-verdivurdering "Hva er Balansebasert Verdivurdering? Guide til Eiendelvurdering") og systematisk styring for å optimalisere [arbeidskapitalen](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Komplett Guide til Likviditetsstyring") og sikre korrekt [resultatregnskap](/blogs/regnskap/resultatregnskap "Hva er Resultatregnskap? Komplett Guide til Resultatregnskap i Norge").

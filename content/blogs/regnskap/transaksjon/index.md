@@ -1,7 +1,8 @@
 ﻿---
 title: "Transaksjon"
-seoTitle: "Transaksjon"
-description: 'En **transaksjon** er enhver økonomisk hendelse eller bytte av verdier mellom to parter som påvirker et foretaks **finansielle stilling**. I norsk regnskap da...'
+seoTitle: "Transaksjon | Definisjon, typer og bokføring"
+description: "En transaksjon er en økonomisk hendelse som påvirker virksomhetens finansielle stilling. Lær typer transaksjoner, dokumentasjonskrav og bokføring."
+summary: "Hva er en transaksjon i regnskap, hvilke typer finnes og hvordan bokføres de."
 ---
 
 En **transaksjon** er enhver økonomisk hendelse eller bytte av verdier mellom to parter som påvirker et foretaks **finansielle stilling**. I norsk regnskap danner transaksjoner grunnlaget for all [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"), [bilagsføring](/blogs/regnskap/hva-er-bilagsforing "Hva er Bilagsføring? Komplett Guide til Bilagsbehandling og Dokumentasjon") og [dobbel bokføring](/blogs/regnskap/hva-er-dobbel-bokforing "Hva er Dobbel bokføring? En Komplett Guide til Dobbelt Bokføringssystem").

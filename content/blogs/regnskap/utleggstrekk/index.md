@@ -1,7 +1,8 @@
 ﻿---
 title: "Utleggstrekk"
-seoTitle: "Utleggstrekk"
-description: '**Utleggstrekk** er en **prosedyre** hvor arbeidsgivere pålegges å trekke deler av ansattes lønn for dekning av gjeld, basert på et varsel fra [Namsmannen](...'
+seoTitle: "Utleggstrekk | Lønnstrekk ved gjeld, fribeløp og rapportering"
+description: "Utleggstrekk er tvangsmessig lønnstrekk for å dekke gjeld etter varsel fra namsmannen. Lær beregning, fribeløp og hvordan arbeidsgiver rapporterer."
+summary: "Hva er utleggstrekk, hvordan beregnes fribeløp og hva må arbeidsgiver gjøre."
 ---
 
 **Utleggstrekk** er en **prosedyre** hvor arbeidsgivere pålegges å trekke deler av ansattes lønn for dekning av gjeld, basert på et varsel fra [Namsmannen](/blogs/regnskap/namsmannen "Namsmannen") eller annen tvangsmyndighet. Utleggstrekk brukes for å sikre at kreditorer får dekket utestående fordringer før utbetaling av nettolønn.

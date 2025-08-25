@@ -2,6 +2,7 @@
 title: "Hva er Fantegang?"
 seoTitle: "Hva er Fantegang?"
 description: 'Fantegang er en form for **sikringsrett** der kreditor tar besittelse av debitors eiendeler som sikkerhet for gjeld. Dette gir kreditor en prioritert stilling d...'
+summary: 'Kort forklaring av fantegang: hvordan kreditor kan holde eiendeler som sikkerhet, hva det betyr juridisk og hvordan det påvirker regnskapet.'
 ---
 
 Fantegang er en form for **sikringsrett** der kreditor tar besittelse av debitors eiendeler som sikkerhet for gjeld. Dette gir kreditor en prioritert stilling dersom debitor misligholder betalingsforpliktelsene.

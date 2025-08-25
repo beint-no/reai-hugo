@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Utleggsforretning?"
-seoTitle: "Hva er Utleggsforretning?"
-description: '**Utleggsforretning** er namsmannens *første skritt* i [tvangsfullbyrdelse](/blogs/regnskap/tvangsfullbyrdelse "Hva er Tvangsfullbyrdelse? Guide til Norsk Gjel...'
+seoTitle: "Utleggsforretning | Hva skjer, frister og rettsgrunnlag"
+description: "Utleggsforretning er namsmannens første steg i tvangsfullbyrdelse for å ta beslag i skyldners midler. Lær prosess, frister og hvilke eiendeler kan beslaglegges."
+summary: "Kort om utleggsforretning: steg i prosessen, lovverk og partenes ansvar."
 ---
 
 **Utleggsforretning** er namsmannens *første skritt* i [tvangsfullbyrdelse](/blogs/regnskap/tvangsfullbyrdelse "Hva er Tvangsfullbyrdelse? Guide til Norsk Gjelds- og Utleggfullbyrdelse")-prosessen for å beslaglegge skyldners midler eller eiendeler til dekning av rettskraftige krav.

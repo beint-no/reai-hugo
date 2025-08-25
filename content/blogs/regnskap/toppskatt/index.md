@@ -1,7 +1,8 @@
 ﻿---
 title: "Toppskatt"
-seoTitle: "Toppskatt"
-description: '**Toppskatt** er en ekstra skattesats som pålegges inntekter over visse terskelnivåer. Dette er en viktig del av det progressive norske skattesystemet, og på...'
+seoTitle: "Toppskatt | Satser, beregning og forskjell fra marginalskatt"
+description: "Toppskatt er en ekstra skatt på inntekt over bestemte innslagspunkter i Norge. Lær satser, beregning og hvordan toppskatt skiller seg fra marginalskatt."
+summary: "Hva er toppskatt, hvilke satser gjelder, og hvordan beregnes den i praksis."
 ---
 
 **Toppskatt** er en ekstra skattesats som pålegges inntekter over visse terskelnivåer. Dette er en viktig del av det progressive norske skattesystemet, og påvirker både privatpersoner og bedrifter med høy inntekt.
