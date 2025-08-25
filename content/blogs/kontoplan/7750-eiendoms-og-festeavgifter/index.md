@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7750 - Eiendoms- og festeavgifter"
-seoTitle: "7750-eiendoms-og-festeavgifter"
-description: '**Konto 7750 - Eiendoms- og festeavgifter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **eiendoms- og festeavgifter**, inkludert kommun...'
+seoTitle: "Konto 7750 | Eiendoms- og festeavgifter | Kontoplan"
+description: "Konto 7750 brukes til å bokføre eiendomsavgifter og festeavgifter. Lær bokføring, klassifisering, MVA-behandling og eksempel i Norsk Standard Kontoplan."
+summary: "Oversikt over konto 7750 for eiendoms- og festeavgifter, med praktiske eksempler på bokføring."
 ---
 
 **Konto 7750 - Eiendoms- og festeavgifter** er en konto i Norsk Standard Kontoplan som brukes til å registrere **eiendoms- og festeavgifter**, inkludert kommunale eiendomsskatter og festeavgifter for grunnleie.

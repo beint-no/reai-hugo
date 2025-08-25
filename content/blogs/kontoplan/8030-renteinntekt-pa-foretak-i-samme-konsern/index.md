@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 8030 - Renteinntekt på foretak i samme konsern?"
-seoTitle: "8030-renteinntekt-pa-foretak-i-samme-konsern"
-description: '**Konto 8030 - Renteinntekt på foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **renteinntekter** fra foretak i s...'
+title: "Konto 8030 - Renteinntekt på foretak i samme konsern"
+seoTitle: "Konto 8030 | Renteinntekt på foretak i samme konsern | Kontoplan"
+description: "Konto 8030 brukes til renteinntekt fra foretak i samme konsern. Lær føring, konsolidering, internprising og eksempler i Norsk Standard Kontoplan."
+summary: "Kort guide til konto 8030 for konserninterne renteinntekter, med føring og hensyn."
 ---
 
 **Konto 8030 - Renteinntekt på foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **renteinntekter** fra foretak i samme konsern, typisk fra konserninterne lån og fordringer.

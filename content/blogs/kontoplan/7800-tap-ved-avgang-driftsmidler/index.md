@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7800 - Tap ved avgang driftsmidler"
-seoTitle: "7800-tap-ved-avgang-driftsmidler"
-description: '**Konto 7800 - Tap ved avgang driftsmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap ved avgang driftsmidler**.'
+seoTitle: "Konto 7800 | Tap ved avgang driftsmidler | Kontoplan"
+description: "Konto 7800 brukes til å bokføre tap ved avgang av driftsmidler. Lær beregning, bokføring, MVA-hensyn og rapportering i Norsk Standard Kontoplan."
+summary: "Kort forklaring av konto 7800 for tap ved avgang av driftsmidler, med beregning og føring."
 ---
 
 **Konto 7800 - Tap ved avgang driftsmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap ved avgang driftsmidler**.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7910 - Ukurante varer"
-seoTitle: "7910-ukurante-varer"
-description: '**Konto 7910 - Ukurante varer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **verdifall på ukurante varer** som en driftskostnad i resu...'
+seoTitle: "Konto 7910 | Ukurante varer | Kontoplan"
+description: "Konto 7910 brukes til nedskrivning av ukurante varer. Lær kriterier, bokføring, eksempler og relaterte lagerkonti i Norsk Standard Kontoplan."
+summary: "Kort om konto 7910 for ukurante varer: når du nedskriver og hvordan det føres."
 ---
 
 **Konto 7910 - Ukurante varer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **verdifall på ukurante varer** som en driftskostnad i resultatregnskapet.

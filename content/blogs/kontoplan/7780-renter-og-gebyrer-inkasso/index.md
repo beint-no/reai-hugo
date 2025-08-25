@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7780 - Renter og gebyrer inkasso"
-seoTitle: "7780-renter-og-gebyrer-inkasso"
-description: '**Konto 7780 - Renter og gebyrer inkasso** er en konto i Norsk Standard Kontoplan som brukes til å registrere **renter og gebyrer** som påløper i forbindelse...'
+seoTitle: "Konto 7780 | Renter og gebyrer inkasso | Kontoplan"
+description: "Konto 7780 brukes til å bokføre renter og gebyrer ved inkasso. Se bokføring, typiske komponenter, inntektsføring og praktiske eksempler i Norsk Standard Kontoplan."
+summary: "Forklaring av konto 7780 for renter og gebyrer ved inkasso, med føringsregler og eksempler."
 ---
 
 **Konto 7780 - Renter og gebyrer inkasso** er en konto i Norsk Standard Kontoplan som brukes til å registrere **renter og gebyrer** som påløper i forbindelse med **inkassoprosesser**.

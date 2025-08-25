@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7745 - Øreavrunding, avgiftspliktig"
-seoTitle: "7745-oreavrunding-avgiftspliktig"
-description: '**Konto 7745 - Øreavrunding, avgiftspliktig** er en konto i **Norsk Standard Kontoplan** som brukes til å bokføre **øreavrunding** ved **avgiftspliktige tra...'
+seoTitle: "Konto 7745 | Øreavrunding, avgiftspliktig | Kontoplan"
+description: "Konto 7745 brukes til øreavrunding ved avgiftspliktige transaksjoner. Lær bokføring, typiske føringer, MVA-behandling og eksempel i Norsk Standard Kontoplan."
+summary: "Kort guide til konto 7745 for øreavrunding ved avgiftspliktige transaksjoner, med bokføring og eksempel."
 ---
 
 **Konto 7745 - Øreavrunding, avgiftspliktig** er en konto i **Norsk Standard Kontoplan** som brukes til å bokføre **øreavrunding** ved **avgiftspliktige transaksjoner**, som oppstår når beløp må rundes til nærmeste krone.

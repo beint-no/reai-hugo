@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7746 - Øreavrunding, avgiftsfritt"
-seoTitle: "7746-oreavrunding-avgiftsfritt"
-description: '**Konto 7746 - Øreavrunding, avgiftsfritt** er en konto i **Norsk Standard Kontoplan** som brukes til å bokføre **øreavrunding** ved **avgiftsfrie transaksj...'
+seoTitle: "Konto 7746 | Øreavrunding, avgiftsfritt | Kontoplan"
+description: "Konto 7746 brukes til øreavrunding ved avgiftsfrie transaksjoner. Lær bokføring, typiske føringer, MVA-relevans og eksempel i Norsk Standard Kontoplan."
+summary: "Kort guide til konto 7746 for øreavrunding ved avgiftsfrie transaksjoner, med bokføring og eksempel."
 ---
 
 **Konto 7746 - Øreavrunding, avgiftsfritt** er en konto i **Norsk Standard Kontoplan** som brukes til å bokføre **øreavrunding** ved **avgiftsfrie transaksjoner**, som oppstår når beløp uten merverdiavgift må rundes til nærmeste krone.

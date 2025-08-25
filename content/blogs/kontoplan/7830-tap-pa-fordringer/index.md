@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7830 - Tap på fordringer"
-seoTitle: "7830-tap-pa-fordringer"
-description: '**Konto 7830 - Tap på fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap på fordringer** som en **driftskostnad** når kun...'
+seoTitle: "Konto 7830 | Tap på fordringer | Kontoplan"
+description: "Konto 7830 brukes til å bokføre tap på fordringer. Lær når tap konstateres, sammenhengen med avsetninger og bokføringseksempler i Norsk Standard Kontoplan."
+summary: "Guide til konto 7830 for tap på fordringer, med regler for konstatering og føring."
 ---
 
 **Konto 7830 - Tap på fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **tap på fordringer** som en **driftskostnad** når kundefordringer ikke blir innfridd.

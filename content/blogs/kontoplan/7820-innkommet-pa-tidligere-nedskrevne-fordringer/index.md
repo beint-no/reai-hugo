@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7820 - Innkommet på tidligere nedskrevne fordringer"
-seoTitle: "7820-innkommet-pa-tidligere-nedskrevne-fordringer"
-description: '**Konto 7820 - Innkommet på tidligere nedskrevne fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **innbetalinger på tidligere...'
+seoTitle: "Konto 7820 | Innkommet på tidligere nedskrevne fordringer | Kontoplan"
+description: "Konto 7820 brukes når tidligere nedskrevne fordringer blir betalt. Se bokføring, reversering av tapsavsetning og eksempler i Norsk Standard Kontoplan."
+summary: "Oversikt over konto 7820: innbetaling på tidligere nedskrevne fordringer, med føringsregler."
 ---
 
 **Konto 7820 - Innkommet på tidligere nedskrevne fordringer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **innbetalinger på tidligere nedskrevne fordringer** som nå kreves inn.

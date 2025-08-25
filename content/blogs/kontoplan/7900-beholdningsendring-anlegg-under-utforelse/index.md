@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 7900 - Beholdningsendring anlegg under utførelse"
-seoTitle: "7900-beholdningsendring-anlegg-under-utforelse"
-description: '**Konto 7900 - Beholdningsendring anlegg under utførelse** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i beholdning av anle...'
+seoTitle: "Konto 7900 | Beholdningsendring anlegg under utførelse | Kontoplan"
+description: "Konto 7900 brukes til beholdningsendringer for anlegg under utførelse. Lær reglene, bokføring, periodisering og eksempel i Norsk Standard Kontoplan."
+summary: "Kort om konto 7900 for beholdningsendring av anlegg under utførelse, med føring og eksempel."
 ---
 
 **Konto 7900 - Beholdningsendring anlegg under utførelse** er en konto i Norsk Standard Kontoplan som brukes til å registrere **endringer i beholdning av anlegg under utførelse**, det vil si varige driftsmidler under tilvirkning, i resultatregnskapet.
