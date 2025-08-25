@@ -1,7 +1,8 @@
 ﻿---
-title: "Velferdspermisjon: Rettigheter, Regnskapsføring og Skattemessig Behandling"
-seoTitle: "Velferdspermisjon: Rettigheter, Regnskapsføring og Skattemessig Behandling"
-description: '**Velferdspermisjon** gir ansatte rett til permisjon ved visse livshendelser eller behov utover ordinær **sykepenge**‘ og **foreldrepengelovgivning**. Dette ...'
+title: "Velferdspermisjon: Rettigheter, regnskap og skatt"
+seoTitle: "Velferdspermisjon | Rettigheter, regnskap og skatt"
+description: "Velferdspermisjon gir ansatte fri ved viktige behov som sykdom i nær familie, utdanning eller tillitsverv. Artikkelen forklarer typer permisjon, lønn og refusjon, og hvordan kostnader og refusjonskrav føres korrekt i regnskapet."
+summary: "Praktisk veiledning til velferdspermisjon: typer, lønn, NAV-refusjon og regnskapsføring."
 ---
 
 **Velferdspermisjon** gir ansatte rett til permisjon ved visse livshendelser eller behov utover ordinær **sykepenge**‘ og **foreldrepengelovgivning**. Dette omfatter blant annet omsorg for nære familiemedlemmer, egen utdanning eller deltakelse i offentlige verv.

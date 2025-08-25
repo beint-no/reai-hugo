@@ -1,7 +1,8 @@
 ﻿---
 title: "Ukurans"
-seoTitle: "Ukurans"
-description: '**Ukurans** er **nedskrivning** av varelager som ikke lenger kan realiseres til full verdi. Korrekt håndtering av ukurans sikrer at balansen gjenspeiler reell ...'
+seoTitle: "Ukurans | Nedskrivning av varelager og regnskapsregler"
+description: "Ukurans er nedskrivning av varelager som ikke kan selges til full verdi. Les om når ukurans oppstår, norske og IFRS-regler, dokumentasjonskrav og hvordan nedskrivningen beregnes og føres i regnskapet."
+summary: "Hva er ukurans i varelager, hvilke regler gjelder og hvordan bokføre korrekt."
 ---
 
 **Ukurans** er **nedskrivning** av varelager som ikke lenger kan realiseres til full verdi. Korrekt håndtering av ukurans sikrer at balansen gjenspeiler reell **netto realisasjonsverdi** av lagerbeholdningen, i samsvar med [regnskapsregler](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Oversikt over Regnskapets Lovverk").

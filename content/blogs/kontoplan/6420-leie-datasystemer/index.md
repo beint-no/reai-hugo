@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6420 - Leie datasystemer"
-seoTitle: "6420-leie-datasystemer"
-description: '**Konto 6420 - Leie datasystemer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av datasystemer** i virksomhetens drift.'
+seoTitle: "Konto 6420 | Leie datasystemer | Kontoplan"
+description: "Konto 6420 i norsk kontoplan brukes til å føre leiekostnader for datasystemer, programvare og skytjenester. Lær bokføring, eksempler og relaterte kontoer."
+summary: "Slik fører du leie av datasystemer på konto 6420, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6420 - Leie datasystemer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av datasystemer** i virksomhetens drift.

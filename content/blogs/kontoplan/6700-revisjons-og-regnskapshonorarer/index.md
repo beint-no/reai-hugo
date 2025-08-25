@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6700 - Revisjons- og regnskapshonorarer"
-seoTitle: "6700-revisjons-og-regnskapshonorarer"
-description: '**Konto 6700 - Revisjons- og regnskapshonorarer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til revisjonshonorarer og regn...'
+seoTitle: "Konto 6700 | Revisjons- og regnskapshonorarer | Kontoplan"
+description: "Konto 6700 i norsk kontoplan brukes til å føre kostnader til revisjon og regnskapsføring. Se bokføringseksempler, typiske transaksjoner og relaterte kontoer."
+summary: "Slik fører du revisjons- og regnskapshonorarer på konto 6700, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6700 - Revisjons- og regnskapshonorarer** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til revisjonshonorarer og regnskapsføring**. Disse kostnadene inkluderer honorarer til revisor, regnskapsfører og andre rådgivningstjenester knyttet til økonomisk rapportering og revisjon.

@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Verdiskapning?"
-seoTitle: "Hva er Verdiskapning?"
-description: '**Verdiskapning** er prosessen hvor en bedrift skaper **økonomisk verdi** og **bærekraftig vekst** gjennom effektiv ressursbruk, innovasjon og smart kapitalal...'
+title: "Hva er verdiskapning?"
+seoTitle: "Verdiskapning | Hva det er og hvordan du måler det"
+description: "Verdiskapning er prosessen der virksomheter skaper økonomisk verdi gjennom effektiv ressursbruk, innovasjon og lønnsom vekst. Lær hva som driver verdiskapning, hvordan den måles med nøkkeltall som resultatgrad og ROCE, og hvordan tiltak påvirker regnskapet."
+summary: "Enkle forklaringer på verdiskapning, drivere, målemetoder og praktiske eksempler."
 ---
 
 **Verdiskapning** er prosessen hvor en bedrift skaper **økonomisk verdi** og **bærekraftig vekst** gjennom effektiv ressursbruk, innovasjon og smart kapitalallokering. Å forstå verdiskapning er essensielt for å vurdere selskapets *lønnsomhet*, *soliditet* og *langsiktige konkurransekraft*.

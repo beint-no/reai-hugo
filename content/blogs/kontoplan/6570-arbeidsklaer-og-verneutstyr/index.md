@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 6570 - Arbeidsklær og verneutstyr?"
-seoTitle: "6570-arbeidsklaer-og-verneutstyr"
-description: '**Konto 6570 - Arbeidsklær og verneutstyr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til arbeidsklær og verneutstyr** i...'
+title: "Konto 6570 - Arbeidsklær og verneutstyr"
+seoTitle: "Konto 6570 | Arbeidsklær og verneutstyr | Kontoplan"
+description: "Konto 6570 i norsk kontoplan brukes til å føre kostnader til arbeidsklær og personlig verneutstyr. Se bokføring, eksempler og relaterte kontoer."
+summary: "Slik fører du kostnader til arbeidsklær og verneutstyr på konto 6570, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6570 - Arbeidsklær og verneutstyr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til arbeidsklær og verneutstyr** i virksomhetens drift.

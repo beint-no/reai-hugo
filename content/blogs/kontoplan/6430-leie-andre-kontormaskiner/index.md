@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6430 - Leie andre kontormaskiner"
-seoTitle: "6430-leie-andre-kontormaskiner"
-description: '**Konto 6430 - Leie andre kontormaskiner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av andre kontormaskiner** i virksomhetens ...'
+seoTitle: "Konto 6430 | Leie andre kontormaskiner | Kontoplan"
+description: "Konto 6430 i norsk kontoplan brukes til å føre leiekostnader for kontormaskiner som skrivere, kopimaskiner og annet utstyr. Lær bokføring, eksempler og relaterte kontoer."
+summary: "Slik fører du leie av kontormaskiner på konto 6430, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6430 - Leie andre kontormaskiner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av andre kontormaskiner** i virksomhetens drift.

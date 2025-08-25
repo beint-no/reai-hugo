@@ -1,7 +1,8 @@
 ﻿---
 title: "Uføreforsikring"
-seoTitle: "Uføreforsikring"
-description: 'Uføreforsikring er en privat **inntektssikring** som gir erstatning ved varig nedsatt arbeidsevne. En slik forsikring utfyller offentlige ytelser som [uføretr...'
+seoTitle: "Uføreforsikring | Dekning, pris og skatt"
+description: "Uføreforsikring er privat inntektssikring ved varig nedsatt arbeidsevne. Lær hvilke dekninger som finnes, typiske ventetider, prisdrivere og hvordan utbetalinger og premier behandles skattemessig."
+summary: "Kort forklart: hva uføreforsikring dekker, hva den koster og skattereglene."
 ---
 
 Uføreforsikring er en privat **inntektssikring** som gir erstatning ved varig nedsatt arbeidsevne. En slik forsikring utfyller offentlige ytelser som [uføretrygd](/blogs/regnskap/hva-er-uforetrygd "Hva er Uføretrygd? Komplett Guide til Trygdeordninger") og kan sikre en stabil økonomi for både privatpersoner og bedrifter.

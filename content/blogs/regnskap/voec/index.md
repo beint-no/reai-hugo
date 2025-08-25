@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er VOEC?"
-seoTitle: "Hva er VOEC?"
-description: '**VOEC** (Value Added Tax on E-Commerce) er en ordning som forenkler innkreving av **merverdiavgift (MVA)** på varer kjøpt fra utlandet av norske privatperson...'
+seoTitle: "VOEC | MVA på netthandel til Norge forklart"
+description: "VOEC er ordningen for innkreving av merverdiavgift på netthandel til norske privatpersoner. Lær hvem som omfattes, grenseverdier, hvordan rapporteringen skjer og hva som gjelder for forsendelser under og over 3 000 kroner."
+summary: "Kort guide til VOEC: hvem det gjelder, beløpsgrenser, rapportering og praktiske effekter."
 ---
 
 **VOEC** (Value Added Tax on E-Commerce) er en ordning som forenkler innkreving av **merverdiavgift (MVA)** på varer kjøpt fra utlandet av norske privatpersoner. Ordningen gjelder spesielt små forsendelser og gjør det mulig for utenlandske selgere å registrere seg direkte i det norske MVA-registeret for e-handel.

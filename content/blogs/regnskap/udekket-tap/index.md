@@ -1,7 +1,8 @@
 ﻿---
 title: "Udekket tap"
-seoTitle: "Udekket tap"
-description: '**Udekket tap** er et viktig begrep i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap") som viser akkumulerte tap ...'
+seoTitle: "Udekket tap | Negativ egenkapital og tiltak"
+description: "Udekket tap er akkumulerte underskudd som ikke er dekket av innskutt egenkapital. Lær hva posten betyr i balansen, konsekvenser for egenkapitalen og tiltak som kapitalforhøyelse, restrukturering og generalforsamlingsvedtak."
+summary: "Forklaring av udekket tap: hva det betyr, konsekvenser og vanlige tiltak i praksis."
 ---
 
 **Udekket tap** er et viktig begrep i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap") som viser akkumulerte tap som ikke er dekket av innskutt egenkapital. Begrepet er sentralt for å forstå når et selskap har negativ egenkapital og hvilke tiltak som må vurderes.

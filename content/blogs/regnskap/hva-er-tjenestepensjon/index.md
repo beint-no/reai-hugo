@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Tjenestepensjon?"
-seoTitle: "Hva er Tjenestepensjon?"
-description: '**Tjenestepensjon** er en sentral del av norsk arbeidsliv og bedriftenes personalkostnader. Det er en pensjon som arbeidsgivere tilbyr sine ansatte som en del a...'
+title: "Hva er tjenestepensjon?"
+seoTitle: "Tjenestepensjon | Typer, lovkrav og regnskapsføring"
+description: "Tjenestepensjon er pensjon fra arbeidsgiver i tillegg til folketrygden. Lær forskjellen på innskuddspensjon og ytelsespensjon, hva loven krever, kostnader for arbeidsgiver og hvordan ordningen periodiseres og føres i regnskapet."
+summary: "Kort guide til tjenestepensjon: innskudd vs. ytelse, lovkrav, kostnader og regnskapsføring."
 ---
 
 **Tjenestepensjon** er en sentral del av norsk arbeidsliv og bedriftenes personalkostnader. Det er en pensjon som arbeidsgivere tilbyr sine ansatte som en del av lønnsvilkårene, og som er både lovpålagt og et viktig rekrutteringsverktøy. For bedrifter representerer tjenestepensjon en betydelig kostnad som må håndteres korrekt i [regnskapet](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Grunnleggende Guide til Regnskapsføring") og som påvirker [personalkostnadene](/blogs/regnskap/hva-er-lonnskostnad "Hva er Lønnskostnad? Beregning og Regnskapsføring av Personalkostnader") og den totale [kostnadsstrukturen](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader? Klassifisering og Regnskapsføring i Bedriften").

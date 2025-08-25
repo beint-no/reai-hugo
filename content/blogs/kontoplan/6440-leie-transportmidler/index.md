@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6440 - Leie transportmidler"
-seoTitle: "6440-leie-transportmidler"
-description: '**Konto 6440 - Leie transportmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av transportmidler** i virksomhetens drift.'
+seoTitle: "Konto 6440 | Leie transportmidler | Kontoplan"
+description: "Konto 6440 i norsk kontoplan brukes til å føre leiekostnader for biler, varebiler og andre transportmidler. Lær bokføring, eksempler og relaterte kontoer."
+summary: "Slik fører du leie av transportmidler på konto 6440, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6440 - Leie transportmidler** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av transportmidler** i virksomhetens drift.

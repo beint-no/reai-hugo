@@ -1,7 +1,8 @@
 ﻿---
 title: "Velferdsgoder"
-seoTitle: "Velferdsgoder"
-description: '**Velferdsgoder** er ytelser eller fordeler som arbeidstakere mottar fra arbeidsgiver utover vanlig lønn. Slike godeordninger kan ha **betydelig verdi** for an...'
+seoTitle: "Velferdsgoder | Regler, skatt og regnskapsføring"
+description: "Velferdsgoder er ansattefordeler utover lønn. Denne guiden forklarer vanlige velferdsgoder i Norge, skattebehandling, refusjoner fra NAV, og hvordan kostnadene føres korrekt i regnskapet. Nyttig for arbeidsgivere som vil håndtere personalegoder riktig."
+summary: "Oversikt over velferdsgoder, skatteregler, refusjoner og regnskapsføring for arbeidsgivere."
 ---
 
 **Velferdsgoder** er ytelser eller fordeler som arbeidstakere mottar fra arbeidsgiver utover vanlig lønn. Slike godeordninger kan ha **betydelig verdi** for ansatte og stiller krav til riktig skattemessig behandling og regnskapsføring. For en dypere forståelse av relaterte konsepter, se også [Naturalytelser](/blogs/regnskap/naturalytelser "Naturalytelser i Norsk Regnskap: Guide til Naturlige Ytelser og Beskatning") og [Velferdstiltak](/blogs/regnskap/hva-er-velferdstiltak "Velferdstiltak - Komplett Guide til Ansattfordeler, Regnskapsføring og Skattebehandling").

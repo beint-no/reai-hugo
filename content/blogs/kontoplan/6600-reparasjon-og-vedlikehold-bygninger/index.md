@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6600 - Reparasjon og vedlikehold bygninger"
-seoTitle: "6600-reparasjon-og-vedlikehold-bygninger"
-description: '**Konto 6600 - Reparasjon og vedlikehold bygninger** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til reparasjon og vedlikeho...'
+seoTitle: "Konto 6600 | Reparasjon og vedlikehold bygninger | Kontoplan"
+description: "Konto 6600 i norsk kontoplan brukes til å føre kostnader til reparasjon og vedlikehold av bygninger. Se bokføring, eksempler og relaterte kontoer."
+summary: "Slik fører du reparasjon og vedlikehold av bygninger på konto 6600, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6600 - Reparasjon og vedlikehold bygninger** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til reparasjon og vedlikehold av bygninger** i virksomhetens drift.

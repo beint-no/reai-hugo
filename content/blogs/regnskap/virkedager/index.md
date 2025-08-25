@@ -1,7 +1,8 @@
 ﻿---
-title: "Virkedager (regnskap)"
-seoTitle: "Virkedager (regnskap)"
-description: '**Virkedager** er de dagene i kalenderen hvor det utføres ordinært arbeid og regnskapsoppgaver, og som danner grunnlag for beregning av **frister** og **forfa...'
+title: "Virkedager i regnskap"
+seoTitle: "Virkedager | Definisjon, frister og beregning"
+description: "Virkedager er arbeidsdager som teller for frister og forfallsdatoer i regnskap. Lær hvordan du beregner virkedager, hvilke dager som regnes med, og hvordan helg og helligdager påvirker rapporteringsfrister som A-meldingen og MVA-meldingen."
+summary: "Definisjon av virkedager, hvordan beregne dem og hvordan de påvirker regnskapsfrister."
 ---
 
 **Virkedager** er de dagene i kalenderen hvor det utføres ordinært arbeid og regnskapsoppgaver, og som danner grunnlag for beregning av **frister** og **forfallsdatoer** i norsk regnskap. Å forstå begrepet virkedager er avgjørende for å sikre korrekt rapportering og betaling til myndigheter og leverandører.

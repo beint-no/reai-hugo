@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6820 - Trykksaker"
-seoTitle: "6820-trykksaker"
-description: '**Konto 6820 - Trykksaker** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader til trykksaker**, som visittkort, brosjyr...'
+seoTitle: "Konto 6820 | Trykksaker | Kontoplan"
+description: "Konto 6820 i norsk kontoplan brukes til å føre kostnader til trykksaker som visittkort, brosjyrer, flyers og plakater. Se bokføring, eksempel og relaterte kontoer."
+summary: "Slik fører du trykksaker på konto 6820, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6820 - Trykksaker** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader til trykksaker**, som visittkort, brosjyrer, flyers, plakater og annet reklamemateriell.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6620 - Reparasjon og vedlikehold utstyr"
-seoTitle: "6620-reparasjon-og-vedlikehold-utstyr"
-description: '**Konto 6620 - Reparasjon og vedlikehold utstyr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til reparasjon og vedlikehold ...'
+seoTitle: "Konto 6620 | Reparasjon og vedlikehold utstyr | Kontoplan"
+description: "Konto 6620 i norsk kontoplan brukes til å føre kostnader til reparasjon og vedlikehold av utstyr. Se bokføring, eksempler og relaterte kontoer."
+summary: "Slik fører du reparasjon og vedlikehold av utstyr på konto 6620, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6620 - Reparasjon og vedlikehold utstyr** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til reparasjon og vedlikehold av utstyr** i virksomhetens drift.

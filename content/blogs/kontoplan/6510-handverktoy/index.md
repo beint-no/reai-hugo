@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6510 - Håndverktøy"
-seoTitle: "6510-handverktoy"
-description: '**Konto 6510 - Håndverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til håndverktøy** og relaterte driftsmidler i v...'
+seoTitle: "Konto 6510 | Håndverktøy | Kontoplan"
+description: "Konto 6510 i norsk kontoplan brukes til å føre kostnader til håndverktøy og relatert utstyr. Se bokføringseksempler, typiske transaksjoner og relaterte kontoer."
+summary: "Slik fører du kostnader til håndverktøy på konto 6510, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6510 - Håndverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til håndverktøy** og relaterte driftsmidler i virksomhetens drift.

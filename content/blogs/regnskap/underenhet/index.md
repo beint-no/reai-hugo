@@ -1,7 +1,8 @@
 ﻿---
 title: "Underenhet"
-seoTitle: "Underenhet"
-description: '![Illustrasjon av Underenhet](underenhet-image.svg)'
+seoTitle: "Underenhet | Hva det er og når den må registreres"
+description: "Underenhet er en del av en virksomhet, som filial eller avdeling, brukt for organisering og rapportering. Les om typer underenheter, når de må registreres i Enhetsregisteret og hvordan de påvirker internregnskap og ekstern rapportering."
+summary: "Forklaring av underenhet: definisjon, registreringskrav og betydning i regnskap."
 ---
 
 ![Illustrasjon av Underenhet](underenhet-image.svg)

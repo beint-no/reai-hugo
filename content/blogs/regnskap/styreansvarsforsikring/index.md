@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Styreansvarsforsikring?"
-seoTitle: "Hva er Styreansvarsforsikring?"
-description: '**Styreansvarsforsikring** er en forsikring som beskytter **styremedlemmer** mot **erstatningskrav** i forbindelse med feil eller forsømmelser i styrearbeidet....'
+title: "Hva er styreansvarsforsikring?"
+seoTitle: "Styreansvarsforsikring | Dekning, pris og regnskapsføring"
+description: "Styreansvarsforsikring beskytter styremedlemmer mot erstatningskrav ved feil i styrearbeid. Les om hva som dekkes, typiske grensebeløp, prisdrivere og hvordan premien periodiseres og føres i regnskapet."
+summary: "Enkel forklaring av styreansvarsforsikring: dekning, prisfaktorer og regnskapsmessig behandling."
 ---
 
 **Styreansvarsforsikring** er en forsikring som beskytter **styremedlemmer** mot **erstatningskrav** i forbindelse med feil eller forsømmelser i styrearbeidet. I denne artikkelen får du en omfattende gjennomgang av styreansvarsforsikringens dekning, fordeler, kostnader, regnskapsbehandling og skattemessige konsekvenser i Norge.

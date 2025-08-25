@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6800 - Kontorrekvisita"
-seoTitle: "6800-kontorrekvisita"
-description: '**Konto 6800 - Kontorrekvisita** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader til kontorrekvisita** som penner, pa...'
+seoTitle: "Konto 6800 | Kontorrekvisita | Kontoplan"
+description: "Konto 6800 i norsk kontoplan brukes til å føre kostnader til kontorrekvisita som penner, papir, toner og materiell. Se bokføring, eksempel og relaterte kontoer."
+summary: "Slik fører du kontorrekvisita på konto 6800, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6800 - Kontorrekvisita** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **kostnader til kontorrekvisita** som penner, papir, toner og annet kontormateriell.

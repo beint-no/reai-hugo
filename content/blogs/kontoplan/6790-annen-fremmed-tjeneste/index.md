@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6790 - Annen fremmed tjeneste"
-seoTitle: "6790-annen-fremmed-tjeneste"
-description: '**Konto 6790 - Annen fremmed tjeneste** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader for eksterne tjenester** som ikke dekkes...'
+seoTitle: "Konto 6790 | Annen fremmed tjeneste | Kontoplan"
+description: "Konto 6790 i norsk kontoplan brukes til å føre kostnader for eksterne tjenester som ikke dekkes av andre kontoer. Se bokføring, eksempel og relaterte kontoer."
+summary: "Slik fører du kostnader for annen fremmed tjeneste på konto 6790, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6790 - Annen fremmed tjeneste** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader for eksterne tjenester** som ikke dekkes av andre spesifikke kontoer, for eksempel konsulenttjenester og prosjektarbeid kjøpt fra tredjepart.

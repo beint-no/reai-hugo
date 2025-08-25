@@ -1,7 +1,8 @@
 ﻿---
 title: "Yrkesskadeforsikring"
-seoTitle: "Yrkesskadeforsikring"
-description: 'Yrkesskadeforsikring er en lovpålagt **forsikring** som arbeidsgiver må tegne for å sikre ansatte ved yrkesskader og yrkessykdommer. Denne artikkelen gir en ...'
+seoTitle: "Yrkesskadeforsikring | Lovkrav, dekning og regnskapsføring"
+description: "Yrkesskadeforsikring er lovpålagt for arbeidsgivere. Lær hva forsikringen dekker, hvilke grenser som gjelder, hvordan premie beregnes, og hvordan kostnaden periodiseres og føres i regnskapet."
+summary: "Guide til yrkesskadeforsikring: lovkrav, dekningstyper, premie og regnskapsføring."
 ---
 
 Yrkesskadeforsikring er en lovpålagt **forsikring** som arbeidsgiver må tegne for å sikre ansatte ved yrkesskader og yrkessykdommer. Denne artikkelen gir en grundig gjennomgang av hva **yrkesskadeforsikring** er, hvilke dekningsområder som gjelder, hvordan premien beregnes og hvordan kostnaden regnskapsføres i norsk regnskap.

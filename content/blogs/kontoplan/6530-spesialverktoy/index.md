@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6530 - Spesialverktøy"
-seoTitle: "6530-spesialverktoy"
-description: '**Konto 6530 - Spesialverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til spesialverktøy** i virksomhetens drift.'
+seoTitle: "Konto 6530 | Spesialverktøy | Kontoplan"
+description: "Konto 6530 i norsk kontoplan brukes til å føre kostnader til spesialtilpasset verktøy og utstyr. Se bokføringseksempler, typiske transaksjoner og relaterte kontoer."
+summary: "Slik fører du kostnader til spesialverktøy på konto 6530, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6530 - Spesialverktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til spesialverktøy** i virksomhetens drift.

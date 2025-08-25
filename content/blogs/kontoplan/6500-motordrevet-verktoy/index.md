@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6500 - Motordrevet verktøy"
-seoTitle: "6500-motordrevet-verktoy"
-description: '**Konto 6500 - Motordrevet verktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til motordrevet verktøy** i virksomhetens...'
+seoTitle: "Konto 6500 | Motordrevet verktøy | Kontoplan"
+description: "Konto 6500 i norsk kontoplan brukes til å føre kostnader til motordrevet verktøy. Se bokføringseksempler, typiske transaksjoner og relaterte kontoer."
+summary: "Slik fører du kostnader til motordrevet verktøy på konto 6500, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6500 - Motordrevet verktøy** er en konto i Norsk Standard Kontoplan som brukes til å registrere **kostnader til motordrevet verktøy** i virksomhetens drift.

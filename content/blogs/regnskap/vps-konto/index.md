@@ -1,7 +1,8 @@
 ﻿---
 title: "VPS-konto"
-seoTitle: "VPS-konto"
-description: 'En **VPS-konto** er en sikker digital konto registrert hos **Verdipapirsentralen (VPS)** som brukes til oppbevaring og handel av [**verdipapirer**](/blogs/regns...'
+seoTitle: "VPS-konto | Hva det er og hvordan komme i gang"
+description: "En VPS-konto er kontoen i Verdipapirsentralen for registrering av aksjer, obligasjoner og fond. Artikkelen forklarer hva VPS er, typer kontoer, hvordan du oppretter konto, kostnader og sentrale fordeler for privatpersoner og bedrifter."
+summary: "Hva er en VPS-konto, hvordan opprette den, kontotyper, fordeler og typiske gebyrer."
 ---
 
 En **VPS-konto** er en sikker digital konto registrert hos **Verdipapirsentralen (VPS)** som brukes til oppbevaring og handel av [**verdipapirer**](/blogs/regnskap/hva-er-verdipapir "Hva er et Verdipapir? En komplett guide") som aksjer, obligasjoner og fondsenheter.

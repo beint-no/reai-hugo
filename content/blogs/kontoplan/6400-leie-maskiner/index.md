@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 6400 - Leie maskiner"
-seoTitle: "6400-leie-maskiner"
-description: '**Konto 6400 - Leie maskiner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av maskiner** i virksomhetens drift.'
+seoTitle: "Konto 6400 | Leie maskiner | Kontoplan"
+description: "Konto 6400 i norsk kontoplan brukes til å føre leiekostnader for maskiner og produksjonsutstyr. Lær bokføring, typiske transaksjoner og relaterte kontoer."
+summary: "Slik fører du leie av maskiner på konto 6400, med eksempel og relaterte kontoer."
 ---
 
 **Konto 6400 - Leie maskiner** er en konto i Norsk Standard Kontoplan som brukes til å registrere **leie av maskiner** i virksomhetens drift.
