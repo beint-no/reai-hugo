@@ -2,6 +2,7 @@
 title: "Hva er et Enkeltpersonforetak?"
 seoTitle: "Hva er et Enkeltpersonforetak?"
 description: 'For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").'
+summary: 'Hva er enkeltpersonforetak? En lettfattelig guide til ansvar, skatt, registrering, fordeler og ulemper for næringsdrivende i Norge.'
 ---
 
 For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").

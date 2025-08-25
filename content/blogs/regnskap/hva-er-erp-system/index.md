@@ -2,6 +2,7 @@
 title: "Hva er ERP-system?"
 seoTitle: "Hva er ERP-system?"
 description: 'Et **ERP-system** (Enterprise Resource Planning) er en integrert programvareløsning som samler og koordinerer alle kjerneforretningsprosessene i en organisasjo...'
+summary: 'Hva er et ERP-system? En praktisk guide til moduler, fordeler, implementering og hvordan ERP støtter regnskap, rapportering og vekst i norske bedrifter.'
 ---
 
 Et **ERP-system** (Enterprise Resource Planning) er en integrert programvareløsning som samler og koordinerer alle kjerneforretningsprosessene i en organisasjon. For norske bedrifter representerer ERP-systemer ryggraden i moderne forretningsdrift, hvor [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En Dybdeanalyse for Norge"), økonomi, produksjon, salg og personaladministrasjon integreres i én sammenhengende plattform.

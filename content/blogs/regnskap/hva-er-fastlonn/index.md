@@ -1,6 +1,7 @@
 ﻿---
 title: "Hva er Fastlønn i Regnskap?"
 seoTitle: "Hva er Fastlønn i Regnskap?"
+summary: 'Hva er fastlønn? Kort guide til definisjon, beregning, lovkrav og regnskapsføring for arbeidsgivere og ansatte.'
 description: '**Fastlønn** er en fast månedlig eller årlig lønn som utbetales til en ansatt uavhengig av antall arbeidstimer, produksjon eller prestasjoner. Dette er den ...'
 ---
 

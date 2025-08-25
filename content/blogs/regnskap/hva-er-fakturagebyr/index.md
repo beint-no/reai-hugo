@@ -1,6 +1,7 @@
 ﻿---
 title: "Hva er fakturagebyr?"
 seoTitle: "Hva er fakturagebyr?"
+summary: 'Hva er fakturagebyr? En kort forklaring av regler, satser, beregning, lovlighet og regnskapsføring med praktiske eksempler.'
 description: 'Et **fakturagebyr** er et tilleggsgebyr som en leverandør kan kreve fra kunden for å dekke administrative kostnader knyttet til fakturering og betalingsbehand...'
 ---
 

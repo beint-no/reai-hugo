@@ -2,6 +2,7 @@
 title: "Hva er Enhetsregisteret?"
 seoTitle: "Hva er Enhetsregisteret?"
 description: 'Enhetsregisteret er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversi...'
+summary: 'Kort forklaring av Enhetsregisteret: hva det er, hvordan du registrerer en enhet, og hvordan dataene brukes i regnskap og administrasjon.'
 ---
 
 Enhetsregisteret er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversikt over Norske Registere") og inneholder _grunnleggende_ informasjon om alle juridiske enheter i Norge. **Enhetsregisteret** gir bedrifter, myndigheter og publikum tilgang til sentral informasjon som organisasjonsnummer, navn og adresse, og danner grunnlaget for videre registreringer i [Foretaksregisteret](/blogs/regnskap/ansvarlig-selskap "Hva er Ansvarlig Selskap?") og [MVA-registeret](/blogs/regnskap/hva-er-mva-registeret "Hva er MVA-registeret?"). For dokumentasjon av registrerte opplysninger kan du bestille en [firmaattest](/blogs/regnskap/firmaattest "Firmaattest").

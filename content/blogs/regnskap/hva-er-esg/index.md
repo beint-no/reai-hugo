@@ -2,6 +2,7 @@
 title: "Hva er ESG?"
 seoTitle: "Hva er ESG?"
 description: '**ESG** (Environmental, Social, Governance) representerer et rammeverk for å evaluere og rapportere om en virksomhets bærekraftsprestasjon og samfunnsansvar. ...'
+summary: 'Hva er ESG? En klar innføring i miljø, sosiale forhold og styring, krav til bærekraftsrapportering og hvordan dette påvirker regnskap og virksomhetsstyring.'
 ---
 
 **ESG** (Environmental, Social, Governance) representerer et rammeverk for å evaluere og rapportere om en virksomhets bærekraftsprestasjon og samfunnsansvar. Dette konseptet har revolusjonert moderne regnskap og finansiell rapportering, og er blitt en kritisk komponent for bedrifter som ønsker å demonstrere sitt engasjement for bærekraftig utvikling og ansvarlig forretningsdrift.
