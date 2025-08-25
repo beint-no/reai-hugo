@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Dagsoppgjør i Regnskap?"
-seoTitle: "Hva er Dagsoppgjør i Regnskap?"
-description: '**Dagsoppgjør** er en **daglig regnskapsprosess** som sikrer at alle [transaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Guide ...'
+seoTitle: "Hva er dagsoppgjør? | Prosess, sjekkliste og regnskap"
+description: "Dagsoppgjør er den daglige avstemmingen av kasse, bank og bilag. Lær prosess, sjekkliste og beste praksis for korrekt regnskap."
+summary: "Hva dagsoppgjør er, hvorfor det er viktig, og hvordan du avstemmer kasse, bank og bilag."
 ---
 
 **Dagsoppgjør** er en **daglig regnskapsprosess** som sikrer at alle [transaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Guide til Registrering og Oppfølging") er korrekt registrert, avstemt og kontrollert ved slutten av hver arbeidsdag. Dette er en **kritisk kontrollrutine** som danner grunnlaget for pålitelig [regnskapsføring](/blogs/regnskap/hva-er-bokføring "Hva er Bokføring? Komplett Guide til Regnskapsføring") og finansiell rapportering.

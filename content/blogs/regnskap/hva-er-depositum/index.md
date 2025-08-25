@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Depositum i Regnskap?"
-seoTitle: "Hva er Depositum i Regnskap?"
-description: '**Depositum** er et pengebeløp som stilles som **sikkerhet** eller **garanti** for oppfyllelse av kontraktuelle forpliktelser. I [regnskapet](/blogs/regnskap/h...'
+seoTitle: "Hva er depositum? | Typer, regler og regnskapsføring"
+description: "Depositum er et beløp som stilles som sikkerhet i avtaler. Lær typer, juridiske krav og hvordan depositum føres som eiendel og gjeld i regnskapet."
+summary: "Depositum forklart: formål, typer, regler og føring i balansen for innskyter og mottaker."
 ---
 
 **Depositum** er et pengebeløp som stilles som **sikkerhet** eller **garanti** for oppfyllelse av kontraktuelle forpliktelser. I [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") regnskapsføres depositum som [eiendel](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Balansen") hos den som betaler og som gjeld hos den som mottar beløpet.

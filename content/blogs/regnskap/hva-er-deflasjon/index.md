@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Deflasjon?"
-seoTitle: "Hva er Deflasjon?"
-description: '**Deflasjon** er den generelle nedgangen i prisnivået på varer og tjenester over tid, som resulterer i økt kjøpekraft for penger. Dette fenomenet er motstyk...'
+seoTitle: "Hva er deflasjon? | Betydning, årsaker og effekt"
+description: "Deflasjon er vedvarende fall i prisnivået som øker pengenes kjøpekraft. Se årsaker, eksempler og hvordan deflasjon påvirker regnskap og økonomi."
+summary: "Deflasjon forklart med årsaker, forskjeller fra inflasjon og konsekvenser for regnskap."
 ---
 
 **Deflasjon** er den generelle nedgangen i prisnivået på varer og tjenester over tid, som resulterer i økt kjøpekraft for penger. Dette fenomenet er motstykket til [inflasjon](/blogs/regnskap/hva-er-inflasjon "Hva er Inflasjon? Komplett Guide til Inflasjon i Regnskap og Økonomi"), og har viktige implikasjoner for [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring"), [investeringer](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Guide til Investeringsavkastning og Beregning") og bedriftsdrift.

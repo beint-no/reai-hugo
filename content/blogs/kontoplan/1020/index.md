@@ -1,8 +1,8 @@
 ﻿---
 title: "Konto 1020 – Konsesjoner"
 seoTitle: "Konto 1020 | Konsesjoner | Kontoplan"
-description: "Konto 1020 omfatter konsesjoner og bruksrettigheter som kan aktiveres som immaterielle eiendeler. Se kriterier for aktivering, verdsettelse, amortisering og regnskapsføring av konsesjoner."
-summary: "Konto 1020 brukes til konsesjoner og lisenser. Guiden forklarer aktivering, amortisering og bokføring med eksempler."
+description: "Konto 1020 i norsk kontoplan (NS 4102) omfatter konsesjoner og bruksrettigheter som kan aktiveres som immaterielle eiendeler. Se kriterier for aktivering, verdsettelse, amortisering, regnskapsføring og vanlige vurderinger."
+summary: "Konto 1020 i kontoplanen: aktivering, amortisering, bokføring og vurderinger for konsesjoner."
 ---
 
 **Konto 1020 - Konsesjoner** er en viktig konto for virksomheter som har ervervede rettigheter, lisenser og konsesjoner som gir dem spesielle forrettigheter eller eksklusive bruksrettigheter. Denne kontoen brukes for å registrere [immaterielle eiendeler](/blogs/regnskap/hva-er-imaterielle-eiendeler "Hva er Imaterielle Eiendeler?") i form av konsesjoner som kan [aktiveres](/blogs/regnskap/hva-er-aktivering "Hva er Aktivering i Regnskap?") og amortiseres over tid i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse?").

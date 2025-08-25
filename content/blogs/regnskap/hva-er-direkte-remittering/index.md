@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er direkte remittering?"
-seoTitle: "Hva er direkte remittering?"
-description: 'For en oversikt over **remittering** og dens ulike former, se [Remittering](/blogs/regnskap/remittering "Remittering: Konsepter, Typer og Prosess").'
+seoTitle: "Hva er direkte remittering? | Betalingsmetode og bokføring"
+description: "Direkte remittering er elektronisk overføring mellom bankkontoer. Se prosess, typer, fordeler og hvordan betalingene bokføres korrekt."
+summary: "Direkte remittering forklart: elektroniske overføringer, forskjell fra andre metoder og regnskapsføring."
 ---
 
 For en oversikt over **remittering** og dens ulike former, se [Remittering](/blogs/regnskap/remittering "Remittering: Konsepter, Typer og Prosess").

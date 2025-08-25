@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er diskontering?"
-seoTitle: "Hva er diskontering?"
-description: '**Diskontering** er en fundamental finansiell teknikk som brukes til å beregne nåverdien av fremtidige kontantstrømmer. I regnskaps- og finanssammenheng er d...'
+seoTitle: "Hva er diskontering? | Nåverdi, NPV og diskonteringsrente"
+description: "Diskontering beregner nåverdi av fremtidige kontantstrømmer. Lær NPV, diskonteringsrente og praktiske eksempler for investering og regnskap."
+summary: "Diskontering forklart: prinsipper, formler for nåverdi/NPV og valg av diskonteringsrente."
 ---
 
 **Diskontering** er en fundamental finansiell teknikk som brukes til å beregne nåverdien av fremtidige kontantstrømmer. I regnskaps- og finanssammenheng er diskontering essensielt for å sammenligne verdien av penger på ulike tidspunkter, siden en krone i dag er verdt mer enn en krone i fremtiden på grunn av inflasjon og alternativkostnad.

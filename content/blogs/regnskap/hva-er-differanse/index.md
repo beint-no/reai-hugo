@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er differanse i regnskap?"
-seoTitle: "Hva er differanse i regnskap?"
-description: '**Differanse** i regnskap refererer til forskjeller mellom ulike regnskapsmessige størrelser, verdier eller beregninger. Dette begrepet omfatter flere viktige ...'
+seoTitle: "Hva er differanse? | Avvik, avstemming og analyse"
+description: "Differanse er avvik mellom plan og faktisk eller mellom kilder. Lær typer differanser, beregning og regnskapsmessig håndtering i avstemming og rapporter."
+summary: "Oversikt over differanse i regnskap: budsjettdifferanser, skattemessige forskjeller og avstemmingsavvik."
 ---
 
 **Differanse** i regnskap refererer til forskjeller mellom ulike regnskapsmessige størrelser, verdier eller beregninger. Dette begrepet omfatter flere viktige områder innen regnskap og økonomi, fra [budsjettavvik](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging") til skattemessige forskjeller og [avstemminger](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming i Regnskap? Guide til Kontroll og Balansering").

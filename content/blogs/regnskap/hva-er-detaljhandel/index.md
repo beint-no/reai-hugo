@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Detaljhandel? Regnskap og Økonomistyring for Butikker"
-seoTitle: "Hva er Detaljhandel? Regnskap og Økonomistyring for Butikker"
-description: '**Detaljhandel** er salg av varer direkte til sluttforbrukere gjennom fysiske butikker eller digitale plattformer. Dette skiller seg fra [engroshandel](/blogs/r...'
+seoTitle: "Hva er detaljhandel? | Regnskap, moms og nøkkeltall"
+description: "Detaljhandel er salg til forbrukere i butikk og nett. Lær regnskap, lagerstyring, moms og nøkkeltall for effektiv drift i varehandel."
+summary: "Detaljhandel forklart for butikkdrift: regnskap, lager, kassasystem, moms og styringsnøkkeltall."
 ---
 
 **Detaljhandel** er salg av varer direkte til sluttforbrukere gjennom fysiske butikker eller digitale plattformer. Dette skiller seg fra [engroshandel](/blogs/regnskap/hva-er-engroshandel "Hva er Engroshandel? Regnskap og Økonomistyring for Grossister") som selger til andre virksomheter. Detaljhandel er en klassisk [B2C-virksomhet](/blogs/regnskap/hva-er-b2c "Hva er B2C? Business-to-Consumer i Regnskap") hvor bedrifter selger direkte til privatpersoner. Detaljhandel er en av de mest komplekse virksomhetstypene når det gjelder [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") på grunn av høyt transaksjonsvolum, lagerstyring og spesialiserte systemer for salgsregistrering.

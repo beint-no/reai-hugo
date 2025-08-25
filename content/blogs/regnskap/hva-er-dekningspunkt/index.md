@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er dekningspunkt?"
-seoTitle: "Hva er dekningspunkt?"
-description: '**Dekningspunkt** (også kalt break-even point) er det punktet hvor en bedrifts totale inntekter er lik totale kostnader, og bedriften verken går med overskudd...'
+seoTitle: "Hva er dekningspunkt? | Break-even, formler og eksempel"
+description: "Dekningspunkt er nivået der inntekter er lik kostnader. Se formler, eksempel og hvordan du beregner break-even i enheter og kroner."
+summary: "Kort guide til dekningspunkt: definisjon, beregningsmetoder og praktisk eksempel."
 ---
 
 **Dekningspunkt** (også kalt break-even point) er det punktet hvor en bedrifts totale inntekter er lik totale kostnader, og bedriften verken går med overskudd eller underskudd. Dette er et kritisk verktøy for [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging") og **lønnsomhetsanalyse** som hjelper bedrifter å forstå hvor mye de må selge for å dekke alle kostnadene sine.
