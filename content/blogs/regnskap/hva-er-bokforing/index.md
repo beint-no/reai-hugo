@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"
-seoTitle: "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"
-description: '**Bokføring** er grunnstenen i enhver virksomhets økonomiske styring og den systematiske registreringen av alle finansielle transaksjoner. Som et lovpålagt k...'
+seoTitle: "Bokføring | Hva det er og hvordan du gjør det riktig"
+description: "Hva er bokføring? Lær grunnprinsipper, lovkrav, dobbelt bokføring og praktiske rutiner for korrekt regnskapsføring i norske virksomheter."
+summary: "Bokføring forklart: prinsipper, lovkrav og praktisk gjennomføring."
 ---
 
 **Bokføring** er grunnstenen i enhver virksomhets økonomiske styring og den systematiske registreringen av alle finansielle transaksjoner. Som et lovpålagt krav i Norge reguleres bokføring av bokføringsloven og utgjør fundamentet for [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En dybdeanalyse for Norge"), [skatterapportering](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging") og økonomisk beslutningsgrunnlag.

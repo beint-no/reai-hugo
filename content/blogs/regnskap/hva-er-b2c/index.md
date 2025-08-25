@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er B2C? Business-to-Consumer i Regnskap"
-seoTitle: "Hva er B2C? Business-to-Consumer i Regnskap"
-description: '**B2C** (Business-to-Consumer) refererer til handel der en **virksomhet** selger varer eller tjenester direkte til **privatpersoner**. I norsk regnskap har B2C-...'
+seoTitle: "Hva er B2C? | Business-to-Consumer i regnskap"
+description: "Hva er B2C i regnskap? Lær om MVA, fakturering, kundefordringer og forbrukerrettigheter for salg til privatpersoner."
+summary: "B2C forklart: MVA, fakturering, kundefordringer og forbrukerregler."
 ---
 
 **B2C** (Business-to-Consumer) refererer til handel der en **virksomhet** selger varer eller tjenester direkte til **privatpersoner**. I norsk regnskap har B2C-spesifikke krav til **MVA-behandling**, **fakturering**, **kundefordringshåndtering** og **forbrukerbeskyttelse**.

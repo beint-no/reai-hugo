@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 8620 - Utsatt skatt, ekstraordinært resultat"
-seoTitle: "8620-utsatt-skatt-ekstraordinart-resultat"
-description: '**Konto 8620 - Utsatt skatt, ekstraordinært resultat** er en konto i Norsk Standard Kontoplan som brukes til å registrere **utsatt skatt** knyttet til **ekstr...'
+seoTitle: "Konto 8620 | Utsatt skatt ekstraordinært resultat | Kontoplan"
+description: "Konto 8620 brukes for utsatt skatt knyttet til ekstraordinært resultat. Lær føring mot konto 2120 og presentasjon i resultatregnskapet."
+summary: "Konto 8620 gjelder utsatt skatt på ekstraordinære poster. Kort om føring og presentasjon."
 ---
 
 **Konto 8620 - Utsatt skatt, ekstraordinært resultat** er en konto i Norsk Standard Kontoplan som brukes til å registrere **utsatt skatt** knyttet til **ekstraordinært resultat** etter vedtak i generalforsamling eller styre.

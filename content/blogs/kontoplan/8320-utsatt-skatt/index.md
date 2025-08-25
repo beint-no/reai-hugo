@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 8320 - Utsatt skatt?"
-seoTitle: "8320-utsatt-skatt"
-description: '**Konto 8320 - Utsatt skatt** er en konto i Norsk Standard Kontoplan som brukes til å vise **utsatt skatt** som skattekostnad i [resultatregnskapet](/blogs/reg...'
+seoTitle: "Konto 8320 | Utsatt skatt | Kontoplan"
+description: "Konto 8320 i norsk kontoplan brukes for utsatt skatt som skattekostnad i resultatregnskapet. Lær periodisering, føring mot konto 2120 og beregning av midlertidige forskjeller."
+summary: "Konto 8320 periodiserer utsatt skatt i resultatregnskapet. Kort om føring, sammenheng og beregning."
 ---
 
 **Konto 8320 - Utsatt skatt** er en konto i Norsk Standard Kontoplan som brukes til å vise **utsatt skatt** som skattekostnad i [resultatregnskapet](/blogs/regnskap/hva-er-resultatregnskap "Hva er Resultatregnskap? Oppbygning og Analyse").

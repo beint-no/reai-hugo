@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 8930 - Konsernbidrag"
-seoTitle: "8930-konsernbidrag"
-description: '**Konto 8930 - Konsernbidrag** er en konto i Norsk Standard Kontoplan som brukes til å registrere **konsernbidrag** mellom selskaper i et konsern.'
+seoTitle: "Konto 8930 | Konsernbidrag | Kontoplan"
+description: "Konto 8930 i norsk kontoplan brukes til å registrere konsernbidrag mellom selskaper i samme konsern. Lær bokføring, vilkår og skattemessig behandling."
+summary: "Konto 8930 gjelder konsernbidrag. Kort om bruk, bokføring og vilkår."
 ---
 
 **Konto 8930 - Konsernbidrag** er en konto i Norsk Standard Kontoplan som brukes til å registrere **konsernbidrag** mellom selskaper i et konsern.

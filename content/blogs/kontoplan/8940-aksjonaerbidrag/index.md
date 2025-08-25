@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 8940 - Aksjonærbidrag"
-seoTitle: "8940-aksjonaerbidrag"
-description: '**Konto 8940 - Aksjonærbidrag** er en konto i Norsk Standard Kontoplan som brukes til å registrere **aksjonærbidrag** mellom selskap og aksjonær.'
+seoTitle: "Konto 8940 | Aksjonærbidrag | Kontoplan"
+description: "Konto 8940 i norsk kontoplan brukes til å registrere aksjonærbidrag mellom selskap og aksjonær. Lær om bruk, bokføring og skattemessige hensyn."
+summary: "Konto 8940 gjelder aksjonærbidrag. Kort om bruk, bokføring og hensyn."
 ---
 
 **Konto 8940 - Aksjonærbidrag** er en konto i Norsk Standard Kontoplan som brukes til å registrere **aksjonærbidrag** mellom selskap og aksjonær.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Balanseregnskap?"
-seoTitle: "Hva er Balanseregnskap?"
-description: '**Balanseregnskap** er regnskapsføring og analyse av [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balansens Oppbygging") som v...'
+seoTitle: "Balanseregnskap | Oppbygging og nøkkelprinsipper"
+description: "Hva er balanseregnskap? Lær om balansen, oppstilling, verdivurderingsprinsipper og analyse for å forstå finansiell stilling."
+summary: "Balanseregnskap forklart: balansen, oppstilling og verdivurdering."
 ---
 
 **Balanseregnskap** er regnskapsføring og analyse av [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balansens Oppbygging") som viser bedriftens **finansielle stilling** på et bestemt tidspunkt. Balansen er en av de tre hovedrapportene i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og følger den grunnleggende regnskapsligningen: **Eiendeler = Gjeld + Egenkapital**. Som en sentral del av [eksternregnskapet](/blogs/regnskap/hva-er-eksternregnskap "Hva er Eksternregnskap? Komplett Guide til Ekstern Finansiell Rapportering") gir balansen eksterne interessenter viktig informasjon om bedriftens økonomiske stilling.

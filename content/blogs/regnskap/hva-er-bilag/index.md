@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Bilag i Regnskap?"
-seoTitle: "Hva er Bilag i Regnskap?"
-description: '**Bilag** er grunnleggende støttedokumenter som dokumenterer alle forretningshendelser i regnskapet. De fungerer som bevis for at en transaksjon har funnet ste...'
+seoTitle: "Bilag i regnskap | Krav, typer og oppbevaring"
+description: "Hva er bilag i regnskap? Lær lovkrav, innhold, bilagstyper og oppbevaringsregler for korrekt dokumentasjon og bokføring."
+summary: "Bilag forklart: lovkrav, innhold, typer og oppbevaring."
 ---
 
 **Bilag** er grunnleggende støttedokumenter som dokumenterer alle forretningshendelser i regnskapet. De fungerer som bevis for at en transaksjon har funnet sted og gir nødvendig informasjon for korrekt [bokføring](/blogs/regnskap/hva-er-bokføring "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"). Uten bilag ville regnskapet mangle troverdighet og kunne ikke oppfylle lovkravene til dokumentasjon. Bilag er derfor selve fundamentet for pålitelig [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Norsk Regnskapsføring") og er essensielle for [internkontroll](/blogs/regnskap/hva-er-attestering "Hva er Attestering? En Komplett Guide til Bilagsbehandling og Godkjenning") i alle bedrifter.

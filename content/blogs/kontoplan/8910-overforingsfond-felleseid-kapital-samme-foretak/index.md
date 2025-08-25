@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 8910 - Overføringsfond felleseid kapital samme foretak"
-seoTitle: "8910-overforingsfond-felleseid-kapital-samme-foretak"
-description: '**Konto 8910 - Overføringsfond felleseid kapital samme foretak** er en konto innen **reserver og overføringer** i Norsk Standard Kontoplan (NS 4102) som bruk...'
+seoTitle: "Konto 8910 | Overføringsfond felleseid kapital | Kontoplan"
+description: "Konto 8910 brukes for overføringsfond knyttet til felleseid kapital i samme foretak. Lær hva kontoen dekker, bokføring og sammenheng med andre egenkapitalkontoer."
+summary: "Konto 8910 gjelder overføringsfond for felleseid kapital. Kort om bruk og bokføring."
 ---
 
 **Konto 8910 - Overføringsfond felleseid kapital samme foretak** er en konto innen **reserver og overføringer** i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **interne overføringer av felleseid kapital** mellom selskaper i samme foretakskonstellasjon.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 8400 - Ekstraordinær inntekt"
-seoTitle: "8400-ekstraordinaer-inntekt"
-description: '**Konto 8400 - Ekstraordinær inntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **ekstraordinær inntekt**, dvs. engangs- eller ufor...'
+seoTitle: "Konto 8400 | Ekstraordinær inntekt | Kontoplan"
+description: "Konto 8400 i norsk kontoplan brukes til å registrere ekstraordinær inntekt, som engangsgevinster utenfor ordinær drift. Lær føring, eksempler og presentasjon i resultatregnskapet."
+summary: "Kort guide til konto 8400 for ekstraordinære inntekter, med bokføring og presentasjon."
 ---
 
 **Konto 8400 - Ekstraordinær inntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **ekstraordinær inntekt**, dvs. engangs- eller uforutsigbare poster utenom ordinær drift.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Betalingsevne i Regnskap?"
-seoTitle: "Hva er Betalingsevne i Regnskap?"
-description: '**Betalingsevne** er bedriftens evne til å oppfylle sine **finansielle forpliktelser** når de forfaller. Dette er et kritisk aspekt av [arbeidskapital](/blogs...'
+seoTitle: "Betalingsevne | Måling, likviditet og nøkkeltall"
+description: "Hva er betalingsevne i regnskap? Lær hvordan likviditet og nøkkeltall som likviditetsgrad og kontantgrad måles og forbedres."
+summary: "Betalingsevne forklart: likviditet, nøkkeltall og tiltak."
 ---
 
 **Betalingsevne** er bedriftens evne til å oppfylle sine **finansielle forpliktelser** når de forfaller. Dette er et kritisk aspekt av [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Drift")-styring og påvirker direkte bedriftens overlevelse og vekstmuligheter.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 8800 - Årsresultat"
-seoTitle: "8800-arsresultat"
-description: '**Konto 8800 - Årsresultat** representerer **årets nettoresultat**, enten **overskudd** eller **underskudd**, før disponering til egenkapitalkontoer.'
+seoTitle: "Konto 8800 | Årsresultat | Kontoplan"
+description: "Konto 8800 i norsk kontoplan viser årets resultat (overskudd eller underskudd) som overføres til egenkapitalen ved årsoppgjør. Lær føring og sammenheng med disponeringer."
+summary: "Konto 8800 brukes for årsresultatet. Kort om føring og disponering mot egenkapital."
 ---
 
 **Konto 8800 - Årsresultat** representerer **årets nettoresultat**, enten **overskudd** eller **underskudd**, før disponering til egenkapitalkontoer.

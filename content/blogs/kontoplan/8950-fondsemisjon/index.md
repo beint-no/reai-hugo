@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 8950 - Fondsemisjon"
-seoTitle: "8950-fondsemisjon"
-description: '**Konto 8950 - Fondsemisjon** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **fondsemisjon** ved overføring av fri egenkapital...'
+seoTitle: "Konto 8950 | Fondsemisjon | Kontoplan"
+description: "Konto 8950 i norsk kontoplan brukes til å registrere fondsemisjon ved overføring av fri egenkapital til aksjekapital. Lær prosess, bokføring og presentasjon i balansen."
+summary: "Konto 8950 gjelder fondsemisjon. Kort om bruk, bokføring og balanseføring."
 ---
 
 **Konto 8950 - Fondsemisjon** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **fondsemisjon** ved overføring av fri egenkapital til aksjekapital.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er BIC-kode?"
-seoTitle: "Hva er BIC-kode?"
-description: '**BIC-kode** (Bank Identifier Code) er en internasjonal standard som brukes for å identifisere banker og finansinstitusjoner ved grenseoverskridende betalinger...'
+seoTitle: "BIC-kode | Hva det er og hvordan den brukes"
+description: "Hva er BIC-kode? Lær hva SWIFT/BIC er, struktur, norske eksempler og hvordan koden brukes sammen med IBAN for internasjonale betalinger."
+summary: "BIC-kode forklart: struktur, eksempler og bruk med IBAN."
 ---
 
 **BIC-kode** (Bank Identifier Code) er en internasjonal standard som brukes for å identifisere banker og finansinstitusjoner ved grenseoverskridende betalinger og finansielle transaksjoner. For norske bedrifter som driver med internasjonal handel, er forståelse av BIC-koder essensielt for korrekt håndtering av [banktransaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Komplett Guide til Registrering og Bokføring") og [valutahandel](/blogs/regnskap/hva-er-betalingsmidler "Hva er Betalingsmidler? Tvungne, Elektroniske og Tradisjonelle Metoder").

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Bilagsregistrere?"
-seoTitle: "Hva er Bilagsregistrere?"
-description: '**Bilagsregistrere** er den systematiske prosessen med å **registrere, organisere og arkivere** alle regnskapsbilag i en bedrift. Dette omfatter alt fra [faktu...'
+seoTitle: "Bilagsregistrering | Hva det er og hvordan gjøre det riktig"
+description: "Hva er bilagsregistrering? Lær hvordan du registrerer, nummererer og oppbevarer bilag i tråd med bokføringsloven og beste praksis."
+summary: "Bilagsregistrering forklart: prosess, nummerering og krav."
 ---
 
 **Bilagsregistrere** er den systematiske prosessen med å **registrere, organisere og arkivere** alle regnskapsbilag i en bedrift. Dette omfatter alt fra [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og [kvitteringer](/blogs/regnskap/kvittering "Hva er Kvittering? En Guide til Kvitteringskrav i Norsk Regnskap") til banktransaksjoner og lønnsbilag. Korrekt bilagsregistrering er grunnleggende for å opprettholde [god regnskapsskikk](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring i Norge") og sikre at alle finansielle transaksjoner er dokumentert og sporbare.

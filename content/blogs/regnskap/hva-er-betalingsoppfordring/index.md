@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Betalingsoppfordring?"
-seoTitle: "Hva er Betalingsoppfordring?"
-description: '**Betalingsoppfordring** er den formelle prosessen bedrifter bruker for å kreve inn utestående betalinger fra kunder som ikke har betalt sine [fakturaer](/blo...'
+seoTitle: "Betalingsoppfordring | Stegene fra purring til inkasso"
+description: "Hva er betalingsoppfordring? Lær prosessen fra vennlig påminnelse til purring, inkassovarsel og inkasso, med regler og beste praksis."
+summary: "Betalingsoppfordring forklart: prosess, regler og gebyrer."
 ---
 
 **Betalingsoppfordring** er den formelle prosessen bedrifter bruker for å kreve inn utestående betalinger fra kunder som ikke har betalt sine [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") innen forfallsdato. Dette er en kritisk del av [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Definisjon, Beregning og Optimalisering")-styringen og påvirker direkte bedriftens likviditet og [avkastning](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Beregning, Typer og Analyse"). For bedrifter som driver med **[fakturasalg](/blogs/regnskap/hva-er-fakturasalg "Hva er Fakturasalg? Komplett Guide til Kredittgivning og Debitorhåndtering")**, er systematisk betalingsoppfordring essensielt for å minimere kredittrisiko og opprettholde god kontantstrøm.

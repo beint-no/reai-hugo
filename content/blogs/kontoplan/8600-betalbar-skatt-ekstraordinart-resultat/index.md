@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 8600 - Betalbar skatt, ekstraordinært resultat"
-seoTitle: "8600-betalbar-skatt-ekstraordinart-resultat"
-description: '**Konto 8600 - Betalbar skatt, ekstraordinært resultat** er en konto i Norsk Standard Kontoplan som brukes til å registrere **betalbar skatt** knyttet til **e...'
+seoTitle: "Konto 8600 | Betalbar skatt ekstraordinært resultat | Kontoplan"
+description: "Konto 8600 brukes for betalbar skatt knyttet til ekstraordinært resultat. Lær hva som regnskapsføres her, sammenheng med konto 8300 og presentasjon i regnskapet."
+summary: "Konto 8600 gjelder betalbar skatt på ekstraordinære poster. Kort forklaring og bokføring."
 ---
 
 **Konto 8600 - Betalbar skatt, ekstraordinært resultat** er en konto i Norsk Standard Kontoplan som brukes til å registrere **betalbar skatt** knyttet til **ekstraordinært resultat** etter vedtak i generalforsamling eller styre.

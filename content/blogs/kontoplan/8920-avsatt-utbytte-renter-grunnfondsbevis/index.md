@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 8920 - Avsatt utbytte/renter grunnfondsbevis?"
-seoTitle: "8920-avsatt-utbytte-renter-grunnfondsbevis"
-description: '**Konto 8920 - Avsatt utbytte/renter grunnfondsbevis** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **avsetning av utbytte og ...'
+seoTitle: "Konto 8920 | Avsatt utbytte/renter grunnfondsbevis | Kontoplan"
+description: "Konto 8920 i norsk kontoplan brukes til å registrere avsatt utbytte og renter på grunnfondsbevis som kortsiktig gjeld frem til utbetaling. Lær bokføring, prosess og relaterte konti."
+summary: "Konto 8920 gjelder avsatt utbytte og renter på grunnfondsbevis. Kort om bruk og bokføring."
 ---
 
 **Konto 8920 - Avsatt utbytte/renter grunnfondsbevis** er en konto i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **avsetning av utbytte og renter på grunnfondsbevis** vedtatt av generalforsamlingen som kortsiktig gjeld frem til utbetaling eller renteutbetaling.

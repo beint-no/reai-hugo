@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er BNP?"
-seoTitle: "Hva er BNP?"
-description: '**Bruttonasjonalprodukt (BNP)** er verdien av alle ferdigstilte varer og tjenester produsert innenlands i en gitt periode, vanligvis ett år. BNP er en **nøkke...'
+seoTitle: "BNP | Hva er bruttonasjonalprodukt?"
+description: "Hva er BNP? En enkel forklaring på bruttonasjonalprodukt, beregningsmetoder og hvorfor det er viktig for økonomi og regnskap."
+summary: "BNP forklart: beregning, komponenter og relevans for regnskap."
 ---
 
 **Bruttonasjonalprodukt (BNP)** er verdien av alle ferdigstilte varer og tjenester produsert innenlands i en gitt periode, vanligvis ett år. BNP er en **nøkkelindikator** for å måle økonomisk vekst, **konjunktursvingninger** og bedrifters inntektsmuligheter.
