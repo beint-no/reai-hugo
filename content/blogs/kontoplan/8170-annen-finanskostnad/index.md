@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 8170 - Annen finanskostnad"
-seoTitle: "8170-annen-finanskostnad"
-description: '**Konto 8170 - Annen finanskostnad** brukes for å registrere diverse **finansielle kostnader** som ikke dekkes av andre spesifikke finanskostnadskonti i Norsk ...'
+seoTitle: "Konto 8170 | Annen finanskostnad | Kontoplan"
+description: "Konto 8170 brukes til andre finanskostnader som ikke dekkes av spesifikke rentekonti eller valutaposter. Se bokføring, eksempler og skattemessig behandling."
+summary: "Konto 8170: annen finanskostnad. Kort guide til bokføring og skatt."
 ---
 
 **Konto 8170 - Annen finanskostnad** brukes for å registrere diverse **finansielle kostnader** som ikke dekkes av andre spesifikke finanskostnadskonti i Norsk Standard Kontoplan.

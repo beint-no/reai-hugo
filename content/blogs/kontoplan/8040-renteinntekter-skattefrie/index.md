@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 8040 - Renteinntekter, skattefrie?"
-seoTitle: "8040-renteinntekter-skattefrie"
-description: '**Konto 8040 - Renteinntekter, skattefrie** er en konto i Norsk Standard Kontoplan som brukes til å registrere **skattefrie renteinntekter**.'
+seoTitle: "Konto 8040 | Renteinntekter, skattefrie | Kontoplan"
+description: "Konto 8040 brukes til skattefrie renteinntekter. Lær reglene for bokføring, periodisering og typiske føringer i norsk kontoplan."
+summary: "Kort forklaring av konto 8040 for skattefrie renteinntekter med bokføringstips."
 ---
 
 **Konto 8040 - Renteinntekter, skattefrie** er en konto i Norsk Standard Kontoplan som brukes til å registrere **skattefrie renteinntekter**.

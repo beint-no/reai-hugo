@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 8130 - Rentekostnad foretak i samme konsern?"
-seoTitle: "8130-rentekostnad-foretak-i-samme-konsern"
-description: '**Konto 8130 - Rentekostnad foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **rentekostnader** mellom konsernselsk...'
+seoTitle: "Konto 8130 | Rentekostnad foretak i samme konsern | Kontoplan"
+description: "Konto 8130 brukes til konserninterne rentekostnader. Les om bokføring, periodisering og eliminering i konsernregnskap."
+summary: "Konto 8130: konserninterne rentekostnader. Bokføring og prinsipper."
 ---
 
 **Konto 8130 - Rentekostnad foretak i samme konsern** er en konto i Norsk Standard Kontoplan som brukes til å registrere **rentekostnader** mellom konsernselskaper.

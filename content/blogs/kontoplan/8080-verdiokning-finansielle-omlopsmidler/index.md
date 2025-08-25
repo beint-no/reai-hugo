@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 8080 - Verdiøkning finansielle omløpsmidler?"
-seoTitle: "8080-verdiokning-finansielle-omlopsmidler"
-description: '**Konto 8080 - Verdiøkning finansielle omløpsmidler** er en konto i Norsk Standard Kontoplan som brukes for å resultatføre **urealiserte gevinster** på **f...'
+seoTitle: "Konto 8080 | Verdiøkning finansielle omløpsmidler | Kontoplan"
+description: "Konto 8080 brukes til urealiserte gevinster på finansielle omløpsmidler ved måling til virkelig verdi. Se bokføring, periodisering og praktiske hensyn."
+summary: "Konto 8080: urealiserte gevinster på finansielle omløpsmidler og bokføring."
 ---
 
 **Konto 8080 - Verdiøkning finansielle omløpsmidler** er en konto i Norsk Standard Kontoplan som brukes for å resultatføre **urealiserte gevinster** på **finansielle omløpsmidler**.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 8140 - Rentekostnad, ikke fradragsberettiget?"
-seoTitle: "8140-rentekostnad-ikke-fradragsberettiget"
-description: '**Konto 8140 - Rentekostnad, ikke fradragsberettiget** er en konto i Norsk Standard Kontoplan som brukes til å registrere **rentekostnader** som ikke er fradra...'
+seoTitle: "Konto 8140 | Rentekostnad, ikke fradragsberettiget | Kontoplan"
+description: "Konto 8140 brukes til rentekostnader som ikke er fradragsberettiget skattemessig. Les om typiske tilfeller, bokføring og periodisering."
+summary: "Konto 8140: ikke-fradragsberettigede rentekostnader. Regler og bokføring."
 ---
 
 **Konto 8140 - Rentekostnad, ikke fradragsberettiget** er en konto i Norsk Standard Kontoplan som brukes til å registrere **rentekostnader** som ikke er fradragsberettiget.

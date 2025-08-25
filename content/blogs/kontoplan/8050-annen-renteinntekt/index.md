@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konto 8050 - Annen renteinntekt?"
-seoTitle: "8050-annen-renteinntekt"
-description: '**Konto 8050 - Annen renteinntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **renteinntekter** fra eksterne finansielle instrumenter...'
+seoTitle: "Konto 8050 | Annen renteinntekt | Kontoplan"
+description: "Konto 8050 brukes for skattepliktige renteinntekter fra eksterne kilder som bankinnskudd, obligasjoner og utlån. Lær bokføring, periodisering og typiske føringer."
+summary: "Guide til konto 8050: annen renteinntekt, bokføring og periodisering."
 ---
 
 **Konto 8050 - Annen renteinntekt** er en konto i Norsk Standard Kontoplan som brukes til å registrere **renteinntekter** fra eksterne finansielle instrumenter som ikke er konserninterne eller skattefrie.
