@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 6000 - Avskrivning på bygninger og annen fast eiendom?"
-seoTitle: "6000"
-description: '**Konto 6000 - Avskrivning på bygninger og annen fast eiendom** er en konto i norsk kontoplan som benyttes for å fordele **anskaffelseskostnaden** til bygning...'
+title: "Konto 6000 - Avskrivning på bygninger og annen fast eiendom"
+seoTitle: "Konto 6000 | Avskrivning på bygninger og fast eiendom | Kontoplan"
+description: "Konto 6000 brukes til å bokføre avskrivning på bygninger og annen fast eiendom i norsk kontoplan. Forklarer grunnlag, perioder, metoder og bokføring."
+summary: "Når Konto 6000 brukes og hvordan avskrivning på bygninger føres i regnskapet."
 ---
 
 **Konto 6000 - Avskrivning på bygninger og annen fast eiendom** er en konto i norsk kontoplan som benyttes for å fordele **anskaffelseskostnaden** til bygninger og annen **fast eiendom** over deres økonomiske levetid.

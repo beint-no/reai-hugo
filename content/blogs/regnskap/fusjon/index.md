@@ -2,6 +2,7 @@
 title: "Hva er Fusjon? En komplett guide til fusjon i norsk regnskap"
 seoTitle: "Hva er Fusjon? En komplett guide til fusjon i norsk regnskap"
 description: '**Fusjon** er en selskapsrettslig prosess hvor to eller flere selskaper slås sammen til én juridisk enhet. Fusjon er et sentralt verktøy for reorganisering, ...'
+summary: "Fusjon i Norge: prosess, regnskapsføring, lovverk og skattemessige forhold."
 ---
 
 **Fusjon** er en selskapsrettslig prosess hvor to eller flere selskaper slås sammen til én juridisk enhet. Fusjon er et sentralt verktøy for reorganisering, vekst og skattemessig planlegging i norsk næringsliv.

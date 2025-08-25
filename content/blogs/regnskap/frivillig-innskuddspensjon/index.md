@@ -2,6 +2,7 @@
 title: "Frivillig Innskuddspensjon"
 seoTitle: "Frivillig Innskuddspensjon"
 description: '![Illustrasjon av Frivillig Innskuddspensjon](frivillig-innskuddspensjon-image.svg)'
+summary: "Hva er frivillig innskuddspensjon? Fordeler, regnskap og implementering."
 ---
 
 ![Illustrasjon av Frivillig Innskuddspensjon](frivillig-innskuddspensjon-image.svg)

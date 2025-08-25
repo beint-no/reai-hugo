@@ -2,6 +2,7 @@
 title: "Fullmakt"
 seoTitle: "Fullmakt"
 description: 'En **fullmakt** er et juridisk dokument som gir en person (*fullmaktsgiver*) rett til å la en annen (*fullmaktshaver*) handle på sine vegne i spesifikke saker...'
+summary: "Fullmakt i regnskap: typer, bruk, dokumentasjon og interne rutiner."
 ---
 
 En **fullmakt** er et juridisk dokument som gir en person (*fullmaktsgiver*) rett til å la en annen (*fullmaktshaver*) handle på sine vegne i spesifikke saker eller generelt. I norsk regnskap er **fullmakt** avgjørende for å sikre korrekt autorisering av bilag, signaturer og økonomiske disposisjoner. Fullmakter kan være skriftlige eller muntlige, men for regnskapsformål anbefales det alltid skriftlig dokumentasjon i tråd med kravene i _bokføringsloven_ og _avtaleloven_.

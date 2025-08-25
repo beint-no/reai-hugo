@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5420 - Innberetningspliktig pensjonskostnad"
-seoTitle: "5420-innberetningspliktig-pensjonskostnad"
-description: '**Konto 5420 - Innberetningspliktig pensjonskostnad** er en konto innen **lønns- og personalkostnader** i Norsk Standard Kontoplan (NS 4102) som brukes til å...'
+seoTitle: "Konto 5420 | Innberetningspliktig pensjonskostnad | Kontoplan"
+description: "Konto 5420 i Norsk Standard Kontoplan brukes til å registrere innberetningspliktige pensjonskostnader som skal rapporteres til myndighetene. Dekker regler, beregning og bokføring."
+summary: "Hva Konto 5420 omfatter, når den brukes og hvordan innberetningspliktige pensjonskostnader bokføres."
 ---
 
 **Konto 5420 - Innberetningspliktig pensjonskostnad** er en konto innen **lønns- og personalkostnader** i Norsk Standard Kontoplan (NS 4102) som brukes til å registrere **innberetningspliktige pensjonskostnader** knyttet til ansatte.

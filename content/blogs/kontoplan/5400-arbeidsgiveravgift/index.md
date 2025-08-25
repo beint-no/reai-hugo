@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5400 - Arbeidsgiveravgift"
-seoTitle: "5400-arbeidsgiveravgift"
-description: '**Konto 5400 - Arbeidsgiveravgift** er en lovpålagt avgift som arbeidsgivere betaler til folketrygden basert på [lønn](/blogs/kontoplan/2930-lonn Konto 2930...'
+seoTitle: "Konto 5400 | Arbeidsgiveravgift | Kontoplan"
+description: "Konto 5400 brukes til å bokføre arbeidsgiveravgift, en lovpålagt avgift til folketrygden beregnet på grunnlag av lønn, pensjon og naturalytelser. Inkluderer satser, beregning og bokføring."
+summary: "Hva arbeidsgiveravgift er, satser per sone og hvordan Konto 5400 bokføres."
 ---
 
 **Konto 5400 - Arbeidsgiveravgift** er en lovpålagt avgift som arbeidsgivere betaler til folketrygden basert på [lønn](/blogs/kontoplan/2930-lonn "Konto 2930 - Lønn"), pensjoner og naturalytelser.

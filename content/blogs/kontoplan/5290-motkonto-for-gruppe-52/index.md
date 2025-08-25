@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5290 - Motkonto for gruppe 52"
-seoTitle: "5290-motkonto-for-gruppe-52"
-description: '**Konto 5290 - Motkonto for gruppe 52** er en konto i **Norsk Standard Kontoplan (NS 4102)** som fungerer som **motkonto** for alle transaksjoner i gruppe 52 ...'
+seoTitle: "Konto 5290 | Motkonto for gruppe 52 | Kontoplan"
+description: "Konto 5290 i Norsk Standard Kontoplan fungerer som motkonto for transaksjoner i kontogruppe 52 (ansattgoder) og brukes til avstemming og kontroll av posteringer."
+summary: "Hva Konto 5290 brukes til, hvordan den avstemmes og bokføres mot ansattgode-kontoene i gruppe 52."
 ---
 
 **Konto 5290 - Motkonto for gruppe 52** er en konto i **Norsk Standard Kontoplan (NS 4102)** som fungerer som **motkonto** for alle transaksjoner i gruppe 52 (ansattgoder).

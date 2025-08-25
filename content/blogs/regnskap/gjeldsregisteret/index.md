@@ -2,6 +2,7 @@
 title: "Hva er Gjeldsregisteret?"
 seoTitle: "Hva er Gjeldsregisteret?"
 description: '**Gjeldsregisteret** er et offentlig register for **usikrede forbrukslån** og annen kreditt som gir långivere og kredittopplysningsbyråer en samlet oversikt ...'
+summary: "Gjeldsregisteret: hva som registreres, hvem som får innsyn og praktisk bruk."
 ---
 
 **Gjeldsregisteret** er et offentlig register for **usikrede forbrukslån** og annen kreditt som gir långivere og kredittopplysningsbyråer en samlet oversikt over en låntakers eksisterende gjeld. Registeret ble etablert for å styrke **kredittvurdering** og forebygge **økonomiske risikoer** ved å sikre at beslutninger om lån og kreditt baseres på fullstendige og pålitelige data.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5280 - Annen fordel i arbeidsforhold"
-seoTitle: "5280-annen-fordel-i-arbeidsforhold"
-description: '**Konto 5280 - Annen fordel i arbeidsforhold** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **øvrige fordeler** som **ans...'
+seoTitle: "Konto 5280 | Annen fordel i arbeidsforhold | Kontoplan"
+description: "Konto 5280 brukes i Norsk Standard Kontoplan for å registrere øvrige fordeler i arbeidsforhold som ansattgoder. Her inngår personalrabatter, naturalytelser og andre skattepliktige fordeler."
+summary: "Oversikt over Konto 5280 med eksempler, skatt og bokføring av andre fordeler i arbeidsforhold."
 ---
 
 **Konto 5280 - Annen fordel i arbeidsforhold** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **øvrige fordeler** som **ansattgoder**.

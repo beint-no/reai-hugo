@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5240 - Rentefordel"
-seoTitle: "5240-rentefordel"
-description: '**Konto 5240 - Rentefordel** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **rentefordel** som **ansattgode**.'
+seoTitle: "Konto 5240 | Rentefordel | Kontoplan"
+description: "Konto 5240 - Rentefordel brukes i Norsk Standard Kontoplan for å registrere rentefordel som ansattgode. Dette omfatter fordelen ved lån fra arbeidsgiver til under markedsrente og hvordan dette bokføres."
+summary: "Kort forklaring av Konto 5240 med regler, beregning og bokføring av rentefordel som ansattgode."
 ---
 
 **Konto 5240 - Rentefordel** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **rentefordel** som **ansattgode**.

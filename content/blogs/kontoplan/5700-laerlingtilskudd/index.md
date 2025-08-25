@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5700 - Lærlingtilskudd"
-seoTitle: "5700-laerlingtilskudd"
-description: '**Konto 5700 - Lærlingtilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **tilskudd virksomheter mottar for opplæring av lærl...'
+seoTitle: "Konto 5700 | Lærlingtilskudd | Kontoplan"
+description: "Konto 5700 i Norsk Standard Kontoplan brukes til å registrere lærlingtilskudd virksomheter mottar for opplæring av lærlinger. Omfatter vilkår, inntektsføring og bokføring."
+summary: "Hva lærlingtilskudd er, når Konto 5700 benyttes og hvordan tilskuddet bokføres."
 ---
 
 **Konto 5700 - Lærlingtilskudd** er en konto i **Norsk Standard Kontoplan** som brukes til å registrere **tilskudd virksomheter mottar for opplæring av lærlinger**.

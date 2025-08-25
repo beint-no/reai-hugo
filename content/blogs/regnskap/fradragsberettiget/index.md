@@ -2,6 +2,7 @@
 title: "Fradragsberettiget"
 seoTitle: "Fradragsberettiget"
 description: '**Fradragsberettiget** beskriver når en kostnad eller [utgift](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") kan trekkes fr...'
+summary: "Hva betyr fradragsberettiget? Regler, eksempler og beste praksis."
 ---
 
 **Fradragsberettiget** beskriver når en kostnad eller [utgift](/blogs/regnskap/utgift "Utgift “ Komplett Guide til Utgifter i Norsk Regnskap") kan trekkes fra i regnskapet eller skattemeldingen for å redusere det skattepliktige grunnlaget. Dette er et sentralt begrep i både bokføring og skatterett, og styrer hvilke kostnader som virksomheter og privatpersoner kan kreve fradrag for.

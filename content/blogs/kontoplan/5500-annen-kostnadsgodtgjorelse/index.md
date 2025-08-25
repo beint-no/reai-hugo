@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5500 - Annen kostnadsgodtgjørelse"
-seoTitle: "5500-annen-kostnadsgodtgjorelse"
-description: '**Konto 5500 - Annen kostnadsgodtgjørelse** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **annen kostnadsgodtgjørelse** i arbeidsforh...'
+seoTitle: "Konto 5500 | Annen kostnadsgodtgjørelse | Kontoplan"
+description: "Konto 5500 i Norsk Standard Kontoplan brukes for å registrere andre kostnadsgodtgjørelser i arbeidsforhold som ikke naturlig hører hjemme på andre kontoer. Omfatter regler, eksempler og bokføring."
+summary: "Når Konto 5500 brukes, typiske eksempler og hvordan andre kostnadsgodtgjørelser bokføres."
 ---
 
 **Konto 5500 - Annen kostnadsgodtgjørelse** er en konto i Norsk Standard Kontoplan som benyttes for å registrere **annen kostnadsgodtgjørelse** i arbeidsforhold.

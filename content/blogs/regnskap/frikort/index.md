@@ -2,6 +2,7 @@
 title: "Hva er Frikort?"
 seoTitle: "Hva er Frikort?"
 description: '**Frikort** er et [skattekort](/blogs/regnskap/skattekort "Hva er Skattekort? En komplett guide til skattekortregler i Norge") som gjør at du ikke betaler skat...'
+summary: "Frikort i Norge: hvordan det fungerer, hvem som kan få det og grenser."
 ---
 
 **Frikort** er et [skattekort](/blogs/regnskap/skattekort "Hva er Skattekort? En komplett guide til skattekortregler i Norge") som gjør at du ikke betaler skatt på inntekt opp til en bestemt grense. Dette er et viktig verktøy i det norske skattesystemet for **lavinntektsgrupper** som studenter, pensjonister og deltidsansatte.

@@ -2,6 +2,7 @@
 title: "Halv skatt"
 seoTitle: "Halv skatt"
 description: '**Halv skatt** er en ordning der ansatte får redusert skattetrekk i visse måneder, vanligvis **juni** og **desember**, for å lette likviditeten i ferie- og h...'
+summary: "Halv skatt: hvordan ordningen fungerer, når den gjelder og praktiske tips."
 ---
 
 **Halv skatt** er en ordning der ansatte får redusert skattetrekk i visse måneder, vanligvis **juni** og **desember**, for å lette likviditeten i ferie- og høytidssesonger.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5900 - Gaver til ansatte"
-seoTitle: "5900-gaver-til-ansatte"
-description: '**Konto 5900 - Gaver til ansatte** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **gaver til ansatte** som en del av ansatt...'
+seoTitle: "Konto 5900 | Gaver til ansatte | Kontoplan"
+description: "Konto 5900 i Norsk Standard Kontoplan brukes til å registrere gaver til ansatte som ansattgoder. Inneholder skatteregler, grenser og bokføring av gaver."
+summary: "Regler, grenser og bokføring for gaver til ansatte på Konto 5900."
 ---
 
 **Konto 5900 - Gaver til ansatte** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **gaver til ansatte** som en del av ansattgoder.

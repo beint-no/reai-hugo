@@ -2,6 +2,7 @@
 title: "Hva er A-konto Betaling? En Enkel Forklaring"
 seoTitle: "Hva er A-konto Betaling? En Enkel Forklaring"
 description: 'A-konto, en forkortelse for **Ã  conto**, er et italiensk begrep som betyr "på regning". I praksis er en a-konto betaling en **delinnbetaling** for en vare ell...'
+summary: "A-konto betaling: hva det er, hvordan det fungerer og regnskapsmessig behandling."
 ---
 
 A-konto, en forkortelse for **Ã  conto**, er et italiensk begrep som betyr "på regning". I praksis er en a-konto betaling en **delinnbetaling** for en vare eller tjeneste hvor den endelige prisen ennå ikke er kjent. Man betaler et avdrag basert på et estimat, og en endelig avregning skjer senere.

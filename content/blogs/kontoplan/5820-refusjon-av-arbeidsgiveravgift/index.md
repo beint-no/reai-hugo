@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5820 - Refusjon av arbeidsgiveravgift"
-seoTitle: "5820-refusjon-av-arbeidsgiveravgift"
-description: '**Konto 5820 - Refusjon av arbeidsgiveravgift** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **refusjon av arbeidsgiveravg...'
+seoTitle: "Konto 5820 | Refusjon av arbeidsgiveravgift | Kontoplan"
+description: "Konto 5820 i Norsk Standard Kontoplan brukes til å registrere refusjon av arbeidsgiveravgift fra myndighetene, som reduserer kostnaden. Omfatter vilkår, periodisering og bokføring."
+summary: "Når Konto 5820 brukes og hvordan refusjon av arbeidsgiveravgift bokføres i regnskapet."
 ---
 
 **Konto 5820 - Refusjon av arbeidsgiveravgift** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **refusjon av arbeidsgiveravgift** fra myndighetene som en reduksjon av arbeidsgiveravgiftskostnader.

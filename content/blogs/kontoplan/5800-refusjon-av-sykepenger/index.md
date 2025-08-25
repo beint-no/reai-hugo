@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5800 - Refusjon av sykepenger"
-seoTitle: "5800-refusjon-av-sykepenger"
-description: '**Konto 5800 - Refusjon av sykepenger** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **refusjon av sykepenger** fra NAV so...'
+seoTitle: "Konto 5800 | Refusjon av sykepenger | Kontoplan"
+description: "Konto 5800 i Norsk Standard Kontoplan brukes til å registrere refusjon av sykepenger fra NAV som reduserer lønnskostnader. Omhandler vilkår, periodisering og bokføring."
+summary: "Når Konto 5800 benyttes og hvordan refusjon av sykepenger fra NAV bokføres."
 ---
 
 **Konto 5800 - Refusjon av sykepenger** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **refusjon av sykepenger** fra NAV som en reduksjon av lønnskostnader.

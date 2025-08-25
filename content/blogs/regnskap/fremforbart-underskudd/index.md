@@ -2,6 +2,7 @@
 title: "Fremførbart underskudd"
 seoTitle: "Fremførbart underskudd"
 description: '**Fremførbart underskudd** gir mulighet til å utsette skattebetaling ved negativt skattemessig resultat ved å fremføre underskudd til senere år. Dette er e...'
+summary: "Fremførbart underskudd forklart: regler, beregning og rapportering."
 ---
 
 **Fremførbart underskudd** gir mulighet til å utsette skattebetaling ved negativt skattemessig resultat ved å fremføre underskudd til senere år. Dette er en sentral del av **norsk regnskap** og **skatterett**, som sikrer lik behandling av skattebetalere over tid.

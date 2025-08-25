@@ -1,7 +1,8 @@
 ﻿---
 title: "Konto 5300 - Tantieme"
-seoTitle: "5300-tantieme"
-description: '**Konto 5300 - Tantieme** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **tantieme** eller resultatbasert godtgjørelse til...'
+seoTitle: "Konto 5300 | Tantieme | Kontoplan"
+description: "Konto 5300 i Norsk Standard Kontoplan brukes til å registrere tantieme, resultatbasert godtgjørelse til ledelse og styre, med regler for beregning, skatt og bokføring."
+summary: "Hva tantieme er, når det brukes og hvordan Konto 5300 bokføres i regnskapet."
 ---
 
 **Konto 5300 - Tantieme** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **tantieme** eller resultatbasert godtgjørelse til ledelse og styremedlemmer.

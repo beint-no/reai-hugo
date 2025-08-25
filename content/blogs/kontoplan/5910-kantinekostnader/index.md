@@ -1,7 +1,8 @@
 ﻿---
-title: "Hva er Konto 5910 - Kantinekostnader?"
-seoTitle: "5910-kantinekostnader"
-description: '**Konto 5910 - Kantinekostnader** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kantinekostnader** som en **ansattfordel*...'
+title: "Konto 5910 - Kantinekostnader"
+seoTitle: "Konto 5910 | Kantinekostnader | Kontoplan"
+description: "Konto 5910 i Norsk Standard Kontoplan brukes til å registrere kantinekostnader som ansattgode. Inneholder regler, skattegrenser og bokføring av kantineordninger."
+summary: "Når Konto 5910 brukes, skatteregler og hvordan kantinekostnader bokføres."
 ---
 
 **Konto 5910 - Kantinekostnader** er en konto i **Norsk Standard Kontoplan (NS 4102)** som brukes til å registrere **kantinekostnader** som en **ansattfordel** for bedriftens ansatte.
