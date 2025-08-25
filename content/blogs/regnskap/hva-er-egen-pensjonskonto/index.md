@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Egen Pensjonskonto?"
-seoTitle: "Hva er Egen Pensjonskonto?"
-description: '![Illustrasjon av Egen Pensjonskonto](hva-er-egen-pensjonskonto-image.svg)'
+seoTitle: "Hva er egen pensjonskonto? | Samle pensjon og få bedre oversikt"
+description: "Egen pensjonskonto samler pensjonsmidler fra tidligere og nåværende arbeidsgivere. Lær hvordan ordningen fungerer, fordeler, og hvordan du kommer i gang."
+summary: "Kort forklaring av egen pensjonskonto: hva det er, fordeler og praktiske steg for å ta i bruk ordningen."
 ---
 
 ![Illustrasjon av Egen Pensjonskonto](hva-er-egen-pensjonskonto-image.svg)

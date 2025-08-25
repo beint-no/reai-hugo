@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er eFaktura?"
-seoTitle: "Hva er eFaktura?"
-description: '**eFaktura** er Norges elektroniske faktureringssystem som revolusjonerer måten bedrifter og privatpersoner håndterer [fakturaer](/blogs/regnskap/hva-er-en-fa...'
+seoTitle: "Hva er eFaktura? | Elektronisk fakturering og bokføring"
+description: "eFaktura er elektronisk fakturering i Norge via PEPPOL. Lær krav, formater, implementering og fordeler for effektiv fakturahåndtering og regnskap."
+summary: "eFaktura forklart: krav, standarder, Access Point, kostnadsbesparelser og integrasjon med ERP/regnskap."
 ---
 
 **eFaktura** er Norges elektroniske faktureringssystem som revolusjonerer måten bedrifter og privatpersoner håndterer [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") på. Dette digitale systemet erstatter tradisjonelle papirfakturaer med strukturerte, elektroniske dokumenter som kan behandles automatisk gjennom hele fakturabehandlingsprosessen - fra utsendelse til [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring og Bokføringsregler").

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Dokumentasjon i Regnskap og Bokføring? Komplett Guide til Regnskapsdokumentasjon"
-seoTitle: "Hva er Dokumentasjon i Regnskap og Bokføring? Komplett Guide til Regnskapsdokumentasjon"
-description: '**Dokumentasjon i regnskap og bokføring** er det juridiske og praktiske fundamentet som sikrer sporbarhet, kontroll og etterlevelse av norske regnskapsregler. ...'
+seoTitle: "Dokumentasjon i regnskap | Krav, oppbevaring og bilag"
+description: "Dokumentasjon i regnskap og bokføring sikrer sporbarhet og kontroll. Lær lovkrav, oppbevaringstid, bilagstyper og gode rutiner for dokumentasjon."
+summary: "Komplett guide til regnskapsdokumentasjon: krav i bokføringsloven, oppbevaring, bilag og digital arkivering."
 ---
 
 **Dokumentasjon i regnskap og bokføring** er det juridiske og praktiske fundamentet som sikrer sporbarhet, kontroll og etterlevelse av norske regnskapsregler. Som en kritisk del av [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") og [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En dybdeanalyse for Norge"), omfatter dokumentasjon alle bilag, registreringer og støttedokumenter som kreves for å bevise og forklare økonomiske transaksjoner.
