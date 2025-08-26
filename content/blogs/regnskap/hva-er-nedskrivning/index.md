@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Nedskrivning i Regnskap?"
-seoTitle: "Hva er Nedskrivning i Regnskap?"
-description: '**Nedskrivning** er en regnskapsmessig reduksjon av en [eiendels](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Regnskap") bokfø...'
+seoTitle: "Nedskrivning | Definisjon, indikatorer og bokføring"
+description: "Nedskrivning reduserer bokført verdi når eiendelens gjenvinnbare beløp er lavere. Lær indikatorer, beregning og regnskapsmessig behandling etter norske regler."
+summary: "Kort forklart hva nedskrivning er, når det skal vurderes og hvordan det beregnes og bokføres."
 ---
 
 **Nedskrivning** er en regnskapsmessig reduksjon av en [eiendels](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? Komplett Guide til Eiendeler i Regnskap") bokførte verdi når den virkelige verdien er lavere enn det som står i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap"). Dette er en permanent verdireduksjon som skiller seg fra ordinære [avskrivninger](/blogs/regnskap/hva-er-avskrivning "Hva er Avskrivning i Regnskap? Metoder, Beregning og Regler").

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Sammenstillingsprinsippet?"
-seoTitle: "Hva er Sammenstillingsprinsippet?"
-description: '**Sammenstillingsprinsippet** er et grunnleggende regnskapsprinsipp som krever at **kostnader** som er direkte knyttet til **inntektene** de genererer, regnskap...'
+seoTitle: "Sammenstillingsprinsippet | Match kostnader og inntekter"
+description: "Sammenstillingsprinsippet krever at kostnader knyttet til en inntekt regnskapsføres i samme periode. Slik får virksomheten et korrekt bilde av lønnsomheten."
+summary: "Forklaring av sammenstillingsprinsippet med eksempler, formål og regelverk."
 ---
 
 **Sammenstillingsprinsippet** er et grunnleggende regnskapsprinsipp som krever at **kostnader** som er direkte knyttet til **inntektene** de genererer, regnskapsføres i samme periode. Dette gir et mest mulig korrekt bilde av virksomhetens lønnsomhet og finansielle stilling.

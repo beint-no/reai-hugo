@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er likviditet?"
-seoTitle: "Hva er likviditet?"
-description: '**Likviditet** er et av de mest kritiske konseptene innen regnskap og finansstyring. Det refererer til en bedrifts evne til å møte sine kortsiktige finansiell...'
+seoTitle: "Hva er likviditet? | Definisjon, nøkkeltall og styring"
+description: "Likviditet er bedriftens evne til å betale kortsiktige forpliktelser. Lær definisjon, beregning, nøkkeltall som current ratio og tiltak for bedre likviditetsstyring."
+summary: "Kort forklaring av likviditet, sentrale nøkkeltall og praktiske tiltak for å sikre betalingsevne i virksomheten."
 ---
 
 **Likviditet** er et av de mest kritiske konseptene innen regnskap og finansstyring. Det refererer til en bedrifts evne til å møte sine kortsiktige finansielle forpliktelser når de forfaller, uten å måtte selge langsiktige eiendeler eller skaffe ekstern finansiering på ugunstige vilkår. Likviditet er fundamentalt for enhver virksomhets overlevelse og vekst.

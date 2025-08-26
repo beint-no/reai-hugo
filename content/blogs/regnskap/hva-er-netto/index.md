@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Netto i Regnskap?"
-seoTitle: "Hva er Netto i Regnskap?"
-description: '**Netto** er et fundamentalt begrep i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som refererer til **beløpet som gjenst...'
+seoTitle: "Netto i regnskap | Definisjon, eksempler og beregning"
+description: "Netto er beløpet som gjenstår etter fradrag av kostnader, skatter og avgifter. Se definisjon, eksempler på nettoomsetning, nettolønn og nettoresultat."
+summary: "Kort forklaring av netto-begrepet med praktiske eksempler fra lønn, omsetning og resultatberegning."
 ---
 
 **Netto** er et fundamentalt begrep i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som refererer til **beløpet som gjenstår etter fradrag** av skatter, avgifter, kostnader eller andre reduksjoner. Begrepet står i direkte motsetning til [brutto](/blogs/regnskap/hva-er-brutto "Hva er Brutto i Regnskap? Definisjon og Praktisk Anvendelse") og er avgjørende for å forstå den faktiske økonomiske verdien i regnskapssammenheng.

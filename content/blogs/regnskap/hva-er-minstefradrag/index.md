@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er minstefradrag?"
-seoTitle: "Hva er minstefradrag?"
-description: '**Minstefradrag** er et standardisert [fradrag](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og Regnskapsføring"...'
+seoTitle: "Minstefradrag | Satser, regler og beregning"
+description: "Minstefradrag er et standard fradrag i norsk skatt for lønn og pensjon. Se satser, regler og eksempler på beregning for ulike inntekter."
+summary: "Kort forklart: hva minstefradrag er, hvem som får det og hvordan du beregner fradraget for lønn og pensjon."
 ---
 
 **Minstefradrag** er et standardisert [fradrag](/blogs/regnskap/hva-er-fradrag "Hva er Fradrag i Regnskap? Komplett Guide til Skattefradrag og Regnskapsføring") som alle lønnstakere og pensjonister i Norge automatisk får i sin [selvangivelse](/blogs/regnskap/hva-er-egenmelding "Hva er Egenmelding? Komplett Guide til Selvangivelse og Skattemelding"). Dette fradraget skal dekke de vanligste utgiftene knyttet til arbeid og inntektserverv, og utgjør en viktig del av det norske skattesystemet.

@@ -1,7 +1,8 @@
 ﻿---
 title: "NAV i Regnskap – Rolle og Bruk av Arbeids- og velferdsdata"
-seoTitle: "NAV i Regnskap “ Rolle og Bruk av Arbeids- og velferdsdata"
-description: '![NAV i Regnskap](nav-image.svg)'
+seoTitle: "NAV i regnskap | Rolle, ytelser og rapportering"
+description: "NAV forvalter trygde- og velferdsytelser i Norge. Se hvordan NAV bruker A-meldingen, hvilke ytelser som beregnes og arbeidsgivers viktigste rapporteringsplikter."
+summary: "Praktisk oversikt over NAV sin rolle for bedrifter: A-melding, ytelser som sykepenger og krav til rapportering."
 ---
 
 ![NAV i Regnskap](nav-image.svg)

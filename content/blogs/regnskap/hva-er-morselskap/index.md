@@ -1,7 +1,8 @@
 ﻿---
-title: "hva-er-morselskap"
-seoTitle: "hva-er-morselskap"
-description: 'Et **morselskap** er et selskap som har bestemmende innflytelse over ett eller flere andre selskaper ([datterselskaper](/blogs/regnskap/datterselskap "Hva er Da...'
+title: "Hva er Morselskap?"
+seoTitle: "Morselskap | Definisjon, kontroll og konsernregnskap"
+description: "Et morselskap kontrollerer ett eller flere datterselskaper gjennom eiermakt. Lær definisjon, krav til konsolidering og hvordan konsern styres og rapporteres."
+summary: "Hva et morselskap er, hvordan kontroll utøves og hvilke regnskaps- og skatteregler som gjelder i konsern."
 ---
 
 Et **morselskap** er et selskap som har bestemmende innflytelse over ett eller flere andre selskaper ([datterselskaper](/blogs/regnskap/datterselskap "Hva er Datterselskap? En Guide til Datterselskap og Konsernstruktur")) gjennom eierskap av aksjer eller andeler. Morselskapet står på toppen av en [konsernstruktur](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukturer og Konsolidering") og har kontroll over datterselskapenes strategiske beslutninger.

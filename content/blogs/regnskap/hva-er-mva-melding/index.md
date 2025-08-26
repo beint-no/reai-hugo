@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er MVA-melding?"
-seoTitle: "Hva er MVA-melding?"
-description: '**MVA-melding** er den obligatoriske rapporten som [MVA-registrerte virksomheter](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett G...'
+seoTitle: "MVA-melding | Hva den er, frister og hvordan du leverer"
+description: "MVA-melding er rapporten MVA-registrerte virksomheter sender til Skatteetaten. Se hva den inneholder, frister, terminer og steg for korrekt innlevering."
+summary: "En praktisk innføring i MVA-meldingen: innhold, frister og prosess for å levere riktig og i tide."
 ---
 
 **MVA-melding** er den obligatoriske rapporten som [MVA-registrerte virksomheter](/blogs/regnskap/hva-er-avgiftsplikt-mva "Hva er Avgiftsplikt (MVA)? Komplett Guide til Merverdiavgift i Norge") må levere til Skatteetaten for å rapportere inn- og utgående merverdiavgift. Denne meldingen er grunnlaget for beregning av hvor mye MVA bedriften skylder staten eller har til gode, og er en sentral del av det norske skattesystemet. Som en viktig komponent i **[opplysningsplikten](/blogs/regnskap/hva-er-opplysningsplikt "Hva er opplysningsplikt? Komplett guide til rapporteringsplikt")**, representerer MVA-meldingen bedrifters lovpålagte ansvar for å rapportere avgiftsinformasjon til myndighetene. MVA-meldingen leveres elektronisk gjennom [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Norges Digitale Portal for Næringsliv og Privatpersoner") og er tett integrert med bedriftens [regnskapssystem](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsprinsipper og Praksis").

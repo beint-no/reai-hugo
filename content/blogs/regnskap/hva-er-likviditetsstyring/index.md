@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Likviditetsstyring i Regnskap?"
-seoTitle: "Hva er Likviditetsstyring i Regnskap?"
-description: '**Likviditetsstyring** er en kritisk del av finansiell ledelse som handler om å sikre at en bedrift har tilstrekkelig [kontantbeholdning](/blogs/regnskap/hva-e...'
+seoTitle: "Likviditetsstyring | Metoder, nøkkeltall og beste praksis"
+description: "Likviditetsstyring handler om å sikre nok kontanter til å betale regninger til rett tid. Lær metoder, nøkkeltall og tiltak som forbedrer kontantstrøm og betalingsevne."
+summary: "Praktisk guide til likviditetsstyring med fokus på planlegging, analyse og tiltak som styrker kontantstrøm og kortsiktig robusthet."
 ---
 
 **Likviditetsstyring** er en kritisk del av finansiell ledelse som handler om å sikre at en bedrift har tilstrekkelig [kontantbeholdning](/blogs/regnskap/hva-er-kontantbeholdning "Hva er Kontantbeholdning? Komplett Guide til Kontanter og Bankinnskudd") og tilgang til likvide midler for å møte sine kortsiktige forpliktelser. Som en sentral komponent i [finansregnskap](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? Komplett Guide til Eksternregnskap og Finansiell Rapportering"), involverer likviditetsstyring planlegging, overvåking og kontroll av [kontantstrøm](/blogs/regnskap/hva-er-kontantstrom "Hva er Kontantstrøm? Komplett Guide til Kontantstrømanalyse og Likviditetsstyring") for å optimalisere bedriftens finansielle fleksibilitet. For norske bedrifter er effektiv likviditetsstyring essensielt for å opprettholde [betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet") og sikre kontinuerlig drift i henhold til [god regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Prinsipper og Retningslinjer for Norsk Regnskap").

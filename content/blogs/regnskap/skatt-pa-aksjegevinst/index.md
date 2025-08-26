@@ -1,7 +1,8 @@
 ﻿---
 title: "Skatt på aksjegevinst"
-seoTitle: "Skatt på aksjegevinst"
-description: '**Skatt på aksjegevinst** omfatter skattereglene for gevinst ved salg av aksjer for både privatpersoner og bedrifter i Norge. Denne artikkelen går i dybden p...'
+seoTitle: "Skatt på aksjegevinst | Regler for personer og selskaper"
+description: "Skatt på aksjegevinst dekker beskatning av gevinst ved salg av aksjer for privatpersoner og selskaper. Artikkelen forklarer aksjonærmodellen, skjerming, ASK og fritaksmetoden."
+summary: "Hovedregler for skatt på aksjegevinst: aksjonærmodell, ASK og fritaksmetoden."
 ---
 
 **Skatt på aksjegevinst** omfatter skattereglene for gevinst ved salg av aksjer for både privatpersoner og bedrifter i Norge. Denne artikkelen går i dybden på de ulike skatteregimene, inkludert aksjonærmodellen, skjermingsfradrag, fritaksmetoden og aksjesparekonto (ASK), samt praktiske eksempler på beregning og rapportering.

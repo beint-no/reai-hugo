@@ -1,7 +1,8 @@
 ﻿---
-title: "samvirkeforetak"
-seoTitle: "samvirkeforetak"
-description: '![Illustrasjon av Samvirkeforetak](samvirkeforetak-image.svg)'
+title: "Samvirkeforetak"
+seoTitle: "Samvirkeforetak | Hva er SA og hvordan fungerer det?"
+description: "Samvirkeforetak er en økonomisk forening der medlemmene eier, styrer og deler overskudd etter samvirkeprinsippet. Artikkelen forklarer kjennetegn, regnskap og skatt."
+summary: "Hva et samvirkeforetak er, nøkkelfunksjoner, regnskapskrav og fordeling av overskudd."
 ---
 
 ![Illustrasjon av Samvirkeforetak](samvirkeforetak-image.svg)

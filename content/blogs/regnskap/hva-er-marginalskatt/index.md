@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Marginalskatt?"
-seoTitle: "Hva er Marginalskatt?"
-description: '**Marginalskatt** er den skattesatsen som gjelder for den siste kronen du tjener i inntekt. Dette er et sentralt begrep innen [regnskap](/blogs/regnskap/hva-er-...'
+seoTitle: "Marginalskatt | Definisjon, satser og beregning"
+description: "Marginalskatt er skattesatsen på den siste kronen du tjener. Se hvordan marginalskatt beregnes, gjeldende satser og hva det betyr for lønn og skatteplanlegging."
+summary: "Enkelt forklart: hva marginalskatt er, hvordan den beregnes og hvilke satser som gjelder i Norge."
 ---
 
 **Marginalskatt** er den skattesatsen som gjelder for den siste kronen du tjener i inntekt. Dette er et sentralt begrep innen [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring") og skatteplanlegging som påvirker både privatpersoner og bedrifter i Norge.

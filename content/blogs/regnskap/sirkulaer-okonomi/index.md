@@ -1,7 +1,8 @@
 ﻿---
 title: "Sirkulær økonomi"
-seoTitle: "Sirkulær økonomi"
-description: '**Sirkulær økonomi** er en modell for å **optimalisere ressursbruk** og redusere avfall ved å designe produkter og tjenester for gjenbruk, reparasjon og res...'
+seoTitle: "Sirkulær økonomi | Prinsipper, tiltak og rapportering"
+description: "Sirkulær økonomi er en modell for å optimalisere ressursbruk og redusere avfall gjennom gjenbruk, reparasjon og resirkulering. Slik påvirker det regnskap og rapportering."
+summary: "Hva sirkulær økonomi betyr, hovedprinsipper og hvordan det implementeres i regnskap."
 ---
 
 **Sirkulær økonomi** er en modell for å **optimalisere ressursbruk** og redusere avfall ved å designe produkter og tjenester for gjenbruk, reparasjon og resirkulering. Denne tilnærmingen bygger på prinsippene for [Bærekraft](/blogs/regnskap/baerekraft "Bærekraft i Regnskap: En Komplett Guide til Bærekraft og Bærekraftsrapportering") og har økende betydning for norsk regnskapspraksis og rapportering.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Revisor"
-seoTitle: "Revisor"
-description: 'Revisor er en kvalifisert profesjonell som har ansvaret for å gjennomføre **revisjon** av årsregnskap og sikre at regnskapet er korrekt, pålitelig og i sams...'
+seoTitle: "Revisor | Roller, krav og revisjonsprosess"
+description: "Revisor er en kvalifisert fagperson som gjennomfører revisjon av årsregnskap og vurderer internkontroll for å sikre korrekt og pålitelig rapportering etter norsk lovverk."
+summary: "Hva en revisor gjør, krav i Norge og hovedsteg i revisjonsprosessen."
 ---
 
 Revisor er en kvalifisert profesjonell som har ansvaret for å gjennomføre **revisjon** av årsregnskap og sikre at regnskapet er korrekt, pålitelig og i samsvar med gjeldende lover og standarder, slik som [Regnskapsloven](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? En Komplett Guide til Norske Regnskapslover og Forskrifter"). Revisorens arbeid legger grunnlaget for tillit hos investorer, kreditorer og andre interessenter.

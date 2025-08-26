@@ -1,7 +1,8 @@
 ﻿---
 title: "Selskapsform"
-seoTitle: "Selskapsform"
-description: '![Oversikt over selskapsformer i Norge](selskapsform-image.svg)'
+seoTitle: "Selskapsform | Oversikt over selskapsformer i Norge"
+description: "Selskapsform er den juridiske formen en virksomhet har, som styrer ansvar, kapital og skatteregler. Denne oversikten forklarer vanlige selskapsformer i Norge."
+summary: "Kort om selskapsformer: ansvar, kapital, skatt og hvor du kan lese mer om hver form."
 ---
 
 ![Oversikt over selskapsformer i Norge](selskapsform-image.svg)

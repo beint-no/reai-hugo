@@ -1,7 +1,8 @@
 ﻿---
 title: "Selvstendig næringsdrivende"
-seoTitle: "Selvstendig næringsdrivende"
-description: 'For en oversikt over selskapsformer, se [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Gui...'
+seoTitle: "Selvstendig næringsdrivende | Regler, skatt og regnskap"
+description: "Selvstendig næringsdrivende er en person som driver næringsvirksomhet i eget navn. Her får du oversikt over ansvar, skatt, MVA og regnskapsplikt."
+summary: "Hva det betyr å være selvstendig næringsdrivende og hvilke krav som gjelder i Norge."
 ---
 
 For en oversikt over selskapsformer, se [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen").

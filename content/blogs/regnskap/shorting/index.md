@@ -1,7 +1,8 @@
 ﻿---
 title: "Shorting (Short-salg)"
-seoTitle: "Shorting (Short-salg)"
-description: 'En **shorting** (også kalt *short-salg*) er en spekulativ strategi der en investor låner og selger **aksjer** fra en meglervirksomhet med forventning om at ak...'
+seoTitle: "Shorting | Hva er short-salg og hvordan bokføres det?"
+description: "Shorting er en strategi der investoren låner og selger aksjer med forventning om kursfall. Artikkelen forklarer prosess, risiko og regnskapsmessig behandling."
+summary: "Definisjon av shorting, steg i prosessen, risikoer og regnskapsregler."
 ---
 
 En **shorting** (også kalt *short-salg*) er en spekulativ strategi der en investor låner og selger **aksjer** fra en meglervirksomhet med forventning om at aksjekursen vil falle. Målet er å kjøpe aksjene tilbake til en lavere kurs, returnere dem til långiver, og realisere gevinst i forskjellen.

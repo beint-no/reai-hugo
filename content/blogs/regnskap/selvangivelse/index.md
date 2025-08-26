@@ -1,7 +1,8 @@
 ﻿---
 title: "Selvangivelse"
-seoTitle: "Selvangivelse"
-description: '**Selvangivelse** er den offisielle skattemeldingen som bedrifter og privatpersoner sender til Skatteetaten for å rapportere inntekter, fradrag og beregne skyl...'
+seoTitle: "Selvangivelse | Skattemelding for personer og bedrifter"
+description: "Selvangivelse er skattemeldingen som sendes til Skatteetaten for å rapportere inntekter og fradrag. Denne guiden forklarer frister, innsending og innhold."
+summary: "Kort om selvangivelse/skattemelding: frister, innsending i Altinn og hva som kreves."
 ---
 
 **Selvangivelse** er den offisielle skattemeldingen som bedrifter og privatpersoner sender til Skatteetaten for å rapportere inntekter, fradrag og beregne skyldig **skatt**. I Norge benyttes begrepet [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering") som synonym, men termen **selvangivelse** er fortsatt mye brukt.

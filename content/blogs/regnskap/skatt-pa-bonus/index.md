@@ -1,7 +1,8 @@
 ﻿---
 title: "Skatt på bonus"
-seoTitle: "Skatt på bonus"
-description: '**Skatt på bonus** refererer til de skattemessige reglene som gjelder for bonusutbetalinger i Norge, både for ansatte og arbeidsgivere. I denne artikkelen gå...'
+seoTitle: "Skatt på bonus | Skattetrekk, rapportering og eksempler"
+description: "Skatt på bonus beskriver reglene for bonusutbetalinger til ansatte og arbeidsgivers plikter. Slik beregnes skattetrekk og rapporteres bonus i a-meldingen."
+summary: "Hvordan bonus beskattes i Norge: trekkmetoder, rapportering og praktiske eksempler."
 ---
 
 **Skatt på bonus** refererer til de skattemessige reglene som gjelder for bonusutbetalinger i Norge, både for ansatte og arbeidsgivere. I denne artikkelen går vi gjennom hvordan bonus beskattes, hvilke skattetrekk som benyttes, rapportering, og gir konkrete eksempler.

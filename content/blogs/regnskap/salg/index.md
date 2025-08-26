@@ -1,7 +1,8 @@
 ﻿---
 title: "Salg – Komplett Guide til Salg i Norsk Regnskap"
-seoTitle: "Salg “ Komplett Guide til Salg i Norsk Regnskap"
-description: '**Salg** er en transaksjon hvor varer eller tjenester overføres fra selger til kjøper, ofte mot betaling eller forpliktelse til betaling. I norsk regnskap er ...'
+seoTitle: "Salg | Regnskapsføring, dokumentasjon og beste praksis"
+description: "Salg er en transaksjon der varer eller tjenester overføres fra selger til kjøper. Guiden dekker typer salg, dokumentasjonskrav og bokføring etter norsk regelverk."
+summary: "Typer salg, regnskapsføring, dokumentasjonskrav og gode rutiner for salg."
 ---
 
 **Salg** er en transaksjon hvor varer eller tjenester overføres fra selger til kjøper, ofte mot betaling eller forpliktelse til betaling. I norsk regnskap er salg et fundamentalt begrep som påvirker både **[omsetning](/blogs/regnskap/hva-er-omsetning "Hva er omsetning? Komplett Guide til Omsetning i Regnskap og Skatt")**, **likviditetsstyring** og **resultatberegning**.

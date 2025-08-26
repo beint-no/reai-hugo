@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Moms? Komplett Guide til Merverdiavgift (MVA) i Norge"
-seoTitle: "Hva er Moms? Komplett Guide til Merverdiavgift (MVA) i Norge"
-description: '**Merverdiavgift (MVA)**, også kjent som **moms**, er en indirekte avgift som pålegges salg av varer og tjenester i Norge. MVA er en av de viktigste inntektsk...'
+seoTitle: "Moms (MVA) | Satser, regler og rapportering i Norge"
+description: "Merverdiavgift (MVA), også kalt moms, er en avgift på salg av varer og tjenester. Se satser, registrering, MVA-melding og praktiske rutiner for korrekt håndtering."
+summary: "Hva moms (MVA) er, hvilke satser som gjelder og hvordan norske virksomheter registrerer, beregner og rapporterer merverdiavgift."
 ---
 
 **Merverdiavgift (MVA)**, også kjent som **moms**, er en indirekte avgift som pålegges salg av varer og tjenester i Norge. MVA er en av de viktigste inntektskildene for staten og utgjør en betydelig del av de totale skatteinntektene.

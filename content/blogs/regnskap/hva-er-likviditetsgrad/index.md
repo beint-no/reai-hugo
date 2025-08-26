@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Likviditetsgrad i Regnskap?"
-seoTitle: "Hva er Likviditetsgrad i Regnskap?"
-description: '**Likviditetsgrad** er et sentralt **[finansielt nøkkeltall](/blogs/regnskap/hva-er-nokkeltall "Hva er Nøkkeltall? Komplett Guide til Finansielle Nøkkeltall ...'
+seoTitle: "Likviditetsgrad | Definisjon, formler og tolkning"
+description: "Likviditetsgrad måler evnen til å dekke kortsiktig gjeld. Se definisjon, formler for likviditetsgrad 1 og 2, eksempler og anbefalte nivåer for god betalingsevne."
+summary: "Hva likviditetsgrad betyr, hvordan det beregnes og hvilke nivåer som anses som gode for solid kortsiktig betalingsevne."
 ---
 
 **Likviditetsgrad** er et sentralt **[finansielt nøkkeltall](/blogs/regnskap/hva-er-nokkeltall "Hva er Nøkkeltall? Komplett Guide til Finansielle Nøkkeltall i Regnskap")** som måler bedriftens evne til å dekke kortsiktige forpliktelser med tilgjengelige likvide midler. Dette er et kritisk verktøy for å vurdere [betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne i Regnskap? Analyse, Nøkkeltall og Vurdering av Likviditet") og finansiell stabilitet.

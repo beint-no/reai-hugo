@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Nåverdi?"
-seoTitle: "Hva er Nåverdi?"
-description: '**Nåverdi** (_Present Value_) er dagens verdi av fremtidige kontantstrømmer diskontert med en gitt rente. Dette er et sentralt begrep i regnskap, finans og in...'
+seoTitle: "Nåverdi (Present Value) | Formel, eksempel og bruk"
+description: "Nåverdi (Present Value) er dagens verdi av fremtidige kontantstrømmer. Se formel, eksempel og typiske bruksområder i investeringsanalyse og regnskap."
+summary: "Kort innføring i nåverdi: definisjon, formel og praktisk beregning for investeringer."
 ---
 
 **Nåverdi** (_Present Value_) er dagens verdi av fremtidige kontantstrømmer diskontert med en gitt rente. Dette er et sentralt begrep i regnskap, finans og investeringsanalyse som reflekterer *tidsverdien av penger*.

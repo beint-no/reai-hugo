@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er morarente?"
-seoTitle: "Hva er morarente?"
-description: '**Morarente** er en type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") og den juridiske betegnelsen for lovpålagt rente som...'
+seoTitle: "Morarente | Satser, beregning og regnskapsføring"
+description: "Morarente er lovpålagt rente ved forsinket betaling. Lær gjeldende satser, hvordan morarente beregnes og bokføres, og forskjellen mellom B2B og B2C."
+summary: "Definisjon av morarente, beregningsmetode, satser og praktiske råd for kreditorer og debitorer."
 ---
 
 **Morarente** er en type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") og den juridiske betegnelsen for lovpålagt rente som automatisk påløper når en betaling ikke skjer innen avtalt forfallsdato. Begrepet stammer fra det latinske "mora" som betyr forsinkelse, og representerer en fundamental rettssikkerhet i norsk kontraktsrett. Morarente sikrer at [kreditorer](/blogs/regnskap/hva-er-kreditor "Hva er Kreditor? Komplett Guide til Leverandørgjeld og Kreditorhåndtering") kompenseres for økonomiske tap ved forsinket betaling, og gjelder for alle typer pengefordringer inkludert [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"), lån og andre betalingsforpliktelser.

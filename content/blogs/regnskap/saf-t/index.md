@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er SAF-T?"
-seoTitle: "Hva er SAF-T?"
-description: 'SAF-T (Standard Audit File for Tax) er en global standard for digital rapportering av regnskapsdata til skattemyndigheter. I Norge er **SAF-T** vedtatt som del ...'
+seoTitle: "SAF-T | Standard Audit File for Tax i Norge"
+description: "SAF-T er en standard for digital rapportering av regnskapsdata til skattemyndigheter. I Norge kreves eksport av data i strukturert XML-format for effektiv kontroll og etterlevelse."
+summary: "Hva SAF-T er, hvorfor det brukes og hvordan virksomheter oppfyller kravene i Norge."
 ---
 
 SAF-T (Standard Audit File for Tax) er en global standard for digital rapportering av regnskapsdata til skattemyndigheter. I Norge er **SAF-T** vedtatt som del av [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Krav, Regler og Praktisk Veiledning") og krever at virksomheter kan eksportere regnskapsdata i et strukturert XML-format.
