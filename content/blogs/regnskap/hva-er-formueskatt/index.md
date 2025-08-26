@@ -1,8 +1,8 @@
 ﻿---
 title: "Hva er Formueskatt?"
-seoTitle: "Hva er Formueskatt?"
-description: '**Formueskatt** er en skatt på **nettoformue** som ilegges privatpersoner med formue over et fastsatt **bunnfradrag**. Skatten beregnes av differansen mellom n...'
-summary: 'Kort guide til formueskatt: bunnfradrag, satser, beregningseksempel, unntak og rapportering i skattemeldingen.'
+seoTitle: "Hva er formueskatt? | Bunnfradrag, satser og beregning"
+description: "Formueskatt er skatt på nettoformue over et bunnfradrag. Her får du en enkel forklaring av satser, bunnfradrag og hvordan formueskatt beregnes i Norge."
+summary: "Hva formueskatt er, hvordan den beregnes, og hvilke satser og bunnfradrag som gjelder."
 ---
 
 **Formueskatt** er en skatt på **nettoformue** som ilegges privatpersoner med formue over et fastsatt **bunnfradrag**. Skatten beregnes av differansen mellom nettoformue og bunnfradraget og uttrykkes som en prosentandel.

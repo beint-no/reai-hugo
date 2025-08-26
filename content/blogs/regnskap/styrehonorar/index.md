@@ -2,6 +2,7 @@
 title: "Styrehonorar i aksjeselskap"
 seoTitle: "Styrehonorar i aksjeselskap"
 description: '![Styrehonorar](styrehonorar-image.svg)'
+summary: Vederlag til styremedlemmer fastsatt av generalforsamlingen. Artikkelen dekker prosess for fastsetting, skattemessig behandling, rapportering og bokføring.
 ---
 
 ![Styrehonorar](styrehonorar-image.svg)

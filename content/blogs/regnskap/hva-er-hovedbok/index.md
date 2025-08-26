@@ -2,6 +2,7 @@
 title: "Hva er Hovedbok? En Komplett Guide til Hovedboken i Norsk Regnskap"
 seoTitle: "Hva er Hovedbok? En Komplett Guide til Hovedboken i Norsk Regnskap"
 description: '**Hovedboken** er det sentrale registeret i enhver virksomhets regnskapsføring og utgjør ryggraden i det moderne [bokføringssystemet](/blogs/regnskap/hva-er-...'
+summary: 'Hva hovedboken er, sammenhengen med reskontro og hvordan den brukes til avstemming og rapportering.'
 ---
 
 **Hovedboken** er det sentrale registeret i enhver virksomhets regnskapsføring og utgjør ryggraden i det moderne [bokføringssystemet](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis"). Som en systematisk samling av alle kontoer og transaksjoner, fungerer hovedboken som det primære kilderegisteret for [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er regnskap? En dybdeanalyse for Norge") og danner grunnlaget for all finansiell rapportering i norske virksomheter.

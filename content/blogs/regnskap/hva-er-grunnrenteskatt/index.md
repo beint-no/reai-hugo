@@ -2,6 +2,7 @@
 title: "Hva er grunnrenteskatt?"
 seoTitle: "Hva er grunnrenteskatt?"
 description: '**Grunnrenteskatt** er en særskatt som pålegges virksomheter som utvinne eller utnytter naturressurser i Norge. Denne skatten er designet for å sikre at samf...'
+summary: 'Hva grunnrenteskatt er, hvilke næringer den gjelder for og hvordan den beregnes og rapporteres.'
 ---
 
 **Grunnrenteskatt** er en særskatt som pålegges virksomheter som utvinne eller utnytter naturressurser i Norge. Denne skatten er designet for å sikre at samfunnet får en rimelig andel av den ekstraordinære avkastningen (grunnrenten) som oppstår fra utnyttelsen av landets naturressurser. Grunnrenteskatt er et komplekst skatteområde som krever grundig forståelse av både skattelovgivning og [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis").

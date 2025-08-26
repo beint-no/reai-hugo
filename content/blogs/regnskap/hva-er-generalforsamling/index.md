@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Generalforsamling? Makt, Roller og Ansvar"
-seoTitle: "Hva er Generalforsamling? Makt, Roller og Ansvar"
-description: 'En **generalforsamling** er selskapets øverste organ, der alle aksjonærer møtes for å fatte beslutninger i viktige selskapsforhold. Generalforsamlingen spil...'
+seoTitle: "Hva er generalforsamling? | Roller, lovkrav og protokoll"
+description: "Generalforsamling er selskapets øverste organ der aksjonærer fatter beslutninger. Lær roller, lovkrav, innkalling og hvordan protokoll føres."
+summary: "Kort om generalforsamling: roller, lovkrav, innkalling og protokoll."
 ---
 
 En **generalforsamling** er selskapets øverste organ, der alle aksjonærer møtes for å fatte beslutninger i viktige selskapsforhold. Generalforsamlingen spiller en kritisk rolle i styringen av **aksjeselskaper (AS)** i Norge.

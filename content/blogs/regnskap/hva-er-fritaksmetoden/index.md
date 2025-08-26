@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Fritaksmetoden? Komplett Guide til Skattefritak for Utbytte"
-seoTitle: "Hva er Fritaksmetoden? Komplett Guide til Skattefritak for Utbytte"
-description: '**Fritaksmetoden** er en sentral skatteregel i norsk skattelovgivning som gir **skattefritak for utbytte og gevinst** ved salg av aksjer mellom selskaper. Denne...'
+seoTitle: "Hva er fritaksmetoden? | Skattefritak på utbytte og aksjegevinst"
+description: "Fritaksmetoden gir skattefritak på utbytte og gevinster mellom selskaper når vilkår er oppfylt. Lær vilkår, beregning og praktisk bruk for norske selskaper."
+summary: "Hva fritaksmetoden er, vilkår som må oppfylles og hvordan skattefritak brukes."
 ---
 
 **Fritaksmetoden** er en sentral skatteregel i norsk skattelovgivning som gir **skattefritak for utbytte og gevinst** ved salg av aksjer mellom selskaper. Denne metoden ble innført for å eliminere **dobbeltbeskatning** og stimulere til investeringer mellom norske bedrifter, og er en viktig del av det norske [skattesystemet](/blogs/regnskap/hva-er-forskuddstrekk "Forskuddstrekk - Komplett Guide til Skatt og Trekk av Lønn") for selskaper.

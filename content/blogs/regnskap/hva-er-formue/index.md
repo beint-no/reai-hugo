@@ -1,8 +1,8 @@
 ﻿---
 title: "Hva er Formue i Regnskap?"
-seoTitle: "Hva er Formue i Regnskap?"
-description: '**Formue** er den totale **nettoformuen** til en person eller bedrift, beregnet som forskjellen mellom totale [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er...'
-summary: 'Hva formue betyr i regnskap, hvordan nettoformue beregnes, nøkkeltall for analyse og forskjellen mellom finansiell formue og realformue.'
+seoTitle: "Hva er formue? | Nettoformue, eiendeler og gjeld i regnskap"
+description: "Formue er nettoformuen i regnskap, beregnet som eiendeler minus gjeld. Lær hva formue betyr for egenkapital, analyse av balansen og hvordan nettoformue beregnes i praksis."
+summary: "Kort forklaring av formue i regnskap, beregning av nettoformue og hvorfor det er viktig."
 ---
 
 **Formue** er den totale **nettoformuen** til en person eller bedrift, beregnet som forskjellen mellom totale [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Materielle, Immaterielle og Finansielle Eiendeler") og total gjeld. I regnskapssammenheng refererer formue til [egenkapitalen](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Beregning, Analyse og Betydning for Bedriften") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Oppbygging, Analyse og Praktiske Eksempler"), og representerer den reelle verdien som eiere har i virksomheten etter at all gjeld er betalt.

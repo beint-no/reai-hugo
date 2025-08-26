@@ -2,6 +2,7 @@
 title: "Hva er Styringsrente?"
 seoTitle: "Hva er Styringsrente?"
 description: '**Styringsrente** er den **renten** Norges Bank fastsetter for å styre pengepolitikken og sikre prisstabilitet i norsk økonomi.'
+summary: Renten som Norges Bank setter og som påvirker lånekostnader, sparerenter og referanserenter. Artikkelen forklarer formål, beslutningsgrunnlag og konsekvenser for regnskap og finans.
 ---
 
 **Styringsrente** er den **renten** Norges Bank fastsetter for å styre pengepolitikken og sikre prisstabilitet i norsk økonomi.

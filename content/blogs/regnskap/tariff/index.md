@@ -2,6 +2,7 @@
 title: "Tariff"
 seoTitle: "Tariff"
 description: '**Tariff** er et begrep som beskriver **kollektive avtaler** om lønns- og arbeidsvilkår for bestemte bransjer eller grupper av ansatte. Slike avtaler forhandl...'
+summary: Kollektive avtaler om lønns- og arbeidsvilkår som påvirker lønnskostnader og rapportering. Artikkelen forklarer nivåer, prosess og dokumentasjonskrav.
 ---
 
 **Tariff** er et begrep som beskriver **kollektive avtaler** om lønns- og arbeidsvilkår for bestemte bransjer eller grupper av ansatte. Slike avtaler forhandles vanligvis fram mellom arbeidsgiverforeninger og fagforeninger, og kan også allmenngjøres av staten.

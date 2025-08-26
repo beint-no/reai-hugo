@@ -2,6 +2,7 @@
 title: "Hva er GTIN/EAN?"
 seoTitle: "Hva er GTIN/EAN?"
 description: '**GTIN (Global Trade Item Number)** og **EAN (European Article Number)** er globale standarder for produktidentifikasjon som spiller en kritisk rolle i moderne ...'
+summary: 'Hva GTIN/EAN er, struktur på strekkoder og hvordan koder brukes for sporing, lager og kassasystemer.'
 ---
 
 **GTIN (Global Trade Item Number)** og **EAN (European Article Number)** er globale standarder for produktidentifikasjon som spiller en kritisk rolle i moderne regnskapsføring og forretningsdrift. Disse kodene muliggjør automatisk identifikasjon av produkter gjennom hele verdikjeden, fra produksjon til salg, og er essensielle for effektiv [lagerstyring](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Varige Driftsmidler og Avskrivninger"), [fakturabehandling](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") og regnskapsautomatisering.

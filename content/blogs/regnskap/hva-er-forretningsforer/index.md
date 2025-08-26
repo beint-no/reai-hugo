@@ -1,8 +1,8 @@
 ﻿---
 title: "Hva er en forretningsfører?"
-seoTitle: "Hva er en forretningsfører?"
-description: 'En **forretningsfører** er en person som har det daglige ansvaret for å drive en virksomhet på vegne av eierne. I norsk rett er forretningsføreren en sentra...'
-summary: 'Rollen til en forretningsfører: lovgrunnlag, utnevnelse, ansvar i drift og regnskap, rapporteringsplikter og risikohåndtering.'
+seoTitle: "Hva er en forretningsfører? | Rolle, ansvar og lovgrunnlag"
+description: "En forretningsfører leder den daglige driften på vegne av eierne. Les om rolle, ansvar, lovgrunnlag og krav til rapportering og økonomistyring."
+summary: "Kort om forretningsfører: rolle, ansvar, lovkrav og rapportering."
 ---
 
 En **forretningsfører** er en person som har det daglige ansvaret for å drive en virksomhet på vegne av eierne. I norsk rett er forretningsføreren en sentral figur som kombinerer operasjonelt ledelsesansvar med juridiske forpliktelser. Denne artikkelen gir en omfattende gjennomgang av forretningsførerens rolle, ansvar og krav i det norske næringslivet.

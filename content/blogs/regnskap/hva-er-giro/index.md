@@ -2,6 +2,7 @@
 title: "Hva er Giro?"
 seoTitle: "Hva er Giro?"
 description: '**Giro** er et fundamentalt betalingssystem som har revolusjonert måten vi håndterer pengeoverføringer og regningsbetalinger på. Som grunnlaget for moderne ...'
+summary: 'Hva en giro er, bruksområder i betaling og regnskap, og forskjellen fra faktura og bankoverføring.'
 ---
 
 **Giro** er et fundamentalt betalingssystem som har revolusjonert måten vi håndterer pengeoverføringer og regningsbetalinger på. Som grunnlaget for moderne elektroniske betalingsløsninger som [AvtaleGiro](/blogs/regnskap/hva-er-avtalegiro "Hva er AvtaleGiro? Komplett Guide til Automatisk Betaling") og [BankGiro](/blogs/regnskap/hva-er-bankgiro "Hva er BankGiro? Komplett Guide til Norsk Betalingssystem"), representerer giro-systemet en av de viktigste innovasjonene innen moderne [betalingsmidler](/blogs/regnskap/hva-er-betalingsmidler "Hva er Betalingsmidler? Tvungne, Elektroniske og Tradisjonelle Metoder"). For bedrifter og privatpersoner er forståelse av giro-systemet essensielt for effektiv [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og økonomisk styring.
