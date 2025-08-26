@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Provisjon?"
 seoTitle: "Hva er Provisjon?"
-description: '**Provisjon** er en prestasjonsbasert form for [lønn](/blogs/regnskap/hva-er-lonnskostnader "Hva er Lønnskostnader? Komplett Guide til Lønnskostnader i Regns...'
+description: "Provisjon er prestasjonsbasert lønn knyttet til salg eller andre mål. Artikkelen dekker vanlige provisjonsmodeller, regnskapsføring, periodisering, skatteregler og beste praksis for norske bedrifter."
+summary: "Provisjon forklart: modeller, regnskapsføring, periodisering og skatteregler."
 ---
 
 **Provisjon** er en prestasjonsbasert form for [lønn](/blogs/regnskap/hva-er-lonnskostnader "Hva er Lønnskostnader? Komplett Guide til Lønnskostnader i Regnskap") der ansatte mottar en del av verdien av det de selger eller produserer. Dette kompensasjonssystemet kobler direkte sammenheng mellom innsats og belønning, og utgjør en viktig del av [lønnskostnadene](/blogs/regnskap/lonnskostnad "Lønnskostnad: Alt du Trenger å Vite om Regnskapsføring og Beregning") for mange bedrifter.

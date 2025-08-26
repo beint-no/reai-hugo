@@ -1,7 +1,8 @@
 ﻿---
 title: "namsmannen"
-seoTitle: "namsmannen"
-description: '**Namsmannen**'
+seoTitle: "Namsmannen | Tvangsfullbyrdelse, utlegg og tvangssalg"
+description: "Namsmannen er namsmyndigheten som gjennomfører tvangsfullbyrdelse av rettskraftige krav, blant annet utlegg, lønnstrekk og tvangssalg."
+summary: "Rolle og oppgaver til Namsmannen, juridisk grunnlag og prosessen for tvangsfullbyrdelse."
 ---
 
 **Namsmannen**

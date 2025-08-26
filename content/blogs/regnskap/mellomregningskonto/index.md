@@ -1,7 +1,8 @@
 ﻿---
 title: "Mellomregningskonto i Regnskap – Guide til intercompany clearing og avstemming"
-seoTitle: "Mellomregningskonto i Regnskap “ Guide til intercompany clearing og avstemming"
-description: '**Mellomregningskonto** er en **klareringskonto** som brukes for å registrere og avstemme **interne konserntransaksjoner** mellom selskaper i samme konsern. Ve...'
+seoTitle: "Mellomregningskonto i regnskap | Intercompany clearing og avstemming"
+description: "Mellomregningskonto er en klareringskonto som brukes til å registrere og avstemme interne konserntransaksjoner mellom selskaper i samme konsern. Ved å samle fordringer og gjeld i én konto får du bedre oversikt og enklere avstemming."
+summary: "Kort forklaring av mellomregningskonto, når den brukes og hvordan den avstemmes i konsernregnskap for ryddig oversikt over interne mellomværender."
 ---
 
 **Mellomregningskonto** er en **klareringskonto** som brukes for å registrere og avstemme **interne konserntransaksjoner** mellom selskaper i samme konsern. Ved å samle alle gjensidige fordringer og gjeld i én felles konto, gir mellomregningskontoen oversikt over mellomværender som skal gjøres opp eller fordeles på tvers av regnskapsperioder.

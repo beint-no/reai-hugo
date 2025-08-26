@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er QA (Quality Assurance) i Regnskap?"
 seoTitle: "Hva er QA (Quality Assurance) i Regnskap?"
-description: '**QA (Quality Assurance)** i regnskap er en systematisk tilnærming til å sikre at regnskapsdata, prosesser og rapporter oppfyller høye standarder for nøyakt...'
+description: "QA i regnskap handler om systematiske kontroller og prosesser som sikrer nøyaktige, pålitelige og compliant finansielle rapporter. Artikkelen dekker rammeverk, roller, teknologi, KPI-er og implementering."
+summary: "Quality Assurance i regnskap forklart: rammeverk, kontroller, teknologi og gjennomføring."
 ---
 
 **QA (Quality Assurance)** i regnskap er en systematisk tilnærming til å sikre at regnskapsdata, prosesser og rapporter oppfyller høye standarder for nøyaktighet, compliance og pålitelighet. Dette omfatter kontrollsystemer, prosedyrer og verktøy som skal sikre at finansiell informasjon er korrekt, komplett og presentert i henhold til gjeldende regnskapsstandarder og juridiske krav.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Næringskode"
-seoTitle: "Næringskode"
-description: '**Næringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhørighet** i norsk regnskap og offentlig registrering. Koden benyttes av [En...'
+seoTitle: "Næringskode | Klassifisering av virksomhetens bransje"
+description: "Næringskode er et firesifret tall som klassifiserer virksomhetens bransjetilhørighet i regnskap og offentlige registre. Koden brukes av Enhetsregisteret og Brønnøysundregistrene til statistikk, skatt og rapportering."
+summary: "Hva næringskode er, hvordan den er bygget opp og hvordan du finner riktig kode for din virksomhet."
 ---
 
 **Næringskode** er et firesifret tall som klassifiserer virksomhetens **bransjetilhørighet** i norsk regnskap og offentlig registrering. Koden benyttes av [Enhetsregisteret](/blogs/regnskap/enhetsregisteret "Enhetsregisteret “ Oversikt over virksomheters grunninformasjon i Norge") og [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Brønnøysundregistrene - Oversikt over Norske Registere") for å systematisere økonomisk statistikk, skatter og avgifter.

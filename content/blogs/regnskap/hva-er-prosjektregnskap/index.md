@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Prosjektregnskap?"
 seoTitle: "Hva er Prosjektregnskap?"
-description: '**Prosjektregnskap** er en regnskapsmetode for å spore kostnader og inntekter knyttet til enkeltprosjekter. Dette gir bedrifter innsikt i prosjektets økonomis...'
+description: "Prosjektregnskap sporer kostnader og inntekter per prosjekt for bedre styring. Artikkelen dekker formål, nøkkelkomponenter, prosess, beste praksis og verktøy for norske virksomheter."
+summary: "Prosjektregnskap forklart: hvorfor det brukes, hva det består av og hvordan det gjennomføres i praksis."
 ---
 
 **Prosjektregnskap** er en regnskapsmetode for å spore kostnader og inntekter knyttet til enkeltprosjekter. Dette gir bedrifter innsikt i prosjektets økonomiske status, forbedret kontroll og et bedre beslutningsgrunnlag.

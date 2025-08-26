@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er næringsvirksomhet?"
-seoTitle: "Hva er næringsvirksomhet?"
-description: '**Næringsvirksomhet** omfatter all økonomisk aktivitet som drives med **hensikt om overskudd** og vurderes som varig [virksomhet](/blogs/regnskap/hva-er-virks...'
+seoTitle: "Næringsvirksomhet | Definisjon og krav i regnskap og skatt"
+description: "Næringsvirksomhet er økonomisk aktivitet drevet varig med formål om overskudd. Klassifiseringen utløser bokførings-, regnskaps- og skatteplikter for virksomheten."
+summary: "Hva næringsvirksomhet betyr i praksis, kriterier, plikter og forskjellen fra hobby." 
 ---
 
 **Næringsvirksomhet** omfatter all økonomisk aktivitet som drives med **hensikt om overskudd** og vurderes som varig [virksomhet](/blogs/regnskap/hva-er-virksomhet "Hva er en virksomhet? Definisjon og Regnskapsmessige Forhold") i henhold til norsk lovgivning. Dette er en grunnleggende forutsetning for mange regnskaps- og skattemessige plikter.

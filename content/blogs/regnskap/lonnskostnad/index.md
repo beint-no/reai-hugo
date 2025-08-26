@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Lønnskostnad i Regnskap?"
-seoTitle: "Hva er Lønnskostnad i Regnskap?"
-description: '**Lønnskostnad** er den totale kostnaden en arbeidsgiver har for sine ansatte, og omfatter langt mer enn bare den utbetalte lønnen. Lønnskostnader inkluderer...'
+seoTitle: "Lønnskostnad | Hva inngår og hvordan beregnes det"
+description: "Lønnskostnad er total kostnad for ansatte, inkludert bruttolønn, arbeidsgiveravgift, pensjon, forsikringer og andre personalutgifter. Riktig beregning og periodisering er avgjørende i regnskapet."
+summary: "Oversikt over lønnskostnad: komponenter, beregning, bokføring og nøkkelfaktorer for budsjettering."
 ---
 
 **Lønnskostnad** er den totale kostnaden en arbeidsgiver har for sine ansatte, og omfatter langt mer enn bare den utbetalte lønnen. Lønnskostnader inkluderer **bruttolønn**, **arbeidsgiveravgift**, **[pensjonskostnader](/blogs/regnskap/hva-er-pensjon "Hva er Pensjon? Komplett Guide til Norsk Pensjonssystem")**, **forsikringer** og andre personalrelaterte utgifter. For mange bedrifter utgjør lønnskostnader den største kostnadsposten og kan representere 50-70% av de totale [driftskostnadene](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Komplett Guide til Kostnadstyper og Regnskapsføring").

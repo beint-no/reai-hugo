@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Pensjon?"
 seoTitle: "Hva er Pensjon?"
-description: '**Pensjon** er et system designet for å sikre økonomisk trygghet i alderdommen. I Norge består pensjonssystemet av flere lag, og for bedrifter representerer ...'
+description: "Pensjon er ordninger som sikrer inntekt i alderdommen. Artikkelen forklarer folketrygd, tjenestepensjon og individuell sparing, samt regnskapsføring, kostnader, skatteregler og praktiske råd for bedrifter."
+summary: "Oversikt over norsk pensjon: folketrygd, tjenestepensjon, individuell sparing og regnskapsmessige konsekvenser for virksomheter."
 ---
 
 **Pensjon** er et system designet for å sikre økonomisk trygghet i alderdommen. I Norge består pensjonssystemet av flere lag, og for bedrifter representerer pensjon både en sentral del av [lønnskostnadene](/blogs/regnskap/hva-er-lonnskostnader "Hva er Lønnskostnader? Komplett Guide til Lønnskostnader i Regnskap") og en viktig [langsiktig forpliktelse](/blogs/regnskap/hva-er-langsiktig-gjeld "Hva er Langsiktig Gjeld? Definisjon og Regnskapsføring"). Pensjonsordninger påvirker både selskapets [kontantstrøm](/blogs/regnskap/hva-er-kontantstrom "Hva er Kontantstrøm? Betydning og Analyse i Regnskap") og [balanse](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Struktur og Innhold i Balanseregnskap").

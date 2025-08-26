@@ -1,7 +1,8 @@
 ﻿---
 title: "Minstelønn i Norge: Komplett Guide til Regnskap og Arbeidsgiverforpliktelser"
-seoTitle: "Minstelønn i Norge: Komplett Guide til Regnskap og Arbeidsgiverforpliktelser"
-description: '**Minstelønn** er den laveste lønnen en arbeidsgiver lovlig kan betale en ansatt per time, fastsatt av tariffavtaler eller lov. I Norge ivaretas kravet om min...'
+seoTitle: "Minstelønn i Norge | Guide for arbeidsgivere og regnskap"
+description: "Minstelønn er den laveste lønnen arbeidsgiver kan betale per time, fastsatt gjennom tariffavtaler eller forskrifter. I Norge ivaretas minstelønn via bransjevise regler som virksomheter må følge i lønn og regnskap."
+summary: "Hva er minstelønn, hvilke bransjer har satser, og hvordan håndteres dette korrekt i lønn og regnskap."
 ---
 
 **Minstelønn** er den laveste lønnen en arbeidsgiver lovlig kan betale en ansatt per time, fastsatt av tariffavtaler eller lov. I Norge ivaretas kravet om minstelønn gjennom regler i Arbeidsmiljøloven, tariffavtaler innen spesifikke bransjer og forskrifter. Kunnskap om **minstelønn** er viktig for både lønns- og personaladministrasjon samt [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring").

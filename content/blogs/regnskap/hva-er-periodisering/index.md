@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Periodisering i Regnskap?"
 seoTitle: "Hva er Periodisering i Regnskap?"
-description: '**Periodisering** er et av de mest fundamentale prinsippene i regnskapsføring som sikrer at alle inntekter og utgifter blir regnskapsført i riktig [termin](/b...'
+description: "Periodisering er prinsippet om å føre inntekter og kostnader i riktig regnskapsperiode uavhengig av betaling. Denne guiden forklarer metoder, eksempler, forskjeller fra kontantprinsippet, note- og lovkrav og beste praksis for norske virksomheter."
+summary: "En lettfattelig forklaring av periodisering i regnskap, med metoder, eksempler, forskjeller fra kontantprinsippet og praktiske råd."
 ---
 
 **Periodisering** er et av de mest fundamentale prinsippene i regnskapsføring som sikrer at alle inntekter og utgifter blir regnskapsført i riktig [termin](/blogs/regnskap/hva-er-termin "Hva er Termin? Regnskapsperioder og Terminplanlegging"), uavhengig av når betalingen faktisk skjer. Dette prinsippet er hjørnesteinen i moderne regnskap og skiller seg fra [kontantprinsippet](/blogs/regnskap/kontantprinsippet "Kontantprinsippet: Guide til kontantregnskap i Norge") ved å fokusere på når den økonomiske hendelsen oppstår, ikke når pengene skifter hender. Forståelse av korrekt terminplassering er essensielt for å anvende periodiseringsprinsippet på en måte som gir nøyaktige og sammenlignbare finansielle rapporter. Denne artikkelen gir en omfattende gjennomgang av periodiseringsprinsippet, dets praktiske anvendelse og betydning for nøyaktig finansiell rapportering.

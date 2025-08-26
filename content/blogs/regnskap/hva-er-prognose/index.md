@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Prognose?"
 seoTitle: "Hva er Prognose?"
-description: 'En **prognose** er en beregnet fremskriving av fremtidige økonomiske forhold basert på historiske data, markedstrender og forventninger. I regnskapssammenheng...'
+description: "En prognose er en beregnet fremskriving av fremtidige økonomiske forhold. Artikkelen forklarer typer prognoser, metoder, prosesser, forskjellen fra budsjett og hvordan prognoser brukes i regnskap og ledelsesrapportering."
+summary: "Prognoser i regnskap forklart: typer, metoder, prosesser og bruksområder for bedre beslutninger."
 ---
 
 En **prognose** er en beregnet fremskriving av fremtidige økonomiske forhold basert på historiske data, markedstrender og forventninger. I regnskapssammenheng brukes prognoser til å forutsi inntekter, kostnader, kontantstrøm og andre finansielle nøkkeltall for å støtte strategisk planlegging og beslutningsprosesser.

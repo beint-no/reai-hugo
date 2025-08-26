@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Q-ratio (Tobin's Q)?"
 seoTitle: "Hva er Q-ratio (Tobin's Q)?"
-description: '**Q-ratio**, også kjent som **Tobins Q**, er et av de mest verdifulle verktøyene innen finansiell analyse og verdivurdering. Dette nøkkeltallet sammenligner...'
+description: "Q-ratio, også kalt Tobins Q, sammenligner markedsverdi med bokført verdi av eiendeler. Artikkelen forklarer beregning, tolkning, varianter, justeringer, bruksområder i verdsettelse og begrensninger."
+summary: "Q-ratio forklart: beregning, tolkning, varianter og hvordan nøkkeltallet brukes i analyse."
 ---
 
 **Q-ratio**, også kjent som **Tobin's Q**, er et av de mest verdifulle verktøyene innen finansiell analyse og verdivurdering. Dette nøkkeltallet sammenligner et selskaps markedsverdi med den bokførte verdien av dets [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier"), og gir viktig innsikt i om selskapet er over- eller undervurdert i markedet. Utviklet av den nobelprisvinnende økonomen James Tobin, har dette målet blitt et fundamentalt verktøy for investorer, analytikere og ledelse.

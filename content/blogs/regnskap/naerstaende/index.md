@@ -1,7 +1,8 @@
 ﻿---
 title: "Nærstående Parter i Regnskap"
-seoTitle: "Nærstående Parter i Regnskap"
-description: '**Nærstående parter** i norsk regnskap omfatter personer eller enheter som har et nært økonomisk eller organisatorisk forhold til virksomheten.'
+seoTitle: "Nærstående parter | Definisjon, krav og noteopplysninger"
+description: "Nærstående parter i regnskap omfatter personer eller enheter med nært økonomisk eller organisatorisk forhold til virksomheten. Transaksjoner må håndteres etter regelverk for å sikre armlengdeprinsipp og riktige noteopplysninger."
+summary: "Hvem regnes som nærstående, relevant regelverk og hvilke noteopplysninger som kreves."
 ---
 
 **Nærstående parter** i norsk regnskap omfatter personer eller enheter som har et nært økonomisk eller organisatorisk forhold til virksomheten.

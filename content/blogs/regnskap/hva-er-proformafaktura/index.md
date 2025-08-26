@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Proformafaktura?"
 seoTitle: "Hva er Proformafaktura?"
-description: 'En **proformafaktura** er et foreløpig regnskapsdokument som utstedes før levering av varer eller tjenester, og fungerer som et estimat eller tilbud på fremt...'
+description: "En proformafaktura er et foreløpig dokument som brukes som estimat eller tilbud før levering. Artikkelen forklarer innhold, bruksområder i internasjonal handel, forskjeller fra faktura, regnskapsmessig behandling og beste praksis."
+summary: "Proformafaktura forklart: formål, innhold, når den brukes og hvordan den skiller seg fra en ordinær faktura."
 ---
 
 En **proformafaktura** er et foreløpig regnskapsdokument som utstedes før levering av varer eller tjenester, og fungerer som et estimat eller tilbud på fremtidige transaksjoner. Proformafakturaer brukes hovedsakelig i [internasjonal handel](/blogs/regnskap/hva-er-internasjonal-handel "Hva er Internasjonal Handel? Guide til Eksport og Import") for å gi [tollmyndigheter](/blogs/regnskap/hva-er-toll "Hva er Toll? Regnskapsføring og Praktisk Veiledning") og kjøpere informasjon om planlagte leveranser før den faktiske handelen finner sted.

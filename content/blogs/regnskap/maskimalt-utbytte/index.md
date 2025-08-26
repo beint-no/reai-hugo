@@ -1,7 +1,8 @@
 ﻿---
 title: "Maskimalt Utbytte"
-seoTitle: "Maskimalt Utbytte"
-description: '**Maskimalt utbytte** er det høyeste beløpet et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskap...'
+seoTitle: "Maskimalt utbytte | Beregning og regler i aksjeloven"
+description: "Maskimalt utbytte er høyeste beløp et aksjeselskap kan dele ut uten å bryte krav til egenkapital og soliditet. Begrepet bygger på aksjeloven § 8-1 og vurdering av fri egenkapital."
+summary: "Hvordan beregne maskimalt utbytte, juridisk grunnlag og praktiske hensyn for norske aksjeselskaper."
 ---
 
 **Maskimalt utbytte** er det høyeste beløpet et [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap (AS)? Komplett Guide til Selskapsformen") kan dele ut til aksjonærene uten å bryte lovens krav til [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") og soliditet. Dette er et sentralt begrep i norsk selskapsrett og regnskapspraksis som sikrer at selskaper opprettholder tilstrekkelig finansiell stabilitet.

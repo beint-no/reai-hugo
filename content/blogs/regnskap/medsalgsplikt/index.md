@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Medsalgsplikt?"
-seoTitle: "Hva er Medsalgsplikt?"
-description: '**Medsalgsplikt** oppstår når en virksomhet selger varer på vegne av en annen part (*kommisjonær*), og må beregne og innrapportere merverdiavgift som om de...'
+seoTitle: "Medsalgsplikt | Når kommisjonær må beregne MVA"
+description: "Medsalgsplikt oppstår når en kommisjonær selger varer på vegne av en oppdragsgiver og må beregne og rapportere MVA som om de var eier av varene. Ordningen sikrer korrekt avgiftsbehandling."
+summary: "Definisjon av medsalgsplikt, hvem som omfattes, MVA-beregning og vanlige unntak."
 ---
 
 **Medsalgsplikt** oppstår når en virksomhet selger varer på vegne av en annen part (*kommisjonær*), og må beregne og innrapportere merverdiavgift som om de var eier av varene. Dette prinsippet sikrer at **MVA** behandles korrekt ved videresalg, og forhindrer omgåelse av [MVA-plikt](/blogs/regnskap/mva-plikt "MVA-plikt").

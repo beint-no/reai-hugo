@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Lønnstype? Oversikt over ulike lønnstyper i Regnskap"
-seoTitle: "Hva er Lønnstype? Oversikt over ulike lønnstyper i Regnskap"
-description: '**Lønnstype** refererer til klassifisering av ulike **lønnsformer** som bedrifter i Norge bruker for å kompensere ansatte. Å forstå de forskjellige lønnst...'
+seoTitle: "Lønnstype | Oversikt over ulike lønnstyper"
+description: "Lønnstype er klassifisering av forskjellige lønnsformer virksomheter bruker for å kompensere ansatte. Kunnskap om typene er viktig for bokføring, planlegging og budsjettering."
+summary: "Kort oversikt over fastlønn, timelønn, akkordlønn, provisjon og naturalytelser."
 ---
 
 **Lønnstype** refererer til klassifisering av ulike **lønnsformer** som bedrifter i Norge bruker for å kompensere ansatte. Å forstå de forskjellige lønnstypene er viktig for korrekt [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring"), lønnsplanlegging og budsjettering.

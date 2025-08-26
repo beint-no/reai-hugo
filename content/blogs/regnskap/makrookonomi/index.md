@@ -1,7 +1,8 @@
 ﻿---
 title: "Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap"
-seoTitle: "Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap"
-description: '![Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap](makrookonomi-image.svg)'
+seoTitle: "Makroøkonomi | Prinsipper og betydning for regnskap"
+description: "Makroøkonomi studerer økonomien som helhet med indikatorer som BNP, inflasjon, rente og konjunkturer. Kunnskap om disse størrelsene påvirker verdsettelse, risiko og planlegging i regnskap."
+summary: "Kort introduksjon til makroøkonomi, sentrale indikatorer og hvordan de påvirker norsk regnskap og beslutninger."
 ---
 
 ![Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap](makrookonomi-image.svg)

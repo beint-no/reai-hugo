@@ -1,7 +1,8 @@
 ﻿---
 title: "Minstepensjon"
-seoTitle: "Minstepensjon"
-description: 'Minstepensjon, ofte omtalt som **garantipensjon**, er en garantert minimumspensjon i [folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er folketrygden? En...'
+seoTitle: "Minstepensjon | Hva det er og hvem som får det"
+description: "Minstepensjon, også kalt garantipensjon, er en garantert minimumspensjon i folketrygden for personer med lav eller ingen opptjening. Ordningen sikrer et grunnleggende økonomisk sikkerhetsnett i alderdommen."
+summary: "Forklaring av minstepensjon, vilkår, beregning med G og sammenheng til pensjonsrapportering."
 ---
 
 Minstepensjon, ofte omtalt som **garantipensjon**, er en garantert minimumspensjon i [folketrygden](/blogs/regnskap/hva-er-folketrygden "Hva er folketrygden? En introduksjon til Norges offentlige pensjonssystem") for personer med lav eller ingen opptjening.

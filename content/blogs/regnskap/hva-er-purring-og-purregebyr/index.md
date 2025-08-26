@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er purring og purregebyr?"
 seoTitle: "Hva er purring og purregebyr?"
-description: '**Purring og purregebyr** er viktige virkemidler for bedrifter som ønsker å sikre betaling av forfalte [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er e...'
+description: "Purring og purregebyr hjelper bedrifter å sikre betaling av forfalte fakturaer. Artikkelen dekker regler, maksimalbeløp, innholdskrav, regnskapsføring, prosess og beste praksis for effektiv oppfølging."
+summary: "Purring og purregebyr forklart: regler, satser, innholdskrav og regnskapsføring."
 ---
 
 **Purring og purregebyr** er viktige virkemidler for bedrifter som ønsker å sikre betaling av forfalte [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"). Når kunder ikke betaler innen betalingsfristen, kan du sende purring med tilhørende gebyr for å dekke administrative kostnader og motivere til rask betaling.

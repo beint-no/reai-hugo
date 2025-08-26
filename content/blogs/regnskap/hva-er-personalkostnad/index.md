@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Personalkostnad?"
 seoTitle: "Hva er Personalkostnad?"
-description: '**Personalkostnad** omfatter alle kostnader en bedrift har knyttet til sine ansatte. Dette inkluderer ikke bare grunnlønn, men også feriepenger, [arbeidsgiver...'
+description: "Personalkostnad omfatter lønn, feriepenger, arbeidsgiveravgift, pensjon, forsikringer og andre ytelser. Denne guiden forklarer komponenter, satser, periodisering, regnskapsføring og nøkkeltall for å styre kostnadene effektivt."
+summary: "Hva inngår i personalkostnad? Lønn, avgifter, pensjon og andre ytelser forklart, med fokus på regnskapsføring og styring."
 ---
 
 **Personalkostnad** omfatter alle kostnader en bedrift har knyttet til sine ansatte. Dette inkluderer ikke bare grunnlønn, men også feriepenger, [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Satser, Beregning og Regnskapsføring") som del av [trygdeavgiften](/blogs/regnskap/hva-er-trygdeavgift "Hva er Trygdeavgift? Komplett Guide til Beregning og Regnskapsføring"), [pensjonskostnader](/blogs/regnskap/hva-er-pensjon "Hva er Pensjon? Komplett Guide til Norsk Pensjonssystem"), forsikringer og andre ytelser. Personalkostnad representerer ofte den største kostnadsposten for mange bedrifter og påvirker direkte [lønnsomheten](/blogs/regnskap/hva-er-lonnsomhet "Hva er Lønnsomhet? Nøkkeltall og Analyse for Bedrifter") og [kontantstrømmen](/blogs/regnskap/hva-er-kontantstrom "Hva er Kontantstrøm? Betydning og Analyse i Regnskap").

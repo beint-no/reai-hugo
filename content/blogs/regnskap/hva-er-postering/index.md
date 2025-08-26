@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er postering?"
 seoTitle: "Hva er postering?"
-description: '**Postering** er handlingen med å registrere **konterte transaksjoner** i regnskapssystemets [hovedbok](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok? En Gu...'
+description: "Postering er registrering av konterte transaksjoner i hovedbok og underbøker. Denne guiden forklarer prosessen steg for steg, vanlige feil, eksempler, digitale verktøy og internkontroll."
+summary: "Kort guide til postering i regnskap: prosess, eksempler, fallgruver og verktøy."
 ---
 
 **Postering** er handlingen med å registrere **konterte transaksjoner** i regnskapssystemets [hovedbok](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok? En Guide til Regnskapets Sentrale Register") og tilhørende underbøker etter at transaksjonsdata er kodet gjennom [kontering](/blogs/regnskap/hva-er-kontering "Hva er Kontering? En Komplett Guide til Kontokoding i Regnskap"). Postering sikrer at alle økonomiske hendelser dokumenteres i bokføringen i samsvar med [bokføringsloven](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Regler og Krav til Norsk Bokføring") og gir et nøyaktig grunnlag for finansrapportering.

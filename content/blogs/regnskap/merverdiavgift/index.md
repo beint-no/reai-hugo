@@ -1,7 +1,8 @@
 ﻿---
 title: "Merverdiavgift: Komplett Guide til MVA i Norge"
-seoTitle: "Merverdiavgift: Komplett Guide til MVA i Norge"
-description: '**Merverdiavgift (MVA)**, eller **moms**, er en indirekte forbruksavgift som pålegges omsetning av varer og tjenester i Norge. Systemet sikrer at avgiften kun ...'
+seoTitle: "Merverdiavgift | Komplett guide til MVA i Norge"
+description: "Merverdiavgift (MVA), også kalt moms, er en indirekte forbruksavgift på omsetning av varer og tjenester i Norge. Ordningen sikrer at avgiften bæres av sluttforbruker, mens virksomheter beregner, innkrever og rapporterer MVA til Skatteetaten."
+summary: "Hva er merverdiavgift, hvordan beregnes MVA-satser, registrering, rapportering og praktiske råd for bedrifter i Norge."
 ---
 
 **Merverdiavgift (MVA)**, eller **moms**, er en indirekte forbruksavgift som pålegges omsetning av varer og tjenester i Norge. Systemet sikrer at avgiften kun betales av sluttforbrukeren, men bedrifter har ansvar for å beregne, innkreve og rapportere MVA til Skatteetaten.

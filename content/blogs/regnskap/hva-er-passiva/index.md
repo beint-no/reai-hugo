@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Passiva? En Guide til Gjeld og Egenkapital i Regnskap"
 seoTitle: "Hva er Passiva? En Guide til Gjeld og Egenkapital i Regnskap"
-description: '**Passiva** er alle forpliktelser og egenkapital som et selskap har på et gitt tidspunkt. I enkel forstand representerer passiva "hvor pengene kommer fra" i en...'
+description: "Passiva er gjeld og egenkapital i balansen. Denne guiden forklarer struktur, klassifisering, forskjellen mellom kortsiktig og langsiktig gjeld, egenkapital, nøkkeltall og praktiske råd for optimal kapitalstruktur i norske regnskap."
+summary: "Kort guide til passiva i regnskapet med fokus på gjeld, egenkapital, klassifisering og sentrale nøkkeltall i balansen."
 ---
 
 **Passiva** er alle forpliktelser og egenkapital som et selskap har på et gitt tidspunkt. I enkel forstand representerer passiva "hvor pengene kommer fra" i en bedrift, mens [aktiva](/blogs/regnskap/hva-er-aktiva "Hva er Aktiva? En Guide til Bedriftens Eiendeler") viser "hvor pengene er plassert". Sammen utgjør disse to sidene av [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? En Guide til Balansen i Regnskap") som alltid må være i likevekt.

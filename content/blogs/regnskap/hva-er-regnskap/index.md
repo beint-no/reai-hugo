@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er regnskap?"
 seoTitle: "Hva er regnskap?"
-description: 'Regnskap er den systematiske og omfattende registreringen av finansielle transaksjoner knyttet til en virksomhet. Det er språket som bedrifter bruker for å ko...'
+description: "Regnskap er systematisk registrering, klassifisering og rapportering av økonomiske transaksjoner. Denne guiden forklarer prinsipper, regnskapssyklus, finansregnskap, nøkkelrapporter, digitalisering og norske lovkrav."
+summary: "En komplett introduksjon til regnskap: grunnprinsipper, prosesser, rapporter og norske myndighetskrav."
 ---
 
 Regnskap er den systematiske og omfattende registreringen av finansielle transaksjoner knyttet til en virksomhet. Det er språket som bedrifter bruker for å kommunisere sin økonomiske helse og ytelse. Denne artikkelen gir en dyptgående analyse av regnskapets kjernekomponenter, fra de grunnleggende prinsippene til mer avanserte, spesialiserte felt.
