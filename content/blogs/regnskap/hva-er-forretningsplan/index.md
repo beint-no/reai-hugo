@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er forretningsplan?"
-seoTitle: "Hva er forretningsplan?"
-description: 'En **forretningsplan** er et omfattende dokument som beskriver en virksomhets mål, strategier og finansielle prognoser. For regnskapsførere og bedriftseiere e...'
+seoTitle: "Forretningsplan | Mal, innhold og eksempel"
+description: 'En forretningsplan beskriver mål, strategi, marked, økonomi og risiko, og brukes til finansiering, budsjett og løpende oppfølging i regnskap.'
+summary: 'Hva en forretningsplan er, hvilke deler den består av, hvordan den henger sammen med regnskap, og en enkel mal du kan følge.'
 ---
 
 En **forretningsplan** er et omfattende dokument som beskriver en virksomhets mål, strategier og finansielle prognoser. For regnskapsførere og bedriftseiere er forretningsplanen et kritisk verktøy som ikke bare fungerer som en veikart for virksomheten, men også som grunnlag for [finansiell planlegging](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Finansieringsformer og Kapitalstruktur"), [budsjettering](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? En Komplett Guide til Budsjettplanlegging og Økonomistyring") og regnskapsmessig oppfølging.

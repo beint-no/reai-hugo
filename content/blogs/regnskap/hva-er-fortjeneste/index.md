@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Fortjeneste?"
-seoTitle: "Hva er Fortjeneste?"
-description: '**Fortjeneste** er et av de mest sentrale begrepene innen [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring") ...'
+seoTitle: "Fortjeneste | Definisjon, typer og beregning"
+description: 'Fortjeneste er overskuddet etter kostnader. Lær forskjellen på bruttofortjeneste, driftsresultat og nettofortjeneste, og hvordan de beregnes.'
+summary: 'Kort oversikt over fortjeneste: definisjon, nivåer i resultatregnskapet, nøkkeltall og hva som påvirker lønnsomhet i praksis.'
 ---
 
 **Fortjeneste** er et av de mest sentrale begrepene innen [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring") og økonomi. Det representerer det overskuddet en bedrift oppnår etter at alle kostnader er trukket fra inntektene, og er det ultimate målet for de fleste kommersielle virksomheter. Fortjeneste er ikke bare et tall i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring") - det er en indikator på bedriftens **lønnsomhet**, **effektivitet** og **fremtidige bærekraft**.

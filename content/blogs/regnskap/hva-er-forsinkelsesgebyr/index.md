@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er forsinkelsesgebyr?"
-seoTitle: "Hva er forsinkelsesgebyr?"
-description: '**Forsinkelsesgebyr** er en kompensasjon som en kreditor kan kreve når en debitor ikke betaler sin gjeld innen avtalt forfallsdato. Dette gebyret, også kjent ...'
+seoTitle: "Forsinkelsesgebyr | Regler, satser og beregning"
+description: 'Forsinkelsesgebyr er kostnader som kan kreves ved sen betaling, inkludert forsinkelsesrenter og purregebyrer, regulert av norsk lov.'
+summary: 'Kort om forsinkelsesgebyr: lovgrunnlag, rentesatser, beregningseksempler, purregebyr og praktiske råd for kreditor og debitor.'
 ---
 
 **Forsinkelsesgebyr** er en kompensasjon som en kreditor kan kreve når en debitor ikke betaler sin gjeld innen avtalt forfallsdato. Dette gebyret, også kjent som **morarenter** eller **forsinkelsesrenter**, skal kompensere for den økonomiske belastningen og risikoen som oppstår ved forsinket betaling.

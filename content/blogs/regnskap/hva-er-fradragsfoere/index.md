@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Fradragsføre i Regnskap?"
-seoTitle: "Hva er Fradragsføre i Regnskap?"
-description: '**Å fradragsføre** handler om selve prosessen med å bokføre kostnader som **fradrag** i regnskapet slik at virksomhetens skattepliktige inntekt reduseres pÃ...'
+seoTitle: "Fradragsføre | Slik fører du fradrag korrekt"
+description: 'Å fradragsføre betyr å bokføre kostnader som fradrag i regnskap slik at skattepliktig inntekt blir riktig. Slik gjør du det steg for steg.'
+summary: 'Kort om fradragsføring: definisjon, prosess, dokumentasjonskrav, vanlige feil og et enkelt bokføringseksempel.'
 ---
 
 **Å fradragsføre** handler om selve prosessen med å bokføre kostnader som **fradrag** i regnskapet slik at virksomhetens skattepliktige inntekt reduseres på korrekt måte. Dette er et praktisk aspekt av [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") og [skatteregnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") som sikrer at alle utgifter innregnes i tråd med gjeldende lover og regler.

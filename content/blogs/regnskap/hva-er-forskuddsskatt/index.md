@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er forskuddsskatt?"
-seoTitle: "Hva er forskuddsskatt?"
-description: '**Forskuddsskatt** er en forskuddsbetaling av forventet skatt for bedrifter og selvstendige næringsdrivende, basert på anslått alminnelig inntekt. Systemet f...'
+seoTitle: "Forskuddsskatt | Frister, satser og beregning"
+description: 'Forskuddsskatt er løpende innbetaling av forventet skatt fordelt på terminer gjennom året, basert på estimert inntekt og gjeldende skattesatser.'
+summary: 'Enkel forklaring av forskuddsskatt: hvem som betaler, terminfrister, hvordan beløpet beregnes og bokføres, og hva som skjer ved restskatt eller til gode.'
 ---
 
 **Forskuddsskatt** er en forskuddsbetaling av forventet skatt for bedrifter og selvstendige næringsdrivende, basert på anslått alminnelig inntekt. Systemet fordeler skatteforpliktelsen over året gjennom terminer, og bidrar til forutsigbar likviditet for virksomheten.

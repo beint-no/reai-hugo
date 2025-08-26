@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er fradrag i regnskap?"
-seoTitle: "Hva er fradrag i regnskap?"
-description: '**Fradrag** i regnskap og skatterett er kostnader eller utgifter som kan trekkes fra inntektene for å redusere det skattepliktige grunnlaget. Dette er et funda...'
+seoTitle: "Fradrag i regnskap | Regler, eksempler og periodisering"
+description: 'Fradrag er kostnader som kan trekkes fra inntekter for å redusere skatten. Lær hovedregelen, vilkår, dokumentasjonskrav og vanlige fradrag i regnskap.'
+summary: 'Kort guide til fradrag: hovedregel i skatteloven, typiske driftskostnader, avskrivninger, dokumentasjonskrav og vanlige feil å unngå.'
 ---
 
 **Fradrag** i regnskap og skatterett er kostnader eller utgifter som kan trekkes fra inntektene for å redusere det skattepliktige grunnlaget. Dette er et fundamentalt konsept som påvirker både [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") og skatteplanlegging for alle typer virksomheter i Norge.

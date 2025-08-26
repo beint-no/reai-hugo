@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er forskuddsbetaling?"
-seoTitle: "Hva er forskuddsbetaling?"
-description: '**Forskuddsbetaling** er en betaling som gjøres på forhånd for varer eller tjenester som skal leveres på et senere tidspunkt. Dette er en vanlig praksis i m...'
+seoTitle: "Forskuddsbetaling | Regler, eksempel og regnskapsføring"
+description: 'Forskuddsbetaling er betaling før levering av vare eller tjeneste. Slik påvirker det likviditet, risiko, MVA og regnskapsføring for kjøper og selger.'
+summary: 'Kort forklaring av forskuddsbetaling: når det brukes, fordeler og ulemper, MVA-regler og hvordan transaksjonen bokføres hos kjøper og selger.'
 ---
 
 **Forskuddsbetaling** er en betaling som gjøres på forhånd for varer eller tjenester som skal leveres på et senere tidspunkt. Dette er en vanlig praksis i mange bransjer og representerer en viktig del av moderne forretningsdrift. Forskuddsbetalinger skaper både muligheter og utfordringer for både kjøper og selger, og krever korrekt håndtering i [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring i Norge").

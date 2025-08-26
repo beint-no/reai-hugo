@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er forretningsmodell?"
-seoTitle: "Hva er forretningsmodell?"
-description: 'En **forretningsmodell** beskriver hvordan en virksomhet **skaper, leverer og fanger verdi**. En grundig forretningsmodell gir et solid grunnlag for strategisk ...'
+seoTitle: "Forretningsmodell | Hva er det? Eksempler og mal"
+description: 'En forretningsmodell beskriver hvordan en virksomhet skaper, leverer og fanger verdi, og danner grunnlag for strategi, inntektsstrømmer og kostnadsstruktur.'
+summary: 'Kort forklart: hva en forretningsmodell er, kjernekomponenter, eksempler og hvordan den brukes sammen med forretningsplan og regnskap.'
 ---
 
 En **forretningsmodell** beskriver hvordan en virksomhet **skaper, leverer og fanger verdi**. En grundig forretningsmodell gir et solid grunnlag for strategisk planlegging, forretningsplanlegging og regnskapsføring.

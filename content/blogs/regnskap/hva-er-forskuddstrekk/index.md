@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er forskuddstrekk?"
-seoTitle: "Hva er forskuddstrekk?"
-description: '**Forskuddstrekk** er et system hvor arbeidsgivere trekker skatt fra ansattes lønn før utbetaling, og sender denne skatten direkte til Skatteetaten på vegne ...'
+seoTitle: "Forskuddstrekk | Hva det er og hvordan det beregnes"
+description: 'Forskuddstrekk er skattetrekk i lønn som arbeidsgiver gjør og betaler til Skatteetaten hver måned, basert på skattekort og trekktabeller.'
+summary: 'Kort om forskuddstrekk: trekkgrunnlag, skattekort og tabeller, frister, A-meldingen og bokføring av lønn og innbetaling til Skatteetaten.'
 ---
 
 **Forskuddstrekk** er et system hvor arbeidsgivere trekker skatt fra ansattes lønn før utbetaling, og sender denne skatten direkte til Skatteetaten på vegne av den ansatte. Dette systemet sikrer at arbeidstakere betaler skatt løpende gjennom året, i stedet for å måtte betale hele skatten på en gang ved årets slutt. Forskuddstrekk er en fundamental del av det norske skattesystemet og påvirker både arbeidsgivere og arbeidstakere.

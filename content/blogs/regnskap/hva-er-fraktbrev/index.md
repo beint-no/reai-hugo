@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er fraktbrev?"
-seoTitle: "Hva er fraktbrev?"
-description: 'Et **fraktbrev** er et juridisk bindende transportdokument som fungerer som kontrakt mellom avsender og transportør for frakt av varer. Dette dokumentet er sen...'
+seoTitle: "Fraktbrev | Typer, innhold og regnskapsføring"
+description: 'Et fraktbrev er et transportdokument og en kontrakt mellom avsender og transportør. Slik brukes det i logistikk, MVA-behandling og regnskap.'
+summary: 'Kort om fraktbrev: hva det er, viktig innhold, typer (CMR, konnossement, AWB) og hvordan fraktkostnader behandles i regnskap og MVA.'
 ---
 
 Et **fraktbrev** er et juridisk bindende transportdokument som fungerer som kontrakt mellom avsender og transportør for frakt av varer. Dette dokumentet er sentralt i både logistikk og regnskap, da det dokumenterer transportkostnader, ansvar og leveringsbetingelser. For bedrifter som driver med [engroshandel](/blogs/regnskap/hva-er-engroshandel "Hva er Engroshandel? Komplett Guide til Grossistvirksomhet og B2B-handel") eller [detaljhandel](/blogs/regnskap/hva-er-detaljhandel "Hva er Detaljhandel? Komplett Guide til Butikkdrift og Kundeservice") er korrekt håndtering av fraktbrev essensielt for [dokumentasjon i regnskap og bokføring](/blogs/regnskap/hva-er-dokumentasjon-regnskap-bokforing "Hva er Dokumentasjon i Regnskap og Bokføring? Komplett Guide til Bilag og Arkivering").
