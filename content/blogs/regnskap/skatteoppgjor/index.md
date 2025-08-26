@@ -1,7 +1,8 @@
 ﻿---
 title: "Skatteoppgjør i Norsk Regnskap og Skatt"
-seoTitle: "Skatteoppgjør i Norsk Regnskap og Skatt"
-description: '**Hva er Skatteoppgjør?**'
+seoTitle: "Skatteoppgjør | Slik fungerer oppgjøret og viktige frister"
+description: "Skatteoppgjør er sluttberegningen som viser om du får penger tilbake eller må betale restskatt. Lær prosessen, frister og hvilke dokumenter du må ha kontroll på."
+summary: "Enkel forklaring av skatteoppgjør: steg i prosessen, tidslinje, typiske utfall og hvordan du forbereder deg for et forutsigbart resultat."
 ---
 
 **Hva er Skatteoppgjør?**

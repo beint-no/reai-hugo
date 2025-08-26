@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er kreditor?"
 seoTitle: "Hva er kreditor?"
-description: '**Kreditor** er et sentralt begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og [bokføring](/blogs/regnskap/hv...'
+description: 'Kreditor er en leverandør eller part virksomheten skylder penger, registrert som leverandørgjeld i balansen ved kjøp på kreditt.'
+summary: 'Kort om kreditor: definisjon, forskjell fra debitor, betalingsbetingelser, oppfølging og bokføring av leverandørgjeld i norsk regnskap.'
 ---
 
 **Kreditor** er et sentralt begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") og [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") som refererer til leverandører og andre parter som virksomheten skylder penger til for mottatte varer eller tjenester. Kreditor representerer leverandørgjeld og er en viktig del av selskapets [passiva](/blogs/regnskap/hva-er-gjeld "Hva er Gjeld? Komplett Guide til Gjeldshåndtering i Regnskap"). Effektiv kreditorhåndtering er avgjørende for å opprettholde gode leverandørforhold og optimalisere [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Guide til Likviditetsstyring").

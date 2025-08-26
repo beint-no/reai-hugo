@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er kostpris?"
 seoTitle: "Hva er kostpris?"
-description: '**Kostpris** er den totale kostnaden det koster å produsere, kjøpe inn eller fremstille en vare eller tjeneste. Dette er et grunnleggende regnskapskonsept som...'
+description: 'Kostpris er den totale kostnaden for å produsere eller anskaffe en vare eller tjeneste, inkludert direkte og indirekte kostnader.'
+summary: 'Definisjon av kostpris, komponenter (materialer, lønn, overhead), metoder for beregning og hvordan kostpris brukes i prissetting og regnskap.'
 ---
 
 **Kostpris** er den totale kostnaden det koster å produsere, kjøpe inn eller fremstille en vare eller tjeneste. Dette er et grunnleggende regnskapskonsept som danner basis for prissetting, lønnsomhetsanalyse og [driftsregnskap](/blogs/regnskap/hva-er-driftsregnskap "Hva er Driftsregnskap? Forklaring og Eksempler"), og er nært knyttet til [varekostnad](/blogs/regnskap/hva-er-varekostnad "Hva er Varekostnad? Komplett Guide til Kostnadsstyring og Regnskapsføring").

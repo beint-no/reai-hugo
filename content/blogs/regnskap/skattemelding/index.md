@@ -1,7 +1,8 @@
 ﻿---
 title: "Skattemelding"
-seoTitle: "Skattemelding"
-description: 'En **skattemelding** (tidligere kjent som [selvangivelse](/blogs/regnskap/selvangivelse "Selvangivelse - Guide til Norsk Skattemelding og Skatteoppgjør")) er d...'
+seoTitle: "Skattemelding | Frister, innhold og innsending i Altinn"
+description: "Skattemelding er rapporteringen til Skatteetaten av inntekter, fradrag og skatteposisjoner. Lær frister, innhold, vanlige vedlegg og hvordan du leverer i Altinn."
+summary: "Alt du må vite om skattemeldingen: leveringsplikt, frister, vedlegg og digital innsending for bedrifter og næringsdrivende."
 ---
 
 En **skattemelding** (tidligere kjent som [selvangivelse](/blogs/regnskap/selvangivelse "Selvangivelse - Guide til Norsk Skattemelding og Skatteoppgjør")) er den offisielle dokumentasjonen som bedrifter og enkeltpersoner må sende inn til Skatteetaten for å rapportere inntekter, fradrag og beregne skyldig [skatt](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging"). For bedrifter er skattmeldingen en kritisk del av [regnskapsføringen](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Grunnleggende Prinsipper og Prosesser") og påvirker både [kontantstrøm](/blogs/regnskap/hva-er-kontantstrom "Hva er Kontantstrøm? Analyse og Forvaltning av Bedriftens Pengestrøm") og strategisk planlegging.

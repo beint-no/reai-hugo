@@ -1,7 +1,8 @@
 ﻿---
 title: "Skjemafobi – Hvordan overvinne frykt for skjemaer i regnskap"
-seoTitle: "Skjemafobi “ Hvordan overvinne frykt for skjemaer i regnskap"
-description: '**Skjemafobi** er en betegnelse på *frykten eller motstanden mot å fylle ut skjemaer*, spesielt i en regnskaps- og administrasjonskontekst. I Norge kan **skje...'
+seoTitle: "Skjemafobi | Tips for å mestre skjemaer i regnskap"
+description: "Skjemafobi er motstand mot å fylle ut skjemaer og kan gi forsinkelser og feil i regnskap. Lær årsaker, konsekvenser og praktiske tiltak som gjør skjemaer enklere."
+summary: "Slik håndterer du skjemafobi i regnskap: enkle grep, riktige verktøy og bedre rutiner som reduserer feil og forsinkelser."
 ---
 
 **Skjemafobi** er en betegnelse på *frykten eller motstanden mot å fylle ut skjemaer*, spesielt i en regnskaps- og administrasjonskontekst. I Norge kan **skjemafobi** føre til forsinkelser i rapportering, økt risiko for avvik og *administrativ byrde* for både små og store virksomheter.

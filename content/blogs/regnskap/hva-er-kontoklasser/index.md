@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er kontoklasser?"
 seoTitle: "Hva er kontoklasser?"
-description: '**Kontoklasser** er det systematiske klassifiseringssystemet som danner ryggraden i norsk [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En K...'
+description: 'Kontoklasser er det klassifiseringssystemet som organiserer alle regnskapskontoer i kontoplanen og muliggjør korrekt bokføring og rapportering.'
+summary: 'Hva kontoklasser er, hvordan de er bygget opp (0–9), og hvordan de brukes i kontoplan, bokføring og rapportering i norsk regnskap.'
 ---
 
 **Kontoklasser** er det systematiske klassifiseringssystemet som danner ryggraden i norsk [bokføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? En Komplett Guide til Norsk Bokføringspraksis") og [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge"). Dette strukturerte systemet organiserer alle regnskapskontoer i logiske grupper som gjør det mulig å produsere pålitelige finansielle rapporter og oppfylle lovpålagte rapporteringskrav.

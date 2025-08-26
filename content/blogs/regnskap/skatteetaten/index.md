@@ -1,7 +1,8 @@
 ﻿---
 title: "Skatteetaten"
-seoTitle: "Skatteetaten"
-description: '## Innledning'
+seoTitle: "Skatteetaten | Oppgaver, frister og digitale tjenester"
+description: "Skatteetaten er Norges skattemyndighet og forvalter skatt, avgifter og kontroll. Oversikt over oppgaver, viktige frister og digitale løsninger for privatpersoner og bedrifter."
+summary: "Hva Skatteetaten gjør, hvilke frister som gjelder, og hvilke digitale tjenester du bruker til rapportering og betaling."
 ---
 
 ## Innledning

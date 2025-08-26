@@ -1,7 +1,8 @@
 ﻿---
 title: "Små Foretak"
-seoTitle: "Små Foretak"
-description: 'For en oversikt over generelle foretaksdefinisjoner, se [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksforme...'
+seoTitle: "Små foretak | Definisjon, kriterier og regnskapskrav"
+description: "Små foretak er virksomheter som oppfyller terskelverdier for omsetning, balansesum og ansatte. Få en oversikt over kriterier, forenklede regler og praktiske konsekvenser."
+summary: "Kort guide til små foretak: terskelverdier, forenklede regnskapsregler og hva du må huske på ved årsavslutning."
 ---
 
 For en oversikt over generelle foretaksdefinisjoner, se [Hva er et Foretak?](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge").

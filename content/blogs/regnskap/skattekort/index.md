@@ -1,7 +1,8 @@
 ﻿---
 title: "Skattekort"
-seoTitle: "Skattekort"
-description: '**Skattekort** er den digitale **bekreftelsen** fra [Skatteetaten](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter") pÃ...'
+seoTitle: "Skattekort | Tabelltrekk, prosenttrekk og frikort"
+description: "Skattekort viser hvor mye skatt som skal trekkes av lønnen din. Her forklares tabelltrekk, prosenttrekk, frikort og hvordan du endrer skattekort i Altinn."
+summary: "Alt om skattekort: tabelltrekk vs. prosenttrekk, frikort og hvordan du oppdaterer skattekortet i Altinn."
 ---
 
 **Skattekort** er den digitale **bekreftelsen** fra [Skatteetaten](/blogs/regnskap/hva-er-altinn "Altinn - Digital Kommunikasjon med Offentlige Myndigheter") på hvor mye du skal betale i forskuddstrekk gjennom året. *Les videre for alt du trenger å vite om skattekort i Norge.*

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Kontantstrømoppstilling? En Komplett Guide til Kontantstrømoppstilling i Norge"
 seoTitle: "Hva er Kontantstrømoppstilling? En Komplett Guide til Kontantstrømoppstilling i Norge"
-description: '**Kontantstrømoppstillingen** er en av de tre hovedkomponentene i finansregnskapet og gir et detaljert bilde av hvordan kontanter strømmer inn og ut av en vir...'
+description: 'Kontantstrømoppstillingen er en av hovedrapportene i finansregnskapet og viser hvordan kontanter strømmer inn og ut av virksomheten innen drift, investering og finansiering.'
+summary: 'Hva kontantstrømoppstillingen er, hvordan den bygges opp, metoder for utarbeidelse og hvordan tallene tolkes for likviditet og beslutninger.'
 ---
 
 **Kontantstrømoppstillingen** er en av de tre hovedkomponentene i finansregnskapet og gir et detaljert bilde av hvordan kontanter strømmer inn og ut av en virksomhet over en bestemt periode. Mens [resultatregnskapet](/blogs/regnskap/hva-er-driftsregnskap "Hva er Driftsregnskap? Komplett Guide til Driftsregnskapet i Norge") viser lønnsomhet og [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon") viser finansiell stilling, avslører kontantstrømoppstillingen den faktiske kontantbevegelsen som er avgjørende for virksomhetens likviditet og overlevelse.

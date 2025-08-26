@@ -1,7 +1,8 @@
 ﻿---
 title: "Skattesats"
-seoTitle: "Skattesats"
-description: '![Skattesats](skattesats-image.svg)'
+seoTitle: "Skattesats | Oversikt over skattesatser i Norge"
+description: "Skattesats er prosenten av et grunnlag som skal betales i skatt. Her finner du en oppdatert oversikt over satser for personskatt, selskapsskatt, trygdeavgift og merverdiavgift."
+summary: "Oppdatert oversikt over skattesatser: personskatt, selskapsskatt, trygdeavgift og MVA med tabeller og relevante lenker."
 ---
 
 ![Skattesats](skattesats-image.svg)

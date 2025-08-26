@@ -1,7 +1,8 @@
 ﻿---
 title: "Skatteberegning"
-seoTitle: "Skatteberegning"
-description: '**Skatteberegning** er prosessen for å fastsette **skattepliktig inntekt** og beregne skatt som skal betales av både bedrifter og privatpersoner. Dette innebÃ...'
+seoTitle: "Skatteberegning | Slik beregnes skatt for personer og bedrifter"
+description: "Skatteberegning fastsetter skattepliktig inntekt og beregner hvor mye skatt som skal betales av bedrifter og privatpersoner. Guiden forklarer trinnene, vanlige justeringer og hvordan satser anvendes i praksis."
+summary: "Kort guide til hvordan skatteberegning fungerer for personer og selskaper, med trinn, justeringer og satser."
 ---
 
 **Skatteberegning** er prosessen for å fastsette **skattepliktig inntekt** og beregne skatt som skal betales av både bedrifter og privatpersoner. Dette innebærer å justere regnskapsmessige resultater for skattemessige forskjeller, anvende gjeldende skattesatser og rapportere korrekt via [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering").

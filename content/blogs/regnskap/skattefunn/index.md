@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Skattefunn?"
-seoTitle: "Hva er Skattefunn?"
-description: '**Skattefunn** er en statlig ordning som gir **skattefradrag** for kostnader knyttet til forskning og utvikling (FoU) i norske bedrifter. Ordningen administrere...'
+seoTitle: "Skattefunn | Skattefradrag for FoU-kostnader"
+description: "Skattefunn er en statlig ordning som gir skattefradrag for FoU-kostnader i norske bedrifter. Slik fungerer ordningen, hvem som kan søke, og hvordan rapportering skjer i skattemeldingen."
+summary: "Oversikt over Skattefunn-ordningen: vilkår, støttesatser, søknadsprosess og rapportering av FoU-kostnader."
 ---
 
 **Skattefunn** er en statlig ordning som gir **skattefradrag** for kostnader knyttet til forskning og utvikling (FoU) i norske bedrifter. Ordningen administreres av Norges forskningsråd og Skatteetaten, og er en viktig del av satsingen på innovasjon. For å rapportere fradraget i skattemeldingen kreves utfylling av [næringsoppgave](/blogs/regnskap/hva-er-naeringsoppgave "Hva er næringsoppgave? Komplett Guide til Næringsoppgaven") og spesifikk dokumentasjon i [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering"). Skattefradraget beregnes i henhold til gjeldende satser for FoU-aktivitet og avregnes mot betalbar skatt i [skatteberegning](/blogs/regnskap/skatteberegning "Skatteberegning - Guide til Beregning av Bedriftsskatt og Personlig Skatt").

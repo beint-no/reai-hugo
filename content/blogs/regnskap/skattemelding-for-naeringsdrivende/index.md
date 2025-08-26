@@ -1,7 +1,8 @@
 ﻿---
 title: "Skattemelding for næringsdrivende"
-seoTitle: "Skattemelding for næringsdrivende"
-description: '*Skattemelding for næringsdrivende* er den delen av din [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlever...'
+seoTitle: "Skattemelding for næringsdrivende | Frister og innlevering"
+description: "Skattemelding for næringsdrivende omfatter næringsinntekter, fradrag og næringsoppgave. Lær frister, leveringskrav og hvordan du sender inn via Altinn."
+summary: "Guide til skattemelding for næringsdrivende: hva som skal med, viktige frister og steg for digital innlevering i Altinn."
 ---
 
 *Skattemelding for næringsdrivende* er den delen av din [skattemelding](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering") som omhandler **næringsinntekter** og **fradrag** for selvstendig næringsdrivende og registrerte foretak. Denne guiden hjelper deg med å forstå leveringskrav, frister og digital innlevering i [Altinn](/blogs/regnskap/hva-er-altinn "Hva er Altinn? Digital kommunikasjonsplattform for offentlige etater").

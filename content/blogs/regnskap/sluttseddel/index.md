@@ -1,7 +1,8 @@
 ﻿---
 title: "Sluttseddel i regnskap"
-seoTitle: "Sluttseddel i regnskap"
-description: '**Sluttseddel** er et dokument som oppsummerer den endelige avregningen ved levering av varer og tjenester. Sluttseddelen fungerer som et **bilag** som dokument...'
+seoTitle: "Sluttseddel | Dokument for endelig avregning"
+description: "Sluttseddel oppsummerer endelig avregning ved levering av varer og tjenester og fungerer som bilag i regnskapet. Innhold, bruk og kontrollpunkter."
+summary: "Hva er en sluttseddel, når brukes den og hva skal den inneholde? Kort oversikt med sjekkpunkter."
 ---
 
 **Sluttseddel** er et dokument som oppsummerer den endelige avregningen ved levering av varer og tjenester. Sluttseddelen fungerer som et **bilag** som dokumenterer saldoer, eventuelle justeringer og grunnlag for sluttføring av regnskapet.

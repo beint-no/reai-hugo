@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er kontantstrøm?"
 seoTitle: "Hva er kontantstrøm?"
-description: '**Kontantstrøm** (cash flow) er bevegelsen av kontanter inn og ut av en bedrift over en bestemt periode. Det er et av de viktigste målene på bedriftens **fin...'
+description: 'Kontantstrøm (cash flow) er bevegelsen av kontanter inn og ut av en bedrift over en periode og viser evnen til å finansiere drift, betale regninger og investere.'
+summary: 'Definisjon av kontantstrøm, typer kontantstrømmer, kontantstrømoppstilling og praktiske måter å forbedre likviditet.'
 ---
 
 **Kontantstrøm** (cash flow) er bevegelsen av kontanter inn og ut av en bedrift over en bestemt periode. Det er et av de viktigste målene på bedriftens **finansielle helse** og evne til å opprettholde drift, betale regninger og investere i vekst. Kontantstrøm skiller seg fra [resultatregnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Norsk Regnskapsføring") ved at det fokuserer på faktiske kontantbevegelser, ikke påløpte inntekter og kostnader.

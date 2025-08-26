@@ -1,7 +1,8 @@
 ﻿---
 title: "Sluttoppgjør i regnskap"
-seoTitle: "Sluttoppgjør i regnskap"
-description: '**Sluttoppgjør i regnskap** er den siste fasen i regnskapsprosessen hvor alle kontoer avstemmes, justeringer gjennomføres og regnskapet endelig godkjennes. Sl...'
+seoTitle: "Sluttoppgjør | Siste steg i årsavslutningen"
+description: "Sluttoppgjør er siste fase i regnskapsprosessen med avstemming, justeringer og endelig godkjenning. Se steg-for-steg-prosessen og viktige kontrollpunkter."
+summary: "Hva er sluttoppgjør, hvorfor det er viktig, og hvordan du gjennomfører et ryddig sluttoppgjør med gode kontroller og dokumentasjon."
 ---
 
 **Sluttoppgjør i regnskap** er den siste fasen i regnskapsprosessen hvor alle kontoer avstemmes, justeringer gjennomføres og regnskapet endelig godkjennes. Sluttoppgjøret sikrer at [årsavslutningen](/blogs/regnskap/hva-er-aarsavslutning "Årsavslutning i regnskap") er komplett og at regnskapet gir et **rettvisende bilde** av virksomhetens økonomiske situasjon.

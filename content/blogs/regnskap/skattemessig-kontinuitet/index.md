@@ -1,7 +1,8 @@
 ﻿---
 title: "Skattemessig kontinuitet"
-seoTitle: "Skattemessig kontinuitet"
-description: '**Skattemessig kontinuitet** beskriver prinsippet om fortsatt skattemessig **inngangsverdi** ved overføring av eiendeler eller virksomhet, slik at skattemessig...'
+seoTitle: "Skattemessig kontinuitet | Prinsipp, eksempler og bruk"
+description: "Skattemessig kontinuitet betyr at skattemessige inngangsverdier videreføres ved overføringer, fusjon og fisjon. Slik fungerer prinsippet, med eksempler og typiske bruksområder."
+summary: "Kort forklaring av kontinuitetsprinsippet: når det gjelder, hva det innebærer og fordeler/ulemper i praksis."
 ---
 
 **Skattemessig kontinuitet** beskriver prinsippet om fortsatt skattemessig **inngangsverdi** ved overføring av eiendeler eller virksomhet, slik at skattemessig gevinst eller tap ikke realiseres ved selger, men videreføres hos erverver.

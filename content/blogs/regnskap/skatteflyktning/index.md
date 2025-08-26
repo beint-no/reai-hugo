@@ -1,7 +1,8 @@
 ﻿---
 title: "Skatteflyktning"
-seoTitle: "Skatteflyktning"
-description: 'En **skatteflyktning** er en person eller et selskap som bytter skattemessig bosted til et annet land for å oppnå lavere **skattebelastning**. Dette gjøres v...'
+seoTitle: "Skatteflyktning | Definisjon, regler og konsekvenser"
+description: "En skatteflyktning flytter skattemessig bosted eller aktivitet til et annet land for å redusere skatten. Her får du oversikt over kjennetegn, regelverk, risiko og alternativer innen lovlig skatteplanlegging."
+summary: "Hva betyr skatteflyktning, hvilke regler gjelder, og hvilke konsekvenser kan det få? Kort oversikt med alternativer til bostedsflytting."
 ---
 
 En **skatteflyktning** er en person eller et selskap som bytter skattemessig bosted til et annet land for å oppnå lavere **skattebelastning**. Dette gjøres ved å flytte skattemessig hjemsted, eierskap eller reell økonomisk aktivitet til jurisdiksjoner med gunstigere skatteregler.
