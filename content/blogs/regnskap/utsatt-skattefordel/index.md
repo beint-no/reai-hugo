@@ -1,6 +1,6 @@
 ﻿---
 title: "Utsatt skattefordel"
-seoTitle: "Utsatt skattefordel"
+seoTitle: "Utsatt skattefordel | Beregning, bokføring og eksempler"
 description: '**Utsatt skattefordel** er en regnskapsmessig eiendel som oppstår når midlertidige skattemessige forskjeller vil føre til skattemessige fradrag i fremtiden.'
 summary: Regnskapsmessig eiendel som gir fremtidige skattefradrag ved midlertidige forskjeller. Artikkelen dekker beregning, bokføring, eksempler og forskjellen fra utsatt skattegjeld.
 ---

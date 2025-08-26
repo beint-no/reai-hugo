@@ -2,6 +2,7 @@
 title: "hva-er-leverandor"
 seoTitle: "hva-er-leverandor"
 description: 'En **leverandør** er en person eller bedrift som leverer varer eller tjenester til din bedrift mot betaling. I regnskapssammenheng representerer leverandører ...'
+summary: "Hva en leverandør er, hvordan leverandørforhold påvirker regnskap, og beste praksis for leverandørstyring, betalingsbetingelser og internkontroll."
 ---
 
 En **leverandør** er en person eller bedrift som leverer varer eller tjenester til din bedrift mot betaling. I regnskapssammenheng representerer leverandører en kritisk del av bedriftens [kreditor](/blogs/regnskap/hva-er-kreditor "Hva er Kreditor? Komplett Guide til Leverandørgjeld og Kreditorstyring")-portefølje og påvirker direkte [kontantstrømmen](/blogs/regnskap/hva-er-kontantstrom "Hva er Kontantstrøm? Komplett Guide til Kontantstrømanalyse") gjennom leverandørgjeld og betalingsforpliktelser. Effektiv leverandørstyring er fundamentalt for å opprettholde god [betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet") og optimalisere bedriftens arbeidskapital.

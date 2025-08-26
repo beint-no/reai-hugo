@@ -2,6 +2,7 @@
 title: "Hva er likvide midler?"
 seoTitle: "Hva er likvide midler?"
 description: '**Likvide midler** er bedriftens umiddelbart tilgjengelige kontanter og kontantekvivalenter, som kan brukes til å dekke kortsiktige forpliktelser og finansiere...'
+summary: "Hva likvide midler er, eksempler og regnskapsføring, samt betydning for likviditetsanalyse og styring."
 ---
 
 **Likvide midler** er bedriftens umiddelbart tilgjengelige kontanter og kontantekvivalenter, som kan brukes til å dekke kortsiktige forpliktelser og finansiere den daglige driften. Som en del av [omløpsmidler](/blogs/regnskap/hva-er-omlopsmiddel "Hva er Omløpsmidler? Komplett Guide til Omløpsmidler") er likvide midler en nøkkelkomponent i bedriftens [likviditetsanalyse](/blogs/regnskap/hva-er-likviditetsgrad "Hva er Likviditetsgrad? Beregning, Analyse og Tolkning av Likviditetsnøkkeltall") og [likviditetsstyring](/blogs/regnskap/hva-er-likviditetsstyring "Hva er Likviditetsstyring i Regnskap?").

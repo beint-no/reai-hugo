@@ -1,7 +1,8 @@
 ﻿---
 title: "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap"
-seoTitle: "Vedtekter: Definisjon, Krav og Betydning i Norsk Regnskap"
+seoTitle: "Vedtekter | Krav, innhold og betydning i regnskap"
 description: '**Vedtekter** er selskapets grunnleggende **styringsdokument** som fastsetter selskapets organisering, formål, kapitalstruktur og beslutningsprosesser. I norsk...'
+summary: "Hva er vedtekter, lovkrav til innhold og hvorfor de er viktige i regnskap."
 ---
 
 **Vedtekter** er selskapets grunnleggende **styringsdokument** som fastsetter selskapets organisering, formål, kapitalstruktur og beslutningsprosesser. I norsk regnskap og selskapsrett er vedtektene et lovpålagt krav som danner rammen for selskapets drift og påvirker både økonomisk rapportering og selskapsstyring.

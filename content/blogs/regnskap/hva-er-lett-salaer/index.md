@@ -2,6 +2,7 @@
 title: "Hva er Lett Salær i Regnskap?"
 seoTitle: "Hva er Lett Salær i Regnskap?"
 description: '**Lett salær** er en spesiell lønnsordning i Norge som gir **skattemessige fordeler** for både arbeidsgiver og arbeidstaker. Ordningen innebærer at visse ty...'
+summary: "Hva lett salær er, hvem som kan bruke ordningen, grenser og rapportering, og hvordan det påvirker skatt, arbeidsgiveravgift og regnskap."
 ---
 
 **Lett salær** er en spesiell lønnsordning i Norge som gir **skattemessige fordeler** for både arbeidsgiver og arbeidstaker. Ordningen innebærer at visse typer arbeid og tjenester kan lønnes med redusert skatt og avgifter, men har strenge regler og begrensninger som må følges nøye. Lett salær skiller seg fra vanlig [fastlønn](/blogs/regnskap/hva-er-fastlonn "Hva er Fastlønn i Regnskap?") ved at det har **lavere skattebelastning** og **enklere administrasjon**.

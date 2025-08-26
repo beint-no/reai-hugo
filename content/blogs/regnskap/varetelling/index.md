@@ -1,7 +1,8 @@
 ﻿---
 title: "Varetelling"
-seoTitle: "Varetelling"
+seoTitle: "Varetelling | Metoder, prosess og regnskapsføring"
 description: '**Varetelling** er en systematisk prosess for å kontrollere og verifisere **lagerbeholdningen** i regnskapet. Gjennom regelmessige opptellinger sikrer virksomh...'
+summary: "Hva er varetelling, hvilke metoder som brukes og hvordan føre i regnskap."
 ---
 
 **Varetelling** er en systematisk prosess for å kontrollere og verifisere **lagerbeholdningen** i regnskapet. Gjennom regelmessige opptellinger sikrer virksomheter at det fysiske lageret stemmer med det regnskapsførte, noe som er avgjørende for korrekt [balanseføring](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseføring"), [avstemming](/blogs/regnskap/hva-er-avstemming "Hva er Avstemming i regnskap?") og rapportering. Riktig varetelling støtter også nøyaktig kostprisberegning og optimal arbeidskapitalstyring.

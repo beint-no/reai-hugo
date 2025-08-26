@@ -2,6 +2,7 @@
 title: "Hva er en kunde?"
 seoTitle: "Hva er en kunde?"
 description: 'En **kunde** er en person eller organisasjon som kjøper varer eller tjenester fra en bedrift. I regnskapssammenheng representerer kunder den viktigste kilden t...'
+summary: "Kort forklaring på hva en kunde er i regnskap, med fokus på rolle, kundefordringer og hvordan kundehåndtering påvirker inntekter og kontantstrøm."
 ---
 
 En **kunde** er en person eller organisasjon som kjøper varer eller tjenester fra en bedrift. I regnskapssammenheng representerer kunder den viktigste kilden til [inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektsføring og Regnskapsregler") og er grunnlaget for bedriftens [kontantstrøm](/blogs/regnskap/hva-er-kontantstrom "Hva er Kontantstrøm? Analyse og Styring av Likviditet"). Effektiv kundehåndtering er avgjørende for bedriftens lønnsomhet og påvirker direkte [arbeidskapitalen](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet") gjennom systematisk oppfølging av [debitor](/blogs/regnskap/hva-er-debitor "Hva er Debitor? Komplett Guide til Kundefordringer og Debitorhåndtering")-porteføljen.

@@ -2,6 +2,7 @@
 title: "Hva er en lagerrapport?"
 seoTitle: "Hva er en lagerrapport?"
 description: 'En **lagerrapport** er et systematisk dokument som gir en detaljert oversikt over bedriftens lagerbeholdning på et gitt tidspunkt. Den fungerer som et kritisk ...'
+summary: "Oversikt over hva en lagerrapport er, typer rapporter, innhold, verdivurdering og hvordan digitalisering forbedrer kontroll, regnskap og styring."
 ---
 
 En **lagerrapport** er et systematisk dokument som gir en detaljert oversikt over bedriftens lagerbeholdning på et gitt tidspunkt. Den fungerer som et kritisk verktøy for [lagerstyring](/blogs/regnskap/hva-er-lagerstyring "Hva er Lagerstyring? Komplett Guide til Effektiv Lagerforvaltning"), regnskapsføring og verdivurdering av [varelager](/blogs/regnskap/hva-er-varelager "Hva er Varelager? Komplett Guide til Lagerregnskapet"). Lagerrapporter er essensielle for å oppfylle [bokføringslovens](/blogs/regnskap/hva-er-bokforingsloven "Hva er Bokføringsloven? Komplett Guide til Norsk Regnskapslovgivning") krav til dokumentasjon og for å sikre nøyaktig beregning av [kostpris](/blogs/regnskap/hva-er-kostpris "Hva er Kostpris? Komplett Guide til Kostnadsberegning og Prissetting") og [bruttofortjeneste](/blogs/regnskap/hva-er-bruttofortjeneste "Hva er Bruttofortjeneste? Beregning og Analyse av Bruttoresultat").

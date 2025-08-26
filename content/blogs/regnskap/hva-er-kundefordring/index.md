@@ -2,6 +2,7 @@
 title: "Hva er kundefordring?"
 seoTitle: "Hva er kundefordring?"
 description: '**Kundefordring** er penger som kunder skylder bedriften for varer eller tjenester som er levert, men som ennå ikke er betalt. Dette er en av de viktigste [eie...'
+summary: "Enkel forklaring av kundefordringer, hvordan de oppstår, bokføres, følges opp og påvirker likviditet og risiko."
 ---
 
 **Kundefordring** er penger som kunder skylder bedriften for varer eller tjenester som er levert, men som ennå ikke er betalt. Dette er en av de viktigste [eiendelene](/blogs/regnskap/hva-er-eiendel "Hva er en Eiendel? Komplett Guide til Eiendeler i Regnskap") i mange bedrifters [balanse](/blogs/regnskap/hva-er-balanse "Hva er Balanse? En Komplett Guide til Balanseregnskap") og representerer fremtidige kontantstrømmer som bedriften forventer å motta.
