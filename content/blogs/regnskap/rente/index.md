@@ -2,6 +2,7 @@
 title: "Rente"
 seoTitle: "Rente"
 description: '**Rente** er kostnaden ved å låne penger eller avkastningen ved sparing, og utgjør et grunnleggende konsept i norsk regnskapsførsel.'
+summary: Hva rente er, ulike rentetyper og hvordan renter beregnes og føres i regnskap.
 ---
 
 **Rente** er kostnaden ved å låne penger eller avkastningen ved sparing, og utgjør et grunnleggende konsept i norsk regnskapsførsel.

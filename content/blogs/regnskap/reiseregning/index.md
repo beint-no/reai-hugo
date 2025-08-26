@@ -2,6 +2,7 @@
 title: "Reiseregning"
 seoTitle: "Reiseregning"
 description: 'En **reiseregning** er et dokument som spesifiserer **reiseutlegg** og tilhørende kostnader ved tjenestereiser, og fungerer som grunnlag for korrekt regnskapsf...'
+summary: Hva en reiseregning er, hvilke dokumentasjonskrav som gjelder, og hvordan virksomheter håndterer utlegg ved tjenestereiser.
 ---
 
 En **reiseregning** er et dokument som spesifiserer **reiseutlegg** og tilhørende kostnader ved tjenestereiser, og fungerer som grunnlag for korrekt regnskapsføring og refusjon. Dokumentasjonskravene for reiseregninger er strengere enn for vanlige utlegg og fastsettes av skattemyndighetene.

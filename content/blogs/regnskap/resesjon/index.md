@@ -2,6 +2,7 @@
 title: "Hva er Resesjon?"
 seoTitle: "Hva er Resesjon?"
 description: '**Resesjon** er en periode med vedvarende **fallende økonomisk aktivitet**, vanligvis definert som to påfølgende kvartaler med *negativ BNP-vekst*. Resesjon ...'
+summary: Hva resesjon er, vanlige årsaker, indikatorer og hvordan bedrifter tilpasser regnskapsføring i nedgangstider.
 ---
 
 **Resesjon** er en periode med vedvarende **fallende økonomisk aktivitet**, vanligvis definert som to påfølgende kvartaler med *negativ BNP-vekst*. Resesjon er en sentral fase i [konjunktursyklusen](/blogs/regnskap/hva-er-konjunktur "Hva er Konjunktur? Komplett Guide til Konjunktursykluser og Økonomisk Planlegging") og har vidtrekkende konsekvenser for både makroøkonomien og bedriftenes regnskapspraksis.

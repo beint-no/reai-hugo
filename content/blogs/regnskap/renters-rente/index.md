@@ -2,6 +2,7 @@
 title: "Renters rente"
 seoTitle: "Renters rente"
 description: '**Renters rente** oppstår når påløpt rente legges til hovedstolen slik at fremtidige renter beregnes på det nye beløpet.'
+summary: Forklaring av renters rente, formel for sammensatt rente og eksempler på bruk i sparing, lån og regnskapsføring.
 ---
 
 **Renters rente** oppstår når påløpt rente legges til hovedstolen slik at fremtidige renter beregnes på det nye beløpet.
