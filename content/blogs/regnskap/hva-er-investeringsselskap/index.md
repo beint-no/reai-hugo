@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er et Investeringsselskap?"
-seoTitle: "Hva er et Investeringsselskap?"
-description: 'Et **investeringsselskap** er et [finansielt selskap](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Finansieringsformer") som sam...'
+seoTitle: "Investeringsselskap | Regler, skatt og regnskap"
+description: "Et investeringsselskap samler kapital for investering i verdipapirer, eiendom og andre aktiva. Få oversikt over typer investeringsselskaper, regulering, skatteforhold og regnskapsmessig behandling."
+summary: "Hva et investeringsselskap er, hvordan det reguleres, og hvordan skatt og regnskap håndteres."
 ---
 
 Et **investeringsselskap** er et [finansielt selskap](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Finansieringsformer") som samler kapital fra mange investorer for å investere i verdipapirer, eiendom eller andre finansielle instrumenter. Disse selskapene tilbyr profesjonell forvaltning og spredning av risiko for investorer som ønsker eksponering mot ulike markeder og aktivaklasser.

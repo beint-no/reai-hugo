@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Konsernbidrag?"
-seoTitle: "Hva er Konsernbidrag?"
-description: '**Konsernbidrag** er en skattemessig ordning som gir selskaper i samme konsern mulighet til å overføre underskudd og overskudd mellom seg. Dette er et viktig ...'
+seoTitle: "Konsernbidrag | Regler, vilkår og skattevirkninger"
+description: "Konsernbidrag er en ordning som lar selskaper i samme konsern utjevne resultater for å optimalisere skatt. Lær vilkår, frister, regnskapsføring og hvordan ordningen påvirker selskapsskatt."
+summary: "Praktisk guide til konsernbidrag: krav, dokumentasjon og eksempler på skattebesparelse."
 ---
 
 **Konsernbidrag** er en skattemessig ordning som gir selskaper i samme konsern mulighet til å overføre underskudd og overskudd mellom seg. Dette er et viktig verktøy for skatteoptimalisering og effektiv kapitalforvaltning i konsernstrukturer.

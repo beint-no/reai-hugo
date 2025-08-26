@@ -2,6 +2,7 @@
 title: "Hva er Inflasjon?"
 seoTitle: "Hva er Inflasjon?"
 description: 'For en helhetlig oversikt over økonomiens store mekanismer, se **[Makroøkonomi](/blogs/regnskap/makrookonomi "Makroøkonomi: Prinsipper og Betydning for Norsk...'
+summary: "Hva inflasjon er, hvordan den måles i Norge og hvilke effekter prisstigning har på regnskap, resultat og investeringer."
 ---
 
 For en helhetlig oversikt over økonomiens store mekanismer, se **[Makroøkonomi](/blogs/regnskap/makrookonomi "Makroøkonomi: Prinsipper og Betydning for Norsk Regnskap")**.

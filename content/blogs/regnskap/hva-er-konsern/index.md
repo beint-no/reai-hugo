@@ -1,7 +1,8 @@
 ﻿---
-title: "hva-er-konsern"
-seoTitle: "hva-er-konsern"
-description: 'Et **konsern** er en gruppe av selskaper hvor ett selskap ([morselskapet](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap...'
+title: "Hva er konsern?"
+seoTitle: "Konsern | Definisjon, struktur og regnskapsplikt"
+description: "Et konsern er en gruppe selskaper med morselskap og datterselskaper. Lær hva som kjennetegner konsern, krav til konsernregnskap og hvordan konsolidering og konsernbidrag fungerer."
+summary: "Kort og praktisk forklaring av konsern, typer strukturer og hovedregler for konsernregnskap i Norge."
 ---
 
 Et **konsern** er en gruppe av selskaper hvor ett selskap ([morselskapet](/blogs/regnskap/hva-er-morselskap "Hva er et Morselskap? Komplett Guide til Morselskap og Konsernledelse")) har bestemmende innflytelse over ett eller flere andre selskaper ([datterselskaper](/blogs/regnskap/datterselskap "Hva er Datterselskap? En Guide til Datterselskap og Konsernstruktur")). Konsernstrukturer er vanlige i næringslivet og har betydelige konsekvenser for regnskap, skatt og juridiske forhold.

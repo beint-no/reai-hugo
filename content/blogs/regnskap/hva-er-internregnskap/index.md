@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er internregnskap?"
-seoTitle: "Hva er internregnskap?"
-description: '**Internregnskap** er finansiell rapportering som er utarbeidet primært for **interne interessenter** som ledelse, avdelingsledere og andre beslutningstagere i...'
+seoTitle: "Internregnskap | Formål, oppsett og nøkkeltall"
+description: "Internregnskap er intern finansiell rapportering for styring, planlegging og kontroll. Her får du oversikt over budsjetter, kalkyler, avviksanalyse, internprising og hvilke KPI-er ledelsen bør følge."
+summary: "Hva internregnskap er, hvordan det settes opp og hvilke nøkkeltall som gir best styringsinformasjon."
 ---
 
 **Internregnskap** er finansiell rapportering som er utarbeidet primært for **interne interessenter** som ledelse, avdelingsledere og andre beslutningstagere i virksomheten. Dette står i motsetning til eksternregnskap, som er rettet mot eksterne interessenter. Internregnskapet er fleksibelt og tilpasset virksomhetens spesifikke behov for **styring**, **planlegging** og **kontroll** av den daglige driften.

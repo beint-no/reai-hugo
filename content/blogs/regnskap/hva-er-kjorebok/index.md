@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er kjørebok?"
-seoTitle: "Hva er kjørebok?"
-description: 'En **kjørebok** er et systematisk register over kjøretøybruk som dokumenterer alle tjenestereiser og private kjøreturer. Dette er et kritisk verktøy for be...'
+seoTitle: "Kjørebok | Krav, mal og skattefradrag"
+description: "Kjørebok dokumenterer tjenestereiser og privat kjøring for å sikre korrekte fradrag. Lær lovkrav, hvilke opplysninger som må registreres og hvordan digitale kjørebøker kan integreres med regnskap."
+summary: "Alt du trenger å vite om kjørebok: krav, føring i praksis og hvordan det påvirker skattefradrag."
 ---
 
 En **kjørebok** er et systematisk register over kjøretøybruk som dokumenterer alle tjenestereiser og private kjøreturer. Dette er et kritisk verktøy for bedrifter og selvstendig næringsdrivende som ønsker å maksimere skattefradrag og opprettholde korrekt [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") i henhold til norske regnskapsregler.

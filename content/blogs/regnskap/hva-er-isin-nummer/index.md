@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er ISIN-nummer?"
-seoTitle: "Hva er ISIN-nummer?"
-description: '**ISIN-nummer** (International Securities Identification Number) er en **internasjonal standard** som brukes for **entydig identifikasjon av verdipapirer** på ...'
+seoTitle: "ISIN-nummer | Hva det er og hvordan finne ditt ISIN"
+description: "ISIN-nummer er den internasjonale standarden for entydig identifikasjon av verdipapirer. Lær hvordan ISIN er bygget opp, hvordan koden tildeles i Norge og hvor du finner ISIN for aksjer og obligasjoner."
+summary: "Forklarer hva ISIN-nummer er, strukturen i koden og hvordan du finner ISIN for verdipapirer."
 ---
 
 **ISIN-nummer** (International Securities Identification Number) er en **internasjonal standard** som brukes for **entydig identifikasjon av verdipapirer** på tvers av landegrenser. I norsk regnskaps- og finanspraksis er **ISIN-nummer** viktig for å spore, bokføre og rapportere investeringer i aksjer, obligasjoner og andre verdipapirinstrumenter.

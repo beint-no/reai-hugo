@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er konjunktur?"
-seoTitle: "Hva er konjunktur?"
-description: '**Konjunktur** refererer til de periodiske svingningene i økonomisk aktivitet som karakteriserer en markedsøkonomi. Disse **konjunktursyklusene** påvirker al...'
+seoTitle: "Konjunktur | Hva det er og hvordan påvirker bedrifter"
+description: "Konjunktur er periodiske svingninger i økonomisk aktivitet. Se fasene i konjunktursyklusen, viktige indikatorer og hvordan bedrifter kan tilpasse regnskap, budsjetter og likviditet gjennom opp- og nedturer."
+summary: "Forklarer konjunktursyklusen, indikatorer og praktiske tiltak bedrifter kan gjøre i ulike faser."
 ---
 
 **Konjunktur** refererer til de periodiske svingningene i økonomisk aktivitet som karakteriserer en markedsøkonomi. Disse **konjunktursyklusene** påvirker alle aspekter av næringslivet, inkludert [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Komplett Guide til Regnskapsføring"), [budsjettplanlegging](/blogs/regnskap/hva-er-budsjettering "Hva er Budsjettering? Komplett Guide til Budsjettplanlegging og Økonomisk Styring") og [finansiell rapportering](/blogs/regnskap/hva-er-finansregnskap "Hva er Finansregnskap? Komplett Guide til Finansiell Rapportering").

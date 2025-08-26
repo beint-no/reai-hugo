@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Kassebeholdning?"
-seoTitle: "Hva er Kassebeholdning?"
-description: '**Kassebeholdning** er selskapets beholdning av kontanter og andre likvide midler som kan brukes umiddelbart til å dekke løpende forpliktelser og operasjonell...'
+seoTitle: "Kassebeholdning | Kontroll, bokføring og avstemming"
+description: "Kassebeholdning er kontanter og likvide midler tilgjengelig for daglig drift. Lær hva som inngår, hvordan du styrer optimal kassebeholdning og hvordan posten føres og avstemmes i regnskapet."
+summary: "Definisjon av kassebeholdning, praktiske rutiner for kontroll og bokføring, og nøkkeltall for god likviditetsstyring."
 ---
 
 **Kassebeholdning** er selskapets beholdning av kontanter og andre likvide midler som kan brukes umiddelbart til å dekke løpende forpliktelser og operasjonelle behov. Som en av de mest likvide [eiendelene](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendeler i Regnskapet") i [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balanseregnskap"), spiller kassebeholdning en kritisk rolle i selskapets [likviditetsstyring](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedrifter") og daglige drift.

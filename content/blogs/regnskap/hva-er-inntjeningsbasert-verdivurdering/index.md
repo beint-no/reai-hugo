@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Inntjeningsbasert Verdivurdering?"
-seoTitle: "Hva er Inntjeningsbasert Verdivurdering?"
-description: '**Inntjeningsbasert verdivurdering** er prosessen med å fastsette verdien av et selskap eller eiendel basert på dets evne til å generere fremtidig [inntjenin...'
+seoTitle: "Inntjeningsbasert verdivurdering | Metoder og eksempler"
+description: "Inntjeningsbasert verdivurdering fastsetter verdien av et selskap ut fra fremtidig inntjening og kontantstrøm. Les om DCF, multiplikatorer og residualinntekt, når metodene brukes og hvilke forutsetninger som er viktigst."
+summary: "Praktisk guide til inntjeningsbasert verdivurdering med DCF, multipler og residualinntektsmodeller."
 ---
 
 **Inntjeningsbasert verdivurdering** er prosessen med å fastsette verdien av et selskap eller eiendel basert på dets evne til å generere fremtidig [inntjening](/blogs/regnskap/hva-er-driftsinntekter "Hva er Driftsinntekter? Komplett Guide til Inntektsføring og Regnskapsføring") og kontantstrøm. Dette er en **fundamental tilnærming** til verdsettelse som fokuserer på selskapets økonomiske prestasjon og fremtidsutsikter.

@@ -2,6 +2,7 @@
 title: "Hva er IFRS?"
 seoTitle: "Hva er IFRS?"
 description: '**IFRS** (International Financial Reporting Standards) er et sett med globale regnskapsstandarder utviklet av International Accounting Standards Board (IASB) fo...'
+summary: "En kort og praktisk forklaring av IFRS, når de brukes i Norge, og hva standardene betyr for finansiell rapportering."
 ---
 
 **IFRS** (International Financial Reporting Standards) er et sett med globale regnskapsstandarder utviklet av International Accounting Standards Board (IASB) for å sikre konsistent, transparent og sammenlignbar finansiell rapportering på tvers av land og bransjer. Disse standardene brukes i dag av over 140 land og representerer det mest omfattende rammeverket for internasjonal finansiell rapportering.

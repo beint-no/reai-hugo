@@ -2,6 +2,7 @@
 title: "Hva er Individuell Pensjonssparing (IPS)?"
 seoTitle: "Hva er Individuell Pensjonssparing (IPS)?"
 description: '![Illustrasjon av Individuell Pensjonssparing](hva-er-individuell-pensjonssparing-image.svg)'
+summary: "Hva IPS er, skattefordeler, regler for uttak og hvordan ordningen påvirker personlig økonomi."
 ---
 
 ![Illustrasjon av Individuell Pensjonssparing](hva-er-individuell-pensjonssparing-image.svg)

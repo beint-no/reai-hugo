@@ -2,6 +2,7 @@
 title: "Hva er IBAN-nummer?"
 seoTitle: "Hva er IBAN-nummer?"
 description: '**IBAN-nummer** (International Bank Account Number) er en internasjonal standard som brukes for å identifisere bankkonti ved grenseoverskridende betalinger og ...'
+summary: "Lær hva IBAN-nummer er, hvordan norske IBAN er bygget opp, og hvordan du bruker IBAN ved internasjonale betalinger."
 ---
 
 **IBAN-nummer** (International Bank Account Number) er en internasjonal standard som brukes for å identifisere bankkonti ved grenseoverskridende betalinger og finansielle transaksjoner. For norske bedrifter som driver med internasjonal handel, er forståelse av IBAN-numre essensielt for korrekt håndtering av [banktransaksjoner](/blogs/regnskap/hva-er-banktransaksjoner "Hva er Banktransaksjoner? Komplett Guide til Registrering og Bokføring") og [internasjonale betalinger](/blogs/regnskap/hva-er-betalingsmidler "Hva er Betalingsmidler? Tvungne, Elektroniske og Tradisjonelle Metoder").

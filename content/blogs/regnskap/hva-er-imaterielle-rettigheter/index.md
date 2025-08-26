@@ -2,6 +2,7 @@
 title: "Hva er imaterielle rettigheter?"
 seoTitle: "Hva er imaterielle rettigheter?"
 description: '**Imaterielle rettigheter** er ikke-fysiske eiendeler som har økonomisk verdi for en virksomhet. Disse eiendelene representerer intellektuell eiendom, juridisk...'
+summary: "Hva imaterielle rettigheter er, som patenter og varemerker, og hvordan de behandles i regnskapet."
 ---
 
 **Imaterielle rettigheter** er ikke-fysiske eiendeler som har økonomisk verdi for en virksomhet. Disse eiendelene representerer intellektuell eiendom, juridiske rettigheter og andre verdifulle ressurser som ikke kan berøres fysisk, men som likevel bidrar betydelig til en bedrifts verdi og konkurranseevne. I regnskapssammenheng klassifiseres imaterielle rettigheter som [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmidler? Komplett Guide til Varige Driftsmidler og Investeringer") og behandles som en viktig del av virksomhetens totale [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendeler i Regnskap og Balanse").

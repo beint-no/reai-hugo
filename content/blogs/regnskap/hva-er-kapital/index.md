@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Kapital?"
-seoTitle: "Hva er Kapital?"
-description: '**Kapital** er de finansielle ressursene som er tilgjengelige for en bedrift eller organisasjon til å drive virksomhet, foreta investeringer og skape verdier. ...'
+seoTitle: "Kapital | Definisjon, typer og betydning i regnskap"
+description: "Kapital er finansielle ressurser som brukes til drift og investering. Les om egenkapital og fremmedkapital, kapitalstruktur, nøkkeltall og strategier for kapitaloptimalisering i norsk regnskap."
+summary: "Hva kapital er, forskjellen på egenkapital og fremmedkapital og hvordan kapitalstrukturen påvirker virksomheten."
 ---
 
 **Kapital** er de finansielle ressursene som er tilgjengelige for en bedrift eller organisasjon til å drive virksomhet, foreta investeringer og skape verdier. Som et grunnleggende begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og økonomi, omfatter kapital alle former for finansiering som gjør det mulig for bedrifter å anskaffe [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendeler i Regnskapet") og drive forretningsvirksomhet.

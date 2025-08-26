@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er kapitalgevinst?"
-seoTitle: "Hva er kapitalgevinst?"
-description: '**Kapitalgevinst** er den positive differansen mellom salgsprisen og [anskaffelseskostnaden](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? B...'
+seoTitle: "Kapitalgevinst | Skatt, beregning og unntak"
+description: "Kapitalgevinst er forskjellen mellom salgspris og kostpris ved salg av eiendeler. Lær hvordan gevinst beregnes, hvilke fritak som gjelder og hvordan du rapporterer kapitalgevinst i norsk skatt."
+summary: "Forklarer kapitalgevinst, skatteregler og praktiske eksempler på beregning og rapportering."
 ---
 
 **Kapitalgevinst** er den positive differansen mellom salgsprisen og [anskaffelseskostnaden](/blogs/regnskap/hva-er-anskaffelseskost "Hva er Anskaffelseskost? Beregning, Komponenter og Regnskapsføring") når du selger en [eiendel](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendeler i Regnskap og Balanse"). I Norge er kapitalgevinst skattepliktig inntekt som må rapporteres til Skatteetaten, men det finnes viktige fritak og særregler som kan påvirke skattebetalingen betydelig.
