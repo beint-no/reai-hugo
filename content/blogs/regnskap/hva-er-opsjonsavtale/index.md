@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er en Opsjonsavtale?"
-seoTitle: "Hva er en Opsjonsavtale?"
-description: 'En **opsjonsavtale** er en juridisk bindende kontrakt som gir innehaveren rett, men ikke plikt, til å kjøpe eller selge en eiendel til en forhåndsbestemt pri...'
+seoTitle: "Hva er en opsjonsavtale? | Typer, verdsettelse og regnskapsføring"
+description: "En opsjonsavtale er en kontrakt som gir rett, men ikke plikt, til å kjøpe eller selge en eiendel til en avtalt pris innen en bestemt tidsperiode."
+summary: "Forstå kjøps- og salgsopsjoner, hvordan de verdsettes med Black–Scholes og hvordan opsjoner regnskapsføres, inkludert sikringsbokføring og ansattopsjoner."
 ---
 
 En **opsjonsavtale** er en juridisk bindende kontrakt som gir innehaveren rett, men ikke plikt, til å kjøpe eller selge en eiendel til en forhåndsbestemt pris innenfor en spesifisert tidsperiode. I regnskapssammenheng spiller opsjonsavtaler en viktig rolle for både verdsettelse, risikostyring og finansiell rapportering.

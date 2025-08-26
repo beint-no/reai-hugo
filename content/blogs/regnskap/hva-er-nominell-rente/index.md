@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er nominell rente?"
-seoTitle: "Hva er nominell rente?"
-description: '**Nominell rente** er en spesifikk type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som angir den oppgitte årsrenten uten...'
+seoTitle: "Hva er nominell rente? | Definisjon og forskjell fra effektiv rente"
+description: "Nominell rente er den oppgitte årsrenten uten hensyn til hvor ofte renten kapitaliseres, og brukes ofte i låne- og spareavtaler for enkel sammenligning."
+summary: "Forstå hva nominell rente betyr, hvordan den skiller seg fra effektiv rente og når den brukes ved lån og sparing."
 ---
 
 **Nominell rente** er en spesifikk type [rente](/blogs/regnskap/rente "Rente “ En komplett guide til rente i regnskap") som angir den oppgitte årsrenten uten hensyn til rentetilskrivninger (rente på rente), og brukes ofte i pristilbud og sammenligninger av lån og sparing i regnskap.

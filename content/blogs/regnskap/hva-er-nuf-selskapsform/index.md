@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er NUF (Norskregistrert Utenlandsk Foretak)?"
-seoTitle: "Hva er NUF (Norskregistrert Utenlandsk Foretak)?"
-description: 'For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").'
+seoTitle: "Hva er NUF? | Norskregistrert Utenlandsk Foretak forklart"
+description: "NUF er en registreringsordning som lar utenlandske selskaper drive virksomhet i Norge uten å stifte eget norsk selskap, med norsk organisasjonsnummer og norske rapporteringskrav."
+summary: "Finn ut hva NUF er, hvem det passer for, hvordan registrering fungerer, og hvilke skattemessige og juridiske forhold du må kjenne til."
 ---
 
 For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").

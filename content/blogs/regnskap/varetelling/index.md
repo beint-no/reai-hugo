@@ -1,7 +1,7 @@
 ﻿---
 title: "Varetelling"
 seoTitle: "Varetelling | Metoder, prosess og regnskapsføring"
-description: '**Varetelling** er en systematisk prosess for å kontrollere og verifisere **lagerbeholdningen** i regnskapet. Gjennom regelmessige opptellinger sikrer virksomh...'
+description: "Varetelling er en systematisk prosess for å kontrollere og verifisere lagerbeholdningen i regnskapet. Regelmessig telling sikrer samsvar mellom fysisk lager og bokførte tall, og danner grunnlag for korrekt balanseføring, avstemming og kostpris."
 summary: "Hva er varetelling, hvilke metoder som brukes og hvordan føre i regnskap."
 ---
 

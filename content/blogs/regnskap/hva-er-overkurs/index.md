@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Overkurs?"
-seoTitle: "Hva er Overkurs?"
-description: '**Overkurs** er det beløpet aksjonærer betaler utover aksjens **[pålydende](/blogs/regnskap/palydende "Hva er Pålydende? Guide til pålydende verdi")** ved ...'
+seoTitle: "Hva er overkurs? | Definisjon, beregning og bokføring"
+description: "Overkurs er beløpet som betales over aksjens pålydende ved emisjon, og føres som egenkapital i balansen."
+summary: "Lær hva overkurs er, hvordan den beregnes ved emisjon og hvordan den bokføres og påvirker egenkapitalen."
 ---
 
 **Overkurs** er det beløpet aksjonærer betaler utover aksjens **[pålydende](/blogs/regnskap/palydende "Hva er Pålydende? Guide til pålydende verdi")** ved [emisjon](/blogs/regnskap/emisjon "Hva er Emisjon? En komplett guide til kapitalforhøyelse og aksjeutstedelse").

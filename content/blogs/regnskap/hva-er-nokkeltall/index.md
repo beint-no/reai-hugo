@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Nøkkeltall?"
-seoTitle: "Hva er Nøkkeltall?"
-description: '**Nøkkeltall** er finansielle måleinstrumenter som brukes til å analysere og vurdere en virksomhets økonomiske prestasjon, finansielle stilling og operasjon...'
+seoTitle: "Hva er Nøkkeltall? | Definisjon, typer og eksempler"
+description: "Nøkkeltall er finansielle måltall som brukes til å analysere lønnsomhet, likviditet, soliditet og effektivitet i en virksomhet, og gjør det mulig å sammenligne resultater over tid og mot bransjestandarder."
+summary: "Lær hva nøkkeltall er, hvordan de beregnes og brukes til å vurdere lønnsomhet, likviditet og soliditet, med eksempler som bruttomargin, egenkapitalandel og likviditetsgrad."
 ---
 
 **Nøkkeltall** er finansielle måleinstrumenter som brukes til å analysere og vurdere en virksomhets økonomiske prestasjon, finansielle stilling og operasjonelle effektivitet. Disse tallene gir verdifull innsikt i hvordan selskapet presterer sammenlignet med tidligere perioder, konkurrenter og bransjestandarder.

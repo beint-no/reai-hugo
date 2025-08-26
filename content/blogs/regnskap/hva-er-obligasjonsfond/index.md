@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Obligasjonsfond?"
-seoTitle: "Hva er Obligasjonsfond?"
-description: '**Obligasjonsfond** er en type **investeringsfond** som samler kapital fra flere investorer for å plassere den i ulike rentebærende verdipapirer, primært obl...'
+seoTitle: "Hva er obligasjonsfond? | Typer, risiko og regnskapsføring"
+description: "Obligasjonsfond er fond som investerer i rentebærende verdipapirer for å gi renteavkastning med spredt risiko gjennom profesjonell forvaltning."
+summary: "Forstå hva obligasjonsfond er, forskjellen på korte og lange fond, risikoer som renterisiko og kredittrisiko, og hvordan fond regnskapsføres."
 ---
 
 **Obligasjonsfond** er en type **investeringsfond** som samler kapital fra flere investorer for å plassere den i ulike rentebærende verdipapirer, primært obligasjoner. Dette gir investorer tilgang til en **diversifisert portefølje** av rentepapirer med profesjonell forvaltning.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Oppgjør i Regnskap?"
-seoTitle: "Hva er Oppgjør i Regnskap?"
-description: '(**Oppgjør i regnskap** er prosessen for å **avslutte** og **oppgjøre** regnskapsposter for å sikre at alle transaksjoner og periodiseringer er korrekt bokf...'
+seoTitle: "Hva er oppgjør i regnskap? | Prosess, typer og eksempler"
+description: "Oppgjør i regnskap er prosessen med å avslutte og gjøre opp regnskapsposter gjennom avstemming, periodisering og rapportering for en korrekt avslutning."
+summary: "Lær hva oppgjør er, hvordan MVA-oppgjør, årsoppgjør og kasseoppgjør gjennomføres, og hvilke kontoer som brukes i kontoplanen."
 ---
 
 (**Oppgjør i regnskap** er prosessen for å **avslutte** og **oppgjøre** regnskapsposter for å sikre at alle transaksjoner og periodiseringer er korrekt bokført og rapportert.)

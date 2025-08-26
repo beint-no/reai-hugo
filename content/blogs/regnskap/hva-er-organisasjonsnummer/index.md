@@ -1,7 +1,8 @@
 ﻿---
-title: "hva-er-organisasjonsnummer"
-seoTitle: "hva-er-organisasjonsnummer"
-description: 'Et **organisasjonsnummer** er en unik ni-sifret identifikator som tildeles alle juridiske enheter i Norge. Dette nummeret er fundamentalt for norsk regnskap og ...'
+title: "Hva er organisasjonsnummer?"
+seoTitle: "Hva er organisasjonsnummer? | Definisjon, oppbygning og bruk"
+description: "Organisasjonsnummer er en unik ni-sifret identifikator for juridiske enheter i Norge, tildelt av Brønnøysundregistrene og brukt i rapportering og bokføring."
+summary: "Lær hva organisasjonsnummer er, hvordan kontrollsiffer beregnes, hvem som får nummer, og bruken i regnskap, fakturering og offentlige registre."
 ---
 
 Et **organisasjonsnummer** er en unik ni-sifret identifikator som tildeles alle juridiske enheter i Norge. Dette nummeret er fundamentalt for norsk regnskap og forretningsvirksomhet, da det sikrer entydig identifikasjon av [foretak](/blogs/regnskap/hva-er-foretak "Hva er et Foretak? Komplett Guide til Foretaksformer i Norge") og organisasjoner i alle offentlige registre.

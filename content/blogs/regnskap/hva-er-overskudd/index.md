@@ -1,7 +1,8 @@
 ﻿---
-title: "hva-er-overskudd"
-seoTitle: "hva-er-overskudd"
-description: '**Overskudd** er et sentralt begrep i regnskap og økonomi som beskriver det positive resultatet når [inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Innte...'
+title: "Hva er overskudd?"
+seoTitle: "Hva er overskudd? | Definisjon, typer og beregning"
+description: "Overskudd er positivt resultat når inntekter overstiger kostnader i en periode, og kan måles som brutto-, drifts- og årsoverskudd."
+summary: "Forstå hva overskudd er, hvordan ulike overskuddstyper beregnes og brukes i analyse, og hvilke skattemessige og regnskapsmessige konsekvenser de har."
 ---
 
 **Overskudd** er et sentralt begrep i regnskap og økonomi som beskriver det positive resultatet når [inntekter](/blogs/regnskap/hva-er-inntekter "Hva er Inntekter? Komplett Guide til Inntektsføring og Regnskapsregler") overstiger [kostnader](/blogs/regnskap/hva-er-kostnader "Hva er Kostnader? Komplett Guide til Kostnadsføring og Regnskapsregler") i en gitt periode. For norske bedrifter er forståelse av overskudd avgjørende for både **regnskapsføring**, **[skatteplanlegging](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging")** og **strategiske beslutninger**.

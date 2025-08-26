@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er varekretsløpet?"
 seoTitle: "Varekretsløpet | Flyt av varer, lager og kontantstrøm"
-description: '**Varekretsløpet** beskriver den helhetlige prosessen varer gjennomgår i en virksomhet, fra anskaffelse til salg og tilbakeføring av kapital. Prosessen er se...'
+description: "Varekretsløpet beskriver flyten fra varekjøp og lagring til salg og innbetaling, og hvordan kapitalen sirkulerer tilbake til virksomheten. Begrepet knytter lagerstyring, kontantstrøm og arbeidskapital til lønnsomhet."
 summary: "Hva er varekretsløpet, fasene i flyten og koblingen til regnskap og lager."
 ---
 

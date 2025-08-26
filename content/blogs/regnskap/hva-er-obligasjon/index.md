@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er en Obligasjon?"
-seoTitle: "Hva er en Obligasjon?"
-description: 'En **obligasjon** er et gjeldsinstrument som representerer et lån mellom en låntaker (utsteder) og en långiver (obligasjonseier). I regnskapssammenheng er ob...'
+seoTitle: "Hva er en obligasjon? | Definisjon, typer og regnskapsføring"
+description: "En obligasjon er et verdipapir som dokumenterer et lån fra investor til utsteder, med renter underveis og tilbakebetaling ved forfall."
+summary: "Lær hva obligasjoner er, ulike typer som stats- og bedriftsobligasjoner, og hvordan de klassifiseres, verdsettes og regnskapsføres."
 ---
 
 En **obligasjon** er et gjeldsinstrument som representerer et lån mellom en låntaker (utsteder) og en långiver (obligasjonseier). I regnskapssammenheng er obligasjoner viktige finansielle instrumenter som krever spesiell behandling og forståelse av deres påvirkning på bedriftens finansielle stilling.

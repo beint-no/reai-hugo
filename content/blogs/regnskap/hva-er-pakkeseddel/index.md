@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Pakkeseddel?"
-seoTitle: "Hva er Pakkeseddel?"
-description: 'En **pakkeseddel** er et leveringsdokument som følger med vareleveranser og inneholder detaljert informasjon om varene som sendes, mottaker, avsender og leveri...'
+seoTitle: "Hva er pakkeseddel? | Innhold, bruk og forskjell fra faktura"
+description: "En pakkeseddel er et leveringsdokument som følger varer og beskriver innhold, mottaker, avsender og leveringsinformasjon for kontroll og sporbarhet."
+summary: "Se hva en pakkeseddel skal inneholde, hvordan den brukes i logistikk og regnskap, og forskjellen på pakkeseddel, faktura og leveringsbekreftelse."
 ---
 
 En **pakkeseddel** er et leveringsdokument som følger med vareleveranser og inneholder detaljert informasjon om varene som sendes, mottaker, avsender og leveringsinformasjon. Dette dokumentet spiller en viktig rolle i varehandel, [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Komplett Guide til Internkontrollsystem") og regnskapsføring for både [aksjeselskap](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") og andre virksomheter.

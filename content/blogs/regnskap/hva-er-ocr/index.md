@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er OCR? Optical Character Recognition i Regnskap"
-seoTitle: "Hva er OCR? Optical Character Recognition i Regnskap"
-description: '**OCR (Optical Character Recognition)** er en teknologi som konverterer skannet tekst fra dokumenter, PDF-er og bilder til redigerbar data. I moderne [regnskaps...'
+seoTitle: "Hva er OCR? | Optical Character Recognition i regnskap"
+description: "OCR er teknologi som konverterer skannet tekst i dokumenter og bilder til strukturerte data, ofte brukt til å automatisere bilagsregistrering og fakturabehandling."
+summary: "Hva er OCR i regnskap, hvordan fungerer det i praksis, og hvilke gevinster gir det for fakturabehandling, bankavstemming og rapportering."
 ---
 
 **OCR (Optical Character Recognition)** er en teknologi som konverterer skannet tekst fra dokumenter, PDF-er og bilder til redigerbar data. I moderne [regnskapssystemer](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og [fakturabehandling](/blogs/regnskap/hva-er-fakturatolk "Hva er Fakturatolk? AI-drevet Fakturabehandling og Automatisering"), brukes OCR for å automatisere innsanking av bilagsdata, redusere manuelle feil og øke effektiviteten.
