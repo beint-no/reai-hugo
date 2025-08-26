@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er virksomhetsnummer?"
-seoTitle: "Hva er virksomhetsnummer?"
-description: 'Et **virksomhetsnummer** er en unik ni-sifret identifikator som tildeles alle virksomheter og organisasjoner som skal drives aktivt i Norge. Dette nummeret fung...'
+seoTitle: "Hva er virksomhetsnummer | Bruk og oppslag"
+description: "Virksomhetsnummer er en unik ni-sifret identifikator for aktive virksomheter i Norge. Lær hvordan virksomhetsnummer tildeles, brukes i regnskap og faktura, og skilles fra organisasjonsnummer."
+summary: "Praktisk guide til virksomhetsnummer: struktur, kontrollsiffer, registrering i Enhetsregisteret og forskjellen mot organisasjonsnummer."
 ---
 
 Et **virksomhetsnummer** er en unik ni-sifret identifikator som tildeles alle virksomheter og organisasjoner som skal drives aktivt i Norge. Dette nummeret fungerer som virksomhetens "personnummer" og er grunnlaget for all offentlig registrering, [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Grunnleggende Regnskapsprinsipper"), skatteinnbetaling og kommunikasjon med offentlige myndigheter. Virksomhetsnummeret er obligatorisk for alle [juridiske personer](/blogs/regnskap/hva-er-juridisk-person "Hva er Juridisk Person? Komplett Guide til Selskapsformer og Rettigheter") som skal operere i det norske markedet, og det spiller en kritisk rolle i bedriftens daglige drift og forretningsaktiviteter.

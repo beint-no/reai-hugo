@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er X-rapport?"
-seoTitle: "Hva er X-rapport?"
-description: 'En **X-rapport** er en mellomrapport som genereres fra et [kassasystem (datakasse)](/blogs/regnskap/hva-er-datakasse "Hva er Datakasse? Komplett Guide til Kassa...'
+seoTitle: "Hva er X-rapport | Kassesystem og dokumentasjon"
+description: "X-rapport er en mellomrapport fra kassasystem som viser status for salg og kontantbeholdning uten å avslutte kassedagen. Lær innhold, bruk og forskjellen mot Z-rapport."
+summary: "Kort guide til X-rapport: når den brukes, hva den inneholder og hvilken rolle den har i internkontroll og kassestyring."
 ---
 
 En **X-rapport** er en mellomrapport som genereres fra et [kassasystem (datakasse)](/blogs/regnskap/hva-er-datakasse "Hva er Datakasse? Komplett Guide til Kassasystem, Krav og Regnskapsføring") for å vise salgstransaksjoner og kontantbeholdning på et gitt tidspunkt uten å avslutte kassedagen. Denne rapporten gir bedriften kontinuerlig oversikt over [omsetning](/blogs/regnskap/hva-er-omsetning "Hva er Omsetning? Komplett Guide til Omsetning i Regnskap og Skatt"), betalingsmetoder og kontantstrøm i løpet av en arbeidsdag. X-rapporten er et viktig verktøy for daglig driftskontroll og [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Komplett Guide til Risikostyring og Compliance") i detaljhandel og servicevirksomheter.

@@ -2,6 +2,7 @@
 title: "Hva er Formuesverdi?"
 seoTitle: "Hva er Formuesverdi?"
 description: '**Formuesverdi** er den totale verdien av en persons eller bedrifts eiendeler fratrukket gjeld. Det representerer netto formue og er et sentralt begrep innen [r...'
+summary: 'Definisjon av formuesverdi, komponenter (eiendeler og gjeld), metoder for verdivurdering og praktiske beregningseksempler for privatpersoner og bedrifter.'
 ---
 
 **Formuesverdi** er den totale verdien av en persons eller bedrifts eiendeler fratrukket gjeld. Det representerer netto formue og er et sentralt begrep innen [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"), skatteberegning og økonomisk analyse. Formuesverdi brukes både for private personer og bedrifter til å vurdere økonomisk stilling og soliditet.
