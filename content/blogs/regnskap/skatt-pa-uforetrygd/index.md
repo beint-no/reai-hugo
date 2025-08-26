@@ -1,7 +1,8 @@
 ﻿---
 title: "Skatt på Uføretrygd"
-seoTitle: "Skatt på Uføretrygd"
-description: '**Skatt på uføretrygd** er et komplekst område innen norsk skatterett som påvirker både private uføretrygdmottakere og arbeidsgivere. [Uføretrygd](/blogs...'
+seoTitle: "Skatt på uføretrygd | Satser, fradrag og rapportering"
+description: "Skatt på uføretrygd forklart: satser, trygdeavgift, fradrag og hvordan rapportere riktig i skattemeldingen."
+summary: "Kort guide til skatt på uføretrygd for mottakere og arbeidsgivere."
 ---
 
 **Skatt på uføretrygd** er et komplekst område innen norsk skatterett som påvirker både private uføretrygdmottakere og arbeidsgivere. [Uføretrygd](/blogs/regnskap/hva-er-uforetrygd "Hva er Uføretrygd? Komplett Guide til Trygdeordninger") regnes som **skattepliktig inntekt** og behandles anderledes enn ordinær [lønn](/blogs/regnskap/hva-er-loenn "Hva er Lønn? Beregning og Regnskapsføring av Lønnskostnader") i både regnskaps- og [skattemessig sammenheng](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging").

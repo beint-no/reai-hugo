@@ -1,7 +1,8 @@
 ﻿---
 title: "Starte AS"
-seoTitle: "Starte AS"
-description: 'Se vår [Hva er et Aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") for en oversikt over **aks...'
+seoTitle: "Starte AS | Slik registrerer du aksjeselskap"
+description: "Komplett guide til å starte aksjeselskap i Norge. Se krav til aksjekapital, vedtekter, registrering i Brønnøysund, MVA og oppstart av regnskap."
+summary: "Steg-for-steg for å starte AS: kapital, registrering, MVA og regnskap."
 ---
 
 Se vår [Hva er et Aksjeselskap?](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Guide til Selskapsformen") for en oversikt over **aksjeselskapets** egenskaper før du starter prosessen.

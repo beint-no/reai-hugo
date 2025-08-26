@@ -1,7 +1,8 @@
 ﻿---
 title: "Personfradrag i Norge - Alt du trenger å vite"
-seoTitle: "Personfradrag i Norge - Alt du trenger å vite"
-description: '**Personfradrag** er et personlig fradrag som alle skattytere i Norge får. Det reduserer den skattepliktige inntekten **før** beregning av kommunal- og fylkes...'
+seoTitle: "Personfradrag | Satser, beregning og skatteffekt"
+description: "Hva er personfradrag, hvilke satser gjelder og hvordan påvirker fradraget skatten din? Enkel forklaring med oppdaterte tall."
+summary: "Kort guide til personfradrag: definisjon, satser og beregning."
 ---
 
 **Personfradrag** er et personlig fradrag som alle skattytere i Norge får. Det reduserer den skattepliktige inntekten **før** beregning av kommunal- og fylkesskatt, og er en sentral del av det norske skattesystemet.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Skatt på utbytte"
-seoTitle: "Skatt på utbytte"
-description: '**Skatt på utbytte** omfatter skattereglene for utbytte som utdeles til aksjonærer i Norge for både privatpersoner og selskaper. Denne artikkelen gir en deta...'
+seoTitle: "Skatt på utbytte | Regler, satser og skjermingsfradrag"
+description: "Skatt på utbytte for privatpersoner og selskaper forklart med satser, skjermingsfradrag, fritaksmetoden, kildeskatt og rapportering."
+summary: "Kort oversikt over skatt på utbytte: skjerming, fritaksmetode og kildeskatt."
 ---
 
 **Skatt på utbytte** omfatter skattereglene for utbytte som utdeles til aksjonærer i Norge for både privatpersoner og selskaper. Denne artikkelen gir en detaljert gjennomgang av skatt på ordinært og ekstraordinært utbytte, inkludert skjermingsfradrag, fritaksmetoden, kildeskatt og rapportering.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Sosiale kostnader – Definisjon, Eksempler og Regnskapsføring i Norge"
-seoTitle: "Sosiale kostnader “ Definisjon, Eksempler og Regnskapsføring i Norge"
-description: '![Illustrasjon som viser sosiale kostnader](sosiale-kostnader-image.svg)'
+seoTitle: "Sosiale kostnader | Definisjon, eksempler og regnskap"
+description: "Hva er sosiale kostnader i regnskap, hvilke ytelser inngår og hvordan bokføre riktig? Praktisk oversikt med eksempler, kontoforslag og MVA-behandling."
+summary: "Kort guide til sosiale kostnader: innhold, beregning og regnskapsføring."
 ---
 
 ![Illustrasjon som viser sosiale kostnader](sosiale-kostnader-image.svg)

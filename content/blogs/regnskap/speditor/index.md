@@ -1,7 +1,8 @@
 ﻿---
 title: "Speditør"
-seoTitle: "Speditør"
-description: '**Speditør** (også kalt speditørfirma eller fraktmegler) er en spesialist som planlegger, koordinerer og administrerer transport av varer på vegne av avsend...'
+seoTitle: "Speditør | Hva gjør en speditør og hvordan bokføre"
+description: "Hva er en speditør, hvordan fungerer spedisjon og hvordan bokføres speditørkostnader? Oversikt over roller, MVA-behandling, dokumentasjon og digital integrasjon."
+summary: "Kort forklaring av speditørrollen, MVA og regnskapsføring av spedisjonstjenester."
 ---
 
 **Speditør** (også kalt speditørfirma eller fraktmegler) er en spesialist som planlegger, koordinerer og administrerer transport av varer på vegne av avsendere. En speditør fungerer som mellomledd mellom kunder, transportører og offentlige myndigheter for å sikre effektiv, kostnadseffektiv og lovlig godshåndtering.

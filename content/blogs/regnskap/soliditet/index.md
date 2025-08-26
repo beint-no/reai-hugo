@@ -1,7 +1,8 @@
 ﻿---
 title: "Soliditet"
-seoTitle: "Soliditet"
-description: '**Soliditet** er en sentral **soliditetsindikator** som måler andelen egenkapital i forhold til totalkapitalen og gir innsikt i en virksomhets langsiktige fina...'
+seoTitle: "Soliditet | Hva betyr soliditet og hvordan beregne"
+description: "Soliditet viser hvor stor andel av eiendelene som er finansiert med egenkapital. Lær formelen, tolkning av nivåer og hva som påvirker soliditeten."
+summary: "Forklaring av soliditet: definisjon, formel og praktisk tolkning."
 ---
 
 **Soliditet** er en sentral **soliditetsindikator** som måler andelen egenkapital i forhold til totalkapitalen og gir innsikt i en virksomhets langsiktige finansielle robusthet.

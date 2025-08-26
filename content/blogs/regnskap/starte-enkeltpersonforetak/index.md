@@ -1,7 +1,8 @@
 ﻿---
 title: "Starte Enkeltpersonforetak"
-seoTitle: "Starte Enkeltpersonforetak"
-description: 'Se vår [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen") for en o...'
+seoTitle: "Starte enkeltpersonforetak | Steg-for-steg guide"
+description: "Slik starter du enkeltpersonforetak i Norge. Se krav til registrering, kostnader, MVA, skattemelding og hvordan du setter opp regnskap riktig fra dag én."
+summary: "Praktisk steg-for-steg for å starte enkeltpersonforetak: registrering, MVA, skatt og regnskap."
 ---
 
 Se vår [Hva er et Enkeltpersonforetak?](/blogs/regnskap/hva-er-enkeltpersonforetak "Hva er et Enkeltpersonforetak? Komplett Guide til Selskapsformen") for en oversikt over egenskaper og definisjon av enkeltpersonforetak før du starter prosessen.

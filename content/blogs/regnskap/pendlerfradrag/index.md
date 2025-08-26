@@ -1,7 +1,8 @@
 ﻿---
 title: "Pendlerfradrag"
-seoTitle: "Pendlerfradrag"
-description: '**Pendlerfradrag** er et **skattefradrag** for ansatte som pendler mellom hjem og arbeidssted og har dokumenterte merutgifter til reise, kost og losji. Dette fr...'
+seoTitle: "Pendlerfradrag | Krav, satser og dokumentasjon"
+description: "Hva er pendlerfradrag, hvilke krav gjelder og hvordan dokumentere reise, kost og losji for fradrag i skattemeldingen?"
+summary: "Guide til pendlerfradrag: vilkår, satser og nødvendig dokumentasjon."
 ---
 
 **Pendlerfradrag** er et **skattefradrag** for ansatte som pendler mellom hjem og arbeidssted og har dokumenterte merutgifter til reise, kost og losji. Dette fradraget sikrer at pendlere får kompensert ekstra kostnader som følge av lengre pendlerreise.

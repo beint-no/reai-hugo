@@ -1,7 +1,8 @@
 ﻿---
 title: "Organisasjonsform"
-seoTitle: "Organisasjonsform"
-description: '**Organisasjonsform** er den juridiske og økonomiske strukturen som definerer hvordan en virksomhet er organisert, eiet og drevet. Valg av organisasjonsform er...'
+seoTitle: "Organisasjonsform | Valg av selskapsform i Norge"
+description: "Hva er en organisasjonsform, hvilke alternativer finnes og hvordan velge riktig form ut fra ansvar, skatt, kapitalbehov og regnskapskrav."
+summary: "Organisasjonsform beskriver hvordan en virksomhet eies, styres og beskattes. Denne guiden sammenligner ENK, ANS, KS, AS, ASA, NUF og ideelle former, med fokus på ansvar, kapital, skatt og regnskapskrav."
 ---
 
 **Organisasjonsform** er den juridiske og økonomiske strukturen som definerer hvordan en virksomhet er organisert, eiet og drevet. Valg av organisasjonsform er en av de viktigste beslutningene en grÃ¼nder må ta, da det påvirker alt fra personlig ansvar og beskatning til kapitalstruktur og regnskapskrav.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Statens pensjonskasse"
-seoTitle: "Statens pensjonskasse"
-description: '![Statens pensjonskasse](statens-pensjonskasse-image.svg)'
+seoTitle: "Statens pensjonskasse | Offentlig tjenestepensjon i Norge"
+description: "Statens pensjonskasse er Norges største offentlige pensjonsordning. Lær hvordan ordningen fungerer, hvem som er omfattet, hvordan ytelsene beregnes og hvilke regnskapsmessige krav virksomheter må følge."
+summary: "Hva er Statens pensjonskasse, hvem er medlem, og hvordan beregnes ytelsene? Enkel forklaring for arbeidsgivere og ansatte."
 ---
 
 ![Statens pensjonskasse](statens-pensjonskasse-image.svg)

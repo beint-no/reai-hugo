@@ -1,7 +1,8 @@
 ﻿---
 title: "Organisasjonskultur"
-seoTitle: "Organisasjonskultur"
-description: '**Organisasjonskultur** omfatter de delte **verdiene**, **normene** og **holdningene** som former atferd og beslutninger i en organisasjon. En sterk og positiv ...'
+seoTitle: "Organisasjonskultur | Verdier, normer og kontrollmiljø"
+description: "Hva er organisasjonskultur, hvilke typer finnes og hvordan påvirker kultur internkontroll og regnskapsprosesser?"
+summary: "Oversikt over organisasjonskultur og dens betydning for internkontroll."
 ---
 
 **Organisasjonskultur** omfatter de delte **verdiene**, **normene** og **holdningene** som former atferd og beslutninger i en organisasjon. En sterk og positiv organisasjonskultur kan fremme god **internkontroll**, effektivitet og etterlevelse av lover og regler, mens en svak kultur kan øke risikoen for feil og misligheter.

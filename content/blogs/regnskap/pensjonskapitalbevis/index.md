@@ -1,7 +1,8 @@
 ﻿---
 title: "Pensjonskapitalbevis"
-seoTitle: "Pensjonskapitalbevis"
-description: '**Pensjonskapitalbevis** er en ordning som gjør det mulig å overføre oppsparte pensjonsmidler fra **ytelsesbasert tjenestepensjon** til en individuell konto ...'
+seoTitle: "Pensjonskapitalbevis | Hva det er og hvordan det fungerer"
+description: "Hva er pensjonskapitalbevis, når oppstår det og hvordan forvaltes midlene etter jobbskifte? Kort oversikt over skatt og praktiske valg."
+summary: "Enkel forklaring av pensjonskapitalbevis og hva du kan gjøre med det."
 ---
 
 **Pensjonskapitalbevis** er en ordning som gjør det mulig å overføre oppsparte pensjonsmidler fra **ytelsesbasert tjenestepensjon** til en individuell konto når et arbeidsforhold avsluttes. Dette gir rettighetsbevarende håndtering av pensjonskapital ved jobbskifte og økt fleksibilitet i forvaltningen.

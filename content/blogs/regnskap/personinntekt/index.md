@@ -1,7 +1,8 @@
 ﻿---
 title: "Personinntekt"
-seoTitle: "Personinntekt"
-description: '**Personinntekt** er det skattemessige grunnlaget for beregning av personskatt, **trygdeavgift** og **trinnskatt** for både lønnsmottakere og personlig nærin...'
+seoTitle: "Personinntekt | Grunnlag for skatt, trygdeavgift og trinnskatt"
+description: "Hva er personinntekt, hvilke inntekter inngår, og hvordan beregnes grunnlaget for trygdeavgift og trinnskatt?"
+summary: "Kort forklaring av personinntekt og hvordan den påvirker skatten din."
 ---
 
 **Personinntekt** er det skattemessige grunnlaget for beregning av personskatt, **trygdeavgift** og **trinnskatt** for både lønnsmottakere og personlig næringsdrivende. For sammenligning med tilstøtende begreper, se [Alminnelig inntekt](/blogs/regnskap/alminnelig-inntekt "Alminnelig inntekt “ Komplett guide til skattemessig resultat og beregning") og [Næringsinntekt](/blogs/regnskap/naeringsinntekt "Næringsinntekt “ Komplett guide til næringsinntekt i norsk regnskap").

@@ -1,7 +1,8 @@
 ﻿---
 title: "Skatt på feriepenger"
-seoTitle: "Skatt på feriepenger"
-description: '**Skatt på feriepenger** handler om hvordan feriepengeutbetalinger **skattlegges** som **inntekt** i Norge. Å forstå regelverket for skattetrekk, periodiseri...'
+seoTitle: "Skatt på feriepenger | Trekk, satser og rapportering"
+description: "Hvordan skattlegges feriepenger? Forklaring av trekkmetoder, satser, periodisering og rapportering i A-ordningen."
+summary: "Enkel guide til skatt på feriepenger for arbeidsgivere og ansatte."
 ---
 
 **Skatt på feriepenger** handler om hvordan feriepengeutbetalinger **skattlegges** som **inntekt** i Norge. Å forstå regelverket for skattetrekk, periodisering og rapportering av feriepenger er essensielt for korrekte lønns- og regnskapsprosesser.

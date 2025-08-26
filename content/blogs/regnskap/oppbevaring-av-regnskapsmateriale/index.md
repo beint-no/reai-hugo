@@ -2,6 +2,7 @@
 title: "Oppbevaring av regnskapsmateriale"
 seoTitle: "Oppbevaring av regnskapsmateriale"
 description: '**Oppbevaring av regnskapsmateriale** er en lovpålagt forpliktelse som alle norske virksomheter må følge. Korrekt arkivering og oppbevaring av regnskapsdokum...'
+summary: "Oppbevaring av regnskapsmateriale i Norge: krav, frister og beste praksis for sikker digital og fysisk arkivering. Lær hva som må lagres, hvor lenge og hvordan sikre sporbarhet for revisjon og MVA‑melding."
 ---
 
 **Oppbevaring av regnskapsmateriale** er en lovpålagt forpliktelse som alle norske virksomheter må følge. Korrekt arkivering og oppbevaring av regnskapsdokumenter er ikke bare et juridisk krav, men også en kritisk del av god forretningspraksis som sikrer sporbarhet, transparens og mulighet for kontroll og revisjon.

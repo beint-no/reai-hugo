@@ -2,6 +2,7 @@
 title: "Næringsinntekt"
 seoTitle: "Næringsinntekt"
 description: '**Næringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig næ...'
+summary: "Næringsinntekt er nettoresultatet fra næringsvirksomhet for selvstendig næringsdrivende. Artikkelen viser beregning, skattemessige justeringer og rapportering i næringsoppgave (RF‑1030)."
 ---
 
 **Næringsinntekt** er resultatet av virksomhetens inntekter minus fradragsberettigede kostnader, med eventuelle skattemessige justeringer. For [selvstendig næringsdrivende](/blogs/regnskap/selvstendig-naeringsdrivende "Selvstendig næringsdrivende “ Guide til selvstendig næringsvirksomhet i Norge") utgjør **næringsinntekt** det grunnleggende skattegrunnlaget som rapporteres i næringsoppgaven (RF-1030).
