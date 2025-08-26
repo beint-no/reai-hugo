@@ -1,7 +1,8 @@
 ﻿---
 title: "Restskatt"
 seoTitle: "Restskatt"
-description: '**Restskatt** er den skatten som oppstår når **forskuddsskatt** eller **betalbar skatt** ikke dekker den endelige skatteforpliktelsen ved [skattemeldingen](/b...'
+description: "Restskatt oppstår når innbetalt forskuddsskatt ikke dekker endelig skatt i skattemeldingen, og differansen må betales."
+summary: "Årsaker til restskatt, beregning, bokføring og tiltak for å unngå uventede kostnader."
 ---
 
 **Restskatt** er den skatten som oppstår når **forskuddsskatt** eller **betalbar skatt** ikke dekker den endelige skatteforpliktelsen ved [skattemeldingen](/blogs/regnskap/skattemelding "Skattemelding - Komplett Guide til Utfylling og Innlevering"). Dette kan føre til uventede kostnader og likviditetspress for virksomheter.

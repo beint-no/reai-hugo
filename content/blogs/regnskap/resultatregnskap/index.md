@@ -1,7 +1,8 @@
 ﻿---
 title: "Resultatregnskap"
 seoTitle: "Resultatregnskap"
-description: '**Resultatregnskap** er en oppstilling av en virksomhets **inntekter**, **kostnader**, **gevinster** og **tap** i en regnskapsperiode, som til slutt viser **[Å...'
+description: "Resultatregnskap er oppstillingen av inntekter, kostnader, gevinster og tap i en periode som munner ut i årsresultat."
+summary: "Struktur, nøkkelposter og formålet med resultatregnskap i norsk regnskap."
 ---
 
 **Resultatregnskap** er en oppstilling av en virksomhets **inntekter**, **kostnader**, **gevinster** og **tap** i en regnskapsperiode, som til slutt viser **[Årsresultat](/blogs/regnskap/aarsresultat "Årsresultat")**. Et godt utarbeidet resultatregnskap gir innsikt i lønnsomhet, driftseffektivitet og finansiell helse.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Resultat i Norsk Regnskap"
-seoTitle: "Resultat i Norsk Regnskap"
-description: '**Resultat** er det sentrale begrepet i resultatregnskapet som viser om en bedrift har *overskudd* eller *underskudd* i en gitt periode.'
+seoTitle: "Resultat i norsk regnskap"
+description: "Resultat viser om virksomheten har overskudd eller underskudd i en periode, beregnet som totale inntekter minus totale kostnader."
+summary: "En enkel forklaring av resultatbegrepet, nivåer i resultatregnskapet og hvorfor det er viktig."
 ---
 
 **Resultat** er det sentrale begrepet i resultatregnskapet som viser om en bedrift har *overskudd* eller *underskudd* i en gitt periode.

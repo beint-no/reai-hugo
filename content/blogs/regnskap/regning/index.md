@@ -1,7 +1,8 @@
 ﻿---
 title: "Regning"
 seoTitle: "Regning"
-description: 'En **regning** er et **betalingskrav** utstedt av en selger til en kjøper for varer eller tjenester. I norsk regnskap fungerer regningen som grunnlag for bokfÃ...'
+description: "En regning er et betalingskrav fra selger til kjøper for varer eller tjenester, og fungerer som dokumentasjon og bilag i norsk regnskap."
+summary: "Hva en regning er, krav til innhold, forskjellen mot faktura og kvittering, og oppbevaringsregler."
 ---
 
 En **regning** er et **betalingskrav** utstedt av en selger til en kjøper for varer eller tjenester. I norsk regnskap fungerer regningen som grunnlag for bokføring og dokumentasjon av fordringer og gjeld.

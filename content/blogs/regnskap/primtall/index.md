@@ -1,7 +1,8 @@
 ﻿---
 title: "Primtall"
 seoTitle: "Primtall"
-description: '**Primtall** er heltall større enn 1 som kun er delelige med 1 og seg selv. Dette abstrakte, men viktige, **matematiske konseptet** har sentrale anvendelser i ...'
+description: "Primtall er heltall større enn 1 som kun er delelige med 1 og seg selv, med viktige anvendelser i kontrollsiffer og validering i regnskapssystemer."
+summary: "Kort innføring i hva primtall er og hvordan de brukes i norske regnskaps- og kontrollrutiner."
 ---
 
 **Primtall** er heltall større enn 1 som kun er delelige med 1 og seg selv. Dette abstrakte, men viktige, **matematiske konseptet** har sentrale anvendelser i **norsk regnskap**, særlig innen modulær aritmetikk for kontrollsifferalgoritmer.

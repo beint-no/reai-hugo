@@ -1,7 +1,8 @@
 ﻿---
 title: "Proff.no – Oversikt og Brukerveiledning"
-seoTitle: "Proff.no “ Oversikt og Brukerveiledning"
-description: '![Proff.no “ Oversikt og Brukerveiledning](proff-no-image.svg)'
+seoTitle: "Proff.no | Oversikt og brukerveiledning"
+description: "Proff.no er en plattform for bedriftsinformasjon med regnskapstall, nøkkeltall, kredittscore og kontaktdata samlet fra offentlige registre."
+summary: "Lær hvordan du finner og analyserer regnskapstall, nøkkeltall og kredittinformasjon på Proff.no."
 ---
 
 ![Proff.no “ Oversikt og Brukerveiledning](proff-no-image.svg)

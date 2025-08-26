@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er primærnæring?"
 seoTitle: "Hva er primærnæring?"
-description: 'Primærnæring er en samlebetegnelse for virksomheter som utvinner ressurser direkte fra naturen. Dette inkluderer **jordbruk**, **skogbruk** og **fiske**. I no...'
+description: "Primærnæring omfatter virksomheter som utvinner ressurser fra naturen, som jordbruk, skogbruk og fiske, og har egne regler i regnskap og skatt."
+summary: "En kort forklaring av primærnæring og hvorfor den behandles særskilt i regnskap og skatt."
 ---
 
 Primærnæring er en samlebetegnelse for virksomheter som utvinner ressurser direkte fra naturen. Dette inkluderer **jordbruk**, **skogbruk** og **fiske**. I norsk regnskap og skatt har primærnæringer egne regler og særordninger på grunn av naturressurser, sesongvariasjoner og biologiske eiendeler.

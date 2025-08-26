@@ -1,7 +1,8 @@
 ﻿---
 title: "Revisjon"
 seoTitle: "Revisjon"
-description: 'Revisjon er en **uavhengig vurdering** av en virksomhets årsregnskap og regnskapssystemer utført av kvalifiserte [revisorer](/blogs/regnskap/revisor "Revisor"...'
+description: "Revisjon er en uavhengig vurdering av årsregnskapet og tilhørende systemer for å bekrefte pålitelighet og etterlevelse av lover og standarder."
+summary: "Formål, typer revisjon, prosess og vanlige konklusjoner i revisjonsberetningen."
 ---
 
 Revisjon er en **uavhengig vurdering** av en virksomhets årsregnskap og regnskapssystemer utført av kvalifiserte [revisorer](/blogs/regnskap/revisor "Revisor") for å sikre **pålitelighet**, **nøyaktighet** og **overholdelse** av lover og standarder i Norge.

@@ -1,7 +1,8 @@
 ﻿---
 title: "Realisering"
 seoTitle: "Realisering"
-description: '**Realisering** i regnskap refererer til prosessen med å realisere økonomiske fordeler ved salg eller avhending av eiendeler, investeringer eller andre finans...'
+description: "Realisering i regnskap er når eiendeler eller investeringer selges eller avhendes, og gevinst eller tap beregnes og resultatføres."
+summary: "Når oppstår realisering, hvordan beregnes gevinst og tap, og hvordan føres det i regnskapet."
 ---
 
 **Realisering** i regnskap refererer til prosessen med å realisere økonomiske fordeler ved salg eller avhending av eiendeler, investeringer eller andre finansielle instrumenter. Korrekt behandling av realisering er viktig for å sikre **rettvisende resultat** og balanse.

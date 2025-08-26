@@ -1,7 +1,8 @@
 ﻿---
 title: "Reelle Rettighetshavere: Ultimate Beneficial Ownership i Norge"
-seoTitle: "Reelle Rettighetshavere: Ultimate Beneficial Ownership i Norge"
-description: '![Reelle Rettighetshavere](reelle-rettighetshavere-image.svg)'
+seoTitle: "Reelle rettighetshavere | Ultimate beneficial ownership i Norge"
+description: "Reelle rettighetshavere er personene som i siste instans eier eller kontrollerer en juridisk enhet, og må identifiseres og rapporteres etter norsk regelverk."
+summary: "Definisjon av reelle rettighetshavere, terskler, registrering og praktiske krav i Norge."
 ---
 
 ![Reelle Rettighetshavere](reelle-rettighetshavere-image.svg)

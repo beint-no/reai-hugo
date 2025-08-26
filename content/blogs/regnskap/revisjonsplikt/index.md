@@ -1,7 +1,8 @@
 ﻿---
 title: "Revisjonsplikt"
 seoTitle: "Revisjonsplikt"
-description: '**Revisjonsplikt** er den lovpålagte forpliktelsen for visse virksomheter i Norge til å få årsregnskapet **revidert** av kvalifiserte revisorer i henhold ti...'
+description: "Revisjonsplikt er kravet om at visse virksomheter må få årsregnskapet revidert av uavhengig revisor etter regnskapsloven og relevante forskrifter."
+summary: "Hvem har revisjonsplikt, terskelverdier, unntak og hvorfor revisjon gir økt tillit."
 ---
 
 **Revisjonsplikt** er den lovpålagte forpliktelsen for visse virksomheter i Norge til å få årsregnskapet **revidert** av kvalifiserte revisorer i henhold til [Regnskapsloven](/blogs/regnskap/hva-er-regnskapsloven "Hva er Regnskapsloven? En Komplett Guide til Norske Regnskapslover og Forskrifter") og tilhørende forskrifter.

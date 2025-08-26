@@ -1,7 +1,8 @@
 ﻿---
 title: "Protokoll"
 seoTitle: "Protokoll"
-description: '**Protokoll** er det formelle dokumentet som **dokumenterer** vedtak, diskusjoner og beslutningsprosesser i **generalforsamlinger**, **styremøter** og andre fo...'
+description: "Protokoll er et formelt møtereferat som dokumenterer saker, vedtak og deltakere i generalforsamlinger og styremøter, viktig for sporbarhet og etterlevelse."
+summary: "Hva en protokoll er, lovkrav til innhold og hvordan den føres og oppbevares."
 ---
 
 **Protokoll** er det formelle dokumentet som **dokumenterer** vedtak, diskusjoner og beslutningsprosesser i **generalforsamlinger**, **styremøter** og andre formelle selskapsorganer. En korrekt ført protokoll er avgjørende for å sikre **sporbarhet** og **gjennomsiktighet** i regnskapet.

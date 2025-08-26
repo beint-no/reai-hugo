@@ -1,7 +1,8 @@
 ﻿---
 title: "Rettskildehierarkiet"
 seoTitle: "Rettskildehierarkiet"
-description: '**Rettskildehierarkiet** beskriver prioriteringen av ulike **rettskilder** som danner grunnlaget for norsk regnskapsførsel, god regnskapsskikk og skattemessig ...'
+description: "Rettskildehierarkiet prioriterer lov, forskrift, praksis og teori for å sikre korrekt tolkning og anvendelse i norsk regnskap og skatt."
+summary: "Forklaring av hvordan rettskilder rangeres og brukes i regnskaps- og skatterettslige vurderinger."
 ---
 
 **Rettskildehierarkiet** beskriver prioriteringen av ulike **rettskilder** som danner grunnlaget for norsk regnskapsførsel, god regnskapsskikk og skattemessig praksis.
