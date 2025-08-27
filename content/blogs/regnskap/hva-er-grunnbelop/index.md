@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er grunnbeløp?"
 seoTitle: "Hva er grunnbeløp?"
-description: '**Grunnbeløpet** (forkortet **G**) er en av de mest fundamentale størrelsene i det norske trygde- og skattesystemet. Det fungerer som en referanseenhet som br...'
+description: 'Grunnbeløpet (forkortet G) er en av de mest fundamentale størrelsene i det norske trygde- og skattesystemet. Det fungerer som en referanseenhet som br...'
 summary: 'Hva grunnbeløpet (G) i folketrygden er, årlige justeringer og hvordan G påvirker ytelser og grenser.'
 ---
 

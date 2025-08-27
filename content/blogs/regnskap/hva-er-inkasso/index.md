@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er inkasso?"
 seoTitle: "Hva er inkasso?"
-description: '**Inkasso** er prosessen med å kreve inn forfalte [fordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? En Komplett Guide til Kundefordringe...'
+description: 'Inkasso er prosessen med å kreve inn forfalte [fordringer](/blogs/regnskap/hva-er-kundefordring "Hva er Kundefordring? En Komplett Guide til Kundefordringe...'
 summary: "Hva inkasso er, hovedsteg i prosessen, relevante lover i Norge og hvordan inkasso påvirker regnskap og likviditet."
 ---
 

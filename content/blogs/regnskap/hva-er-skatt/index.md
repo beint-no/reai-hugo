@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Skatt?"
 seoTitle: "Hva er Skatt?"
-description: '**Skatt** er en grunnleggende del av alle virksomheters økonomi og regnskap. Det er en obligatorisk avgift som pålegges av staten for å finansiere offentlige...'
+description: 'Skatt er en grunnleggende del av alle virksomheters økonomi og regnskap. Det er en obligatorisk avgift som pålegges av staten for å finansiere offentlige...'
 summary: "Skatt er obligatoriske avgifter som finansierer offentlige tjenester; for bedrifter omfatter det selskapsskatt, MVA og avgifter med regler for beregning, rapportering og planlegging."
 ---
 

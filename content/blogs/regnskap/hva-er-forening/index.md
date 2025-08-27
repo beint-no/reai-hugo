@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner"
 seoTitle: "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner"
-description: 'En **forening** er en sammenslutning av personer som har sluttet seg sammen for å fremme felles interesser eller oppnå et bestemt formål. I regnskapssammenhe...'
+description: 'En forening er en sammenslutning av personer som har sluttet seg sammen for å fremme felles interesser eller oppnå et bestemt formål. I regnskapssammenhe...'
 summary: 'Hva en forening er, regnskapsplikt og bokføringsregler, behandling av kontingent, tilskudd og beste praksis for økonomistyring.'
 ---
 

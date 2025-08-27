@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Regnskap Norge: Bransjeorganisasjon for Regnskapsførere og Regnskapsbyråer"
 seoTitle: "Regnskap Norge: Bransjeorganisasjon for Regnskapsførere og Regnskapsbyråer"
-description: '**Regnskap Norge** er bransjeorganisasjonen for **regnskapsførere** og **regnskapsbyråer** i Norge. Organisasjonen jobber for å fremme medlemmenes faglige in...'
+description: 'Regnskap Norge er bransjeorganisasjonen for regnskapsførere og regnskapsbyråer i Norge. Organisasjonen jobber for å fremme medlemmenes faglige in...'
 summary: Regnskap Norge er bransjeorganisasjonen for regnskapsførere og regnskapsbyråer i Norge, med kurs, rådgivning og standarder for kvalitet og etterlevelse.
 ---
 

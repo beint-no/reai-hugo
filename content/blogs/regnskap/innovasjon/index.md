@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Innovasjon"
 seoTitle: "Innovasjon"
-description: '**Innovasjon** er en kritisk driver for langsiktig vekst og konkurranseevne i norske virksomheter. I regnskapssammenheng innebærer innovasjon både behandling ...'
+description: 'Innovasjon er en kritisk driver for langsiktig vekst og konkurranseevne i norske virksomheter. I regnskapssammenheng innebærer innovasjon både behandling ...'
 summary: "Hva innovasjon betyr i regnskap, aktivering av utviklingskostnader og relevant regelverk."
 ---
 

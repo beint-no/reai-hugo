@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Strekkode i Regnskap?"
 seoTitle: "Hva er Strekkode i Regnskap?"
-description: '**Strekkode** i regnskapssammenheng er en maskinlesbar kode som består av parallelle linjer eller geometriske mønstre som representerer informasjon digitalt. ...'
+description: 'Strekkode i regnskapssammenheng er en maskinlesbar kode som består av parallelle linjer eller geometriske mønstre som representerer informasjon digitalt. ...'
 summary: "Strekkoder er maskinlesbare koder som effektiviserer regnskapsprosesser som fakturering, lagerstyring og bokføring gjennom rask og nøyaktig dataregistrering."
 ---
 

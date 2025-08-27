@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er GTIN/EAN?"
 seoTitle: "Hva er GTIN/EAN?"
-description: '**GTIN (Global Trade Item Number)** og **EAN (European Article Number)** er globale standarder for produktidentifikasjon som spiller en kritisk rolle i moderne ...'
+description: 'GTIN (Global Trade Item Number) og EAN (European Article Number) er globale standarder for produktidentifikasjon som spiller en kritisk rolle i moderne ...'
 summary: 'Hva GTIN/EAN er, struktur på strekkoder og hvordan koder brukes for sporing, lager og kassasystemer.'
 ---
 

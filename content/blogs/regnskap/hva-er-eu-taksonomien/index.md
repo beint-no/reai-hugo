@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er EU-taksonomien? Klassifiseringssystem for Bærekraftige Aktiviteter"
 seoTitle: "Hva er EU-taksonomien? Klassifiseringssystem for Bærekraftige Aktiviteter"
-description: '**EU-taksonomien** er EUs omfattende **klassifiseringssystem** som definerer hvilke økonomiske aktiviteter som regnes som miljømessig bærekraftige. Dette sys...'
+description: 'EU-taksonomien er EUs omfattende klassifiseringssystem som definerer hvilke økonomiske aktiviteter som regnes som miljømessig bærekraftige. Dette sys...'
 summary: 'Hva er EU-taksonomien? Kort forklaring av kriterier, miljømål og rapporteringskrav, og hvordan regelverket påvirker finansiering og regnskap.'
 ---
 

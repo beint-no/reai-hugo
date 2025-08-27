@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Fagforening? Regnskap for Fagforeninger i Norge"
 seoTitle: "Hva er Fagforening? Regnskap for Fagforeninger i Norge"
-description: 'En **fagforening** er en type [forening](/blogs/regnskap/hva-er-forening "Hva er Forening i Regnskap? Regnskapsføring for Foreninger og Organisasjoner") som or...'
+description: 'En fagforening er en type forening som or...'
 summary: 'Hva er fagforening? En kort guide til oppgaver, kontingent, lønnstrekk og regnskapskrav, med tips til effektiv økonomistyring.'
 ---
 

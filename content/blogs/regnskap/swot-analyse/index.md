@@ -1,7 +1,7 @@
-﻿---
+---
 title: "SWOT-analyse"
 seoTitle: "SWOT-analyse"
-description: '**SWOT-analyse** er en strukturert metode for å kartlegge og evaluere både interne og eksterne faktorer som påvirker en virksomhets suksess. Navnet er en for...'
+description: 'SWOT-analyse er en strukturert metode for å kartlegge og evaluere både interne og eksterne faktorer som påvirker en virksomhets suksess. Navnet er en for...'
 summary: En metode for å vurdere styrker, svakheter, muligheter og trusler. Artikkelen viser hvordan SWOT brukes i budsjett, risikoarbeid og strategi for bedre beslutninger.
 ---
 

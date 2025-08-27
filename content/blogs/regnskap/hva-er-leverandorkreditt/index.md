@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er leverandørkreditt?"
 seoTitle: "Hva er leverandørkreditt?"
-description: '**Leverandørkreditt** er en finansieringsform hvor leverandører gir sine kunder utsatt betalingsfrist for varer eller tjenester. Dette er en av de mest utbred...'
+description: 'Leverandørkreditt er en finansieringsform hvor leverandører gir sine kunder utsatt betalingsfrist for varer eller tjenester. Dette er en av de mest utbred...'
 summary: "Forklaring av leverandørkreditt, prosess og typer, regnskapsmessig behandling og hvordan ordningen påvirker likviditet, risiko og kontantstrøm."
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er GHG-protokollen?"
 seoTitle: "Hva er GHG-protokollen?"
-description: '**GHG-protokollen** (Greenhouse Gas Protocol) er den mest anerkjente internasjonale standarden for måling og rapportering av klimagassutslipp fra bedrifter og ...'
+description: 'GHG-protokollen (Greenhouse Gas Protocol) er den mest anerkjente internasjonale standarden for måling og rapportering av klimagassutslipp fra bedrifter og ...'
 summary: 'Hva GHG-protokollen er, scope 1–3, datakrav og hvordan standarden brukes i ESG- og klimarapportering.'
 ---
 

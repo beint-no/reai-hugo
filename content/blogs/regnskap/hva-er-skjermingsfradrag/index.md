@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Skjermingsfradrag?"
 seoTitle: "Hva er Skjermingsfradrag?"
-description: '**Skjermingsfradrag** er en viktig skattemessig regel som gir aksjonærer fradrag for alternativkostnaden ved å investere egenkapital i et aksjeselskap fremfor...'
+description: 'Skjermingsfradrag er en viktig skattemessig regel som gir aksjonærer fradrag for alternativkostnaden ved å investere egenkapital i et aksjeselskap fremfor...'
 summary: "Skjermingsfradrag gir aksjonærer fradrag for normalavkastning på egenkapital, slik at bare meravkastning beskattes ved utbytte og aksjegevinster."
 ---
 

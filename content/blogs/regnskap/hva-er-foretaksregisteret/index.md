@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Foretaksregisteret?"
 seoTitle: "Hva er Foretaksregisteret?"
-description: '**Foretaksregisteret** er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregist...'
+description: 'Foretaksregisteret er et offentlig register som administreres av [Brønnøysundregistrene](/blogs/regnskap/bronnoysundregistrene "Hva er Brønnøysundregist...'
 summary: 'Hva Foretaksregisteret er, hvilke opplysninger som registreres, hvilke selskaper som må registreres og hvordan prosessen foregår.'
 ---
 

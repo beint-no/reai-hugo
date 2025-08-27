@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er factoring?"
 seoTitle: "Hva er factoring?"
-description: '**Factoring** er en spesialisert [finansieringstjeneste](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Fi...'
+description: 'Factoring er en spesialisert [finansieringstjeneste](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Fi...'
 summary: 'Hva er factoring? En kort forklaring av prosess, typer, kostnader, fordeler og regnskapsføring, samt når factoring passer for bedriften.'
 ---
 

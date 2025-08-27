@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er GLN-nummer?"
 seoTitle: "Hva er GLN-nummer?"
-description: '**GLN-nummer** (Global Location Number) er en internasjonal GS1-standard som brukes for entydig identifikasjon av fysiske lokasjoner, partnere og adresser i ver...'
+description: 'GLN-nummer (Global Location Number) er en internasjonal GS1-standard som brukes for entydig identifikasjon av fysiske lokasjoner, partnere og adresser i ver...'
 summary: 'Hva et GLN-nummer er, hvordan det brukes til identifisering av virksomheter og lokasjoner i handel og logistikk.'
 ---
 

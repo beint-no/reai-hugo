@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Økonomisystem"
 seoTitle: "Økonomisystem"
-description: 'Et **økonomisystem** er en integrert programvareløsning som hjelper bedrifter med å håndtere alle økonomiske prosesser, fra **bokføring** og **fakturering...'
+description: 'Et økonomisystem er en integrert programvareløsning som hjelper bedrifter med å håndtere alle økonomiske prosesser, fra bokføring og fakturering...'
 summary: "En oversikt over økonomisystemer for norske bedrifter, hva de gjør, vanlige funksjoner, valgkriterier og hvordan løsningen støtter regnskap, fakturering og rapportering."
 ---
 

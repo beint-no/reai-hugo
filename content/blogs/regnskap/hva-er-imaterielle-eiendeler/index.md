@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er imaterielle eiendeler?"
 seoTitle: "Hva er imaterielle eiendeler?"
-description: '**Imaterielle eiendeler** er [eiendeler](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel? Komplett Guide til Eiendom og Verdier") som mangler fysisk form, men so...'
+description: 'Imaterielle eiendeler er eiendeler som mangler fysisk form, men so...'
 summary: "Hva imaterielle eiendeler er, typiske eksempler og hvordan de verdsettes og føres i regnskapet."
 ---
 

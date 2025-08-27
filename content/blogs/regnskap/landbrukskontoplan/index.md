@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Landbrukskontoplan - Komplett Guide til Regnskap for Landbruk"
 seoTitle: "Landbrukskontoplan - Komplett Guide til Regnskap for Landbruk"
-description: 'En **landbrukskontoplan** er en spesialisert [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap"...'
+description: 'En landbrukskontoplan er en spesialisert [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap"...'
 summary: "Hva en landbrukskontoplan er, hvordan den bygges opp og brukes til korrekt regnskapsføring i landbruket."
 ---
 

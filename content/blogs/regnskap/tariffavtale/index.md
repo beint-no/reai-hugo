@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er en Tariffavtale?"
 seoTitle: "Hva er en Tariffavtale?"
-description: 'En **tariffavtale** er en skriftlig **kollektiv avtale** mellom arbeidstakerorganisasjoner og arbeidsgivere som regulerer **lønn**, **arbeidstid**, **goder** o...'
+description: 'En tariffavtale er en skriftlig kollektiv avtale mellom arbeidstakerorganisasjoner og arbeidsgivere som regulerer lønn, arbeidstid, goder o...'
 summary: Skriftlig avtale mellom partene som regulerer lønn, arbeidstid og vilkår. Artikkelen dekker typer avtaler, forhandlingsprosess, regnskapsmessige konsekvenser og dokumentasjon.
 ---
 

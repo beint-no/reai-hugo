@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Skjermingsrente?"
 seoTitle: "Hva er Skjermingsrente?"
-description: '**Skjermingsrente** er den **risikofrie renten** som brukes til å beregne [skjermingsfradrag](/blogs/regnskap/hva-er-skjermingsfradrag "Hva er Skjermingsfradra...'
+description: 'Skjermingsrente er den risikofrie renten som brukes til å beregne [skjermingsfradrag](/blogs/regnskap/hva-er-skjermingsfradrag "Hva er Skjermingsfradra...'
 summary: "Skjermingsrente er den risikofrie referanserenten som brukes til å beregne skjermingsfradrag, fastsatt årlig av Skattedirektoratet basert på treårige statsobligasjoner."
 ---
 

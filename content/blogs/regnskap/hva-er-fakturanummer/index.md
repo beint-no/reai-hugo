@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Hva er Fakturanummer? Komplett Guide til Nummerering og Lovkrav"
 seoTitle: "Hva er Fakturanummer? Komplett Guide til Nummerering og Lovkrav"
 summary: 'Hva er fakturanummer? Lær krav, struktur, KID-tilknytning og beste praksis for sporbar fakturering.'
-description: 'Et **fakturanummer** er en unik identifikator som tildeles hver [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"...'
+description: 'Et fakturanummer er en unik identifikator som tildeles hver [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"...'
 ---
 
 Et **fakturanummer** er en unik identifikator som tildeles hver [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") for å sikre sporbarhet, organisering og juridisk etterlevelse i regnskapsføringen. I Norge er korrekt nummerering av fakturaer ikke bare en praktisk nødvendighet, men også et lovpålagt krav som reguleres av [bokføringsforskriften](/blogs/regnskap/hva-er-bokforingsforskriften "Hva er Bokføringsforskriften? Komplett Guide til Norske Regnskapsregler").

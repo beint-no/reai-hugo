@@ -1,7 +1,7 @@
-﻿---
+---
 title: "MVA-plikt (Momsplikt)"
 seoTitle: "MVA-plikt (Momsplikt)"
-description: '**MVA-plikt**, også kalt **momsplikt**, er den juridiske forpliktelsen som pålegger bedrifter og organisasjoner å registrere seg for, beregne, kreve inn og b...'
+description: 'MVA-plikt, også kalt momsplikt, er den juridiske forpliktelsen som pålegger bedrifter og organisasjoner å registrere seg for, beregne, kreve inn og b...'
 summary: "MVA‑plikt forklares med grenser for registrering, satser, fradragsregler, rapportering og sanksjoner. Få en praktisk veiledning til korrekt håndtering av merverdiavgift i norsk regnskap."
 ---
 

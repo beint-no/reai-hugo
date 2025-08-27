@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Integrasjon"
 seoTitle: "Integrasjon"
-description: '**Integrasjon** er prosessen med å koble sammen ulike systemer, databaser og programvare for å oppnå en **sømløs dataflyt** mellom forretningsapplikasjoner...'
+description: 'Integrasjon er prosessen med å koble sammen ulike systemer, databaser og programvare for å oppnå en sømløs dataflyt mellom forretningsapplikasjoner...'
 summary: "Hva systemintegrasjon betyr i regnskap, standarder, fordeler, utfordringer og implementering."
 ---
 

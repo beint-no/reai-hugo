@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er leverandørreskontro?"
 seoTitle: "Hva er leverandørreskontro?"
-description: '**Leverandørreskontro** er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt leverandør. Dette er en **underresko...'
+description: 'Leverandørreskontro er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt leverandør. Dette er en underresko...'
 summary: "Hva leverandørreskontro er, hvilke data som inngår, hvordan den brukes i kreditoroppfølging og forskjellen mot hovedbok."
 ---
 

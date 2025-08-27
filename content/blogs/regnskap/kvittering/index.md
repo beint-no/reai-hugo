@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er kvittering?"
 seoTitle: "Hva er kvittering?"
-description: 'En **kvittering** er et bevis på at en transaksjon eller betaling har funnet sted. Kvitteringer er en sentral del av dokumentasjonsplikten i norsk regnskap og ...'
+description: 'En kvittering er et bevis på at en transaksjon eller betaling har funnet sted. Kvitteringer er en sentral del av dokumentasjonsplikten i norsk regnskap og ...'
 summary: "Hva en kvittering er, hvilke krav som gjelder og hvordan den brukes som bilag i regnskap."
 ---
 

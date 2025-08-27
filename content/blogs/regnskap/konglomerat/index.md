@@ -1,7 +1,7 @@
-﻿---
+---
 title: "konglomerat"
 seoTitle: "konglomerat"
-description: 'Et **konglomerat** er en *konsernstruktur* der **datterselskapene** opererer i helt ulike bransjer, ofte for å spre risiko og dra nytte av **synergier** på tv...'
+description: 'Et konglomerat er en *konsernstruktur* der datterselskapene opererer i helt ulike bransjer, ofte for å spre risiko og dra nytte av synergier på tv...'
 summary: "Hva et konglomerat er, forskjellen fra konsern, fordeler og ulemper ved diversifisering og norske eksempler."
 ---
 

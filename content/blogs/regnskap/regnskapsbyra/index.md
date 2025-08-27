@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Regnskapsbyrå - Hva gjør de og hvorfor er det viktig?"
 seoTitle: "Regnskapsbyrå - Hva gjør de og hvorfor er det viktig?"
-description: '**Regnskapsbyrå** er selskaper som tilbyr tjenester innen **bokføring**, **rapportering**, **rådgivning** og **lønnsadministrasjon** til bedrifter og organi...'
+description: 'Regnskapsbyrå er selskaper som tilbyr tjenester innen bokføring, rapportering, rådgivning og lønnsadministrasjon til bedrifter og organi...'
 summary: Hva et regnskapsbyrå gjør, hvilke tjenester de tilbyr, og hvorfor norske virksomheter bruker dem for korrekt regnskap og effektiv drift.
 ---
 

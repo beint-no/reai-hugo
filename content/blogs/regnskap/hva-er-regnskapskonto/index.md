@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er en Regnskapskonto?"
 seoTitle: "Hva er en Regnskapskonto?"
-description: 'En **regnskapskonto** er en unik konto i en [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er en Kontoplan? Komplett Guide til Kontoplaner i Norsk Regnskap")...'
+description: 'En regnskapskonto er en unik konto i en kontoplan...'
 summary: "En regnskapskonto er en konto i kontoplanen som registrerer spesifikke økonomiske transaksjoner i regnskapet, identifisert med kontonummer og beskrivelse."
 ---
 

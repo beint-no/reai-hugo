@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er honorar (regnskap)?"
 seoTitle: "Hva er honorar (regnskap)?"
-description: '**Honorar** i regnskapssammenheng refererer til [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensas...'
+description: 'Honorar i regnskapssammenheng refererer til [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensas...'
 summary: 'Hva honorar er, når det brukes i stedet for lønn, og hvordan utbetalinger bokføres og innrapporteres.'
 ---
 

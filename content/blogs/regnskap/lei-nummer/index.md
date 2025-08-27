@@ -1,7 +1,7 @@
-﻿---
+---
 title: "LEI-nummer"
 seoTitle: "LEI-nummer"
-description: '**LEI-nummer** (Legal Entity Identifier) er en **global identifikator** som entydig identifiserer juridiske enheter i finansielle transaksjoner. For norske sels...'
+description: 'LEI-nummer (Legal Entity Identifier) er en global identifikator som entydig identifiserer juridiske enheter i finansielle transaksjoner. For norske sels...'
 summary: "Hva LEI-nummer er, hvordan koden er bygget opp, hvorfor den brukes og hvordan man registrerer den."
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Konkurskarantene?"
 seoTitle: "Hva er Konkurskarantene?"
-description: '**Konkurskarantene** er en rettslig ordning som kan ilegges personer som har vært ansvarlig for en virksomhet som har blitt slått konkurs. Formålet er å bes...'
+description: 'Konkurskarantene er en rettslig ordning som kan ilegges personer som har vært ansvarlig for en virksomhet som har blitt slått konkurs. Formålet er å bes...'
 summary: "Kort forklaring av konkurskarantene: vilkår, varighet, konsekvenser og hvordan ledere kan redusere risiko for ileggelse."
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Indeksfond"
 seoTitle: "Indeksfond"
-description: '![Indeksfond](indeksfond-image.svg)'
+description: '!Indeksfond'
 summary: "Hva indeksfond er, fordeler og ulemper, kostnader og hvordan komme i gang."
 ---
 

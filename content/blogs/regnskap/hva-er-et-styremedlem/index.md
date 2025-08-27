@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er et styremedlem? En Komplett Guide til Styremedlemmets Rolle og Ansvar"
 seoTitle: "Hva er et styremedlem? En Komplett Guide til Styremedlemmets Rolle og Ansvar"
-description: 'En **styremedlem** er et individ valgt eller utpekt til å sitte i selskapets [styre](/blogs/regnskap/hva-er-styre "Hva er styre? Styrets rolle og oppgaver"), m...'
+description: 'En styremedlem er et individ valgt eller utpekt til å sitte i selskapets styre, m...'
 summary: 'Hva gjør et styremedlem? Kort oversikt over rolle, ansvar, møter og krav i norske aksjeselskaper, med fokus på regnskap og selskapsstyring.'
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er likvide midler?"
 seoTitle: "Hva er likvide midler?"
-description: '**Likvide midler** er bedriftens umiddelbart tilgjengelige kontanter og kontantekvivalenter, som kan brukes til å dekke kortsiktige forpliktelser og finansiere...'
+description: 'Likvide midler er bedriftens umiddelbart tilgjengelige kontanter og kontantekvivalenter, som kan brukes til å dekke kortsiktige forpliktelser og finansiere...'
 summary: "Hva likvide midler er, eksempler og regnskapsføring, samt betydning for likviditetsanalyse og styring."
 ---
 

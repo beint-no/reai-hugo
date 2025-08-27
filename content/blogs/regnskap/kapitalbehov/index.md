@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Kapitalbehov?"
 seoTitle: "Hva er Kapitalbehov?"
-description: '**Kapitalbehov** beskriver mengden kapital **en bedrift må skaffe** for å dekke både oppstarts- og driftsrelaterte finansieringsbehov, slik at virksomheten k...'
+description: 'Kapitalbehov beskriver mengden kapital en bedrift må skaffe for å dekke både oppstarts- og driftsrelaterte finansieringsbehov, slik at virksomheten k...'
 summary: "Hva kapitalbehov er, typer behov, beregning og finansieringsstrategier for bedrifter."
 ---
 

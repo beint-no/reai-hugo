@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Styreverv: Roller, Ansvar og Fordeler ved Styreverv i Norske Selskaper"
 seoTitle: "Styreverv: Roller, Ansvar og Fordeler ved Styreverv i Norske Selskaper"
-description: 'En **styreverv** er et verv i selskapets [styre](/blogs/regnskap/hva-er-styre "Hva er Styre? Ansvar, Rolle og Oppgaver i Aksjeselskap") hvor en person påtar se...'
+description: 'En styreverv er et verv i selskapets styre hvor en person påtar se...'
 summary: Et styreverv innebærer ansvar for styring, kontroll og strategi. Artikkelen beskriver roller, formelle krav, godtgjørelse, risiko og hvordan du aksepterer og gjennomfører et styreverv.
 ---
 

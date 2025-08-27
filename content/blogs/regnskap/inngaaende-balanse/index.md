@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Inngående Balanse i Regnskap?"
 seoTitle: "Hva er Inngående Balanse i Regnskap?"
-description: '**Inngående balanse** er et fundamentalt begrep i regnskapsføring som refererer til åpningsbalansen ved begynnelsen av en ny regnskapsperiode. Den represente...'
+description: 'Inngående balanse er et fundamentalt begrep i regnskapsføring som refererer til åpningsbalansen ved begynnelsen av en ny regnskapsperiode. Den represente...'
 summary: "Definisjon av inngående balanse, sammenheng med utgående balanse og praktiske eksempler."
 ---
 

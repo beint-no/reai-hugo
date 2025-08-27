@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Internkontrollforskriften"
 seoTitle: "Internkontrollforskriften"
-description: '**Internkontrollforskriften** (FOR-2016-12-06-1721) fastsetter krav til internkontroll i virksomheter som faller inn under arbeidsmiljøloven §–¯3-1. Denne fo...'
+description: 'Internkontrollforskriften (FOR-2016-12-06-1721) fastsetter krav til internkontroll i virksomheter som faller inn under arbeidsmiljøloven §–¯3-1. Denne fo...'
 summary: "Oversikt over internkontrollforskriften: formål, krav, risikovurdering, dokumentasjon og ansvar."
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Tantieme i aksjeselskap"
 seoTitle: "Tantieme i aksjeselskap"
-description: '![Tantieme](tantieme-image.svg)'
+description: '!Tantieme'
 summary: Variabel godtgjørelse til styre eller ledelse basert på resultat. Artikkelen forklarer beslutningsprosess, beregning, skatt og bokføring av tantieme i norske AS.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er et Aksjeselskap?"
 seoTitle: "Hva er et Aksjeselskap?"
-description: 'For en oversikt over ulike selskapsformer i Norge, se [Selskapsform](/blogs/regnskap/selskapsform "Selskapsform: Oversikt over selskapsformer i Norge").'
+description: 'For en oversikt over ulike selskapsformer i Norge, se Selskapsform.'
 summary: 'Hva er aksjeselskap (AS)? En kort guide til definisjon, ansvar, aksjekapital, fordeler, registrering og hvordan du kommer i gang i Norge.'
 ---
 

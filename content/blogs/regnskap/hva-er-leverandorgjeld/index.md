@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Leverandørgjeld i Regnskap?"
 seoTitle: "Hva er Leverandørgjeld i Regnskap?"
-description: '**Leverandørgjeld** er en av de mest sentrale komponentene i [kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til K...'
+description: 'Leverandørgjeld er en av de mest sentrale komponentene i [kortsiktig gjeld](/blogs/regnskap/kortsiktig-gjeld "Hva er Kortsiktig Gjeld? Komplett Guide til K...'
 summary: "Hva leverandørgjeld er, hvordan den bokføres og analyseres, samt beste praksis for betalingsplanlegging, kreditorhåndtering og kontantstrøm."
 ---
 

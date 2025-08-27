@@ -1,7 +1,7 @@
-﻿---
+---
 title: "langsiktig-gjeld"
 seoTitle: "langsiktig-gjeld"
-description: '**Langsiktig gjeld** er en fundamental komponent i virksomhetens finansieringsstruktur som representerer forpliktelser med forfallstid på mer enn ett år fra b...'
+description: 'Langsiktig gjeld er en fundamental komponent i virksomhetens finansieringsstruktur som representerer forpliktelser med forfallstid på mer enn ett år fra b...'
 summary: "Hva langsiktig gjeld er, hovedtyper, regnskapsføring og betydning for kapitalstruktur."
 ---
 

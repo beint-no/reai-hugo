@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Tinglyse i Regnskap"
 seoTitle: "Tinglyse i Regnskap"
-description: '**Tinglyse** betyr å registrere rettigheter og heftelser i eiendom i offentlige registre som grunnboken. I regnskapsføringen er tinglysing viktig for å sikre...'
+description: 'Tinglyse betyr å registrere rettigheter og heftelser i eiendom i offentlige registre som grunnboken. I regnskapsføringen er tinglysing viktig for å sikre...'
 summary: Registrering av rettigheter og heftelser i grunnboken. Artikkelen beskriver prosess, lovgrunnlag, dokumentasjonskrav og regnskapsmessig behandling av tinglyste forhold.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Noter (årsoppgjør)"
 seoTitle: "Noter (årsoppgjør)"
-description: '**Noter** er en integrert del av [årsregnskapet](/blogs/regnskap/hva-er-aarsregnskap "Hva er Årsregnskap? Innhold, oppbygging og lovkrav i Norge") som gir det...'
+description: 'Noter er en integrert del av årsregnskapet som gir det...'
 summary: "Hva noter i årsoppgjøret er, hvilke lovkrav som gjelder, kategorier av noteopplysninger og hvordan du strukturerer gode noter i praksis."
 ---
 

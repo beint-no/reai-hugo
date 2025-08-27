@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er aktiva?"
 seoTitle: "Hva er aktiva?"
-description: '**Aktiva**, også kjent som **[eiendeler](/blogs/regnskap/hva-er-eiendeler "Hva er Eiendeler? Komplett Oversikt over Eiendelstyper")**, er alle økonomiske ress...'
+description: 'Aktiva, også kjent som eiendeler, er alle økonomiske ress...'
 summary: "Definisjon av aktiva og hovedtyper som anleggsmidler og omløpsmidler. Praktiske eksempler, verdsettelse og hvordan aktiva presenteres i balansen."
 ---
 

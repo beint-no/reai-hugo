@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Norsk regnskapsstandard (NRS)"
 seoTitle: "Norsk regnskapsstandard (NRS)"
-description: '**Norsk regnskapsstandard (NRS)** er det nasjonale rammeverket for regnskapsføring i Norge, utviklet spesielt for norske virksomheter som ikke er pålagt å fÃ...'
+description: 'Norsk regnskapsstandard (NRS) er det nasjonale rammeverket for regnskapsføring i Norge, utviklet spesielt for norske virksomheter som ikke er pålagt å fÃ...'
 summary: "Hva NRS er, hvordan standardene er bygget opp, hovedforskjeller mot IFRS og praktisk anvendelse."
 ---
 

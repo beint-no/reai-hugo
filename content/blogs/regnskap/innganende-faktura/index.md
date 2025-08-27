@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Inngående Faktura"
 seoTitle: "Inngående Faktura"
-description: 'En **inngående faktura** er en [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") som bedriften mottar fra lever...'
+description: 'En inngående faktura er en faktura som bedriften mottar fra lever...'
 summary: "Hva en inngående faktura er, prosessen fra mottak til bokføring og beste praksis."
 ---
 

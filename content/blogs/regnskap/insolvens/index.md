@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Insolvens?"
 seoTitle: "Hva er Insolvens?"
-description: '**Insolvens** oppstår når en virksomhet ikke er i stand til å oppfylle sine forpliktelser ved forfall, noe som kan lede til betalingsproblemer, konkurs eller...'
+description: 'Insolvens oppstår når en virksomhet ikke er i stand til å oppfylle sine forpliktelser ved forfall, noe som kan lede til betalingsproblemer, konkurs eller...'
 summary: "Definisjon av insolvens, årsaker, forskjell fra konkurs og tiltak for forebygging."
 ---
 

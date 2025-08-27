@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er en kunde?"
 seoTitle: "Hva er en kunde?"
-description: 'En **kunde** er en person eller organisasjon som kjøper varer eller tjenester fra en bedrift. I regnskapssammenheng representerer kunder den viktigste kilden t...'
+description: 'En kunde er en person eller organisasjon som kjøper varer eller tjenester fra en bedrift. I regnskapssammenheng representerer kunder den viktigste kilden t...'
 summary: "Kort forklaring på hva en kunde er i regnskap, med fokus på rolle, kundefordringer og hvordan kundehåndtering påvirker inntekter og kontantstrøm."
 ---
 

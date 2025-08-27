@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Fintech?"
 seoTitle: "Hva er Fintech?"
-description: '**Fintech** (finansteknologi) representerer den revolusjonerende sammensmeltingen av finansielle tjenester og avansert teknologi. Dette dynamiske feltet transfo...'
+description: 'Fintech (finansteknologi) representerer den revolusjonerende sammensmeltingen av finansielle tjenester og avansert teknologi. Dette dynamiske feltet transfo...'
 summary: 'Hva fintech er, eksempler på løsninger og hvordan teknologien påvirker regnskap, betalinger og rapportering.'
 ---
 

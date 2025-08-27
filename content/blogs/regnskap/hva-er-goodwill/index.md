@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er goodwill?"
 seoTitle: "Hva er goodwill?"
-description: '**Goodwill** er en **immateriell [eiendel](/blogs/regnskap/hva-er-eiendel "Hva er Eiendel i Regnskap? Komplett Guide til Eiendom og Verdier")** som oppstår nå...'
+description: 'Goodwill er en immateriell eiendel som oppstår nå...'
 summary: 'Hva goodwill er, når den oppstår ved oppkjøp, samt regler for måling, nedskrivning og regnskapsføring.'
 ---
 

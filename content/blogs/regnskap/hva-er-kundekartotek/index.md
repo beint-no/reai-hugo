@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er kundekartotek?"
 seoTitle: "Hva er kundekartotek?"
-description: 'Et **kundekartotek** er en systematisk samling av informasjon om bedriftens kunder, organisert på en måte som gjør det enkelt å finne, oppdatere og bruke ku...'
+description: 'Et kundekartotek er en systematisk samling av informasjon om bedriftens kunder, organisert på en måte som gjør det enkelt å finne, oppdatere og bruke ku...'
 summary: "Hva et kundekartotek er, hvorfor det er viktig i regnskap, og hvordan god struktur, integrasjon og oppfølging støtter fakturering, debitorhåndtering og analyse."
 ---
 

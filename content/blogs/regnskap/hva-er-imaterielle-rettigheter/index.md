@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er imaterielle rettigheter?"
 seoTitle: "Hva er imaterielle rettigheter?"
-description: '**Imaterielle rettigheter** er ikke-fysiske eiendeler som har økonomisk verdi for en virksomhet. Disse eiendelene representerer intellektuell eiendom, juridisk...'
+description: 'Imaterielle rettigheter er ikke-fysiske eiendeler som har økonomisk verdi for en virksomhet. Disse eiendelene representerer intellektuell eiendom, juridisk...'
 summary: "Hva imaterielle rettigheter er, som patenter og varemerker, og hvordan de behandles i regnskapet."
 ---
 

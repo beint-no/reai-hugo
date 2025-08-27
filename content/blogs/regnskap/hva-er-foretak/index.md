@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er et Foretak?"
 seoTitle: "Hva er et Foretak?"
-description: 'Et **foretak** er en organisert [virksomhet](/blogs/regnskap/hva-er-virksomhet "Hva er en virksomhet? Definisjon og Regnskapsmessige Forhold") som driver økono...'
+description: 'Et foretak er en organisert virksomhet som driver økono...'
 summary: 'Definisjon av foretak, oversikt over foretaksformer i Norge, registreringskrav, regnskaps- og skatteregler samt praktiske valgkriterier.'
 ---
 

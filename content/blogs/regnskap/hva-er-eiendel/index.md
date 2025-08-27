@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er eiendel?"
 seoTitle: "Hva er eiendel?"
-description: '**Eiendel** er et grunnleggende begrep i [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som omfatter alle verdier og r...'
+description: 'Eiendel er et grunnleggende begrep i regnskap som omfatter alle verdier og r...'
 summary: "Eiendel forklart: definisjon, typer, verdsettelse og regnskapsføring."
 ---
 

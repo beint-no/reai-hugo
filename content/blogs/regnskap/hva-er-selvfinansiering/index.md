@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Selvfinansiering?"
 seoTitle: "Hva er Selvfinansiering?"
-description: '**Selvfinansiering** er en fundamental strategi for å finansiere bedriftens drift og vekst gjennom egen [kapitaltilførsel](/blogs/regnskap/hva-er-kapital "Hva...'
+description: 'Selvfinansiering er en fundamental strategi for å finansiere bedriftens drift og vekst gjennom egen [kapitaltilførsel](/blogs/regnskap/hva-er-kapital "Hva...'
 summary: "Selvfinansiering er finansiering av drift og vekst med egenkapital og tilbakeholdt overskudd, som gir kontroll, lavere risiko og bedre fleksibilitet."
 ---
 

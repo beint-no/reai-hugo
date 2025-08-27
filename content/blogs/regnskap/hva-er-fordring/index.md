@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Fordring?"
 seoTitle: "Hva er Fordring?"
-description: '**Fordring** er et **økonomisk krav** på betaling, hvor én part (creditor) har levert varer, tjenester eller ytelser, og en annen part (debitor) skylder beta...'
+description: 'Fordring er et økonomisk krav på betaling, hvor én part (creditor) har levert varer, tjenester eller ytelser, og en annen part (debitor) skylder beta...'
 summary: 'Hva en fordring er, typer fordringer, måling og regnskapsføring, samt praktiske tips for oppfølging.'
 ---
 

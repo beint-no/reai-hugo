@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Hva er Engroshandel? Regnskap og Økonomistyring for Grossister"
 seoTitle: "Hva er Engroshandel? Regnskap og Økonomistyring for Grossister"
-description: '**Engroshandel** er salg av varer i store kvanta til andre virksomheter, typisk [detaljhandel](/blogs/regnskap/hva-er-detaljhandel "Hva er Detaljhandel? Regnska...'
+description: 'Engroshandel er salg av varer i store kvanta til andre virksomheter, typisk [detaljhandel](/blogs/regnskap/hva-er-detaljhandel "Hva er Detaljhandel? Regnska...'
 summary: 'Kort guide til engroshandel: definisjon, regnskap, lagerstyring og nøkkeltall for grossister.'
 ---
 
