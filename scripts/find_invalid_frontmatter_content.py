@@ -70,10 +70,19 @@ def main() -> int:
         fm, _ = parse_frontmatter(fp)
         if not fm:
             continue
+        invalid = False
         for k, v in fm.items():
             if value_has_invalid_markdown(v):
-                offending.append(os.path.relpath(fp, ROOT))
+                invalid = True
                 break
+            if k == "description":
+                s = v.lstrip()
+                e = v.rstrip()
+                if s.startswith("!") or e.endswith("..."):
+                    invalid = True
+                    break
+        if invalid:
+            offending.append(os.path.relpath(fp, ROOT))
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
         for p in offending:
