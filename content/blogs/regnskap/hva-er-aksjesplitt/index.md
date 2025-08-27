@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er en Aksjesplitt? En Komplett Guide"
-seoTitle: "Hva er en Aksjesplitt? En Komplett Guide"
-description: 'En **aksjesplitt** er en handling et selskap foretar for å øke antallet utestående aksjer ved å dele hver eksisterende aksje opp i flere nye aksjer. Selv om...'
+seoTitle: "Hva er aksjesplitt? | Hvorfor og hvordan det gjennomføres"
+description: "Aksjesplitt deler opp eksisterende aksjer i flere nye for å senke kursen uten å endre aksjekapitalen. Lær hvorfor det gjøres, hvordan prosessen fungerer og hva det betyr i regnskap."
 summary: "Hva en aksjesplitt er, hvorfor den brukes og hvordan den påvirker antall aksjer, kurs, pålydende verdi og regnskap."
 ---
 

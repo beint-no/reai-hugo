@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er Aksjekapital?"
-seoTitle: "Hva er Aksjekapital?"
-description: '**Aksjekapital** er den samlede verdien av eiernes innskudd i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et Aksjeselskap? Komplett Gu...'
+seoTitle: "Hva er aksjekapital? | Krav, bruk og endringer"
+description: "Aksjekapital er eiernes innskudd i et aksjeselskap. Lær lovkrav i Norge, hvordan kapitalen brukes, og hvordan den kan økes, settes ned eller betales inn i ting."
 summary: "Definisjon av aksjekapital, lovkrav i Norge og hvordan kapitalen brukes og endres gjennom kapitalforhøyelse, nedsettelse og tingsinnskudd."
 ---
 

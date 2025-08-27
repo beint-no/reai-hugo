@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er akkordlønn?"
-seoTitle: "Hva er akkordlønn?"
-description: '**Akkordlønn** er en form for **[produksjonslønn](/blogs/regnskap/hva-er-produksjonslonn "Hva er Produksjonslønn? Komplett Guide til Produksjonsbasert Lønn"...'
+seoTitle: "Hva er akkordlønn? | Hvordan det fungerer og når det lønner seg"
+description: "Akkordlønn er lønn per enhet eller oppgave, ikke per time. Lær hvordan akkordavtaler beregnes, hvilke bransjer som bruker ordningen, og fordeler og ulemper."
 summary: "Forklaring av akkordlønn: hvordan lønnsformen fungerer, bransjer den brukes i, fordeler, ulemper og regnskapsmessig håndtering."
 ---
 

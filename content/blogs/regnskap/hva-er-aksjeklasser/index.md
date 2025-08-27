@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er Aksjeklasser?"
-seoTitle: "Hva er Aksjeklasser?"
-description: '**Aksjeklasser** er ulike sett av aksjer som gir ulike rettigheter i selskapet. Dette er et viktig konsept for å forstå hvordan eierskap og kontroll kan struk...'
+seoTitle: "Hva er aksjeklasser? | A- og B-aksjer forklart"
+description: "Aksjeklasser er ulike typer aksjer med forskjellige rettigheter. Lær forskjellen på A- og B-aksjer, hvordan vedtekter styrer utbytte og stemmerett, og når det brukes."
 summary: "Hva aksjeklasser er, forskjellen på A- og B-aksjer og hvordan vedtekter styrer rettigheter, utbytte og stemmerett i et aksjeselskap."
 ---
 

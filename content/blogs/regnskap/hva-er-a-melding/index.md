@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er a-melding?"
-seoTitle: "Hva er a-melding?"
-description: 'A-melding, også kjent som **[samordnet registermelding](/blogs/regnskap/samordnet-registermelding "Samordnet registermelding")**, er en månedlig digital rappo...'
+seoTitle: "Hva er a-melding? | Komplett guide for arbeidsgivere"
+description: "A-melding er den månedlige rapporten arbeidsgivere sender om inntekt, arbeidsforhold og forskuddstrekk. Denne guiden forklarer frister, innhold og hvordan du leverer riktig a-melding."
 summary: "Kort forklaring av a-meldingen: hva den er, hvem som må levere, frister og hva som rapporteres. Praktisk guide for arbeidsgivere og små bedrifter."
 ---
 

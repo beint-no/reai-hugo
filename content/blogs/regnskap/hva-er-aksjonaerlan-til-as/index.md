@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er Aksjonærlån til AS?"
-seoTitle: "Hva er Aksjonærlån til AS?"
-description: 'Et **aksjonærlån til AS** er et lån som en [aksjonær](/blogs/regnskap/hva-er-en-aksjonaer "Hva er en Aksjonær? En Komplett Guide") gir til sitt eget [aksje...'
+seoTitle: "Hva er aksjonærlån til AS? | Fordeler, skatt og dokumentasjon"
+description: "Aksjonærlån til AS er lån fra eier til selskap. Lær fordeler og ulemper, skatteregler, markedsmessig rente, dokumentasjonskrav og regnskapsføring."
 summary: "Hva aksjonærlån til AS er, fordeler og ulemper, skatteregler og krav til dokumentasjon. Praktiske eksempler og regnskapsføring forklart."
 ---
 

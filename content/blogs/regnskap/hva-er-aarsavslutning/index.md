@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er Årsavslutning i Regnskap?"
-seoTitle: "Hva er Årsavslutning i Regnskap?"
-description: '**Årsavslutning** er en kritisk og kompleks prosess som markerer slutten på et regnskapsår og sikrer at virksomhetens finansielle rapporter reflekterer den k...'
+seoTitle: "Hva er årsavslutning i regnskap? | Trinnvis guide og frister"
+description: "Årsavslutning avslutter regnskapsåret med avstemminger, periodisering, vurderinger og rapportering. Lær frister, sjekklister og beste praksis for korrekte årsregnskaper og skatt."
 summary: "Oversikt over årsavslutning i regnskap: steg, frister og beste praksis for å sikre korrekte regnskaper, skatteberegning og rapportering."
 ---
 

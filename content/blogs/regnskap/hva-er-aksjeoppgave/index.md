@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er en Aksjeoppgave? En Komplett Guide"
-seoTitle: "Hva er en Aksjeoppgave? En Komplett Guide"
-description: 'Aksjeoppgaven, offisielt kjent som **RF-1086**, er en årlig og obligatorisk rapportering for alle norske aksjeselskaper (AS) og allmennaksjeselskaper (ASA). De...'
+seoTitle: "Hva er aksjeoppgave (RF-1086)? | Frister, innhold og levering"
+description: "Aksjeoppgave (RF-1086) er årlig rapportering for AS og ASA om aksjer, transaksjoner og kapitalendringer. Lær hvem som leverer, frister, innhold og hvordan den sendes inn."
 summary: "Hva aksjeoppgaven (RF-1086) er, hvem som leverer, frister og hva som rapporteres. Praktisk veiledning for små og mellomstore selskaper."
 ---
 
