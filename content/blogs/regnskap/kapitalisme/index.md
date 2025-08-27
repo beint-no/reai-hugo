@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Kapitalisme?"
-seoTitle: "Hva er Kapitalisme?"
-description: '**Kapitalisme** er et *økonomisk system* basert på privat eierskap til produksjonsmidler, fri konkurranse og markedsbaserte priser. Som grunnlag for moderne [...'
+seoTitle: "Kapitalisme | Hva det er og hvordan det påvirker økonomi"
+description: "Kapitalisme er et økonomisk system basert på privat eierskap, fri konkurranse og markedspriser. Systemet danner rammene for verdiskaping, investeringer og ressursfordeling."
+summary: "Lær hva kapitalisme er, historien, hovedprinsipper, varianter og hvordan systemet påvirker regnskap, økonomi og samfunn i Norge."
 ---
 
 **Kapitalisme** er et *økonomisk system* basert på privat eierskap til produksjonsmidler, fri konkurranse og markedsbaserte priser. Som grunnlag for moderne [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide") og økonomisk analyse, legger kapitalisme rammene for hvordan verdiskaping, investeringer og distribusjon av ressurser organiseres.

@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1460 - Innkjøpte varer for videresalg"
 seoTitle: "Konto 1460 | Innkjøpte varer for videresalg | Kontoplan"
-description: '**Konto 1460 - Innkjøpte varer for videresalg** omfatter handelsvarer og varekjøp som skal selges videre uten bearbeiding. Les om lagerføring, vurdering og bokføring.'
+description: 'Konto 1460 - Innkjøpte varer for videresalg omfatter handelsvarer og varekjøp som skal selges videre uten bearbeiding. Les om lagerføring, vurdering og bokføring.'
 summary: "Konto 1460 dekker innkjøpte varer for videresalg. Oppsummerer lagerføring, vurdering og typiske bokføringsposter."
 ---
 

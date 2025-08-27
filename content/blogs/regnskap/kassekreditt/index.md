@@ -1,7 +1,8 @@
 ﻿---
 title: "Kassekreditt"
-seoTitle: "Kassekreditt"
-description: 'Kassekreditt er en fleksibel, kortsiktig finansieringsløsning som gir bedrifter tilgang til likvide midler ved å opprette en kredittramme på bedriftskontoen....'
+seoTitle: "Kassekreditt | Hvordan det fungerer, kostnader og bokføring"
+description: "Kassekreditt er en fleksibel, kortsiktig finansieringsløsning der bedriften får en kredittramme på konto for å dekke midlertidige likviditetsbehov."
+summary: "Hva er kassekreditt? Slik fungerer kredittrammen, typiske kostnader og gebyrer, samt hvordan kassekreditt bokføres i regnskapet."
 ---
 
 Kassekreditt er en fleksibel, kortsiktig finansieringsløsning som gir bedrifter tilgang til likvide midler ved å opprette en kredittramme på bedriftskontoen. Denne **overdraft-fasiliteten** brukes ofte for å håndtere svingninger i [likviditet](/blogs/regnskap/hva-er-likviditet "Hva er Likviditet? Komplett Guide til Likviditet og Likviditetsstyring"), dekke uforutsette utgifter eller finansiere sesongbaserte behov.

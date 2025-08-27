@@ -1,7 +1,7 @@
 ﻿---
 title: "Forklaring i regnskap"
-seoTitle: "Forklaring i regnskap"
-description: '**Forklaring** i regnskap refererer til tekstlige beskrivelser og kommentarer som gir kontekst og utdyper tallene i regnskapsoppstillinger som balanse, resultat...'
+seoTitle: "Forklaring i regnskap | Typer, krav og beste praksis"
+description: 'Forklaring i regnskap er tekstlige beskrivelser og kommentarer som gir kontekst og utdyper tall i oppstillinger som balanse, resultatregnskap og kontantstrøm, slik at rapporteringen blir forståelig.'
 summary: "Forklaring i regnskap: hva det er, typer, krav og beste praksis."
 ---
 

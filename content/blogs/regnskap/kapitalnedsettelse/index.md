@@ -1,7 +1,8 @@
 ﻿---
 title: "Kapitalnedsettelse: Metoder og Regnskapsføring"
-seoTitle: "Kapitalnedsettelse: Metoder og Regnskapsføring"
-description: '**Kapitalnedsettelse** er prosessen hvor et aksjeselskap (AS) reduserer sin egenkapital ved tilbakeføring av kapital til aksjonærene eller ved å dekke unders...'
+seoTitle: "Kapitalnedsettelse | Metoder og regnskapsføring"
+description: "Kapitalnedsettelse er prosessen der et aksjeselskap reduserer egenkapitalen ved tilbakebetaling til aksjonærene eller ved å dekke underskudd."
+summary: "Forstå kapitalnedsettelse: former, lovkrav etter aksjeloven, og hvordan transaksjonene bokføres i regnskapet med konkrete eksempler."
 ---
 
 **Kapitalnedsettelse** er prosessen hvor et aksjeselskap (AS) reduserer sin egenkapital ved tilbakeføring av kapital til aksjonærene eller ved å dekke underskudd.

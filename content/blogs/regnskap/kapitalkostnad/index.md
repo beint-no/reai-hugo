@@ -1,7 +1,8 @@
 ﻿---
 title: "Kapitalkostnad"
-seoTitle: "Kapitalkostnad"
-description: '**Kapitalkostnad** er den veide gjennomsnittlige kostnaden virksomheten har for kapital, både gjeld og egenkapital. Dette konseptet er sentralt for investering...'
+seoTitle: "Kapitalkostnad | WACC, egenkapital og gjeldskostnad"
+description: "Kapitalkostnad er den veide gjennomsnittlige kostnaden for kapital, både gjeld og egenkapital. Begrepet brukes i investeringsbeslutninger, finansiering og verdsettelse."
+summary: "En praktisk guide til kapitalkostnad: definisjon, WACC-formelen, nøkkelkomponenter, eksempler og hvordan du bruker den i investeringsanalyse."
 ---
 
 **Kapitalkostnad** er den veide gjennomsnittlige kostnaden virksomheten har for kapital, både gjeld og egenkapital. Dette konseptet er sentralt for investeringsbeslutninger, finansiering og verdsettelse, da kapitalkostnaden representerer avkastningskravet for å bære risiko.

@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1560 - Andre fordringer på selskap samme konsern"
 seoTitle: "Konto 1560 | Andre fordringer på selskap samme konsern | Kontoplan"
-description: '**Konto 1560 - Andre fordringer på selskap samme konsern** brukes til å registrere **andre kortsiktige fordringer** mot konsernselskap utenom kundefordringer. Les om opprettelse, tilbakebetaling, konsolidering og praktiske hensyn.'
+description: 'Konto 1560 - Andre fordringer på selskap samme konsern brukes til å registrere andre kortsiktige fordringer mot konsernselskap utenom kundefordringer. Les om opprettelse, tilbakebetaling, konsolidering og praktiske hensyn.'
 summary: "Konto 1560 dekker andre intercompany fordringer. Oppsummerer opprettelse, tilbakebetaling og konsolidering."
 ---
 

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er en Kausjonist? Rolle, Ansvar og Risiko"
-seoTitle: "Hva er en Kausjonist? Rolle, Ansvar og Risiko"
-description: '![Illustrasjon av konseptet kausjonist](kausjonist.svg)'
+seoTitle: "Kausjonist | Rolle, ansvar og risiko"
+description: "En kausjonist påtar seg ansvar for en annens gjeld ved å stille garanti. Artikkelen forklarer typer kausjon, juridisk ansvar og regnskapsmessige hensyn."
+summary: "Hva er en kausjonist? Lær om enkel og full kausjon, solidaransvar, regress og hvordan kausjonsansvar håndteres i regnskapet."
 ---
 
 ![Illustrasjon av konseptet kausjonist](kausjonist.svg)

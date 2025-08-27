@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1480 - Forskuddsbetaling til leverandører"
 seoTitle: "Konto 1480 | Forskuddsbetaling til leverandører | Kontoplan"
-description: '**Konto 1480 - Forskuddsbetaling til leverandører** brukes til å registrere **forskuddsbetalinger** som betales før levering av varer eller tjenester. Les om regnskapsføring, periodisering, balansepresentasjon og relaterte kontoer.'
+description: 'Konto 1480 - Forskuddsbetaling til leverandører brukes til å registrere forskuddsbetalinger som betales før levering av varer eller tjenester. Les om regnskapsføring, periodisering, balansepresentasjon og relaterte kontoer.'
 summary: "Konto 1480 gjelder forskuddsbetaling til leverandører. Oppsummerer regnskapsføring, periodisering og balansepresentasjon."
 ---
 

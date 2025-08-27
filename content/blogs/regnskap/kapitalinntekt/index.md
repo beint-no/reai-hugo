@@ -1,7 +1,8 @@
 ﻿---
 title: "Kapitalinntekt"
-seoTitle: "Kapitalinntekt"
-description: '**Kapitalinntekt** er inntekter fra investeringer og kapitalplasseringer, som **renter**, **utbytte**, **leieinntekter** og **kapitalgevinster**. Forståelse av...'
+seoTitle: "Kapitalinntekt | Renter, utbytte og kapitalgevinster"
+description: "Kapitalinntekt er inntekter fra investeringer og kapitalplasseringer, som renter, utbytte, leieinntekter og kapitalgevinster."
+summary: "Hva er kapitalinntekt? Oversikt over typer, regnskapsføring og skatteregler for renter, utbytte, leieinntekter og kapitalgevinster i norsk regnskap."
 ---
 
 **Kapitalinntekt** er inntekter fra investeringer og kapitalplasseringer, som **renter**, **utbytte**, **leieinntekter** og **kapitalgevinster**. Forståelse av kapitalinntekter er viktig for korrekt regnskapsføring og skatt i norsk regnskap.

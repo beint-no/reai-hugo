@@ -1,7 +1,7 @@
 ﻿---
 title: "Konto 1550 - Kundefordringer på selskap samme konsern"
 seoTitle: "Konto 1550 | Kundefordringer på selskap samme konsern | Kontoplan"
-description: '**Konto 1550 - Kundefordringer på selskap samme konsern** brukes til å registrere **kundefordringer** mellom selskaper i samme konsern. Les om førsteinnregning, innbetaling, konsolidering og praktiske hensyn.'
+description: 'Konto 1550 - Kundefordringer på selskap samme konsern brukes til å registrere kundefordringer mellom selskaper i samme konsern. Les om førsteinnregning, innbetaling, konsolidering og praktiske hensyn.'
 summary: "Konto 1550 dekker intercompany kundefordringer. Oppsummerer førsteinnregning, innbetaling og forhold ved konsolidering."
 ---
 

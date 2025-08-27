@@ -1,7 +1,8 @@
 ﻿---
 title: "Kjøregodtgjørelse"
-seoTitle: "Kjøregodtgjørelse"
-description: '**Kjøregodtgjørelse** er en **skattefri godtgjørelse per kilometer** for bruk av privatbil ved tjeneste- og yrkesrelatert kjøring. Riktig dokumentasjon og r...'
+seoTitle: "Kjøregodtgjørelse | Satser, regler og bokføring"
+description: "Kjøregodtgjørelse er en skattefri godtgjørelse per kilometer for bruk av privat bil i tjeneste. Riktig dokumentasjon og bokføring sikrer korrekt fradrag."
+summary: "Alt om kjøregodtgjørelse: satser for 2024, dokumentasjonskrav, regnskapsføring og praktiske rutiner for nøyaktig kjørebok."
 ---
 
 **Kjøregodtgjørelse** er en **skattefri godtgjørelse per kilometer** for bruk av privatbil ved tjeneste- og yrkesrelatert kjøring. Riktig dokumentasjon og regnskapsføring av kjøregodtgjørelse sikrer korrekt skattefradrag og compliance med norske regler.

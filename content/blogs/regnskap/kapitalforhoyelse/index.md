@@ -1,7 +1,8 @@
 ﻿---
 title: "Kapitalforhøyelse: Metoder og Regnskapsføring"
-seoTitle: "Kapitalforhøyelse: Metoder og Regnskapsføring"
-description: '**Kapitalforhøyelse** er prosessen hvor et aksjeselskap (AS) øker sin egenkapital ved å hente inn nye midler fra eierne eller andre bidragsytere.'
+seoTitle: "Kapitalforhøyelse | Metoder og regnskapsføring"
+description: "Kapitalforhøyelse er prosessen hvor et aksjeselskap (AS) øker egenkapitalen ved å hente inn nye midler fra eiere eller andre bidragsytere."
+summary: "Lær hva kapitalforhøyelse er, ulike metoder som emisjon og fondsemisjon, krav i aksjeloven og hvordan transaksjonene bokføres i regnskapet."
 ---
 
 **Kapitalforhøyelse** er prosessen hvor et aksjeselskap (AS) øker sin egenkapital ved å hente inn nye midler fra eierne eller andre bidragsytere.
