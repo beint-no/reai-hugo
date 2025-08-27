@@ -1,7 +1,7 @@
 ﻿---
-title: "Hva er Gjeldsregisteret?"
-seoTitle: "Hva er Gjeldsregisteret?"
-description: '**Gjeldsregisteret** er et offentlig register for **usikrede forbrukslån** og annen kreditt som gir långivere og kredittopplysningsbyråer en samlet oversikt ...'
+title: "Hva er gjeldsregisteret?"
+seoTitle: "Gjeldsregisteret | Hva registreres og hvem får innsyn"
+description: "Gjeldsregisteret er et offentlig register for usikrede forbrukslån og kreditt som gir oversikt til långivere og kredittopplysningsbyråer."
 summary: "Gjeldsregisteret: hva som registreres, hvem som får innsyn og praktisk bruk."
 ---
 

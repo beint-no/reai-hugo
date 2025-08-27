@@ -1,7 +1,7 @@
 ﻿---
 title: "Fullmakt"
-seoTitle: "Fullmakt"
-description: 'En **fullmakt** er et juridisk dokument som gir en person (*fullmaktsgiver*) rett til å la en annen (*fullmaktshaver*) handle på sine vegne i spesifikke saker...'
+seoTitle: "Fullmakt | Typer, bruk og dokumentasjon i regnskap"
+description: "En fullmakt er et juridisk dokument som gir en person myndighet til at en annen kan handle på deres vegne i bestemte saker. I regnskap brukes fullmakt for godkjenning, signering og autorisasjon."
 summary: "Fullmakt i regnskap: typer, bruk, dokumentasjon og interne rutiner."
 ---
 

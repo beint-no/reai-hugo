@@ -1,7 +1,7 @@
 ﻿---
 title: "Gjennomsnittslønn i Norge"
-seoTitle: "Gjennomsnittslønn i Norge"
-description: '**Gjennomsnittslønn i Norge** gir innsikt i hvordan lønnsnivået utvikler seg over tid, mellom bransjer og på tvers av regioner. Denne artikkelen hjelper deg...'
+seoTitle: "Gjennomsnittslønn i Norge | Tall, bransjer og regioner"
+description: "Gjennomsnittslønn i Norge gir innsikt i utvikling over tid, mellom bransjer og regioner. Artikkelen forklarer tall, forskjeller og praktisk bruk."
 summary: "Gjennomsnittslønn i Norge: tall, bransjer, regioner og bruksområder."
 ---
 

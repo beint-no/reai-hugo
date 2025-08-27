@@ -1,7 +1,7 @@
 ﻿---
 title: "God regnskapsskikk"
-seoTitle: "God regnskapsskikk"
-description: '**God regnskapsskikk** er fundamentet for pålitelig finansiell rapportering og en forutsetning for tillit i næringslivet. Det omfatter ikke bare teknisk korre...'
+seoTitle: "God regnskapsskikk | Prinsipper, internkontroll og krav"
+description: "God regnskapsskikk er fundamentet for pålitelig finansiell rapportering og tillit i næringslivet. Det omfatter teknisk korrekt bokføring, etiske standarder, transparens og systematisk kvalitetssikring."
 summary: "God regnskapsskikk i Norge: prinsipper, internkontroll, krav og beste praksis."
 ---
 

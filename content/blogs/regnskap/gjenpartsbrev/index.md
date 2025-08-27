@@ -1,7 +1,7 @@
 ﻿---
 title: "Gjenpartsbrev"
-seoTitle: "Gjenpartsbrev"
-description: '**Gjenpartsbrev** er et attestert eksemplar av et originalbilag som benyttes for å sikre **dokumentasjon** og sporbarhet i regnskapet. Gjennom å utstede et gj...'
+seoTitle: "Gjenpartsbrev | Definisjon, krav og oppbevaring"
+description: "Gjenpartsbrev er et attestert eksemplar av et originalbilag brukt for dokumentasjon og sporbarhet i regnskap."
 summary: "Gjenpartsbrev i regnskap: definisjon, krav, utforming og oppbevaring."
 ---
 

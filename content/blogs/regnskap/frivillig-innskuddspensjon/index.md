@@ -1,8 +1,8 @@
 ﻿---
-title: "Frivillig Innskuddspensjon"
-seoTitle: "Frivillig Innskuddspensjon"
-description: '![Illustrasjon av Frivillig Innskuddspensjon](frivillig-innskuddspensjon-image.svg)'
-summary: "Hva er frivillig innskuddspensjon? Fordeler, regnskap og implementering."
+title: "Frivillig innskuddspensjon"
+seoTitle: "Frivillig innskuddspensjon | Fordeler og regnskapsføring"
+description: "Frivillig innskuddspensjon forklart for bedrifter, med fordeler, skattebehandling og regnskapsføring slik at du kan vurdere ekstra pensjonssparing."
+summary: "Hva er frivillig innskuddspensjon? Fordeler, skattebehandling og regnskapsføring."
 ---
 
 ![Illustrasjon av Frivillig Innskuddspensjon](frivillig-innskuddspensjon-image.svg)
