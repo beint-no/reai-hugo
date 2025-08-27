@@ -2,6 +2,7 @@
 title: "Leasing"
 seoTitle: "Leasing"
 description: '**Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten å måtte kjøpe dem kontant. I norsk regnskap har leasing gjennomgått en betydelig e...'
+summary: "Hva leasing er, hovedtyper, IFRS 16-regler og effekter på balanse og nøkkeltall."
 ---
 
 **Leasing** er en finansieringsteknikk som gir tilgang til eiendeler uten å måtte kjøpe dem kontant. I norsk regnskap har leasing gjennomgått en betydelig endring etter innføringen av **IFRS 16**, hvor de fleste leasingavtaler nå må balanseføres som **leasingforpliktelser** og **bruksretteiendeler**.

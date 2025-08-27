@@ -2,6 +2,7 @@
 title: "Hva er Saldobalanse i Regnskap?"
 seoTitle: "Hva er Saldobalanse i Regnskap?"
 description: '**Saldobalanse** er et av de mest fundamentale verktøyene i regnskapsføring og representerer en detaljert oversikt over alle kontoer i bedriftens [kontoplan](...'
+summary: "Saldobalanse er en oppstilling av alle hovedbokskontoer med debet og kredit på et tidspunkt, brukt for kontroll, avstemming og som grunnlag for regnskapsrapporter."
 ---
 
 **Saldobalanse** er et av de mest fundamentale verktøyene i regnskapsføring og representerer en detaljert oversikt over alle kontoer i bedriftens [kontoplan](/blogs/regnskap/hva-er-kontoplan "Hva er Kontoplan? Komplett Guide til Kontosystem og Regnskapsstruktur") på et bestemt tidspunkt. Dette dokumentet fungerer som grunnlaget for utarbeidelse av [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse i Regnskap? Komplett Guide til Balansens Oppbygging og Funksjon") og andre finansielle rapporter, og er en kritisk komponent i enhver regnskapsprosess.

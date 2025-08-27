@@ -2,6 +2,7 @@
 title: "Ligningspapirer – Hva er, krav og oppbevaring"
 seoTitle: "Ligningspapirer “ Hva er, krav og oppbevaring"
 description: '**Ligningspapirer** er dokumenter som brukes i forbindelse med skattemyndighetenes vurdering av en virksomhets eller en persons skattepliktige inntekt og skatte...'
+summary: "Hva ligningspapirer er, lovkrav, oppbevaringstider og hvordan de brukes i skattemeldingen."
 ---
 
 **Ligningspapirer** er dokumenter som brukes i forbindelse med skattemyndighetenes vurdering av en virksomhets eller en persons skattepliktige inntekt og skatteposisjoner. De underbygger opplysningene i [skattemeldingen](/blogs/regnskap/hva-er-skattemelding "Hva er Skattemelding? Komplett Guide til Skattemelding og Skatteoppgaver") og sikrer korrekt beregning av skatt.

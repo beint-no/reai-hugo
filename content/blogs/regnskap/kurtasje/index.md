@@ -2,6 +2,7 @@
 title: "Hva er Kurtasje? Megleravgift ved kjøp og salg av verdipapirer"
 seoTitle: "Hva er Kurtasje? Megleravgift ved kjøp og salg av verdipapirer"
 description: '**Kurtasje**, også kalt *meglerprovisjon*, er avgiften som betales til en megler eller handelsplattform ved kjøp og salg av aksjer og andre **verdipapirer**.'
+summary: "Kort forklaring av kurtasje, hvordan den beregnes og hvordan den bokføres i regnskapet."
 ---
 
 **Kurtasje**, også kalt *meglerprovisjon*, er avgiften som betales til en megler eller handelsplattform ved kjøp og salg av aksjer og andre **verdipapirer**.

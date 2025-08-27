@@ -2,6 +2,7 @@
 title: "Hva er reskontro?"
 seoTitle: "Hva er reskontro?"
 description: '**Reskontro** er et regnskapsmessig **underreskontro** til [hovedboken](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok i Regnskap? Komplett Guide til Regnskap...'
+summary: "Reskontro er en detaljert underkonto til hovedboken som sporer transaksjoner per kunde, leverandør og ansatt for bedre kontroll og avstemming."
 ---
 
 **Reskontro** er et regnskapsmessig **underreskontro** til [hovedboken](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok i Regnskap? Komplett Guide til Regnskapsføring") som gir en detaljert oversikt over transaksjoner for spesifikke grupper av kontoer. Ved å bruke reskontro kan du spore økonomiske forhold med **kunder**, **leverandører** og **ansatte** individuelt, noe som gir bedre kontroll og oppfølging enn hovedboken alene.

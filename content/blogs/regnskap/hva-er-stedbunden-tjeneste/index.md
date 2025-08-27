@@ -2,6 +2,7 @@
 title: "Hva er Stedbunden tjeneste i Regnskap?"
 seoTitle: "Hva er Stedbunden tjeneste i Regnskap?"
 description: '**Stedbunden tjeneste** er tjenester som utføres på et *geografisk bestemt sted* og har **egne MVA-regler** og bokføringskrav. Disse reglene avgjør hvor tje...'
+summary: "Stedbunden tjeneste er tjenester levert på et bestemt sted, med egne MVA-regler for stedsbestemmelse og bokføring."
 ---
 
 **Stedbunden tjeneste** er tjenester som utføres på et *geografisk bestemt sted* og har **egne MVA-regler** og bokføringskrav. Disse reglene avgjør hvor tjenesten anses levert for merverdiavgift og bokføring.

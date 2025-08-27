@@ -2,6 +2,7 @@
 title: "Hva er Stagflasjon?"
 seoTitle: "Hva er Stagflasjon?"
 description: 'For en helhetlig forståelse av ekstreme økonomiske hendelser, se [Hva er Inflasjon?](/blogs/regnskap/hva-er-inflasjon "Hva er Inflasjon? Komplett Guide til In...'
+summary: "Stagflasjon er kombinasjonen av høy inflasjon og lav eller negativ vekst, som skaper krevende rammer for pengepolitikk og bedriftsøkonomi."
 ---
 
 For en helhetlig forståelse av ekstreme økonomiske hendelser, se [Hva er Inflasjon?](/blogs/regnskap/hva-er-inflasjon "Hva er Inflasjon? Komplett Guide til Inflasjon i Regnskap og Økonomi"), [Hva er Resesjon?](/blogs/regnskap/resesjon "Hva er Resesjon? Betydning, årsaker og regnskapsmessige implikasjoner") og [Hva er Konjunktur?](/blogs/regnskap/hva-er-konjunktur "Hva er Konjunktur? Komplett Guide til Økonomiske Sykluser").

@@ -2,6 +2,7 @@
 title: "Ligningsverdi"
 seoTitle: "Ligningsverdi"
 description: '**Ligningsverdi** er skattemyndighetenes vurdering av en eiendels verdi for beregning av formue og skatter i Norge. Det er et sentralt begrep innen [regnskap](/...'
+summary: "Hva ligningsverdi er, hvordan den beregnes og hvilken betydning den har for formueskatt og rapportering."
 ---
 
 **Ligningsverdi** er skattemyndighetenes vurdering av en eiendels verdi for beregning av formue og skatter i Norge. Det er et sentralt begrep innen [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En komplett guide"), [formueskatt](/blogs/regnskap/hva-er-formueskatt "Formueskatt - Komplett Guide til Beregning, Satser og Regelverk i Norge") og [skattemelding](/blogs/regnskap/skattemelding "Hva er Skattemelding? Guide til Innsending av Skattemelding i Norge").

@@ -2,6 +2,7 @@
 title: "Hva er næringsspesifikasjon?"
 seoTitle: "Hva er næringsspesifikasjon?"
 description: '**Næringsspesifikasjon** er et fundamentalt konsept i norsk [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som omfatt...'
+summary: "Definisjon av næringsspesifikasjon, NACE-koder, bransjeregler, MVA og praktisk implementering."
 ---
 
 **Næringsspesifikasjon** er et fundamentalt konsept i norsk [regnskap](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som omfatter den systematiske klassifiseringen og spesifiseringen av virksomheters næringsaktiviteter. Dette er avgjørende for korrekt rapportering, skatteberegning og overholdelse av bransjespecifikke regnskapsregler.

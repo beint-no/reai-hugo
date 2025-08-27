@@ -2,6 +2,7 @@
 title: "Landbrukets Dataflyt"
 seoTitle: "Landbrukets Dataflyt"
 description: '**Landbrukets dataflyt** refererer til den systematiske bevegelsen og behandlingen av informasjon gjennom hele den landbruksbaserte verdikjeden. Dette omfatter ...'
+summary: "Oversikt over hvordan data beveger seg i landbruket, fra produksjon til regnskap og rapportering."
 ---
 
 **Landbrukets dataflyt** refererer til den systematiske bevegelsen og behandlingen av informasjon gjennom hele den landbruksbaserte verdikjeden. Dette omfatter alt fra produksjonsdata på gården til [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring") og rapportering til myndigheter.
