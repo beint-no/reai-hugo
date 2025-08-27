@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er Forsikringspremie i Regnskap?"
-seoTitle: "Hva er Forsikringspremie i Regnskap?"
-description: '**Forsikringspremie** er en **forskuddsbetalt kostnad** som gir virksomheten forsikringsdekning over en bestemt periode. Denne artikkelen gir en grundig gjennom...'
+seoTitle: "Forsikringspremie i regnskap | Bokføring og periodisering"
+description: 'Forsikringspremie er en forskuddsbetalt kostnad som gir virksomheten forsikringsdekning over en periode. Denne guiden forklarer definisjon, bokføring og periodisering i norsk regnskap.'
 summary: "Forsikringspremie forklart: bokføring, periodisering og praktiske eksempler."
 ---
 
