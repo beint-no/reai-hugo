@@ -2,6 +2,7 @@
 title: "Hva er Kalkulatoriske kostnader?"
 seoTitle: "Hva er Kalkulatoriske kostnader?"
 description: '![Illustrasjon som viser kalkulatoriske kostnader](kalkulatoriske-kostnader-image.svg)'
+summary: "Hva kalkulatoriske kostnader er, typer, hvorfor de brukes og hvordan de beregnes."
 ---
 
 ![Illustrasjon som viser kalkulatoriske kostnader](kalkulatoriske-kostnader-image.svg)

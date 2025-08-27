@@ -2,6 +2,7 @@
 title: "Hva er Inhabilitet i Regnskap?"
 seoTitle: "Hva er Inhabilitet i Regnskap?"
 description: '**Inhabilitet** i norsk regnskap handler om regler og prinsipper som sikrer at beslutninger fattes uten interessekonflikter.'
+summary: "Hva inhabilitet betyr i regnskap, regelverket og praktiske tiltak for å sikre objektive beslutninger."
 ---
 
 **Inhabilitet** i norsk regnskap handler om regler og prinsipper som sikrer at beslutninger fattes uten interessekonflikter.

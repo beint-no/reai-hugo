@@ -2,6 +2,7 @@
 title: "Hva er et Hylleselskap? En Komplett Guide til Hylleselskap i Norge"
 seoTitle: "Hva er et Hylleselskap? En Komplett Guide til Hylleselskap i Norge"
 description: 'Et **hylleselskap** (ofte kalt *shelf company* på engelsk) er et ferdigregistrert aksjeselskap (AS) uten drift eller virksomhet.'
+summary: "Hva et hylleselskap er, når det brukes, fordeler, ulemper og kjøpsprosess."
 ---
 
 Et **hylleselskap** (ofte kalt *shelf company* på engelsk) er et ferdigregistrert aksjeselskap (AS) uten drift eller virksomhet.

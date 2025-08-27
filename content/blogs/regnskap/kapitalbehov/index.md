@@ -2,6 +2,7 @@
 title: "Hva er Kapitalbehov?"
 seoTitle: "Hva er Kapitalbehov?"
 description: '**Kapitalbehov** beskriver mengden kapital **en bedrift må skaffe** for å dekke både oppstarts- og driftsrelaterte finansieringsbehov, slik at virksomheten k...'
+summary: "Hva kapitalbehov er, typer behov, beregning og finansieringsstrategier for bedrifter."
 ---
 
 **Kapitalbehov** beskriver mengden kapital **en bedrift må skaffe** for å dekke både oppstarts- og driftsrelaterte finansieringsbehov, slik at virksomheten kan starte, vokse og opprettholde stabil drift. Begrepet er nært knyttet til [kapital](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Økonomi"), [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet") og [finansiering](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Typer, Metoder og Betydning i Regnskap").
