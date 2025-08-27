@@ -2,6 +2,7 @@
 title: "NS 4102"
 seoTitle: "NS 4102"
 description: '**NS 4102** er den norske standardkontoplanen utviklet for kommuner og fylkeskommuner. Den gir en felles struktur for regnskapsføring og muliggjør sammenlign...'
+summary: "Kort forklart: NS 4102 er standardkontoplanen for kommunal sektor. Artikkelen viser struktur, praktisk bruk og sammenheng med kontoplan og rapportering."
 ---
 
 **NS 4102** er den norske standardkontoplanen utviklet for kommuner og fylkeskommuner. Den gir en felles struktur for regnskapsføring og muliggjør sammenlignbarhet mellom offentlige enheter. NS 4102 er sentral for **kommunal regnskapsføring** og integreres i regnskapsrutiner for å sikre konsistens, transparens og etterlevelse av gjeldende regler.

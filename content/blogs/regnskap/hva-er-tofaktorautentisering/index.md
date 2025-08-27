@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Tofaktorautentisering?"
-seoTitle: "Hva er Tofaktorautentisering?"
-description: '**Tofaktorautentisering** (2FA) har blitt en kritisk sikkerhetskomponent for regnskapsførere og økonomipersonell som håndterer sensitive finansielle data. I ...'
+seoTitle: "Hva er tofaktorautentisering? | 2FA for regnskap og økonomi"
+description: "Tofaktorautentisering er et ekstra sikkerhetslag ved innlogging som kombinerer passord med noe du har eller er. Slik beskytter 2FA regnskap og økonomidata."
+summary: "En enkel innføring i 2FA: metoder, fordeler, implementering og hvorfor tofaktorautentisering er viktig i regnskapssystemer."
 ---
 
 **Tofaktorautentisering** (2FA) har blitt en kritisk sikkerhetskomponent for regnskapsførere og økonomipersonell som håndterer sensitive finansielle data. I en tid hvor cybertrusler rettet mot regnskapssystemer øker dramatisk, fungerer 2FA som et ekstra sikkerhetslag som beskytter både [regnskapsdata](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Grunnleggende Prinsipper og Prosesser") og [kundefordringer](/blogs/regnskap/hva-er-debitor "Hva er Debitor i Regnskap? Komplett Guide til Kundefordringer og Debitorhåndtering"). Implementering av tofaktorautentisering er ikke bare en teknisk sikkerhetstiltak, men en forretningsmessig nødvendighet for å sikre [internkontroll](/blogs/regnskap/hva-er-internkontroll "Hva er Internkontroll? Systemer og Prosesser for Risikostyring") og beskytte mot datatyveri som kan påvirke både [balansen](/blogs/regnskap/hva-er-balanse "Hva er Balanse? Komplett Guide til Balansens Oppbygging og Funksjon") og [årsregnskapet](/blogs/regnskap/hva-er-arsregnskap "Hva er Årsregnskap? Innhold og Krav til Regnskapsrapportering").

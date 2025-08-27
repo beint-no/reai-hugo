@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Tilbud?"
-seoTitle: "Hva er Tilbud?"
-description: 'Et **tilbud** er en forretningsproposisjon hvor en leverandør presenterer sine produkter, tjenester, priser og vilkår for en potensiell kunde. I regnskapssamm...'
+seoTitle: "Hva er tilbud? | Fra forespørsel til kontrakt og faktura"
+description: "Et tilbud er en forretningsproposisjon med priser og vilkår som kan aksepteres av kunden. Slik påvirker tilbud prosess, kontrakt og regnskapsføring."
+summary: "Kort oversikt over hva et tilbud er, tilbudsprosessen, vanlige tilbudstyper og hva som er viktig for korrekt regnskap og oppfølging."
 ---
 
 Et **tilbud** er en forretningsproposisjon hvor en leverandør presenterer sine produkter, tjenester, priser og vilkår for en potensiell kunde. I regnskapssammenheng er tilbud en viktig del av **salgsprocessen** og danner grunnlaget for kontraktsinngåelse og senere [fakturering](/blogs/regnskap/hva-er-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"). Tilbud representerer ikke bare en salgsmulighet, men også en **regnskapsmessig forpliktelse** som må håndteres i samsvar med god [regnskapsskikk](/blogs/regnskap/god-regnskapsskikk "God Regnskapsskikk - Komplett Guide til Regnskapsstandarder").

@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Timeføring? Komplett Guide til Registrering og Administrasjon av Arbeidstid"
-seoTitle: "Hva er Timeføring? Komplett Guide til Registrering og Administrasjon av Arbeidstid"
-description: '**Timeføring** er en systematisk prosess for å registrere, spore og administrere arbeidstid som ansatte bruker på ulike oppgaver, prosjekter eller kunder. I ...'
+seoTitle: "Hva er timeføring? | Registrering, lønn, faktura og analyse"
+description: "Timeføring er registrering og oppfølging av arbeidstid for lønn, fakturering og styring. Slik fungerer systemer, rapporter og integrasjoner i praksis."
+summary: "Kort guide til timeføring: begreper, lovkrav, digitale løsninger, integrasjoner og rapportering for bedre kontroll og lønnsomhet."
 ---
 
 **Timeføring** er en systematisk prosess for å registrere, spore og administrere arbeidstid som ansatte bruker på ulike oppgaver, prosjekter eller kunder. I norsk forretningssammenheng omfatter timeføring ikke bare den faktiske registreringen av timer, men også den påfølgende behandlingen av disse dataene for [lønn og personaladministrasjon](/blogs/regnskap/hva-er-lonn "Lønn og Personaladministrasjon - Komplett Guide"), [fakturering](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav"), kostnadsberegning og [prosjektstyring](/blogs/regnskap/hva-er-prosjektregnskap "Prosjektregnskap - Komplett Guide til Prosjektbasert Økonomi"). Moderne timeføring er integrert med digitale systemer som automatiserer datainnsamling og gir verdifull innsikt i produktivitet, ressursbruk og lønnsomhet.

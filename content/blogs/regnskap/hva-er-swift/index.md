@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er SWIFT?"
-seoTitle: "Hva er SWIFT?"
-description: '(**SWIFT** (Society for Worldwide Interbank Financial Telecommunication) er et globalt nettverk som muliggjør sikker utveksling av meldinger mellom finansinsti...'
+seoTitle: "Hva er SWIFT? | Internasjonale betalinger og regnskap"
+description: "SWIFT er et globalt meldingsnettverk for sikre banktransaksjoner som brukes i internasjonale betalinger og påvirker avstemming, dokumentasjon og kostnadsføring."
+summary: "En enkel forklaring av SWIFT, hvordan nettverket fungerer, vanlige meldingskoder og hva det betyr for norske bedrifters regnskapsprosesser."
 ---
 
 (**SWIFT** (Society for Worldwide Interbank Financial Telecommunication) er et globalt nettverk som muliggjør sikker utveksling av meldinger mellom finansinstitusjoner. For norske bedrifter som håndterer internasjonale transaksjoner er det avgjørende å forstå hvordan SWIFT fungerer og hvilke **regnskapsmessige implikasjoner** det har.)

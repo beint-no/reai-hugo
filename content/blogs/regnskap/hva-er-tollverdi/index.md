@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er tollverdi?"
-seoTitle: "Hva er tollverdi?"
-description: '**Tollverdi** er det grunnbeløpet som [toll](/blogs/regnskap/hva-er-toll "Hva er Toll? Komplett Guide til Tollavgifter og Regnskapsføring") beregnes av når v...'
+seoTitle: "Hva er tollverdi? | CIF, beregning, dokumentasjon og MVA"
+description: "Tollverdi er grunnlaget for beregning av toll ved import, normalt basert på CIF-verdi. Lær hva som inngår, hva som ekskluderes og hvordan du dokumenterer."
+summary: "Kort forklaring av tollverdi og hvordan den beregnes, med fokus på CIF, tilleggskostnader, dokumentasjon og konsekvenser i regnskap."
 ---
 
 **Tollverdi** er det grunnbeløpet som [toll](/blogs/regnskap/hva-er-toll "Hva er Toll? Komplett Guide til Tollavgifter og Regnskapsføring") beregnes av når varer importeres til Norge. Tollverdien er en kritisk komponent i [regnskapsføring](/blogs/regnskap/hva-er-bokforing "Hva er Bokføring? Komplett Guide til Regnskapsføring i Norge") av importkostnader og påvirker direkte bedriftens [anskaffelseskostnader](/blogs/regnskap/hva-er-anskaffelser "Hva er Anskaffelser? En Komplett Guide til Offentlige og Private Innkjøp") og [lagerverdier](/blogs/regnskap/hva-er-lagerbeholdning "Hva er Lagerbeholdning? Guide til Lagerverdsettelse og Regnskapsføring"). For bedrifter som driver med import er korrekt beregning av tollverdi avgjørende for nøyaktig kostnadskalkyle og overholdelse av tollregelverket.

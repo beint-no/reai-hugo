@@ -2,6 +2,7 @@
 title: "kryptovaluta"
 seoTitle: "kryptovaluta"
 description: '**Kryptovaluta** er digitale verdienheter basert på kryptografi og distribuert på **blokkjeder** (blockchain). Kryptovalutaer muliggjør **desentraliserte** t...'
+summary: "Grunnleggende om kryptovaluta for regnskap: hva det er, regnskapsmessig og skattemessig behandling i Norge, samt risiko og beste praksis."
 ---
 
 **Kryptovaluta** er digitale verdienheter basert på kryptografi og distribuert på **blokkjeder** (blockchain). Kryptovalutaer muliggjør **desentraliserte** transaksjoner uten behov for tradisjonelle finansinstitusjoner, og har blitt en viktig del av moderne finans- og regnskapspraksis.

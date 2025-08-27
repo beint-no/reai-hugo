@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Trygdeavgift?"
-seoTitle: "Hva er Trygdeavgift?"
-description: '**Trygdeavgift** er en fundamental del av det norske skatte- og avgiftssystemet som finansierer folketrygden og andre offentlige velferdsordninger. For bedrifte...'
+seoTitle: "Hva er trygdeavgift? | Satser, beregning og regnskapsføring"
+description: "Trygdeavgift er en obligatorisk avgift på pensjonsgivende inntekt. Lær satser, grunnlag, forskjeller mot arbeidsgiveravgift og hvordan avgiften bokføres."
+summary: "Kort forklart trygdeavgift: satser for lønn, pensjon og næring, sammenheng med arbeidsgiveravgift og praktisk bokføring."
 ---
 
 **Trygdeavgift** er en fundamental del av det norske skatte- og avgiftssystemet som finansierer folketrygden og andre offentlige velferdsordninger. For bedrifter innebærer trygdeavgift både direkte kostnader gjennom [arbeidsgiveravgift](/blogs/regnskap/hva-er-arbeidsgiveravgift "Hva er Arbeidsgiveravgift? Beregning og Regnskapsføring") og administrative forpliktelser knyttet til ansattes trygdeavgift. Systemet påvirker [lønnskostnader](/blogs/regnskap/lonnskostnad "Lønnskostnad - Komplett Guide til Beregning og Regnskapsføring"), [kontantstrøm](/blogs/regnskap/hva-er-kontantstrom "Hva er Kontantstrøm? Analyse og Forvaltning av Bedriftens Pengestrøm") og skattemessige forhold på en måte som krever grundig forståelse for korrekt regnskapsføring og compliance.

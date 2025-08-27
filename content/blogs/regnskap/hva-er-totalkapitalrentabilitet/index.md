@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Totalkapitalrentabilitet?"
-seoTitle: "Hva er Totalkapitalrentabilitet?"
-description: '**Totalkapitalrentabilitet** (Return on Total Capital) er et **nøkkeltall** som måler hvor effektivt en virksomhet bruker sin totale kapital (**totalkapitalen...'
+seoTitle: "Hva er totalkapitalrentabilitet? | Formel, eksempel og tolkning"
+description: "Totalkapitalrentabilitet måler hvor effektivt virksomheten bruker all kapital til å skape resultat før renter. Lær formel, beregning og hva tallet betyr."
+summary: "Enkelt forklart totalkapitalrentabilitet: definisjon, hvordan du beregner nøkkeltallet, og hvordan det brukes i analyse."
 ---
 
 **Totalkapitalrentabilitet** (Return on Total Capital) er et **nøkkeltall** som måler hvor effektivt en virksomhet bruker sin totale kapital (**totalkapitalen**) for å generere driftsresultat før renter. Det uttrykkes som en prosentandel og gir innsikt i hvor mange kroner i driftsresultat virksomheten oppnår per krone totalkapital.

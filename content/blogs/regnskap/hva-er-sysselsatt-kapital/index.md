@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Sysselsatt Kapital?"
-seoTitle: "Hva er Sysselsatt Kapital?"
-description: '**Sysselsatt kapital** er den totale [kapitalen](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Økonomi") som en...'
+seoTitle: "Hva er sysselsatt kapital? | Definisjon, beregning og ROCE"
+description: "Sysselsatt kapital er summen av egenkapital og rentebærende gjeld som brukes i virksomheten. Lær definisjoner, beregningsmetoder og hvordan tallet brukes i analyse."
+summary: "Kort guide til sysselsatt kapital: hva det er, hvordan det beregnes, og hvorfor det er viktig for lønnsomhet og nøkkeltall som ROCE."
 ---
 
 **Sysselsatt kapital** er den totale [kapitalen](/blogs/regnskap/hva-er-kapital "Hva er Kapital? Komplett Guide til Kapitaltyper i Regnskap og Økonomi") som en bedrift aktivt bruker i sin virksomhet for å generere inntekter og [overskudd](/blogs/regnskap/hva-er-overskudd "Hva er Overskudd? Definisjon, Beregning og Betydning i Regnskap"). Dette omfatter både [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap") og [fremmedkapital](/blogs/regnskap/hva-er-fremmedkapital "Hva er Fremmedkapital? Komplett Guide til Gjeld og Lånefinansiering") som aktivt benyttes i driften. Sysselsatt kapital er et sentralt begrep i finansiell analyse og brukes til å måle hvor effektivt et selskap bruker sine totale ressurser til å skape verdier.

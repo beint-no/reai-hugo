@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Timelønn? Komplett Guide til Timebasert Lønning og Regnskapsføring"
-seoTitle: "Hva er Timelønn? Komplett Guide til Timebasert Lønning og Regnskapsføring"
-description: '**Timelønn** er en lønnsform hvor ansatte betales basert på antall timer de faktisk arbeider, i motsetning til fast måneds- eller årslønn. I norsk arbeids...'
+seoTitle: "Hva er timelønn? | Beregning, overtid, feriepenger og regnskap"
+description: "Timelønn er lønn basert på arbeidede timer. Lær om timesats, overtid, feriepenger, skattetrekk og praktisk regnskapsføring for timelønnede."
+summary: "Kort forklaring av timelønn: hvordan det beregnes, vanlige tillegg og hva arbeidsgivere må følge opp i lønn og regnskap."
 ---
 
 **Timelønn** er en lønnsform hvor ansatte betales basert på antall timer de faktisk arbeider, i motsetning til fast måneds- eller årslønn. I norsk arbeidsmarked er timelønn særlig vanlig innenfor deltidsarbeid, sesongarbeid, ekstrahjelp og bransjer med varierende arbeidsmengde. Timelønn gir både arbeidsgivere og arbeidstakere fleksibilitet, men krever nøyaktig [timeføring](/blogs/regnskap/hva-er-timeforing "Timeføring - Komplett Guide til Registrering og Administrasjon av Arbeidstid") og forståelse av komplekse lønns- og skatteregler. For regnskapsføring innebærer timelønn særlige utfordringer knyttet til periodisering, [feriepenger](/blogs/regnskap/hva-er-feriepenger "Feriepenger - Komplett Guide til Beregning og Regnskapsføring"), sosiale kostnader og compliance med norsk arbeidsrett.

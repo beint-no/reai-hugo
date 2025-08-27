@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Tømmerkonto? En Komplett Guide til Skogbruksregnskap"
-seoTitle: "Hva er Tømmerkonto? En Komplett Guide til Skogbruksregnskap"
-description: 'En **tømmerkonto** er en spesialisert regnskapskonto som brukes innen skogbruk for å registrere og administrere inntekter fra salg av tømmer og andre skogpro...'
+seoTitle: "Hva er tømmerkonto? | Skogbruk, skatt og regnskapsføring"
+description: "Tømmerkonto er en skatteordning for skogeiere som utjevner inntekt over tid. Slik fungerer innskudd, uttak, beregning og regnskapsmessig behandling."
+summary: "Kort forklart tømmerkonto: hvem kan bruke ordningen, prosenter, frister og hvordan bokføre innskudd og uttak."
 ---
 
 En **tømmerkonto** er en spesialisert regnskapskonto som brukes innen skogbruk for å registrere og administrere inntekter fra salg av tømmer og andre skogprodukter. Denne kontoen følger særlige regler for [skattemessig](/blogs/regnskap/hva-er-skatt "Hva er Skatt? Komplett Guide til Norsk Skattesystem") behandling og [periodisering](/blogs/regnskap/hva-er-periodisering "Hva er Periodisering? Guide til Regnskapsmessig Periodisering"), og er en viktig del av [hovedboken](/blogs/regnskap/hva-er-hovedbok "Hva er Hovedbok? Grunnleggende Guide til Regnskapets Hjerte") for virksomheter i skogbrukssektoren.

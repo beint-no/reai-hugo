@@ -2,6 +2,7 @@
 title: "Kontantsalg – Komplett Guide til Regnskapsføring av Kontantsalg"
 seoTitle: "Kontantsalg “ Komplett Guide til Regnskapsføring av Kontantsalg"
 description: '**Kontantsalg** er salg av varer eller tjenester hvor **kontanter** mottas umiddelbart ved transaksjonen. Dette skiller seg fra kredittsalg, der kunden betaler ...'
+summary: "Hva kontantsalg er, krav til dokumentasjon og hvordan transaksjonen bokføres riktig i norsk regnskap med MVA og kasseoppgjør."
 ---
 
 **Kontantsalg** er salg av varer eller tjenester hvor **kontanter** mottas umiddelbart ved transaksjonen. Dette skiller seg fra kredittsalg, der kunden betaler på et senere tidspunkt. I norsk regnskap har kontantsalg både **dokumentasjonskrav** og **regnskapsmessige** konsekvenser som krever bevissthet om bokføringsregler, merverdiavgift og internkontroll.

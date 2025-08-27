@@ -2,6 +2,7 @@
 title: "Kontantkasse i Regnskap – Guide til Bruk og Håndtering"
 seoTitle: "Kontantkasse i Regnskap “ Guide til Bruk og Håndtering"
 description: '**Kontantkasse** er den fysiske boksen eller kassen som bedrifter bruker til oppbevaring og registrering av **kontanter** fra salg og andre innbetalinger. En ko...'
+summary: "Hva kontantkasse er, lovkrav, internkontroll og beste praksis for sikker håndtering og avstemming i norsk regnskap."
 ---
 
 **Kontantkasse** er den fysiske boksen eller kassen som bedrifter bruker til oppbevaring og registrering av **kontanter** fra salg og andre innbetalinger. En korrekt håndtert kontantkasse sikrer nøyaktig **bokføring**, god **internkontroll** og overholdelse av norske lovkrav. I denne guiden får du en grundig gjennomgang av hva kontantkasse er, hvilke krav og prosedyrer som gjelder, samt beste praksis for sikker håndtering.

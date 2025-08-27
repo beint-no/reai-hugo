@@ -1,7 +1,8 @@
 ﻿---
 title: "Hva er Tungt Salær?"
-seoTitle: "Hva er Tungt Salær?"
-description: '**Tungt salær** er et begrep som beskriver betydelige honorarer eller [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide ti...'
+seoTitle: "Hva er tungt salær? | Betydning, kontrakter og regnskap"
+description: "Tungt salær beskriver betydelige honorarer for komplekse oppdrag. Slik håndteres slike betalinger i kontrakter, skatt og regnskapsføring."
+summary: "Kort forklart hva tungt salær er, vanlige bruksområder, og hva som er viktig for korrekt bokføring og dokumentasjon."
 ---
 
 **Tungt salær** er et begrep som beskriver betydelige honorarer eller [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensasjon") som utbetales for spesielle tjenester eller oppdrag, og som krever særskilt oppmerksomhet i regnskapsføring og skattemessig behandling. Dette er særlig relevant innenfor juridiske tjenester, konsulentarbeid og andre profesjonelle serviceytelser hvor kompensasjonen kan være vesentlig.

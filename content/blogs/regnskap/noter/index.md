@@ -2,6 +2,7 @@
 title: "Noter"
 seoTitle: "Noter"
 description: '**Noter** er en integrert del av årsregnskapet som gir **detaljerte forklaringer** og tilleggsinformasjon til tallene i balanse, resultatregnskap og kontantstr...'
+summary: "En forståelig innføring i noter til årsregnskapet: hva de skal inneholde, lovkrav, beste praksis og hvordan de støtter balanse, resultat og kontantstrøm."
 ---
 
 **Noter** er en integrert del av årsregnskapet som gir **detaljerte forklaringer** og tilleggsinformasjon til tallene i balanse, resultatregnskap og kontantstrømoppstilling. Noter er ikke bare et lovpålagt krav, men et viktig verktøy for å sikre **transparens**, **sammenlignbarhet** og **forståelse** i finansiell rapportering.

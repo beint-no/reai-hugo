@@ -2,6 +2,7 @@
 title: "Noter (årsoppgjør)"
 seoTitle: "Noter (årsoppgjør)"
 description: '**Noter** er en integrert del av [årsregnskapet](/blogs/regnskap/hva-er-aarsregnskap "Hva er Årsregnskap? Innhold, oppbygging og lovkrav i Norge") som gir det...'
+summary: "Hva noter i årsoppgjøret er, hvilke lovkrav som gjelder, kategorier av noteopplysninger og hvordan du strukturerer gode noter i praksis."
 ---
 
 **Noter** er en integrert del av [årsregnskapet](/blogs/regnskap/hva-er-aarsregnskap "Hva er Årsregnskap? Innhold, oppbygging og lovkrav i Norge") som gir detaljerte [forklaringer](/blogs/regnskap/forklaring "Forklaring i regnskap") og tilleggsinformasjon til tallene presentert i balansen, resultatregnskapet og kontantstrømoppstillingen. Noter til årsoppgjøret er ikke bare en lovpålagt rapporteringskomponent, men også et kritisk verktøy for å sikre **transparens** og **forståelse** av selskapets økonomiske stilling og resultater.
