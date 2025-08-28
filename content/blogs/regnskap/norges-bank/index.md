@@ -1,6 +1,6 @@
----
+﻿---
 title: "Norges Bank"
-seoTitle: "Norges Bank"
+seoTitle: "Norges Bank | Sentralbanken i Norge"
 description: 'Norges Bank er Norges sentralbank og ansvarlig for å gjennomføre pengepolitikken, utstede norske kroner, forvalte valutareserver og sikre finansiell s...'
 summary: "Hva Norges Bank gjør, historiske milepæler og hvordan beslutningene påvirker renter, inflasjon og regnskap."
 ---

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Nicolai Tangen – Norges Bank Investment Management og Norsk Regnskap"
-seoTitle: "Nicolai Tangen “ Norges Bank Investment Management og Norsk Regnskap"
+seoTitle: "Nicolai Tangen | NBIM og norsk regnskap"
 description: 'Nicolai Tangen er administrerende direktør i Norges Bank Investment Management (NBIM) og ansvarlig for forvaltningen av Statens pensjonsfond utland (of...'
 summary: "Kort om Nicolai Tangens rolle i NBIM, innflytelse på investering, bærekraft og regnskapspraksis."
 ---
