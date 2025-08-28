@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Utkontraktering?"
-seoTitle: "Hva er Utkontraktering?"
-description: 'Utkontraktering er en forretningsstrategi hvor virksomheter overlater spesifikke oppgaver, funksjoner eller prosesser til eksterne leverandører. Dette kan ...'
+seoTitle: "Utkontraktering | Hva er det? Fordeler, risiko og prosess"
+description: "Utkontraktering innebærer at en virksomhet lar en ekstern leverandør utføre oppgaver eller prosesser som ellers gjøres internt. Lær om typer outsourcing, fordeler, risikoer, kontrakter og beste praksis for gjennomføring."
 summary: "Kort forklaring av utkontraktering, fordeler, risiko og prosess for bedrifter."
 ---
 

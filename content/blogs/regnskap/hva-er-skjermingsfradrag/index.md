@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er Skjermingsfradrag?"
-seoTitle: "Hva er Skjermingsfradrag?"
-description: 'Skjermingsfradrag er en viktig skattemessig regel som gir aksjonærer fradrag for alternativkostnaden ved å investere egenkapital i et aksjeselskap fremfor...'
-summary: "Skjermingsfradrag gir aksjonærer fradrag for normalavkastning på egenkapital, slik at bare meravkastning beskattes ved utbytte og aksjegevinster."
+seoTitle: "Skjermingsfradrag | Hva er det? Guide for aksjonærer"
+description: "Skjermingsfradrag forklarer hvordan normalavkastning på aksjeinvesteringer skjermes fra beskatning slik at kun meravkastning beskattes. Lær hva skjermingsgrunnlag og skjermingsrente er, hvordan fradraget beregnes og hvordan det påvirker utbytte og gevinster."
+summary: "Skjermingsfradrag er fradrag for normalavkastning på egenkapital, slik at bare meravkastning beskattes ved utbytte og aksjegevinster."
 ---
 
 **Skjermingsfradrag** er en viktig skattemessig regel som gir aksjonærer fradrag for alternativkostnaden ved å investere egenkapital i et aksjeselskap fremfor å plassere pengene i en sikker renteinvestering. Dette fradraget sikrer at aksjonærer ikke beskattes for normalavkastning, men kun for **meravkastning** utover en risikofri rente. Skjermingsfradraget er særlig relevant for [utbytte](/blogs/regnskap/hva-er-utbytte "Hva er Utbytte? Regnskapsføring og Skattemessige Konsekvenser") og gevinster ved salg av aksjer, og påvirker både [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Definisjon og Rolle i Selskapets Balanse") og [skatteplanlegging](/blogs/regnskap/hva-er-skatt "Skatt - Komplett Guide til Bedriftsskatt, MVA og Skatteplanlegging") på en fundamental måte.

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Yield?"
-seoTitle: "Hva er Yield?"
-description: 'Yield er et finansielt nøkkeltall som måler den årlige avkastningen på en investering uttrykt som en prosentandel av investeringens markedsverdi. De...'
+seoTitle: "Yield | Hva er det? Typer og beregning"
+description: "Yield er et nøkkeltall som viser årlig avkastning på en investering som prosent av markedsverdi eller bokført verdi. Lær om dividend yield, obligasjonsyield, earnings yield og hvordan yield beregnes i praksis."
 summary: "Forklarer hva yield er, typer yield og hvordan beregninger brukes i finans og regnskap."
 ---
 

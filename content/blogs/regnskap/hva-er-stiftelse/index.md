@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Stiftelse?"
-seoTitle: "Hva er Stiftelse?"
-description: 'Stiftelse er en juridisk selvstendig organisasjonsform som etableres for å fremme bestemte formål av allmennyttig, vitenskapelig, kulturell eller veldedig...'
+seoTitle: "Stiftelse | Hva er det? Regler og regnskap"
+description: "En stiftelse er en selveiende juridisk person uten eiere, opprettet for å fremme et bestemt formål. Les om juridisk rammeverk, kapital og forvaltning, krav til regnskap og revisjon, samt skatt og styring for norske stiftelser."
 summary: "Stiftelse er en selveiende juridisk person uten eiere, opprettet for et formål, med særlige regler for kapital, regnskap, skatt og styring."
 ---
 

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Internrente?"
-seoTitle: "Hva er Internrente?"
-description: 'Internrente (IRR, Internal Rate of Return) er den diskonteringsrenten som setter netto nåverdi (NPV) av en investering til null. Internrenten gir et mål p...'
+seoTitle: "Internrente (IRR) | Definisjon og beregning"
+description: "Internrente er den diskonteringsrenten som setter netto nåverdi til null og viser forventet årlig avkastning i prosent. Lær hvordan IRR beregnes, fordeler og begrensninger, og sammenligning med NPV."
 summary: "Definisjon av internrente (IRR), beregning, fordeler, begrensninger og sammenligning med NPV."
 ---
 

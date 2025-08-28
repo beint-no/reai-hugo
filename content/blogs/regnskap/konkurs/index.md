@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Konkurs?"
-seoTitle: "Hva er Konkurs?"
-description: 'Konkurs er en juridisk prosess som igangsettes når en virksomhet ikke kan betale sine forpliktelser, og har som mål å realisere eiendeler, dekke kreditor...'
+seoTitle: "Konkurs | Prosess, regler og regnskapskonsekvenser"
+description: "Konkurs er en rettslig prosess ved insolvens for å realisere eiendeler og fordele midler til kreditorer. Få oversikt over stegene i prosessen, relevant lovverk og regnskapsmessige konsekvenser."
 summary: "En enkel gjennomgang av konkurs: prosessen steg for steg, juridisk rammeverk, regnskapsmessige konsekvenser og vanlige årsaker."
 ---
 
