@@ -1,7 +1,7 @@
----
+﻿---
 title: "Offentlig tjenestepensjon"
 seoTitle: "Offentlig tjenestepensjon"
-description: '!Offentlig tjenestepensjon'
+description: 'Offentlig tjenestepensjon er pensjonsordninger i stat og kommune. Lær hvordan ordningene fungerer, forskjeller mot OTP og de viktigste regnskapsmessige konsekvensene.'
 summary: "Hva offentlig tjenestepensjon er, hvordan ordningene fungerer i stat og kommune, og hvilke regnskapsmessige konsekvenser og forskjeller mot private løsninger som OTP man bør kjenne til."
 ---
 

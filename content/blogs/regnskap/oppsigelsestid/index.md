@@ -1,7 +1,7 @@
----
+﻿---
 title: "Oppsigelsestid"
 seoTitle: "Oppsigelsestid"
-description: '!Oppsigelsestid'
+description: 'Oppsigelsestid er perioden fra oppsigelse til arbeidsforholdet avsluttes. Lær lovkrav etter arbeidsmiljøloven, beregning etter ansiennitet og hva som må håndteres i lønn og regnskap.'
 summary: "Oppsigelsestid er perioden fra oppsigelse til arbeidsforholdet avsluttes. Lær lovkrav etter arbeidsmiljøloven, beregning etter ansiennitet og hva som må håndteres i lønn og regnskap."
 ---
 
