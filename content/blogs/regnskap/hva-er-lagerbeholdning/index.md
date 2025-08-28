@@ -1,6 +1,6 @@
----
+﻿---
 title: "Hva er lagerbeholdning?"
-seoTitle: "Hva er lagerbeholdning?"
+seoTitle: "Lagerbeholdning | Definisjon, verdivurdering og lagerstyring"
 description: 'Lagerbeholdning er verdien av alle varer og materialer som en bedrift har på lager til enhver tid, og som er ment for salg eller produksjon. I regnskapet k...'
 summary: "Definisjon av lagerbeholdning, vanlige verdivurderingsmetoder, lagerstyring og hvordan lager påvirker kontantstrøm, kostnader og regnskap."
 ---

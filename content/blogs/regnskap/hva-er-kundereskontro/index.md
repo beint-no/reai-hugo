@@ -1,6 +1,6 @@
----
+﻿---
 title: "Hva er kundereskontro?"
-seoTitle: "Hva er kundereskontro?"
+seoTitle: "Kundereskontro | Definisjon, innhold og bruk i regnskap"
 description: 'Kundereskontro er et detaljert register som viser alle økonomiske transaksjoner mellom bedriften og hver enkelt kunde. Dette er en underreskontro til [...'
 summary: "Hva kundereskontro er, hva den inneholder, hvordan den brukes i oppfølging av kundefordringer, og sammenhengen med hovedbok og likviditetsstyring."
 ---
