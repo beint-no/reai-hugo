@@ -1,7 +1,7 @@
----
+﻿---
 title: "Inngående Faktura"
-seoTitle: "Inngående Faktura"
-description: 'En inngående faktura er en faktura som bedriften mottar fra lever...'
+seoTitle: "Inngående faktura | Prosess, kontroll og bokføring"
+description: "En inngående faktura er en faktura bedriften mottar fra leverandører for varer og tjenester. Lær hele prosessen fra mottak og kontroll til godkjenning, bokføring og betaling."
 summary: "Hva en inngående faktura er, prosessen fra mottak til bokføring og beste praksis."
 ---
 

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Investering?"
-seoTitle: "Hva er Investering?"
-description: 'Investering er handlingen av å allokere kapital med forventning om fremtidig [avkastning](/blogs/regnskap/hva-er-avkastning "Hva er Avkastning? Komplett Gu...'
+seoTitle: "Investering | Typer, måling og risiko i regnskap"
+description: "Investering er å allokere kapital med forventning om fremtidig avkastning. Lær om investeringstyper, måling, regnskapsføring, rapportering og risiko."
 summary: "Hva investering er i regnskap, typer investeringer, måling, rapportering og risiko."
 ---
 

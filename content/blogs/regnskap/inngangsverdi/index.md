@@ -1,7 +1,7 @@
----
+﻿---
 title: "Inngangsverdi"
-seoTitle: "Inngangsverdi"
-description: 'En inngangsverdi er den samlede kostprisen for en eiendel ved anskaffelsestidspunktet. Denne verdien danner grunnlag for avskrivninger, gevinst- og taps...'
+seoTitle: "Inngangsverdi | Definisjon og beregning"
+description: "Inngangsverdi er samlet kostpris for en eiendel ved anskaffelse og danner grunnlag for avskrivninger, gevinst- og tapsberegning og skattemessig behandling."
 summary: "Definisjon av inngangsverdi, hva den består av, beregningseksempler og skattemessig relevans."
 ---
 

@@ -1,7 +1,7 @@
----
-title: "inngaaende-mva"
-seoTitle: "inngaaende-mva"
-description: 'Inngående mva er den merverdiavgiften en virksomhet betaler på kjøp av varer og tjenester, som senere kan fradragsføres i regnskapet dersom visse kr...'
+﻿---
+title: "Hva er inngående MVA?"
+seoTitle: "Inngående MVA | Definisjon, beregning og bokføring"
+description: "Inngående MVA er merverdiavgiften virksomheten betaler på kjøp av varer og tjenester. Lær hvordan inngående MVA beregnes, dokumentasjonskravene og riktig bokføring i regnskapet."
 summary: "Definisjon av inngående mva, beregning, dokumentasjonskrav og bokføring i regnskap."
 ---
 

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Innovasjon"
-seoTitle: "Innovasjon"
-description: 'Innovasjon er en kritisk driver for langsiktig vekst og konkurranseevne i norske virksomheter. I regnskapssammenheng innebærer innovasjon både behandling ...'
+seoTitle: "Innovasjon | I regnskap: aktivering og regelverk"
+description: "Innovasjon er en kritisk driver for langsiktig vekst og konkurranseevne i norske virksomheter. I regnskapssammenheng innebærer innovasjon både behandling av utviklingskostnader som immaterielle eiendeler og strategisk rapportering av FoU-investeringer."
 summary: "Hva innovasjon betyr i regnskap, aktivering av utviklingskostnader og relevant regelverk."
 ---
 

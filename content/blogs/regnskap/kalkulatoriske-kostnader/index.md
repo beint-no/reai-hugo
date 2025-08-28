@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Kalkulatoriske kostnader?"
-seoTitle: "Hva er Kalkulatoriske kostnader?"
-description: '!Illustrasjon som viser kalkulatoriske kostnader'
+seoTitle: "Kalkulatoriske kostnader | Typer og beregning"
+description: "Kalkulatoriske kostnader er implisitte kostnader for bruk av egne ressurser uten kontantutbetaling. Lær typer, formål og hvordan de beregnes."
 summary: "Hva kalkulatoriske kostnader er, typer, hvorfor de brukes og hvordan de beregnes."
 ---
 

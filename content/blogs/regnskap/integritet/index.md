@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Integritet i Regnskap?"
-seoTitle: "Hva er Integritet i Regnskap?"
-description: 'Integritet i norsk regnskap handler om evnen til å opprettholde pålitelighet, troverdighet og etisk seriøsitet i all finansiell rapportering ...'
+seoTitle: "Integritet i regnskap | Betydning og hvordan sikre den"
+description: "Integritet i norsk regnskap handler om evnen til å opprettholde pålitelighet, troverdighet og etisk seriøsitet i all finansiell rapportering og dokumentasjon."
 summary: "Betydningen av integritet i regnskap, hvorfor det er viktig og hvordan virksomheter sikrer den."
 ---
 

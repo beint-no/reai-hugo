@@ -1,7 +1,7 @@
----
+﻿---
 title: "Indeksfond"
-seoTitle: "Indeksfond"
-description: '!Indeksfond'
+seoTitle: "Indeksfond | Hva det er, fordeler og kostnader"
+description: "Indeksfond er passivt forvaltede fond som følger en markedsindeks. Lær hva indeksfond er, hvilke fordeler og ulemper de har, typiske kostnader og hvordan du kommer i gang."
 summary: "Hva indeksfond er, fordeler og ulemper, kostnader og hvordan komme i gang."
 ---
 
