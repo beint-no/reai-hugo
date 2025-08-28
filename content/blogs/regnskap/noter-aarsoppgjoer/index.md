@@ -1,7 +1,7 @@
----
+﻿---
 title: "Noter (årsoppgjør)"
-seoTitle: "Noter (årsoppgjør)"
-description: 'Noter er en integrert del av årsregnskapet som gir det...'
+seoTitle: "Noter (årsoppgjør) | Krav, kategorier og beste praksis"
+description: "Noter er en integrert del av årsregnskapet som gir detaljerte forklaringer og tilleggsinformasjon. Lær lovkrav, kategorier av noteopplysninger og hvordan du strukturerer gode noter i praksis."
 summary: "Hva noter i årsoppgjøret er, hvilke lovkrav som gjelder, kategorier av noteopplysninger og hvordan du strukturerer gode noter i praksis."
 ---
 

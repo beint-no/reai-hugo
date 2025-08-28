@@ -1,7 +1,7 @@
----
+﻿---
 title: "Moms på mat"
-seoTitle: "Moms på mat"
-description: 'Moms på mat er et komplekst tema innen norsk merverdiavgift (MVA), der ulike typer matvarer og serveringstjenester har forskjellige satser, unntak og s...'
+seoTitle: "Moms på mat | MVA-satser, unntak og bokføring"
+description: "Moms på mat er et komplekst tema innen norsk merverdiavgift (MVA), der ulike typer matvarer og serveringstjenester har forskjellige satser, unntak og spesielle regler. Få oversikt over satser, fritak og praktiske råd for korrekt bokføring og dokumentasjon."
 summary: "Moms på mat: oversikt over MVA‑satser for dagligvarer, serveringsmat og spesialprodukter, med unntak, fritak og praktiske råd for korrekt bokføring og dokumentasjon."
 ---
 

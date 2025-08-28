@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er næringsspesifikasjon?"
-seoTitle: "Hva er næringsspesifikasjon?"
-description: 'Næringsspesifikasjon er et fundamentalt konsept i norsk regnskap som omfatt...'
+seoTitle: "Næringsspesifikasjon | Definisjon, NACE-koder og MVA"
+description: "Næringsspesifikasjon er klassifisering og spesifisering av virksomhetens aktiviteter for korrekt regnskap, skatt og rapportering. Få oversikt over NACE‑koder, bransjeregler, rapporteringskrav og MVA‑behandling."
 summary: "Definisjon av næringsspesifikasjon, NACE-koder, bransjeregler, MVA og praktisk implementering."
 ---
 

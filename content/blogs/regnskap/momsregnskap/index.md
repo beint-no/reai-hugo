@@ -1,7 +1,7 @@
----
+﻿---
 title: "Momsregnskap - Komplett Guide til MVA-regnskapsføring"
-seoTitle: "Momsregnskap - Komplett Guide til MVA-regnskapsføring"
-description: 'Momsregnskap er det systematiske arbeidet med å registrere, beregne og rapportere merverdiavgift (MVA) i bedriftens [regnskap](/blogs/regnskap/hva-er-regns...'
+seoTitle: "Momsregnskap | Komplett guide til MVA‑regnskapsføring"
+description: "Momsregnskap er systematisk registrering, beregning og rapportering av merverdiavgift (MVA) i bedriftens regnskap. Lær kontoplan, bokføring, MVA‑oppgjør, frister, internkontroll og vanlige feil å unngå."
 summary: "Momsregnskap forklarer hvordan du registrerer, beregner og rapporterer MVA. Få oversikt over kontoplan, bokføring, MVA‑oppgjør, frister, internkontroller og vanlige feil bedrifter bør unngå."
 ---
 

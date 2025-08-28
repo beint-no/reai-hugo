@@ -1,7 +1,7 @@
----
+﻿---
 title: "Naturalytelser"
-seoTitle: "Naturalytelser"
-description: 'Naturalytelser er ytelser som arbeidstaker mottar fra arbeidsgiver i form av varer eller tjenester i stedet for kontantlønn. Disse goder kan ha betydelig Ã...'
+seoTitle: "Naturalytelser | Typer, skatt og regnskapsføring"
+description: "Naturalytelser er ytelser fra arbeidsgiver i form av varer eller tjenester i stedet for kontantlønn. Lær om typiske naturalytelser, fordelsbeskatning, verdisetting, rapportering og regnskapsføring."
 summary: "Hva naturalytelser er, typiske ytelser, skattemessig behandling og regnskapsføring."
 ---
 

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Normrente?"
-seoTitle: "Hva er Normrente?"
-description: 'Normrente er den referanserenten som fastsettes av Skattedirektoratet for skattemessige og regnskapsmessige formål. Normrenten benyttes blant annet ved...'
+seoTitle: "Normrente | Definisjon, fastsettelse og bruk"
+description: "Normrente er referanserenten fastsatt av Skattedirektoratet til skattemessige og regnskapsmessige formål. Lær hvordan normrente fastsettes, brukes og skiller seg fra andre rentesatser."
 summary: "Hva normrente er, hvordan den fastsettes, brukes og skiller seg fra andre rentesatser."
 ---
 

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Norsk standard (regnskap)"
-seoTitle: "Norsk standard (regnskap)"
-description: 'Norske regnskapsstandarder utgjør det juridiske og tekniske rammeverket som regulerer finansiell rapportering i Norge. Dette omfattende systemet sikrer kon...'
+seoTitle: "Norsk standard (regnskap) | Oversikt og krav"
+description: "Norske regnskapsstandarder utgjør rammeverket som regulerer finansiell rapportering i Norge. Lær om struktur, hierarki, forholdet til IFRS og god regnskapsskikk, og hva ulike foretak må forholde seg til."
 summary: "Oversikt over norske regnskapsstandarder: struktur, hierarki, forholdet til IFRS og god regnskapsskikk, og hva ulike foretak må forholde seg til."
 ---
 

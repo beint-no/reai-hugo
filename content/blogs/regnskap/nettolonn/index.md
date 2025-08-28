@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Nettolønn?"
-seoTitle: "Hva er Nettolønn?"
-description: 'Nettolønn er beløpet en ansatt mottar etter at alle lovpålagte fradrag, skatter og avgifter er trukket fra [bruttolønnen](/blogs/regnskap/hva-er-bruttol...'
+seoTitle: "Nettolønn | Definisjon, beregning og eksempel"
+description: "Nettolønn er utbetalt lønn etter skattetrekk, trygdeavgift, pensjonsinnskudd og andre trekk. Se beregningsformel, eksempel og vanlige spørsmål."
 summary: "Definisjon av nettolønn, beregningsformel, eksempel og vanlige spørsmål."
 ---
 
