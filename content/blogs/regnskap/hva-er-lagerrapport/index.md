@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er en lagerrapport?"
 seoTitle: "Lagerrapport | Typer, innhold og verdivurdering"
-description: 'En lagerrapport er et systematisk dokument som gir en detaljert oversikt over bedriftens lagerbeholdning på et gitt tidspunkt. Den fungerer som et kritisk ...'
+description: 'En lagerrapport gir en detaljert oversikt over lagerbeholdningen på et gitt tidspunkt. Artikkelen forklarer typer rapporter, innhold, verdivurdering, juridiske krav og hvordan digitalisering forbedrer kontroll og regnskap.'
 summary: "Oversikt over hva en lagerrapport er, typer rapporter, innhold, verdivurdering og hvordan digitalisering forbedrer kontroll, regnskap og styring."
 ---
 

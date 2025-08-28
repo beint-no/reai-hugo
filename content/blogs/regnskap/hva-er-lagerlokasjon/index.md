@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er Lagerlokasjon?"
 seoTitle: "Lagerlokasjon | Systemer, koding og effektiv lagerstyring"
-description: 'Lagerlokasjon er den spesifikke plasseringen av varer og produkter i et lager eller varelager. Dette omfatter både den fysiske posisjonen og den digitale r...'
+description: 'Lagerlokasjon er den spesifikke plasseringen av varer i lageret, både fysisk og digitalt. Artikkelen forklarer systemer, koding, internkontroll og hvordan god lokasjonsstyring forbedrer effektivitet og regnskapsnøyaktighet.'
 summary: "Hva lagerlokasjon betyr, ulike systemer og koding, samt hvordan god lokasjonsstyring forbedrer effektivitet, sporbarhet og regnskapsnøyaktighet."
 ---
 

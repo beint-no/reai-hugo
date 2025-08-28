@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er Fjernleverbare Tjenester i Regnskap?"
 seoTitle: "Hva er Fjernleverbare Tjenester i Regnskap? | MVA og bokføring"
-description: 'Fjernleverbare tjenester er tjenester som kan leveres elektronisk over internett uten at leverandøren og kunden trenger å være fysisk til stede på samme...'
+description: 'Fjernleverbare tjenester er tjenester som kan leveres elektronisk uten fysisk møte mellom leverandør og kunde. Artikkelen forklarer definisjon, eksempler, MVA-regler for B2B og B2C samt riktig bokføring.'
 summary: 'Forklaring av fjernleverbare tjenester, eksempler, MVA-regler (B2B/B2C) og riktig bokføring med praktiske eksempler.'
 ---
 

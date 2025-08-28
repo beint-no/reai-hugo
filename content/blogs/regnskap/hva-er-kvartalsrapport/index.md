@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er kvartalsrapport?"
 seoTitle: "Kvartalsrapport | Hva det er og hva den inneholder"
-description: 'En kvartalsrapport er en finansiell rapport som selskaper utarbeider og publiserer hver tredje måned for å gi interessenter oppdatert informasjon om selsk...'
+description: 'En kvartalsrapport er en finansiell rapport som utarbeides hver tredje måned for å gi oppdatert informasjon om selskapets resultater, balanse og kontantstrøm. Artikkelen forklarer krav, innhold, frister og praktisk bruk.'
 summary: "Hva en kvartalsrapport er, hvem som må rapportere, hva rapporten inneholder og hvordan tallene brukes til analyse, styring og kommunikasjon."
 ---
 

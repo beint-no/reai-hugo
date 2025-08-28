@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er lagerkorreksjon?"
 seoTitle: "Lagerkorreksjon | Årsaker, prosess og bokføring"
-description: 'Lagerkorreksjon er en regnskapsmessig justering som gjøres for å korrigere avvik mellom det registrerte lageret i regnskapssystemet og det faktiske fysisk...'
+description: 'Lagerkorreksjon er en regnskapsmessig justering for å korrigere avvik mellom registrert og faktisk lager. Artikkelen forklarer årsaker, prosess, verdivurdering og bokføring, samt hvordan gode rutiner og teknologi reduserer avvik.'
 summary: "Hva lagerkorreksjon er, vanlige årsaker til avvik, prosess og bokføring, og hvordan gode rutiner og teknologi sikrer korrekt lagerverdi."
 ---
 
