@@ -1,6 +1,6 @@
----
+﻿---
 title: "Hva er Saldoavskrivning i Regnskap?"
-seoTitle: "Hva er Saldoavskrivning i Regnskap?"
+seoTitle: "Saldoavskrivning | Beregning, satser og eksempler"
 description: 'Saldoavskrivning er en av de mest brukte avskrivningsmetodene i norsk regnskap, hvor [anleggsmidler](/blogs/regnskap/hva-er-anleggsmidler "Hva er Anleggsmid...'
 summary: "Saldoavskrivning er en degressiv avskrivningsmetode der eiendeler avskrives med en fast prosentsats av gjenstående bokført verdi, med høyere kostnad tidlig og lavere senere."
 ---

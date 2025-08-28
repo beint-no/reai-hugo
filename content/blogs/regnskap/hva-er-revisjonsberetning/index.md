@@ -1,6 +1,6 @@
----
+﻿---
 title: "Revisjonsberetning"
-seoTitle: "Revisjonsberetning"
+seoTitle: "Revisjonsberetning | Innhold, typer og krav i Norge"
 description: 'Revisjonsberetning er den offisielle rapporten som en revisor utarbeider etter fullført revisjon for å uttrykke sin mening om om årsregnskapet er utarbei...'
 summary: "Revisjonsberetningen er revisors rapport som konkluderer om årsregnskapet er korrekt, med eventuell konklusjon, forbehold og informasjon for regnskapets brukere."
 ---
