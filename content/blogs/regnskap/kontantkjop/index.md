@@ -1,8 +1,8 @@
----
+﻿---
 title: "Kontantkjøp – Komplett Guide til Regnskapsføring av Kontantkjøp"
-seoTitle: "Kontantkjøp “ Komplett Guide til Regnskapsføring av Kontantkjøp"
-description: 'Kontantkjøp er direkte betaling med kontanter for varer eller tjenester som skjer umiddelbart ved transaksjonen. Dette skiller seg fra kredittkjøp, hv...'
-summary: "Forklaring av kontantkjøp: dokumentasjonskrav, eksempler og korrekt bokføring med MVA etter norske regler."
+seoTitle: "Kontantkjøp | Komplett guide til regnskapsføring"
+description: "Kontantkjøp er direkte betaling med kontanter ved kjøp av varer eller tjenester. Lær dokumentasjonskrav, riktig bokføring og MVA‑behandling i norsk regnskap."
+summary: "Hva kontantkjøp er, krav til dokumentasjon, eksempler og korrekt bokføring med MVA i norsk regnskap."
 ---
 
 **Kontantkjøp** er direkte betaling med **kontanter** for varer eller tjenester som skjer umiddelbart ved transaksjonen. Dette skiller seg fra kredittkjøp, hvor betaling skjer på et senere tidspunkt. I norsk regnskap har kontantkjøp både **regnskapsmessige** og **dokumentasjonsmessige** konsekvenser som krever bevissthet rundt bokføringskrav, merverdiavgift og internkontroll.

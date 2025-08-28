@@ -1,7 +1,7 @@
----
+﻿---
 title: "Kontantprinsippet"
-seoTitle: "Kontantprinsippet"
-description: 'Kontantprinsippet er et regnskapsprinsipp hvor inntekter og utgifter bokføres når kontanter faktisk mottas eller betales, i motsetning til periodi...'
+seoTitle: "Kontantprinsippet | Regler, forskjeller og eksempler"
+description: "Kontantprinsippet betyr at inntekter og utgifter bokføres når kontanter mottas eller betales. Lær forskjellen mot periodisering og se praktiske eksempler for riktig bokføring."
 summary: "Forklaring av kontantprinsippet i regnskap, forskjellen mot periodisering og praktiske eksempler for riktig bokføring."
 ---
 

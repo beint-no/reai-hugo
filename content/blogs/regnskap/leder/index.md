@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Leder?"
-seoTitle: "Hva er Leder?"
-description: 'Leder er en sentral rolle i norske selskaper med ansvar for drift, økonomi og internkontroll. Rollen dekker ulike posisjoner som styreleder...'
+seoTitle: "Leder | Roller, ansvar og internkontroll"
+description: "Leder er en sentral rolle i selskaper med ansvar for drift, økonomi og internkontroll. Lær om styreleder, daglig leder og andre nøkkelroller, ansvar og god selskapsstyring."
 summary: "Oversikt over lederroller, ansvar og krav til god selskapsstyring og internkontroll."
 ---
 

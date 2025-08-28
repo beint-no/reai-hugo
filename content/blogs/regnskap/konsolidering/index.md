@@ -1,8 +1,8 @@
----
+﻿---
 title: "Konsolidering"
-seoTitle: "Konsolidering"
-description: 'Konsolidering er prosessen med å utarbeide ett samlet [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukt...'
-summary: "Hva konsolidering er, sentrale prinsipper og elimineringer, minoritetsinteresser og relevant regelverk for konsernregnskap."
+seoTitle: "Konsolidering | Konsernregnskap, elimineringer og IFRS"
+description: "Konsolidering er prosessen med å utarbeide ett samlet konsernregnskap for flere selskaper under felles kontroll, inkludert eliminering av interne transaksjoner og håndtering av minoritetsinteresser i tråd med relevante standarder."
+summary: "Hva konsolidering er, sentrale prinsipper, elimineringer, minoritetsinteresser og relevant regelverk for konsernregnskap."
 ---
 
 **Konsolidering** er prosessen med å utarbeide ett samlet [konsernregnskap](/blogs/regnskap/hva-er-konsern "Hva er et Konsern? Komplett Guide til Konsernstrukturer og Konsolidering") for flere selskaper som står under felles kontroll. Det innebærer **sammenstilling** av regnskaper, **eliminering** av interne transaksjoner og **justering** for minoritetsinteresser.

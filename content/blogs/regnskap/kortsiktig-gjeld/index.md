@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Kortsiktig Gjeld?"
-seoTitle: "Hva er Kortsiktig Gjeld?"
-description: 'Kortsiktig gjeld er en fundamental komponent i regnskapsføring som representerer virksomhetens forpliktelser som forfaller til betaling innen ett år fra b...'
+seoTitle: "Kortsiktig gjeld | Definisjon, typer og regnskapsføring"
+description: "Kortsiktig gjeld er forpliktelser som forfaller innen 12 måneder. Lær hovedtyper, beregninger og korrekt regnskapsføring for bedre likviditetsstyring."
 summary: "Definisjon og regnskapsføring av kortsiktig gjeld: hovedtyper som leverandørgjeld, skattegjeld og kortsiktige lån, samt nøkkeltall for likviditet og arbeidskapital."
 ---
 
