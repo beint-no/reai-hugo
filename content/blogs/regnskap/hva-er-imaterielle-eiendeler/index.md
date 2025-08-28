@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er imaterielle eiendeler?"
-seoTitle: "Hva er imaterielle eiendeler?"
-description: 'Imaterielle eiendeler er eiendeler som mangler fysisk form, men so...'
+seoTitle: "Imaterielle eiendeler | Definisjon, eksempler og regnskapsføring"
+description: "Imaterielle eiendeler er ikke-fysiske ressurser som patenter, varemerker og programvare. Lær definisjon, eksempler, verdsettelse og regnskapsføring i Norge."
 summary: "Hva imaterielle eiendeler er, typiske eksempler og hvordan de verdsettes og føres i regnskapet."
 ---
 

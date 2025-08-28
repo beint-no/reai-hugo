@@ -1,7 +1,7 @@
----
-title: "hva-er-kundeliste"
-seoTitle: "hva-er-kundeliste"
-description: 'En kundeliste er et systematisk register over alle kunder som et foretak har forretningsforhold med. Dette er et grunnleggende verktøy innen regnskap og ku...'
+﻿---
+title: "Hva er en kundeliste?"
+seoTitle: "Kundeliste | Definisjon, innhold og bruk i regnskap"
+description: "En kundeliste er et systematisk register over foretakets kunder med nøkkeldata for fakturering, oppfølging og analyse. Lær hva en kundeliste er, hvilket innhold den bør ha og hvordan den brukes i regnskap."
 summary: "Hva en kundeliste er, hvordan den brukes i regnskap og kundeadministrasjon, og hvilke data som gir bedre oppfølging, kredittstyring og rapportering."
 ---
 

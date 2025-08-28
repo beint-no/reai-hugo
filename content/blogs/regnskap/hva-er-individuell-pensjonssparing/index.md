@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Individuell Pensjonssparing (IPS)?"
-seoTitle: "Hva er Individuell Pensjonssparing (IPS)?"
-description: '!Illustrasjon av Individuell Pensjonssparing'
+seoTitle: "Individuell pensjonssparing (IPS) | Fordeler, regler og skatt"
+description: "Individuell pensjonssparing (IPS) er en frivillig spareordning med skattefradrag. Lær om fordeler, regler for innskudd og uttak, og hvordan IPS beskattes."
 summary: "Hva IPS er, skattefordeler, regler for uttak og hvordan ordningen påvirker personlig økonomi."
 ---
 

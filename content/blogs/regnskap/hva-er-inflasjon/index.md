@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Inflasjon?"
-seoTitle: "Hva er Inflasjon?"
-description: 'For en helhetlig oversikt over økonomiens store mekanismer, se [Makroøkonomi](/blogs/regnskap/makrookonomi "Makroøkonomi: Prinsipper og Betydning for Norsk...'
+seoTitle: "Inflasjon | Definisjon, måling (KPI) og effekter i regnskap"
+description: "Inflasjon er vedvarende prisstigning målt blant annet med KPI. Lær hva inflasjon er, hvordan den måles i Norge, og hvilke effekter den har på regnskap, resultat og investeringer."
 summary: "Hva inflasjon er, hvordan den måles i Norge og hvilke effekter prisstigning har på regnskap, resultat og investeringer."
 ---
 

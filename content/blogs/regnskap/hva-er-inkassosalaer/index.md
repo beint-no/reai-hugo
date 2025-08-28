@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er inkassosalær?"
-seoTitle: "Hva er inkassosalær?"
-description: 'Inkassosalær er den kompensasjonen som inkassoselskaper og advokater mottar for å drive inn forfalte fordringer på vegne av kreditorer. Dette omfatter bÃ...'
+seoTitle: "Inkassosalær | Gebyrer, satser og lovlige kostnader"
+description: "Inkassosalær er kompensasjonen inkassoselskaper og advokater mottar ved innkreving av fordringer. Lær hvilke gebyrer som er lovlige, satser og beregning."
 summary: "Hva inkassosalær er, hvordan gebyrene beregnes etter norske regler og hva som er lovlige kostnader."
 ---
 

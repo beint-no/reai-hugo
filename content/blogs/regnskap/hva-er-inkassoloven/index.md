@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er inkassoloven?"
-seoTitle: "Hva er inkassoloven?"
-description: 'Inkassoloven er Norges sentrale lovgivning som regulerer inkassovirksomhet og beskytter skyldnere mot urettmessig behandling. Loven, formelt kjent som "Lov ...'
+seoTitle: "Inkassoloven | Regler, gebyrer og skyldnerrettigheter"
+description: "Inkassoloven regulerer inkassovirksomhet i Norge og beskytter skyldnere mot urimelig behandling. Lær hovedregler, gebyrer, frister og rettigheter."
 summary: "Oversikt over inkassoloven: formål, krav, frister, gebyrer og hvilke rettigheter skyldnere og plikter kreditorer har."
 ---
 
