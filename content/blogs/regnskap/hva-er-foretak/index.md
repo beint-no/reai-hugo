@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er et Foretak?"
-seoTitle: "Hva er et Foretak?"
-description: 'Et foretak er en organisert virksomhet som driver økono...'
+seoTitle: "Hva er foretak? | Typer, registrering og regnskap"
+description: 'Hva er et foretak i norsk sammenheng? Se definisjon, ulike foretaksformer, registreringskrav i Brønnøysund, samt sentrale regler for regnskap, skatt og ansvar.'
 summary: 'Definisjon av foretak, oversikt over foretaksformer i Norge, registreringskrav, regnskaps- og skatteregler samt praktiske valgkriterier.'
 ---
 

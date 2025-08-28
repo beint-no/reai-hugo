@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Fordring?"
-seoTitle: "Hva er Fordring?"
-description: 'Fordring er et økonomisk krav på betaling, hvor én part (creditor) har levert varer, tjenester eller ytelser, og en annen part (debitor) skylder beta...'
+seoTitle: "Hva er fordring? | Definisjon, typer og regnskapsføring"
+description: 'Lær hva en fordring er i regnskap, forskjellen på kunde- og andre fordringer, måling, nedskriving og praktiske tips for oppfølging i norske virksomheter.'
 summary: 'Hva en fordring er, typer fordringer, måling og regnskapsføring, samt praktiske tips for oppfølging.'
 ---
 

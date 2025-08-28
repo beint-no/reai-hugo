@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er honorar (regnskap)?"
-seoTitle: "Hva er honorar (regnskap)?"
-description: 'Honorar i regnskapssammenheng refererer til [vederlag](/blogs/regnskap/hva-er-vederlag "Hva er Vederlag i Regnskap? Komplett Guide til Vederlag og Kompensas...'
+seoTitle: "Honorar | Definisjon, skatt og bokføring"
+description: 'Hva er honorar, når brukes honorar i stedet for lønn, og hvordan behandles utbetaling, skatt, rapportering og bokføring i norske virksomheter.'
 summary: 'Hva honorar er, når det brukes i stedet for lønn, og hvordan utbetalinger bokføres og innrapporteres.'
 ---
 

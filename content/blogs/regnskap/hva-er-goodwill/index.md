@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er goodwill?"
-seoTitle: "Hva er goodwill?"
-description: 'Goodwill er en immateriell eiendel som oppstår nå...'
+seoTitle: "Goodwill | Definisjon, beregning og regnskapsføring"
+description: 'Hva er goodwill i regnskap, når oppstår goodwill ved oppkjøp, hvordan beregnes den, og hvilke regler gjelder for måling, nedskrivning og regnskapsføring i Norge.'
 summary: 'Hva goodwill er, når den oppstår ved oppkjøp, samt regler for måling, nedskrivning og regnskapsføring.'
 ---
 

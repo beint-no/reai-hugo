@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er godtgjørelse (regnskap)?"
-seoTitle: "Hva er godtgjørelse (regnskap)?"
-description: 'Godtgjørelse i regnskapssammenheng refererer til refusjon eller kompensasjon som utbetales til ansatte, partnere eller andre for utgifter de har hatt på v...'
+seoTitle: "Godtgjørelse | Typer, skatt og bokføring"
+description: 'Hva er godtgjørelse i regnskap, vanlige typer som reise- og kjøregodtgjørelse, skattemessig behandling, satser og korrekt bokføring i norske virksomheter.'
 summary: 'Hva godtgjørelse er, vanlige typer utbetalinger og hvordan de behandles i lønn og regnskap.'
 ---
 

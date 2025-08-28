@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er et Holdingselskap?"
-seoTitle: "Hva er et Holdingselskap?"
-description: 'GTIN (Global Trade Item Number) og EAN (European Article Number) er globale standarder for produktidentifikasjon som spiller en kritisk rolle i moderne ...'
+seoTitle: "Holdingselskap | Fordeler, risiko og skatt"
+description: 'Hva er et holdingselskap, hvordan brukes det i norsk eierskapsstruktur, hvilke fordeler og risiko finnes, og hvilke skatteregler er relevante.'
 summary: 'Hva et holdingselskap er, fordeler, risiko og typiske strukturer for eierskap og skatteplanlegging.'
 ---
 
