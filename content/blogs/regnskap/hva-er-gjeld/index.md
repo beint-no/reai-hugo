@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Gjeld i Regnskap?"
 seoTitle: "Hva er Gjeld i Regnskap?"
-description: 'Gjeld er en av de mest sentrale komponentene i regnskapsføring og representerer virksomhetens forpliktelser overfor eksterne parter. Som en kritisk del av ...'
+description: 'Hva gjeld er i regnskap, hovedtyper kortsiktig og langsiktig gjeld, samt hvordan gjeld påvirker balansen, nøkkeltall og kontantstrøm.'
 summary: 'Hva gjeld er, typer kortsiktig og langsiktig gjeld, og hvordan gjeld påvirker balansen og nøkkeltall.'
 ---
 

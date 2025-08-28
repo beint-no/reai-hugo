@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering"
 seoTitle: "Hva er Finansregnskap? En Komplett Guide til Ekstern Finansiell Rapportering"
 summary: 'Hva er finansregnskap? Kort guide til formål, standarder (NRS/IFRS), rapporter, måling og analyse for ekstern rapportering.'
-description: 'Finansregnskap er den delen av regnskapet som fokuserer på ekstern rappor...'
+description: 'Hva finansregnskap er, formål og målgrupper, hvilke rapporter som inngår (resultat, balanse, kontantstrøm), og hvilke standarder som benyttes (NRS/IFRS).'
 ---
 
 **Finansregnskap** er den delen av [regnskapet](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? En Dybdeanalyse for Norge") som fokuserer på **ekstern rapportering** til interessenter utenfor bedriften. Det er et standardisert system for å kommunisere bedriftens økonomiske stilling, resultater og kontantstrømmer til investorer, kreditorer, myndigheter og andre eksterne parter. Finansregnskapet følger strenge regnskapsstandarder og lovkrav for å sikre sammenlignbarhet, pålitelighet og transparens.

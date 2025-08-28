@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er Feriepenger i Regnskap?"
 seoTitle: "Hva er Feriepenger i Regnskap?"
 summary: 'Hva er feriepenger? Kort oversikt over opptjening, prosenter, avsetning, utbetaling, skatt og regnskapsføring.'
-description: 'Feriepenger er lovpålagt kompensasjon til arbeidstakere for tapt arbeidsfortjeneste under ferie, regulert av [Ferieloven](/blogs/regnskap/ferieloven "Fer...'
+description: 'Hva er feriepenger? Kort oversikt over opptjening, prosenter, avsetning, utbetaling, skatt og regnskapsføring.'
 ---
 
 **Feriepenger** er lovpålagt kompensasjon til arbeidstakere for tapt arbeidsfortjeneste under ferie, regulert av **[Ferieloven](/blogs/regnskap/ferieloven "Ferieloven “ Lov om ferie av 29. april 1988 nr. 21")**. For bedrifter er korrekt **regnskapsføring av feriepenger** essensielt både for å overholde norsk arbeidsrett og for å sikre nøyaktig [regnskapsføring](/blogs/regnskap/hva-er-regnskap "Hva er Regnskap? Komplett Guide til Regnskapsføring og Bokføring") av [lønnskostnader](/blogs/regnskap/hva-er-driftskostnader "Hva er Driftskostnader? Typer, Beregning og Optimalisering") og avsetninger.

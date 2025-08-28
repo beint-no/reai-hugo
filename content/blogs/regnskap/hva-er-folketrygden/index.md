@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"
 seoTitle: "Hva er Folketrygden? Komplett Guide til Norges Nasjonale Trygdesystem"
-description: 'Folketrygden er Norges nasjonale trygdesystem som sikrer økonomisk trygghet for alle som bor eller arbeider i Norge. Dette omfattende systemet er en hjørn...'
+description: 'Hva folketrygden er, hvilke ytelser den omfatter, hvordan den finansieres og hvilke regnskapsmessige konsekvenser ordningen har for arbeidsgivere.'
 summary: 'Hva folketrygden er, hvilke ytelser den omfatter, hvordan den finansieres og hvilke regnskapsmessige konsekvenser ordningen har for arbeidsgivere.'
 ---
 
