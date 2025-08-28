@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er et styremøte? Guide til Møter, Protokoller og Prosesser"
-seoTitle: "Hva er et styremøte? Guide til Møter, Protokoller og Prosesser"
-description: 'Et styremøte er det formelle møtet der styrets medlemmer samles for å fatte beslutninger, følge opp selskapets strategi og sikre lovpålagt internkont...'
-summary: 'Hva er et styremøte? Oversikt over innkalling, gjennomføring, protokoll og beslutningsregler, samt beste praksis for effektivt styrearbeid.'
+seoTitle: "Styremøte | Innkalling, protokoll og beslutningsregler"
+description: "Hva er et styremøte, hvordan kalles det inn, hvordan gjennomføres det, og hva skal protokollen inneholde. Lær regler for beslutningsdyktighet og beste praksis."
+summary: "Hva er et styremøte? Oversikt over innkalling, gjennomføring, protokoll og beslutningsregler, samt beste praksis for effektivt styrearbeid."
 ---
 
 Et **styremøte** er det formelle møtet der styrets medlemmer samles for å fatte beslutninger, følge opp selskapets strategi og sikre lovpålagt **internkontroll** i et [styre](/blogs/regnskap/hva-er-styre "Hva er Styre? Ansvar, Rolle og Oppgaver i Aksjeselskap").

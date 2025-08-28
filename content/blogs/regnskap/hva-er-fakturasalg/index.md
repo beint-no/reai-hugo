@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er Fakturasalg? Komplett Guide til Kredittgivning og Debitorhåndtering"
-seoTitle: "Hva er Fakturasalg? Komplett Guide til Kredittgivning og Debitorhåndtering"
-summary: 'Hva er fakturasalg? Kort om prosess, risiko, prising og alternativer som factoring og invoice trading.'
-description: 'Fakturasalg er en regnskapsmetode hvor inntekter registreres på det tidspunktet en [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide...'
+seoTitle: "Fakturasalg | Kreditt, risiko og regnskapsføring"
+summary: "Hva er fakturasalg? Kort om prosess, risiko, prising og alternativer som factoring og invoice trading."
+description: "Fakturasalg er en regnskapsmetode der inntekter registreres når fakturaen utstedes. Lær prosess, risiko, prising, alternativer som factoring og invoice trading, og hvordan transaksjoner bokføres etter norske regler."
 ---
 
 **Fakturasalg** er en regnskapsmetode hvor inntekter registreres på det tidspunktet en [faktura](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") utstedes til kunden, uavhengig av når betalingen faktisk mottas. Dette er en fundamental del av [periodiseringsprinsippet](/blogs/regnskap/hva-er-bokforingsregler "Hva er Bokføringsregler? Komplett Guide til Norske Regnskapsregler") i regnskapet og påvirker direkte bedriftens [driftsresultat](/blogs/regnskap/hva-er-driftsresultat "Hva er Driftsresultat? Beregning, Analyse og Praktiske Eksempler") og [likviditetsstyring](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet").

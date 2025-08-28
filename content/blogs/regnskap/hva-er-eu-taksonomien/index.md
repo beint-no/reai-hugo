@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er EU-taksonomien? Klassifiseringssystem for Bærekraftige Aktiviteter"
-seoTitle: "Hva er EU-taksonomien? Klassifiseringssystem for Bærekraftige Aktiviteter"
-description: 'EU-taksonomien er EUs omfattende klassifiseringssystem som definerer hvilke økonomiske aktiviteter som regnes som miljømessig bærekraftige. Dette sys...'
-summary: 'Hva er EU-taksonomien? Kort forklaring av kriterier, miljømål og rapporteringskrav, og hvordan regelverket påvirker finansiering og regnskap.'
+seoTitle: "EU-taksonomien | Kriterier, miljømål og rapportering"
+description: "Hva er EU-taksonomien, hvilke kriterier og miljømål gjelder, og hvilke rapporteringskrav påvirker finansiering og regnskap i Norge."
+summary: "Hva er EU-taksonomien? Kort forklaring av kriterier, miljømål og rapporteringskrav, og hvordan regelverket påvirker finansiering og regnskap."
 ---
 
 **EU-taksonomien** er EUs omfattende **klassifiseringssystem** som definerer hvilke økonomiske aktiviteter som regnes som miljømessig bærekraftige. Dette systemet påvirker **rapportering, finansiering og investeringsbeslutninger** for norske bedrifter og er nært knyttet til [CSRD-rapportering](/blogs/regnskap/hva-er-csrd "CSRD - Corporate Sustainability Reporting Directive").

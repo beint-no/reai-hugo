@@ -1,7 +1,7 @@
 ---
 title: "Hva er eiendel?"
-seoTitle: "Hva er eiendel?"
-description: 'Eiendel er et grunnleggende begrep i regnskap som omfatter alle verdier og r...'
+seoTitle: "Eiendel | Definisjon, typer og verdsettelse"
+description: "Hva betyr eiendel i regnskap, hvilke typer finnes, og hvordan verdsettes og bokføres eiendeler etter norske regler. Lær om materielle, immaterielle og finansielle eiendeler."
 summary: "Eiendel forklart: definisjon, typer, verdsettelse og regnskapsføring."
 ---
 

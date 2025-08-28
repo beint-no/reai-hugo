@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er aktiva?"
-seoTitle: "Hva er aktiva?"
-description: 'Aktiva, også kjent som eiendeler, er alle økonomiske ress...'
+seoTitle: "Aktiva | Definisjon, typer og verdsettelse"
+description: "Aktiva er eiendeler virksomheten kontrollerer og som gir fremtidige økonomiske fordeler. Lær hovedtyper som anleggsmidler og omløpsmidler, hvordan de verdsettes og presenteres i balansen."
 summary: "Definisjon av aktiva og hovedtyper som anleggsmidler og omløpsmidler. Praktiske eksempler, verdsettelse og hvordan aktiva presenteres i balansen."
 ---
 

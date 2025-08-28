@@ -1,7 +1,7 @@
 ---
 title: "Hva er Aktivering i Regnskap?"
-seoTitle: "Hva er Aktivering i Regnskap?"
-description: 'Aktivering er regnskapsprosessen hvor kostnader som oppfyller visse kriterier balanseføres som eiendeler (aktiva) og avskrives over tid. Gjennom aktiveri...'
+seoTitle: "Aktivering i regnskap | Kriterier, bokføring og avskrivning"
+description: "Hva betyr aktivering i regnskap, når kan kostnader balanseføres som eiendeler, og hvordan bokføres og avskrives de etter norske regler. Lær kriterier, eksempler og skattemessige konsekvenser."
 summary: "Hva aktivering betyr i regnskap, kriteriene som må oppfylles og hvordan kostnader balanseføres og avskrives. Praktiske eksempler og skatteregler."
 ---
 

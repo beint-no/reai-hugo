@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er factoring?"
 seoTitle: "Hva er factoring?"
-description: 'Factoring er en spesialisert [finansieringstjeneste](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Fi...'
-summary: 'Hva er factoring? En kort forklaring av prosess, typer, kostnader, fordeler og regnskapsføring, samt når factoring passer for bedriften.'
+description: "Factoring er en finansieringstjeneste der bedrifter selger utestående fakturaer til et factoringselskap for rask kontantstrøm. Tjenesten gir umiddelbar utbetaling, reduserer risiko og kan forbedre likviditet, men medfører gebyrer og renter."
+summary: "Hva er factoring? En kort forklaring av prosess, typer, kostnader, fordeler og regnskapsføring, samt når factoring passer for bedriften."
 ---
 
 **Factoring** er en spesialisert [finansieringstjeneste](/blogs/regnskap/hva-er-finansiering "Hva er Finansiering? Komplett Guide til Bedriftsfinansiering og Finansieringsformer") hvor bedrifter selger sine utestående [fakturaer](/blogs/regnskap/hva-er-en-faktura "Hva er en Faktura? En Guide til Norske Fakturakrav") til et factoringselskap for å få umiddelbar kontantstrøm. I stedet for å vente 30-90 dager på at kundene betaler, kan bedriften få opptil 90% av fakturaverdien utbetalt samme dag. Dette er en populær løsning for bedrifter som driver med **[fakturasalg](/blogs/regnskap/hva-er-fakturasalg "Hva er Fakturasalg? Komplett Guide til Kredittgivning og Debitorhåndtering")** og trenger å forbedre sin [betalingsevne](/blogs/regnskap/hva-er-betalingsevne "Hva er Betalingsevne? Analyse av Likviditet og Finansiell Stabilitet") og [arbeidskapital](/blogs/regnskap/hva-er-arbeidskapital "Hva er Arbeidskapital? Beregning og Betydning for Bedriftens Likviditet").

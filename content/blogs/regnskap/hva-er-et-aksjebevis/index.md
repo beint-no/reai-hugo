@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er et Aksjebevis? En Komplett Guide"
-seoTitle: "Hva er et Aksjebevis? En Komplett Guide"
-description: 'Et aksjebevis er et fundamentalt og juridisk bindende dokument som beviser at en person eller et selskap (en aksjonær) eier en eller flere aksjer i et [aks...'
-summary: 'Hva er aksjebevis? En kort guide til innhold, juridisk betydning, utstedelse og praktisk bruk i norske aksjeselskaper.'
+seoTitle: "Aksjebevis | Hva det er, innhold og regler"
+description: "Et aksjebevis er et juridisk dokument som bekrefter eierskap til aksjer i et aksjeselskap. Lær hva aksjebeviset inneholder, hvordan det utstedes og brukes, og hvilke regler som gjelder etter norsk selskapsrett."
+summary: "Hva er aksjebevis? En kort guide til innhold, juridisk betydning, utstedelse og praktisk bruk i norske aksjeselskaper."
 ---
 
 Et **aksjebevis** er et fundamentalt og juridisk bindende dokument som beviser at en person eller et selskap (en aksjonær) eier en eller flere aksjer i et [aksjeselskap (AS)](/blogs/regnskap/hva-er-et-aksjeselskap "Hva er et aksjeselskap?"). Selv om mange prosesser har blitt digitale, er den juridiske rollen til aksjebeviset fortsatt sentral i norsk selskapsrett, regulert av [Aksjeloven](/blogs/regnskap/hva-er-aksjeloven "Utforsk Aksjeloven i detalj").

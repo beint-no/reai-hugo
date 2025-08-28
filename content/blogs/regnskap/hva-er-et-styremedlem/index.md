@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er et styremedlem? En Komplett Guide til Styremedlemmets Rolle og Ansvar"
-seoTitle: "Hva er et styremedlem? En Komplett Guide til Styremedlemmets Rolle og Ansvar"
-description: 'En styremedlem er et individ valgt eller utpekt til å sitte i selskapets styre, m...'
-summary: 'Hva gjør et styremedlem? Kort oversikt over rolle, ansvar, møter og krav i norske aksjeselskaper, med fokus på regnskap og selskapsstyring.'
+seoTitle: "Styremedlem | Rolle, ansvar og krav i aksjeselskaper"
+description: "Hva gjør et styremedlem i norske aksjeselskaper, hvilket ansvar og hvilke krav gjelder, og hvordan påvirker rollen regnskap, revisjon og selskapsstyring."
+summary: "Hva gjør et styremedlem? Kort oversikt over rolle, ansvar, møter og krav i norske aksjeselskaper, med fokus på regnskap og selskapsstyring."
 ---
 
 En **styremedlem** er et individ valgt eller utpekt til å sitte i selskapets [styre](/blogs/regnskap/hva-er-styre "Hva er styre? Styrets rolle og oppgaver"), med ansvar for overordnet styring og kontroll av virksomheten. Denne artikkelen gir en **komplett guide** til styremedlemmets rolle, ansvarsområder og betydning i norsk regnskaps- og selskapsstyring.

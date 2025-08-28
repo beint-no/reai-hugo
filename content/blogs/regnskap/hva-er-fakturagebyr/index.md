@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er fakturagebyr?"
-seoTitle: "Hva er fakturagebyr?"
+seoTitle: "Fakturagebyr | Regler, satser og regnskapsføring"
 summary: 'Hva er fakturagebyr? En kort forklaring av regler, satser, beregning, lovlighet og regnskapsføring med praktiske eksempler.'
-description: 'Et fakturagebyr er et tilleggsgebyr som en leverandør kan kreve fra kunden for å dekke administrative kostnader knyttet til fakturering og betalingsbehand...'
+description: "Hva er fakturagebyr, hvilke regler og satser gjelder, og hvordan beregnes og bokføres gebyrene korrekt i Norge."
 ---
 
 Et **fakturagebyr** er et tilleggsgebyr som en leverandør kan kreve fra kunden for å dekke administrative kostnader knyttet til fakturering og betalingsbehandling. Dette gebyret er særlig vanlig når kunder velger tradisjonelle betalingsmetoder som papirfaktura fremfor elektroniske alternativer som [eFaktura](/blogs/regnskap/hva-er-efaktura "Hva er eFaktura? Komplett Guide til Elektronisk Fakturering i Norge") eller [AvtaleGiro](/blogs/regnskap/hva-er-avtalegiro "Hva er AvtaleGiro? Komplett Guide til Automatisk Betaling").
