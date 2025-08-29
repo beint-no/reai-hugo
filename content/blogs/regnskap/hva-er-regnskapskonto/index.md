@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er en Regnskapskonto?"
 seoTitle: "Regnskapskonto | Definisjon og eksempler"
-description: 'En regnskapskonto er en unik konto i en kontoplan...'
+description: 'En regnskapskonto er en konto i kontoplanen som registrerer bestemte transaksjoner i regnskapet og identifiseres med kontonummer og beskrivende navn for sporing og rapportering.'
 summary: "En regnskapskonto er en konto i kontoplanen som registrerer spesifikke økonomiske transaksjoner i regnskapet, identifisert med kontonummer og beskrivelse."
 ---
 

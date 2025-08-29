@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er leverandør?"
 seoTitle: "Leverandør | Definisjon og rolle i regnskap"
-description: 'En leverandør er en person eller bedrift som leverer varer eller tjenester til din bedrift mot betaling. I regnskapssammenheng representerer leverandører ...'
+description: 'En leverandør er en person eller virksomhet som leverer varer eller tjenester mot betaling, og påvirker leverandørgjeld, betalingsbetingelser, kontantstrøm og internkontroll i regnskapet.'
 summary: "Hva en leverandør er, hvordan leverandørforhold påvirker regnskap, og beste praksis for leverandørstyring, betalingsbetingelser og internkontroll."
 ---
 

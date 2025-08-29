@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er Skatt?"
 seoTitle: "Skatt | Typer, satser og regnskapsmessig behandling"
-description: 'Skatt er en grunnleggende del av alle virksomheters økonomi og regnskap. Det er en obligatorisk avgift som pålegges av staten for å finansiere offentlige...'
+description: 'Skatt er obligatoriske avgifter til staten som finansierer offentlige tjenester, og for bedrifter omfatter det selskapsskatt, merverdiavgift og avgifter med regler for beregning, rapportering og planlegging.'
 summary: "Skatt er obligatoriske avgifter som finansierer offentlige tjenester; for bedrifter omfatter det selskapsskatt, MVA og avgifter med regler for beregning, rapportering og planlegging."
 ---
 
