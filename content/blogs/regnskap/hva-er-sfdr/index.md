@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er SFDR (Sustainable Finance Disclosure Regulation)?"
 seoTitle: "SFDR | Sustainable Finance Disclosure Regulation forklart"
-description: 'SFDR (Sustainable Finance Disclosure Regulation) er EUs omfattende regelverk for [bærekraftige investeringer](/blogs/regnskap/hva-er-barekraftige-investeri...'
+description: "SFDR (Sustainable Finance Disclosure Regulation) er EUs regelverk for bærekraftige investeringer og åpenhet i finans. Artikkelen forklarer krav, produktklassifisering (artikkel 6, 8, 9), PAI-indikatorer og hvordan regelverket påvirker rapportering og risikostyring."
 summary: "SFDR er EUs regelverk som krever åpenhet om bærekraftsrisiko og påvirkning i finans, med produktklassifiseringene artikkel 6, 8 og 9 og omfattende rapporteringskrav."
 ---
 
