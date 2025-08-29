@@ -1,8 +1,8 @@
----
+﻿---
 title: "Statistisk sentralbyrå (SSB)"
-seoTitle: "Statistisk sentralbyrå (SSB)"
-description: 'Statistisk sentralbyrå (SSB) er Norges offisielle leverandør av statistikk og en sentral aktør i utarbeidelse av data som påvirker økonomisk analys...'
-summary: SSB leverer offisiell statistikk som BNP og KPI, og dataene brukes i nasjonalregnskap, budsjettering og analyser som påvirker rapportering og beslutninger i norske virksomheter.
+seoTitle: "Statistisk sentralbyrå | Offisiell statistikk for norsk økonomi"
+description: "Statistisk sentralbyrå (SSB) er Norges offisielle leverandør av statistikk og en sentral aktør for data som påvirker økonomisk analyse, nasjonalregnskap og rapportering. Artikkelen dekker nøkkeloppgaver, datasett og betydning for regnskap."
+summary: "SSB leverer offisiell statistikk som BNP og KPI for analyser, budsjettering og rapportering."
 ---
 
 **Statistisk sentralbyrå (SSB)** er Norges **offisielle leverandør av statistikk** og en sentral aktør i utarbeidelse av data som påvirker økonomisk analyse, nasjonalregnskap og regnskapsføring i norske virksomheter.

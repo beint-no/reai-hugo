@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er en Tariffavtale?"
-seoTitle: "Hva er en Tariffavtale?"
-description: 'En tariffavtale er en skriftlig kollektiv avtale mellom arbeidstakerorganisasjoner og arbeidsgivere som regulerer lønn, arbeidstid, goder o...'
-summary: Skriftlig avtale mellom partene som regulerer lønn, arbeidstid og vilkår. Artikkelen dekker typer avtaler, forhandlingsprosess, regnskapsmessige konsekvenser og dokumentasjon.
+seoTitle: "Tariffavtale | Lønn, arbeidstid og vilkår i norsk arbeidsliv"
+description: "En tariffavtale er en skriftlig kollektiv avtale mellom arbeidstakerorganisasjoner og arbeidsgivere som regulerer lønn, arbeidstid, goder og arbeidsvilkår. Artikkelen dekker avtale-typer, forhandlingsprosess, regnskapsmessige konsekvenser og dokumentasjon."
+summary: "Skriftlig avtale som regulerer lønn, arbeidstid og arbeidsvilkår; prosess og regnskapseffekter."
 ---
 
 En **tariffavtale** er en skriftlig **kollektiv avtale** mellom arbeidstakerorganisasjoner og arbeidsgivere som regulerer **lønn**, **arbeidstid**, **goder** og andre **arbeidsvilkår** for en definert gruppe ansatte. Tariffavtaler er sentrale i det norske arbeidslivet for å sikre forutsigbarhet, likebehandling og *fredsplikt*.

@@ -1,8 +1,8 @@
----
+﻿---
 title: "SWOT-analyse"
-seoTitle: "SWOT-analyse"
-description: 'SWOT-analyse er en strukturert metode for å kartlegge og evaluere både interne og eksterne faktorer som påvirker en virksomhets suksess. Navnet er en for...'
-summary: En metode for å vurdere styrker, svakheter, muligheter og trusler. Artikkelen viser hvordan SWOT brukes i budsjett, risikoarbeid og strategi for bedre beslutninger.
+seoTitle: "SWOT-analyse | Guide til styrker, svakheter, muligheter og trusler"
+description: "SWOT-analyse er en strukturert metode for å kartlegge og evaluere interne og eksterne faktorer som påvirker virksomhetens suksess. Denne guiden forklarer styrker, svakheter, muligheter og trusler, samt hvordan SWOT brukes i budsjett, risikoarbeid og strategi."
+summary: "Metode for å vurdere styrker, svakheter, muligheter og trusler i virksomheten."
 ---
 
 **SWOT-analyse** er en strukturert metode for å kartlegge og evaluere både interne og eksterne faktorer som påvirker en virksomhets suksess. Navnet er en forkortelse for **Strengths**, **Weaknesses**, **Opportunities** og **Threats**.

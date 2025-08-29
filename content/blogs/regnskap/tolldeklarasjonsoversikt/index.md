@@ -1,8 +1,8 @@
----
+﻿---
 title: "Tolldeklarasjonsoversikt – Guide til Tolldeklarasjon i Norsk Regnskap"
-seoTitle: "Tolldeklarasjonsoversikt “ Guide til Tolldeklarasjon i Norsk Regnskap"
-description: 'Tolldeklarasjonsoversikt gir en grundig gjennomgang av tolldeklarasjon (ofte kalt *SAD-dokument*) og hvordan dette komplekse skjemaet brukes i norsk reg...'
-summary: Oversikt over tolldeklarasjon ved import og eksport. Artikkelen beskriver krav til data, TVINN-prosessen, digitale krav, avstemming og oppbevaring som regnskapsbilag.
+seoTitle: "Tolldeklarasjonsoversikt | Guide til tolldeklarasjon i norsk regnskap"
+description: "Tolldeklarasjonsoversikt forklarer tolldeklarasjon (SAD) ved import og eksport, hvilke opplysninger som kreves, TVINN-prosessen, digitale krav, avstemming og oppbevaring som regnskapsbilag."
+summary: "Oversikt over tolldeklarasjon ved import og eksport og krav i regnskap."
 ---
 
 **Tolldeklarasjonsoversikt** gir en grundig gjennomgang av **tolldeklarasjon** (ofte kalt *SAD-dokument*) og hvordan dette komplekse skjemaet brukes i norsk regnskap ved import og eksport. Vi dekker nøkkelopplysninger, fileringsprosess, digitale krav og beste praksis for norske bedrifter.

@@ -1,8 +1,8 @@
----
+﻿---
 title: "Tillitsvalgt – Rolle og ansvar i norsk regnskap"
-seoTitle: "Tillitsvalgt “ Rolle og ansvar i norsk regnskap"
-description: '!Tillitsvalgt'
-summary: Ansattrepresentant som ivaretar kollegers interesser overfor ledelsen. Artikkelen beskriver rettigheter, samarbeid med økonomi/regnskap og betydningen for etterlevelse.
+seoTitle: "Tillitsvalgt | Rolle og ansvar i norsk regnskap"
+description: "En tillitsvalgt representerer de ansatte overfor ledelsen og bidrar til gode arbeidsvilkår, dialog og etterlevelse. Artikkelen forklarer rettigheter, samarbeid med økonomi og hvordan rollen påvirker regnskap og internkontroll."
+summary: "Hva en tillitsvalgt gjør, rettigheter, ansvar og samspill med økonomi/regnskap."
 ---
 
 ![Tillitsvalgt](tillitsvalgt-image.svg)

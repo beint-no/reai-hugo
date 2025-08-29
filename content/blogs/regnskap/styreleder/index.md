@@ -1,8 +1,8 @@
----
+﻿---
 title: "Styreleder – Styrets Lederrolle i Norske Aksjeselskaper"
-seoTitle: "Styreleder “ Styrets Lederrolle i Norske Aksjeselskaper"
-description: '!Styreleder'
-summary: Lederen av styret har ansvar for å lede styrets arbeid, sikre god styring og samhandling med daglig leder og generalforsamlingen. Artikkelen forklarer valg, ansvar og krav.
+seoTitle: "Styreleder | Rolle, ansvar og krav i norske aksjeselskaper"
+description: "Styreleder er lederen av styret i et aksjeselskap med ansvar for å lede styrets arbeid, sikre god styring og samhandling med daglig leder og generalforsamlingen. Denne guiden forklarer valg, ansvar, lovkrav og sentrale oppgaver for styreleder i Norge."
+summary: "Hva en styreleder gjør, ansvar og krav, og hvordan rollen fungerer i norske aksjeselskaper."
 ---
 
 ![Styreleder](styreleder-image.svg)

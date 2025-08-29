@@ -1,8 +1,8 @@
----
+﻿---
 title: "Stiftelsesgebyr"
-seoTitle: "Stiftelsesgebyr"
-description: 'Stiftelsesgebyr er gebyret som påløper ved registrering av en ny enhet i [Brønnøysundregistrene](/blogs/regnskap/hva-er-bronnoeysundregistrene "Hva er B...'
-summary: Gebyret som betales ved registrering i Brønnøysundregistrene. Artikkelen forklarer satser, forskjell på digital og manuell innsending, og hvordan stiftelsesgebyr bokføres.
+seoTitle: "Stiftelsesgebyr | Gebyr ved registrering i Brønnøysundregistrene"
+description: "Stiftelsesgebyr er gebyret som betales ved registrering av ny enhet i Brønnøysundregistrene. Artikkelen forklarer satser, forskjellen på digital og manuell innsending, hva som gjelder for AS og stiftelser, samt hvordan stiftelsesgebyr bokføres."
+summary: "Gebyret ved registrering i Brønnøysundregistrene; satser, innsending og bokføring."
 ---
 
 **Stiftelsesgebyr** er gebyret som påløper ved registrering av en ny enhet i [Brønnøysundregistrene](/blogs/regnskap/hva-er-bronnoeysundregistrene "Hva er Brønnøysundregistrene? Org.nr, Registrering og Tjenester"), enten det gjelder en **stiftelse** eller et **aksjeselskap** (AS). Gebyret dekker behandling av stiftelsesdokumenter og registrering i relevante registre.
