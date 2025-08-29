@@ -1,7 +1,7 @@
 ﻿---
 title: "Mva-loven"
 seoTitle: "Mva-loven | Merverdiavgift regler og satser"
-description: 'Mva-loven (merverdiavgiftsloven) er det sentrale regelverket som regulerer merverdiavgift i Norge. Loven fastsetter reglene for når bedrifter må registrer...'
+description: 'Mva-loven (merverdiavgiftsloven) regulerer merverdiavgift i Norge med krav til registrering, satser, fradragsrett, rapportering og kontroll. Denne oversikten forklarer plikter og praktiske konsekvenser for virksomheters regnskap.'
 summary: "Mva‑loven regulerer merverdiavgift i Norge: registrering, satser, fradragsrett, rapportering og internkontroll. Artikkelen gir en praktisk oversikt for korrekt MVA‑håndtering i regnskapet."
 ---
 

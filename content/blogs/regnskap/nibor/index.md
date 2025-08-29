@@ -1,7 +1,7 @@
 ﻿---
 title: "NIBOR"
 seoTitle: "NIBOR | Norsk referanserente"
-description: 'NIBOR (Norwegian Interbank Offered Rate) er den viktigste referanserenten i det norske pengemarkedet. Den angir hva banker er villige til å låne ut ti...'
+description: 'NIBOR (Norwegian Interbank Offered Rate) er den viktigste referanserenten i det norske pengemarkedet og brukes i prising av lån, derivater og andre finansielle kontrakter. Her forklarer vi beregning, løpetider, bruksområder og forskjeller mot andre referanserenter.'
 summary: "Hva NIBOR er, hvordan den beregnes, bruksområder og forskjeller mot andre referanserenter."
 ---
 

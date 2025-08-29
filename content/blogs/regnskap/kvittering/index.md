@@ -1,7 +1,7 @@
 ﻿---
 title: "Hva er kvittering?"
 seoTitle: "Kvittering | Krav, innhold og bruk som bilag"
-description: 'En kvittering er et bevis på at en transaksjon eller betaling har funnet sted. Kvitteringer er en sentral del av dokumentasjonsplikten i norsk regnskap og ...'
+description: 'En kvittering er et bevis på at en betaling er gjennomført. Den dokumenterer transaksjonen for bokføring og oppfyller krav i bokføringsregelverket, med opplysninger som dato, beløp, MVA og partene i handelen.'
 summary: "Hva en kvittering er, hvilke krav som gjelder og hvordan den brukes som bilag i regnskap."
 ---
 
