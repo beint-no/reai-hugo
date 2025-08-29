@@ -1,8 +1,8 @@
----
+﻿---
 title: "Hva er Oppbudsbegjæring?"
-seoTitle: "Hva er Oppbudsbegjæring?"
-description: 'Oppbudsbegjæring er en juridisk prosess (også kalt *begjæring om oppbud*) der en virksomhet som ikke kan dekke sine forpliktelser, formelt ber om åpning...'
-summary: "Oppbudsbegjæring er prosessen der en insolvent virksomhet ber om åpning av konkurs. Her får du en kort forklaring av vilkår, steg i prosessen og regnskapsmessige konsekvenser, samt råd for å forebygge oppbud."
+seoTitle: "Oppbudsbegjæring | Prosess og regnskapskonsekvenser"
+description: 'Oppbudsbegjæring er en juridisk prosess der en insolvent virksomhet ber om åpning av konkurs. Artikkelen forklarer vilkår, steg i prosessen og regnskapsmessige konsekvenser.'
+summary: "Oppbudsbegjæring er prosessen der en insolvent virksomhet ber om åpning av konkurs. Kort forklaring av vilkår, steg og regnskapsmessige konsekvenser, samt råd for å forebygge oppbud."
 ---
 
 **Oppbudsbegjæring** er en juridisk prosess (også kalt *begjæring om oppbud*) der en virksomhet som ikke kan dekke sine forpliktelser, formelt ber om åpning av konkurs.

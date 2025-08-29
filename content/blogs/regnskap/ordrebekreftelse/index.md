@@ -1,7 +1,7 @@
----
+﻿---
 title: "Ordrebekreftelse"
-seoTitle: "Ordrebekreftelse"
-description: 'Ordrebekreftelse er en skriftlig bekreftelse fra selger til kjøper om mottatt bestilling og detaljer om varer eller tjenester som skal leveres. I norsk reg...'
+seoTitle: "Ordrebekreftelse | Innhold, prosess og beste praksis"
+description: 'Ordrebekreftelse er en skriftlig bekreftelse fra selger til kjøper om mottatt bestilling og detaljer om varer eller tjenester som skal leveres. Artikkelen forklarer innhold, prosess og beste praksis i norsk regnskap.'
 summary: "Ordrebekreftelse bekrefter kundens bestilling og danner grunnlag for fakturering og intern kontroll. Lær krav til innhold, prosessflyt og beste praksis for tydelig dokumentasjon i regnskap."
 ---
 

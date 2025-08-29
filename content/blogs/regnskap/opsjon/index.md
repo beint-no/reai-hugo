@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hva er en Opsjon?"
-seoTitle: "Hva er en Opsjon?"
-description: 'En opsjon er en kontrakt som gir innehaveren rett, men ikke plikt, til å *kjøpe* eller *selge* en underliggende eiendel til en forhåndsbestemt pris i...'
+seoTitle: "Opsjon | Typer, verdsettelse og regnskapsføring"
+description: 'En opsjon er en kontrakt som gir rett, men ikke plikt, til å kjøpe eller selge en underliggende eiendel til en avtalt pris. Artikkelen forklarer call og put, verdsettelse og regnskapsføring.'
 summary: "Opsjon er en avtale som gir rett, men ikke plikt, til å kjøpe eller selge en eiendel til en avtalt pris. Lær typer (call og put), verdsettelse og regnskapsmessig behandling etter IFRS."
 ---
 

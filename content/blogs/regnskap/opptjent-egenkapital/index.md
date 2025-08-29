@@ -1,8 +1,8 @@
----
+﻿---
 title: "Opptjent egenkapital"
-seoTitle: "Opptjent egenkapital"
-description: 'Opptjent egenkapital er den delen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap og Øko...'
-summary: "Opptjent egenkapital er tilbakeholdt overskudd i selskapet etter utbytte. Artikkelen forklarer hvordan den beregnes, hvorfor den er viktig for soliditet og finansiering, og relasjonen til egenkapital og utbytte."
+seoTitle: "Opptjent egenkapital | Definisjon og beregning"
+description: 'Opptjent egenkapital er den delen av egenkapitalen som består av tilbakeholdt overskudd etter utbytte. Artikkelen forklarer hvordan den beregnes og hvorfor den er viktig for soliditet og finansiering.'
+summary: "Opptjent egenkapital er tilbakeholdt overskudd i selskapet etter utbytte. Hvordan den beregnes, hvorfor den er viktig for soliditet og finansiering, og relasjonen til egenkapital og utbytte."
 ---
 
 **Opptjent egenkapital** er den delen av [egenkapital](/blogs/regnskap/hva-er-egenkapital "Hva er Egenkapital? Komplett Guide til Egenkapital i Regnskap og Økonomi") 
