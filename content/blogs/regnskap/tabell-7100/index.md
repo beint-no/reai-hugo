@@ -1,7 +1,7 @@
----
+﻿---
 title: "Tabell 7100"
-seoTitle: "Tabell 7100"
-description: 'Tabell 7100 er skattetabellen som brukes for pensjons- og trygdeutbetalinger. Denne tabellen gir arbeidsgivere og utbetalingsansvarlige en enkel ove...'
+seoTitle: "Tabell 7100 | Skattetabell for pensjon og trygd"
+description: 'Tabell 7100 er skattetabellen som brukes for pensjons- og trygdeutbetalinger. Denne guiden gir en oversikt over struktur, beregningseksempel, bruk i lønnssystemer og rapportering i a-meldingen.'
 summary: Skattetabell for pensjons- og trygdeutbetalinger. Artikkelen forklarer struktur, eksempel på beregning, bruk i lønnssystemer og rapportering i a-meldingen.
 ---
 

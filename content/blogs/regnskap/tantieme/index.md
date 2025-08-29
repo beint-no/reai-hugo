@@ -1,7 +1,7 @@
----
+﻿---
 title: "Tantieme i aksjeselskap"
-seoTitle: "Tantieme i aksjeselskap"
-description: '!Tantieme'
+seoTitle: "Tantieme i aksjeselskap | Beslutning, skatt og bokføring"
+description: 'Tantieme er en resultatbasert godtgjørelse til styre eller ledelse i et aksjeselskap. Denne artikkelen forklarer hvordan tantieme besluttes i generalforsamling, beregnes, beskattes og bokføres i norske AS.'
 summary: Variabel godtgjørelse til styre eller ledelse basert på resultat. Artikkelen forklarer beslutningsprosess, beregning, skatt og bokføring av tantieme i norske AS.
 ---
 
