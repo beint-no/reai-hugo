@@ -1,7 +1,7 @@
----
+﻿---
 title: "Regnskapsprogram"
-seoTitle: "Regnskapsprogram"
-description: 'Regnskapsprogram er hjertet i moderne økonomistyring for norske bedrifter. En alt-i-ett-løsning som integrerer funksjoner for bokføring, fakturering,...'
+seoTitle: "Regnskapsprogram | Funksjoner og valg av løsning"
+description: 'Regnskapsprogram er hjertet i moderne økonomistyring for norske bedrifter. En alt-i-ett-løsning som integrerer bokføring, fakturering, lønn, rapportering og integrasjoner. Denne guiden forklarer funksjoner, sammenligner løsninger og gir råd for å velge riktig system.'
 summary: Hva et regnskapsprogram er, viktige funksjoner og hvordan du velger riktig løsning for effektiv økonomistyring.
 ---
 

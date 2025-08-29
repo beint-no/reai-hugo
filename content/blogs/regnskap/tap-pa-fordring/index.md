@@ -1,7 +1,7 @@
----
+﻿---
 title: "Tap på fordring"
-seoTitle: "Tap på fordring"
-description: 'Tap på fordring er en regnskapsmessig og skattemessig realitet som alle bedrifter med kreditsalg må forholde seg til. Når kunder ikke kan eller vil betal...'
+seoTitle: "Tap på fordring | Regnskapsføring og skattefradrag"
+description: 'Tap på fordring er en regnskapsmessig og skattemessig realitet som alle bedrifter med kreditsalg må forholde seg til. Når kunder ikke kan eller vil betale sine kundefordringer, må tap behandles korrekt i regnskapet og for skatt. Denne guiden forklarer konstaterte og sannsynlige tap, dokumentasjonskrav, bokføring og fradragsregler.'
 summary: Hvordan håndtere konstaterte og sannsynlige tap på kundefordringer. Artikkelen dekker regnskapsføring, skattefradrag, dokumentasjonskrav og praktiske rutiner.
 ---
 
